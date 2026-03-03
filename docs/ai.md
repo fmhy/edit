@@ -41,7 +41,7 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[Arena](https://arena.ai/text/direct)**, [2](https://canaryarena.ai/text/direct) - Multiple Models / No Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai) / [OpenAI Bridge](https://github.com/CloudWaddie/yuppbridge)
 * [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 /  Multiple Models / No Sign-Up
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / Grok 4.1 Fast / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/aP5ZmqCK4g)
