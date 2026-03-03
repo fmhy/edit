@@ -327,6 +327,7 @@
 * [Cosmos](https://ryanis.cool/cosmos/) - Create Custom Keyboards
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [Key Test](https://en.key-test.ru/) - Keyboard Tester
+* [Keyboard Tester](https://keyboardtester.pro/) - Free Online Keyboard Testing Tool
 
 ***
 
