@@ -463,7 +463,11 @@
 
 ## ▷ Torrenting
 
-* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [UTOPEER](https://ygg.gratis/) - Video / Audio / ROMs / Books
+* [C411](https://c411.org/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [Torr9](https://torr9.xyz/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [G3MINI](https://gemini-tracker.org/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [La Cale](https://la-cale.space/) - Video / Audio / ROMs / Books / Requires Sign-Up
 * [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Requires Sign-Up
 
