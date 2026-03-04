@@ -463,7 +463,7 @@
 
 ## ▷ Torrenting
 
-* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [U2P](https://ygg.gratis/#/) - Video / Audio / Books / Games
 * [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Requires Sign-Up
 
