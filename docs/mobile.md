@@ -1127,7 +1127,7 @@
 * [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1* Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
   - *A12 and later devices are not supported on iOS 16.6 - 16.6.1, and A15-A16/M2 devices are not supported on iOS 16.5.1 - 16.6.1.
 * [palera1n](https://palera.in) - 15.0-18.x Semi-Tethered Jailbreak (A8-A11 & T2) / [Guide](https://ios.cfw.guide/installing-palera1n/) / [GitHub](https://github.com/palera1n/palera1n)
-* [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - iOS 16.5.1-16.7 RC & 17.0 | Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/) / [GitHub](https://verygenericname/nathanlr)
+* [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - iOS 16.5.1-16.7 RC & 17.0 | Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/) / [GitHub](https://github.com/verygenericname/nathanlr)
 * [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X)
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
 * [Odyssey](https://theodyssey.dev/) - 13.0-13.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-odyssey/)
