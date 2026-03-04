@@ -87,7 +87,6 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
             { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
             { text: '✴️ rss.fmhy', link: 'https://rss.fmhy.bid/' },
-            { text: '📋 paste.fmhy', link: 'https://paste.fmhy.bid/' },
             { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
             {
                 text: '💡 Site Hunting',

@@ -70,7 +70,7 @@
 * [Jamendo](https://www.jamendo.com/) or [Free Music Archive](https://freemusicarchive.org/) - Independent Music
 * [Keygen Music](https://keygenmusic.tk/) - Keygen Music
 * [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
-* [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
+* [Classical Music Only](https://classicalmusiconly.com/) or [Musopen](https://musopen.org/music/) - Classical Music
 * [New Age Music](https://newage.one/) - New Age Music
 
 ***
@@ -233,28 +233,14 @@
 * [Zeno.fm](https://zeno.fm/) - User-Stations
 * [Live365](https://live365.com/) - User-Stations
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
-* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
+* [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Tilderadio](https://tilderadio.org/) - Community Radio
 * [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio
-* [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
-* [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
-* [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
-* [Di.fm](https://www.di.fm/) - Electronic Radio
-* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
-* [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
-* [Openings Moe](https://openings.moe/) - Anime Theme Radio
-* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
-* [Pool Suite](https://poolsuite.net/) - Summer Radio
-* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
-* [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
-* [420.moe](https://420.moe/) - 420 Radio
-* [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
-* [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
-* [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
+* [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
 * [Campus FM](https://www.campus-fm.com/) - College Radio
 * [RadioSide](https://radioside.com/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
@@ -281,6 +267,25 @@
 * [ilovemusic](https://ilovemusic.de/) - German Radio Directory
 * [Tvradiotuner](https://tvradiotuner.com/) - TV & Radio Stream Aggregator
 * [VRadio](https://www.akouradio.com/) - Radio Directory / VRadio App
+
+***
+
+## ▷ Genre Specific Radio
+
+* [Pool Suite](https://poolsuite.net/) - Summer Radio
+* [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
+* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
+* [Openings Moe](https://openings.moe/) - Anime Theme Radio
+* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
+* [420.moe](https://420.moe/) - 420 Radio
+* [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
+* [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
+* [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
+* [Di.fm](https://www.di.fm/) - Electronic Radio
+* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
+* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
+* [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
+* [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 
 ***
 
@@ -367,6 +372,7 @@
 * [Spotisaver](https://spotisaver.net/) - Multi-Site
 * [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A / ALAC / Atmos
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
+* [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [cobalt](https://cobalt.tools/) - SoundCloud / 320kb / MP3 / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
@@ -376,20 +382,20 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-* ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch](https://github.com/fiso64/slsk-batchdl)
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** - Spotify / 160kb Free / 320kb Premium
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
-* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / SoundCloud / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
-* [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Module](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Module](https://github.com/OrfiDev/orpheusdl-qobuz)
+* [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
+* [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Mod](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [Archive](https://rentry.co/FMHYB64#archive) - Qobuz / Tidal / Soundcloud / FLAC
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
 * [Audion](https://audionplayer.com/) - Tidal / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / 128kb AAC
-* [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free 256 ACC Premium / FLAC / Use Firehawk52
+* [QBDLX](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / 256 ACC Premium / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / Free Only / [Discord](https://discord.com/invite/nwdT4MP)

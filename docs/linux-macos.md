@@ -640,7 +640,6 @@
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
-* [Mac Torrents](https://www.torrentmac.net/)
 * [MacKed](https://macked.app/)
 * [WebCatalog](https://webcatalog.io/) - Requires Sign-Up
 * [Macintosh Garden](https://macintoshgarden.org/) - Oldschool Software
