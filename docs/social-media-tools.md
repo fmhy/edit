@@ -4,7 +4,7 @@
 ***
 ***
 
-# ► Social Media Tools6
+# ► Social Media Tools
 
 * 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [⁠NerdVPN](https://nerdvpn.de/), [PrivacyRedirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps

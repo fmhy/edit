@@ -92,7 +92,7 @@
 * [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [⁠LocalAI](https://localai.io/) - Self-Hosted / [GitHub](https://github.com/mudler/LocalAI)
 * [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted
-* [⁠ch.at](https://ch.at/) - Self-Hosted / Minimal / Lightweight / [GitHub](https://github.com/Deep-ai-inc/ch.at)
+* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Self-Hosted / Minimal / Lightweight
 
 ***
 
