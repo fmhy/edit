@@ -36,6 +36,7 @@
     "nprogress": "^0.2.0",
     "pathe": "^2.0.3",
     "reka-ui": "^2.9.0",
+    "sharp": "^0.34.5",
     "unocss": "66.6.4",
     "vitepress": "^1.6.4",
     "vue": "^3.5.29",
@@ -43,7 +44,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20251202.0",
+    "@cloudflare/workers-types": "^4.20260305.1",
     "@ianvs/prettier-plugin-sort-imports": "^4.7.1",
     "@iconify-json/carbon": "^1.2.19",
     "@iconify-json/fluent": "^1.2.40",
@@ -73,7 +74,7 @@
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.4.0",
-    "wrangler": "^4.52.1"
+    "wrangler": "^4.70.0"
   },
   "pnpm": {
     "peerDependencyRules": {
