@@ -804,7 +804,26 @@
 
 ***
 
-## ▷ Documents / Articles
+## ▷ Manuals
+
+* 🌐 **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
+* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
+* [ManualLib](https://www.manuallib.com/) or [Manuals+](https://manuals.plus/) - Manual Search
+* [iFixIt](https://www.ifixit.com/) - Repair Manuals
+* [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
+* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
+* [Manned.org](https://manned.org/) - Operating System Manuals
+* [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
+* [AntiqueRadio](https://antiqueradio.org/) - Vintage Radio + TV Restoration Guides
+* [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
+* [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
+* [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
+* [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
+* [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
+
+***
+
+# ► Documents / Articles
 
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
@@ -866,25 +885,6 @@
 
 ***
 
-## ▷ Manuals
-
-* 🌐 **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
-* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
-* [ManualLib](https://www.manuallib.com/) or [Manuals+](https://manuals.plus/) - Manual Search
-* [iFixIt](https://www.ifixit.com/) - Repair Manuals
-* [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
-* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
-* [Manned.org](https://manned.org/) - Operating System Manuals
-* [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
-* [AntiqueRadio](https://antiqueradio.org/) - Vintage Radio + TV Restoration Guides
-* [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
-* [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
-* [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
-* [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
-* [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
-
-***
-
 # ► Tracking / Database
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
@@ -897,6 +897,7 @@
 * [⁠Midloop](https://midloop.net/) - Book Release Date Tracker / [Discord](https://discord.gg/AvUxR59Yv5)
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
+* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
 * [LibraryThing](https://www.talpasearch.com/) - Find Books by Describing Them
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
