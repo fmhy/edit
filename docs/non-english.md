@@ -769,7 +769,6 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [Kartoons](https://kartoons.fun/) - Anime / Cartoons
-* [⁠AnimeDekho](https://animedekho.in/home) - Anime / Cartoons
 * [PirateXPlay](http://piratexplay.cc/) - Cartoons / Anime
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [desidubanime](https://www.desidubanime.me/) - Anime
