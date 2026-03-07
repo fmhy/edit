@@ -74,6 +74,16 @@
 
 ***
 
+## ▷ YouTube Music Tools
+
+* [Themesong](https://themesong.app/) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
+* [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter
+* [YouLy+](https://github.com/ibratabian17/YouLyPlus) or [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) - Improved Lyrics
+* [Spot Transfer](https://spot-transfer.vercel.app/), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic), [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
+* [YT Upload Clear](https://rentry.co/tv4uo) - Clear Uploaded Songs
+
+***
+
 # ► Specialty Streaming
 
 * ⭐ **[UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php)** - Cylinder Audio Archive
@@ -179,16 +189,6 @@
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [You are Listening To LA](https://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
 * [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
-
-***
-
-## ▷ YouTube Music Tools
-
-* [Themesong](https://themesong.app/) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
-* [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter
-* [YouLy+](https://github.com/ibratabian17/YouLyPlus) or [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) - Improved Lyrics
-* [Spot Transfer](https://spot-transfer.vercel.app/), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic), [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
-* [YT Upload Clear](https://rentry.co/tv4uo) - Clear Uploaded Songs
 
 ***
 
