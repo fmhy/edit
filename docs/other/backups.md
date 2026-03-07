@@ -17,7 +17,7 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
 
 * [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
-* [Retro FMHY](https://retrofmhy.pages.dev/) - Alternative Style
+* [Retro FMHY](https://retrofmhy.pages.dev/) - Alternative Style / [Improved Search](https://greasyfork.org/en/scripts/568232)
 * [fmhy.bid](https://fmhy.bid/)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)

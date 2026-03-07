@@ -531,6 +531,7 @@
 * [freemagazines](https://freemagazines.top/) - VK
 * [FreeMagazinePDF](https://freemagazinespdf.com/) - VK
 * [⁠EBooksYard](https://ebooksyard.com/) - VK
+* [4kw Magazines](https://4kw.in/) - VK
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
