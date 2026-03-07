@@ -495,7 +495,7 @@
 * [l1l1](https://l1l1.link/), [2](https://vuen.link/)
 * [⁠FCTV33](https://www.fctv33.lat/), [2](https://may01gu.risenow3mtjt0k.sbs/), [3](https://emmau680.driveraudiencej2zeu49.sbs/), [4](https://www.rbsports77.mom/) / [Telegram](https://t.me/madplay77_b)
 * [MrGamingStreams](http://mrgamingstreams.org/) / [Status](https://www.mrgbackup.link/) / [Discord](https://discord.gg/BCtqVn5JKR)
-* [SportOnTV Matches](https://matches0.netlify.app/)
+* [SportOnTV Matches](https://sotma.netlify.app/)
 * [Sports Plus](https://en12.sportplus.live/), [2](https://en84.sportplus.live/)
 * [CrackStreams.blog](https://crackstreams.blog/)
 * [TimStream](https://timstreams.fit/) / [Mirrors](https://rentry.co/tims-mirors) / [Discord](https://discord.gg/p3aJ7rJGrz)
