@@ -28,9 +28,10 @@
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
-* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Discord](https://discord.gg/TBs8Te5nwn) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md) 
+* [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Discord](https://discord.gg/TBs8Te5nwn) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md)
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
+* [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/cgames)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
@@ -53,10 +54,10 @@
 
 ***
 
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/)
 * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYB64#gnarly)** - Download / PW: `gnarly`
+* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
@@ -306,7 +307,7 @@
 * 🌐 **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs
 * ⭐ **[Myrient](https://rentry.co/FMHYB64#myrient)** - ROMs / [Archive Project](https://myrient.org/), [2](https://minerva-archive.org/) / [Telegram](https://t.me/s/myrient) / [Discord](https://discord.gg/4kVP9AuQ24)
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
-* ⭐ **[Vimms Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
+* ⭐ **[Vimm's Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
 * ⭐ **[No-Intro](https://rentry.co/FMHYB64#no-intro)** - ROMs / [Discord](https://discord.gg/dvk6W6vZmp)
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
