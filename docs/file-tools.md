@@ -323,6 +323,7 @@
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
+* [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [⁠UC.Files](https://files.union-crax.xyz/) - 15GB / Forever
@@ -331,7 +332,6 @@
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
-* [FileQ](https://fileq.net/) - Unlimited / 5GB / 3 Days After Last Download
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
@@ -358,7 +358,6 @@
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Requires Sign-Up
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
-* [imgur.gg](https://temp.imgur.gg/) - 5GB / Forever / Requires Sign-Up
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days

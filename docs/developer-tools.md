@@ -373,8 +373,8 @@
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
-* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
-* [Heynote](https://heynote.com/) - Code Editor / Notepad
+* ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [LiveCodes](https://livecodes.io/) / [GitHub](https://github.com/live-codes/livecodes), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
+6* [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
 * [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
@@ -547,7 +547,7 @@
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro Coding AI / 11 Daily / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI /No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [Yupp.ai](https://yupp.ai/) - Multi-LLM Coding AI / Google Login Required / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multi-LLM Coding AI / Google Login Required / [Bridge](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
@@ -735,7 +735,6 @@
 * ⭐ **[PlayWright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://extension.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [Flounder](https://flounder.online/) - Website Building Discussion
-* [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [⁠Tech Playground](https://tech-playground.com/) - Playground for Server-Side Tech 
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)

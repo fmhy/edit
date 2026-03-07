@@ -746,6 +746,7 @@
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
 * ⭐ **[⁠Animelok](https://animelok.site/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
+* ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/),  - Anime
 * ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
@@ -769,8 +770,6 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [Kartoons](https://kartoons.fun/) - Anime / Cartoons
-* [⁠AnimeDekho](https://animedekho.in/home) - Anime / Cartoons
-* [PirateXPlay](http://piratexplay.cc/) - Cartoons / Anime
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [desidubanime](https://www.desidubanime.me/) - Anime
 * [mxplayer](https://www.mxplayer.in) - Movies

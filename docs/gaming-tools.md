@@ -905,6 +905,7 @@
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [⁠GTAForums](https://gtaforums.com/), [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
+* 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA

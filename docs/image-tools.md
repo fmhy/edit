@@ -477,7 +477,7 @@
 * [⁠Zerochan](https://www.zerochan.net/) - Japanese Fanart / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
 * [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
-* [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) s- 3D Illustrations
+* [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People

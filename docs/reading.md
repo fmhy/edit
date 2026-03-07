@@ -115,7 +115,7 @@
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
-* [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
+* [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows, Mac, Linux, Android / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS

@@ -42,7 +42,7 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[Arena](https://arena.ai/text/direct)**, [2](https://canaryarena.ai/text/direct) - Multiple Models / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Bride](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Bridge](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 /  Multiple Models / No Sign-Up
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
@@ -186,7 +186,6 @@
 * ⭐ **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
 * ⭐ **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
-* [Perchance](https://perchance.org/generators) - Simple AI Builders / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory
@@ -279,7 +278,6 @@
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Requires Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Google Whisk](https://labs.google/fx/en/tools/whisk) - Veo 3 / 10 Monthly
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 120 Credits Daily
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 (5 Monthly) / [Discord](https://discord.com/invite/googlelabs)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
@@ -297,26 +295,25 @@
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)**, [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana 2 (20 per day) / Google Login / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** or [Whisk](https://labs.google/fx/en/tools/whisk) - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[AI Studio](https://aistudio.google.com/generate-image)** - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Khoj](https://app.khoj.dev/?v=app)** - Nano Banana / Unlimited / [Discord](https://discord.gg/aP5ZmqCK4g)
-* ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / DALL-E 3 / Editing / Generating / Sign-Up 
+* ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up
 * ⭐ **[⁠Hunyuan Image Generation](https://hunyuan.tencent.com/visual)** - Generating / Editing / 3D / Sign-Up / Unlimited
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
-* [Yupp.ai](https://yupp.ai/) - Multiple Generators / Google Login / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multiple Generators / Google Login / [Bridge](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠GeminiGenAI](https://geminigen.ai/app/imagen) - Nano Banana Pro /  Sign-up / Reset Limits w/ Temp Mail / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
 * [Grok](https://grok.com/) - Traffic-Based / Editing / Generating / Sign-Up / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign Up / [Discord](https://discord.gg/W4Svx2QhHb)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
-* [ImageFX](https://labs.google/fx/tools/image-fx) - Imagen 4 / Unlimited / Region-Based / Sign-Up / [Discord](https://discord.com/invite/googlelabs)
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / GPT Image 1 / 10 Daily / Sign-Up / [Discord](https://discord.gg/v6KzUbPeKh)
 * [⁠ZonerAI](https://zonerai.com/en/image-editor) - Flux Schnell / Unlimited / Editing / 4K / Sign-Up
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign Up
 * [⁠FlatAI](https://flatai.org/ai-image-generator-free-no-signup/) or [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) - Z-Image Turbo
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing

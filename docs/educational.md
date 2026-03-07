@@ -1038,11 +1038,11 @@
 
 * ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
 * [ASL Dictionary](https://www.signasl.org/), [Anysign](https://www.anysign.app/en/dictionary), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
+* [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Fingerspelling in ASL or BSL
 * [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/) - ASL / LSF / Click Dictionary
 * [SignFlow](https://signflow.website/) - Interactive Sign Dictionary / Learning
 * [⁠Helping Hands](https://helpinghands.gg/) - VR-Based Sign Language Practice / Classes / [Discord](https://discord.com/invite/helpinghands)
-* [BSL Dictionary](https://www.signbsl.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
 * [Signbank](https://auslan.org.au/) - Australian Sign Language Dictionary
 * [NZSL](https://nzsl.nz/) - New Zealand Sign Language Dictionary
 * [SSC](https://www.ssc.education.ed.ac.uk/BSL/) - BSL Academic Term Dictionary
