@@ -154,7 +154,7 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
-* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Psychonautics Wiki
+* [PsychonautWiki](https://psy.st/wiki/Main_Page) - Psychonautics Wiki
 * [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
 
 ***
@@ -1610,6 +1610,7 @@
 ## ▷ Dictionaries / Thesaurus
 
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary / Thesaurus Search
+* ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Dictionary
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
@@ -1618,7 +1619,6 @@
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
-* [Wiktionary](https://www.wiktionary.org/) - Dictionary
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [Historical Thesaurus of English](https://ht.ac.uk/) - Historical Thesaurus
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary

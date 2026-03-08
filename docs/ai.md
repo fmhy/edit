@@ -46,7 +46,7 @@
 * [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 /  Multiple Models / No Sign-Up
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
-* [Pollinations Chat](https://enter.pollinations.ai/) - GLM-5 / Kimi K2.5 / Claude Haiku 4.5
+* [Pollinations Chat](https://pollinations-chat.vercel.app/) - GLM-5 / Kimi K2.5 / Claude Haiku 4.5
 * [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / Grok 4.1 Fast / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/aP5ZmqCK4g)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini 3 Flash / Multiple Chatbots / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5 / Kimi K2.5 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
@@ -61,10 +61,10 @@
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=search)**, [2](https://canaryarena.ai/search/direct) - AI Search Engine / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[NotebookLM](https://notebooklm.google/)** - Document Chatbot / Note-Taking / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine
 * [⁠Ask Brave](https://search.brave.com/ask) - AI Search Engine
+* [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [MiroThinker](https://dr.miromind.ai/) - Research Chatbot / [Discord](https://discord.gg/GPqEnkzQZd) / [GitHub](https://github.com/MiroMindAI)
@@ -309,13 +309,13 @@
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign Up / [Discord](https://discord.gg/W4Svx2QhHb)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
-* [Pollinations Chat](https://enter.pollinations.ai/) - Grok Imagine / Flux-2 Dev
+* [Pollinations Chat](https://pollinations-chat.vercel.app/) - Grok Imagine / Flux-2 Dev
+* [⁠CimoGeneration](https://cimo.ezif.in/#create) - GPT Image 1.5 / 5 Hourly /  GPT Image 1 / 10 Hourly
 * [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
 * [AIGazou](https://muryou-aigazou.com/) - Flux / Z-Image Turbo / Unlimited / GPT Image 1 / 10 Daily / Sign-Up / [Discord](https://discord.gg/v6KzUbPeKh)
 * [⁠ZonerAI](https://zonerai.com/en/image-editor) - Flux Schnell / Unlimited / Editing / 4K / Sign-Up
 * [Meta AI](https://www.meta.ai/) - Unlimited / Sign-Up
-* [⁠CimoGeneration](https://cimo.ezif.in/#create) - 10 Hourly / GPT 1.5 / DALL-E 3
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [⁠FlatAI](https://flatai.org/ai-image-generator-free-no-signup/) or [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) - Z-Image Turbo
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up

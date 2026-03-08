@@ -377,7 +377,7 @@
 
 # ► VPN
 
-* **Note** - Outside of WARP it's generally best to use a paid VPN, especially if you have privacy or speed in mind. Free VPNs are mostly useful for things like unblocking websites. Remember to [bind](https://wispydocs.pages.dev/torrenting/) your VPN to your client to avoid ISP letters.
+* **Note** - Outside of Cloudflare One it's generally best to use a paid VPN, especially if you have privacy or speed in mind. Free VPNs are mostly useful for things like unblocking websites. Remember to [bind](https://wispydocs.pages.dev/torrenting/) your VPN to your client to avoid ISP letters.
 
 ***
 
