@@ -82,14 +82,6 @@
 
 ***
 
-## DNS Filters
-
-* ⭐ **[OISD](https://oisd.nl/)**
-
-[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [1Hosts](https://o0.pages.dev/)
-
-***
-
 ## Dynamic DNS Services / Subdomains
 
 * ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**

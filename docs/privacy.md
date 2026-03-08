@@ -48,7 +48,6 @@
 ***
 
 * 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
-* ↪️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole)
 * ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Android Server](https://github.com/DesktopECHO/Pi-hole-for-Android) (root)
@@ -69,6 +68,19 @@
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
+
+***
+
+## ▷ DNS Filters
+
+* ⭐ **[OISD](https://oisd.nl/)**
+* [hBlock](https://github.com/hectorm/hblock)
+* [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
+* [Spamhaus](https://www.spamhaus.org/blocklists/)
+* [black-mirror](https://github.com/T145/black-mirror)
+* [Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
+* [neodevhost](https://github.com/neodevpro/neodevhost)
+* [1Hosts](https://o0.pages.dev/)
 
 ***
 
