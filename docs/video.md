@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check our [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see scores for each site, as well as their respective pros & cons, and what their ads are like. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking), and use [throwaway emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [aliases](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for sites. Note that some sites allow you to disable ads in settings, which we note on the grading page. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+* **Note** - Check our [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see scores for each site, as well as their respective pros & cons, and what their ads are like. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking), and use [throwaway emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [aliases](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) when signing up for sites. Some sites allow you to disable ads in their settings, we note which on each sites grading. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
 
 ***
 

@@ -1349,7 +1349,7 @@
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [ThisPersonNotExist](https://thispersonnotexist.org/), [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
-* [⁠The Gallery of Babel](https://babel.alfaoz.dev/) - Image Version of Library of Babel
+* [⁠The Gallery of Babel](https://babel.alfaoz.dev/) or [babel image archives](https://babelia.libraryofbabel.info/) - Image Version of Library of Babel
 * [Different Strokes](https://scottts.itch.io/different-strokes) - Online User-Made Art Gallery
 * [Creative Uncut](https://www.creativeuncut.com/) - Video Game Art
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
