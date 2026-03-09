@@ -73,13 +73,13 @@
 ***
 
 * ⭐ **[Flixer](https://flixer.su)** / [Discord](https://discord.com/invite/Z9Hjeqe4Fr), [Hexa](https://hexa.su/) / [Discord](https://discord.com/invite/yvwWjqvzjE) or [Vidora](https://watch.vidora.su/) - Movies / TV / Anime / Auto-Next
+* ⭐ **[FlyX](https://tv.vynx.cc/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Eq2P3bRpyb) / [GitHub](https://github.com/Vynx-Velvet/Flyx-main)
 * ⭐ **[bCine](https://bcine.app/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[Cinezo](https://www.cinezo.net/)** or [Flikhub](https://www.flikhub.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Gx27YMK73d)
 * ⭐ **[Filmex](https://filmex.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/WWrWnG8qmh)
 * ⭐ **[Vidbox](https://vidbox.cc/)**, [2](https://cinehd.cc/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * ⭐ **[Willow](https://willow.arlen.icu/)**, [2](https://salix.pages.dev/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk) / [Discord](https://discord.com/invite/gmXvwcmxWR)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
-* ⭐ **[FlyX](https://tv.vynx.cc/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/Eq2P3bRpyb) / [GitHub](https://github.com/Vynx-Velvet/Flyx-main)
 * ⭐ **[Poprink](https://www.popr.ink/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.com/invite/Wvxr9YsHHf)
 * ⭐ **[SanuFlix](https://sanuflix-web-v2.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[amri.gg](https://amri.gg/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/xNYQ2Yha)

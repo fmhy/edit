@@ -875,7 +875,6 @@
 * [Symphony](https://zyrouge.github.io/symphony/) / [GitHub](https://github.com/zyrouge/symphony)
 * [Auxio](https://github.com/OxygenCobalt/Auxio/)
 * [Retro Music Player](https://retromusic.app/) / [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-* [mpv-android](https://github.com/mpv-android/mpv-android)
 * [BoomingMusic](https://github.com/mardous/BoomingMusic)
 * [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx)
 * [OuterTune](https://github.com/OuterTune/OuterTune)
