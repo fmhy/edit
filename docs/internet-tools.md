@@ -867,7 +867,7 @@
 
 * 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
 * ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
-* [SpiderSuite](https://spidersuite.github.io/SSuite/) - Advanced Web Crawler / [GitHub](https://github.com/3nock/SpiderSuite)
+* [SpiderSuite](https://spidersuite.io/) - Advanced Web Crawler / [GitHub](https://github.com/3nock/SpiderSuite)
 * [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler / [GitHub](https://github.com/internetarchive/heritrix3)
 * [80legs](https://80legs.com/) - Cloud-Based
 * [Crawly](https://crawly.diffbot.com/) - Online Scraper
