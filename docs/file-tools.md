@@ -70,7 +70,7 @@
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, Mac, Linux / [GitHub](https://github.com/jsummers/deark)
-* [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web
+* [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [Github](https://github.com/AyrA/text2img)
 * [Shutter Encoder](https://www.shutterencoder.com/) - File Converter / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB / Web
 * [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter / Web
