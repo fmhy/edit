@@ -829,6 +829,7 @@
 
 ## ▷ Reading / Membaca
 
+* [Pustaka Langka](https://langka.logosid.app/) - Rare Book Collection
 * [Komiku](https://komiku.id/) - Manga
 * [Komikcast](https://komikcast.com) - Manga
 * [maid.my](https://www.maid.my.id/) - Manga
