@@ -1,21 +1,17 @@
-FROM node:21-slim AS base
+FROM node:25.7-alpine AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
-RUN corepack enable
-COPY . /app
+RUN npm install -g pnpm@10.30.3
 WORKDIR /app
-
-FROM base AS prod-deps
-RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
+COPY package.json pnpm-lock.yaml ./
 
 FROM base AS build
-RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
+RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile --config.autoInstallPeers=false
+COPY . .
 RUN pnpm run docs:build
 
-FROM base
-COPY --from=prod-deps /app/node_modules /app/node_modules
-COPY --from=build /app/docs/.vitepress/dist /app/docs/.vitepress/dist
-
-EXPOSE 4173
-
-CMD ["pnpm", "docs:preview"]
+FROM nginx:alpine-slim
+COPY --from=build /app/docs/.vitepress/dist /usr/share/nginx/html
+COPY .github/assets/nginx.conf /etc/nginx/conf.d/default.conf
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]

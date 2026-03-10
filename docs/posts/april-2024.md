@@ -12,7 +12,7 @@ footer: true
 <Post authors="nbats"/>
 
 :::info
-These update threads only contains major updates. If you're interested
+These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
@@ -58,7 +58,7 @@ in seeing all minor changes you can follow our
 - Our [FMHY Social](https://social.fmhy.net/@fmhy) (fediverse instance /
   account) is now live.
 
-- Removed wiki from saidit. Its our least used version so we're not sure its
+- Removed wiki from Saidit. It's our least used version so we're not sure it's
   worth the effort. If enough people want it back we'll reconsider.
 
 ---
@@ -84,7 +84,7 @@ in seeing all minor changes you can follow our
   Unlimited DeepL.
 
 - Starred [Claude](https://fmhy.net/ai#online-chatbots) in Online Chatbots.
-  Works better than things like gemini.
+  Works better than things like Gemini.
 
 - Starred [Soft98](https://fmhy.net/downloading#software-sites) in
   Software Sites. Big library, single click DDL.
@@ -93,7 +93,7 @@ in seeing all minor changes you can follow our
   Tools. Modern Jellyfin client.
 
 - Starred [UniGetUI](https://fmhy.net/system-tools#package-managers) in Package
-  Managers. Nice user-interface for Winget.
+  Managers. Nice user interface for Winget.
 
 - Starred [Zipline](https://fmhy.net/image-tools#screenshot-tools) in Screenshot
   Tools. Self-hosted, feature-rich ShareX server.
@@ -109,10 +109,10 @@ in seeing all minor changes you can follow our
 
 ### Things Removed
 
-- Removed free-mp3-download as they've shutdown.
+- Removed free-mp3-download as they've shut down.
 
 - Removed HolyUnblocker as they've
-  [shutdown](https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original).
+  [shut down](https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=readme-ov-file#important-message-original).
 
 - Removed WSA as support for it has been [dropped](https://ibb.co/zxB565S).
 

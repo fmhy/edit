@@ -19,7 +19,7 @@ Here you'll find some general guidelines for those who would like to start contr
 
 - **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/privacy#vpn) and [Debrid](/downloading#debrid-leeches).
 - **🕹️ Emulators** - Already listed on [Index Sites](/gaming#emulators).
-- **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept [indexes](/internet-tools#browser-tools), privacy-focused, and good mobile ones.
+- **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept indexes, privacy-focused, and good mobile ones.
 - **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloading#debrid-leeches), don't submit these.
 - **🐧 Linux Distros** - Already listed on [Index Sites](/linux-macos#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
@@ -33,6 +33,7 @@ Here you'll find some general guidelines for those who would like to start contr
 For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
+- Don't spam a bunch of un-tested links at once. Try to only send things you genuinely feel might be worth adding.
 - Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Note that we have to check sites ourselves, so using a issue, rather than pull request is easier.
 - You can optionally include socials, tools, or any other additional info alongside the entry.
 

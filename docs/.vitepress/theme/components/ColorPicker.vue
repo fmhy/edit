@@ -117,8 +117,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: `-webkit-linear-gradient(120deg, ${colorSet[400]} 30%, ${colorSet[500]})`,
-          heroImageBackground: `linear-gradient(-45deg, ${colorSet[400]} 50%, ${colorSet[500]} 50%)`,
+          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       },
@@ -182,8 +182,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: `-webkit-linear-gradient(120deg, ${colorSet[400]} 30%, ${colorSet[500]})`,
-          heroImageBackground: `linear-gradient(-45deg, ${colorSet[400]} 50%, ${colorSet[500]} 50%)`,
+          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       }
@@ -196,20 +196,23 @@ const normalizeColorName = (colorName: string) =>
   colorName.slice(1).replaceAll(/-/g, ' ')
 
 onMounted(async () => {
-  // Don't auto-apply color theme - only apply when user explicitly selects
+  // apply saved theme on load
+  if (selectedColor.value) {
+    const theme = generateThemeFromColor(selectedColor.value)
+    themeRegistry[`color-${selectedColor.value}`] = theme
+    await nextTick()
+    setTheme(`color-${selectedColor.value}`)
+  }
   // Wait for next tick to ensure theme handler is fully initialized
   await nextTick()
 })
 
 watch(selectedColor, async (color) => {
+  if (!color) return;
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
-  // Explicitly set the theme to override any previous selection
   await nextTick()
-  console.log('Setting theme to:', `color-${color}`)
-  console.log('Current themeName:', themeName ? themeName.value : undefined, 'mode:', mode ? (mode as any).value : undefined)
   setTheme(`color-${color}`)
-  console.log('After setTheme, themeName:', themeName ? themeName.value : undefined)
 })
 
 const toggleAmoled = () => {
@@ -225,7 +228,7 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            selectedColor === color
+            (themeName && themeName.value === `color-${color}`)
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
@@ -248,7 +251,7 @@ const toggleAmoled = () => {
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="setTheme(t)"
+          @click="selectedColor = '' as ColorNames; setTheme(t)"
           :title="themeRegistry[t].displayName"
         >
           <span

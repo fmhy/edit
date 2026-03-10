@@ -4,6 +4,7 @@ import ColorPicker from './ColorPicker.vue'
 import ThemeSelector from './ThemeSelector.vue'
 import InputField from './InputField.vue'
 import ToggleStarred from './ToggleStarred.vue'
+import ToggleIndexes from './ToggleIndexes.vue'
 </script>
 
 <template>
@@ -24,6 +25,11 @@ import ToggleStarred from './ToggleStarred.vue'
     <InputField id="toggle-starred" label="Toggle Starred">
       <template #display>
         <ToggleStarred />
+      </template>
+    </InputField>
+    <InputField id="toggle-indexes" label="Toggle Indexes">
+      <template #display>
+        <ToggleIndexes />
       </template>
     </InputField>
 

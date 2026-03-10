@@ -11,10 +11,12 @@ footer: true
 
 <Post authors="nbats"/>
 
-:::info These update threads only contains major updates. If you're interested
+:::info 
+These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
-[Updates Channel](https://redd.it/17f8msf) in Discord. :::
+[Updates Channel](https://redd.it/17f8msf) in Discord.
+:::
 
 ### Wiki Updates
 
@@ -22,14 +24,14 @@ in seeing all minor changes you can follow our
   [Courses](https://cse.google.com/cse?cx=f7a118c70d0804fc4) and
   [Fonts](https://cse.google.com/cse?cx=82154ebab193e493d).
 
-- Added section for
+- Added a section for
   [Productivity Tools](https://fmhy.net/misc#productivity-tools) in Useful
   Sites.
 
-- Added section for [File Recovery](https://fmhy.net/file-tools#file-recovery)
+- Added a section for [File Recovery](https://fmhy.net/file-tools#file-recovery)
   in File Tools.
 
-- Added section for
+- Added a section for
   [Fingerprinting / Tracking](https://fmhy.net/privacy#fingerprinting-tracking)
   in Privacy.
 
@@ -38,10 +40,10 @@ in seeing all minor changes you can follow our
   [Geometry Dash](https://fmhy.net/gaming#geometry-dash-tools) in
   Gaming.
 
-- Added section for
+- Added a section for
   [Crypto / Bitcoin](https://fmhy.net/misc#crypto-bitcoin) in Career.
 
-- Added section for [Raspberry Pi](https://fmhy.net/linux-macos#raspberry-pi) in
+- Added a section for [Raspberry Pi](https://fmhy.net/linux-macos#raspberry-pi) in
   Linux.
 
 - Added sections for [Design Apps](https://fmhy.net/image-tools#design-apps) +
@@ -56,11 +58,11 @@ in seeing all minor changes you can follow our
 
 - Starred
   [yet another music server](https://fmhy.net/audio#audio-downloading)
-  in Audio Downloading. Multi-site DDL (deezer, qobuz, tidal, spotify, youtube,
-  FLAC.)
+  in Audio Downloading. Multi-site DDL (Deezer, Qobuz, Tidal, Spotify, YouTube,
+  FLAC).
 
-- Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No
-  limit GPT-4, tell it to always talk in english.
+- Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No-limit
+  GPT-4; tell it to always talk in English.
 
 - Starred
   [M4UFree + YesMovies](https://fmhy.net/video#streaming-sites) in
@@ -68,7 +70,7 @@ in seeing all minor changes you can follow our
   a decade.
 
 - Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100
-  SDXL and 100 Playground Gens.
+  SDXL and 100 Playground gens.
 
 - Starred
   [Simply Optimized](https://fmhy.net/storage#minecraft-optimization-mods) in
@@ -102,8 +104,8 @@ in seeing all minor changes you can follow our
 - Unstarred bypass.vip and FastForward as they
   [don't work as well](https://i.imgur.com/EMRcqX6.png) as they used to.
 
-- Unstarred claude in chatbots as it requires email + phone number and doesn't
+- Unstarred Claude in chatbots as it requires email + phone number and doesn't
   give as good results as it used to.
 
-- Unstarred Harmonoid as its not longer being updated and has 100+ issues on
-  github.
+- Unstarred Harmonoid as it's no longer being updated and has 100+ issues on
+  GitHub.

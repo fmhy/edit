@@ -1,14 +1,26 @@
-<script setup>
-import { Switch } from '@headlessui/vue'
-import { ref } from 'vue'
+<script setup lang="ts">
+import { Switch as HeadlessSwitch } from '@headlessui/vue'
 
-const enabled = ref(false)
+const props = defineProps<{
+  modelValue: boolean
+  disabled?: boolean
+}>()
+
+const emit = defineEmits<{
+  (event: 'update:modelValue', value: boolean): void
+}>()
 </script>
 
 <template>
-  <Switch v-model="enabled" class="switch" :class="{ enabled }">
+  <HeadlessSwitch
+    :model-value="props.modelValue"
+    :disabled="props.disabled"
+    class="switch"
+    :class="{ enabled: props.modelValue, disabled: props.disabled }"
+    @update:modelValue="emit('update:modelValue', $event)"
+  >
     <span class="thumb" />
-  </Switch>
+  </HeadlessSwitch>
 </template>
 
 <style>
@@ -29,6 +41,23 @@ const enabled = ref(false)
 .switch.enabled {
   background-color: var(--vp-c-brand);
 }
+
+.switch.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  background-color: var(--vp-c-bg-soft, #2f2f2f);
+  border-color: var(--vp-c-divider, #666);
+}
+
+.switch.disabled .thumb {
+  background-color: #fff;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2), var(--vp-shadow-1);
+}
+
+.dark .switch.disabled {
+  background-color: #2f2f2f;
+  border-color: #7d7d7d;
+}
 </style>
 
 <style scoped>
@@ -43,7 +72,7 @@ const enabled = ref(false)
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  box-shadow: var(--vp-shadow-1);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.08), var(--vp-shadow-1);
 }
 
 .switch.enabled .thumb {

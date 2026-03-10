@@ -130,5 +130,5 @@ export interface ThemeRegistry {
 export interface ThemeState {
   currentTheme: string
   currentMode: DisplayMode
-  theme: Theme
+  theme: Theme | null
 }

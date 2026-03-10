@@ -12,7 +12,7 @@ footer: true
 <Post authors="nbats"/>
 
 :::info
-These update threads only contains major updates. If you're interested
+These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
@@ -30,7 +30,6 @@ in seeing all minor changes you can follow our
 
 - Cleaned up Japanese Learning section, note that no sites were removed, just moved, [before vs after](https://i.imgur.com/wPboWjk.png).
 
-
 - Added usage limit tags to the [AI Video Generators](https://fmhy.net/ai#video-generation).
 
 - Better organized font section + split into [Generators](https://fmhy.net/text-tools#font-text-generators) and [Customization](https://fmhy.net/text-tools#font-customization).
@@ -41,29 +40,29 @@ in seeing all minor changes you can follow our
 
 # Stars Added ⭐
 
-- Starred [DAB Music Player](https://fmhy.net/audio#download-sites) in Audio DDL. Single click FLAC album downloads, has web app + desktop apps for for windows, mac, and linux, with android support coming soon.
+- Starred [DAB Music Player](https://fmhy.net/audio#download-sites) in Audio DDL. Single-click FLAC album downloads, has web app + desktop apps for Windows, Mac, and Linux, with Android support coming soon.
 
-- Starred [IronFox](https://fmhy.net/storage#privacy-based) in Android Privacy Browsers. Firefox-based browser with a focus on privacy / security. Feature-rich, recommended by the librewolf dev team, and our community seems to really like it.
+- Starred [IronFox](https://fmhy.net/storage#privacy-based) in Android Privacy Browsers. Firefox-based browser with a focus on privacy / security. Feature-rich, recommended by the LibreWolf dev team, and our community seems to really like it.
 
 - Starred [AdGuardExtra](https://fmhy.net/social-media-tools#twitch-adblockers) in Twitch Adblockers. This seems to be the best way to block them now.
 
-- Starred [AMP4](https://fmhy.net/social-media-tools#youtube-downloaders) in YouTube Video Downloaders, ad-free, supports playlists and 3 hour long videos.
+- Starred [AMP4](https://fmhy.net/social-media-tools#youtube-downloaders) in YouTube Video Downloaders, ad-free, supports playlists and 3-hour long videos.
 
 - Starred [JustDeleteMe](https://fmhy.net/privacy#web-privacy) in Web Privacy. Directory of links to more easily delete your accounts from web services.
 
 - Starred [PocketCasts](https://fmhy.net/audio) in Podcast Streaming. Popular iOS podcast player that recently added both desktop + web apps.
 
-- Starred [ADS-B Exchange](https://fmhy.net/misc#flights) in Flights section, one of the only that doesn't lock features behind paywalls.
+- Starred [ADS-B Exchange](https://fmhy.net/misc#flights) in Flights section, one of the only sites that doesn't lock features behind paywalls.
 
-- Replaced star for xManager with [ReVanced Manager](https://fmhy.net/mobile#android-audio) in Ad-Free Spotify as it has more features, less issues, and xManager itself recommends it.
+- Replaced star for xManager with [ReVanced Manager](https://fmhy.net/mobile#android-audio) in Ad-Free Spotify as it has more features, fewer issues, and xManager itself recommends it.
 
-- Removed star for bark as its limited, and star for Tortoise TTS as it doesn't sound good, and instead starred [TTS Online](https://fmhy.net/ai#text-to-speech), which sounds better and has a 10k daily character limit.
+- Removed star for Bark as it's limited, and star for Tortoise TTS as it doesn't sound good, and instead starred [TTS Online](https://fmhy.net/ai#text-to-speech), which sounds better and has a 10k daily character limit.
 
 ***
  
 # Things Removed
 
-- Removed TorrentGalaxy, doesn't look like its coming back anytime soon sadly.
+- Removed TorrentGalaxy, doesn't look like it's coming back anytime soon sadly.
 
 - Removed The Last Disaster from Audio DDL as they've shut down.
 
@@ -73,4 +72,4 @@ in seeing all minor changes you can follow our
 
 - Unstarred PSArips as their download process is very annoying.
 
-- Unstarred Bookracy as its been having issues for awhile now.
+- Unstarred Bookracy as it's been having issues for a while now.

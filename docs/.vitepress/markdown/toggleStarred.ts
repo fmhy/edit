@@ -17,23 +17,27 @@
 import type { MarkdownRenderer } from 'vitepress'
 
 const excluded = ['Beginners Guide']
+const starredMarkers = [':star:', ':glowing-star:', '⭐', '🌟']
+const indexMarkers = ['🌐', ':globe_with_meridians:', ':globe-with-meridians:']
 
 export function toggleStarredPlugin(md: MarkdownRenderer) {
   md.renderer.rules.list_item_open = (tokens, index, options, env, self) => {
     const contentToken = tokens[index + 2]
 
-    // Ensure the token exists
-    if (contentToken) {
-      const content = contentToken.content
+    if (!contentToken) return self.renderToken(tokens, index, options)
 
-      if (
-        !excluded.includes(env.frontmatter.title) &&
-        (content.includes(':star:') || content.includes(':glowing-star:'))
-      ) {
-        return `<li class="starred">`
-      }
-    }
+    const content = contentToken.content
+    const isStarred =
+      !excluded.includes(env.frontmatter.title) &&
+      starredMarkers.some((marker) => content.includes(marker))
+    const isIndex = indexMarkers.some((marker) => content.includes(marker))
 
-    return self.renderToken(tokens, index, options)
+    if (!isStarred && !isIndex) return self.renderToken(tokens, index, options)
+
+    const classes = []
+    if (isStarred) classes.push('starred')
+    if (isIndex) classes.push('index')
+
+    return `<li class="${classes.join(' ')}">`
   }
 }

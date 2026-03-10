@@ -6,7 +6,7 @@ description: This guide will help you set up and run your own instance of FMHY l
 # Selfhosting
 
 :::warning
-Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given below.
+Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given in step 4.
 :::
 
 This guide will help you set up and run your own instance of FMHY locally.
@@ -39,7 +39,7 @@ You can use [nix](https://nixos.org/) to set up a development environment, we ha
 
 You will need to install the following:
 - [Git](https://git-scm.com/downloads)
-- [Node.js](https://nodejs.org/en/download/) - Install version 21.7.3
+- [Node.js](https://nodejs.org/en/download/) - Install version 25.2.1
 - [pnpm 9.12.2+](https://pnpm.io/installation)
 
 #### Step 1: Clone the Repository
