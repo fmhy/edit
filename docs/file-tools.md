@@ -63,23 +63,23 @@
 ## ▷ File Converters
 
 * ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [GitHub](https://github.com/Tichau/FileConverter)
-* ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
-* ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / [GitHub](https://github.com/p2r3/convert)
-* ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB
+* ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / Web / [GitHub](https://github.com/p2r3/convert)
+* ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
-* [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion
-* [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
+* [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
+* [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, Mac, Linux / [GitHub](https://github.com/jsummers/deark)
-* [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
+* [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [Github](https://github.com/AyrA/text2img)
 * [Shutter Encoder](https://www.shutterencoder.com/) - File Converter / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB
-* [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter
-* [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB
-* [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies
-* [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB
-* [Convertio](https://convertio.co/) - Online / File Converter / 100MB
-* [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB
-* [MiConv](https://miconv.com/) - Online / File Converter / 75MB
+* [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB / Web
+* [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter / Web
+* [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB / Web
+* [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies / Web
+* [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB / Web
+* [Convertio](https://convertio.co/) - Online / File Converter / 100MB / Web
+* [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB / Web
+* [MiConv](https://miconv.com/) - Online / File Converter / 75MB / Web
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
 
 ***
