@@ -560,9 +560,9 @@
 
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
+* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Skills](https://skills.sh/) - Add Capabilities to AI Agents
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
-* [⁠CodeRabbit](https://www.coderabbit.ai/) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
 * [Pieces](https://pieces.app/) - Multi-LLM Coding Search Engine
 

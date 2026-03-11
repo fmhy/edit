@@ -459,6 +459,7 @@
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
+* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / [GUI](https://github.com/edenaion/EZ-CorridorKey/) / [Discord](https://discord.gg/zvwUrdWXJm)
 
 ***
 

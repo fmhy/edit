@@ -238,7 +238,6 @@
 * [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
-* [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
 * [Marginalia Search](https://marginalia-search.com/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
 * [TheOldNet](https://theoldnet.com/) or [OldVista](https://www.oldavista.com/) - Oldschool / Retro Site Search Engines
 * [OceanHero](https://oceanhero.today/) or [ekoru](https://ekoru.org/) - Ocean Protection Search Engines

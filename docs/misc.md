@@ -1303,6 +1303,7 @@
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [⁠AltHistory](https://althistory.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [bugs](https://nobodyhere.com/bugs/) or [Posting.Cool](https://posting.cool/) - Random Topic Forums
+* [⁠Perfectly Imperfect](https://www.pi.fyi/) - Oldschool Internet Style Social Media Site
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
@@ -1609,12 +1610,12 @@
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [livecamcroatia](https://www.livecamcroatia.com/en)
-* [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams) or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
+* [San Diego Zoo](https://zoo.sandiegozoo.org/live-cameras) or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [BirdCAMs](https://birdcams.live/) - Bird Nests
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
-* [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Unprotected Webcams
+* [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Public Surveillance Webcams
 * [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG)
 * [snoweye](https://www.snoweye.com/) - Ski Resorts
 * [Airport Webcams](https://airportwebcams.net/) / [X](https://x.com/AirportWebcams)

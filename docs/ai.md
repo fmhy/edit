@@ -60,17 +60,17 @@
 ## ▷ Specialized Chatbots
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=search)**, [2](https://canaryarena.ai/search/direct) - AI Search Engine / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=search)**, [2](https://canaryarena.ai/search/direct) - AI Search Engin / Requires Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[NotebookLM](https://notebooklm.google/)** - Document Chatbot / Note-Taking / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine
 * [⁠Ask Brave](https://search.brave.com/ask) - AI Search Engine
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
+* [⁠Exa](https://exa.ai/search) - AI Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [MiroThinker](https://dr.miromind.ai/) - Research Chatbot / [Discord](https://discord.gg/GPqEnkzQZd) / [GitHub](https://github.com/MiroMindAI)
 * [SciSpace](https://scispace.com/) - Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)
 * [⁠iAsk AI](https://iask.ai/) - Research Chatbot
-* [⁠Bohrium](https://www.bohrium.com/) - Research Chatbot / [Discord](https://discord.com/invite/x4FWNxar3c)
 * [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
 * [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
 * [Alphaxiv](https://www.alphaxiv.org/) - Document Chatbot
@@ -298,8 +298,8 @@
 * 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / Leaderboards
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 20+ Per Day / Varies / Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
-* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/imagen)** - Nano Banana Pro / Sign-up / Reset Limits w/ Temp Mail / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
-* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)**, [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/imagen)** - Nano Banana Pro / Nano Banana 2 / Sign-up / Unlimited / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gemai.md) / [Discord](https://discord.com/invite/vJnYe86T8F)
+* ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)**, [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Requires Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana 2 (20 per day) / Google Login / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
 * ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home)** - 120 Credits Daily / Seedream 4.5 / Nano Banana / Sign-Up
@@ -477,7 +477,7 @@
 * ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
-* [LLM Visualization](https://bbycroft.net/llm), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [mlsysbook](https://www.mlsysbook.ai/), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
+* [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [mlsysbook](https://www.mlsysbook.ai/), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
 * [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - ⁠Transformer Visualization
 * [Approaching (Almost) Any Machine Learning Problem](https://files.catbox.moe/b34jd4.pdf) - Machine Learning Problem-Solving Book
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems

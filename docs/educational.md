@@ -145,7 +145,6 @@
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
 * [LibraryOfJuggling](https://libraryofjuggling.com/) - Juggling Technique Database
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
-* [BeatBlackjack](https://www.beatblackjack.org/) - Learn Blackjack Card Counting
 * [ActivistHandbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
@@ -303,7 +302,7 @@
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
-* [PixelWealth](https://pixelwealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
+* [PixelWealth](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
@@ -534,7 +533,7 @@
 * [ChemicalAid](https://www.chemicalaid.com/), [⁠WebQC](https://www.webqc.org/) or [Chemequations](https://chemequations.com/en/) - Chemistry Calculators / Element Tables
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
-* [ChemistrySteps](https://www.chemistrysteps.com/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
+* [ChemistrySteps](https://www.chemistrysteps.com/), [⁠ChemQuiz](https://chemquiz.net/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [⁠Compound Interest](https://www.compoundchem.com/infographics/) - Chemistry Infographics
@@ -963,12 +962,11 @@
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
-* [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons
-* [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) or [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp) - Learn Chinese Characters
-* [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1) - Learn Chinese Stroke Orders
+* [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons / Stroke Orders
+* [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
-* [CantoWords](https://cantowords.com/), [MDBG](https://www.mdbg.net/), [Lindict](https://humanum.arts.cuhk.edu.hk/Lexis/Lindict/), [Revised Dictionary](https://dict.revised.moe.edu.tw/index.jsp), [Concised Dictionary](https://dict.concised.moe.edu.tw/search.jsp?la=1), [Mini Dictionary](https://dict.mini.moe.edu.tw/) or [zdict](http://zdic.net/) - Chinese Dictionaries
+* [Lindict](https://humanum.arts.cuhk.edu.hk/Lexis/Lindict/), [CantoWords](https://cantowords.com/), [MDBG](https://www.mdbg.net/), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [Revised Dictionary](https://dict.revised.moe.edu.tw/index.jsp), [Concised Dictionary](https://dict.concised.moe.edu.tw/), [Mini Dictionary](https://dict.mini.moe.edu.tw/) or [zdict](http://zdic.net/) - Chinese Dictionaries
 * [Maorma](https://www.maorma.net/) - Chinese Tone Practice
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
