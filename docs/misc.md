@@ -799,7 +799,7 @@
 * [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
 * [Cody](https://meetcody.ai/) - Company Management AI
 * [PHPCRM](https://www.phpcrm.com/), [Monday](https://monday.com/) or [Twenty](https://github.com/twentyhq/twenty) - Company Management Tools
-* [⁠Invoify](https://invoify.vercel.app/) / [GitHub](https://github.com/al1abb/invoify), [EasyInvoicePDF](https://easyinvoicepdf.com) / [GitHub](https://github.com/VladSez/easy-invoice-pdf), [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
+* [⁠Invoify](https://invoify.vercel.app/) / [GitHub](https://github.com/al1abb/invoify), [EasyInvoicePDF](https://easyinvoicepdf.com) / [GitHub](https://github.com/VladSez/easy-invoice-pdf), [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Plain Invoice](https://plaininvoice.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
 * [Google Patents](https://patents.google.com/) - Searchable Patents Database
 * [Layoffs.fyi](https://layoffs.fyi/) or [⁠WarnTracker](https://www.warntracker.com/) - Live Layoffs Trackers
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
