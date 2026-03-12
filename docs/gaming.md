@@ -1013,7 +1013,7 @@
 * [Tetra eSports](https://tetraesports.com/) - Competitive Multiplayer Tetris / [Discord](https://discord.gg/6EFdcGuWKn)
 * [⁠Notris Foes](https://notrisfoes.com/) - Multiplayer Browser Tetris / [Discord](https://discord.com/invite/qBJeAKk)
 * [⁠nestris](https://nestris.org/) - Multiplayer Browser Tetris / Practice
-* [Apotris](https://akouzoukos.com/apotris/play/) - Customizable Browser Tetris w/ Responsive Controls / [Multi-Platform](https://akouzoukos.com/apotris) / [Source](https://gitea.com/akouzoukos/apotris)
+* [Apotris](https://akouzoukos.com/apotris/play/) - Customizable Browser Tetris w/ Responsive Controls / [Multi-Platform](https://akouzoukos.com/apotris) / [Source Code](https://gitea.com/akouzoukos/apotris)
 * [Tetris](https://tetris.com/) - Browser Tetris
 * [⁠LazyTetris](https://lazytetris.com/) - Browser Tetris
 * [Tetr.js](http://farter.cn/tetr.js/) - Browser Tetris
