@@ -227,8 +227,8 @@
 
 ## ▷ Downloaders
 
-* ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
-* ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send NZBs to Client
+* ⭐ **[sabnzbd](https://sabnzbd.org/)** / Windows, Mac, Linux / [Grabber](https://github.com/lem6ns/sabgrab)
+* ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send NZBs to Client / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
 * [NZBGet](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 
