@@ -1034,7 +1034,6 @@
 * [⁠UK Fountain Pens](https://ukfountainpens.com/) - Fountain Pen Reviews
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
-* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons

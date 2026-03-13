@@ -42,7 +42,7 @@
 ## ▷ Multiple Model Sites
 
 * ⭐ **[Arena](https://arena.ai/text/direct)**, [2](https://canaryarena.ai/text/direct) - Multiple Models / Requires Sign-Up (single mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [Bridge](https://github.com/CloudWaddie/yuppbridge) / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
+* [Yupp.ai](https://yupp.ai/) - Multiple Models / Google Login Required / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GLM-5 / Kimi K2.5 / Claude Haiku 4 / [Limits](https://enter.pollinations.ai/)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)

@@ -426,8 +426,7 @@
 
 ## ▷ Cloud Managers
 
-* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager
-* ⭐ **Rclone Tools** - [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot)
+* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager / [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot)
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
