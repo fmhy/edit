@@ -853,7 +853,6 @@
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
 * [TangerineFeed](https://tangerinefeed.net/) - Remote Jobs
 * [RemoteYeah](https://remoteyeah.com/) - Remote Jobs / [Telegram](https://t.me/remoteyeah) / [Discord](https://discord.gg/69s55S7DjB)
-* [FlexHired](https://flexhired.com/) - Remote Jobs
 * [CareerVault](https://careervault.io/) - Remote Jobs
 * [NoDesk](https://nodesk.co/) - Remote Jobs
 * [Remote OK](https://remoteok.com/) - Remote Jobs
@@ -905,7 +904,7 @@
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)**, [Awesome Launching Platforms](https://github.com/DirectorySurf/awesome-launch-platforms), [Awesome Launch](https://github.com/soGeneri/awesome-launch) or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources Indexes
 * 🌐 **[moreThanFAANGM](https://kaustubh-natuskar.github.io/moreThanFAANGM/)** - Good Companies / Startups Index
 * [⁠Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization/) - Monetization Approaches for OSS Projects
-* [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
+* [⁠Startups RIP](https://startups.rip/) or [Failory](https://www.failory.com/graveyard) - Learn Why Startups Failed
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
 * [WellFound](https://wellfound.com/) - Find Employees for Startups
 * [Business Card Generator](https://business-card-generator.vercel.app/) or [Haystack](https://thehaystackapp.com/) - Business Cards
@@ -1035,7 +1034,6 @@
 * [⁠UK Fountain Pens](https://ukfountainpens.com/) - Fountain Pen Reviews
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
-* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
@@ -1162,7 +1160,7 @@
 
 # ► Useful Sites
 
-* ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_skills_.2F_hobbies_.2F_diy)**
+* ↪️ **[Skills / Hobbies / DIY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA__skills_.2F_hobbies_.2F_diy)**
 * ↪️ **[Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manuals)** - Repair Articles / Manuals
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_mind_mapping)**
 * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
@@ -1213,7 +1211,7 @@
 * [Disroot](https://disroot.org/en/#services) - Text / Social Media
 * [Private.coffee](https://private.coffee/services.html) - Text / Code 
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
-* [delphitools](https://tools.rmv.fyi//) - Social Media / Text / Image
+* [delphitools](https://delphi.tools/), [2](https://tools.rmv.fyi/) - Social Media / Text / Image
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
 * [uFreeTools](https://www.ufreetools.com/en/) - Text / Code
@@ -1226,7 +1224,6 @@
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
 * [KodyTools](https://www.kodytools.com/) or [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
-* [Sumo](https://sumo.app/) - Design / Graphic / Music
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
@@ -1594,6 +1591,7 @@
 
 * ⭐ **[WebcamTaxi](https://www.webcamtaxi.com/en/)**
 * ⭐ **[Explore](https://explore.org/)**, [Mangolinkcam](https://www.mangolinkcam.com/), [Africam](https://africam.com/our-locations/) or [AnimalsLife](https://animalslife.net/category/shelters/) - Animal Cams
+* ⭐ **[San Diego Zoo](https://zoo.sandiegozoo.org/live-cameras)** or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
 * [WorldCams](https://worldcams.tv/)
 * [EarthCam](https://www.earthcam.com/)
 * [WebcamExplore](https://www.webcamexplore.com/)
@@ -1610,7 +1608,6 @@
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [livecamcroatia](https://www.livecamcroatia.com/en)
-* [San Diego Zoo](https://zoo.sandiegozoo.org/live-cameras) or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [BirdCAMs](https://birdcams.live/) - Bird Nests
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
