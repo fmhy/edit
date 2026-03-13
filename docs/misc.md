@@ -1224,7 +1224,6 @@
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
 * [KodyTools](https://www.kodytools.com/) or [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
-* [Sumo](https://sumo.app/) - Design / Graphic / Music
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
