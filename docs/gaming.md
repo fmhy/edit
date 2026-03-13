@@ -706,6 +706,7 @@
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
 * [Nexiloop Games](https://nexiloop.games/) - Browser Game Aggregator / [Discord](https://discord.gg/Wvxr9YsHHf)
+* [CanLite](https://canlite.org/) - Browser Game Aggregator / [Discord](https://discord.gg/Z4yx3hHGw8)
 * [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 * [⁠Gamesfrog](https://gamesfrog.com/) - Browser Game Aggregator
