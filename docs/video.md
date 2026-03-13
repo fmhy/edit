@@ -242,8 +242,6 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/)- Anime Site Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) 
 * ⭐ **[AnimeKai](https://animekai.to/home)**, [2](https://animekai.fi/), [3](https://animekai.fo/),[4](https://animekai.gs/), [5](https://animekai.la/), [6](https://anikai.to/) or [AniGo](https://anigo.to/) - Hard Subs / Dub / Auto-Next / [Status / Mirrors](https://animekai.pw/) / [Subreddit](https://www.reddit.com/r/AnimeKAI/) / [Discord](https://discord.gg/at5d9rkfUy)
 * ⭐ **[Miruro](https://www.miruro.com/)** - Hard Subs / Dub / Auto-Next / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.com/invite/pjsdJp96mY) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
-* ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.vc/), [3](https://hianime.ps/), [4](https://hianimez.is/), [5](https://hianime.nz/) - Sub / Dub / Auto-Next / [Subreddit](https://reddit.com/r/HiAnimeZone/) / [Telegram](https://t.me/HiAnimeLobby) / [Discord](https://discord.gg/hianime)
-* ⭐ **HiAnime Resources** - [Official Mirrors](https://hianime.me/) / [Enhancements](https://greasyfork.org/en/scripts/506340) / [Auto-Focus](https://greasyfork.org/en/scripts/506891)
 * ⭐ **[Anime Realms](https://www.animerealms.org/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * ⭐ **[All Manga](https://allmanga.to/)** - Sub / Dub / [Discord](https://discord.com/invite/6nce6cyJyM)
 * ⭐ **[animepahe](https://animepahe.si/)** - Sub / Dub / [Enhancements](https://greasyfork.org/en/scripts/520048) / [Downloader](https://github.com/KevCui/animepahe-dl)

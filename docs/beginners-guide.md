@@ -59,7 +59,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Anime
 
-* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
+* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
