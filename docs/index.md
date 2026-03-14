@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: March Updates 🌷
-    link: /posts/mar-2026
+    title: Keep Android Open 🔓
+    link: /posts/KeepAndroidOpen
   image:
     src: test.png
     alt: FMHY Icon
