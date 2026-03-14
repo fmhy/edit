@@ -863,6 +863,7 @@
 * [DailyRemote](https://dailyremote.com/) - Remote Jobs
 * [HireBasis](https://www.hirebasis.com/) - Remote Jobs
 * [Remotedom](https://remotedom.com/) - Remote Jobs
+* [Find Remote Law Jobs](https://findremotelawjobs.com/) - Remote Legal Jobs
 
 ***
 
