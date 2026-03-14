@@ -1722,7 +1722,6 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[Universal Blocklist](https://github.com/berkaygediz/universal-blocklist)** - Get rid of low-quality Turkish results
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
