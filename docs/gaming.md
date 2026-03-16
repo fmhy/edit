@@ -156,7 +156,7 @@
 
 ## ▷ Decomps / Ports
 
-* 🌐 **[Game Decompilations](https://decomps.samidy.com/)**, [2](https://rentry.co/Decomps) - Game Decompilations / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
+* 🌐 **[Game Decompilations](https://decomps.fun/)**, [2](https://decomps.samidy.com/), [3](https://rentry.co/Decomps) - Game Decompilations / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
 * 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations
 * 🌐 **[awesome-game-decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Ports, Decompilations, etc
@@ -171,6 +171,7 @@
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
 * [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
+* [⁠Cut the Rope Home](https://ctrhome.github.io/) - Cut the Rope Game + Mod Archive
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
@@ -656,6 +657,7 @@
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Level Share Square](https://levelsharesquare.com/) - Custom Mario Fangame Maps
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [⁠Cut the Rope Home](https://ctrhome.github.io/play/) - Cut the Rope Games
 * [Club Penguin Legacy](https://play.cplegacy.com/) or [Club Penguin Journey](https://cpjourney.net/) - ⁠Club Penguin Revivals / [Servers](https://penguintrack.com/)
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste

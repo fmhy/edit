@@ -622,7 +622,7 @@
 
 * ⭐ **[ntfy](https://ntfy.sh/)** / [Discord](https://discord.gg/cT7ECsZj9w) / [GitHub](https://github.com/binwiederhier/ntfy), [AppRise](https://github.com/caronc/apprise) or [PingMe](https://pingme.lmno.pk/) - Custom Push Notifications
 * [DoNotNotify](https://donotnotify.com/) - Notification Blocker / Manager / [GitHub](https://github.com/anujja/DoNotNotify)
-* [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/flxholle/quick-tiles) - Quick Setting Tiles
+* [Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings), [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/flxholle/quick-tiles) - Quick Setting Tiles
 * [KWGT Widgets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Custom Android Widgets
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android "At a Glance" Widget
 * [Notification Listener](https://github.com/Alfio010/notification-listener-android) - Save / Pin Notifications
@@ -892,7 +892,7 @@
 
 ***
 
-* ⭐ **[Metrolist](https://mostafaalagamy.github.io/)** / [Discord](https://discord.com/invite/rJwDxXsf8c) / [GitHub](https://github.com/MetrolistGroup/Metrolist) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://metrolist.meowery.eu/)** / [Discord](https://discord.com/invite/rJwDxXsf8c) / [GitHub](https://github.com/MetrolistGroup/Metrolist) - YouTube Music Players / Innertune Forks / Audio Players
 * ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)

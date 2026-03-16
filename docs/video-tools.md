@@ -65,7 +65,7 @@
 * [uguu](https://uguu.se/) - 128MB / 3 Hours
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
-* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
+* [⁠SpectrShare](https://spectrshare.com/) - P2P Video Streaming / Temp Files
 
 ***
 
@@ -302,6 +302,7 @@
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
+* [⁠The Intro Database](https://theintrodb.org/) - Intro / Credit Skipping Database / [GitHub](https://github.com/TheIntroDB)
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
 * [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script 
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups

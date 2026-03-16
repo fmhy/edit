@@ -653,7 +653,6 @@
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki / [GitHub](https://github.com/setupmd/docs)
 * [CraftyControl](https://craftycontrol.com/) - Server Manager / [GitLab](https://gitlab.com/crafty-controller/crafty-4)
 * [MCSManager](https://mcsmanager.com/) - Server Manager / [GitHub](https://github.com/MCSManager/MCSManager)
-* [Lodestone](https://lodestone.cc/) - Server Manager / [GitHub](https://github.com/Lodestone-Team/lodestone) 
 * [Fork](https://www.fork.gg/) - Server Manager / [GitHub](https://github.com/ForkGG)
 * [SquidServers](https://squidservers.com/) - Server Manager / Easy Setup / [Discord](https://discord.gg/Y8QtmK2exk) / [GitHub](https://github.com/squidservers)
 * [⁠GrimAC](https://modrinth.com/plugin/grimac) - Free Server Anti-Cheat / [GitHub](https://github.com/GrimAnticheat/Grim)

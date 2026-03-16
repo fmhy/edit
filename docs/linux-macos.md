@@ -284,7 +284,7 @@
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager / [Discord](https://discord.com/invite/Pnt5CuY)
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
-* ⭐ **[johncena141](https://1337x.to/user/johncena141/)**, [2](https://1337x.to/user/johncena141/) - Linux Games / [Search](https://games.melroy.org/), [2](https://project516.dev/linux-games) / [Support](https://gitlab.com/jc141x/portal)
+* ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Search](https://games.melroy.org/), [2](https://project516.dev/linux-games) / [Support](https://gitlab.com/jc141x/portal)
 * [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games

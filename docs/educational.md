@@ -122,136 +122,6 @@
 
 ***
 
-## ▷ Philosophy
-
-* ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Philosophy Bro](https://www.philosophybro.com/), [LibreTexts Philosophy](https://human.libretexts.org/Bookshelves/Philosophy), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
-* [Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
-* [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
-* [Untools](https://untools.co/) - Better Thinking Tools
-* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
-* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
-* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
-* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
-* [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
-* [RationalWiki](https://rationalwiki.org/) -  Pseudoscience Refutation Wiki
-* [YourBias.is](https://yourbias.is/) - Learn about Biases
-* [⁠Philosophy Stack Exchange](https://philosophy.stackexchange.com/) - Philosophy Forum
-* [Kialo](https://www.kialo.com/) - Debates / Discussion
-* [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
-* [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
-* [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
-* [ModalLogic](https://rkirsling.github.io/modallogic/) - Model Logic Playground
-* [Logitext](http://logitext.mit.edu/tutorial) - Sequent Calculus Tutorial
-* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
-* [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
-* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
-
-***
-
-## ▷ Art / Editing
-
-* 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
-* 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
-* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
-* ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
-* ⭐ **[Drawabox](https://drawabox.com/)**, [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
-* ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
-* ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [⁠Ctrl+Paint](https://www.ctrlpaint.com/), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
-* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
-* [online-courses](https://online-courses.club/) - Art / Design Courses
-* [TutsPlus](https://tutsplus.com/) - Creative Courses
-* [Curriculum for the Solo Artists](https://alexhuneycutt.gumroad.com/l/free_curriculum) - Self-Taught Artist Curriculum
-* [DoArtDaily](https://dad.gallery) - Daily Art Challenges
-* [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
-* [FloobyNooby](http://www.floobynooby.com/comp1.html), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
-* [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
-* [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
-* [McLelun](https://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
-* [AnimeOutline](https://www.animeoutline.com/) - Anime / Manga Drawing Tutorials
-* [Design Tuts](https://t.me/designfreetuts) - Design Tutorials
-* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
-* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
-* [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
-* [⁠Practice Drawing This](https://practicedrawingthis.com/) - Drawing Practice
-* [The Bézier Game](https://bezier.method.ac/) - Pen Tool Practice
-* [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
-* [Paintable](https://paintable.cc/) - Digital Art Tutorials
-* [Pedro's Pixel Art Tutorials](https://saint11.art/blog/pixel-art-tutorials/) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
-* [MetPublications](https://www.metmuseum.org/met-publications/all) - Art Learning Books
-* [GraphicsCodex](https://graphicscodex.com/) - 3D Computer Graphic Guides
-* [DrawingNow](https://www.drawingnow.com/) or [⁠Drawing Tutorials](https://www.drawingtutorials101.com/) - Learn to Draw
-* [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
-* [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
-* [AnatomyArchive](https://www.anatomyarchive.org/) - Human Anatomy Drawing Tutorials
-* [Artist Reference](https://artist-reference.com) - Photo References for Artists
-* [Reference Angle](http://referenceangle.com/) - Human Photo Reference Search
-* [x6ud](https://x6ud.github.io/#/) - Animal Photo Reference Search
-* [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
-* [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
-* [DevinKorwin Color Guide](https://x.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
-* [Draw Mix Paint](https://www.drawmixpaint.com/) or [⁠Ran Art Blog](https://ranartblog.com/) - Learn Oil Painting
-* [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
-* [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
-* [Seven Camels](https://sevencamels.blogspot.com/) - Storyboarding Tips / Learning by Disney's Head of Story
-* [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
-* [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
-
-***
-
-## ▷ Geography / Sociology
-
-* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
-* 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
-* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
-* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
-* ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
-* ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
-* [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
-* [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
-* [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
-* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
-* [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
-* [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
-* [City Data](https://www.city-data.com/) - US City Data
-* [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
-* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
-* [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
-* [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
-* [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
-* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
-* [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
-* [PixelWealth](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
-* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
-* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
-* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
-* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
-* [Statista](https://www.statista.com/) - Market Statistics
-* [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
-* [Rulers.org](https://rulers.org/) - World Heads Of State & Government Database
-* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
-* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
-* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
-* [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
-* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
-* [ExtremeWeatherWatch](https://www.extremeweatherwatch.com/) - Extreme Weather Data / Tracking
-* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
-* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
-* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
-* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
-* [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
-* [Symbols](https://www.symbols.com/) - Symbol Database
-* [Flag Guesser](https://flagguesser.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes
-* [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
-* [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
-
-***
-
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
@@ -741,12 +611,97 @@
 
 ***
 
+# ► Humanities
+
+***
+
+## ▷ Geography / Sociology
+
+* 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
+* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
+* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
+* ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
+* ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
+* [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
+* [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
+* [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
+* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
+* [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
+* [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
+* [City Data](https://www.city-data.com/) - US City Data
+* [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
+* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
+* [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
+* [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
+* [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
+* [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
+* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
+* [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
+* [PixelWealth](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
+* [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
+* [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
+* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
+* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [Statista](https://www.statista.com/) - Market Statistics
+* [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
+* [Rulers.org](https://rulers.org/) - World Heads Of State & Government Database
+* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
+* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
+* [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
+* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [ExtremeWeatherWatch](https://www.extremeweatherwatch.com/) - Extreme Weather Data / Tracking
+* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
+* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
+* [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
+* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
+* [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
+* [Symbols](https://www.symbols.com/) - Symbol Database
+* [Flag Guesser](https://flagguesser.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes
+* [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
+* [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
+
+***
+
+## ▷ Philosophy
+
+* ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
+* [Philosophy Bro](https://www.philosophybro.com/), [LibreTexts Philosophy](https://human.libretexts.org/Bookshelves/Philosophy), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
+* [Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
+* [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
+* [Untools](https://untools.co/) - Better Thinking Tools
+* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
+* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
+* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
+* [RationalWiki](https://rationalwiki.org/) -  Pseudoscience Refutation Wiki
+* [YourBias.is](https://yourbias.is/) - Learn about Biases
+* [⁠Philosophy Stack Exchange](https://philosophy.stackexchange.com/) - Philosophy Forum
+* [Kialo](https://www.kialo.com/) - Debates / Discussion
+* [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
+* [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
+* [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
+* [ModalLogic](https://rkirsling.github.io/modallogic/) - Model Logic Playground
+* [Logitext](http://logitext.mit.edu/tutorial) - Sequent Calculus Tutorial
+* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
+* [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
+* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
+
+***
+
 # ►  Skills / Hobbies / DIY
 
 * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ⭐ **[Knots 3D](https://knots3d.com/)**, [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
+* [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
 * [cholyknight](https://cholyknight.com/), [AntiquePatternLibrary](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns 
@@ -755,7 +710,6 @@
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [ARRL](https://www.arrl.org/) - Amateur Radio Resources / Learning / [Exam Search](https://www.arrl.org/find-an-amateur-radio-license-exam-session) / [Question Pools](https://www.arrl.org/question-pools)
-* [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
 * [LibraryOfJuggling](https://libraryofjuggling.com/) - Juggling Technique Database
@@ -763,13 +717,12 @@
 * [ActivistHandbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
-* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
-* [Erowid](https://www.erowid.org/) - Psychoactive Information
+* [Erowid](https://www.erowid.org/) or [Shroomery](https://www.shroomery.org/) - Psychoactive Information / Forum
 * [PsychonautWiki](https://psy.st/wiki/Main_Page) - Psychonautics Wiki
-* [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
+* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 
 ***
 
@@ -811,6 +764,56 @@
 * [ChiffAndFipple](https://www.chiffandfipple.com/) - Irish Traditional Music Forum
 * [MIMO](https://mimo-international.com/MIMO/) - Musical Instrument Database
 * [VGM Sound Sources](https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/) - VGM Sound Sources / [Discord](https://discord.gg/m4qzYNGHuS)
+
+***
+
+## ▷ Art / Editing
+
+* 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
+* 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
+* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+* ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
+* ⭐ **[Drawabox](https://drawabox.com/)**, [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
+* ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
+* ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [⁠Ctrl+Paint](https://www.ctrlpaint.com/), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
+* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
+* [online-courses](https://online-courses.club/) - Art / Design Courses
+* [TutsPlus](https://tutsplus.com/) - Creative Courses
+* [Curriculum for the Solo Artists](https://alexhuneycutt.gumroad.com/l/free_curriculum) - Self-Taught Artist Curriculum
+* [DoArtDaily](https://dad.gallery) - Daily Art Challenges
+* [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
+* [FloobyNooby](http://www.floobynooby.com/comp1.html), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
+* [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
+* [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
+* [McLelun](https://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
+* [AnimeOutline](https://www.animeoutline.com/) - Anime / Manga Drawing Tutorials
+* [Design Tuts](https://t.me/designfreetuts) - Design Tutorials
+* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
+* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
+* [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
+* [⁠Practice Drawing This](https://practicedrawingthis.com/) - Drawing Practice
+* [The Bézier Game](https://bezier.method.ac/) - Pen Tool Practice
+* [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
+* [Paintable](https://paintable.cc/) - Digital Art Tutorials
+* [Pedro's Pixel Art Tutorials](https://saint11.art/blog/pixel-art-tutorials/) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
+* [MetPublications](https://www.metmuseum.org/met-publications/all) - Art Learning Books
+* [GraphicsCodex](https://graphicscodex.com/) - 3D Computer Graphic Guides
+* [DrawingNow](https://www.drawingnow.com/) or [⁠Drawing Tutorials](https://www.drawingtutorials101.com/) - Learn to Draw
+* [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
+* [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
+* [AnatomyArchive](https://www.anatomyarchive.org/) - Human Anatomy Drawing Tutorials
+* [Artist Reference](https://artist-reference.com) - Photo References for Artists
+* [Reference Angle](http://referenceangle.com/) - Human Photo Reference Search
+* [x6ud](https://x6ud.github.io/#/) - Animal Photo Reference Search
+* [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
+* [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
+* [DevinKorwin Color Guide](https://x.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
+* [Draw Mix Paint](https://www.drawmixpaint.com/) or [⁠Ran Art Blog](https://ranartblog.com/) - Learn Oil Painting
+* [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
+* [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
+* [Seven Camels](https://sevencamels.blogspot.com/) - Storyboarding Tips / Learning by Disney's Head of Story
+* [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
+* [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 
 ***
 
@@ -1304,7 +1307,7 @@
 * ⭐ **[CS50](https://cs50.harvard.edu/x/)** - Harvard Computer Science Course / [Subreddit](https://www.reddit.com/r/cs50/) / [Telegram](https://t.me/cs50x) / [Discord](https://discord.com/invite/cs50) / [GitHub](https://github.com/cs50)
 * ⭐ **[NandGame](https://nandgame.com/)** - Computer Building Puzzle
 * ⭐ **[CraftingInterpreters](https://www.craftinginterpreters.com/)** - Scripting Language Implementation Book / [GitHub](https://github.com/munificent/craftinginterpreters)
-* [⁠CSRankings](https://csrankings.org/) - Publication Activity of Computer Science Colleges per Topic 
+* [⁠CSRankings](https://csrankings.org/) - Publication Activity of Computer Science Colleges per Topic
 * [CS1000](https://cs1000.surge.sh/) - Computer Science / Software Engineering
 * [Tech Dev Guide](https://techdevguide.withgoogle.com/) - Computer Science Google Courses
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
@@ -1315,6 +1318,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
+* [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science Books
@@ -1589,7 +1593,7 @@
 
 ## ▷ Flashcards
 
-* ⭐ **[Anki](https://apps.ankiweb.net/)** - Flashcard App / [Subreddit](https://www.reddit.com/r/Anki/) / [Discord](https://discord.gg/jUvBM2sEs4) / [GitHub](https://github.com/ankidroid/Anki-Android)
+* ⭐ **[Anki](https://apps.ankiweb.net/)** - Flashcard App / [Subreddit](https://www.reddit.com/r/Anki/) / [Discord](https://discord.gg/jUvBM2sEs4) / [GitHub](https://github.com/ankitects/anki)
 * ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html), [2](https://github.com/tianshanghong/awesome-anki)
 * [StudyCraft](https://studycraft.dev/) - Flashcard App / [GitHub](https://github.com/rodmarkun/StudyCraft)
 * [StudyLib](https://www.studylib.net/) - Online Flashcards

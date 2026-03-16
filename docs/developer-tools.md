@@ -61,6 +61,7 @@
 * [Beszel](https://beszel.dev/) - Dev Data Dashboard / [iOS App](https://github.com/Loriage/Beszel-Swift-App)
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/)
 * [Webhook.site](https://webhook.site/) - Webhook Tools
+* [⁠XMLComparator](https://www.xmlcomparator.xyz/) - XML Diff & Compare Tool 
 * [⁠Nept](https://nept.cloud/) - Instantly Deploy 20+ Frameworks (Deploy Next.js, Python, Go, etc.)
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
@@ -203,7 +204,7 @@
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
-* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readme / Resumes
+* [Skill Icons](https://skillicons.dev/) or [⁠Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Skill Badges for GitHub Readme / Resumes
 * [For the Badge](https://forthebadge.com/) - Custom GitHub Badges
 * [⁠Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator) - GitHub Profile Generator / Editor
 * [GitHub Spray](https://annihil.github.io/github-spray-generator) - Draw on GitHub Contribution Page
@@ -544,7 +545,7 @@
 
 ## ▷ Web / App Builders
 
-* ⭐ **[Arena](https://arena.ai/code)** - AI Website Builder / Multiple Models / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* ⭐ **[Arena](https://arena.ai/code)** - AI Website Builder / Multiple Models / Requires Sign-Up (single mode) / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI /No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
