@@ -430,7 +430,7 @@
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
 * [RuneLite](https://runelite.net/) - Old School RuneScape Client w/ Plugin Support / [Discord](https://runelite.net/discord)
 * [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
-* [DMP](https://d-mp.org/) - Kerbal Spaceprogram Multiplayer Mod / [Discord](https://discord.gg/kKbqWpv)
+* [DMP](https://d-mp.org/) - Kerbal Spaceprogram Multiplayer Mod
 
 ***
 

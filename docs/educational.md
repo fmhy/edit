@@ -104,7 +104,6 @@
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [Stack Exchange](https://stackexchange.com/) or [Quetre](https://quetre.iket.me) - Q&A Communities
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Quizzes / Guides / Games
-* [ISODN](https://discord.gg/k3zkD2y) - International Science Olympiads Discord Community
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
@@ -309,7 +308,7 @@
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews 
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log [GitHub](https://github.com/arpanghosh8453/drone-logbook)
-* [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet) / [Discord](https://discord.com/invite/txzvKMSd)
+* [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
 ***

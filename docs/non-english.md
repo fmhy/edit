@@ -505,7 +505,7 @@
 * [DirectFR](https://directfr.sbs/) - Live TV
 * [witv](https://witv.soccer/) - Live TV
 * [oohquelbut](https://quelbut.me/) - Live Sports
-* [hiboux](https://hiboux.plus/) - Live Sports / [Telegram](https://t.me/+K3gsWeZY06NhMjM0) / [Discord](https://discord.gg/hiboux3)
+* [hiboux](https://hiboux.plus/) - Live Sports / [Telegram](https://t.me/+K3gsWeZY06NhMjM0)
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
