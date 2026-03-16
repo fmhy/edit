@@ -1287,6 +1287,7 @@
 
 ## ▷ Streaming
 
+* [indianul](https://www.indianul.com?s=iubi) - Movies / TV / Sub / 720p
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV / Sub / 720p
 * [Deseneledublate](https://deseneledublate.com/) - Movies / TV / Sub / 720p
 * [portalultautv](https://portalultautv.biz/) - Movies / TV / Sub
