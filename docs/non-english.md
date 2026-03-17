@@ -464,7 +464,7 @@
 ## ▷ Torrenting
 
 * [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [⁠Torr9](https://torr9.net/) - Video / Audio / Books
 
 ## ▷ Streaming
 
@@ -505,7 +505,6 @@
 * [DirectFR](https://directfr.sbs/) - Live TV
 * [witv](https://witv.soccer/) - Live TV
 * [oohquelbut](https://quelbut.me/) - Live Sports
-* [hiboux](https://hiboux.plus/) - Live Sports / [Telegram](https://t.me/+K3gsWeZY06NhMjM0) / [Discord](https://discord.gg/hiboux3)
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
@@ -774,7 +773,7 @@
 * [desidubanime](https://www.desidubanime.me/) - Anime
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Desi Serials](https://www.desi-serials.to/) - TV
-* [desitv](https://watch.desitv.ru/) - TV
+* [desitv](https://www.desitv.to/) - TV
 * [DistroTV](https://distro.tv/) - Live TV
 * [crickmail](https://crickmail.pages.dev/channel-13) - Live Cricket
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV / Android App
@@ -823,7 +822,7 @@
 * [idlixku](https://idlix.net/) - Movies / TV
 * [klikxxi](https://klikxxi.art/), [2](https://www.klikxxi.com/) - Movies / TV
 * [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
-* [Anoboye](https://anoboye.com/) - Anime / Sub
+* [Anoboye](https://anoboye.com/) - Anime / Donghua / Sub
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
@@ -1722,7 +1721,6 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[Universal Blocklist](https://github.com/berkaygediz/universal-blocklist)** - Get rid of low-quality Turkish results
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
@@ -1855,6 +1853,7 @@
 * [TVMienPhi](https://tvmienphi.org/), [2](https://tv.tvhayhd.org/) - Live TV / 1080p
 * [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
+* [⁠Phim4K](https://phim4k.xyz/) - Desktop App / [Telegram](https://t.me/congdong4ker)
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
