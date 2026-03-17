@@ -487,7 +487,7 @@
 * [MangaBall](https://mangaball.net/)
 * [mangapill](https://mangapill.com/)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
-* [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW / [Discord](https://discord.gg/syp3a6Eucq)
+* [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://rivestream.org/manga)
