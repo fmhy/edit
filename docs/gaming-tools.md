@@ -625,7 +625,6 @@
 * [MCPEDL](https://mcpedl.com/) - Bedrock Resources
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
 * [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
-* [SkyClient](https://skyclient.co/) - Hypixel Asset Installer / [Discord](https://discord.com/invite/QUGZgxb7CM) / [GitHub](https://github.com/SkyblockClient)
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive / [Discord](https://discord.com/invite/udX5PRKayw)
 * [SkyCrypt](https://sky.shiiyu.moe/) - Hypixel SkyBlock Stats / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCryptv2)
@@ -960,7 +959,7 @@
 * [r/MarioKart](https://www.reddit.com/r/mariokart/) or [r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
 * [Mario Kart World Discord](https://discord.gg/mario-kart-world) - Mario Kart World Lobbies / Community / Avoids Intermission Tracks
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKWii Mod / [Discord](https://discord.gg/YZxyK4f3EU)
-* [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe) - Custom MKWii Tracks
+* [Mario Kart Wii Deluxe](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe) - Custom MKWii Tracks / [Discord](https://discord.com/invite/tRVhfWSkf2)
 * [TTs Online](https://redd.it/ie6gi7) - MKWii Online Time Trials Mod
 * [CTGPRecords](https://www.youtube.com/@CTGPRecords) - Custom Track Records / Videos
 * [MaxVRList](https://maxvrlist.com/) - VR Leaderboards / [Discord](https://discord.gg/S8HcYawzhx)

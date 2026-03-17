@@ -12,7 +12,7 @@
 
 * 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/) / [GitHub](https://github.com/MCOfficer/odcrawler-discovery) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, Mac, Liunx / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, Mac, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/slsk-batchdl)
 * [eMule Plus](https://www.emule-project.com/) - File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
