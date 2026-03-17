@@ -46,7 +46,6 @@
 * [⁠ISH](https://ish.chat/) - Multiple Generators / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GPT-5.4 /Claude Sonnet 4.6 / GLM-5 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
-* [Khoj](https://app.khoj.dev/) - Gemini 3 Flash / Grok 4.1 Fast / Sign Up / Unlimited / [Discord](https://discord.gg/aP5ZmqCK4g)
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5 / Kimi K2.5 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [NVIDIA NIM](https://build.nvidia.com/) - GLM-5 / Kimi K2.5 / No Sign-Up
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini 3 Flash / Multiple Chatbots / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
@@ -61,9 +60,9 @@
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=search)**, [2](https://canaryarena.ai/search/direct) - AI Search Engine / Requires Sign-Up / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* ⭐ **[NotebookLM](https://notebooklm.google/)** - Document Chatbot / Note-Taking / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
+* ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine
-* [⁠Ask Brave](https://search.brave.com/ask) - AI Search Engine
+* ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [⁠Exa](https://exa.ai/search) - AI Search Engine
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
@@ -95,7 +94,7 @@
 * [⁠LocalAI](https://localai.io/) - Self-Hosted / [GitHub](https://github.com/mudler/LocalAI)
 * [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted
 * [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Self-Hosted / Minimal / Lightweight
-* [⁠Can I Run AI Locally](https://www.canirun.ai/) - Determine Which AI Models You Can Locally Run
+* [⁠Can I Run AI Locally](https://www.canirun.ai/) or [What Models?](https://whatmodelscanirun.com/) - Determine Which AI Models You Can Locally Run
 
 ***
 
