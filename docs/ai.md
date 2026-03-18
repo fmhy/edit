@@ -404,6 +404,7 @@
 * [promptfoo](https://www.promptfoo.dev/) - Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)
 * [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games
 * [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
+* [Banana Prompts](https://bananaprompts.ai/) - AI Prompt Directory include newest models
 
 ***
 
