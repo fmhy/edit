@@ -535,7 +535,7 @@
 
 * 🌐 **[Firefox Extensions](https://addons.mozilla.org/android/)** - Android Firefox Addon Store
 * ⭐ **[Firefox](https://www.firefox.com/browsers/mobile/android/)** - Customizable Browser / Extensions / [Focus](https://www.firefox.com/browsers/mobile/focus/) / [Nightly](https://www.firefox.com/channel/android/#nightly)
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Extensions / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based / Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
 * ⭐ **[IronFox](https://ironfoxoss.org/)** - Mull Browser Fork / Extensions / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh) / [GitLab](https://gitlab.com/ironfox-oss/IronFox)
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Firefox-Based / Extensions
