@@ -14,7 +14,7 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Bypass URL Redirects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)**, [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (mv3) or [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblockers / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
+* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)**, [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (MV3) or [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - Adblockers / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
 * ⭐ **Report Issues** - [uAssets](https://github.com/uBlockOrigin/uAssets/issues) / [Hosts](https://github.com/uBlockOrigin/uAssets/discussions/27472) / [AdGuard](https://reports.adguard.com/new_issue.html) / [EasyList](https://github.com/easylist/easylist/issues)
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [X](https://x.com/SponsorBlock) / [Discord](https://discord.gg/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
@@ -102,7 +102,7 @@
 
 # ► Antivirus / Anti-Malware
 
-* **Note** - It's best to keep Windows Defenders real-time protection on. You can select ‘Allow on device’ for pirated software detections like patches, or exclude by ‘File‘ in ‘Exclusions’ for false positives when needed + [More Info](https://wispydocs.pages.dev/windows/#antivirus).
+* **Note** - It's best to keep Windows Defender's real-time protection on. You can select ‘Allow on device’ for pirated software detections like patches, or exclude by ‘File‘ in ‘Exclusions’ for false positives when needed + [More Info](https://wispydocs.pages.dev/windows/#antivirus).
 ***
 
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
@@ -368,7 +368,7 @@
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances / Metasearch
 * [LibreY](https://ly.owo.si/) - Metasearch / [Instances](https://search.liv.town/instances.php), [2](https://search.davidovski.xyz/instances.php) / [GitHub](https://github.com/Ahwxorg/librey/)
 * [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
-* [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get)
+* [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get) / [Instances](https://4get.ca/instances)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
@@ -507,7 +507,7 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * ⭐ **[Holy Unblocker](https://holyunblocker.org/)** / [GitHub](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-* [Titanium Network](https://titaniumnetwork.org/services/) - Multi Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
+* [Titanium Network](https://titaniumnetwork.org/services/) - Multi-Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Multi-Site + App Proxy / Adblocker / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [ProxyOf2](https://proxyof2.com/)

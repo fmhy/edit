@@ -306,7 +306,7 @@
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
 * [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script 
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
-* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) / [Mobile](https://github.com/jellyseerr/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management
+* [Seerr](https://github.com/seerr-team/seerr) / [Mobile](https://github.com/seerr-team/mobile-app) or [Ombi](https://github.com/Ombi-app/Ombi) - User Request Management 
 * [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
@@ -317,7 +317,6 @@
 
 * [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
-* [SuperPlex](https://normantheidiot.neocities.org/superplex/) - Plex Plugins
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
@@ -453,7 +452,7 @@
 
 * ⭐ **[Efecto](https://efecto.app/)** or [effect.app](https://effect.app/) - Online Video Effects
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
-* [Gyroflow](https://gyroflow.xyz/) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
+* [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
@@ -508,7 +507,7 @@
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
 * [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator / [Gitea](https://gitea.adhd.sh/root/spritesheet-generator)
+* [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Viggle](https://viggle.ai/) - Animated Character Creators / [Discord](https://discord.com/invite/viggle)

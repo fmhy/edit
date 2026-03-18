@@ -158,7 +158,7 @@
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
-* [MyFridgeFood](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
+* [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [FoodSubs](https://foodsubs.com/) - Ingredient Substitutions Database
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
 * [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
@@ -168,7 +168,6 @@
 * [PublicDomainRecipes](https://publicdomainrecipes.com/) - Recipe Search / [GitHub](https://github.com/ronaldl29/public-domain-recipes) 
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
-* [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [⁠DAREBEETS](https://darebeets.com/) - Plant-Based Recipes
@@ -1555,7 +1554,7 @@
 * [EnigmaLabs](https://enigmalabs.io/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
-* [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://ph.kuuro.net/) / [GitHub](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
+* [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [⁠Doomsday Scoreboard](https://doomsday.march1studios.com/) - Past & Predicted Apocalypse Events / Failed Prediction Scoreboard

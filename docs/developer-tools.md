@@ -404,7 +404,6 @@
 * ⭐ **[Google Colaboratory](https://colab.research.google.com/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)** or [StackBlitz](https://stackblitz.com/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
-* [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
 * [Atheos](https://www.atheos.io/) - Requires Server / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE

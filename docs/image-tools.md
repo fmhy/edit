@@ -319,7 +319,7 @@
 * [cgbookcase](https://www.cgbookcase.com/) - Textures
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Patterns
 * [Background Tiles](https://background-tiles.com/) - Patterns
-* [ArmorLab](https://armory3d.org/lab/), [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
+* [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
 * [⁠Normal Map Generator](https://normalmapgenerator.art/) - 2D to 3D Texture Texture Map Converter
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [Discord](https://discord.com/invite/975NdQPsSc) / [GitHub](https://github.com/njbrown/texturelab)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
@@ -562,7 +562,6 @@
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
 * [Bforartists](https://www.bforartists.de/) - Cross-Platform 3D Modeling App / [Discord](https://discord.com/invite/yKuR77v) / [GitHub](https://github.com/Bforartists/Bforartists)
-* [⁠Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/) - 3D Modeling App
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
 * [MakeHuman](https://static.makehumancommunity.org/) - 3D Humanoid Modeler
 * [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
@@ -605,6 +604,7 @@
 
 ## ▷ CAD Engineering
 
+* [⁠Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/) - CAD App
 * [Onshape](https://www.onshape.com/en/products/free) - CAD Modeling with Real-time Collaboration
 * [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
 * [FreeCAD](https://www.freecad.org/) - Parametric CAD Modeling / [GitHub](https://github.com/FreeCAD/FreeCAD)

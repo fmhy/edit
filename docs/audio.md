@@ -890,7 +890,7 @@
 * ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
-* [⁠AudioAuditor](https://github.com/Angel2mp3/AudioAuditor)
+* [⁠AudioAuditor](https://audioauditor.org/) / [GitHub](https://github.com/Angel2mp3/AudioAuditor)
 * [⁠Acoustic Spectrum Analyzer](https://spec.squid.wtf/) or [⁠WhatsMyBitrate](https://whatsmybitrate.com/) - Web-Based
 * [Visual Analyser](https://www.sillanumsoft.org/)
 * [Friture](https://friture.org/) / [GitHub](https://github.com/tlecomte/friture)

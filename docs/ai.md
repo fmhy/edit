@@ -32,7 +32,7 @@
 * [⁠StepFun](https://stepfun.ai/) - Step 3.5 Flash / DeepSeek R1
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / [Discord](https://discord.gg/jtjNSD52mf)
-* [Dolphin Chat](https://chat.dphn.ai/) - GLM-4.7-Flash / Dolphin 24B / No Sign Up / Unlimited
+* [Dolphin Chat](https://chat.dphn.ai/) - LM-4.7-Flash / GLM 4.6 / (Beta-Models) / No Sign Up / Unlimited
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Requires Sign-Up
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Flash / Requires Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
@@ -47,6 +47,7 @@
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GPT-5.4 /Claude Sonnet 4.6 / GLM-5 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5 / Kimi K2.5 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [NVIDIA NIM](https://build.nvidia.com/) - GLM-5 / Kimi K2.5 / No Sign-Up
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini 3 Flash / Multiple Chatbots / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 /  Multiple Models / No Sign-Up
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Requires Sign-Up
@@ -202,7 +203,7 @@
 * [Khoj](https://app.khoj.dev/?v=app) - Nano Banana / Unlimited / [Discord](https://discord.gg/aP5ZmqCK4g)
 * [Grok](https://grok.com/) - Traffic-Based / Editing / Generating / Sign-Up / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign Up / [Discord](https://discord.gg/W4Svx2QhHb)
+* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1000 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play) - Grok Imagine / Flux-2 Dev / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠CimoGeneration](https://cimo.ezif.in/#create) - GPT Image 1.5 / 5 Hourly /  GPT Image 1 / 10 Hourly

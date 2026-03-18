@@ -492,7 +492,6 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaTown](https://www.mangatown.com/)
-* [MangaHaven](https://mangahaven.net/)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -515,7 +514,6 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
-* [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
 
 ***
 
@@ -618,7 +616,7 @@
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
-* [TextBookGo](http://textbookgo.com/) - TextBooks
+* [TextBookGo](http://textbookgo.com/) - Textbooks
 * [Wikibooks](https://wikibooks.org/) - Open-Content Texbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
@@ -835,7 +833,6 @@
 * [IDoc](https://idoc.pub/) - Document Search
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
-* [Dirzon](https://www.dirzon.com/Doc/SearchAsync) - Document Search
 * [PDFHost](https://pdfhost.io/) - Document Search
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [Academic Journals](https://academicjournals.org/) - Science / Articles
@@ -946,7 +943,6 @@
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
 * [Read This Twice](https://readthistwice.com/) - Book Recommendations
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
-* [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://mindexpandingbooks.com) - Book Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator

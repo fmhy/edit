@@ -19,7 +19,7 @@
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.com/invite/dkKxZGjyF8)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Requires Sign-Up / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
@@ -109,7 +109,6 @@
 
 
 * ↪️ **[PCVR Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**
-* ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - VR Games / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Requires Sign-Up / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
@@ -315,7 +314,7 @@
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
-* ⭐ **[CDRomance](https://cdromance.org/)** / [Forum](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** or [CDRomance](https://cdromance.org/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
 * [Zophar's Domain](https://www.zophar.net/) - ROM Mods

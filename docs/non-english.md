@@ -704,7 +704,6 @@
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
-* ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1130,7 +1129,6 @@
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
-* [doci PL](https://doci.pl/) - Books
 * [Docer PL](https://docer.pl/) - Books
 
 ***
@@ -1879,7 +1877,6 @@
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
-* [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga

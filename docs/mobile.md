@@ -184,7 +184,7 @@
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher / [Telegram](https://t.me/waenhancer)
-* [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
+* [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported WhatsApp Chats
 * [WhatsAppCleaner](https://github.com/VishnuSanal/WhatsAppCleaner) - Clean Redundant WhatsApp Media Files
 * [PurrfectSnap](https://purrfectsnap.vercel.app) / [GitHub](https://github.com/particle-box/PurrfectSnap) or [SE Extended](https://git.seextended.org/bocajthomas/SE-Extended) / [Telegram](https://t.me/SE_Extended_CI) - Snapchat Clients
 
@@ -215,7 +215,7 @@
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive / [GitHub](https://github.com/etchdroid/etchdroid)
-* [Techbone](https://www.techbone.net/) or [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) / [GitHub](https://github.com/LunarEclipseCode/engrc-3500-team2) - Android Usage Guides
+* [Techbone](https://www.techbone.net/) - Android Usage Guide
 * [ADB101](https://rentry.co/adb101) - Android Debug Bridge Setup Guide
 * [Device Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
 * [Swappa](https://swappa.com/imei) / [Subreddit](https://reddit.com/r/swappa) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
@@ -718,7 +718,7 @@
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [GameHub Lite](https://github.com/Producdevity/gamehub-lite) - Windows game Emulator / Launcher
+* [GameHub Lite](https://github.com/Producdevity/gamehub-lite) - Windows Game Emulator / Launcher
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators
 
@@ -1055,7 +1055,6 @@
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
 * [iTorrent](https://github.com/XITRIX/iTorrent) / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json) or [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent) - Torrent Clients 
 * [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iOS/iPad) Management Tool
-* [Toolbox](https://github.com/Koizeay/Toolbox) - Multi-Tool App
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
 * [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [ChatBox](https://github.com/Bin-Huang/chatbox), [FullMoon](https://fullmoon.app/) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
@@ -1082,7 +1081,7 @@
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons without Shortcuts
 * [RoutineHub](https://routinehub.co/) - Shortcuts
 * [Color Widgets](https://apps.apple.com/app/id1531594277) or [WidgetSmith](https://apps.apple.com/app/id1523682319) - iOS Widgets
-* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/app/id1487658334) - YouTube Downloaders
+* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) - YouTube Downloader
 * [Keynote](https://apps.apple.com/app/id361285480) or [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) - Make Presentations
 * [WiFi Map](https://apps.apple.com/app/wifi-map-esim-internet-finder/id548925969) - Public WiFi Maps
 * [⁠Particle](https://particle.news/) or [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation Apps
@@ -1146,7 +1145,6 @@
 * [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2-9.3.3 Semi-Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-pangu933/)
 * [HomeDepot](https://web.archive.org/web/20240121141909/http://wall.supplies/) - 9.1-9.3.4 Semi-Untethered Jailbreak (32-bit Only) / [Guide](https://ios.cfw.guide/installing-homedepot/)
 * [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0GM-9.1 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-pangu9/)
-* [kok3shi9](https://dora2ios.web.app/kokeshi9.html) - 9.3.2-9.3.5 Semi-Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-kok3shi9/)
 * [wtfis](https://github.com/TheRealClarity/wtfis) - 8.0-8.4.1 Untethered Jailbreak (64-bit Only) / [Guide](https://ios.cfw.guide/installing-wtfis/)
 * [HomeDepot OLD](https://web.archive.org/web/20240121141903/https://wall.supplies/OLD%20iPhone%20HACKED.html) - 8.0-8.4.1 Semi-Untethered Jailbreak (A5-A5X) / [Guide](https://ios.cfw.guide/installing-homedepot/)
 * [Carbon](http://carbon.sep.lol/) - 8.0-9.3.6 Untethered Jailbreak (32-bit Only)

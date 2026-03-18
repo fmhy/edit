@@ -296,7 +296,7 @@
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
-* [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) or [SeligSIM](https://www.seligsim.com/) - Flight Simulators for RC Planes
+* [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
 * [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
 * [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
 * [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
@@ -1389,7 +1389,6 @@
 
 * [design.tips](https://www.designer.tips/) or [Utopia](https://utopia.fyi/) - Design Tips
 * [HackDesign](https://hackdesign.org/) or [Sky Design](https://github.com/josephgoksu/sky-design) - UI / Webdesign Courses
-* [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf) - UI / UX Design Book
 * [Can't Unsee](https://cantunsee.space/) - UI Design Test
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
 * [SitePoint](https://www.sitepoint.com/) - UX Design Courses & Books

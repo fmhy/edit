@@ -105,7 +105,7 @@
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
-* [DownloadHa](https://www.downloadha.com/)
+* [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) 
 * [Moum](https://moum.top/en/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels

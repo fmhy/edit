@@ -73,7 +73,6 @@
 * [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [GitHub](https://github.com/AyrA/text2img)
 * [Shutter Encoder](https://www.shutterencoder.com/) - File Converter / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB / Web
-* [⁠OfflineConvert](https://www.offlineconvert.com/) - Offline / File Converter / Web
 * [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB / Web
 * [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies / Web
 * [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB / Web
