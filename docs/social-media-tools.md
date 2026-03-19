@@ -544,6 +544,8 @@
 * [Osomenet](https://osome.iu.edu/tools/osomenet/) - Twitter Info Spread Data
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect X.com Link on a Page
+* [tweetXer](https://github.com/lucahammer/tweetXer) - Delete X.com Posts
+* [X.com Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from X.com
 
 ***
 
@@ -657,7 +659,7 @@
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
-* [Nostr](https://nstart.me/) - Federated Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
+* [Nostr](https://nstart.me/) - Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide
 * [FediSearch](https://fedi-search.com/) - Fediverse Search

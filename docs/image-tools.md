@@ -402,9 +402,9 @@
 * ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
-* ⭐ **[Copyseeker](https://copyseeker.net/)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
 * [⁠Bing Visual Search](https://bing.com/camera) - Reverse Image Search
+* [Copyseeker](https://copyseeker.net/) - Reverse Image Search
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)

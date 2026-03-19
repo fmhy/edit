@@ -906,7 +906,7 @@
 
 ## ▷ GTA Tools
 
-* 🌐 **[GTAAll](https://www.gtaall.com/)**, [⁠GTAForums](https://gtaforums.com/), [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
+* 🌐 **[GTAAll](https://www.gtaall.com/)**, [⁠GTAForums](https://gtaforums.com/), [⁠FusionFix](https://fusionfix.io/), [GTAInside](https://gtainside.de/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
 * 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods

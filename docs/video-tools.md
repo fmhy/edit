@@ -223,7 +223,7 @@
 
 ## ▷ Stream Sync
 
-* ⭐ **[SyncPlay](https://syncplay.pl/)** - App
+* ⭐ **[Synkplay](https://syncplay.pl/)** - App
 * ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
