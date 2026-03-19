@@ -539,6 +539,7 @@
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
 * [Upstract](https://upstract.com/)
+* [newstel](https://newstel.vercel.app/)
 * [⁠100.news](https://100.news/)
 * [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)

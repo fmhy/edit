@@ -244,7 +244,7 @@
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
-* [DocMost](https://docmost.com/) - Note-Taking
+* [DocMost](https://docmost.com/) - Note-Taking / [GitHub](https://github.com/docmost/docmost)
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes

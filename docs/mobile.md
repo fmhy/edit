@@ -24,7 +24,6 @@
 * [Modyolo](https://modyolo.com/) / [Telegram](https://t.me/modyolo_official) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md)
 * [Nsane Forums](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/) / [Subreddit](https://www.reddit.com/r/SbennyOfficial/)
-* [farsroid](https://www.farsroid.com/) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/farsroid_official)
 * [APKSum](https://www.apksum.com/)
 * [⁠Android Zone](https://android-zone.ws/)
 * [AndroidRepublic](https://androidrepublic.org/)
@@ -328,8 +327,6 @@
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.org/)** - Rooted App Index / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
 * 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootlocker Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
-* ⭐ **[KernelSU](https://kernelsu.org/)**, [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next), [Magisk](https://github.com/topjohnwu/Magisk), [⁠Magisk Alpha](https://t.me/magiskalpha), [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [MTKClient](https://github.com/bkerler/mtkclient), [APatch](https://github.com/bmax121/APatch) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
@@ -340,6 +337,22 @@
 * [⁠Rezygisk](https://github.com/PerformanC/ReZygisk) - Zygote Injection Engine 
 * [ReLSPosed](https://github.com/ThePedroo/ReLSPosed) or [LSPosed](https://github.com/JingMatrix/LSPosed) - Module-Based Customization Framework
 * [PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel Phone Flashing GUI
+
+***
+
+## ▷ Root Managers
+
+* ⭐ **[KernelSU](https://kernelsu.org/)**
+* ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+* [Magisk](https://github.com/topjohnwu/Magisk)
+* [⁠Magisk Alpha](https://t.me/magiskalpha)
+* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
+* [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
+* [MTKClient](https://github.com/bkerler/mtkclient)
+* [APatch](https://github.com/bmax121/APatch)
+* [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su)
+* [FolkPatch](https://fp.mysqil.com/en) / [GitHub](https://github.com/matsuzaka-yuki/FolkPatch)
 
 ***
 
@@ -431,7 +444,7 @@
 * [notesGPT](https://usenotesgpt.com/) - AI Voice Notes
 * [AudioNote](https://certified84.github.io/AudioNote/) or [⁠Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - Video / Voice Recorders
 * [⁠AndroidMic](https://github.com/teamclouday/AndroidMic) - Use Android as PC Mic
-* [ChatBox](https://github.com/Bin-Huang/chatbox), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
+* [ChatBox](https://github.com/Bin-Huang/chatbox), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
 * [⁠Arc](https://play.google.com/store/apps/details?id=com.rethink.arc) - AI Assistant
 * [Safe Headphones](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -535,7 +548,7 @@
 
 * 🌐 **[Firefox Extensions](https://addons.mozilla.org/android/)** - Android Firefox Addon Store
 * ⭐ **[Firefox](https://www.firefox.com/browsers/mobile/android/)** - Customizable Browser / Extensions / [Focus](https://www.firefox.com/browsers/mobile/focus/) / [Nightly](https://www.firefox.com/channel/android/#nightly)
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Extensions / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based / Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
 * ⭐ **[IronFox](https://ironfoxoss.org/)** - Mull Browser Fork / Extensions / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh) / [GitLab](https://gitlab.com/ironfox-oss/IronFox)
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Firefox-Based / Extensions
@@ -718,7 +731,8 @@
 * [Limbo](https://github.com/limboemu/limbo) or [TermOne Plus](https://termoneplus.com/) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
-* [GameHub Lite](https://github.com/Producdevity/gamehub-lite) - Windows Game Emulator / Launcher
+* [GameHub Lite](https://github.com/Producdevity/gamehub-lite) - Game Emulator / Launcher
+* [⁠GameNative]https://gamenative.app/) - Game Emulator / Launcher / [Discord](https://discord.gg/2hKv4VfZfE) / [GitHub](https://github.com/utkarshdalal/GameNative)
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators
 
@@ -955,7 +969,6 @@
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
-* [PopcornTime](https://popcorn-time.site) - Torrent Streaming / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
 * [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Plugins](https://discord.com/invite/7yPSPveReu)
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV
@@ -1084,7 +1097,7 @@
 * [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) - YouTube Downloader
 * [Keynote](https://apps.apple.com/app/id361285480) or [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) - Make Presentations
 * [WiFi Map](https://apps.apple.com/app/wifi-map-esim-internet-finder/id548925969) - Public WiFi Maps
-* [⁠Particle](https://particle.news/) or [Quill News Digest](https://quillnewsdigest.com/) - News Aggregation Apps
+* [⁠Particle](https://particle.news/) - News Aggregation App
 * [Fiery Feeds](https://apps.apple.com/app/id1158763303), [Feeeed](https://apps.apple.com/app/id1600187490), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/app/id1480640210) - RSS Reader
 * [Read Aloud AI](https://readaloudai.com/ios) - Text to Speech
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)

@@ -127,17 +127,21 @@
 * ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Portal Generator](https://flavourmachine.com/portal-generator/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Citywalki](https://www.citywalki.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
+* [MuseiVaticani](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html) - Virtual Museum Tours
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Digital Giza](https://mused.com/giza/) - Great Pyramid Virtual Tours
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [BelowTheSurface](https://belowthesurface.amsterdam/en) - Archeological Object DB of Amsterdam
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
+* [TNMOC](https://www.tnmoc.org/3d-virtual-tour2) - National Museum of Computing Tour
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
+* [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
 * [360Cities](https://www.360cities.net/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
+* [National Palace Museum](https://tech2.npm.edu.tw/720vr/enHome.html) - National Palace Museum Virtual Tours
 * [The Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) - Bayeux Tapestry 3D Digitization
 
 ***
@@ -170,7 +174,7 @@
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) or [DoublePendulum](https://theabbie.github.io/DoublePendulum/) - Pendulum Simulators
-* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
+* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/), [OpenFOAM](https://www.openfoam.com/) / [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
 * [WebGL Water](https://madebyevan.com/webgl-water/) - Water Simulation
@@ -600,13 +604,14 @@
 
 ## ▷ Mythology / Folklore
 
+* ⭐ **[GodChecker](https://www.godchecker.com/)** - Religion / Mythology History
+* ⭐ **[Theoi](https://www.theoi.com/)** - Greek Mythology
 * [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
-* [GodChecker](https://www.godchecker.com/) - Religion / Mythology History
-* [Theoi](https://www.theoi.com/) - Greek Mythology
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
+* [FolkTexts](https://sites.pitt.edu/~dash/folktexts.html) - Mythology / Folklore
 * [Mythology.net](https://mythology.net/) - Mythology / Religion
 * [Japanese Mythology](https://japanesemythology.wordpress.com/) or [Yokai](https://yokai.com/) - Japanese Mythology / Folklore
 
@@ -705,7 +710,7 @@
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
-* [cholyknight](https://cholyknight.com/), [AntiquePatternLibrary](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns 
+* [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/), [AntiquePatternLibrary](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns 
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
@@ -1595,6 +1600,7 @@
 
 * ⭐ **[Anki](https://apps.ankiweb.net/)** - Flashcard App / [Subreddit](https://www.reddit.com/r/Anki/) / [Discord](https://discord.gg/jUvBM2sEs4) / [GitHub](https://github.com/ankitects/anki)
 * ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html), [2](https://github.com/tianshanghong/awesome-anki)
+* [Anki Android](https://github.com/ankidroid/Anki-Android) or [AnkiWeb (iOS)](https://ankiweb.net/decks) - Anki Mobile Apps / [Discord](https://discord.gg/qjzcRTx)
 * [StudyCraft](https://studycraft.dev/) - Flashcard App / [GitHub](https://github.com/rodmarkun/StudyCraft)
 * [StudyLib](https://www.studylib.net/) - Online Flashcards
 * [Flippity](https://www.flippity.net/) - Online Flashcards

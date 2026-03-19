@@ -30,13 +30,12 @@
 
 * 🌐 **[HiFi Tidal Instances](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
-* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) or [mono.squid.wtf](https://mono.squid.wtf/) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-* [squid.wtf](https://tidal.squid.wtf) - HiFi Tidal Instance / [Discord](https://discord.gg/yuvnx7FS89)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
@@ -124,6 +123,7 @@
 * [ConcertArchives](https://www.concertarchives.org/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
+* [Konserthuset](https://www.konserthuset.se/en/play/) - Orchestra Recordings
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 * [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
 * [RATM.live](https://ratm.live/) - Rage Against the Machine Live Archive
@@ -332,7 +332,7 @@
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts
 * [Kotify](https://github.com/dzirbel/kotify) or [Skiley](https://skiley.net/) - Spotify Library Managers
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Display Synced Lyrics
-* [Syrics](https://syrics-web-akashrchandran.vercel.app/) - Download Synced Lyrics / [GitHub](https://github.com/akashrchandran/syrics-web)
+* [Syrics](https://github.com/akashrchandran/syrics-web) - Download Synced Lyrics
 * [LoaderSpot](https://loadspot.pages.dev/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
 * [Opslagify](https://opslagify.deruever.nl/) - Calculate Storage Size of Spotify Library
@@ -400,6 +400,7 @@
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Mod](https://github.com/OrfiDev/orpheusdl-qobuz)
 * [Archive](https://rentry.co/FMHYB64#archive) - Qobuz / Tidal / Soundcloud / FLAC
+* [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Qobuz / Tidal / Amazon Music / FLAC
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
 * [Audion](https://audionplayer.com/) - Tidal / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
@@ -697,11 +698,11 @@
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/) - Album Chart Database 
-* [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlist from 2 Artists
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [Random Song](https://randomsong.org/), [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) - Discover Albums
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
+* [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
 * [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.imgur.com/FDx8jKa.png), [2](https://files.catbox.moe/v7hy49.png)
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
@@ -733,7 +734,7 @@
 
 # ► Audio Tools
 
-* 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources / [Discord](https://kutt.it/BinauralDiscord)
+* 🌐 **[Binaural Audio](https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio)** - Binaural / 3D Audio Resources
 * ↪️ **[System Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_system_audio)**
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**

@@ -307,6 +307,7 @@
 * [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
 * [LA Times](https://latimes.newspapers.com/)
 * [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
+* [Elephind](https://www.elephind.com/) - Historical Newspaper Archive
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
 * [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
 
@@ -359,6 +360,7 @@
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
+* [Sunnah.com](https://sunnah.com/) - Hadith Translation
 * [Sikh National Archives](https://www.sikhnationalarchives.com/) or [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Login Required
 * [Sri Granth](https://www.srigranth.org/) - Guru Granth Sahib Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
@@ -367,7 +369,6 @@
 * [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
 * [2Muslims](https://www.2muslims.com/) - Muslim Resources
 * [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
-* [Sunnah.com](https://sunnah.com/) - Hadith Translation
 
 ***
 
@@ -401,7 +402,6 @@
 
 * ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
 * ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
-* [FullLengthAudiobooks](https://fulllengthaudiobooks.net/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.net/)
 * [HotAudioBooks](https://hotaudiobooks.com/)
@@ -409,7 +409,6 @@
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
 * [NAudios](https://naudios.com/)
-* [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
@@ -477,11 +476,11 @@
 * ⭐ **[⁠Comix](https://comix.to/)** / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 * ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
+* ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Kagane](https://kagane.org/)** - Manhwa / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
 * [⁠OniSaga](https://onisaga.com/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MangaBall](https://mangaball.net/)
@@ -633,7 +632,6 @@
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
-* [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations

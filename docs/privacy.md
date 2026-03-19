@@ -362,17 +362,16 @@
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[searx.space](https://searx.space/)** or [FMHY Searx](https://searx.fmhy.net/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) - SearXNG Instances / Metasearch / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
+* ⭐ **[searx.space](https://searx.space/)** or [FMHY Searx](https://searx.fmhy.net/) / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) - SearXNG Instances / Metasearch / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDB Bangs
+* ⭐ **[4get](https://4get.canine.tools/)**, [2](https://4get.ca/), [3](https://4g.opnxng.com/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get) / [Instances](https://4get.ca/instances)
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances / Metasearch
 * [LibreY](https://ly.owo.si/) - Metasearch / [Instances](https://search.liv.town/instances.php), [2](https://search.davidovski.xyz/instances.php) / [GitHub](https://github.com/Ahwxorg/librey/)
 * [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
-* [4get](https://4get.ca/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get) / [Instances](https://4get.ca/instances)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
-* [SearXNG](https://docs.searxng.org/) - Self-Hosted / Metasearch / [GitHub](https://github.com/searxng/searxng)
 
 ***
 

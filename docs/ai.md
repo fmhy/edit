@@ -282,6 +282,7 @@
 * [⁠ACE-Step 1.5](https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5) / No Sign-Up / [GitHub](https://github.com/ace-step/ACE-Step-1.5)
 * [AIVA](https://aiva.ai/) / [Discord](https://discord.com/invite/ypDnFXN)
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
+* [⁠Producer.ai](https://www.producer.ai/)
 * [⁠MusicGPT](https://musicgpt.com/) / Refresh Limits w/ New Account (temp mail)
 * [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) / No Sign-Up / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Eapy](https://home.eapy.io/) - MIDI Sample Generator
@@ -400,6 +401,7 @@
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
 * [Jailbreak Listings](https://rentry.org/jb-listing) - Prompt Directory / Jailbreaks
+* [InjectPrompt Companion](https://companion.injectprompt.com/) - AI Jailbreak Prompt Assistant
 * [⁠Heretic](https://github.com/p-e-w/heretic) - AI Jailbreak / Anti-Censorship Tool / [Discord](https://discord.gg/gdXc48gSyT)
 * [promptfoo](https://www.promptfoo.dev/) - Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)
 * [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games

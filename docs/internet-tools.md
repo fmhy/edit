@@ -202,7 +202,6 @@
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Personal Site Search / Open Source
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools
-* [Refseek](https://www.refseek.com/) - Academic Search Engine
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/) or [OpenBuckets](https://openbuckets.io/) - Amazon S3 Buckets Search
 * [Yandex Search Operators](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/) - Yandex Search Operator Resources
@@ -234,6 +233,7 @@
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
 * [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [CombinedSearch](https://combinedsearch.io/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [100 Search Engines](https://www.100searchengines.com/) - Search with 100 Search Engines
+* [Mwmbl](https://mwmbl.org/) - Community Organized Search Engine / [GitHub](https://github.com/mwmbl/mwmbl)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
 * [Marginalia Search](https://marginalia-search.com/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
@@ -846,7 +846,7 @@
 * [Tubeup](https://github.com/bibanon/tubeup) - Multi-VOD Service to IA Uploader
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [Monolith](https://github.com/Y2Z/monolith) or [Single File](https://addons.mozilla.org/en-US/firefox/addon/single-file) - Save Webpages as HTML
-* [WAIL](https://matkelly.com/wail) - GUI for Archiving Tools / [GitHub](https://github.com/machawk1/wail)
+* [WAIL](https://machawk1.github.io/wail/) - GUI for Archiving Tools / [GitHub](https://github.com/machawk1/wail)
 * [ReplayWeb](https://replayweb.page/) or [OldWeb](https://oldweb.today/) - View Web Archive Files
 * [ArchiveWeb.page](https://archiveweb.page/) - Browser Extension
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Archive Wikis

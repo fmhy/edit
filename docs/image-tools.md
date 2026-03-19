@@ -199,6 +199,7 @@
 * [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
 * [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/), [PixelartGenerator](https://pixelartgenerator.app/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
+* [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
@@ -401,11 +402,11 @@
 * ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
+* ⭐ **[Copyseeker](https://copyseeker.net/)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
 * [⁠Bing Visual Search](https://bing.com/camera) - Reverse Image Search
 * [infini.wtf](https://infini.wtf/) - Reddit Image Search
 * [IQDB](https://iqdb.org/) - Reverse Image Search
-* [CopySeeker](https://copyseeker.net/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search

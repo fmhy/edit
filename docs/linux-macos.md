@@ -112,7 +112,7 @@
 * [Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for Linux
 * [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
 * [Wike](https://github.com/hugolabe/Wike) - Wikipedia App
-* [Komikku](https://komikku-app.github.io/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
+* [Komikku](https://flathub.org/en/apps/info.febvre.Komikku), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
 * [Mako](https://github.com/emersion/mako) or [dunst](https://dunst-project.org/) / [GitHub](https://github.com/dunst-project/dunst) - Customizable Notification Daemon
 * [Eloquent](https://github.com/sonnyp/Eloquent) or [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check Apps
 * [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
@@ -463,7 +463,7 @@
 * 🌐 **[Awesome Shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://tldr.inbrowser.app/) / [GitHub](https://github.com/tldr-pages/tldr) or [AltBox](https://altbox.dev/) - Linux Shell Resources
 * 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** or [TerminalTrove](https://terminaltrove.com/) - TUI Indexes
 * 🌐 **[⁠Awesome Terminal Recorder](https://github.com/orangekame3/awesome-terminal-recorder)** - Terminal Recorder Index
-* ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/) or [Nushell](https://www.nushell.sh/) - Command Line Shells
+* ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/), [Nushell](https://www.nushell.sh/) or [oils](https://oils.pub/) / [GitHub](https://github.com/oils-for-unix/oils) - Command Line Shells
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
 * ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/) or [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux Terminal Emulators
 * ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line Lessons
