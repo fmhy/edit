@@ -119,6 +119,7 @@
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes / [GitHub](https://github.com/Tw1ddle/geometrize)
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
+* [Pixelate Image](https://www.pixelateimage.co/) - Pixelate Images - with multiple area select support
 
 ***
 
