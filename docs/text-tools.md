@@ -220,40 +220,40 @@
 ## ▷ Note-Taking
 
 * ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_text_tools)**
-* ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / [Discord](https://discord.gg/obsidianmd)
+* ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.gg/obsidianmd)
 * ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
-* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
-* ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
-* ⭐ **[Logseq](https://logseq.com/)** - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
-* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / E2EE / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
-* [Simplenote](https://simplenote.com/) - Note-Taking / [GitHub](https://github.com/Automattic/simplenote-electron)
-* [AFFiNE](https://affine.pro/) - Note-Taking / [GitHub](https://github.com/toeverything/AFFiNE)
-* [Notion](https://www.notion.com/) - Note-Taking
+* ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / Windows, Mac, Linux, Android, iOS / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
+* ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
+* ⭐ **[Logseq](https://logseq.com/)** - Outlining / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
+* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / E2EE / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
+* [Simplenote](https://simplenote.com/) - Note-Taking / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/Automattic/simplenote-electron)
+* [AFFiNE](https://affine.pro/) - Note-Taking / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/toeverything/AFFiNE) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/affine-note.md)
+* [Notion](https://www.notion.com/) - Note-Taking / Windows, Mac, Android, iOS
 * Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
-* [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / [GitHub](https://github.com/lokus-ai/lokus)
-* [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager
-* [Mochi Cards](https://mochi.cards/) or [Silicon](https://github.com/cu/silicon) - Note-Taking / Study Tools
-* [Flotes](https://flotes.app/) - Markdown Note-Taking
-* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking
-* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / [GitHub](https://github.com/vnotex/vnote)
-* [Tiddly](https://tiddlywiki.com/) - Info Manager / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
-* [Org-roam](https://www.orgroam.com/) - Info Manager
-* [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [Memos](https://usememos.com/) - Note-Taking / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
-* [Papers.IM](https://papers.im/) - Note-Taking
-* [Janta](https://app.janta.dev/) - Note-Taking
-* [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
-* [MicroPad](https://getmicropad.com/) - Note-Taking
-* [WriteDown](https://writedown.app/) - Note-Taking
-* [DocMost](https://docmost.com/) - Note-Taking / [GitHub](https://github.com/docmost/docmost)
-* [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE
-* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / [GitHub](https://github.com/martinstoeckli/SilentNotes)
-* [Google Keep](https://keep.google.com/) - Simple Notes
-* [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE
-* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
-* [Saber](https://saber.adil.hanney.org/) - Handwritten Notes
-* [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
-* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
+* [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/lokus-ai/lokus)
+* [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager / Windows, Mac, Linux
+* [Mochi Cards](https://mochi.cards/) - Note-Taking / Study Tools / Windows, Mac, Linux, Android, iOS
+* [Silicon](https://github.com/cu/silicon) - Note-Taking / Self-Hosted
+* [Flotes](https://flotes.app/) - Markdown Note-Taking / Web-Based
+* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, Mac, Linux
+* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/vnotex/vnote)
+* [Tiddly](https://tiddlywiki.com/) - Info Manager / Windows, Mac, Linux / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+* [Org-roam](https://www.orgroam.com/) - Info Manager / Self-Hosted / [GitHub](https://github.com/org-roam/org-roam)
+* [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / Windows / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
+* [Memos](https://usememos.com/) - Note-Taking / Self-Hosted / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
+* [Papers.IM](https://papers.im/) - Note-Taking / Web-Based
+* [Joplin](https://joplinapp.org/) - Note-Taking / Windows, Mac, Linux, Android, iOS / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
+* [MicroPad](https://getmicropad.com/) - Note-Taking / Windows, Mac, Linux / [Web](https://web.getmicropad.com/)
+* [WriteDown](https://writedown.app/) - Note-Taking / Web-Based / [GitHub](https://github.com/NayamAmarshe/writedown)
+* [DocMost](https://docmost.com/) - Note-Taking / Self-Hosted / [GitHub](https://github.com/docmost/docmost)
+* [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE / Windows
+* [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / Windows, Android / [GitHub](https://github.com/martinstoeckli/SilentNotes)
+* [Google Keep](https://keep.google.com/) - Simple Notes / Android, iOS / [Chrome](https://chromewebstore.google.com/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
+* [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE / Windows, Mac, Linux, Android, iOS
+* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / Windows, Mac, Linux, Android, iOS / [Web](https://app.standardnotes.com/) [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
+* [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / Windows, Mac, Linux, Android, iOS [GitHub](https://github.com/saber-notes/saber)
+* [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
+* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / Windows, Mac, Linux / [GitHub](https://github.com/xournalpp/xournalpp)
 * [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 
 ***
