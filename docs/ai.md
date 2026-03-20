@@ -161,7 +161,6 @@
 
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[⁠GeminiGenAI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s / Login required / Reset Limits w/ Temp Mail / [Discord](https://discord.gg/vJnYe86T8F)
-* ⭐ **[Grok Imagine](https://grok.com/imagine)** - Traffic-Based / Imagine 0.9 / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[⁠Klipy](https://klipy.com/create/gif-maker/)** - Veo 3 / GIF Only / 4s-5s / Unlimited / Requires Sign-Up
 * ⭐ **[Arena](https://arena.ai/?chat-modality=video)**, [2](https://canaryarena.ai/video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct Mode / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
@@ -216,6 +215,7 @@
 * [⁠FlatAI](https://flatai.org/ai-image-generator-free-no-signup/) or [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) - Z-Image Turbo
 * [⁠Ernie](https://ernie.baidu.com/) - Unlimited / Editing / Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
+* [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2 / 10 Daily / Sign-Up
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [ToolBaz](https://toolbaz.com/image/ai-image-generator), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone / US Select CA
 * [imgsys](https://imgsys.org/) - Compare Generators / Unlimited / No Direct Mode

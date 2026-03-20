@@ -185,6 +185,7 @@
 
 * ⭐ **[Monkeytype](https://monkeytype.com/)** - Custom Touch Typing Tests / [Discord](https://discord.com/invite/monkeytype) / [GitHub](https://github.com/monkeytypegame/monkeytype)
 * ⭐ **[keybr](https://www.keybr.com/)** - Custom Touch Typing Practice / [GitHub](https://github.com/aradzie/keybr.com)
+* [⁠Layouts Wiki](https://layouts.wiki/) - Alt Typing Layouts Wiki 
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/), [⁠TypeGG](https://typegg.io/) / [Discord](https://discord.com/invite/64v955z) or [typing.works](https://typing.works/) - Typing Tests
 * [Typing.com](https://www.typing.com/) - Touch Typing Lessons

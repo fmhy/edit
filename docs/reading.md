@@ -907,7 +907,7 @@
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
-* [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
+* [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
 * [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews

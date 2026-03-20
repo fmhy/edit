@@ -113,7 +113,6 @@
 * [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Requires Sign-Up / [Discord](https://discord.gg/wfJs3eJvHa)
 * [⁠The Gear VR Vault](https://vault.gearvr.net/) - VR Abandonware Games / Apps
 * [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
-* [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Subreddit
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
@@ -737,6 +736,7 @@
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
+* [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
 
 ***
 
@@ -773,7 +773,6 @@
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [Ultimate Game Stash](https://rentry.co/FMHYB64#ugs) - Browser Games / HTML5
-* [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
 
 ***
 

@@ -63,7 +63,7 @@
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
 * [⁠PressReleased](https://pressreleased.alwaysdata.net/) - Paywall Bypass Tool / [Discord](https://discord.gg/fn33a5mq8w)
 * [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
-* [smry.ai](https://smry.ai/) - Paywall Bypass Tool / [GitHub](https://github.com/mrmps/SMRY)
+* [smry.ai](https://smry.ai/) - Paywall Bypass Tool
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 
@@ -173,7 +173,7 @@
 
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
 * [MoRSS](https://morss.it/)
-* [RSSHub](https://github.com/DIYgod/RSSHub)
+* [RSSHub](https://docs.rsshub.app/) / [GitHub](https://github.com/DIYgod/RSSHub)
 * [RSS Finder](https://rss-finder.rook1e.com/) / [GitHub](https://github.com/0x2E/rss-finder)
 * [FetchRSS](https://fetchrss.com/)
 * [RSS Diffbot](https://rss.diffbot.com/)
@@ -460,6 +460,7 @@
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [CF Temp Mail](https://em.bjedu.tech/en), [2](https://mail.awsl.uk/en) - Forever / Forever / 5 Domains / [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email/blob/main/README_EN.md)
 * [⁠DuckSpam](https://duckspam.com/) - Forever / Forever / 1 Domain
+* [TemporaryMail.com](https://temporarymail.com/) - Forever (use once every 14 days) / 7 Domains
 * [TempEmail](https://www.tempemail.cc/) - Forever / Forever / 1 Domain
 * [Reusable.email](https://reusable.email/) - Forever / Forever / 1 Domain / [Telegram](https://t.me/reusable)
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
@@ -484,7 +485,6 @@
 * [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
 * [tempmail.altmails](https://tempmail.altmails.com/) - 1 Day / 1 Day / 1 Domain
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Mails.org](https://mails.org/) - 30 Mins / 5 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain

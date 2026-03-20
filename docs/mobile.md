@@ -501,6 +501,7 @@
 * [Orbot](https://orbot.app/en/), [2](https://guardianproject.info/apps/org.torproject.android/) - Tor Proxy Apps
 * [Privacy Guides](https://www.privacyguides.org/en/android/), [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
+* [Network Survey](https://github.com/christianrowlands/android-network-survey) - Mobile Network Scanner / Survey Tool 
 * [TrackerControl](https://trackercontrol.org/) / [GitHub](https://github.com/TrackerControl/tracker-control-android) or [⁠Privacy Guard](https://play.google.com/store/apps/details?id=com.franko.privacyguard) - Tracker Monitors / Controllers
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
@@ -547,10 +548,10 @@
 ***
 
 * 🌐 **[Firefox Extensions](https://addons.mozilla.org/android/)** - Android Firefox Addon Store
-* ⭐ **[Firefox](https://www.firefox.com/browsers/mobile/android/)** - Customizable Browser / Extensions / [Focus](https://www.firefox.com/browsers/mobile/focus/) / [Nightly](https://www.firefox.com/channel/android/#nightly)
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based / Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium-Based / Extensions (Settings > Dev Options) / Built-in Adblock / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[IronFox](https://ironfoxoss.org/)** - Mull Browser Fork / Extensions / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh) / [GitLab](https://gitlab.com/ironfox-oss/IronFox)
+* ⭐ **[Firefox](https://www.firefox.com/browsers/mobile/android/)** - Customizable Browser / Extensions / [Focus](https://www.firefox.com/browsers/mobile/focus/) / [Nightly](https://www.firefox.com/channel/android/#nightly)
 * [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Firefox-Based / Extensions
 * [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Firefox-Based / Extensions / [GitLab](https://gitlab.com/relan/fennecbuild)
 * [FFUpdater](https://github.com/Tobi823/ffupdater) - Multi-Browser Updater
@@ -957,9 +958,9 @@
 
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
 * ⭐ **[Stremio](https://www.stremio.com/)** or [Nuvio](https://nuvioapp.space/) / [GitHub](https://github.com/tapframe/NuvioStreaming) - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
-* ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md) 
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
@@ -1350,6 +1351,7 @@
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
+* [PlayTorrio](https://playtorrio.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrio)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV

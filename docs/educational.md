@@ -422,7 +422,7 @@
 * [LibreTexts Med](https://med.libretexts.org/Bookshelves) - Medical Learning / Guides
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) - Anatomy Guides
-* [Zygote Body](https://www.zygotebody.com/), [AnatomyLearning](https://anatomylearning.com/) or [Biodigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
+* [Zygote Body](https://www.zygotebody.com/), [AnatomyLearning](https://anatomylearning.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
 * [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
@@ -1555,7 +1555,8 @@
 
 ## ▷ Study / Research
 
-* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/), [KausalFlow](https://tools.kausalflow.com/), [Foam](https://foambubble.github.io/), [Zotero](https://www.zotero.org/), [ResearchRabbit](https://www.researchrabbit.ai/) or [Scrible](https://www.scrible.com/) - Research Tools
+
+* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/) or [KausalFlow](https://tools.kausalflow.com/) - Research Tool Indexes
 * ↪️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
@@ -1567,7 +1568,7 @@
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
 * [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
-* [⁠Paper Trails](https://www.papertrailshq.com/) - Academic Paper Tracker 
+* [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
 * [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
@@ -1577,7 +1578,10 @@
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
+* [Foam](https://foambubble.github.io/) - Knowledge Management System
+* [Zotero](https://www.zotero.org/) - Research Assistant
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
+* [Scrible](https://www.scrible.com/) - Research / Writing Platform
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby)
