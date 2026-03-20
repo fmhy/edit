@@ -232,13 +232,13 @@
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
 * [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [⁠Vijay's Radio Vibes](https://vijaysradiovibes.pages.dev/) - Random Radio Stations
-* [AccuRadio](https://www.accuradio.com/)
-* [Q-3](https://www.q-3.eu/)
-* [⁠DubLab](https://www.dublab.com/)
-* [⁠BoxRadio](https://boxradio.net/)
-* [You Radio](https://play.you.radio/)
-* [Audiophile](https://audiophile.fm/)
-* [Vidbox Radio](https://vidbox.cc/radio)
+* [AccuRadio](https://www.accuradio.com/) - Online Radio Directory
+* [Q-3](https://www.q-3.eu/) - Online Radio Directory
+* [⁠DubLab](https://www.dublab.com/) - Online Radio
+* [⁠BoxRadio](https://boxradio.net/) - Online Radio Directory
+* [You Radio](https://play.you.radio/) - Online Radio Directory
+* [Audiophile](https://audiophile.fm/) - Online Radio Directory
+* [Vidbox Radio](https://vidbox.cc/radio) - Online Radio Directory
 * [ShoutCast](https://directory.shoutcast.com/) - User-Stations
 * [Zeno.fm](https://zeno.fm/) - User-Stations
 * [Live365](https://live365.com/) - User-Stations
