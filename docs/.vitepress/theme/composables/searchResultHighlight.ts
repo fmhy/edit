@@ -1,6 +1,7 @@
 import Mark from 'mark.js'
 
 const SEARCH_RESULT_HIGHLIGHT_KEY = 'fmhy:search-result-highlight'
+export const SEARCH_HIGHLIGHTS_STORAGE_KEY = 'vitepress:local-search-highlights'
 const SEARCH_RESULT_MARK_CLASS = 'search-result-highlight'
 const SEARCH_RESULT_CURRENT_CLASS = 'search-result-highlight-current'
 const SEARCH_RESULT_TARGET_CLASS = 'search-result-highlight-target'
@@ -36,6 +37,11 @@ function getResultPath(resultId: string) {
 
 function getCurrentPath() {
   return normalizePath(window.location.pathname)
+}
+
+function areSearchHighlightsEnabled() {
+  if (typeof window === 'undefined') return true
+  return window.localStorage.getItem(SEARCH_HIGHLIGHTS_STORAGE_KEY) !== 'false'
 }
 
 function readPayload(): SearchResultHighlightPayload | null {
@@ -116,6 +122,30 @@ function wait(ms = 50) {
   return new Promise((resolve) => window.setTimeout(resolve, ms))
 }
 
+function getScrollOffset() {
+  const root = document.documentElement
+  const navHeight = Number.parseFloat(getComputedStyle(root).getPropertyValue('--vp-nav-height')) || 64
+  return navHeight + 20
+}
+
+function scrollElementIntoComfortView(element: HTMLElement) {
+  const rect = element.getBoundingClientRect()
+  const offset = getScrollOffset()
+  const viewportHeight = window.innerHeight
+  const topBoundary = offset
+  const bottomBoundary = viewportHeight - 80
+
+  if (rect.top >= topBoundary && rect.bottom <= bottomBoundary) {
+    return
+  }
+
+  const targetTop = window.scrollY + rect.top - offset
+  window.scrollTo({
+    top: Math.max(0, targetTop),
+    behavior: 'smooth'
+  })
+}
+
 function dedupeTerms(terms: Iterable<string>) {
   return [...new Set([...terms].map((term) => term.trim()).filter(Boolean))]
 }
@@ -178,14 +208,20 @@ export async function clearSearchResultHighlight() {
   })
 }
 
-export async function syncSearchResultHighlight(maxRetries = 8) {
-  if (typeof window === 'undefined' || typeof document === 'undefined') return
+export async function syncSearchResultHighlight(maxRetries = 8, clearAfterSync = true) {
+  if (typeof window === 'undefined' || typeof document === 'undefined') return false
+
+  if (!areSearchHighlightsEnabled()) {
+    await clearSearchResultHighlight()
+    clearPayload()
+    return false
+  }
 
   const payload = readPayload()
-  if (!payload) return
+  if (!payload) return false
 
   if (getResultPath(payload.resultId) !== getCurrentPath()) {
-    return
+    return false
   }
 
   for (let attempt = 0; attempt < maxRetries; attempt++) {
@@ -232,14 +268,37 @@ export async function syncSearchResultHighlight(maxRetries = 8) {
     })
 
     const activeMark = marks[0]
+    const primaryTarget = targetScopes[0] ?? target
+
     if (activeMark) {
       activeMark.classList.add(SEARCH_RESULT_CURRENT_CLASS)
-      activeMark.scrollIntoView({ block: 'center', behavior: 'smooth' })
-    } else {
-      target?.scrollIntoView({ block: 'center', behavior: 'smooth' })
     }
 
-    clearPayload()
-    return
+    if (primaryTarget) {
+      scrollElementIntoComfortView(primaryTarget)
+    }
+
+    if (clearAfterSync) {
+      clearPayload()
+    }
+    return true
   }
+
+  return false
+}
+
+export async function syncSearchResultHighlightRepeatedly(delays = [0, 120, 350, 800]) {
+  let applied = false
+
+  for (const [index, delay] of delays.entries()) {
+    if (delay > 0) {
+      await wait(delay)
+    }
+
+    const isLast = index === delays.length - 1
+    const didApply = await syncSearchResultHighlight(8, isLast)
+    applied = applied || didApply
+  }
+
+  return applied
 }

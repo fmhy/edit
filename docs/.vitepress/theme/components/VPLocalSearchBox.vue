@@ -60,9 +60,11 @@ import Tooltip from './Tooltip.vue'
 import FloatingVue from 'floating-vue'
 import { sidebar } from '../../shared'
 import {
+  clearSearchResultHighlight,
   formMarkRegex,
   queueSearchResultHighlight,
-  syncSearchResultHighlight
+  SEARCH_HIGHLIGHTS_STORAGE_KEY,
+  syncSearchResultHighlightRepeatedly
 } from '../composables/searchResultHighlight'
 
 const emit = defineEmits<{
@@ -113,6 +115,7 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+const areSearchHighlightsEnabled = useLocalStorage(SEARCH_HIGHLIGHTS_STORAGE_KEY, true)
 
 const searchIndex = computedAsync(async () =>
   markRaw(
@@ -199,8 +202,8 @@ const cache = new LRUCache<string, Map<string, string>>(16)
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 debouncedWatch(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value, areSearchHighlightsEnabled.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue, highlightsEnabled], old, onCleanup) => {
     if (old?.[0] !== index) {
       // Clear cache on index change (e.g., locale switch or HMR update)
       cache.clear()
@@ -352,7 +355,7 @@ debouncedWatch(
     await new Promise((r) => {
       mark.value?.unmark({
         done: () => {
-          const regex = formMarkRegex(terms)
+          const regex = highlightsEnabled ? formMarkRegex(terms) : null
 
           if (!regex) {
             r(undefined)
@@ -697,11 +700,21 @@ onKeyStroke('ArrowDown', (event) => {
 const router = useRouter()
 
 function prepareResultNavigation(result: SearchResult & Result) {
+  if (!areSearchHighlightsEnabled.value) return
+
   queueSearchResultHighlight(result, filterText.value, isFuzzySearch.value)
 
   window.setTimeout(() => {
-    void syncSearchResultHighlight()
+    void syncSearchResultHighlightRepeatedly()
   }, 0)
+}
+
+function toggleSearchHighlights() {
+  areSearchHighlightsEnabled.value = !areSearchHighlightsEnabled.value
+
+  if (!areSearchHighlightsEnabled.value) {
+    void clearSearchResultHighlight()
+  }
 }
 
 onKeyStroke('Enter', (e) => {
@@ -918,6 +931,17 @@ function onMouseMove(e: MouseEvent) {
             >
               <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
               <span v-else class="exact-icon">=</span>
+            </button>
+
+            <button
+              class="toggle-highlight-button"
+              type="button"
+              :class="{ 'highlight-active': areSearchHighlightsEnabled }"
+              :title="areSearchHighlightsEnabled ? 'Disable Highlights' : 'Enable Highlights'"
+              :aria-pressed="areSearchHighlightsEnabled ? 'true' : 'false'"
+              @click="toggleSearchHighlights"
+            >
+              <span class="highlight-icon">✦</span>
             </button>
 
             <button
@@ -1220,7 +1244,8 @@ function onMouseMove(e: MouseEvent) {
 }
 
 /* Custom Feature: Fuzzy search toggle button */
-.toggle-fuzzy-button {
+.toggle-fuzzy-button,
+.toggle-highlight-button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1233,19 +1258,26 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .toggle-fuzzy-button .fuzzy-icon,
-.toggle-fuzzy-button .exact-icon {
+.toggle-fuzzy-button .exact-icon,
+.toggle-highlight-button .highlight-icon {
   font-size: 18px;
   font-weight: bold;
   line-height: 1;
 }
 
-.toggle-fuzzy-button:hover {
+.toggle-fuzzy-button:hover,
+.toggle-highlight-button:hover {
   background: var(--vp-c-bg-soft);
 }
 
-.toggle-fuzzy-button.fuzzy-active {
+.toggle-fuzzy-button.fuzzy-active,
+.toggle-highlight-button.highlight-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+.toggle-highlight-button:not(.highlight-active) .highlight-icon {
+  opacity: 0.45;
 }
 
 .search-keyboard-shortcuts {

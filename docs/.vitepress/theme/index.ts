@@ -20,7 +20,8 @@ import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
 import {
   clearSearchResultHighlight,
-  syncSearchResultHighlight
+  syncSearchResultHighlight,
+  syncSearchResultHighlightRepeatedly
 } from './composables/searchResultHighlight'
 import { useThemeHandler } from './themes/themeHandler'
 import Layout from './Layout.vue'
@@ -48,7 +49,7 @@ export default {
       const originalAfter = router.onAfterRouteChanged
 
       window.setTimeout(() => {
-        void syncSearchResultHighlight()
+        void syncSearchResultHighlightRepeatedly()
       }, 0)
 
       router.onBeforeRouteChange = (to) => {
@@ -72,7 +73,7 @@ export default {
         originalAfter?.(to)
 
         window.setTimeout(() => {
-          void syncSearchResultHighlight()
+          void syncSearchResultHighlightRepeatedly()
         }, 60)
 
         // Re-enable smooth scrolling shortly after navigation completes
