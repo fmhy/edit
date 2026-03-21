@@ -34,7 +34,7 @@ import {
   useSessionStorage
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
-import Mark from 'mark.js/src/vanilla.js'
+import Mark from 'mark.js'
 import MiniSearch, { type SearchResult } from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
 import {
@@ -53,13 +53,19 @@ import {
 } from 'vue'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import { pathToFile } from 'vitepress/dist/client/app/utils'
-import { escapeRegExp } from 'vitepress/dist/client/shared'
 import { useData } from 'vitepress/dist/client/theme-default/composables/data'
 import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import Tooltip from './Tooltip.vue'
 import FloatingVue from 'floating-vue'
 import { sidebar } from '../../shared'
+import {
+  clearSearchResultHighlight,
+  formMarkRegex,
+  queueSearchResultHighlight,
+  SEARCH_HIGHLIGHTS_STORAGE_KEY,
+  syncSearchResultHighlightRepeatedly
+} from '../composables/searchResultHighlight'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -109,6 +115,7 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+const areSearchHighlightsEnabled = useLocalStorage(SEARCH_HIGHLIGHTS_STORAGE_KEY, true)
 
 const searchIndex = computedAsync(async () =>
   markRaw(
@@ -195,8 +202,8 @@ const cache = new LRUCache<string, Map<string, string>>(16)
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 debouncedWatch(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
+  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value, areSearchHighlightsEnabled.value] as const,
+  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue, highlightsEnabled], old, onCleanup) => {
     if (old?.[0] !== index) {
       // Clear cache on index change (e.g., locale switch or HMR update)
       cache.clear()
@@ -348,7 +355,17 @@ debouncedWatch(
     await new Promise((r) => {
       mark.value?.unmark({
         done: () => {
-          mark.value?.markRegExp(formMarkRegex(terms), { done: r })
+          const regex = highlightsEnabled ? formMarkRegex(terms) : null
+
+          if (!regex) {
+            r(undefined)
+            return
+          }
+
+          mark.value?.markRegExp(regex, {
+            className: 'search-result-highlight',
+            done: r
+          })
         }
       })
     })
@@ -682,6 +699,33 @@ onKeyStroke('ArrowDown', (event) => {
 
 const router = useRouter()
 
+function isSameLocationResult(resultId: string) {
+  if (typeof window === 'undefined') return false
+
+  const targetUrl = new URL(resultId, window.location.href)
+  return targetUrl.pathname === window.location.pathname && targetUrl.hash === window.location.hash
+}
+
+function prepareResultNavigation(result: SearchResult & Result) {
+  if (!areSearchHighlightsEnabled.value) return
+
+  queueSearchResultHighlight(result, filterText.value, isFuzzySearch.value)
+
+  if (isSameLocationResult(result.id)) {
+    window.setTimeout(() => {
+      void syncSearchResultHighlightRepeatedly()
+    }, 0)
+  }
+}
+
+function toggleSearchHighlights() {
+  areSearchHighlightsEnabled.value = !areSearchHighlightsEnabled.value
+
+  if (!areSearchHighlightsEnabled.value) {
+    void clearSearchResultHighlight()
+  }
+}
+
 onKeyStroke('Enter', (e) => {
   if (e.isComposing) return
 
@@ -695,6 +739,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
+    prepareResultNavigation(selectedPackage)
     router.go(selectedPackage.id)
     close()
   }
@@ -805,16 +850,6 @@ function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
 
-function formMarkRegex(terms: Set<string>) {
-  return new RegExp(
-    [...terms]
-      .sort((a, b) => b.length - a.length)
-      .map((term) => `(${escapeRegExp(term)})`)
-      .join('|'),
-    'gi'
-  )
-}
-
 function onMouseMove(e: MouseEvent) {
   if (!disableMouseOver.value) return
   const el = (e.target as HTMLElement)?.closest<HTMLElement>('.result-item')
@@ -908,6 +943,17 @@ function onMouseMove(e: MouseEvent) {
             </button>
 
             <button
+              class="toggle-highlight-button"
+              type="button"
+              :class="{ 'highlight-active': areSearchHighlightsEnabled }"
+              :title="areSearchHighlightsEnabled ? 'Disable Highlights' : 'Enable Highlights'"
+              :aria-pressed="areSearchHighlightsEnabled ? 'true' : 'false'"
+              @click="toggleSearchHighlights"
+            >
+              <span class="highlight-icon">✦</span>
+            </button>
+
+            <button
               class="clear-button"
               type="reset"
               :disabled="disableReset"
@@ -946,7 +992,7 @@ function onMouseMove(e: MouseEvent) {
               :aria-label="[...p.titles, p.title].join(' > ')"
               @mouseenter="!disableMouseOver && (selectedIndex = index)"
               @focusin="selectedIndex = index"
-              @click="close"
+              @click="prepareResultNavigation(p); close()"
               :data-index="index"
             >
               <div>
@@ -1207,7 +1253,8 @@ function onMouseMove(e: MouseEvent) {
 }
 
 /* Custom Feature: Fuzzy search toggle button */
-.toggle-fuzzy-button {
+.toggle-fuzzy-button,
+.toggle-highlight-button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1220,19 +1267,26 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .toggle-fuzzy-button .fuzzy-icon,
-.toggle-fuzzy-button .exact-icon {
+.toggle-fuzzy-button .exact-icon,
+.toggle-highlight-button .highlight-icon {
   font-size: 18px;
   font-weight: bold;
   line-height: 1;
 }
 
-.toggle-fuzzy-button:hover {
+.toggle-fuzzy-button:hover,
+.toggle-highlight-button:hover {
   background: var(--vp-c-bg-soft);
 }
 
-.toggle-fuzzy-button.fuzzy-active {
+.toggle-fuzzy-button.fuzzy-active,
+.toggle-highlight-button.highlight-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+.toggle-highlight-button:not(.highlight-active) .highlight-icon {
+  opacity: 0.45;
 }
 
 .search-keyboard-shortcuts {
@@ -1383,18 +1437,23 @@ function onMouseMove(e: MouseEvent) {
 /* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
-  background-color: var(--vp-local-search-highlight-bg);
-  color: var(--vp-local-search-highlight-text);
-  border-radius: 2px;
-  padding: 0 1px;
-  transition: background-color 0.2s;
+  background-color: var(--fmhy-search-highlight-bg);
+  color: inherit;
+  border-radius: 0.28rem;
+  padding: 0 0.12em;
+  box-shadow: inset 0 0 0 1px var(--fmhy-search-highlight-border);
+  transition: background-color 0.2s, box-shadow 0.2s;
 }
 
 /* Custom Feature: Currently focused highlight (during navigation) */
+.titles :deep(mark.current),
 .excerpt :deep(mark.current) {
-  background-color: var(--vp-c-yellow-3);
-  color: #000;
-  font-weight: bold;
+  background-color: var(--fmhy-search-highlight-active-bg);
+  color: inherit;
+  font-weight: 600;
+  box-shadow:
+    inset 0 0 0 1px var(--fmhy-search-highlight-active-ring),
+    0 0 0 2px color-mix(in srgb, var(--fmhy-search-highlight-active-ring) 35%, transparent);
 }
 
 .excerpt :deep(.vp-code-group) .tabs {

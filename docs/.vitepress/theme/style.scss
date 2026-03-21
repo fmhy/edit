@@ -28,6 +28,20 @@ body {
   --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
   --vp-c-bg-mark: rgb(232, 232, 232);
 
+  --fmhy-search-highlight-bg: var(--vp-c-bg-mark);
+  --fmhy-search-highlight-border: var(--vp-c-brand-soft);
+  --fmhy-search-highlight-active-bg: var(--vp-c-brand-soft);
+  --fmhy-search-highlight-active-ring: var(--vp-c-brand-1);
+  --fmhy-search-target-bg: var(--vp-c-brand-soft);
+  --fmhy-search-target-ring: var(--vp-c-brand-1);
+
+  --fmhy-search-highlight-bg: color-mix(in srgb, var(--vp-c-brand-1) 16%, var(--vp-c-bg) 84%);
+  --fmhy-search-highlight-border: color-mix(in srgb, var(--vp-c-brand-1) 42%, var(--vp-c-divider) 58%);
+  --fmhy-search-highlight-active-bg: color-mix(in srgb, var(--vp-c-brand-1) 26%, var(--vp-c-bg) 74%);
+  --fmhy-search-highlight-active-ring: color-mix(in srgb, var(--vp-c-brand-1) 72%, var(--vp-c-text-1) 28%);
+  --fmhy-search-target-bg: color-mix(in srgb, var(--vp-c-brand-1) 10%, var(--vp-c-bg) 90%);
+  --fmhy-search-target-ring: color-mix(in srgb, var(--vp-c-brand-1) 56%, var(--vp-c-divider) 44%);
+
   /* Colors: Custom Block */
   /** Info */
   --vp-custom-block-info-bg: theme('colors.swarm.100');
@@ -84,6 +98,13 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
+
+  --fmhy-search-highlight-bg: color-mix(in srgb, var(--vp-c-brand-1) 26%, var(--vp-c-bg) 74%);
+  --fmhy-search-highlight-border: color-mix(in srgb, var(--vp-c-brand-1) 52%, var(--vp-c-divider) 48%);
+  --fmhy-search-highlight-active-bg: color-mix(in srgb, var(--vp-c-brand-1) 34%, var(--vp-c-bg) 66%);
+  --fmhy-search-highlight-active-ring: color-mix(in srgb, var(--vp-c-brand-1) 80%, white 20%);
+  --fmhy-search-target-bg: color-mix(in srgb, var(--vp-c-brand-1) 16%, var(--vp-c-bg) 84%);
+  --fmhy-search-target-ring: color-mix(in srgb, var(--vp-c-brand-1) 64%, var(--vp-c-divider) 36%);
 }
 
 .monochrome {
@@ -141,6 +162,29 @@ body {
   text-underline-offset: 4px;
   text-decoration-style: solid;
 }
+
+.vp-doc mark.search-result-highlight {
+  background-color: var(--fmhy-search-highlight-bg);
+  color: inherit;
+  border-radius: 0.28rem;
+  padding: 0 0.12em;
+  box-shadow: inset 0 0 0 1px var(--fmhy-search-highlight-border);
+}
+
+.vp-doc mark.search-result-highlight.search-result-highlight-current {
+  background-color: var(--fmhy-search-highlight-active-bg);
+  box-shadow:
+    inset 0 0 0 1px var(--fmhy-search-highlight-active-ring),
+    0 0 0 2px color-mix(in srgb, var(--fmhy-search-highlight-active-ring) 35%, transparent);
+}
+
+.vp-doc .search-result-highlight-target {
+  background-color: var(--fmhy-search-target-bg);
+  border-radius: 0.4rem;
+  transition: background-color 0.2s ease;
+}
+
+
 
 ::selection {
   background-color: #5586a6;
