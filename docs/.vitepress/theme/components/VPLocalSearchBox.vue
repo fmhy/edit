@@ -699,14 +699,23 @@ onKeyStroke('ArrowDown', (event) => {
 
 const router = useRouter()
 
+function isSameLocationResult(resultId: string) {
+  if (typeof window === 'undefined') return false
+
+  const targetUrl = new URL(resultId, window.location.href)
+  return targetUrl.pathname === window.location.pathname && targetUrl.hash === window.location.hash
+}
+
 function prepareResultNavigation(result: SearchResult & Result) {
   if (!areSearchHighlightsEnabled.value) return
 
   queueSearchResultHighlight(result, filterText.value, isFuzzySearch.value)
 
-  window.setTimeout(() => {
-    void syncSearchResultHighlightRepeatedly()
-  }, 0)
+  if (isSameLocationResult(result.id)) {
+    window.setTimeout(() => {
+      void syncSearchResultHighlightRepeatedly()
+    }, 0)
+  }
 }
 
 function toggleSearchHighlights() {

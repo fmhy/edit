@@ -208,7 +208,11 @@ export async function clearSearchResultHighlight() {
   })
 }
 
-export async function syncSearchResultHighlight(maxRetries = 8, clearAfterSync = true) {
+export async function syncSearchResultHighlight(
+  maxRetries = 8,
+  clearAfterSync = true,
+  shouldScroll = true
+) {
   if (typeof window === 'undefined' || typeof document === 'undefined') return false
 
   if (!areSearchHighlightsEnabled()) {
@@ -274,7 +278,7 @@ export async function syncSearchResultHighlight(maxRetries = 8, clearAfterSync =
       activeMark.classList.add(SEARCH_RESULT_CURRENT_CLASS)
     }
 
-    if (primaryTarget) {
+    if (primaryTarget && shouldScroll) {
       scrollElementIntoComfortView(primaryTarget)
     }
 
@@ -296,7 +300,7 @@ export async function syncSearchResultHighlightRepeatedly(delays = [0, 120, 350,
     }
 
     const isLast = index === delays.length - 1
-    const didApply = await syncSearchResultHighlight(8, isLast)
+    const didApply = await syncSearchResultHighlight(8, isLast, !applied)
     applied = applied || didApply
   }
 
