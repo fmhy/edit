@@ -321,8 +321,8 @@
 
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
-* ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail) / [Note](https://proton.me/support/more-free-storage-existing-users)
-* ⭐ **[Tuta](https://tuta.com/)** - Encrypted Email / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
+* ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / Deleted After 1 Year Inactive / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* ⭐ **[Tuta](https://tuta.com/)** - 1GB Free / Encrypted Email / Deleted After 6 Months Inactive / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 * [Disroot](https://disroot.org/en/services/email) - 1GB Free / Encrypted Email
 * [DNMX](https://dnmx.cc/) - Onion-Based Email
 * [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption / [GitHub](https://github.com/mailvelope/mailvelope)
@@ -387,7 +387,7 @@
 * ⭐ **[Proton VPN](https://protonvpn.com)** - Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonVPN/) / [Torrent Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/proton-torrenting.md) 
 * ⭐ **[Windscribe](https://windscribe.com)** - No Torrenting w/ Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
-* ⭐ **[Mullvad VPN](https://mullvad.net/)** - Paid / No Port Forwarding / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
+* ⭐ **[Mullvad VPN](https://mullvad.net/)** - Paid / [No Port Forwarding](https://mullvad.net/en/blog/removing-the-support-for-forwarded-ports) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / No Port Forwarding / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [Nym](https://nym.com/) - Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)
 * [RiseupVPN](https://riseup.net/en/vpn) - Free / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)
@@ -445,7 +445,6 @@
 
 ## ▷ Proxy Servers
 
-* ⭐ **[Censordex](https://censordex.fr.to/)** - Server Setup
 * ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / **[Guide](https://wispydocs.pages.dev/network-censorship-circumvention/)**
 * ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - Xray Proxy Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Chromium-based Proxy
