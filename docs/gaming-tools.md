@@ -874,6 +874,7 @@
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Exploits, Saves, etc.
+* [⁠Smogon](https://www.smogon.com/) - Competitive Pokémon Guides / [Discord](https://discord.gg/smogon)
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)

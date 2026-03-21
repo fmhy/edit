@@ -32,7 +32,7 @@
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [⁠LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
+* [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
 * [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
 
 ***

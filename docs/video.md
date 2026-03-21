@@ -83,6 +83,7 @@
 * ⭐ **[NexVid](https://nexvid.online/)**, [2](https://nexvid.pl/) - Movies / TV / Anime / Auto-Next
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 * [LordFlix](https://lordflix.club/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JeMDzxSbhH)
+* [Primeshows](https://www.primeshows.uk/) or [PrimeBox](https://primebox.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [AuroraScreen](https://www.aurorascreen.org/) - Movies / TV / Anime / Auto-Next / Requires Chromium / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * [Flicker](https://flickermini.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Subreddit](https://www.reddit.com/r/flickermini/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/flicker-proxy.md)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
@@ -110,7 +111,6 @@
 * ⭐ **[Anixtv](https://anixtv.us.cc/)** - Movies / TV / Anime
 * ⭐ **[Redflix](https://redflix.co/)**, [2](https://redflix.club/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * ⭐ **[MovieBite](https://moviebite.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/ygexZUCXVa)
-* ⭐ **[Primeshows](https://www.primeshows.uk/)** or [PrimeBox](https://primebox.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * [Flixvo](https://flixvo.live/), [2](https://flixvo.fun/) - Movies / TV / Anime
 * [BoredFlix](https://www.boredflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/VHDedCcbGY)
 * [TeleV](https://stream.telev.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/bPez4gxuze)
