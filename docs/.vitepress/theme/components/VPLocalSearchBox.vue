@@ -53,13 +53,17 @@ import {
 } from 'vue'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import { pathToFile } from 'vitepress/dist/client/app/utils'
-import { escapeRegExp } from 'vitepress/dist/client/shared'
 import { useData } from 'vitepress/dist/client/theme-default/composables/data'
 import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import Tooltip from './Tooltip.vue'
 import FloatingVue from 'floating-vue'
 import { sidebar } from '../../shared'
+import {
+  formMarkRegex,
+  queueSearchResultHighlight,
+  syncSearchResultHighlight
+} from '../composables/searchResultHighlight'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -348,7 +352,17 @@ debouncedWatch(
     await new Promise((r) => {
       mark.value?.unmark({
         done: () => {
-          mark.value?.markRegExp(formMarkRegex(terms), { done: r })
+          const regex = formMarkRegex(terms)
+
+          if (!regex) {
+            r(undefined)
+            return
+          }
+
+          mark.value?.markRegExp(regex, {
+            className: 'search-result-highlight',
+            done: r
+          })
         }
       })
     })
@@ -682,6 +696,14 @@ onKeyStroke('ArrowDown', (event) => {
 
 const router = useRouter()
 
+function prepareResultNavigation(result: SearchResult & Result) {
+  queueSearchResultHighlight(result, filterText.value, isFuzzySearch.value)
+
+  window.setTimeout(() => {
+    void syncSearchResultHighlight()
+  }, 0)
+}
+
 onKeyStroke('Enter', (e) => {
   if (e.isComposing) return
 
@@ -695,6 +717,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
+    prepareResultNavigation(selectedPackage)
     router.go(selectedPackage.id)
     close()
   }
@@ -803,16 +826,6 @@ function handleInput(e: Event) {
 
 function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
-}
-
-function formMarkRegex(terms: Set<string>) {
-  return new RegExp(
-    [...terms]
-      .sort((a, b) => b.length - a.length)
-      .map((term) => `(${escapeRegExp(term)})`)
-      .join('|'),
-    'gi'
-  )
 }
 
 function onMouseMove(e: MouseEvent) {
@@ -946,7 +959,7 @@ function onMouseMove(e: MouseEvent) {
               :aria-label="[...p.titles, p.title].join(' > ')"
               @mouseenter="!disableMouseOver && (selectedIndex = index)"
               @focusin="selectedIndex = index"
-              @click="close"
+              @click="prepareResultNavigation(p); close()"
               :data-index="index"
             >
               <div>
@@ -1383,18 +1396,23 @@ function onMouseMove(e: MouseEvent) {
 /* Highlight styles - default state */
 .titles :deep(mark),
 .excerpt :deep(mark) {
-  background-color: var(--vp-local-search-highlight-bg);
-  color: var(--vp-local-search-highlight-text);
-  border-radius: 2px;
-  padding: 0 1px;
-  transition: background-color 0.2s;
+  background-color: var(--fmhy-search-highlight-bg);
+  color: inherit;
+  border-radius: 0.28rem;
+  padding: 0 0.12em;
+  box-shadow: inset 0 0 0 1px var(--fmhy-search-highlight-border);
+  transition: background-color 0.2s, box-shadow 0.2s;
 }
 
 /* Custom Feature: Currently focused highlight (during navigation) */
+.titles :deep(mark.current),
 .excerpt :deep(mark.current) {
-  background-color: var(--vp-c-yellow-3);
-  color: #000;
-  font-weight: bold;
+  background-color: var(--fmhy-search-highlight-active-bg);
+  color: inherit;
+  font-weight: 600;
+  box-shadow:
+    inset 0 0 0 1px var(--fmhy-search-highlight-active-ring),
+    0 0 0 2px color-mix(in srgb, var(--fmhy-search-highlight-active-ring) 35%, transparent);
 }
 
 .excerpt :deep(.vp-code-group) .tabs {

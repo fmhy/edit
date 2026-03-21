@@ -18,6 +18,10 @@ import type { Theme } from 'vitepress'
 import Components from '@fmhy/components'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
+import {
+  clearSearchResultHighlight,
+  syncSearchResultHighlight
+} from './composables/searchResultHighlight'
 import { useThemeHandler } from './themes/themeHandler'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
@@ -43,7 +47,13 @@ export default {
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
+      window.setTimeout(() => {
+        void syncSearchResultHighlight()
+      }, 0)
+
       router.onBeforeRouteChange = (to) => {
+        void clearSearchResultHighlight()
+
         try {
           // Force scroll-behavior: auto (instant) when changing pages (path),
           // preventing the "scroll to top" animation.
@@ -60,6 +70,11 @@ export default {
 
       router.onAfterRouteChanged = (to) => {
         originalAfter?.(to)
+
+        window.setTimeout(() => {
+          void syncSearchResultHighlight()
+        }, 60)
+
         // Re-enable smooth scrolling shortly after navigation completes
         setTimeout(() => {
           document.documentElement.style.scrollBehavior = 'smooth'
