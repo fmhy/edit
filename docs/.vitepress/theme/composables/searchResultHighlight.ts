@@ -1,4 +1,4 @@
-import Mark from 'mark.js/src/vanilla.js'
+import Mark from 'mark.js'
 
 const SEARCH_RESULT_HIGHLIGHT_KEY = 'fmhy:search-result-highlight'
 const SEARCH_RESULT_MARK_CLASS = 'search-result-highlight'

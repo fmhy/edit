@@ -34,7 +34,7 @@ import {
   useSessionStorage
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
-import Mark from 'mark.js/src/vanilla.js'
+import Mark from 'mark.js'
 import MiniSearch, { type SearchResult } from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
 import {
