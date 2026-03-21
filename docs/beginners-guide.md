@@ -40,7 +40,7 @@ For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](ht
 
 > How do I decode Base64?
 
-If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you can use a Base64 decoder to view it. Some may need to be decoded twice.
+If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you can use a Base64 decoder to view it. Some may need to be decoded twice.
 
 * **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
 
@@ -52,7 +52,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/)**
-* **Drama Streaming: [DramaCool](https://dramacoolt.com.in/) / [GoPlay](https://goplay.su/)**
+* **Drama Streaming: [GoPlay](https://goplay.su/) /  [DramaCool](https://dramacool-l.fun/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
