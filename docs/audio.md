@@ -485,6 +485,7 @@
 * [SongStems](https://songstems.net/) - STEM Files
 * [Geocities Midis](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [FreeMIDI](https://freemidi.org/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Music Hoarders](https://discord.gg/kQUQkuwSaT) - Music Hoarding Community / [Wiki](https://musichoarders.xyz/)
+* [Freemp3cloud](https://freemp3cloud.com/) - MP3
 
 ***
 
