@@ -560,6 +560,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+* [WordSearchPuzzle.net](https://wordsearchpuzzle.net/) - Free word search puzzles / Daily / Categories / Maker / Printable
 
 ***
 
