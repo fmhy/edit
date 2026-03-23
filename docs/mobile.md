@@ -71,7 +71,7 @@
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - FOSS Apps / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) / [GitLab](https://gitlab.com/IzzyOnDroid/repo)
 * [You Apps](https://you-apps.net/) - FOSS Apps / [GitHub](https://github.com/you-apps)
 * [FossDroidAndroid](https://t.me/FossDroidAndroid) - FOSS Apps / Telegram
-* [GrapheneOS Apps](https://github.com/GrapheneOS/AppStore) - Work on Non-GrapheneOS Devices
+* [GrapheneOS Apps](https://github.com/GrapheneOS/AppStore) - Work on Non-GrapheneOS Devices / [Discuss](https://discuss.grapheneos.org/)
 
 ***
 
@@ -413,7 +413,7 @@
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
 * [Google Photos Revanced](https://revanced.app/) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
 * [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
-* [Ente](https://ente.io/) - Photo / Video Gallery / [GitHub](https://github.com/ente-io/ente)
+* [Ente](https://ente.io/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
 * [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
 * [UhuruPhotos](https://uhuru.photos) - Photo / Video Gallery / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android)
 * [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Gallery

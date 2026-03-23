@@ -141,7 +141,7 @@
 
 # ► RSS Tools
 
-* 🌐 **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
+* 🌐 **[All about RSS](https://rss.tips/)** / [Telegram](https://t.me/s/aboutrss) / [GitHub](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feed / Tool Indexes
 * [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [siftrss](https://siftrss.com/) - RSS Feed Filters
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
