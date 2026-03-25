@@ -460,6 +460,18 @@
 
 ***
 
+# ► Bilibili Tools
+
+* [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Desktop App
+* [wiliwili](https://xfangfang.github.io/wiliwili/) - Gamepad Client
+* [Quality Script](https://greasyfork.org/en/scripts/467511) - Change Quality without Account
+* [Comments Script](https://greasyfork.org/en/scripts/473498) - View Comments without Account
+* [Sign-Up Block](https://greasyfork.org/en/scripts/467474) - Sign-Up Block Script
+* [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Sponsorblock for Bilibili
+* [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - Site Enhancement Script
+
+***
+
 # ► Twitch Tools
 
 * 🌐 **[Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f)** - Twitch Extensions Index
