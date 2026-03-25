@@ -818,6 +818,7 @@
 * [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
 * [Anoboye](https://anoboye.com/) - Anime / Donghua / Sub
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
+* [SPlay](https://splay.id/) - Anime / Movies / K-Drama / Manga / Self-Hosted / [API](https://hub.splay.id/docs)
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
 ## ▷ Reading / Membaca
