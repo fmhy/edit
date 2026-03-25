@@ -182,6 +182,7 @@
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / Requires NVIDIA GPU
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 * [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
+* [PVID](http://pvid.app/) - Image to Video / Text to Video / Video to Video / Kling 3.0 / Sora 2 / Veo 3.1 / 100 Free Credits
 
 ***
 
