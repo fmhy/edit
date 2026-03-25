@@ -24,6 +24,7 @@
 * [Cinema.BZ](https://cinema.bz/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
 * [Cinevibe](https://cinevibe.asia/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4BU2XbAPdu)
 * [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.pro/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
+* [SPlay MovieBox](https://splay.id/moviebox) - Movies / TV / Self-Hosted
 * [Cinetaro](https://cinetaro.buzz/) - Movies / TV / Anime
 * [Movish](https://movish.net/) - Movies / TV / Anime
 * [IceFY](https://icefy.top/) - Movies / TV / Anime
