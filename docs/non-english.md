@@ -1752,7 +1752,6 @@
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
-* [OpenAnime](https://openani.me/) - Anime
 * [AnimeciX](https://anm.cx/) - Anime
 * [SeiCode](https://seicode.net/) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
