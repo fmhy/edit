@@ -1027,7 +1027,8 @@
 * [Best Damn EDC](https://www.youtube.com/channel/UCK5R1BsMtGd4DtI5uGQRHIg) - Everyday Carry Reviews / [Blog](https://bestdamnedc.com/)
 * [⁠PackHacker](https://www.packhacker.com/) - Everyday Carry and Travel Gear Reviews / [YouTube](https://www.youtube.com/channel/UC_rI3y1DzDULTr-UIvshiwg)
 * [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - Outdoor Gear Comparisons / Reviews
-* [⁠Everyday Commentary](https://www.everydaycommentary.com/best-of) - Flashlight and Knife Reviews / [YouTube](https://www.youtube.com/@EverydayCommentary) 
+* [⁠Everyday Commentary](https://www.everydaycommentary.com/best-of) - Flashlight and Knife Reviews / [YouTube](https://www.youtube.com/@EverydayCommentary)
+* - [Outdoor Searcher](https://outdoorsearcher.com) - Outdoor gear reviews, comparisons, and buying guides
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
