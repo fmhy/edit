@@ -557,7 +557,7 @@
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - Textbooks
-* [Wikibooks](https://wikibooks.org/) - Open-Content Texbooks
+* [Wikibooks](https://wikibooks.org/) - Open-Content Textbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 
