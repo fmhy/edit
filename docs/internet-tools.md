@@ -501,7 +501,7 @@
 
 ## ▷ Email Aliasing
 
-* **Note** - Some sites provide **catch-all** aliases like `@username.anonaddy.com`, which are technically unlimited as anything before the @ will redirect to your forwarding address, but the alias contains a unique subdomain which may be linked to your identity. For more privacy, prefer **shared** aliases like `x481n904@anonaddy.me` which are usually randomly generated for you and the domain is shared by all users of the site so it becomes harder to tie it to your identity.
+* **Note** - Some sites provide **catch-all** aliases like @username.anonaddy.com, which are technically unlimited as anything before the @ will redirect to your forwarding address, but the alias contains a unique subdomain which may be linked to your identity. For more privacy, prefer **shared** aliases like x481n904@anonaddy.me which are usually randomly generated for you and the domain is shared by all users of the site so it becomes harder to tie it to your identity.
 
 ***
 
