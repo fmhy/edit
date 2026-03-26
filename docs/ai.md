@@ -33,7 +33,7 @@
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Requires Sign-Up
-* [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Flash / Requires Sign-Up
+* [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Pro / MiMo-V2-Flash / MiMo-V2-Omni / Requires Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
 ***
@@ -53,7 +53,7 @@
 * [Dolphin Chat](https://chat.dphn.ai/) - Dolphin 24B / No Sign Up / Unlimited
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Requires Sign-Up
 * [Groq](https://console.groq.com/playground) - Kimi K2-0905 / GPT-OSS-120B / Requires Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
-* [Duck AI](https://duck.ai/chat?q=DuckDuckGo+AI+Chat&duckai=1) - Claude Haiku 4.5 / GPT-5 mini / No Sign-Up
+* [Duck AI](https://duck.ai/chat?q=DuckDuckGo+AI+Chat&duckai=1) - Claude Haiku 4.5 / GPT-5 mini / 20 Daily / No Sign-Up
 
 ***
 
@@ -165,7 +165,7 @@
 * ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / 10s-15s / Login required / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[⁠Klipy](https://klipy.com/create/gif-maker/)** - Veo 3 / GIF Only / 4s-5s / Unlimited / Requires Sign-Up
 * ⭐ **[Arena](https://arena.ai/?chat-modality=video)**, [2](https://canaryarena.ai/video) - 3 Daily / Requires Sign-Up / Random Models / Reset Limits w/ Temp Mail / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct Mode / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Design Arena](https://www.designarena.ai/) - Multiple Models / Video Editing / No Direct Mode / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Bing Create](https://www.bing.com/images/create) - Sora 1 / No Image Input
 * [Wan AI](https://wan.video/) / Wan AI / Wan 2.6 / Image to Video / [GitHub](https://github.com/Wan-Video/Wan2.1)
 * [⁠HunyuanVideo](https://hunyuan.tencent.com/modelSquare/home/play?modelId=303&from=/visual) - Unlimited / Requires Sign-Up
@@ -372,7 +372,6 @@
 * 🌐 **[sindresorhus's Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
-* [⁠LLM Timeline](https://llm-timeline.com/) - Interactive LLM History Timeline 
 * [tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
 * [⁠Page Assist](https://github.com/n4ze3m/page-assist), [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
@@ -416,6 +415,7 @@
 * ⭐ **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
 * ⭐ **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
+* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [YP for AI](https://www.ypforai.com) - AI Directory
 * [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
 * [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - AI Directory

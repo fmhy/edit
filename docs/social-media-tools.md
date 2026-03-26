@@ -463,12 +463,12 @@
 # ► Bilibili Tools
 
 * [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Desktop App
-* [wiliwili](https://xfangfang.github.io/wiliwili/) - Gamepad Client
+* [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - Site Enhancement Script
+* [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Sponsorblock for Bilibili
 * [Quality Script](https://greasyfork.org/en/scripts/467511) - Change Quality without Account
 * [Comments Script](https://greasyfork.org/en/scripts/473498) - View Comments without Account
 * [Sign-Up Block](https://greasyfork.org/en/scripts/467474) - Sign-Up Block Script
-* [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Sponsorblock for Bilibili
-* [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - Site Enhancement Script
+* [wiliwili](https://xfangfang.github.io/wiliwili/) - Gamepad Client
 
 ***
 

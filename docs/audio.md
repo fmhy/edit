@@ -383,6 +383,7 @@
 * [⁠am-dl](https://am-dl.pages.dev/) - Apple Music / AAC-M4A / ALAC / Atmos
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
+* [Spotisaver](https://spotisaver.net/) - Multi-Site / MP3
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
 * [cobalt](https://cobalt.tools/) - SoundCloud / 320kb / MP3 / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)

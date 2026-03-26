@@ -40,7 +40,7 @@
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/XqMpBdVWvK)
 * [SteamGG](https://steamgg.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
-* [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Site Info](https://rentry.org/ikc3x8bt) / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
+* [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files

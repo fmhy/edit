@@ -567,6 +567,7 @@
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
+* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
@@ -686,11 +687,11 @@
 
 ## ▷ Nutritional Health
 
-* ⭐ **[Nutritionix](https://www.nutritionix.com/)** - Nutrition Tracker App
 * ⭐ **[r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
+* [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/), [Waistline](https://github.com/davidhealey/waistline) or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -701,7 +702,6 @@
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
-* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
 * [Nutrient Sorter](https://michaelf314.github.io/nutrient-sorter/) - Vegan Food Nutrient Sorter
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
@@ -1030,6 +1030,7 @@
 * [⁠Everyday Commentary](https://www.everydaycommentary.com/best-of) - Flashlight and Knife Reviews / [YouTube](https://www.youtube.com/@EverydayCommentary) 
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
+* [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [⁠The Gentleman Stationer](https://www.gentlemanstationer.com/resources) - Writing Instrument and Stationary Reviews 
 * [Unsharpen](https://www.youtube.com/@unsharpen) - Mechanical Pencil Reviews / [Blog](https://unsharpen.com/)
 * [JetPens Blog](https://www.jetpens.com/blog) - Mechanical Pen / Pencil Guides / Shopping / [YouTube](https://www.youtube.com/@JetPens)

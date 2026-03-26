@@ -165,6 +165,7 @@
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) - RSS Reader / Web-Based
 * [JungleReader](https://www.zajungle.com/) - RSS Reader / Web-Based
 * [JesterEngine](https://jesterengine.com/) - RSS Reader / Web-Based
+* [⁠Tiny Tiny RSS](https://tt-rss.org/) - Docker Based RSS Reader / [GitHub](https://github.com/tt-rss/tt-rss)
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe), [Miniflux](https://miniflux.app/), [selfoss](https://selfoss.aditu.de/), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion), [rss](https://codeberg.org/danb/rss) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 
 ***
@@ -474,6 +475,7 @@
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
+* [⁠UrTempMail](https://urtempmail.com/) - 1 Day / 1 Day / 4 Domains
 * [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - 50+ Domains
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
 * [AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
@@ -499,15 +501,20 @@
 
 ## ▷ Email Aliasing
 
+* **Note** - Some sites provide **catch-all** aliases like `@username.anonaddy.com`, which are technically unlimited as anything before the @ will redirect to your forwarding address, but the alias contains a unique subdomain which may be linked to your identity. For more privacy, prefer **shared** aliases like `x481n904@anonaddy.me` which are usually randomly generated for you and the domain is shared by all users of the site so it becomes harder to tie it to your identity.
+
+***
+
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.pages.dev/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
-* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** or [Qwacky](https://github.com/Lanshuns/Qwacky) - Email Aliasing / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email) / [Unlimited Guide](https://bitwarden.com/help/generator/#tab-duckduckgo-3Uj911RtQsJD9OAhUuoKrz)
-* [addy.io](https://addy.io/) - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
-* [SimpleLogin](https://simplelogin.io/) - Email Aliasing / 10 Alias Limit / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
-* [Mailgw](https://mailgw.com/) - Email Aliasing
-* [erine.email](https://erine.email/) - Email Aliasing
-* [33mail](https://33mail.com/) - Email Aliasing
-* [TrashMail](https://trashmail.com/) - Email Aliasing
-* [AdGuard Mail](https://adguard-mail.com/) - Email Aliasing
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** or [Qwacky](https://github.com/Lanshuns/Qwacky) - Unlimited Shared / No Catch-All / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email) / [Bitwarden Integration](https://bitwarden.com/help/generator/#tab-duckduckgo-3Uj911RtQsJD9OAhUuoKrz)
+* [SimpleLogin](https://simplelogin.io/) - 10 Shared / No Catch-All / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
+* [AdGuard Mail](https://adguard-mail.com/) - 10 Shared / 2K Forwards Monthly / No Outgoing / No Catch-All
+* [Firefox Relay](https://relay.firefox.com/) - 5 Shared / No Catch-All / No Outgoing
+* [addy.io](https://addy.io/) - 10 Shared / 10MB Monthly Bandwidth / No Outgoing / Catch-All / [GitHub](https://github.com/anonaddy/anonaddy)
+* [erine.email](https://erine.email/) - No Shared / Catch-All
+* [33mail](https://33mail.com/) - No Shared / 10MB Monthly Bandwidth / No Outgoing / Catch-All
+* [Aionda Mail](https://mail.aionda.com/) - 25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Catch-All
+* [Mailgw](https://mailgw.com/) - No Shared / No Catch-All
 
 ***
 
@@ -794,10 +801,10 @@
 
 ## ▷ Userscripts
 
-* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* 🌐 **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) -  Userscript Stores
+* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
-* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc), **[Tampermonkey](https://www.tampermonkey.net/)** or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
-* ⭐ **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) - Install Userscripts
+* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc), **[Tampermonkey](https://www.tampermonkey.net/)**, [⁠ScriptCat](https://docs.scriptcat.org/en/) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md) or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336)
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
 * [Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - Discover Userscripts for Current Webpage
@@ -807,7 +814,8 @@
 * [Remove Bing CK](https://greasyfork.org/en/scripts/483444) - Remove Bing CK Redirects
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
-* [⁠Fandom Focus](https://greasyfork.org/en/scripts/528895) - Improves Fandom Website UI
+* [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
+* [⁠Fandom Focus](https://greasyfork.org/en/scripts/528895) - Fandom Improvement Script
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
 * [Pagetual](https://pagetual.hoothin.com/) - Merge Sites "Next" Pages
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails

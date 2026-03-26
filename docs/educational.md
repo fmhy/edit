@@ -215,7 +215,7 @@
 * [MathJax](https://www.mathjax.org/) - JavaScript Math Display
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
-* [MathOnline](http://mathonline.wikidot.com/) or [Mathigon](https://mathigon.org/) - Math / Courses
+* [MathOnline](http://mathonline.wikidot.com/), [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [⁠Andy Math](https://andymath.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [CoolMathGames](https://www.coolmathgames.com/1-number-games) - Math Games
@@ -420,7 +420,6 @@
 * [MDCalc](https://www.mdcalc.com/), [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Sites / Tools
 * [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://meded.ucsd.edu/clinicalmed/introduction.html) or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
 * [LibreTexts Med](https://med.libretexts.org/Bookshelves) - Medical Learning / Guides
-* [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) - Anatomy Guides
 * [Zygote Body](https://www.zygotebody.com/), [AnatomyLearning](https://anatomylearning.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
 * [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
@@ -997,7 +996,7 @@
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
 * [CEFR Lookup](https://cefrlookup.com/) - CEFR Word Level Lookup
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
-* [Langeek](https://langeek.co/) or [Ozdic](https://ozdic.com/) - Grammar / Vocabulary Language Learning
+* [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
 * [EnglishBanana](https://www.englishbanana.com/) - English Learning Worksheets
 * [Free4Talk](https://www.free4talk.com/) - English Learning Communities
@@ -1324,6 +1323,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
+* [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) - Computer Science Courses
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
@@ -1656,6 +1656,7 @@
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - Find Words First Printed Usage
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
+* [Ozdic](https://ozdic.com/) - Collocation Dictionary
 * [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
 * [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers

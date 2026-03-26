@@ -419,8 +419,12 @@
 
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
 * ⭐ **[searx.space](https://searx.space/)**
+* ⭐ **[searx.party](https://searx.party/)**
 * https://searx.fmhy.net/
-* https://searx.party/
+* https://search.fuckoffgoogle.net/
+* https://searx.neocities.org/
+* https://searx.nixnet.services/
+* https://monocles.de/
 * https://searx.oloke.xyz/
 * https://searxng.canine.tools/
 * https://search.2b9t.xyz/
