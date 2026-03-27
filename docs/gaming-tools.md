@@ -213,7 +213,7 @@
 * [The Manual Project](https://vimm.net/manual), [ReplacementDocs](http://replacementdocs.com/) or [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [Sym.gg](https://sym.gg/) - FPS Game Info & Weapon Stats / [Discord](https://discord.com/invite/RVRZ3RgYNP)
 * [⁠Balatro Wiki](https://balatrowiki.org/) - Community-Maintained Balatro Wiki / Card Database
-* [Bazaar DB](https://bazaardb.gg/) - The Bazaar Wiki / Guides ⁠/ [Discord](https://discord.gg/Thcdk2epGx)
+* [Bazaar DB](https://bazaardb.gg/) - The Bazaar Wiki / Guides / [Discord](https://discord.gg/Thcdk2epGx)
 * [/codmeta/](https://dan.valeena.dev/guides/codmeta/), [2](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [⁠LineupsValorant](https://lineupsvalorant.com/) - Valorant Lineups Database

@@ -250,8 +250,8 @@
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / Windows, Android / [GitHub](https://github.com/martinstoeckli/SilentNotes)
 * [Google Keep](https://keep.google.com/) - Simple Notes / Android, iOS / [Chrome](https://chromewebstore.google.com/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 * [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE / Windows, Mac, Linux, Android, iOS
-* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / Windows, Mac, Linux, Android, iOS / [Web](https://app.standardnotes.com/) [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
-* [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / Windows, Mac, Linux, Android, iOS [GitHub](https://github.com/saber-notes/saber)
+* [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / Windows, Mac, Linux, Android, iOS / [Web](https://app.standardnotes.com/) / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
+* [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / Windows, Mac, Linux / [GitHub](https://github.com/xournalpp/xournalpp)
 * [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers

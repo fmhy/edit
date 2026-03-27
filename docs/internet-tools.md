@@ -801,7 +801,7 @@
 
 ## ▷ Userscripts
 
-* 🌐 **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) -  Userscript Stores
+* 🌐 **[Greasy Fork](https://greasyfork.org/)**, [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) - Userscript Stores
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc), **[Tampermonkey](https://www.tampermonkey.net/)**, [⁠ScriptCat](https://docs.scriptcat.org/en/) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md) or [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Userscript Managers
