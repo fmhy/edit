@@ -60,6 +60,7 @@
 * [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/) - Movies / TV / Auto-Next / 480p
 * [PlayIMDb](https://www.playimdb.com/) - Search VidSrc via IMDb URLs / Official Frontend
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Requires Plex
+* [WatchFlix 2026](https://watchflix.qzz.io/) - Movies / TV Shows / 720p / 1080 / Multi Languages
 
 ***
 
