@@ -128,7 +128,6 @@
 * [FossHub](https://www.fosshub.com/) - FOSS Directory
 * [OSS Gallery](https://oss.gallery/) - FOSS Directory / [GitHub](https://github.com/dubinc/oss-gallery)
 * [Opensource Builders](https://opensource.builders/) - FOSS Alt Directory / [GitHub](https://github.com/junaid33/opensource.builders)
-* [⁠AlternativeOSS](https://alternativeoss.com/) - FOSS Alt Directory
 * [OpenAlternative](https://openalternative.co/) - FOSS Alt Directory
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - FOSS Alt Directory
 * [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) or [CLI Club](https://cli.club/) / [GitHub](https://github.com/cli-club/cli-club.github.io) - FOSS CLI Apps / Tools

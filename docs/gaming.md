@@ -943,7 +943,6 @@
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
 * [BitBurner](https://bitburner-official.github.io/) - Incremental RPG
 * [Progress Quest](http://progressquest.com/play/) - Idle RPG / [Discord](https://discord.com/invite/dz7MFNU)
-* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) - A Paperclip Creation Simulator
 * [MousePoint](https://creativetechguy.com/mousepoint) - Incremental Mouse Movement Game
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game
