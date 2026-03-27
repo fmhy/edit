@@ -563,6 +563,8 @@
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [NontonGP](https://replay.nontonx.com/) - Motorcycle Racing Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
+* [I Love Highlights](https://ilovehighlights.com/) - Extended Football (Soccer) Match Highlights, Pre-match, Half-time analysis and Post Match
+* [I Love Full Match Replays](https://ilovefullmatchreplays.com/) - Enjoy Full Match Replays Online and Download For Offline Viewing
 
 ***
 
