@@ -96,7 +96,7 @@
 
 ## ▷ Calibre Libraries
 
-* ↪️ **[Calibre Libraries](https://rentry.co/FMHYB64#calibre-libraries)** - Sign-Up Required
+* ↪️ **[Calibre Libraries](https://rentry.co/FMHYB64#calibre-libraries)** - Requires Sign-Up
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
 * [opencalibre](https://reddit.com/r/opencalibre) - Community Shared Calibre Libraries
@@ -706,7 +706,7 @@
 * [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search 
 * [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
-* [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Sign-Up Required 
+* [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Requires Sign-Up 
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
 * [PsyArXiv](https://psyarxiv.com/) - Psychology Research Papers
