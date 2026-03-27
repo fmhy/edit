@@ -391,7 +391,7 @@
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/), [seeklogo](https://seeklogo.com/) or [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/) - Logo Search / Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Block Posters](https://www.blockposters.com/), [PosterRazor](https://posterazor.sourceforge.io/) or [Rasterbator](https://rasterbator.net/) - Create Printable Posters
-
+* [DolphinRadar](https://www.dolphinradar.com/download-from-instagram) - Instagram Video, Picture & Story Downloader
 ***
 
 ## ▷ Image Search Engines
