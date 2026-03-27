@@ -144,6 +144,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
+* [TorBox Ebook Viewer](https://torbox-viewer.vercel.app/) - Read TorBox Files without Downloading
 * [Anna’s Archive Reader](https://annas-archive.gl/view), [2](https://annas-archive.pk/view), [3](https://annas-archive.gd/view)
 * [Flow](https://www.flowoss.com/)
 * [Online Cloud File Viewer](https://www.fviewer.com/)
