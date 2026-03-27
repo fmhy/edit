@@ -442,7 +442,7 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [DistroTV](https://distro.tv/) - TV
-* [Puffer](https://puffer.stanford.edu/) - San Fran TV / Sign-Up Required
+* [Puffer](https://puffer.stanford.edu/) - San Fran TV / Requires Sign-Up
 * [cytube](https://cytu.be/) - Random Streams
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
 * [React.tv](https://react.tv/) - Random Streams
@@ -641,7 +641,7 @@
 * [Stremio](https://www.stremio.com/), [Nuvio](https://nuvioapp.space/) / [Discord](https://discord.gg/ggKTJbHdw) / [GitHub](https://github.com/tapframe/NuvioTV/releases/) or [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
 * [⁠Sozo](https://sozo.azamov.me/) - Anime Streaming App
 * [atvTools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Install Apps, Run ADB, Shell Commands, etc.
-* [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Sign-Up Required
+* [tvQuickActions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Remote Button Remapper / Requires Sign-Up
 * [Projectivy Launcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://play.google.com/store/apps/details?id=com.spocky.projengmenu), [3](https://github.com/spocky/miproja1) / [XDA Thread](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) / [Icon Pack](https://github.com/SicMundus86/ProjectivyIconPack), [AT4K Launcher](https://at4klauncher.com/) or [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher) - Android TV Launchers
 * [Launcher Manager](https://xdaforums.com/t/app-firetv-noroot-launcher-manager-change-launcher-without-root.4176349/) - Change Default Launcher
 * [⁠AerialViews](https://github.com/theothernt/AerialViews) - Custom Screensaver App
@@ -720,7 +720,7 @@
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
-* [ShareBB](https://sharebb.me/) - Movies / TV / Sign-Up Required
+* [ShareBB](https://sharebb.me/) - Movies / TV / Requires Sign-Up
 * [⁠FilmVault](https://filmvault.xyz/) - Movies / TV / Telegram Recommended
 * [SD Toons](https://sdtoons.in/category/cartoon/) - Movies / TV / Anime / Some NSFW
 * [PrivateMovieZ](https://privatemoviez.help/) - Movies / TV

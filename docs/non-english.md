@@ -360,10 +360,10 @@
 
 * ⭐ **[hellspy](https://hellspy.to/)** - Video / Geoblocked
 * [WebShare](https://webshare.cz/) - Video / Audio / Books / NSFW
-* [War-Forum](https://war-forum.net/) - Video / Audio / Books / Comics / NSFW / Sign-Up Required
-* [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW / Sign-Up Required
+* [War-Forum](https://war-forum.net/) - Video / Audio / Books / Comics / NSFW / Requires Sign-Up
+* [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW / Requires Sign-Up
 * [FastShare.cloud](https://fastshare.cloud/) - Video / Audio / Books / NSFW
-* [Datoid](https://datoid.to/) - Video / Audio / Books / NSFW / Sign-Up Required for 1GB+ Files
+* [Datoid](https://datoid.to/) - Video / Audio / Books / NSFW / Requires Sign-Up for 1GB+ Files
 
 ## ▷ Torrenting
 
