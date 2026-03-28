@@ -53,7 +53,6 @@
 * [Dolphin Chat](https://chat.dphn.ai/) - Dolphin 24B / No Sign Up / Unlimited
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Requires Sign-Up
 * [Groq](https://console.groq.com/playground) - Kimi K2-0905 / GPT-OSS-120B / Requires Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
-* [Duck AI](https://duck.ai/chat?q=DuckDuckGo+AI+Chat&duckai=1) - Claude Haiku 4.5 / GPT-5 mini / 20 Daily / No Sign-Up
 
 ***
 

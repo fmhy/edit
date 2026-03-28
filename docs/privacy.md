@@ -372,6 +372,7 @@
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)
 * [Startpage](https://www.startpage.com/) - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
+* [Degoog](https://github.com/fccview/degoog/blob/main/docs/repo/PUBLIC_INSTANCES.md) - Metasearch / [Docs](https://fccview.github.io/degoog/) / [GitHub](https://github.com/fccview/degoog)
 
 ***
 

@@ -80,6 +80,7 @@
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)** - Online
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox), [Kagi Extension](https://translate.kagi.com/extension) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* [⁠Mozhi](https://codeberg.org/aryak/mozhi#instances) - Multi Translation Engine Frontend
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator) - Online
@@ -537,7 +538,7 @@
 ## ▷ Free Fonts
 
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-Site Font Search
-* ⭐ **[Font Piracy 101](https://rentry.co/FontPiracy)** - Font Download Guide
+* ⭐ **[Font Piracy 101](https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90)** - Font Download Guide
 * ⭐ **[BeFonts](https://befonts.com/)**
 * [Windows Fonts](https://wfonts.com/)
 * [Free Fonts Family](https://freefontsfamily.org/)
