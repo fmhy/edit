@@ -77,7 +77,6 @@
 * [⁠WonderLink](https://en.wonderlink.de/) - Unlimited / Custom URLs
 * [OneURL](https://www.oneurl.live/) - Unlimited / Custom URLs / [GitHub](https://github.com/KartikLabhshetwar/oneurl)
 * [BioSites](https://biosites.com/) - Unlimited / Custom URLs
-* [Linkr](https://linkr.com/) - Unlimited / Custom URLs
 * [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
 
 ***
@@ -105,7 +104,7 @@
 * ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [⁠Prose](https://prose.org/), [⁠Fluux](https://github.com/processone/fluux-messenger/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
-* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Server Index](https://fluxerservers.com/)
+* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Server Index](https://fluxerservers.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/)
 * [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - General Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
@@ -507,12 +506,12 @@
 
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.pages.dev/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** or [Qwacky](https://github.com/Lanshuns/Qwacky) - Unlimited Shared / No Catch-All / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email) / [Bitwarden Integration](https://bitwarden.com/help/generator/#tab-duckduckgo-3Uj911RtQsJD9OAhUuoKrz)
-* [SimpleLogin](https://simplelogin.io/) - 10 Shared / No Catch-All / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
-* [AdGuard Mail](https://adguard-mail.com/) - 10 Shared / 2K Forwards Monthly / No Outgoing / No Catch-All
-* [Firefox Relay](https://relay.firefox.com/) - 5 Shared / No Catch-All / No Outgoing
-* [addy.io](https://addy.io/) - 10 Shared / 10MB Monthly Bandwidth / No Outgoing / Catch-All / [GitHub](https://github.com/anonaddy/anonaddy)
+* [SimpleLogin](https://simplelogin.io/) - 10 Shared / No Catch-All / [Send Mail](https://simplelogin.io/docs/getting-started/send-email/) / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
+* [AdGuard Mail](https://adguard-mail.com/) - 10 Shared / 2K Forwards Monthly / No Catch-All
+* [Firefox Relay](https://relay.firefox.com/) - 5 Shared / No Catch-All
+* [addy.io](https://addy.io/) - 10 Shared / 10MB Monthly Bandwidth / Catch-All / [GitHub](https://github.com/anonaddy/anonaddy)
 * [erine.email](https://erine.email/) - No Shared / Catch-All
-* [33mail](https://33mail.com/) - No Shared / 10MB Monthly Bandwidth / No Outgoing / Catch-All
+* [33mail](https://33mail.com/) - No Shared / 10MB Monthly Bandwidth / Catch-All
 * [Aionda Mail](https://mail.aionda.com/) - 25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Catch-All
 * [Mailgw](https://mailgw.com/) - No Shared / No Catch-All
 
