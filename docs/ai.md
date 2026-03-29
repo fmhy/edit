@@ -54,7 +54,13 @@
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Requires Sign-Up
 * [Groq](https://console.groq.com/playground) - Kimi K2-0905 / GPT-OSS-120B / Requires Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 
-***
+AmadeyHunter Changes (you guys can tweek the notes/warnings (it's my 1st pull)):
+"
+* [Monica (With Website Summary at the Front)](https://monica.im/) - Requires Sign-Up / Multiple Models / Supports Refferencs/Invite Perks / [Limits/Pricing](https://monica.im/pricing)
+* [Sider](https://sider.ai/chat) - Requires Sign-Up / Multiple Models / [Limits/Pricing](https://sider.ai/pricing)
+* [Hix](https://hix.ai) - Requires Sign-Up / Multiple Models / [Limits/Pricing](https://hix.ai/pricing)
+* [Merlin](https://www.getmerlin.in/) - Requires Sign-Up (Includes 28-30 free queries without login (idk if it's daily or a trial for the ip/browser agent) / Multiple Models / [Limits/Pricing](https://hix.ai/pricing)
+"
 
 ## ▷ Specialized Chatbots
 
