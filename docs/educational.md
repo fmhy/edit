@@ -1479,6 +1479,7 @@
 * [⁠Get Sum Math](https://www.getsummath.com/) - GED Prep / Practice
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool
+* [ExamCert](https://www.examcert.app/) - Free IT Certification Practice Exams / AWS, Azure, CISSP, CCNA + more
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
