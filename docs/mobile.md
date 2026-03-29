@@ -906,7 +906,7 @@
 
 ***
 
-* ⭐ **[Metrolist](https://metrolist.meowery.eu/)** / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist) or [⁠Meld](https://github.com/FrancescoGrazioso/Meld) (spotify integration) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://metrolist.meowery.eu/)** / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist) or [⁠Meld](https://github.com/FrancescoGrazioso/Meld) (Spotify integration) - YouTube Music Players / Innertune Forks / Audio Players
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
