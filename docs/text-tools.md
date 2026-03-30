@@ -26,6 +26,7 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
+* [Fancy font generator](https://givemefonts.com/)  - Free Unicode font generator for social media
 
 ***
 
