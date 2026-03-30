@@ -591,8 +591,12 @@
 ## ▷ Bluesky Tools
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Dashboard](https://deck.blue/)
-* [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
+* [Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Import Following from Twitter/X
+* [Twitter/X Import](https://tangled.org/marcomaroni.it/twitter-to-bluesky) - Import Tweets from Twitter/X
+* [Tuisky](https://github.com/sugyan/tuisky) - TUI Client
+* [deck.blue](https://deck.blue/) - Bluesky Dashboard
+* [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client / Windows
 
 ***
 
