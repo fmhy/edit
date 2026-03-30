@@ -1737,7 +1737,7 @@
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Dizipal](https://dizipal1513.com), [2](https://dizipalx54.com) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla40.com/) - Movies / TV / Sub / Dub / 1080p
-* [FullHdFilimizle](https://www.fullhdfilmizle.mom/) - Movie / 1080p
+* [FullHdFilimizle](https://www.fullhdfilmizle.mom/) - Movie / 1080
 * [Diziyou](https://www.diziyou.to/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
