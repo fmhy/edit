@@ -138,6 +138,42 @@
 * [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
 
+AmadeyHunter (this is my 2nd pull request):
+#-- a list of urls I use for sending big samples:
+#-- normaly I just run in any.run or threat.rip, but if a sus stealer/botnet has low detectio or new bypass method, I send it to as many free fire scanner services as possible to speed up virustotal detection rate:
+
+https://threatconnect.com/marketplace/alienvault-otx
+https://otx.alienvault.com/indicator/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa (these are more ioc search ups, the real urls are below (i removed internxt because it's useless + pvnplanet has url problems):
+
+https://otx.alienvault.com/indicator/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+
+https://threatquery.com/engines/hash.html?value=ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+
+https://bazaar.abuse.ch/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/
+
+https://www.threat.rip/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+
+https://metadefender.com/results/hash/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+
+https://app.docguard.io/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa/results/dashboard
+
+https://polyswarm.network/scan/results/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa (decent ai + multi platform support)
+
+https://gridinsoft.com/online-virus-scanner/id/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa (grindinsoft + virustotal
+
+https://www.ctx.io/report/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa (ctx intel, you need login and it's korean so I might just remove it from the pull list)
+
+https://www.ipqualityscore.com/file-malware-scanner/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa (not recommended i might remove it)
+
+https://manalyzer.org/report/84c82835a5d21bbcf75a61706d8ab549 (virus total + identifies use of sus content, good for new dll samples)
+
+---
+
+https://nordvpn.com/file-checker
+https://malware-analysis.charrel.fr
+
+#-- they represent the report for the original wannacry 2017 sample and is the most voted file on virustotal and ofc ignoring the list of scanner avaliable on threat.rip like malprob.io for example
+
 ***
 
 ## ▷ Site Legitimacy Check
