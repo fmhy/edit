@@ -1699,6 +1699,7 @@
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
+* [FullHdFilmizle](https://www.fullhdfilmizle.mom/) - Movie - 1080p
 * [Jet Film izle](https://jetfilmizle.website/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [webdramaturkey2](https://webdramaturkey2.com/) - Asian Drama
