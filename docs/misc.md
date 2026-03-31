@@ -150,6 +150,7 @@
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
+* [KitchenCost](https://kitchencost.app/) - Recipe cost calculator for chefs and small food businesses
 
 ***
 
