@@ -1693,6 +1693,7 @@
 * [canlidizi14](https://www.canlidizi14.com/) - Movies / TV / Anime
 * [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime
 * [diziyo](https://diziyo.sh/) - Movies / TV / Anime
+* [FullHdFilmizle](https://www.fullhdfilmizle.mom/) - Movies / 1080p
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [webteizle3](https://webteizle3.xyz/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p

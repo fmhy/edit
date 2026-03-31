@@ -1099,7 +1099,7 @@
 * [⁠PinkGel](https://pinkgel.pages.dev/) - Terraria Item Database 
 * [tShock](https://github.com/Pryaxis/TShock) - Terraria Server Tools
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
+* [TEdit](https://tedit.dev/) / [Discord](https://discord.gg/xHcHd7mfpn) / [GitHub](https://github.com/TEdit/terraria-map-editor-web), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [Increased FOV](https://gamebanana.com/tuts/14022) - Increase Terraria FOV for 21:9 Monitors
 
@@ -1128,7 +1128,7 @@
 * [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save Editor
-* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
+* [Tenna Project](https://tennaproject.com/welcome) or [Spamton Save Editor](https://saveeditor.spamton.com/) / [GitHub](https://github.com/StrangeSpaceCreature/spamton-save-editor) - DELTARUNE Save Editors
 * [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
 * [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
 * [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine

@@ -1435,7 +1435,6 @@
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
-* [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - Cookie Disabling Game
 * [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software

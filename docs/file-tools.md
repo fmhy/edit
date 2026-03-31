@@ -220,6 +220,7 @@
 * [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
+* [PDF Bookmark Editor](https://mrfragger.github.io/pdf-bookmark-editor/) - PDF Bookmark Editor / [GitHub](https://github.com/mrfragger/pdf-bookmark-editor)
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
 * [OpenSign](https://github.com/OpenSignLabs/OpenSign), [Signature PDF](https://pdf.24eme.fr/) / [GitHub](https://github.com/24eme/signaturepdf), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
