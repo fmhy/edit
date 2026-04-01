@@ -38,6 +38,7 @@
 * [PrimeWire](https://www.primewire.mov/), [2](https://primewire.si/), [3](https://primewire.zip/) - Movies / TV / Anime / Mostly 3rd Party Hosts / [Status / Mirrors](https://primewire.nexus/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / 3rd Party Hosts
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 3rd Party Hosts
+* [Lunaflick](http://lunaflick.xo.je/) - Movies / TV / No-login / Auto-Next / [Telegram](https://t.me/free_netflix_prime_disney)
 
 ***
 
@@ -121,6 +122,7 @@
 * [ONOFLIX](https://onoflix.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/eEmGSZ98cP)
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/ajRY6Bn3rr)
 * [Streamr](https://streamr.pages.dev/), [2](https://streamr.mindreaders7557.workers.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/tYFjXqx6Wf)
+* [Lunaflick](http://lunaflick.xo.je/) - Movies / TV / No-login / Auto-Next / [Telegram](https://t.me/free_netflix_prime_disney)
 * [Cubeflix](https://cubeflix.org/discover) - Movies / TV / Anime / [Discord](https://discord.gg/Rj54xaWxR7)
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * [LunaStream](https://lunastream.fun/) or [CineFlow](https://www.cineflow.watch/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
@@ -706,6 +708,7 @@
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Cinetaro](https://cinetaro.tv/) - Movies / TV / Anime
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
+* [Lunaflick](http://lunaflick.xo.je/) - Movies / TV / No-login / Auto-Next / [Telegram](https://t.me/free_netflix_prime_disney)
 * [Cineby](https://www.cineby.gd/), [2](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [FlickyStream](https://flickystream.ru/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime
 * [Willow](https://willow.arlen.icu/), [2](https://salix.pages.dev/) - Movies / TV / Anime / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
