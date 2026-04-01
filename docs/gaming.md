@@ -136,7 +136,6 @@
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
-* [Magipack](https://rentry.co/FMHYB64#magipack) - Abandonware
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
