@@ -299,13 +299,13 @@
 
 ## ▷ P2P Transfer
 
-* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* ⭐ **[JustBeamIt](https://justbeamit.com/)**
-* [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
-* [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
-* [⁠Station307](https://www.station307.com/)
-* [new.space](https://new.space/)
-* [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
+* ⭐ **[PairDrop](https://pairdrop.net/)** / Web / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* ⭐ **[JustBeamIt](https://justbeamit.com/)** / Web
+* [Surge](https://getsurge.io/) - P2P App / Windows, Mac / [GitHub](https://github.com/rule110-io/surge)
+* [ToffeeShare](https://toffeeshare.com/) / Web / [GitHub](https://github.com/ToffeeShare)
+* [⁠Station307](https://www.station307.com/) / Web
+* [new.space](https://new.space/) / Web, iOS
+* [WebWormhole](https://webwormhole.io/) - [Chrome](https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webwormhole/) / Web, Windows, Mac, Linux / [GitHub](https://github.com/saljam/webwormhole)
 
 ***
 
