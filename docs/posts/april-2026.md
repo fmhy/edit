@@ -78,7 +78,7 @@ in seeing all minor changes you can follow our
 
 - Starred [Flash Museum](https://fmhy.net/gaming#multi-game-sites) in Browser Game Sites. Has a clean UI + one of the bigger libraries of oldschool flash games.
 
-- Starred [PressReleased](https://fmhy.net/internet-tools#paywall-bypass) in Paywall Bypass. Based onBypass Paywalls Clean, requires no extension.
+- Starred [PressReleased](https://fmhy.net/internet-tools#paywall-bypass) in Paywall Bypass. Based on Bypass Paywalls Clean, requires no extension.
 
 - Starred [Evade](https://fmhy.net/internet-tools#redirect-bypass) in Redirect Bypass. Fast, well maintained, and works on lots of sites.
 
