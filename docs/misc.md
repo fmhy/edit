@@ -170,6 +170,7 @@
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
+* [⁠Budget Bytes](https://www.budgetbytes.com/) - Budget Recipes
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [⁠DAREBEETS](https://darebeets.com/) - Plant-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
@@ -1533,7 +1534,7 @@
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Subreddit](https://www.reddit.com/r/lostmedia/) / [Discord](https://discord.gg/NFsM8YbBYH)
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
 * [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
-* [Iceberg Charts](https://www.reddit.com/r/IcebergCharts/) - Explore Obscure Topics
+* [Iceberg Charts](https://www.reddit.com/r/IcebergCharts/) or [⁠Iceberg Threads](https://icebergthreads.com/) - Explore Obscure Topics
 * [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [elgooG](https://elgoog.im/) - Google Easter Eggs

@@ -33,7 +33,7 @@
 ***
 
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Includes AdGuard's URL Tracking Protection
-*  ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+*  ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
@@ -73,8 +73,8 @@
 
 ## ▷ DNS Filters
 
+* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * ⭐ **[OISD](https://oisd.nl/)**
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [hBlock](https://github.com/hectorm/hblock)
 * [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
 * [Spamhaus](https://www.spamhaus.org/blocklists/)
