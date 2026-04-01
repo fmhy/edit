@@ -305,7 +305,6 @@
 
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
 * 🌐 **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs
-* ⭐ **[Myrient](https://rentry.co/FMHYB64#myrient)** - ROMs / [Archive](https://rentry.co/FMHYB64#myrient-backup) / [Backup Project](https://myrient.org/), [2](https://minerva-archive.org/) / [Telegram](https://t.me/s/myrient) / [Discord](https://discord.gg/4kVP9AuQ24)
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[Vimm's Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
 * ⭐ **[No-Intro Archive](https://rentry.co/FMHYB64#no-intro)** - ROMs / Unoffcial
@@ -331,6 +330,7 @@
 * [Player One](https://player1.eu/) - ROMs
 * [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
 * [The Old Computer](https://www.theoldcomputer.com/) - ROMs
+* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs / [Backup Project](https://myrient.org/), [2](https://minerva-archive.org/)
 * [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [ROMsPURE](https://ROMspure.cc/) - ROMs
@@ -365,7 +365,7 @@
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [NXBrew](https://nxbrew.net/) - ROMs / Switch
+* [NXBrew](https://nxbrew.net/) - ROMs / Switch / **Avoid Fake Download Buttons**
 * [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
@@ -599,7 +599,7 @@
 * ⭐ **[lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
 * ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
-* [Chess.com](https://www.chess.com/) - Chess Platform - Chess Platform / [Discord](https://discord.gg/3VbUQME)
+* [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME)
 * [PyChess](https://www.pychess.org/) - Chess Platform / [Discord](https://discord.gg/aPs8RKr) / [GitHub](https://github.com/gbtami/pychess-variants)
 * [GameKnot](https://gameknot.com/) - Chess Platform
 * [SparkChess](https://www.sparkchess.com/) - Chess Platform

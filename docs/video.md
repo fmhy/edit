@@ -249,13 +249,12 @@
 * ⭐ **[Kuroiru](https://kuroiru.co/)** or [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) - Multi-Site Anime Search
 * ⭐ **[Seanime](https://seanime.app/)** / [Discord](https://discord.gg/3AuhRGqUqh) / [GitHub](https://github.com/5rahim/seanime), [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.com/invite/EjfBuYahsP) / [GitHub](https://github.com/RyanYuuki/AnymeX), [PlayTorrio](https://playtorrio.xyz/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2), [Anikin](https://github.com/jerry08/Anikin) / [Discord](https://discord.com/invite/U7XweVubJN), [Unyo](https://github.com/K3vinb5/Unyo) or [Miru](https://miru.js.org/en/) / [Telegram](https://t.me/MiruChat) / [GitHub](https://github.com/miru-project/miru-app) - Desktop Streaming Apps
 * [Animetsu](https://animetsu.net/), [2](https://animetsu.net), [3](https://animetsu.cc), [4](https://animetsu.bz), [5](https://animetsu.live) - Sub / Dub
+* [YeAnime](https://yenime.net/) - Sub / Dub
 * [Anify](https://anify.to/) - Sub / Dub / [Discord](https://discord.com/invite/79GgUXYwey)
-* [Cinezo](https://www.cinezo.net/) or [Flikhub](https://www.flikhub.net/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/Gx27YMK73d)
 * [123anime](https://123animes.ru/) - Sub / Dub / Auto-Next
 * [AnimeYY](https://animeyy.com/) - Sub / Dub
 * [⁠1Anime](https://1ani.me/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/jUjSeCrmQt)
 * [Kuudere](https://kuudere.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
-* [YeAnime](https://yenime.net/) - Sub / Dub
 * [AniDoor](https://anidoor.me/) - Sub / Dub / Auto-Next
 * [⁠JustAnime](https://justanime.to/), [2](https://justanime.fun/) - Sub / Dub / Auto-Next / [Mirrors](https://justanime.site/) / [Telegram](https://t.me/JustAnimeZone) / [Discord](https://discord.gg/P3yqksmGun)
 * [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
