@@ -175,7 +175,7 @@
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
 * [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android)
-* [TikTokModCloud](https://t.me/TikTokModCloud) - Modded TikTok Client
+* [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
 * [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) (root) - WhatsApp Patcher / [Telegram](https://t.me/waenhancer)
@@ -448,6 +448,7 @@
 * [⁠Mopria Scan](https://play.google.com/store/apps/details?id=org.mopria.scan.application) - Auto Connect Android to Scanners / Printers 
 * [Gadgetbridge](https://gadgetbridge.org/) - Gadget Manager / [Supported Devices](https://gadgetbridge.org/gadgets/) / [Source Code](https://codeberg.org/Freeyourgadget/Gadgetbridge)
 * [TouchDroid](https://github.com/SKRInternationals/TouchDroid), [Mousedroid](https://github.com/darusc/Mousedroid) or [USB HID Client](https://github.com/Arian04/android-hid-client) (root) - Use Device as PC Mouse / Keyboard
+* [⁠TMPAD](https://play.google.com/store/apps/details?id=pro.themed.perappdownscale) - Run Android Games at Lower Resolutions
 * [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) - Make Presentations
 * [Listy](https://listy.is/) or [HypeList](https://hypelist.com/) - Create Lists of Anything
 * [⁠Gameye](https://www.gameye.app/) - Track Game Collection / Prices
@@ -471,7 +472,7 @@
 ## ▷ Android Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
+* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * [⁠Re-Malwack](https://re-malwack.vercel.app/) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
@@ -985,6 +986,7 @@
 * [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Improved Bilibili Client
+* [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * [MovieDB](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
 * [Showly](https://github.com/michaldrabik/showly) - TV Trackers

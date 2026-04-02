@@ -872,6 +872,7 @@
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [Quran.com](https://quran.com/) / [Android](https://github.com/quran/quran_android) / [iOS](https://github.com/quran/quran-ios), [Tanzil](https://tanzil.net/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
+* [Sirah](https://www.sirah.gleeze.com/) - AI-Powered Hadith Translation / Collections
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App

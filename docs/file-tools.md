@@ -125,7 +125,6 @@
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
-* [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 
 ***
 
@@ -400,34 +399,34 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Free plan storage / Free plan account inactivity deletion / Avg monthly price per TB (annual plan).
+* **Note** - Free plan / Free account inactivity deletion / Cheapest USD/TB/month.
 
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
-* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
-* ⭐ **[MEGA](https://mega.io/)** - 20GB Free / 3 Months / ~$10 for 3TB / [GitHub](https://github.com/meganz)
-* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
-* [Filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Requires Sign-Up for Sharing
-* [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
-* [MediaFire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
-* [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
-* [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
-* [FEB](https://www.febbox.com/) - 10GB Free / 1 Month / ~$4 for 2TB
+* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB / 2 Years
+* ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$10 for 3TB / [GitHub](https://github.com/meganz)
+* [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2 for 1TB
+* [Filen](https://filen.io/) - 10GB / 3 Months / ~$8 for 1TB / Requires Sign-Up for Sharing
+* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
+* [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / $5 for 1TB
+* [icedrive](https://icedrive.net/) - 10GB / 3 Months / $5 for 1TB
+* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$4 for 1TB
+* [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$4 for 2TB
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
-* [Proton Drive](https://proton.me/drive) - 5GB Free / 1 Year / ~$10 for 1TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
-* [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB Free / 1 Year / ~$14 for 3TB
-* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB Free / 1 Year / ~$13 for 3TB
-* [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
+* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$10 for 1TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$14 for 3TB
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$13 for 3TB
+* [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $8.25 for 1TB
 * [FileLu](https://filelu.com/) - 10GB / Forever / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
-* [CyberFile](https://cyberfile.me/) - 10GB Free
-* [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
-* [Blomp](https://www.blomp.com/) - 40GB Free / 1 Month / ~$3 for 2TB
-* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
+* [CyberFile](https://cyberfile.me/) - 10GB
+* [MrOwl](https://www.mrowl.com/) - 10GB / ~$16 for 1TB
+* [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$3 for 2TB
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 for 1TB
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15.5 per 1TB
 * [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$12 per 1TB
-* [1Cloud File](https://1cloudfile.com/) - 10GB Free
+* [1Cloud File](https://1cloudfile.com/) - 10GB
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 
 ***

@@ -31,9 +31,9 @@
 
 ***
 
-* ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Includes AdGuard's URL Tracking Protection
+* 🌐 **[FilterLists](https://filterlists.com/)**  - Filter / Host List Directory
+* ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use w/ AdGuard URL Tracking Protection
 *  ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
 * [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines 
@@ -170,6 +170,7 @@
 * [Surfer Protocol](https://github.com/Surfer-Org/Protocol) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)
 * [GnuPG](https://gnupg.org/) - Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
+* [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.me/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps

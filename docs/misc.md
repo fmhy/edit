@@ -305,7 +305,7 @@
 * 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
 * [World Monitor](https://worldmonitor.app/) - Real-Time News Map / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor)
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
@@ -472,6 +472,7 @@
 * [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [WiGLE](https://wigle.net/) - Wireless Networks Map
+* [⁠Community Network Map](https://communitynets.org/content/community-network-map) - Municipal Networks Map 
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
 * [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 
@@ -651,6 +652,7 @@
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
+* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 
 ***
 
@@ -710,7 +712,6 @@
 * [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
 * [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
 * [ORAC Values](https://superfoodly.com/orac-values/) - ORAC Value Database / Information
-* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 
 ***
 
@@ -1011,6 +1012,7 @@
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
+* ⭐ **[Fragrantica](https://www.fragrantica.com/)**, [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
 * [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
@@ -1046,7 +1048,6 @@
 * [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
 * [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database
-* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)

@@ -274,7 +274,6 @@
 ## ▷ Online Editors
 
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
-* ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local Saves

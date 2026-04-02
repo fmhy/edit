@@ -62,6 +62,7 @@
 * ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
+* [⁠AI Roundtable](https://opper.ai/ai-roundtable) - Run Multi-Model Debates on Any Question 
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [⁠Exa](https://exa.ai/search) - AI Search Engine
 * [Vane](https://github.com/ItzCrazyKns/Vane) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
@@ -195,7 +196,6 @@
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
 * ⭐ **[⁠Hunyuan Image Generation](https://hunyuan.tencent.com/visual)** - Generating / Editing / 3D / Sign-Up / Unlimited
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
-* [Yupp.ai](https://yupp.ai/) - Multiple Generators / Google Login / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Google AI Studio](https://aistudio.google.com/generate-image) - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) - 120 Credits Daily / Seedream 5.0 lite / Nano Banana / Sign-Up
@@ -428,7 +428,6 @@
 * ⭐ **[Arena](https://arena.ai/leaderboard)**, [2](https://canaryarena.ai/) - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
-* [Yupp Leaderboard](https://yupp.ai/leaderboard) - Chatbot Leaderboards / Benchmarks / [X](https://x.com/yupp_ai) / [Subreddit](https://www.reddit.com/r/yupp_ai/) / [Discord](https://discord.com/invite/yuppai)
 * [Context Arena](https://contextarena.ai/) - Chatbot Leaderboards / Benchmarks
 * [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
 * [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)
@@ -483,7 +482,7 @@
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) or [Practical Deep Learning](https://course.fast.ai/) - Machine / Deep Learning Courses
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
-* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
+* [⁠Unsloth](https://unsloth.ai/docs/new/studio) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
 * [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library

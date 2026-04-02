@@ -701,7 +701,7 @@
 * ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
-* ⭐ **[Flash Museumm](https://flashmuseum.org/)** - Browser Game Aggregator
+* ⭐ **[Flash Museum](https://flashmuseum.org/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator

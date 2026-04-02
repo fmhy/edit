@@ -692,6 +692,7 @@
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
+* [BollyMod](https://bolly-mod.christmas/) - Movies / TV / Sub / Dub / 1080p
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p

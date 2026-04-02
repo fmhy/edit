@@ -987,7 +987,7 @@
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
+* ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
