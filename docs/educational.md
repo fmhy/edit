@@ -1491,6 +1491,7 @@
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [⁠exam-mate](https://www.exam-mate.com/pastpapers), [⁠Study Hatch](https://studyhatch.com/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
+* [ISC Board Resources And Notes] (https://class-12-isc.vercel.app/) 
 
 ***
 
