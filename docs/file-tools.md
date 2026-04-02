@@ -33,7 +33,6 @@
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
-* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
 * [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager
@@ -126,6 +125,7 @@
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
+* [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 
 ***
 
@@ -220,6 +220,7 @@
 * [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
+* [PDF Bookmark Editor](https://mrfragger.github.io/pdf-bookmark-editor/) - PDF Bookmark Editor / [GitHub](https://github.com/mrfragger/pdf-bookmark-editor)
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
 * [OpenSign](https://github.com/OpenSignLabs/OpenSign), [Signature PDF](https://pdf.24eme.fr/) / [GitHub](https://github.com/24eme/signaturepdf), [FalsiScan](https://gitlab.com/edouardklein/falsisign), [JustSignPDF](https://justsignpdf.com/) or [Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html) - PDF Signature Tools
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected Google Drive PDFs
@@ -360,7 +361,7 @@
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
-* [FileFast](https://filefa.st/), [2](https://gofile.to/) - 5GB / Unlimited
+* [FileFast](https://gofile.to/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Requires Sign-Up
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
@@ -460,7 +461,7 @@
 * [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives / [GitHub](https://github.com/jsmsj/GdriveCloneBot)
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [DriveRename](https://driverename.iblogbox.com/) - Bulk Google Drive File Rename
-* [Sharer](https://sharer.pw), [YuShare](https://yushare.my.id) or [GDToT](https://new10.gdtot.dad) - Google Drive File Sharing
+* [Sharer](https://sharer.pw) - Google Drive File Sharing
 
 ***
 

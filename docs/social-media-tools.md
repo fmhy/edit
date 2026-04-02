@@ -436,6 +436,7 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Subs, Captsions & Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) - Clip / Phrase Search Engines
+* [⁠LikeSearch](https://likesearch.kaustlabs.com/) - Search Your Liked YouTube Videos 
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
@@ -566,7 +567,6 @@
 * [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
 * [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest), [⁠twmd](https://github.com/mmpx12/twitter-media-downloader) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloaders
 * [Twitsave](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
-* [Pikaso](https://x.com/pikaso_me) - Twitter Screenshot Bot
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Twitter Archive Services
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Tweet Archivers
@@ -591,8 +591,12 @@
 ## ▷ Bluesky Tools
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative / [App Directory](https://docs.bsky.app/showcase) / [Twitter Import](https://github.com/kawamataryo/sky-follower-bridge), [2](https://github.com/marcomaroni-github/twitter-to-bluesky) / [TUI](https://github.com/sugyan/tuisky) / [Dashboard](https://deck.blue/)
-* [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
+* [Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Import Following from Twitter/X
+* [Twitter/X Import](https://tangled.org/marcomaroni.it/twitter-to-bluesky) - Import Tweets from Twitter/X
+* [Tuisky](https://github.com/sugyan/tuisky) - TUI Client
+* [deck.blue](https://deck.blue/) - Bluesky Dashboard
+* [DarkSky](https://github.com/FireCubeStudios/DarkSky) - Bluesky Client / Windows
 
 ***
 
@@ -743,7 +747,7 @@
 
 # ► 4chan Tools
 
-* [4chan X](https://www.4chan-x.net/) - Enhancement Extensions
+* ⭐ **[4chan X](https://www.4chan-x.net/)** - Enhancement Extension / [GitHub](https://github.com/ccd0/4chan-x)
 * [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Mobile Apps
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client

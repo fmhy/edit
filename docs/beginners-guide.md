@@ -6,7 +6,7 @@ Sites generally contain ads, some of which can be harmful, often leading to unwa
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts.
 
-For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[Morphe](https://morphe.software/)** or **[ReVanced Manager](https://revanced.app/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/revanced-morphe-obtainium/). Note that uBO works on mobile browsers like Firefox too.
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/revanced-morphe-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
 !!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
@@ -51,7 +51,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/) / [StreamSports99](https://streamsports99.ru)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
@@ -69,8 +69,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
-* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Nicotine+](https://nicotine-plus.org/) + [Soulseek](https://slsknet.org/)**
-* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [ReVanced Manager](https://revanced.app/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Nicotine+](https://nicotine-plus.org/)**
+* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
@@ -79,7 +79,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 ### Gaming
 
 * **Download / Torrent: [Virgil Game Search](https://virgil.samidy.com/Games/) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYB64#myrient)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
 ***
@@ -90,7 +90,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Tokybook](https://tokybook.com/)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
 * **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
-* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 

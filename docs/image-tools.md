@@ -236,6 +236,7 @@
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
+* [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
 * [Master of all Science](https://masterofallscience.com/) - Rick and Morty Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator
@@ -585,7 +586,7 @@
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
-* [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
+* [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking / [GitHub](https://github.com/alicevision)
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
@@ -646,7 +647,6 @@
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 * [Allusion](https://allusion-app.github.io/) - Reference Image Manager
-* [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 
 ***
 
@@ -660,7 +660,6 @@
 * [CrushImage](https://crushimage.com/) - Batch Compressor
 * [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
 * [HiCompress](https://hicompress.com/tools) - Batch Compressor
-* [minipic](https://minipic.app/) - Batch Compressor / Converter
 * [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
 * [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20MB Upload / [GitHub](https://github.com/tinify)
 * [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
@@ -695,6 +694,7 @@
 * [imverter](https://www.imverter.com/)
 * [Raw Pics](https://raw.pics.io/)
 * [Converseen](https://converseen.fasterland.net/)
+* [⁠WebP-Conv](https://webp-conv.pages.dev/) - Video To WebP Converter 
 
 ***
 

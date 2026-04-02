@@ -71,12 +71,10 @@
 ***
 
 * 🌐 **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - Course Site Index
-* ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives / Sign-Up Opens Fridays
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://www.cbusters.com/home)** - Course Busters Access
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
-* [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [learningDL](https://learningdl.net/) - Courses / Requires Leech
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
@@ -102,7 +100,7 @@
 * [⁠Basic Knowledge 101](https://www.basicknowledge101.com/) - Knowledgebase / Topic Learning
 * [media.ccc.de](https://media.ccc.de/) - Educational Presentations
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
-* [Stack Exchange](https://stackexchange.com/) or [Quetre](https://quetre.iket.me) - Q&A Communities
+* [Stack Exchange](https://stackexchange.com/) - Q&A Communities
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Quizzes / Guides / Games
 * [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
@@ -378,7 +376,8 @@
 * ⭐ **[Animalia](https://animalia.bio/)** or [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Rediscovered Animal / Plant Database
-* [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
+* [⁠Wayne's Word](https://www.waynesword.net/) - Biology and Botany Information / Learning
+* [Biology Online](https://www.biologyonline.com/) - Biology Articles
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
 * [LibreTexts Biology](https://bio.libretexts.org/Bookshelves) - Biology Learning / Guides
 * [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
@@ -398,9 +397,10 @@
 * [Featherbase](https://www.featherbase.info/en/home) - Bird Feather Database
 * [BugGuide](https://bugguide.net/) - Insect Identification Community
 * [AntWeb](https://www.antweb.org/) - Ant Species Database
+* [Spider ID](https://spiderid.com/) - Spider Species Database / Identification Community
 * [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
-* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
+* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.visualcinnamon.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
 * [Pteros](https://www.pteros.com/) - Pterosaur Database
@@ -631,7 +631,7 @@
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [Learn World Map](https://map.koljapluemer.com/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
@@ -683,7 +683,6 @@
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
-* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
@@ -837,7 +836,6 @@
 * [Roux Trainers](https://onionhoney.github.io/roux-trainers/) - Learn Roux Solving Method
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wiki / Community Forum
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
-* [Cubing Time Standard](https://cubingtimestandard.com/) - Track Your Performance Across WCA Events
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](https://expertcuber.by/f2l.php) - Algorithm-Specific Trainers
 * [BlindTrainer](https://blindtrainer.com/) - Blindfolded Rubinks Trainer
@@ -1154,6 +1152,7 @@
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
+* [SignWriting](https://www.signwriting.org/) - Sutton SignWriting System Learning + Resources
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 * [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [DMDb](https://deafmovie.org/) or [Sign on Screen](https://signonscreen.com/all-films/) - Deaf Movie Databases / Sign Language Films / Deaf Actors
@@ -1285,7 +1284,6 @@
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
-* [⁠HTML Style Guides](https://ggprompts.github.io/htmlstyleguides/) - ⁠HTML Style Guides / [GitHub](https://github.com/GGPrompts/htmlstyleguides)
 * [HEAD](https://htmlhead.dev/) - HTML head Element Guide
 * [css-animation](https://css-animations.io/) - CSS Animation Tutorial
 * [100DayCSS](https://100dayscss.com/), [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges

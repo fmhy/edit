@@ -138,15 +138,12 @@
 
 ***
 
-## ▷ ReVanced Tools
+## ▷ Morphe / ReVanced Tools
 
-* **Note** - If you're a developer, please consider contributing to the **[official projects](https://github.com/ReVanced)** over unofficial ones.
-
-***
-
+* 🌐 **[Morphe Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/)** - Morphe Patch Index
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
-* ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / Official / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
-* ⭐ **[ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Update ReVanced Apps Automatically
+* [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* [Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/) - Update ReVanced Apps Automatically
 * [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
@@ -193,7 +190,6 @@
 * ⭐ **[AyuGram](https://github.com/AyuGram/AyuGram4A)** - Telegram With Extra Features / [Docs](https://docs.ayugram.one/) / [Telegram](https://t.me/ayugramchat)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [⁠NagramX](https://t.me/NagramX) / [GitHub](https://github.com/risin42/NagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
 * [Nekogram](https://nekogram.app/) - Simplistic Client / [GitHub](https://github.com/Nekogram/Nekogram/)
-* [exteraGram](https://exteragram.app) - Custom Settings / Customizable Design / [Plugins](https://plugins.exteragram.app/) / [GitHub](https://github.com/exteraSquad/exteraGram)
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Basic Client
 * [Nicegram](https://nicegram.app/) - Basic Client / [GitHub](https://github.com/Nicegram)
 * [Octogram](https://octogramapp.github.io/) - Basic Client / [GitHub](https://github.com/OctoGramApp/OctoGram)
@@ -412,7 +408,7 @@
 
 * ⭐ **[Gallery](https://github.com/FossifyOrg/Gallery)** - Photo / Video Gallery
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
-* [Google Photos Revanced](https://revanced.app/) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
+* [Google Photos Revanced](https://revanced.app/) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
 * [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
 * [Ente](https://ente.io/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
 * [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
@@ -445,7 +441,7 @@
 * [notesGPT](https://usenotesgpt.com/) - AI Voice Notes
 * [AudioNote](https://certified84.github.io/AudioNote/) or [⁠Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - Video / Voice Recorders
 * [⁠AndroidMic](https://github.com/teamclouday/AndroidMic) - Use Android as PC Mic
-* [ChatBox](https://github.com/chatboxai/chatbox), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
+* [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
 * [⁠Arc](https://play.google.com/store/apps/details?id=com.rethink.arc) - AI Assistant
 * [Safe Headphones](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -906,12 +902,13 @@
 
 ***
 
-* ⭐ **[Metrolist](https://metrolist.meowery.eu/)** / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist) or [⁠Meld](https://github.com/FrancescoGrazioso/Meld) (Spotify integration) - YouTube Music Players / Innertune Forks / Audio Players
+* ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-* ⭐ **[ReVanced YouTube](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/), [2](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
-* [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [GitHub](https://github.com/maxrave-dev/SimpMusic)
+* [⁠Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music Player / Spotify Integration
+* [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [Discord](https://discord.com/invite/Rq5tWVM9Hg) / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player
 * [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
 
@@ -960,6 +957,7 @@
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Nuvio](https://nuvioapp.space/)** - Movies / TV / [Plugins](https://nuvio-plugin-library.vercel.app/), [2](https://discord.gg/daqjFEfZv) / [Discord](https://discord.gg/ggKTJbHdw) / [GitHub](https://github.com/tapframe/NuvioStreaming)
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
@@ -967,13 +965,12 @@
 * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md) 
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
-* [CineHD](https://cinehd.xyz/) - Movies / TV
+* [CineHD](https://cinehd.xyz/) - Movies / TV / Anime / Drama / Live TV
 * [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
-* [Nuvio](https://nuvioapp.space/) - Movies / TV / [Discord](https://discord.gg/ggKTJbHdw) / [GitHub](https://github.com/tapframe/NuvioStreaming)
 * [Flixclusive](https://github.com/flixclusiveorg/Flixclusive) - Movies / TV / [Plugins](https://discord.com/invite/7yPSPveReu)
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV
 * [Nxsha](https://nxsha.app/) - Movies / TV
@@ -997,7 +994,6 @@
 ## ▷ Android Video Players
 
 * ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**
-* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
@@ -1046,11 +1042,11 @@
 ## ▷ Android YouTube Apps
 
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-* ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_revanced_tools) / [Guide](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[ytdlnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
@@ -1074,7 +1070,7 @@
 * [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iOS/iPad) Management Tool
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iPhone Wallpapers
-* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [ChatBox](https://github.com/chatboxai/chatbox), [FullMoon](https://fullmoon.app/) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [ZArchiver](https://apps.apple.com/app/id6504976055) or [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [Blip](https://apps.apple.com/in/app/blip-send-files-in-a-click/id6463305181) - File Transfer / Turn "Searchable by Name" Off in Settings
@@ -1309,7 +1305,7 @@
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotilifeC/)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Modded YouTube Music / Ad-Free / [Discord](https://discord.gg/BhdUyCbgkZ)
-* ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - YouTube Music Player / Downloader / Playlist Extractor
+* ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠8SPINE](https://testflight.apple.com/join/WpRgRCDm) - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/)
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
@@ -1353,7 +1349,7 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Discord](https://discord.gg/ggKTJbHdw) / [GiTHub](https://github.com/tapframe/NuvioStreaming), [Stremio](https://www.stremio.com/) or [Web Stremio](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/), [2](https://discord.gg/daqjFEfZv) / [Discord](https://discord.gg/ggKTJbHdw) / [GiTHub](https://github.com/tapframe/NuvioStreaming), [Stremio](https://www.stremio.com/) or [Web Stremio](https://web.stremio.com/), [2](https://stremio-neo.aayushcodes.eu/) / [Guide](https://blog.stremio.com/using-stremio-web-on-iphone-ipad/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync

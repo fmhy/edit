@@ -34,8 +34,8 @@
 * ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)**, [NoteBin](https://notebin.de/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
-* ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[Markbox](https://fluffle.cc/)** - Markdown Support / [Source Code](https://git.0x8e.net/t/fluffle)
+* ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
+* ⭐ **[Markbox](https://markbox.cc/)**, [2](https://fluffle.cc/) - Markdown Support / Custom URLs / [Source Code](https://git.0x8e.net/t/fluffle)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [⁠Pretrey](https://pretrey.fmhy.bid/) - Markdown / Dynamic Content Support 
 * [Text.is](https://text.is/) - Markdown Support
@@ -119,7 +119,7 @@
 
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
-* ⭐ **[Base64 Decode](https://www.base64decode.org/)** - Encode / Decode Base64
+* ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [base64.run](https://base64.run/) - Encode / Decode Base64
 * ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool

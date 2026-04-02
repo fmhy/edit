@@ -154,7 +154,7 @@
 * [Player FM](https://player.fm/)
 * [Podcast Republic](https://www.podcastrepublic.net/)
 * [Relay.fm](https://www.relay.fm/)
-* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodFetch](https://www.samtv.fyi/PodFetch/), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
+* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
 * [PodScripts](https://podscripts.co/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
@@ -172,7 +172,7 @@
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
-* [Rainyscope](https://rainyscope.com/) - Ambient Rain
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain / [GitHub](https://github.com/jenius-apps/ambie)
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
 * [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
@@ -386,7 +386,7 @@
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [Spotisaver](https://spotisaver.net/) - Multi-Site / MP3
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
-* [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
+* [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC
 * [cobalt](https://cobalt.tools/) - SoundCloud / 320kb / MP3 / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 
 ***
@@ -503,7 +503,6 @@
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
 * [⁠ELEKTROBEATS](https://elektrobeats.org/) - Electronic / MP3
 * [EDMWaves](https://edmwaves.org/) - Electronic / MP3
-* [MusicFans](https://musicfans.space/) - Electronic / MP3
 * [PSYFP](https://psyfp.ucoz.ru/) - Electronic / MP3
 * [DMO](https://dance-music.org/) - Electronic / MP3
 * [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
@@ -588,7 +587,6 @@
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
-* [Sampld](https://sampld.app/) - Find Audio Samples
 
 ***
 

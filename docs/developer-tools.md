@@ -112,7 +112,6 @@
 
 ## ▷ Mobile Dev Tools
 
-* 🌐 **[AndroidRepo](https://androidrepo.com/)** - Android Development Resources
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
 * 🌐 **[UXArchive](https://uxarchive.com/)**, [Mobbin](https://mobbin.com/) or [UISources](https://uisources.com/) - Mobile UI Resources
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
@@ -374,13 +373,13 @@
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
-* ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
+* ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Resources](https://github.com/emacs-tw/awesome-emacs)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [LiveCodes](https://livecodes.io/) / [GitHub](https://github.com/live-codes/livecodes), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
 * [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
-* [Helix](https://helix-editor.com/) - Kakuone / Neovim-Based Code Editor
+* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
 * [Fresh](https://getfresh.dev/) - TUI Code Editor
@@ -405,7 +404,6 @@
 * ⭐ **[Google Colaboratory](https://colab.research.google.com/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)** or [StackBlitz](https://stackblitz.com/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
-* [CodeTasty](https://codetasty.com/) - Cloud IDE
 * [Atheos](https://www.atheos.io/) - Requires Server / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
 * [JSFiddle](https://jsfiddle.net/) - Cloud IDE
@@ -623,7 +621,7 @@
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor / [GUI](https://github.com/Col-E/Recaf-Launcher/)
-* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower), [JavaDecompiler](https://www.javadecompilers.com/) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [⁠WhichJDK](https://whichjdk.com/) - JDK Version Cheatsheet / Info
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
@@ -840,7 +838,7 @@
 * [Khroma](https://www.khroma.co/) or [Paletton](https://paletton.com/) - Color Scheme Designers
 * [Palettte](https://palettte.app/) - Color Palette Editor
 * [Colouris](https://colouris.surge.sh/) or [Color Converter](https://colorconverter.dev/) - Color Code Format Converters
-* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
+* [PaletteGenerator](https://palettegenerator.com/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Palette Builders
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
@@ -879,7 +877,6 @@
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
-* [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
@@ -988,7 +985,7 @@
 * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * 🌐 **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** - Free Hosting Provider Index / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting)
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
-* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
+* 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ⭐ **[TLD-List](https://tld-list.com/)**, [TLDES](https://tldes.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors

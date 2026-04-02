@@ -200,7 +200,7 @@
 * 🌐 **[⁠MouseCTRL](https://mousectrl.com/)** or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
 * 🌐 **[Gamepadla](https://gamepadla.com/)** - Gamepad / Controller Latency Tests
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
-* ⭐ **[GamingSmart](https://gamingsmart.com/)**, [Sens Converter](https://kovaaks.com/kovaaks/sens-converter), [SensConverter](https://sensconverter.online/) or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
+* ⭐ **[GamingSmart](https://gamingsmart.com/)**, [Sens Converter](https://kovaaks.com/kovaaks/sens-converter) or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
 * ⭐ **[Aim400kg](https://aim400kg.com/)**, [3D Aim Trainer](https://www.3daimtrainer.com/), [Aimlabs](https://aimlabs.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[Speedrun](https://www.speedrun.com/)** - Speedrunning Streams, Leaderboards, Resources, etc.
 * [Steam Guides](https://steamcommunity.com/guides), [MetaForge](https://metaforge.app/), [GameGuides](https://www.gamerguides.com/), [DotGG](https://dotgg.gg/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
@@ -425,7 +425,7 @@
 * [Tilted Online](https://wiki.tiltedphoques.com/tilted-online/) - Multiplayer Skyrim & Fallout 4 / [Setup Guide](https://youtu.be/ytSftFoQQHA) / [Discord](https://discord.gg/skyrimtogether) / [GitHub](https://github.com/tiltedphoques/TiltedEvolution)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discord.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod / [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
-* [BeamMP](https://beammp.com/) - BeamNG Multiplayer / [GitHub](https://github.com/BeamMP/BeamMP)
+* [BeamMP](https://github.com/BeamMP/BeamMP) - BeamNG Multiplayer
 * [Fika](https://project-fika.gitbook.io/wiki) - Play Single Player Tarkov Co-Op
 * [OnlineCTR](https://www.online-ctr.com/) - Crash Team Racing Multiplayer
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
@@ -869,6 +869,7 @@
 * [Tabletopy](https://tabletopy.com/) or [Tabletop Audio](https://tabletopaudio.com/) - Immersive SFX / Music for TTRPGs
 * [RPGnet](https://forum.rpg.net/) - RPG Forum
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
+* [⁠Pagat](https://www.pagat.com/) - Card Game Rules Database 
 * [⁠Untapped.gg](https://untapped.gg/en) - Card Game Decks / Practice / Metas
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
@@ -1099,7 +1100,7 @@
 * [⁠PinkGel](https://pinkgel.pages.dev/) - Terraria Item Database 
 * [tShock](https://github.com/Pryaxis/TShock) - Terraria Server Tools
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
+* [TEdit](https://tedit.dev/) / [Discord](https://discord.gg/xHcHd7mfpn) / [GitHub](https://github.com/TEdit/terraria-map-editor-web), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [Increased FOV](https://gamebanana.com/tuts/14022) - Increase Terraria FOV for 21:9 Monitors
 
@@ -1128,7 +1129,7 @@
 * [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up
 * [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - Undertale Save Editor
-* [Tenna Project](https://tennaproject.com/welcome) - DELTARUNE Save Editor
+* [Tenna Project](https://tennaproject.com/welcome) or [Spamton Save Editor](https://saveeditor.spamton.com/) / [GitHub](https://github.com/StrangeSpaceCreature/spamton-save-editor) - DELTARUNE Save Editors
 * [CreateYourFrisk (CYF)](https://github.com/RhenaudTheLukark/CreateYourFrisk) - Lua-Moddable Undertale Battle Engine / Unitale Fork / [Deltarune Mod](https://github.com/RhenaudTheLukark/CreateYourKris) / [Docs](https://rhenaudthelukark.github.io/CreateYourFrisk/) / [Subreddit](https://www.reddit.com/r/Unitale/)
 * [Kristal](https://kristal.cc/) - DELTARUNE Fangame & Battle Engine / [GitHub](https://github.com/KristalTeam/Kristal)
 * [Unitale](https://jevilhumor.itch.io/undertale-engine) - Original Lua-Moddable Undertale Engine

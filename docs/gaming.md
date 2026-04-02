@@ -18,7 +18,7 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.com/invite/dkKxZGjyF8)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.gg/EjhETthj3V)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
@@ -137,7 +137,6 @@
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Abandonware
 * [Magipack](https://rentry.co/FMHYB64#magipack) - Abandonware
-* [GiochiAbandonware](https://giochiabandonware.com/) - Abandonware / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Old-Games.com](https://www.old-games.com/) - Abandonware / 2 Daily Downloads
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
@@ -306,14 +305,13 @@
 
 * 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
 * 🌐 **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs
-* ⭐ **[Myrient](https://rentry.co/FMHYB64#myrient)** - ROMs / [Archive](https://rentry.co/FMHYB64#myrient-backup) / [Backup Project](https://myrient.org/), [2](https://minerva-archive.org/) / [Telegram](https://t.me/s/myrient) / [Discord](https://discord.gg/4kVP9AuQ24)
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[Vimm's Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
 * ⭐ **[No-Intro Archive](https://rentry.co/FMHYB64#no-intro)** - ROMs / Unoffcial
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** or [CDRomance](https://cdromance.org/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** (sign-up required) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [CDRomance](https://cdromance.org/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [⁠ROMHacking.com](https://romhacking.com/), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
 * [Zophar's Domain](https://www.zophar.net/) - ROM Mods
@@ -332,6 +330,7 @@
 * [Player One](https://player1.eu/) - ROMs
 * [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
 * [The Old Computer](https://www.theoldcomputer.com/) - ROMs
+* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs / [Backup Project](https://myrient.org/), [2](https://minerva-archive.org/)
 * [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [ROMsPURE](https://ROMspure.cc/) - ROMs
@@ -366,7 +365,7 @@
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [NXBrew](https://nxbrew.net/) - ROMs / Switch
+* [NXBrew](https://nxbrew.net/) - ROMs / Switch / **Avoid Fake Download Buttons**
 * [NSWGame](https://nswgame.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
@@ -600,7 +599,7 @@
 * ⭐ **[lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
 * ⭐ **lichess Tools** - [Mobile Apps](https://lichess.org/mobile) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
-* [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME) - Chess Platform
+* [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME)
 * [PyChess](https://www.pychess.org/) - Chess Platform / [Discord](https://discord.gg/aPs8RKr) / [GitHub](https://github.com/gbtami/pychess-variants)
 * [GameKnot](https://gameknot.com/) - Chess Platform
 * [SparkChess](https://www.sparkchess.com/) - Chess Platform
@@ -722,6 +721,7 @@
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
 * [⁠Gameflare](https://www.gameflare.com/) - Browser Game Aggregator
 * [Friv](https://www.friv.com/) - Browser Game Aggregator
+* [⁠GamePuma](https://gamepuma.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
 * [Flash by Night](http://www.flashbynight.com/) - Browser Game Aggregator
 * [FlashLegacy](https://www.flashlegacy.com/) - Browser Game Aggregator
@@ -776,7 +776,7 @@
 
 ## ▷ Party / Multiplayer
 
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [MessCraft](https://mess.eu.org/) / [Discord](https://discord.com/invite/kbzUdZQWgd), [Hiracraft](https://craft.hira.im/), [⁠AmplerLauncher](https://irv77.github.io/AmplerLauncher/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Site List](https://deev.is/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [Eaglercraft.dev](https://eaglercraft.dev/), [q13x's Distros](https://eaglercraft.q13x.com/), [MessCraft](https://mess.eu.org/) / [Discord](https://discord.com/invite/kbzUdZQWgd), [Hiracraft](https://craft.hira.im/), [⁠AmplerLauncher](https://irv77.github.io/AmplerLauncher/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [EaglerCraftX](https://fastest.eaglercraft.win/) / [2](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Site List](https://deev.is/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
 * ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Mod Search](https://eaglerrinth.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/), [2](https://eaglerforge.github.io/EaglerForgeBuilderNew/) / [Public Servers](https://topeaglerservers.com/) / [Improved Servers](https://github.com/lax1dude/eaglerxserver), [2](https://modrinth.com/organization/eaglercraftxserver)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games

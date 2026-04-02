@@ -426,7 +426,7 @@
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
 * [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
-* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
+* [WinSetView](https://lesferch.github.io/WinSetView/) - Globally Set Explorer Folder Views / [GitHub](https://github.com/LesFerch/WinSetView)
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
 * [FluentFlyout](https://fluentflyout.com/) / [GitHub](https://github.com/unchihugo/FluentFlyout) (use github) or [ModernFlyouts](https://modernflyouts-community.github.io) - Modernized Flyout Menus
 * [Alternative Windows Shells Wiki](https://wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells

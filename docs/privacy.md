@@ -21,7 +21,6 @@
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads
 * [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Userscript](https://github.com/AdguardTeam/PopupBlocker)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
-* [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - Skip Sponsored Bilibili Ads
 
 ***
@@ -33,7 +32,7 @@
 ***
 
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Includes AdGuard's URL Tracking Protection
-* [Hagezi Blocklists](https://github.com/hagezi/dns-blocklists) - Blocklist Collection / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+*  ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
@@ -73,8 +72,8 @@
 
 ## ▷ DNS Filters
 
+* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * ⭐ **[OISD](https://oisd.nl/)**
-* [Hagezi Blocklists](https://github.com/hagezi/dns-blocklists) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [hBlock](https://github.com/hectorm/hblock)
 * [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
 * [Spamhaus](https://www.spamhaus.org/blocklists/)
@@ -142,9 +141,9 @@
 
 ## ▷ Site Legitimacy Check
 
-* ⭐ **[URL Void](https://www.urlvoid.com/)**
-* ⭐ **[URLScan](https://urlscan.io/)**
-* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
+* ⭐ **[URL Void](https://www.urlvoid.com/)** - 30+ Blocklist Engines Scan
+* ⭐ **[URLScan](https://urlscan.io/)** - Detailed Report / API
+* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)** - Basic Safety Rating / Content Tags
 * [ScamAdviser](https://www.scamadviser.com/)
 * [IsLegitSite](https://www.islegitsite.com/)
 * [ZScaler](https://zulu.zscaler.com/)
@@ -188,7 +187,7 @@
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)**, [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
-* ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights
+* ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
 * [Lissy93's Awesome Privacy](https://awesome-privacy.xyz/) / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy App / Service
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [⁠Whonix Wiki](https://www.whonix.org/wiki) - Educational Guide / [Forum](https://forums.whonix.org/)
@@ -324,7 +323,7 @@
 
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
-* ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / Deleted After 1 Year Inactive / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / Deleted After 1 Year Inactive / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail) / [More Storage](https://proton.me/support/more-free-storage-existing-users)
 * ⭐ **[Tuta](https://tuta.com/)** - 1GB Free / Encrypted Email / Deleted After 6 Months Inactive / [Subreddit](https://www.reddit.com/r/tutanota/) / [GitHub](https://github.com/tutao/tutanota)
 * [Disroot](https://disroot.org/en/services/email) - 1GB Free / Encrypted Email
 * [DNMX](https://dnmx.cc/) - Onion-Based Email
@@ -365,7 +364,7 @@
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
 * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
-* ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDB Bangs
+* ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs
 * ⭐ **[4get](https://4get.canine.tools/)**, [2](https://4get.ca/), [3](https://4g.opnxng.com/) - Metasearch / [Source Code](https://git.lolcat.ca/lolcat/4get) / [Instances](https://4get.ca/instances)
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [LibreY](https://ly.owo.si/) - Metasearch / [Instances](https://search.liv.town/instances.php), [2](https://search.davidovski.xyz/instances.php) / [GitHub](https://github.com/Ahwxorg/librey/)
@@ -387,7 +386,7 @@
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Map
 * ⭐ **[Cloudflare One](https://one.one.one.one/)** - Free / Unlimited / [Wireguard](https://rentry.co/foss-warp) (kill switch) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing), [2](https://f0rc3run.github.io/free-warp-endpoints/) / [Alt Client](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/alt-warp-clients.md)
 * ⭐ **[Proton VPN](https://protonvpn.com)** - Unlimited / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonVPN/) / [Torrent Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/proton-torrenting.md) 
-* ⭐ **[Windscribe](https://windscribe.com)** - No Torrenting w/ Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
+* ⭐ **[Windscribe](https://windscribe.com)** - No Torrenting w/ Free Plan / 10GB Monthly / Email Required / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
 * ⭐ **[Mullvad VPN](https://mullvad.net/)** - Paid / [No Port Forwarding](https://mullvad.net/en/blog/removing-the-support-for-forwarded-ports) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [.onion](https://ao54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion) / [GitHub](https://github.com/mullvad)
 * ⭐ **[IVPN](https://www.ivpn.net/)** - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [No Port Forwarding](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)

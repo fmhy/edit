@@ -120,7 +120,7 @@
 * 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [⁠definitive-opensource](https://github.com/mustbeperfect/definitive-opensource), [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications / [GitHub](https://github.com/newreleasesio)
-* ⭐ **[Is It Really FOSS](https://isitreallyfoss.com⁠)** - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
+* ⭐ **[Is It Really FOSS](https://isitreallyfoss.com)** - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
 * [SourceForge](https://sourceforge.net/) - FOSS Repositories
 * [OSSSoftware](https://osssoftware.org/) - FOSS Directory
 * [Fossies](https://fossies.org/) - FOSS Directory
@@ -138,7 +138,7 @@
 
 ## ▷ Freeware Sites
 
-* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Awesome Free Apps](https://github.com/Axorax/awesome-free-apps), [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
+* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)**, [Windows Ultimate Collection](https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/) or [Free Lunch](https://github.com/auctors/free-lunch) - Freeware Indexes
 * 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
 * ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_package_managers)**
 * ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Alt Microsoft Store App / Windows
@@ -156,7 +156,7 @@
 * [Software Informer](https://software.informer.com/) - Freeware Directory
 * [PortableApps.com](https://portableapps.com/), [PortableFreeware](https://www.portablefreeware.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
 * [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
-* [Suckless](https://suckless.org/) - Simple Software Archive
+* [Suckless](https://suckless.org/) - Minimalist Software Ecosystem
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [Vintage Software Collection](https://rentry.co/FMHYB64#the-vintage-software-collection) or [SCiZE's Classic Warez](https://scenelist.org/) - Retro Software

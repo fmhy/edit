@@ -371,6 +371,7 @@
 * [CD(R)M-Project](https://cdm-project.com/explore/repos) - DRM Tools / [Discord](https://discord.gg/zvGBza34JP)
 * [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
+* [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠imov.life](https://imov.life/) - Multi-Site / Online
@@ -454,6 +455,7 @@
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
+* [⁠ntsc-rs](https://ntsc.rs/) - TV + VHS Artifact Video Effect Editor / [Web Version](https://web.ntsc.rs/) / [GitHub](https://github.com/ntsc-rs/ntsc-rs)
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
@@ -476,7 +478,6 @@
 * [HunterAE](https://hunterae.com/) - After Effects
 * [AETemp](https://t.me/AETemp) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
-* [AERiver](https://aeriver.com/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects
 
@@ -491,6 +492,7 @@
 * [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
+* [⁠Su3yaki](https://kasuga.itch.io/su3yaki) - Create 3D Turntable Animations
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
