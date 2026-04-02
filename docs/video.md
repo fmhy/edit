@@ -20,6 +20,7 @@
 * ⭐ **[Cinegram](https://cinegram.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[ShuttleTV](https://shuttletv.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
+* ⭐ **[IceFY](https://icefy.top/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cinetaro](https://cinetaro.tv/)** - Movies / TV / Anime / Auto-Next
 * [1Shows](https://www.1shows.nl/), [1Flex](https://www.1flex.nl/) or [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.gg/the-one) / [Auto Next](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rgshows-autoplay.md)
 * [PopcornMovies](https://popcornmovies.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JAxTMkmcpd)
@@ -83,7 +84,6 @@
 * ⭐ **[P-Stream (Fork)](https://pstream.net/)** - Movies / TV / Anime / Auto-Next / **[Add Sources](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**
 * ⭐ **[Poprink](https://www.popr.ink/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.com/invite/Wvxr9YsHHf)
 * ⭐ **[SanuFlix](https://sanuflix-web-v2.pages.dev/)** - Movies / TV / Anime
-* ⭐ **[IceFY](https://icefy.top/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[dulo.tv](https://dulo.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/sXySzk87aA)
 * ⭐ **[NexVid](https://nexvid.online/)**, [2](https://nexvid.pl/) - Movies / TV / Anime / Auto-Next
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
