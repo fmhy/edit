@@ -262,7 +262,7 @@
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * [Forkgram](https://github.com/Forkgram/tdesktop) - Desktop Client
 * [64Gram](https://github.com/TDesktop-x64/tdesktop) - Desktop Client / [Telegram](https://t.me/tg_x64)
-* [VideoGram](https://vidogram.org/) - Desktop Client
+* [VidoGram](https://vidogram.org/) - Desktop Client
 * [VanillaTG](https://t.me/VanillaTG) - Client Themes
 
 ***
