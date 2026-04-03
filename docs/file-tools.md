@@ -405,27 +405,27 @@
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
-* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB / 2 Years / ~$3.33 for 5TB
-* ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 for 20TB / [GitHub](https://github.com/meganz)
-* [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 for 4TB
-* [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 for 10TB / Requires Sign-Up for Sharing
-* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 for 15TB / [Client](https://github.com/SamSchott/maestral)
-* [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 for 1TB
-* [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 for 6TB
-* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 for 10TB
-* [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 for 1TB
+* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB / 2 Years / ~$3.33 for 5TB (Google AI Pro)
+* ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 for 20TB (Pro III) / [GitHub](https://github.com/meganz)
+* [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 for 4TB (Personal)
+* [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 for 10TB (Pro X) / Requires Sign-Up for Sharing
+* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 for 15TB (Advanced) / [Client](https://github.com/SamSchott/maestral)
+* [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 for 1TB (Pro)
+* [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 for 6TB (Pro Max)
+* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 for 10TB (Ultra)
+* [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 for 1TB (Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
-* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 for 3TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 for 3TB (Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
 * [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$3.66 for 3TB
-* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 for 1-100TB
-* [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 for 3TB
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 for 1-100TB (Flexible)
+* [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 for 3TB (Business)
 * [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
 * [CyberFile](https://cyberfile.me/) - 10GB
-* [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 for 1TB
-* [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB
-* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 for 1TB
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15 per 1TB
-* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 per 4TB
+* [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 for 1TB (Premium Plus)
+* [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 for 1TB (B6)
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15 per 1TB (R2)
+* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 per 4TB (Personal Pro)
 * [1Cloud File](https://1cloudfile.com/) - 10GB
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 
