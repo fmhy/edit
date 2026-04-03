@@ -14,7 +14,6 @@
  *  limitations under the License.
  */
 
-import { fetcher } from 'itty-fetcher'
 import {
   FeedbackSchema,
   getFeedbackOption
@@ -59,8 +58,30 @@ export default defineEventHandler(async (event) => {
   //   })
   // }
 
-  await fetcher()
-    .post(env.WEBHOOK_URL, {
+
+  const clientIP =
+    getHeader(event, 'cf-connecting-ip') ||
+    getHeader(event, 'x-forwarded-for') ||
+    event.node.req.socket.remoteAddress ||
+    '127.0.0.1'
+  const key = `feedback:${clientIP}`
+  const cf = event.context.cloudflare
+  if (cf?.env?.RATE_LIMITER) {
+    const { success } = await cf.env.RATE_LIMITER.limit({ key })
+    if (!success) {
+      throw createError({
+        statusCode: 429,
+        statusMessage: 'Too Many Requests'
+      })
+    }
+  }
+
+  const response = await fetch(env.WEBHOOK_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
       username: 'Feedback',
       avatar_url:
         'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
@@ -72,9 +93,14 @@ export default defineEventHandler(async (event) => {
         }
       ]
     })
-    .catch((error) => {
-      throw new Error(error)
+  })
+
+  if (!response.ok) {
+    throw createError({
+      statusCode: response.status,
+      statusMessage: 'Failed to send feedback to Discord'
     })
+  }
 
   return { status: 'ok' }
 })
