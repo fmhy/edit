@@ -23,4 +23,4 @@ namespace_id = "1001"
 # Limit: the number of tokens allowed within a given period in a single
 # Cloudflare location
 # Period: the duration of the period, in seconds. Must be either 10 or 60
-simple = { limit = 100, period = 60 }
+simple = { limit = 5, period = 60 }
