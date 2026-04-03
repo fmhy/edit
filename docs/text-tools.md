@@ -156,7 +156,7 @@
 
 ## ▷ Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [EmojiBatch](https://www.emojibatch.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/), [⁠Emoji Guide](https://emojiguide.org/) or [EmojiBatch](https://www.emojibatch.com/) - Emoji Indexes
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -329,7 +329,7 @@
 
 ## ▷ Text / Code Collaboration
 
-* ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html)
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html) / [Templates](https://gdoc.io/)
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
