@@ -703,6 +703,7 @@
 * ⭐ **[Flash Museum](https://flashmuseum.org/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
+* [Play-Games](https://www.play-games.com) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
