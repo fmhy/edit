@@ -51,11 +51,11 @@ export default defineEventHandler(async (event) => {
   const clientIP =
     getHeader(event, 'cf-connecting-ip') ||
     getHeader(event, 'x-forwarded-for') ||
-    event.node.req.socket.remoteAddress ||
-    '127.0.0.1'
-  const key = `feedback:${clientIP}`
+    event.node.req.socket.remoteAddress
+
   const cf = event.context.cloudflare
-  if (cf?.env?.RATE_LIMITER) {
+  if (clientIP && cf?.env?.RATE_LIMITER) {
+    const key = `feedback:${clientIP}`
     const { success } = await cf.env.RATE_LIMITER.limit({ key })
     if (!success) {
       throw createError({

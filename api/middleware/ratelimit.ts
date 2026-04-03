@@ -19,16 +19,17 @@ export default defineEventHandler(async (event) => {
   const ipAddress =
     getHeader(event, 'cf-connecting-ip') ||
     getHeader(event, 'x-forwarded-for') ||
-    event.node.req.socket.remoteAddress ||
-    '127.0.0.1'
+    event.node.req.socket.remoteAddress
 
-  const { success } = await (cloudflare.env as unknown as Env).RATE_LIMITER.limit(
-    {
+  if (ipAddress && cloudflare?.env?.RATE_LIMITER) {
+    const { success } = await (
+      cloudflare.env as unknown as Env
+    ).RATE_LIMITER.limit({
       key: ipAddress
-    }
-  )
+    })
 
-  if (!success) {
-    throw createError('Failure – global rate limit exceeded')
+    if (!success) {
+      throw createError('Failure – rate limit exceeded')
+    }
   }
 })
