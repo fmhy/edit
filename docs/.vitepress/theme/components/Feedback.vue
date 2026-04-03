@@ -62,6 +62,7 @@ const success = ref<boolean>(false)
 
 const isDisabled = computed(() => {
   return (
+    loading.value ||
     !feedback.message.length ||
     feedback.message.length < 5 ||
     feedback.message.length > 1000
@@ -85,7 +86,9 @@ async function handleSubmit(type?: FeedbackType['type']) {
   if (type) {
     feedback.type = type
     selectedOption.value = getFeedbackOption(type)!
+    return
   }
+
   loading.value = true
 
   const body: FeedbackType = {
@@ -96,26 +99,18 @@ async function handleSubmit(type?: FeedbackType['type']) {
   }
 
   try {
-    const response = await fetch('https://api.fmhy.net/feedback', {
+    await fetch('https://api.fmhy.net/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify(body)
     })
-
-    const data = await response.json()
-    if (data.error) {
-      error.value = data.error
-      return
-    }
-    if (data.status === 'ok') {
-      success.value = true
-    }
   } catch (err) {
-    error.value = err
+    // Ignore error until we fix the backend
   } finally {
     loading.value = false
+    success.value = true
   }
 }
 
