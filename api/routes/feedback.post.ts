@@ -48,17 +48,6 @@ export default defineEventHandler(async (event) => {
     })
   }
 
-  // FIXME: somehow this is not working, but it worked before
-  // const path = 'feedback'
-  //
-  // const { success } = await env.MY_RATE_LIMITER.limit({ key: path })
-  // if (!success) {
-  //   return new Response('429 Failure – global rate limit exceeded', {
-  //     status: 429
-  //   })
-  // }
-
-
   const clientIP =
     getHeader(event, 'cf-connecting-ip') ||
     getHeader(event, 'x-forwarded-for') ||
