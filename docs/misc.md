@@ -322,7 +322,7 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
-* [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster Generators 
+* [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
@@ -473,6 +473,7 @@
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [WiGLE](https://wigle.net/) - Wireless Networks Map
 * [⁠Community Network Map](https://communitynets.org/content/community-network-map) - Municipal Networks Map 
+* [Starlink Coverage](https://starlink.sx/) - Starlink Coverage Map / Tracker
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
 * [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 
@@ -884,7 +885,7 @@
 * [⁠2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - Software Engineering Internship & New Grad Positions
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
-* [⁠Hiresail](https://hiresail.vercel.app/) - Freelance Work / Swipe Style Search / Resume Generator 
+* [⁠Hiresail](https://hire.welhan.dev/calibrate) - Freelance Work / Swipe Style Search / Resume Generator 
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [Dribbble](https://dribbble.com/) - Designer Jobs
 * [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
@@ -1689,6 +1690,7 @@
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
+* [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [rrrather](https://rrrather.com/) - Would You Rather

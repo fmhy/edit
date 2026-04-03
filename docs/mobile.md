@@ -143,7 +143,7 @@
 
 * 🌐 **[Morphe Patch Index](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/)** - Morphe Patch Index
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
-* [⭐ **Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Pre-Built Updatable APKs
+* ⭐ **[Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Pre-Built Updatable APKs
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Config Gen](https://j-hc.github.io/rvmm-config-gen/) / [Telegram](https://t.me/rvc_magisk)

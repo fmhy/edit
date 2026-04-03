@@ -536,6 +536,7 @@
 * ⭐ **[Hyprland](https://hyprland.org/)** - Dynamic Tiling Wayland Compositor / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/)
 * ⭐ **[niri](https://github.com/YaLTeR/niri)** - Scrollable-Tiling Wayland Compositor
 * ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway) or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositors
+* [mangowm](https://mangowm.github.io/) - Dynamic Tiling Wayland Compositor / [Discord](https://discord.gg/CPjbDxesh5) / [GitHub](https://github.com/mangowm/mango)
 * [BSPWM](https://github.com/baskerville/bspwm) - Hybrid Tiling Window Manager
 * [herbstluftwm](https://herbstluftwm.org) - Manual Tiling Window Manager
 * [river](https://github.com/riverwm/river/) - Wayland Compositor
@@ -543,7 +544,6 @@
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositor
 * [picom](https://github.com/yshui/picom) - Compositor for Standalone X11 Window Managers / [Docs](https://picom.app/) / [GitHub](https://github.com/yshui/picom)
 * [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
-
 
 ***
 

@@ -335,6 +335,7 @@
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
+* [FileDitch](https://new.fileditch.com/) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
@@ -365,7 +366,6 @@
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
-* [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
 * [FileGo](https://filego.at/) - 5GB / 90 Days After Last Download
@@ -383,6 +383,7 @@
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [KrakenFiles](https://krakenfiles.com/) - 1GB / 3 Months on Sign-Up
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
+* [⁠Lufi](https://upload.adminforge.de/) - 2GB / 30 Days
 * [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up

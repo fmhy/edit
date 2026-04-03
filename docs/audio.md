@@ -29,7 +29,7 @@
 ## ▷ Streaming Sites
 
 * 🌐 **[HiFi Tidal Instances](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
-* ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
+* ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -114,6 +114,7 @@
 * [TheTradersDen](http://www.thetradersden.org/) - Concert Recordings / Torrents
 * [Lossless Legs](https://www.shnflac.net/) - Concert Recordings / Torrents
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
+* [Bootleg.fm](https://bootleg.fm/) - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
@@ -275,6 +276,7 @@
 * [TheNonStop Radio](https://thenonstopradio.com/) or [TheOneStop Radio](https://theonestopradio.com/) - Radio Directory
 * [Radio Guide](https://www.radioguide.fm/) - Radio Directory
 * [radio-locator](https://radio-locator.com/) - AM / FM Radio Search
+* [Shortwave.Live](https://shortwave.live/) - Shortwave Radio Schedules
 * [Xiph](https://dir.xiph.org/) - Icecast / Ogg Stream Directory
 * [UKRadioLive](https://ukradiolive.com/) or [RadioFeeds](http://www.radiofeeds.co.uk/) - UK Radio Station Directories
 * [ilovemusic](https://ilovemusic.de/) - German Radio Directory

@@ -172,7 +172,7 @@
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
 * [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II PC Ports / [Discord](https://discord.gg/GfX3pmC)
-* [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools ⁠
+* [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 
 ***
 
@@ -329,7 +329,7 @@
 * [Player One](https://player1.eu/) - ROMs
 * [HexRom](https://hexrom.com/) - ROMs / [Telegram](https://t.me/Hexrom_Com)
 * [The Old Computer](https://www.theoldcomputer.com/) - ROMs
-* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs / [Backup Project](https://myrient.org/), [2](https://minerva-archive.org/)
+* [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs
 * [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [ROMsPURE](https://ROMspure.cc/) - ROMs
@@ -529,7 +529,7 @@
 
 * 🌐 **[DLES.gg](https://dles.gg/)** or [DLES](https://dles.aukspot.com/) - Word Game Indexes
 * 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Indexes
-* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
+* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** or [⁠Infinite Wordles](https://infinitewordles.org/) - Original Wordle
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)** / [GitHub](https://github.com/jakearchibald/wordle-analyzer/)
 * ⭐ **[Woogles](https://woogles.io/)**, [MoreWords](https://www.morewords.com/) or [PlayScrabble](https://playscrabble.com/) - Scrabble
 * [TheWordSearch](https://thewordsearch.com/) - Word Search Puzzles
@@ -563,7 +563,7 @@
 
 # ► Tabletop Games
 
-* 🌐 **[BoardGameGeek](https://boardgamegeek.com/)** or **[Kallax](https://kallax.io/)** - Board Game Databases
+* 🌐 **[BoardGameGeek](https://boardgamegeek.com/)**, **[RPGGeek](https://rpggeek.com/)** or **[Kallax](https://kallax.io/)** - Board Game / TTRPG Databases
 * 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
 * 🌐 **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** - Online Board Game Database / Image
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
@@ -793,7 +793,7 @@
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake
-* [agar.io](https://agar.io/) - Become the Biggest Circle
+* [Sigmally](https://one.sigmally.com/) or [agar.io](https://agar.io/) - Become the Biggest Circle
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Golf Party](https://golfparty.io/) - Multiplayer Mini Golf Game

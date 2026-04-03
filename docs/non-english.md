@@ -737,7 +737,6 @@
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 1080p / 720p
 * [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p
-* [1TamilMV](https://www.1tamilmv.ru/) - Movies / TV / 1080p / 720p
 * [Isaimini](https://isaimini.com.co/) - Movies / 4K / 1080p
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p

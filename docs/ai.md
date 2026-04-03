@@ -23,7 +23,7 @@
 * [ChatGPT](https://chatgpt.com/) - GPT-5.3 Instant / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md) 
 * [Claude](https://claude.ai/) - Claude Sonnet 4.6 / Requires Google Login / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE 5.0 Preview 1220 / x1 Demo / [4.5 Demo](https://huggingface.co/spaces/baidu/ernie_4.5_turbo_demo) / [x1 Demo](https://huggingface.co/spaces/baidu/ernie_x1_turbo_demo)
-* [MiniMax AI](https://agent.minimax.io/) - Gemini 3 Pro / MiniMax-M2.7 / [Discord](https://discord.com/invite/hailuoai) / [GitHub](https://github.com/MiniMax-AI/MiniMax-M1)
+* [MiniMax AI](https://agent.minimax.io/) - Gemini 3 Pro / MiniMax-M2.7 / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral (console)](https://console.mistral.ai/home) - Mistral Large 3 / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B (Think) / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
 * [⁠LongCat](https://longcat.chat/) - LongCat Flash Reasoning / Requires Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
@@ -188,10 +188,9 @@
 
 * 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / Leaderboards
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 20+ Per Day / Varies / Nano Banana 2 / Unlimited / Google Login / [Discord](https://discord.com/invite/googlelabs)
-* ⭐ **[Google AI Mode](https://google.com/aimode)** - Nano Banana 2 / 20 Per Day / Google Login / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) or **[Gemini](https://gemini.google.com/)** / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini) - Nano Banana 2 / 20 Per Day / Google Login 
 * ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/imagen)** - Nano Banana Pro / Nano Banana 2 / Grok Imagine / Sign-up / [Discord](https://discord.com/invite/vJnYe86T8F)
 * ⭐ **[Arena](https://arena.ai/?mode=direct&chat-modality=image)**, [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Sign-Up (Direct Mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* ⭐ **[Gemini](https://gemini.google.com/)** - Nano Banana 2 (20 per day) / Google Login / [Remove Watermarks](https://banana.ovo.re/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Bing Create](https://www.bing.com/images/create)** - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
 * ⭐ **[⁠Hunyuan Image Generation](https://hunyuan.tencent.com/visual)** - Generating / Editing / 3D / Sign-Up / Unlimited
 * ⭐ **[Perchance](https://perchance.org/ai-photo-generator)** / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)

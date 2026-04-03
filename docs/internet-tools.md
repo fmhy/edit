@@ -163,7 +163,6 @@
 * [NewsBlur](https://www.newsblur.com/) - RSS Reader / Web-Based / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) - RSS Reader / Web-Based
 * [JungleReader](https://www.zajungle.com/) - RSS Reader / Web-Based
-* [JesterEngine](https://jesterengine.com/) - RSS Reader / Web-Based
 * [⁠Tiny Tiny RSS](https://tt-rss.org/) - Docker Based RSS Reader / [GitHub](https://github.com/tt-rss/tt-rss)
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe), [Miniflux](https://miniflux.app/), [selfoss](https://selfoss.aditu.de/), [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion), [rss](https://codeberg.org/danb/rss) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
 
@@ -189,7 +188,7 @@
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
 * [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
-* [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Sherlock](https://github.com/sherlock-project/sherlock), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
+* [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Sherlock](https://github.com/sherlock-project/sherlock), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Tookie OSINT](https://github.com/Alfredredbird/tookie-osint), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [Soovle](https://www.seo.com/soovle/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
@@ -376,6 +375,7 @@
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [⁠AnonShort](https://anonshort.com/) - `ash.biz.id/JO8Ou`
+* [tny.lv](https://tny.lv/) - `tny.lv/QYg05`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
 * [f1.tf](https://f1.tf/) - `f1.tf/k94R`
 * [⁠h1.nu](https://h1.nu/) - `h1.nu/1isSI`

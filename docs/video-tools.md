@@ -470,7 +470,7 @@
 
 * [FootageCrate](https://footagecrate.com/)
 * [FreeVideoEffect](https://freevideoeffect.com/)
-* [VideoCoPilot](https://www.videocopilot.net/)
+* [VideoCoPilot](https://www.videocopilot.net/products/ae22/)
 * [VFXmed](https://www.vfxmed.com/)
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
@@ -510,6 +510,7 @@
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
 * [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [⁠Wigglypaint](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks

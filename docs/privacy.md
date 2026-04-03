@@ -173,7 +173,9 @@
 * [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
-* [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.me/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
+* [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
+* [EyesOnFlock](https://eyesonflock.com/) - AI Flock Surveillance Database / Tracking
+* [Have I Been Flocked?](https://haveibeenflocked.com/) - Check to See if Your Plate Has Been Tagged by Flock Surveillance 
 * [ALPR Watch](https://alpr.watch/) - Track Local Government Surveillance Tech Meetings
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents

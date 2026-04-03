@@ -475,6 +475,7 @@
 * [Elemental Fracture](https://elefrac.com/) - Spellbreak Community Revival / [Discord](https://dsc.gg/elefrac)
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Toontown Rewritten](https://www.toontownrewritten.com/) or [Corporate Clash](https://corporateclash.net/) - Toontown Multiplayer Revivals
+* [Mega Man 8-Bit Deathmatch](https://mm8bdm.net/) - Fan-Made Multiplayer Mega Man FPS / [Discord](https://mm8bdm.net/discord)
 * [⁠Moshi Monsters Online](https://moshionline.net/) - Moshi Monsters Revival / [Codes](https://moshionline.net/codes/) / [Discord](https://discord.com/invite/5Nwz9Xmjkc)
 * [⁠Echo VR Installer](https://github.com/marshmallow-mia/Echo-VR-Installer) - Echo VR Revival / [Guide](https://quest.echovr.de/) / [GitHub](https://github.com/moshionlineteam)
 
@@ -871,6 +872,7 @@
 * [RPGnet](https://forum.rpg.net/) - RPG Forum
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [⁠Pagat](https://www.pagat.com/) - Card Game Rules Database 
+* [Wahapedia](https://wahapedia.ru/) - Warhammer / Age of Sigmar Rules Database / [Discord](https://discord.com/invite/VAXG2jRjXY)
 * [⁠Untapped.gg](https://untapped.gg/en) - Card Game Decks / Practice / Metas
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans

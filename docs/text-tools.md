@@ -58,7 +58,6 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
-* [⁠Pastezz](https://paste.vidzee.wtf/) - Plain Text
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
@@ -117,7 +116,6 @@
 
 ## ▷ Encode / Decode
 
-* 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [base64.run](https://base64.run/) - Encode / Decode Base64
 * ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
@@ -126,7 +124,7 @@
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
-* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
+* [URLDecode](https://www.urldecode.org/) or [URL-Decode](https://url-decode.com/) - URL Encoding / Decoding
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
@@ -156,7 +154,7 @@
 
 ## ▷ Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/), [⁠Emoji Guide](https://emojiguide.org/) or [EmojiBatch](https://www.emojibatch.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [⁠Emoji Guide](https://emojiguide.org/) - Emoji Indexes
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -477,7 +475,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/)** or [TeXStudio](https://texstudio.org/) - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/)**, [lyx](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
