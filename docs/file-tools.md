@@ -278,7 +278,7 @@
 * [Photon](https://photondev.netlify.app/) - Local / Windows, Mac, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Local / Windows, Mac, Linux, Android, iOS / [Source](https://kdeconnect.kde.org/get-involved.html)
 * [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Local / Linux / Windows, Android (Unofficial)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Local / Linux, Windows, Android (Unofficial)
 * [⁠Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
