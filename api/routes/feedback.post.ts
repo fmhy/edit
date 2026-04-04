@@ -14,7 +14,6 @@
  *  limitations under the License.
  */
 
-import { fetcher } from 'itty-fetcher'
 import {
   FeedbackSchema,
   getFeedbackOption
@@ -49,18 +48,29 @@ export default defineEventHandler(async (event) => {
     })
   }
 
-  // FIXME: somehow this is not working, but it worked before
-  // const path = 'feedback'
-  //
-  // const { success } = await env.MY_RATE_LIMITER.limit({ key: path })
-  // if (!success) {
-  //   return new Response('429 Failure – global rate limit exceeded', {
-  //     status: 429
-  //   })
-  // }
+  const clientIP =
+    getHeader(event, 'cf-connecting-ip') ||
+    getHeader(event, 'x-forwarded-for') ||
+    event.node.req.socket.remoteAddress
 
-  await fetcher()
-    .post(env.WEBHOOK_URL, {
+  const cf = event.context.cloudflare
+  if (clientIP && cf?.env?.RATE_LIMITER) {
+    const key = `feedback:${clientIP}`
+    const { success } = await cf.env.RATE_LIMITER.limit({ key })
+    if (!success) {
+      throw createError({
+        statusCode: 429,
+        statusMessage: 'Too Many Requests'
+      })
+    }
+  }
+
+  const response = await fetch(env.WEBHOOK_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
       username: 'Feedback',
       avatar_url:
         'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
@@ -72,9 +82,14 @@ export default defineEventHandler(async (event) => {
         }
       ]
     })
-    .catch((error) => {
-      throw new Error(error)
+  })
+
+  if (!response.ok) {
+    throw createError({
+      statusCode: response.status,
+      statusMessage: 'Failed to send feedback to Discord'
     })
+  }
 
   return { status: 'ok' }
 })

@@ -91,7 +91,7 @@
 
 # ► Software Sites
 
-* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Sandboxie](https://claraiscute.neocities.org/Guides/sandboxie-guide/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
 
 ***
 

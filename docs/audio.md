@@ -29,7 +29,7 @@
 ## ▷ Streaming Sites
 
 * 🌐 **[HiFi Tidal Instances](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
-* ⭐ **[YouTube Music](https://music.youtube.com/)** or [Zozoki](https://zozoki.com/music/) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
+* ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -114,6 +114,7 @@
 * [TheTradersDen](http://www.thetradersden.org/) - Concert Recordings / Torrents
 * [Lossless Legs](https://www.shnflac.net/) - Concert Recordings / Torrents
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
+* [Bootleg.fm](https://bootleg.fm/) - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
@@ -245,11 +246,12 @@
 * [Zeno.fm](https://zeno.fm/) - User-Stations
 * [Live365](https://live365.com/) - User-Stations
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
+* [⁠WFMU](https://wfmu.org/) - Independent Internet Radio
+* [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Tilderadio](https://tilderadio.org/) - Community Radio
 * [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
-* [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
@@ -274,6 +276,7 @@
 * [TheNonStop Radio](https://thenonstopradio.com/) or [TheOneStop Radio](https://theonestopradio.com/) - Radio Directory
 * [Radio Guide](https://www.radioguide.fm/) - Radio Directory
 * [radio-locator](https://radio-locator.com/) - AM / FM Radio Search
+* [Shortwave.Live](https://shortwave.live/) - Shortwave Radio Schedules
 * [Xiph](https://dir.xiph.org/) - Icecast / Ogg Stream Directory
 * [UKRadioLive](https://ukradiolive.com/) or [RadioFeeds](http://www.radiofeeds.co.uk/) - UK Radio Station Directories
 * [ilovemusic](https://ilovemusic.de/) - German Radio Directory
@@ -479,6 +482,7 @@
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
+* [FreeMP3Cloud](https://freemp3cloud.com/) - MP3
 * [zvu4no](https://zvu4no.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [SongStems](https://songstems.net/) - STEM Files
@@ -692,7 +696,7 @@
 ## ▷ Song / Artist Discovery
 
 * 🌐 **[/music discovery/](https://dan.valeena.dev/guides/music-discovery/), [2](https://rentry.co/musicdiscovery)** - Music Discovery Guide
-* ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://www.furia.com/page.cgi?type=log#id492)
+* ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/) - Album Chart Database 
@@ -786,7 +790,7 @@
 ## ▷ Audio Servers
 
 * ⭐ **[Navidrome](https://navidrome.org)**
-* ⭐ **[Airsonic](https://airsonic.github.io/)** or [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Web UI](https://github.com/tamland/airsonic-refix)
+* ⭐ **[Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced)** / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
@@ -865,7 +869,7 @@
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify Synced Lyrics
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Spotify Synced Lyrics
 * [FB2K-SyncedLyrics](https://rentry.co/FB2K-SyncedLyrics) - Foobar2000 Synced Lyrics
-* [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.boidu.dev/) - Synced Lyrics Editor
+* [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.boidu.dev/) / [GitHub](https://github.com/better-lyrics/composer) - Synced Lyrics Editor
 * [X-Minus](https://x-minus.pro/), [⁠Croonify](https://croonify.com/) or [LRCMaker.com](https://lrcmaker.com/) - Create / Find Karaoke Songs
 * [⁠Kara.moe](https://kara.moe/) - Anime Theme Song Videos / Download / Karaoke
 

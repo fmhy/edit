@@ -61,7 +61,7 @@
 
 ## ▷ File Converters
 
-* ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [GitHub](https://github.com/Tichau/FileConverter)
+* ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/file-converter-note.md) / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / Web / [GitHub](https://github.com/p2r3/convert)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
@@ -125,7 +125,6 @@
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
-* [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 
 ***
 
@@ -336,6 +335,7 @@
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
+* [FileDitch](https://new.fileditch.com/) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
@@ -366,7 +366,6 @@
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
-* [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
 * [FileGo](https://filego.at/) - 5GB / 90 Days After Last Download
@@ -384,6 +383,7 @@
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [KrakenFiles](https://krakenfiles.com/) - 1GB / 3 Months on Sign-Up
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
+* [⁠Lufi](https://upload.adminforge.de/) - 2GB / 30 Days
 * [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
@@ -400,34 +400,34 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Free plan storage / Free plan account inactivity deletion / Avg monthly price per TB (annual plan).
+* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month.
 
 ***
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
-* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years
-* ⭐ **[MEGA](https://mega.io/)** - 20GB Free / 3 Months / ~$10 for 3TB / [GitHub](https://github.com/meganz)
-* [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / ~$2 for 1TB
-* [Filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Requires Sign-Up for Sharing
-* [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
-* [MediaFire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
-* [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
-* [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
-* [FEB](https://www.febbox.com/) - 10GB Free / 1 Month / ~$4 for 2TB
+* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB / 2 Years / ~$3.33 (5TB Google AI Pro)
+* ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 (20TB Pro III) / [GitHub](https://github.com/meganz)
+* [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 (4TB Personal)
+* [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
+* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / [Client](https://github.com/SamSchott/maestral)
+* [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
+* [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)
+* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
+* [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
-* [Proton Drive](https://proton.me/drive) - 5GB Free / 1 Year / ~$10 for 1TB / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
-* [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB Free / 1 Year / ~$14 for 3TB
-* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB Free / 1 Year / ~$13 for 3TB
-* [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
-* [FileLu](https://filelu.com/) - 10GB / Forever / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
-* [CyberFile](https://cyberfile.me/) - 10GB Free
-* [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
-* [Blomp](https://www.blomp.com/) - 40GB Free / 1 Month / ~$3 for 2TB
-* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
-* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$12 per 1TB
-* [1Cloud File](https://1cloudfile.com/) - 10GB Free
+* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
+* [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$3.66 for 3TB
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 (1-100TB Flexible)
+* [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 (3TB Business)
+* [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
+* [CyberFile](https://cyberfile.me/) - 10GB
+* [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
+* [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 (1TB B6)
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15 (1TB R2)
+* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro)
+* [1Cloud File](https://1cloudfile.com/) - 10GB
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 
 ***
