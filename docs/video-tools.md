@@ -198,7 +198,7 @@
 * ⭐ **[MPV Clients](https://mpv.rocks/)**, **[MPC-QT](https://mpc-qt.github.io/)** or [MPV (Official)](https://mpv.io/) - Video Player / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
-* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
+* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
@@ -382,6 +382,7 @@
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
+* [⁠ReelSave](https://reelsave.app/) - Instagram
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 
@@ -469,7 +470,7 @@
 
 * [FootageCrate](https://footagecrate.com/)
 * [FreeVideoEffect](https://freevideoeffect.com/)
-* [VideoCoPilot](https://www.videocopilot.net/)
+* [VideoCoPilot](https://www.videocopilot.net/products/ae22/)
 * [VFXmed](https://www.vfxmed.com/)
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr)
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
@@ -509,6 +510,7 @@
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
 * [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [⁠Wigglypaint](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks

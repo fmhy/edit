@@ -12,6 +12,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
+* [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [eBookBB](https://ebookbb.in/) - Books / Download
@@ -32,7 +33,6 @@
 * [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending 
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
-* [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [The Free Book Library](https://ebooks.i2p/) - Requires I2P
 * [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
@@ -109,7 +109,7 @@
 
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
-* ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
+* ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [Subreddit](https://reddit.com/r/readest) / [Discord](https://discord.gg/gntyVNk3BJ) / [GitHub](https://github.com/readest/readest)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://github.com/koreader/contrib) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
@@ -246,7 +246,7 @@
 * [Scribblehub](https://www.scribblehub.com/) - Web Novels
 * [Novels.pl](https://www.novels.pl/) - Novels / Audio Recordings
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
-* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
+* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
 
@@ -322,7 +322,7 @@
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
-* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
+* ⭐ **[Rave Search](https://ravebooksearch.com/index-audiobooks)** or **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobook.net/)
@@ -508,6 +508,7 @@
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
+* [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22) / [Directory](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlPsb-aWnPaHz42aMO10YRB7Yy6n4uSzJuo7VDl8-ZjAZuuAwuAk3KA8RYO6QYK1CkaktlPHVXuJUj/pubhtml)
 * [Taleem360](https://www.taleem360.com/)
 * [LibreTexts](https://commons.libretexts.org), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
@@ -521,7 +522,6 @@
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
-* [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
 * [Learn Anything / Books](https://github.com/learn-anything/books)
 * [Tradepub](https://knowfree.tradepub.com/)
 * [eBookRoom](https://t.me/eBookRoom)
@@ -815,7 +815,7 @@
 ## ▷ Declassified / Leaked Documents
 
 * 🌐 **[Epstein Research Resources](https://redd.it/1rc3gaz)** - Epstein Research Sites / Tools / Viewer Discretion Advised / Contains Censored NSFW Images
-* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://jmail.world/)** / [2](https://jmailarchive.org/) / [Wiki](https://jmail.world/wiki), [Epstein Secrets](https://epsteinsecrets.com/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/), [⁠Epstein Index](https://officialepsteinfiles.org/) or [Epstein Files Browser](https://epstein-files-browser.vercel.app/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
+* ⭐ **[Epstein Exposed](https://www.epsteinexposed.com/)** / [GitHub](https://github.com/stonesalltheway1/Epstein-Pipeline), **[JMail](https://jmail.world/)** / [2](https://jmailarchive.org/) / [Wiki](https://jmail.world/wiki), [Epstein Secrets](https://epsteinsecrets.com/), [Epstein Library](https://www.justice.gov/epstein), [Epstein Visualizer](https://epsteinvisualizer.com/) or [⁠Epstein Index](https://officialepsteinfiles.org/) - Declassified Epstein Files / Viewer Discretion Advised / Contains Censored NSFW Images
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [The Uncensored Library](https://www.uncensoredlibrary.com/en) - Uncensored / Declassified Documents
 * [FBI Vault](https://vault.fbi.gov/) - Declassified Documents
@@ -872,6 +872,7 @@
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [Quran.com](https://quran.com/) / [Android](https://github.com/quran/quran_android) / [iOS](https://github.com/quran/quran-ios), [Tanzil](https://tanzil.net/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
+* [Sirah](https://www.sirah.gleeze.com/) - AI-Powered Hadith Translation / Collections
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App

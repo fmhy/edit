@@ -58,7 +58,6 @@
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
-* [⁠Pastezz](https://paste.vidzee.wtf/) - Plain Text
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Markdown Pastebin
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
@@ -117,7 +116,6 @@
 
 ## ▷ Encode / Decode
 
-* 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [base64.run](https://base64.run/) - Encode / Decode Base64
 * ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
@@ -126,7 +124,7 @@
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
-* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
+* [URLDecode](https://www.urldecode.org/) or [URL-Decode](https://url-decode.com/) - URL Encoding / Decoding
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
@@ -140,7 +138,7 @@
 
 ***
 
-* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App
+* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) / [Features](https://rentry.co/FMHYB64#quill)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Requires Sign-Up
@@ -156,7 +154,7 @@
 
 ## ▷ Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [EmojiBatch](https://www.emojibatch.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [⁠Emoji Guide](https://emojiguide.org/) - Emoji Indexes
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -274,7 +272,6 @@
 ## ▷ Online Editors
 
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
-* ⭐ **[takenote](https://takenote.dev/)** - Local Saves
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local Saves
@@ -330,7 +327,7 @@
 
 ## ▷ Text / Code Collaboration
 
-* ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html)
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html) / [Templates](https://gdoc.io/)
 * ⭐ **[CryptPad](https://cryptpad.fr/)**
 * [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
@@ -478,7 +475,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/)** or [TeXStudio](https://texstudio.org/) - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
