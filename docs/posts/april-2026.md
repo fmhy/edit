@@ -20,6 +20,7 @@ in seeing all minor changes you can follow our
 
 # Wiki Updates
 
+- Added [AERPOLAR](https://aerpolar.ro) section to WORK.
 - Added a new **[Retro Style](https://fmhy.net/other/backups)** instance to our backups page. Thank you to ROI for making this. [Screenshot](https://i.ibb.co/7JH9tB1B/image.png) / [2](https://i.imgur.com/fpPxo3y.png)
 
 - Added [YouTube Music Tools](https://fmhy.net/audio#youtube-music-tools) section to Audio. Thank you to Samidy for the idea.
