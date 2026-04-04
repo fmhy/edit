@@ -524,7 +524,6 @@
 * [SuperMemory](https://supermemory.ai/) - AI Bookmark App / [GitHub](https://github.com/supermemoryai/supermemory)
 * [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Bookmark Sorting Extension
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Bookmarklets / Guide
-* [Bookmarkify](https://bookmarkify.it/) - Create JS Bookmarklets
 * [Get Bookmarklets](https://getbookmarklets.com/) - Download / Share Bookmarklets
 * [export-edge-collections](https://github.com/KantaHasegawa/export-edge-collections-tool) - Convert MS Edge Collections to Bookmarks
 

@@ -1371,7 +1371,7 @@
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [TinyFox](https://tinyfox.dev/image-list/) - Random Animal Images
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
-* [Cataas](https://cataas.com/cat) or [CatPics](https://catpics.lol/) - Random Cat Images
+* [Cataas](https://cataas.com/cat) - Random Cat Images
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [Magic Sketchpad](https://magic-sketchpad.glitch.me/)

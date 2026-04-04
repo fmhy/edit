@@ -141,13 +141,13 @@
 
 ## ▷ Site Legitimacy Check
 
-* ⭐ **[URL Void](https://www.urlvoid.com/)** - 30+ Blocklist Engines Scan
+* ⭐ **[URL Void](https://www.urlvoid.com/)** - 35 Blocklist Engines Scan
 * ⭐ **[URLScan](https://urlscan.io/)** - Detailed Report / API
 * ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)** - Basic Safety Rating / Content Tags
-* [ScamAdviser](https://www.scamadviser.com/)
-* [IsLegitSite](https://www.islegitsite.com/)
+* [ScamAdviser](https://www.scamadviser.com/) - Trust Score
+* [IsLegitSite](https://www.islegitsite.com/) - 9 Blockist Engine SCan
 * [ZScaler](https://zulu.zscaler.com/)
-* [Talos](https://talosintelligence.com/)
+* [Talos](https://talosintelligence.com/) - Reputation Rating / Content Tags / Blocklist Flag
 
 ***
 
@@ -295,7 +295,7 @@
 
 ## ▷ Encrypted Messengers
 
-* **Note** - Keep in mind that even with e2ee enabled metadata may still be visible to your homeserver and homeservers of those you're chatting with.
+* **Note** - Keep in mind that even with E2EE enabled metadata may still be visible to your homeserver and homeservers of those you're chatting with.
 
 ***
 
@@ -324,6 +324,7 @@
 
 ## ▷ Email Privacy
 
+* 🌐 **[⁠OpenPGP Email Encryption](https://www.openpgp.org/software/)** - Encrypted (OpenPGP) Email Client Index
 * ↪️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - Create Temporary / Throwaway Emails
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - Create Permanent Anonymous Emails
 * ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB Free / Encrypted Email / Deleted After 1 Year Inactive / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/ProtonMail) / [More Storage](https://proton.me/support/more-free-storage-existing-users)
@@ -518,6 +519,7 @@
 * [Delusionz](https://delusionz.xyz/) / [Discord](https://discord.com/invite/Dpj8C8SAmH)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
+* [Startpage](https://www.startpage.com/) - Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-translate-note.md)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
 * [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker

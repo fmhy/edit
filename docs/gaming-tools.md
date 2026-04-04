@@ -182,6 +182,7 @@
 * [bspview](https://sbuggay.github.io/bspview) - Explore Quake & GoldSRC Maps / [GitHub](https://github.com/sbuggay/bspview)
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
+* [RDR2 Map](https://rdr2map.com/) - Interactive Red Dead Redemption Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps / [Discord](https://discord.com/invite/ybGX7sv)
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of the Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
@@ -294,7 +295,7 @@
 # ► Steam / Epic
 
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**, [steam.tools](https://steam.tools/) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
-* ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)**, [ManifestHub](https://github.com/SteamAutoCracks/ManifestHub), [Steam Manifest Downloader](https://manifest.youngzm.com/) or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
+* ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)**, [Steam Manifest Downloader](https://manifest.youngzm.com/) or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
@@ -349,7 +350,7 @@
 
 ## ▷ Store Tools
 
-* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb), [BestOfSteam](https://bestofsteam.com/), [Steam250](https://steam250.com/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insight Tools / Game Charts
+* ⭐ **[SteamDB](https://steamdb.info/)** / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb), [⁠Raijin](https://raijin.gg/), [BestOfSteam](https://bestofsteam.com/), [Steam250](https://steam250.com/) or [Steambase](https://steambase.io/) / [Extension](https://chromewebstore.google.com/detail/better-steam/iobagpbkbdkobggejjcnidehfenchpec) - Steam Insight Tools / Game Charts
 * [⁠EGData](https://egdata.app/) - Epic Games Insight Tools / [GitHub](https://github.com/nachoaldamav/egdata)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
 * [SteamScout](https://www.togeproductions.com/SteamScout/) - Steam Review Analyzer

@@ -1098,6 +1098,7 @@
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 * [The People's Dictionary](https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html) - Swedish Translation Dictionary
 * [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning 
+* [⁠ancientgreek.jean.land](https://ancientgreek.jean.land/) - Ancient Greek Learning Site
 
 ***
 
@@ -1625,7 +1626,7 @@
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
-* [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) / [2](https://ti84-online.com/) / [3](https://ti84calcultor.com/) / [4](https://ti84calculator.io/) / [5](https://ti84procalc.com/) - TI-84 Calculators
+* [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) / [2](https://ti84-online.com/) / [3](https://ti84calcultor.com/) / [4](https://ti84calculator.io/) / [5](https://ti84procalc.com/) / [6](https://tihub.org/) - TI-84 Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators

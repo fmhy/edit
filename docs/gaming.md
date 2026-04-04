@@ -782,6 +782,7 @@
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games
 * ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game / [Discord](https://discord.gg/gartic)
 * ⭐ **[skribbl](https://skribbl.io/)** / [Extra Features](https://typo.rip/) / [GitHub](https://github.com/toobeeh/skribbltypo), [DrawBattle](https://drawbattle.io/) / [Discord](https://discord.gg/D6aHB4hRhK), [Sketchful](https://sketchful.io/) / [Subreddit](https://reddit.com/r/Sketchful) / [Discord](https://discord.gg/MEvtMCv), [⁠DrawWars](https://drawwars.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [Sigmally](https://one.sigmally.com/) / [Discord](https://discord.com/invite/4j4Rc4dQTP) or [agar.io](https://agar.io/) - Become the Biggest Circle
 * [⁠GamingCouch](https://gamingcouch.com/) - Multiplayer Phone Controller / Gamepad Games / [Discord](https://discord.gg/UqSX9ZGz5u)
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
@@ -793,7 +794,6 @@
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
 * [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake
-* [Sigmally](https://one.sigmally.com/) or [agar.io](https://agar.io/) - Become the Biggest Circle
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Golf Party](https://golfparty.io/) - Multiplayer Mini Golf Game

@@ -66,7 +66,7 @@
 ## ▷ Content Removers
 
 * ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
-* ⭐ **[BG Bye](https://bgbye.io/)**, [2](https://fyrean.itch.io/bgbye-background-remover), [3](https://bgbye.fyrean.com/) - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
+* ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Ripolas Background Remover](https://ripolas.org/background-remover/) - Background Remover / Non-AI
 * [Change BG](https://www.change-bg.org/) - Background Remover

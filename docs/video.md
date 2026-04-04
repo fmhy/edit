@@ -85,7 +85,7 @@
 * ⭐ **[Poprink](https://www.popr.ink/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.com/invite/Wvxr9YsHHf)
 * ⭐ **[SanuFlix](https://sanuflix-web-v2.pages.dev/)** - Movies / TV / Anime
 * ⭐ **[dulo.tv](https://dulo.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/sXySzk87aA)
-* ⭐ **[NexVid](https://nexvid.online/)**, [2](https://nexvid.pl/) - Movies / TV / Anime / Auto-Next
+* ⭐ **[NexVid](https://nexvid.online/)**, [2](https://nexvid.pl/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://cloud.umami.is/q/vCu19Bcub)
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 * [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/7MV8Z3Vyfm)
 * [AuroraScreen](https://www.aurorascreen.org/) - Movies / TV / Anime / Auto-Next / Requires Chromium / [Discord](https://discord.com/invite/kPUWwAQCzk)

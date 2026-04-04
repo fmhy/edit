@@ -138,7 +138,7 @@
 
 ***
 
-* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App
+* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) / [Features](https://rentry.co/FMHYB64#quill)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Requires Sign-Up
@@ -475,7 +475,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/)**, [lyx](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide

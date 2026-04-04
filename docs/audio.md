@@ -482,6 +482,7 @@
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
+* [FreeMP3Cloud](https://freemp3cloud.com/) - MP3
 * [zvu4no](https://zvu4no.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [SongStems](https://songstems.net/) - STEM Files
