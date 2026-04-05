@@ -220,6 +220,7 @@
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [SDIO](https://glenn.delahoy.com/snappy-driver-installer-origin), [Drivers Collection](https://driverscollection.com/), [Driverscape](https://www.driverscape.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Update / Install Missing Drivers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/driver-note.md)
 * [VOGONS Drivers](https://vogonsdrivers.com/) - Vintage Computer Hardware Forum / [Forums](https://www.vogons.org/)
+* [⁠PCI Lookup](https://pcilookup.com/) - PCI Vendor ID Lookup
 
 ***
 
@@ -452,6 +453,7 @@
 * 🌐 **[WallSync](https://roigoatzzz.netlify.app/)**, [2](https://wallsync.pages.dev/) - Wallpaper Site Index / [GitHub](https://github.com/leroiduflow/Wallsync)
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / Some NSFW / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
+* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** / [GitHub](https://github.com/not-ayan/wallwidgy), [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * ⭐ **[Rev Wallpaper](https://weris.ordinall.dev/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
@@ -462,7 +464,6 @@
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
-* [⁠WallWidgy](https://www.wallwidgy.app/) / [GitHub](https://github.com/not-ayan/wallwidgy), [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
 * [⁠Kawaii Hoshi](https://kawaiihoshi.com/) - Cute Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers

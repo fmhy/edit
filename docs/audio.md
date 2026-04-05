@@ -331,7 +331,7 @@
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
-* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** / [Telegram](https://t.me/SpotxCommunity) or **[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** / [Discord](https://discord.gg/9tCNMFESuC) - Ad-Free Spotify Patchers
+* ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** - Ad-Free Spotify Patcher / [Telegram](https://t.me/SpotxCommunity)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts
@@ -686,6 +686,7 @@
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Music Recommendation Directory
 * [Shfl](https://theshfl.com/) - Album Recommendations
 * [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
+* [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/3nDqpaiwgo2I4DSzDfahCL?si=twKxh5peQnuaKZCkCU_dfw&pi)
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
@@ -702,7 +703,7 @@
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/) - Album Chart Database 
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [Random Song](https://randomsong.org/), [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
-* [Best Ever Albums](https://www.besteveralbums.com/index.php) - Discover Albums
+* [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
@@ -781,6 +782,7 @@
 * [Nora](https://noramusic.netlify.app/) / [GitHub](https://github.com/Sandakan/Nora)
 * [Dopamine](https://digimezzo.github.io/site/)
 * [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player
+* [Aonsoku](https://github.com/victoralvesf/aonsoku) - Navidrome / Subsonic Player
 * [LedFx](https://www.ledfx.app/) - LED Music Sync
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info

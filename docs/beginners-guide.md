@@ -4,7 +4,7 @@
 
 Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
 
-For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts.
+For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones.
 
 For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/revanced-morphe-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
@@ -148,7 +148,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### iOS Sideloading
 
-* **[⁠PlumeImpactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
+* **[Impactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
 * **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]

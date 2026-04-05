@@ -14,7 +14,7 @@
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
 * [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union File System
-* [File-Examples](https://file-examples.com/) - Dummy File Examples
+* [ExampleFile](https://www.examplefile.com/) or [File-Examples](https://file-examples.com/) - Dummy Example Files
 
 ***
 
@@ -36,7 +36,6 @@
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
 * [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager
-* [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
 
@@ -251,7 +250,7 @@
 * ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows, Mac, Linux / Requires Sign-Up / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 * ⭐ **[PDF24](https://www.pdf24.org/)** / Web-Based / Windows
 * [⁠PDF4QT](https://jakubmelka.github.io/) / Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)
-* [Foxit](https://www.foxit.com/pdf-reader/) / Web-Based / Windows, Linux, Android, iOS / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * [xPDFReader](https://www.xpdfreader.com/) / Windows, Mac, Linux
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger) / Windows, Linux
 
@@ -424,8 +423,8 @@
 * [CyberFile](https://cyberfile.me/) - 10GB
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
 * [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
-* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6 (1TB B6)
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / ~$15 (1TB R2)
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
+* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / Forever / ~$15
 * [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro)
 * [1Cloud File](https://1cloudfile.com/) - 10GB
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB

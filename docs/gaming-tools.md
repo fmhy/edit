@@ -69,6 +69,7 @@
 ## ▷ Optimization Tools
 
 * 🌐 **[Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md)** - Nvidia Overclocking Resources
+* 🌐 **[Creepy's HDR Guides](https://www.hdrmods.com/)** - HDR Gaming Resources / Guides ⁠
 * ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK)
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
@@ -427,6 +428,7 @@
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer / [Discord](https://discord.com/invite/mKVdhmEDrW)
 * [Nitrox](https://nitrox.rux.gg/) - Subnautica Multiplayer Mod / [Subreddit](https://www.reddit.com/r/SubnauticaNitrox/) / [Discord](https://discord.gg/E8B4X9s) / [GitHub](https://github.com/SubnauticaNitrox/Nitrox)
 * [BeamMP](https://github.com/BeamMP/BeamMP) - BeamNG Multiplayer
+* [RavenM](https://discord.gg/63zE4gY) - Ravenfield Multiplayer Mod / Requires Clean Files / [GitHub](https://github.com/RavenfieldCommunity/RavenM)
 * [Fika](https://project-fika.gitbook.io/wiki) - Play Single Player Tarkov Co-Op
 * [OnlineCTR](https://www.online-ctr.com/) - Crash Team Racing Multiplayer
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
@@ -675,7 +677,6 @@
 
 ## ▷ Launchers
 
-* 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
 * ↪️ **[Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_premium_only_launchers)** - Launchers that Require Official Account
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/ElyPrismLauncher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
 * [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) / [Discord](https://discord.gg/yDDkTHp4cJ), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android
@@ -720,6 +721,7 @@
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
 * [⁠MCreator](https://mcreator.net/) - Minecraft Mod Creator / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Reddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator)
 * [Packwiz](https://packwiz.infra.link/) - Modpack CLI Distribution Tool / [GitHub](https://github.com/packwiz/packwiz)
+* [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) - Visualize Modpack Dependencies / Reduce Bloat / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer)
 
 ***
 

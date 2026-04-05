@@ -57,7 +57,7 @@
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
-* [Luluvdoo](https://luluvdoo.com/) - 15GB / 60 Days Since Last Download
+* [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 Days Since Last Download
 * [Streamtape](https://streamtape.com/) - 15GB / Requires Sign-Up / [.to](https://streamtape.to/)
 * [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
@@ -198,7 +198,7 @@
 * ⭐ **[MPV Clients](https://mpv.rocks/)**, **[MPC-QT](https://mpc-qt.github.io/)** or [MPV (Official)](https://mpv.io/) - Video Player / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
-* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
+* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Android](https://github.com/WyvrnRes/FastStream-for-Mobile/) / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
@@ -435,6 +435,7 @@
 * [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
 * [FreeCut](https://www.freecut.net/), [2](https://freecut-sandy.vercel.app/) / [GitHub](https://github.com/walterlow/freecut)
 * [Panzoid](https://panzoid.com/)
+* [⁠Tooscut](https://tooscut.app/) / [GitHub](https://github.com/mohebifar/tooscut)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
 * [Omniclip](https://omniclip.app/) / [Discord](https://discord.com/invite/Nr8t9s5wSM) / [GitHub](https://github.com/omni-media/omniclip)

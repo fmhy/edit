@@ -679,18 +679,18 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://vegamovies.gratis/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.vodka/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
-* ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
-* ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 4K / 1080p
-* ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[HDHub4u](https://hdhub4u.hn/)** - Movies / TV / 1080p
+* ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / 1080p
+* ⭐ **[MoviesMod](https://moviesmod.blue/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
-* [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
+* [Bollyflix](https://bollyflix.frl/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [BollyMod](https://bolly-mod.christmas/) - Movies / TV / Sub / Dub / 1080p
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
@@ -715,6 +715,7 @@
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Music
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Music
+* [Isaimini](https://isaimini.com.co/) - Movies Music
 
 ## ▷ Torrenting
 
@@ -729,7 +730,7 @@
 * ⭐ **[⁠Animelok](https://animelok.xyz/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
-* ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
+* ⭐ **[MultiMovies](https://multimovies.nl)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [saicord](https://saicord.com/hi/) - Movies / TV 
@@ -737,7 +738,6 @@
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 1080p / 720p
 * [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p
-* [Isaimini](https://isaimini.com.co/) - Movies / 4K / 1080p
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
@@ -752,7 +752,6 @@
 * [DistroTV](https://distro.tv/) - Live TV
 * [crickmail](https://crickmail.pages.dev/channel-13) - Live Cricket
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV / Android App
-* [MovieBox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
 * [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
@@ -788,6 +787,7 @@
 * [Doronime](https://doronime.id/) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Music
+
 
 ## ▷ Streaming / Menyiarkan
 

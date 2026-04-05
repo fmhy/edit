@@ -106,7 +106,8 @@
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
 * [PhotoJoiner](https://www.photojoiner.com/) or [⁠Collaigo](https://www.collaigo.com/) / [Discord](https://discord.gg/WbVXpRkWZv) (chrome) - Collage Makers / Editors
-* [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc 
+* [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc
+* [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows

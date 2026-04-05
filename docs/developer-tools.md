@@ -522,7 +522,7 @@
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
-* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3-Coder / Qwen3.5-Plus (Qwen3.5-397B-A17B) / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
+* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3.6-Plus / Qwen3.5-Plus (Qwen3.5-397B-A17B) / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Gemini CLI](https://geminicli.com/), [2](https://google-gemini.github.io/gemini-cli/) - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
@@ -542,7 +542,7 @@
 
 ## ▷ Web / App Builders
 
-* ⭐ **[Arena](https://arena.ai/code)** - AI Website Builder / Multiple Models / Requires Sign-Up (single mode) / Reset Limits w/ Cookie Delete or Temp Mail / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Arena](https://arena.ai/code) - AI Website Builder / Multiple Models / Sign-Up (Direct mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
@@ -766,6 +766,7 @@
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
 * [Can I Email?](https://www.caniemail.com/) - Email Functionality Check
 * [Typebot](https://typebot.io/) - Embedded Chat App
+* [uMap](https://umap-project.org/) - Custom Embeddable Maps for Websites / [GitHub](https://github.com/umap-project/umap/)
 * [Google Map Themes](https://snazzymaps.com/) - Google Map Themes for Web Developers
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
@@ -1069,20 +1070,22 @@
 
 ## ▷ Static Page Hosting
 
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
-* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth 
-* ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - Unlimited Storage / 100GB Bandwidth
-* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
-* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / 200GB Bandwidth / No Custom Domain
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://files.catbox.moe/xf1shh.png)
-* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
-* [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unlimited Bandwidth / Only Open-Source Projects
-* [⁠pages.gay](https://pages.gay/) - Unspecified Storage / Unlimited Bandwidth
-* [⁠AppWrite](https://appwrite.io/) - 2GB Storage / 5GB Bandwidth
-* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
-* [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
-* [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
+* **Note** - The tags for each section are as follows: Storage Limit / Monthly Bandwidth Limit.
+
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
+* ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
+* ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
+* ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB / 10GB
+* ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb-note.md)
+* [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
+* [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
+* [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
+* [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB
+* [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain
+* [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB / 100GB / No Custom Domain
+* [Reocities](https://www.reocities.xyz/) - 1GB / Unlimited / No Custom Domain
 
 ***
 

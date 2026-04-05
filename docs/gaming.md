@@ -17,8 +17,8 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.gg/EjhETthj3V)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Status](https://status.union-crax.xyz/) / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.gg/EjhETthj3V)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
@@ -140,6 +140,7 @@
 * [Win7Games](https://win7games.com/) - Classic Windows Games
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [DOS HAVEN](https://www.doshaven.eu/), [FreeDOSGames](https://www.freedosgames.de/) or [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
+* [⁠Commodore Software](https://commodore.software/search/) - Commodore 64 / Commodore 128 / VIC-20 Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
@@ -661,7 +662,7 @@
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
-* [Fluppy](https://fluppy.pages.dev/), [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader) , [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
+* [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
 * [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
@@ -715,8 +716,10 @@
 * [Snokido](https://www.snokido.com/) - Browser Game Aggregator
 * [FreeGames](https://freegames.org/) - Browser Game Aggregator
 * [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
+* [Web Games](https://webgames.me/) - Browser Game Aggregator
 * [Yandex Games](https://yandex.com/games/) - Browser Game Aggregator
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Game Aggregator
+* [⁠Play Games](https://www.play-games.com/) - Browser Game Aggregator
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
 * [⁠Gameflare](https://www.gameflare.com/) - Browser Game Aggregator
 * [Friv](https://www.friv.com/) - Browser Game Aggregator
@@ -742,6 +745,7 @@
 ## ▷ Indie Browser Games
 
 * 🌐 **[Browser Craft](https://browsercraft.com/)** - Indie Browser Game Index / Tracker
+* 🌐 **[⁠/r/ioGames Index](https://www.reddit.com/r/IoGames/wiki/index/)** - .io Game Index
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Indie Games / Community Developed
 * ⭐ **[Nitrome](https://www.nitrome.com/)** - Indie Games / In-House Dev Team
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Indie Games / Community Developed / [Discord](https://discord.gg/qDaYeXPsRK)
@@ -768,6 +772,7 @@
 * ⭐ **[GN-Math](https://gn-math.dev/)**, [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [VAPOR](https://vapor.onl/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
+* [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [⁠Truffled](https://truffled.lol/g) - Browser Games / Ports
 * [⁠US5](https://us5.thetravelingtourguide.com/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [UBG365](https://ubg365.github.io/) - Browser Games

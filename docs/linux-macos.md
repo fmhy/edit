@@ -188,7 +188,7 @@
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
-* [nosystemd](https://nosystemd.org/) - Alternatives to systemd
+* [nosystemd](https://nosystemd.org/) or [⁠Init Freedom](https://www.devuan.org/os/init-freedom) - Alternatives to systemd
 * [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
 
 ***
@@ -602,7 +602,7 @@
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [CodexBar](https://codexbar.app/) - Menu Bar AI Limit Tracker / [GitHub](https://github.com/steipete/CodexBar)
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
-* [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo)
+* [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/tech/repo), [4](https://yuzono.github.io/)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [⁠NotesPlus](https://www.notesplus.com/), [Kyun](https://github.com/lennart-finke/kyun), [Notenik](https://notenik.app/) or [Voodoopad](https://www.voodoopad.com/) - Text Editors / Notes
 * [Agenda](https://agenda.com/) - Date-Focused Note Organizer / [Forum](https://agenda.community/)

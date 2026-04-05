@@ -351,7 +351,6 @@
 * [BookAudiobook](https://bookaudiobook.net/)
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
-* [NAudios](https://naudios.com/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
@@ -393,10 +392,10 @@
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [GoComics](https://www.gocomics.com/) - Comics Strips / [Site Fix](https://ludditus.com/2025/04/19/bypassing-gocomics-paywall/)
+* [⁠SMBC](https://www.smbc-comics.com/) - Webcomics
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Loading Artist](https://loadingartist.com/) - Webcomics
-* [Collective of Heroes](https://collectiveofheroes.net/) - Superhero Webcomics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Requires Tor
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
@@ -432,7 +431,6 @@
 * [Mangadotnet](https://mangadot.net/) / [Discord](https://discord.com/invite/XCdaT6tyy8)
 * [Mangapill](https://mangapill.com/) or [Otaku Oasis](https://otakuoasis.online/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
-* [⁠WeebDex](https://weebdex.org/search?contentRating=safe) - Manga Site / Some NSFW
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://rivestream.org/manga)
@@ -445,7 +443,6 @@
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [Toonily](https://toonily.com/) - Manhwa / Some NSFW
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
-* [⁠ManhwaZone](https://manhwazone.to/) - Manhwa / [Discord](https://discord.gg/6eHgG35gYY)
 * [⁠AquaReader](https://aquareader.net/) - Manhua
 * [⁠SysManhua](https://sysmanhua.com/) - Manhua
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
@@ -916,6 +913,7 @@
 * [LibraryThing](https://www.talpasearch.com/) - Find Books by Describing Them
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
+* [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
 * [Oku](https://oku.club/) - Book Tracking Platform
