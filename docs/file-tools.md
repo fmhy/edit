@@ -24,21 +24,21 @@
 
 ***
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
-* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
-* [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3)
-* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
-* [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
-* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager
-* [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager
-* [File Centipede](https://filecxx.com/) - Upload / Download Manager
-* [DownThemAll](https://www.downthemall.org/) - Download Management Extension
-* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
+* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
+* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / Windows / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+* [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
+* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / Windows, Mac, Linux / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / Windows, Mac, Linux, Android / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-)
+* [aria2](https://aria2.github.io/) - Terminal Download Manager / Windows, Mac, Android / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / [GitHub](https://github.com/aria2/aria2)
+* [Persepolis](https://persepolisdm.github.io/) - Download Manager / Windows, Mac, Linux / [GitHub](https://github.com/persepolisdm/persepolis)
+* [pyLoad](https://pyload.net/) - Lightweight Download Manager / Windows, Mac, Linux / [GitHub](https://github.com/pyload/pyload)
+* [ArrowDL](https://www.arrow-dl.com/) - Download Manager / Windows, Mac, Linux / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/) / [Chrome](https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio) / [GitHub](https://github.com/setvisible/ArrowDL)
+* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / Windows, Mac, Linux / [Firefox](https://addons.mozilla.org/firefox/addon/varia-integrator/) / [Chrome](https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff)
+* [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager / Windows, Mac, Linux / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/surge/)
+* [DownThemAll](https://www.downthemall.org/) - Download Management Extension / [Firefox](https://addons.mozilla.org/addon/downthemall/) / [Chrome](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) / [GitHub](https://github.com/downthemall/downthemall)
+* [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP / Windows / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/http-downloader/) / [Chrome](https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx) / [GitHub](https://github.com/erickutcher/httpdownloader)
 
 ***
 
