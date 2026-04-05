@@ -7,6 +7,7 @@
 # ► Social Media Tools
 
 * 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)** 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
@@ -39,13 +40,13 @@
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
+* [Discorch](https://discorch.org/) / [GitHub](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
 * [Discord Profile Viewer](https://addynrpfp.vercel.app/) - View / Download Discord User's Avatar or Banner
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Wumpus Central](https://discord.gg/zZ6szdKQu6) - Discord Experimental Server Hub
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption / [Discord](https://discord.gg/rSUyXeCHBE)
 * [Voice Playground](https://discord-voice.xyz/) - Enhance Discord Voice Call Quality / [Discord](https://discord.gg/AEXcgPjqgx) / [Codeberg](https://codeberg.org/UnpackedX/Discord-Experimental-Subsystem)
-* [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
@@ -57,12 +58,12 @@
 * [Discord TTS Bot](https://docs.moonstar-x.dev/discord-tts-bot/) - Text to Speech for Discord
 * [⁠WebP-Conv](https://webp-conv.pages.dev/) - Video To WebP Converter
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
+* [Useful Embed Index](https://gist.github.com/mohsreg/927bf8b2092515ee1a8ee88c3e4d2c14) - Social Media Embed Index
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [InstagramEmbed](https://www.vxinstagram.com/) - Fix Instagram Embeds
 * [⁠fxTikTok](https://github.com/okdargy/fxTikTok) - Fix TikTok Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self-Host for Privacy / [Discord](https://discordpackage.com/discord)
 * [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [⁠DiscTimestamps](https://disctimestamps.com/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/) or [discord-timestamps](https://r.3v.fi/discord-timestamps/) - Discord Timestamp Generators
-* [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
 ***
@@ -89,17 +90,15 @@
 
 * 🌐 **[Client Themes](https://betterdiscord.app/themes)** or [Discord Themes](https://github.com/topics/discord-theme) - Client Theme Index
 * ⭐ **[Discohook](https://discohook.app/)**, [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
-* ⭐ **[CustomRP](https://www.customrp.xyz/)** or [geetRPCS](https://geetrpcs.vercel.app/) / [GitHub](https://github.com/makcrtve/geetRPCS) - Customizable Rich Presence
+* ⭐ **[CustomRP](https://www.customrp.xyz/)** / [GitHub](https://github.com/maximmax42/Discord-CustomRP) or [geetRPCS](https://geetrpcs.vercel.app/) / [GitHub](https://github.com/makcrtve/geetRPCS) - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
 * [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/overlayeddev/overlayed)
-* [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Custom CSS Support
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
 * [Auto Creavite](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Discord Avatar Creator
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [USRBG](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds / [Discord](https://discord.gg/r59DjpaDHD)
-* [mgcounts](https://tags.mgcounts.com/) or [Discord.band](https://discord.band/tags) - Discord Server Tag Lists
 * [Emoji List](https://discords.com/emoji-list), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
@@ -172,7 +171,6 @@
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [⁠SubHarbor](https://subharbor.com/) - Subreddit Backup Pages
-* [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
 * [⁠Reddit Migrate](https://github.com/nileshnk/reddit-migrate) - Reddit Account Migrator 
@@ -193,8 +191,8 @@
 
 ***
 
+* [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
-* [saveddit](https://github.com/p-ranav/saveddit) - Reddit Bulk Media Downloaders
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
 ***
@@ -230,10 +228,10 @@
 
 * 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
-* ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/), [subreddit_map](https://www.jacobsilterra.com/subreddit_map/network/index.html) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
+* ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
 * [FindAReddit](https://www.findareddit.com/) - Get Subreddit Suggestions / [Subreddit](https://www.reddit.com/r/findareddit/)
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
-* [Map of Reddit](https://anvaka.github.io/map-of-reddit) or [Reddit Map](https://redditmap.social/) - Subreddit Maps
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit) - Subreddit Map
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
 * [r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
 * [Subreddit Stats](https://subredditstats.com/) or [SubRanking](https://subranking.com/) - Subreddits Stats / Ranking
@@ -526,9 +524,9 @@
 
 ## ▷ Twitch Adblockers
 
-* 🌐 **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads / Archived
+* 🌐 **[TwitchAdSolutions](https://github.com/ryanbr/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads / Archived
 * ⭐ **[AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra)** - Twitch Adblocker / Userscript Works Best
-* ⭐ **[VAFT UBO Script](https://github.com/pixeltris/TwitchAdSolutions?tab=readme-ov-file#applying-a-script-ublock-origin)** - Twitch Adblocker
+* ⭐ **[VAFT UBO Script](https://github.com/ryanbr/TwitchAdSolutions?tab=readme-ov-file#applying-a-script-ublock-origin)** - Twitch Adblocker
 * [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [PurpleAdblock](https://github.com/arthurbolsoni/Purple-adblock) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker

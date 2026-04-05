@@ -169,6 +169,7 @@
 
 ## Geometry Dash Demon Lists
 
+* 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List
 * [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
@@ -306,6 +307,7 @@
 
 ***
 
+* 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
 * [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [ATLauncher](https://atlauncher.com/) - Modpack Launcher / [Discord](https://discord.com/invite/B7TrrzH)
 * [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / [Discord](https://discord.com/invite/technic)

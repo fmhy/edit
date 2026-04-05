@@ -66,7 +66,7 @@
 * [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
+* [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [r/FREE](https://reddit.com/r/FREE/)
 * [⁠r/freebies](https://www.reddit.com/r/freebies/)
@@ -258,7 +258,8 @@
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
-* [LubeLogger](https://lubelogger.com/) - Self-Hosted Maintenance + Fuel Mileage Tracker / [GitHub](https://github.com/hargata/lubelog) 
+* [LubeLogger](https://lubelogger.com/) - Self-Hosted Maintenance + Fuel Mileage Tracker / [GitHub](https://github.com/hargata/lubelog)
+* [Headunit Revived](https://github.com/andreknieriem/headunit-revived) - Turns Android into an Android Auto Head Unit / Display / [Wireless Helper](https://github.com/andreknieriem/wireless-helper)
 * [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
 * [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
 
@@ -288,7 +289,7 @@
 
 ***
 
-* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/), [Air Loom](https://objectiveunclear.com/airloom.html) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
+* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/) / [Mobile](https://github.com/d4rken-org/airplanes-live-app), [Radarbox](https://www.airnavradar.com/), [Air Loom](https://objectiveunclear.com/airloom.html) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
 * [seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)
@@ -308,6 +309,7 @@
 * ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
 * [World Monitor](https://worldmonitor.app/) - Real-Time News Map / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor)
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
+* [Terraink](https://terraink.app/) / [GitHub](https://github.com/yousifamanuel/terraink), [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [TextToMap](https://www.textomap.com/) - Text-Based Map Search
@@ -322,7 +324,6 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
-* [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
@@ -467,6 +468,8 @@
 ## ▷ Infrastructure Maps
 
 * [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map / [GitHub](https://github.com/openinframap/openinframap/)
+* [⁠Open Grid Work](https://opengridworks.com/) - Global Electricity Infrastructure Map
+* [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 * [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
 * [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
 * [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps
@@ -475,7 +478,6 @@
 * [⁠Community Network Map](https://communitynets.org/content/community-network-map) - Municipal Networks Map 
 * [Starlink Coverage](https://starlink.sx/) - Starlink Coverage Map / Tracker
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
-* [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 
 ***
 
@@ -598,7 +600,7 @@
 
 ## ▷ Science News
 
-* ⭐ **[phys](https://phys.org/)** - Physics News / Articles
+* ⭐ **[Phys](https://phys.org/)** - Physics News / Articles
 * [SciURLs](https://sciurls.com/)
 * [NewScientist](https://www.newscientist.com/)
 * [PopSci](https://www.popsci.com/)
@@ -616,6 +618,7 @@
 
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
+* ⭐ **[Medito](https://github.com/meditohq/medito-app)** or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [/mental health/](https://dan.valeena.dev/guides/mental-health/), [2](https://rentry.co/mentalhealthy) - Mental Help Tips
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
@@ -624,7 +627,6 @@
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
@@ -668,7 +670,7 @@
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) or [⁠Muscle & Strength](https://www.muscleandstrength.com/exercises) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
-* [Workout.lol](https://workout.cool/), [2](https://workout.lol/) - Custom Workout Plans
+* [Workout.cool](https://workout.cool/) or [Workout.lol](https://workout.lol/) - Custom Workout Plans
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
@@ -1021,7 +1023,7 @@
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
 * [⁠BuyItForLife](https://buyitforlife.com/) - Durable Product Shopping Guide / [Subreddit](https://www.reddit.com/r/BuyItForLife/)
-* [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
+* [⁠NoBids](https://nobids.net/), [⁠BuyMap](https://buymap.app/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
 * [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets

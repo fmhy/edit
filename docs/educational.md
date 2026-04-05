@@ -565,6 +565,7 @@
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum
+* [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
@@ -711,7 +712,7 @@
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
-* [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/), [Antique Pattern Library](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns 
+* [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/), [Antique Pattern Library](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
@@ -721,6 +722,8 @@
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
 * [LibraryOfJuggling](https://libraryofjuggling.com/) - Juggling Technique Database
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [⁠Online Coin Club](https://onlinecoin.club/) - Coin Collectors Database / Info
+* [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database 
 * [ActivistHandbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
@@ -1534,7 +1537,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
-* [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
+* [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
 * [Tasks for Canvas](https://github.com/jtcheng26/canvas-task-extension) - Improved Canvas To-Do List
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
@@ -1564,10 +1567,11 @@
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** or [Wolfram Mobile](https://rentry.co/FMHYB64#wolfram-mobile) - Searchable Knowledge Base
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
-* ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://studocu.aiodownloader.online/) / [2](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
+* ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
+* [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
 * [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers

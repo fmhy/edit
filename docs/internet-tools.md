@@ -56,7 +56,7 @@
 
 ## ▷ Paywall Bypass
 
-* ⭐ **[Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
+* ⭐ **[Bypass Paywall Clean](https://gitflic.ru/project/magnolia1234/bpc_uploads)** - Browser Extensions / [X](https://x.com/Magnolia1234B)
 * ⭐ **[⁠PressReleased](https://pressreleased.alwaysdata.net/)** - Paywall Bypass Tool / [Discord](https://discord.gg/fn33a5mq8w)
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Instances](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem#list-of-public-instances-open-for-registration) / [Resources](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
