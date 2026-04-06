@@ -1070,7 +1070,7 @@
 
 ## ▷ Static Page Hosting
 
-* **Note** - The tags for each section are as follows: Storage Limit / Monthly Bandwidth Limit.
+* **Note** - The tags for this section are as follows: Storage Limit / Monthly Bandwidth Limit.
 
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
@@ -1078,7 +1078,7 @@
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB / 10GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb-note.md)
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
 * [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
