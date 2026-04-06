@@ -761,7 +761,7 @@
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics) / [Wiki](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000)
 * ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / Windows / [Forum](https://getwacup.com/community/) / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / Windows, Linux, Android / [Addons](https://aimp.ru/?do=catalog)
-* ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / Windows / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons)
+* ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons) / Windows
 * [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, Mac, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
 * [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, Mac, Linux, Android / [Plugins](https://www.audionplayer.com/plugins)  / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
