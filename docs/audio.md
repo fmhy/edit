@@ -792,20 +792,20 @@
 
 ## ▷ Audio Servers
 
-* ⭐ **[Navidrome](https://navidrome.org)**
+* ⭐ **[Navidrome](https://navidrome.org)** / [GitHub](https://github.com/navidrome/navidrome)
 * ⭐ **[Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced)** / [Web UI](https://github.com/tamland/airsonic-refix)
-* ⭐ **[koel](https://koel.dev/)**
+* ⭐ **[koel](https://koel.dev/)** / [GitHub](https://github.com/koel/koel)
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
-* [Lyrion](https://lyrion.org/) / [Extensions](https://lyrion.org/extensions/applications/)
-* [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
-* [mStream](https://mstream.io/)
-* [Mopidy](https://mopidy.com/)
+* [Lyrion](https://lyrion.org/) / [GitHub](https://github.com/lms-community/slimserver) / [Extensions](https://lyrion.org/extensions/applications/)
+* [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) / [GitHub](https://github.com/sonosaurus/sonobus) - Sound System Sync
+* [mStream](https://mstream.io/) / [GitHub](https://github.com/IrosTheBeggar/mStream)
+* [Mopidy](https://mopidy.com/) / [GitHub](https://github.com/mopidy/mopidy)
 * [Black Candy](https://github.com/blackcandy-org/blackcandy)
-* [RMPC](https://rmpc.mierak.dev/) / [GitHub](https://github.com/mierak/rmpc) or [Music Player Daemon](https://www.musicpd.org/)
+* [RMPC](https://rmpc.mierak.dev/) / [GitHub](https://github.com/mierak/rmpc) or [Music Player Daemon](https://www.musicpd.org/) / [GitHub](https://github.com/MusicPlayerDaemon/MPD)
 * [Polaris](https://github.com/agersant/polaris)
 * [Gonic](https://github.com/sentriz/gonic)
-* [Ampache](https://ampache.org/)
+* [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache)
 
 ***
 
