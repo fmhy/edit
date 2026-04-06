@@ -231,7 +231,7 @@
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android 
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, Mac, Linux
 * [Task Manager DeLuxe](https://www.mitec.cz/tmx.html) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
