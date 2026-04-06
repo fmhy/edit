@@ -12,6 +12,7 @@
 * [Namechk](https://namechk.com/), [User Scanner](https://github.com/kaifcodec/user-scanner/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Errors
+* [Username Generator](https://360username.com/) - Instantly generate 30+ AI-based usernames or domain names and check their availability in real time.
 
 ***
 
