@@ -514,6 +514,7 @@
 * [33mail](https://33mail.com/) - No Shared / 10MB Monthly Bandwidth / Catch-All
 * [Aionda Mail](https://mail.aionda.com/) - 25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Catch-All
 * [Mailgw](https://mailgw.com/) - No Shared / No Catch-All
+* [anon.li Alias](https://anon.li/alias) - 10 Random + 1 Custom / No Catch-All / Free PGP & Reply / Custom Domain on Paid Plans
 
 ***
 
