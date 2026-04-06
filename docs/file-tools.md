@@ -273,11 +273,11 @@
 # ► File Transfer
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Local / Windows, Mac, Linux, Android, iOS, Web / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
-* ⭐ **[Blip](https://blip.net/)** - Hybrid / Windows, Mac, Android, iOS / Turn "Searchable by Name" Off in Settings
+* ⭐ **[Blip](https://blip.net/)** - Hybrid / Turn "Searchable by Name" Off in Settings / Windows, Mac, Android, iOS
 * [Photon](https://photondev.netlify.app/) - Local / Windows, Mac, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Local / Windows, Mac, Linux, Android, iOS / [Source](https://kdeconnect.kde.org/get-involved.html)
 * [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
-* [Warpinator](https://github.com/linuxmint/warpinator) - Local / Linux, Windows, Android (Unofficial)
+* [Warpinator](https://github.com/linuxmint/warpinator) - Local / Windows, Linux, Android
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
@@ -287,7 +287,7 @@
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
-* [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Windows, Mac, Linux / [GitHub](https://github.com/claudiodangelis/qrcp) - Share Files Using QR Codes
+* [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, Mac, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/onionshare/onionshare)
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client / Windows
