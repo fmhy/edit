@@ -16,7 +16,7 @@
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Pinless](https://pinterest.bunk.im/), [2](https://pinterest.fsky.io/) / [Instances](https://instances.bunk.im/) / [.onion](http://pinvnrvjzyxdglrfcf75bhqyftmr3c4gvt6lwhe6khwv2zy2yo4htlqd.onion/) / [GitHub](https://github.com/bunk-im/pinless), [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends / Viewers
 * [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
-* [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends / Viewers
+* [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
@@ -46,7 +46,7 @@
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy) or [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker) - Archive / Export Discord Chats
 * [Wumpus Central](https://discord.gg/zZ6szdKQu6) - Discord Experimental Server Hub
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption / [Discord](https://discord.gg/rSUyXeCHBE)
-* [Voice Playground](https://discord-voice.xyz/) - Enhance Discord Voice Call Quality / [Discord](https://discord.gg/AEXcgPjqgx) / [Codeberg](https://codeberg.org/UnpackedX/Discord-Experimental-Subsystem)
+* [Voice Playground](https://discord-voice.xyz/) - Enhance Discord Voice Call Quality / [Discord](https://discord.gg/AEXcgPjqgx) / [Source Code](https://codeberg.org/UnpackedX/Discord-Experimental-Subsystem)
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
@@ -517,7 +517,7 @@
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
-* Alternate Player for Twitch.tv - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/) / [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf) - Alternative Twitch Player
+* Alternate Player for Twitch.tv - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/) / [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
 * [Twitch Replay](https://www.twitch-replay.com/) - Twitch Video Player
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 
@@ -621,7 +621,7 @@
 
 # ► Instagram Tools
 
-* [KittyGram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Codeberg](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends
+* [KittyGram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [⁠ReelSave](https://reelsave.app/) - Instagram Video / Audio Downloader 
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
@@ -634,7 +634,7 @@
 
 ## ▷ Viewers / Downloaders
 
-* ⭐ **[Instaloader](https://instaloader.github.io/) / [GitHub](https://github.com/instaloader/instaloader)** - CLI Downloader
+* ⭐ **[Instaloader](https://instaloader.github.io/)** - CLI Downloader / [GitHub](https://github.com/instaloader/instaloader)
 * [FastDL](https://fastdl.app/en2), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
 * [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/), [anonyig](https://anonyig.com/) or [mollygram](https://mollygram.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts

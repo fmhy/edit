@@ -75,6 +75,7 @@
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 * [Almaany](https://www.almaany.com/) - Multilingual Dictionary
+* [⁠Archive Alsharekh](https://archive.alsharekh.org/) - Journals / Magazines 
 * [dohadictionary](https://www.dohadictionary.org/) - Historical Dictionary
 * [Mo3jam](https://ar.mo3jam.com) - Colloquial / Slang Dictionary
 
@@ -1261,45 +1262,24 @@
 
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [subtitry](https://subtitry.ru/) or [DXP](https://dxp.ru/) - Subtitles
-* [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
-* [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [TGStat](https://tgstat.ru/) - Telegram Channel Stats
-* [EDA](https://eda.ru/) - Recipes
-* [Songs Pro](https://songspro.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
-* [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
-* [GitFlic](https://gitflic.ru/) - GitHub Alternative
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
-* [RG.RU](https://rg.ru/) - News / [Telegram](https://t.me/rgrunews)
-* [Kremlin News](https://t.me/news_kremlin) - Government News
-* [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
-* [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
-* [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
 ## ▷ Russian Anti-Censorship
 
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot), [ru_tech_talk](https://t.me/ru_tech_talk) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
-* [RKN Dump Check](https://t.me/u2ckbot) - Censorship Check
-* [Russia Mobile Whitelist](https://github.com/hxehex/russia-mobile-internet-whitelist), [⁠EtoNeYa](https://tseya.a9fm.site/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
-* [VK Turn Proxy](https://github.com/cacggghp/vk-turn-proxy) - Russian Proxy
+* [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
+* [⁠EtoNeYa](https://tseya.a9fm.site/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
 
 ## ▷ Downloading / Скачивание
 
 * ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) / Android
-* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
-* [2BakSa](http://2baksa.ws/) - Video / Audio / Books
-* [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
-* [z3.fm](https://z3.fm/) - Music / MP3
 * [tancpol](https://tancpol.net/) - Music / MP3
-* [MDCORE](https://vk.com/mdcore) - Metal / MP3
-* [MDROCK](https://vk.com/mdrock) - Rock / MP3
-* [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
 
 ## ▷ Torrenting / Торрентинг
@@ -1361,6 +1341,7 @@
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [liveam](http://liveam.tv/) - TV
 * [mult-fan](https://mult-fan.tv/) - Cartoons
+* [Ok.ru](https://ok.ru/), [VK](https://vk.com/) - Russian Video Sharing Sites
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.tv/) - Turkish TV w/ Russian Subs
 * [TVRF](https://tvrf.online/) - Live TV
@@ -1376,10 +1357,8 @@
 * [DomaTV](http://live.domatv.net/) - Live TV
 * [finttv](https://finttv.in/) - Live Sports
 * [Anixart](https://anixart-app.com/) - Anime / Android App
-* [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:\\music\\](https://vk.com/e_music) - Music
-* [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
 * [recradio](https://t.me/recradio) - Radio

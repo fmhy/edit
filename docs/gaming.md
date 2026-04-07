@@ -95,7 +95,7 @@
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro Mobile Games / [Discord](https://discord.gg/8TgbHAG)
-* [Planet Casio](https://www.planet-casio.com/Fr/programmes/jeux-casio.php) or [Cemetech](https://cemetech.net/) - Calculator Games
+* [Cemetech](https://cemetech.net/) - Calculator Games
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
 * [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
 * [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF) - PDF Games
@@ -181,7 +181,7 @@
 
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * ⭐ **[Clone Hero](https://clonehero.net/)** - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
-* ⭐ **[OpenMW](https://openmw.org/)** - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
+* ⭐ **[OpenMW](https://openmw.org/)** - Morrowind Remake / [Multiplayer](https://github.com/TES3MP/TES3MP) / [GitHub](https://github.com/OpenMW/openmw)
 * ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2 / [Plugins](https://openrct2plugins.org/) / [Subreddit](https://www.reddit.com/r/openrct2/) / [Discord](https://discord.gg/ZXZd8D8) / [GitHub](https://github.com/OpenRCT2/OpenRCT2)
 * ⭐ **[OpenBOR](https://github.com/DCurrent/openbor)** - 2D Side Scrolling / Beat 'Em Up Engine / [Wiki / Forum](https://www.chronocrash.com/) / [Resources](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
@@ -348,7 +348,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
-* [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
+* [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
@@ -545,7 +545,7 @@
 * [Squaredle](https://squaredle.app/) - Daily Word Puzzle
 * [⁠Glyph](https://glyph.today/) - Daily Word Puzzle
 * [⁠OneLook Games](https://onelook.com/games) - Word Games
-* [Linxicon](https://linxicon.com/) or [word.golf](https://www.word.golf/) - Word Connection Games
+* [Linxicon](https://linxicon.com/) - Word Connection Games
 * [WordHub](https://wordhub.com/) - Text Twist Game
 * [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
 * [⁠Infinite Wordle](https://gregcameron.com/infinite-wordle/) or [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limits
@@ -707,7 +707,6 @@
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
-* [Nexiloop Games](https://nexiloop.games/) - Browser Game Aggregator / [Discord](https://discord.gg/Wvxr9YsHHf)
 * [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 * [⁠Gamesfrog](https://gamesfrog.com/) - Browser Game Aggregator
@@ -851,7 +850,6 @@
 * [⁠Voxiom](https://voxiom.io/) - Minecraft Inspired PVP FPS / [Discord](https://discord.gg/GBFtRcY)
 * [Debug Survivor](https://debug-survivor.leek.io/) - Dev Themed Roguelike Shooter
 * [Venge](https://venge.io/) - PvP FPS
-* [kour.io](https://kour.io/), [2](https://kourio.online/) - PvP FPS
 * [ev.io](https://ev.io/) - PvP FPS
 * [Deadshot](https://deadshot.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
