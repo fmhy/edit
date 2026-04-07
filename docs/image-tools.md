@@ -688,7 +688,6 @@
 ## ▷ Image Converters
 
 * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
-* ⭐ **[minipic](https://minipic.app/)**
 * [RedKetchup](https://redketchup.io/)
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)

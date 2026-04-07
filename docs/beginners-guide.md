@@ -158,7 +158,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### Important Links
 
-* **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)
+* **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding

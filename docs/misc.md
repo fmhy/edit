@@ -101,7 +101,6 @@
 * [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) or [QuestStoreDB](https://queststoredb.com/free_apps/) - VR Games
 * [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
 * [MiniReview](https://minireview.io/browse?sort=last-added-reviews&monetization=free&monetization-android=free&monetization-ios=free) - Mobile Game Recommendations / [Discord](https://discord.gg/TJq6EXfm7f)
-* [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Games / Android App
 * [r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
 * [r/Freegamestuff](https://reddit.com/r/Freegamestuff)
