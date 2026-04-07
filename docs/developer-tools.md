@@ -291,6 +291,7 @@
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
+* [PostPeer](https://www.postpeer.dev/) - Social media posting API for cross-platform posting and scheduling
 
 ***
 
