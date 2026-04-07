@@ -89,8 +89,8 @@
 
 ## ▷ Processing / Encoding
 
-* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
-* ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
+* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [Codec Wiki](https://wiki.x266.mov/) / [Discord](https://discord.gg/bbQD5MjDr3) / [GitHub](https://github.com/av1-community-contributors/codec-wiki), [⁠Video Noob Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/), [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
@@ -173,7 +173,7 @@
 * [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [VRoid](https://vroid.com/en/studio) - VTuber Character Creators / Tracking
 * [VSeeFace](https://www.vseeface.icu/), [Kalidoface 3D](https://3d.kalidoface.com/) or [Animaze](https://www.animaze.us/) - 3D Tracking & Puppeteering (VRM)
 * [Vtube Studio](https://denchisoft.com/) or [Inochi2D](https://inochi2d.com/) / [Discord](https://discord.com/invite/abnxwN6r9v) - 2D / Live2D Tracking
-* [veadotube](https://olmewe.itch.io/veadotube-mini) or [TransTube](https://girkovarpa.itch.io/transtube) - PNGTuber & Reactive Software
+* [veadotube](https://olmewe.itch.io/veadotube-mini) - PNGTuber & Reactive Software
 * [avatarify-python](https://github.com/alievk/avatarify-python) - Real-Time Photo / Video Avatars
 * [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
 
@@ -238,7 +238,7 @@
 * [VideoTogether](https://2gether.video/en-us/) - App
 * [baked.live](https://baked.live/) - Online Player
 * [Rave.io](https://rave.io/) - Online Extension
-* [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
+* [MovieNight](https://github.com/zorchenhimer/MovieNight) - Docker / [Discord](https://discord.gg/F2VSgjJ)
 
 ***
 

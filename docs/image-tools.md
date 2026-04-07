@@ -573,6 +573,7 @@
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
+* [⁠BumpMesh](https://bumpmesh.com/) - 3D Model Texture Editor 
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
@@ -687,7 +688,6 @@
 ## ▷ Image Converters
 
 * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
-* ⭐ **[minipic](https://minipic.app/)**
 * [RedKetchup](https://redketchup.io/)
 * [Knvrt](https://www.knvrt.one/)
 * [Convertmyimage](https://convert-my-image.com/)
@@ -789,7 +789,6 @@
 * [Memories](https://memories.gallery/)
 * [Piwigo](https://piwigo.org/)
 * [PiGallery 2](https://bpatrik.github.io/pigallery2/)
-* [PicoShare](https://github.com/mtlynch/picoshare)
 * [Up1](https://github.com/Upload/Up1)
 * [Chevereto](https://chevereto.com/)
 * [Photofield](https://github.com/SmilyOrg/photofield)
@@ -836,6 +835,7 @@
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
 * [FastPic](https://fastpic.org/) - 25MB / Forever
+* [PicoShare](https://github.com/mtlynch/picoshare) - Self-Hosted
 
 ***
 
