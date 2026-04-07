@@ -166,7 +166,7 @@
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
 * [GitKraken](https://www.gitkraken.com/) or [Graphite](https://graphite.com/), [Ungit](https://github.com/FredrikNoren/ungit) or [RelaGit](https://rela.dev/) - Git GUIs
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git TUIs
-* [Gut](https://gut-cli.dev/), [GitHub Cli](https://cli.github.com/) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
+* [Gut](https://gut-cli.dev/), [GitHub Cli](https://cli.github.com/), [gitty](https://github.com/Omibranch/gitty) or [gitu](https://github.com/altsem/gitu) - Git CLI / TUI
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [⁠Difftastic](https://difftastic.wilfred.me.uk/) / [GitHub](https://github.com/Wilfred/difftastic) or [Delta](https://github.com/dandavison/delta) - Syntax Highlighting / Diff Tools
 * [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
