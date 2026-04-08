@@ -448,6 +448,7 @@
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - Commodore / C64 Browser Emulators
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum Browser Emulator
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
+* [Dinosaur Game](https://dinosaurgame.online/) - Play Free Dinosaur Game Online - Dino Game & T-Rex Runner
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) / [GitHub](https://github.com/BdR76/lcdgame.js) - Retro LCD Game Emulators
 * [DosGames](https://dosgames.com/), [DOSZone](https://dos.zone/) / [Discord](https://discord.com/invite/hMVYEbG), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
@@ -559,6 +560,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+
 
 ***
 
