@@ -971,7 +971,6 @@
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
-* [All Manga](https://allmanga.to/) - Manga / [Discord](
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 
 ***
