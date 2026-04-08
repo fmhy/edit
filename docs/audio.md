@@ -76,7 +76,7 @@
 
 ## ▷ YouTube Music Tools
 
-* [Themesong](https://themesong.app) / [GitHub](https://github.com/KristofferTroncoso/ThemeSong) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
+* [Themesong](https://themesong.app/) / [GitHub](https://github.com/KristofferTroncoso/ThemeSong) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
 * [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter / Windows, Mac, Linux
 * [YouLy+](https://github.com/ibratabian17/YouLyPlus) or [Better Lyrics](https://better-lyrics.boidu.dev) / [Uploader](https://darkforcefreefire.github.io/unison-web) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) - Improved Lyrics Browser Extensions
 * [Spot Transfer](https://spot-transfer.vercel.app) / [GitHub](https://github.com/Pushan2005/SpotTransfer), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) or [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
@@ -142,25 +142,25 @@
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 * ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
-* [⁠PodcastToMP3](https://podcasttomp3.com) / [GitHub](https://github.com/utlandingur/podcast-downloader) - Podcast Downloads / Search 
+* [⁠PodcastToMP3](https://podcasttomp3.com/) / [GitHub](https://github.com/utlandingur/podcast-downloader) - Podcast Downloads / Search 
 * [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com) / [GitHub](https://github.com/listennotes) - Podcast Search Engine
 * [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
 * [Apple Podcasts](https://podcasts.apple.com/us/home)
-* [PodParadise](https://www.podparadise.com)
-* [Podbean](https://www.podbean.com)
-* [Podbay](https://podbay.fm)
+* [PodParadise](https://www.podparadise.com/)
+* [Podbean](https://www.podbean.com/)
+* [Podbay](https://podbay.fm/)
 * [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [Podcast Index](https://podcastindex.org)
-* [Player FM](https://player.fm)
-* [Podcast Republic](https://www.podcastrepublic.net)
-* [Relay.fm](https://www.relay.fm)
+* [Podcast Index](https://podcastindex.org/)
+* [Player FM](https://player.fm/)
+* [Podcast Republic](https://www.podcastrepublic.net/)
+* [Relay.fm](https://www.relay.fm/)
 * [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
-* [PodScripts](https://podscripts.co) - Podcast Transcript Search
+* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
 * [OpenPodcast](https://openpodcast.dev) / [GitHub](https://github.com/openpodcast) - Podcast Analytics
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
-* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io) / [GitHub](https://github.com/gpodder/gpodder) - Podcast Client
-* [EchoWalk](https://www.echowalk.com) - Turn Articles / Webpages into Podcasts
+* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) / [GitHub](https://github.com/gpodder/gpodder) - Podcast Client
+* [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
 * [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
 
 ***
