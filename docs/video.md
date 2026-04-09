@@ -116,7 +116,7 @@
 * ⭐ **[VoidFlix](https://flixzy.pages.dev/)** or [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/GDfP8S243T)
 * ⭐ **[Anixtv](https://anixtv.us.cc/)**, [2](https://anixtv.in/) - Movies / TV / Anime / Auto-Next / [Status](https://anixtv.pro/) / [Discord](https://discord.com/invite/AGsGU5KUYy)
 * [Redflix](https://redflix.co/), [2](https://redflix.club/) or [CineHub](https://cinehub.one/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
-* MovieBite](https://moviebite.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/ygexZUCXVa)
+* [MovieBite](https://moviebite.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/ygexZUCXVa)
 * [Flixvo](https://flixvo.live/), [2](https://flixvo.fun/) - Movies / TV / Anime
 * [KrakenFlix](https://krakenflix.cx/) - Movies / TV / Anime
 * [BoredFlix](https://www.boredflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/VHDedCcbGY)

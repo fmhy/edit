@@ -1689,7 +1689,6 @@
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
 * [AnimeciX](https://anm.cx/) - Anime
-* [SeiCode](https://seicode.net/) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
 * [belgeselx](https://belgeselx.com/) - Documentaries

@@ -1191,17 +1191,17 @@
 
 ## ▷ iOS Sideloading
 
-* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / No-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
-* ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
-* ⭐ **[Impactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
+* ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
+* ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
+* ⭐ **[Impactor](https://github.com/khcrysalis/Impactor)** - WiFi Sideloading (Weekly Refresh)
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)** - DNS Sideloading Guide
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
-* [AltStore Classic](https://altstore.io/) - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
-* [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
-* [⁠iloader](https://iloader.app/) - Non-Jailbreak Sideloading / [GitHub](https://github.com/nab138/iloader/)
+* [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing / Bypass Sidestore limits
+* [⁠iloader](https://iloader.app/) - WiFi Sideloading (Weekly Refresh) / [GitHub](https://github.com/nab138/iloader/)
 * [⁠BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) - Lift Revoked Certificate Blacklist / iOS 16.0 -> iOS 18.0.1
+* [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
 * [Feather](https://github.com/khcrysalis/Feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - App Signer / Fork of Feather
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
