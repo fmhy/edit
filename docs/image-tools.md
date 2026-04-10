@@ -232,7 +232,6 @@
 * ⭐ **[Know Your Meme](https://knowyourmeme.com/)** or [FindThatMeme](https://findthatmeme.com/) - Meme Databases
 * [ImgFlip](https://imgflip.com/memegenerator), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [Memegine](https://memegine.com/) - Meme Search Engine
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
@@ -337,7 +336,6 @@
 ## ▷ Free Assets
 
 * [Gumroad](https://gumroad.com/) (Enter $0)
-* [psdkeys](https://psdkeys.com/)
 * [Freeject](https://www.freeject.net/)
 * [⁠Salvaged](https://salvaged.nu/)
 * [AvaxGFX](https://avxgfx.com/)
@@ -347,7 +345,6 @@
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [PSDLY](https://www.psdly.to/)
 * [Unblast](https://unblast.com/)
-* [CGArchives](https://cgarchives.com/)
 * [CGPerec](https://t.me/cgperec)
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
@@ -414,7 +411,7 @@
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
-* [Image_Max_URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Browser Userscript
+* [Pose Search](https://x6ud.github.io/pose-search/) - Pose Reference Image Search / [GitHub](https://github.com/x6ud/pose-search)
 
 ***
 
@@ -479,7 +476,7 @@
 * [Cara](https://cara.app/) - User-Made Art / Fanart
 * [DeviantArt](https://www.deviantart.com/) - User-Made Art / Fanart
 * [InkBlot](https://inkblot.art/) - User-Made Art / Fanart / Requires Sign-Up
-* [⁠Zerochan](https://www.zerochan.net/) - Japanese Fanart / [Discord](https://discord.gg/HkGgX6Qs3N)
+* [⁠Zerochan](https://www.zerochan.net/?p=1) - Japanese Fanart / Some NSFW / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
 * [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
 * [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations
@@ -527,7 +524,7 @@
 
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
-* [Clara.io](https://clara.io/library), [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
+* [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
 * [Sketchfab](https://sketchfab.com/) / [Ripper](https://github.com/gamedev44/Fabulous-Ripper), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
 * [STLFinder](https://www.stlfinder.com/) - Multi-Site Search
@@ -536,7 +533,6 @@
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Handz](https://www.handz.design/) - 3D Hand Models
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
-* [ripper.store](https://forum.ripper.store/) - 3D Avatar Assets
 * [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
 * [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
 * [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
@@ -715,7 +711,7 @@
 
 ## ▷ Image to Text / OCR
 
-* **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools.
+* **Note** - Keep in mind most [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
 
 ***
 
@@ -890,7 +886,6 @@
 * [Adobe Color](https://color.adobe.com/) - Find Color Palettes with Color Wheel
 * [Color Lisa](https://colorlisa.com/) - Find Art-Based Color Palettes
 * [Color Leap](https://colorleap.app/) - Find Historical Color Palettes
-* [COLORWISE](https://colorwise.io/) - Find Color Palettes from Product Hunt Products
 
 ***
 

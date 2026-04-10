@@ -79,7 +79,7 @@
 ## ▷ Free Games
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discord.com/invite/C3K4bBh)
-* [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+* [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -127,7 +127,7 @@
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
-* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) or [KitchenOwl](https://kitchenowl.org/) / [GitHub](https://github.com/TomBursch/kitchenowl) - Grocery / Pantry Managers
+* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) or [KitchenOwl](https://github.com/TomBursch/kitchenowl) - Grocery / Pantry Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -273,7 +273,6 @@
 * [⁠IMAX Guide](https://143190.xyz/) - Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)
 * [FindFright](https://frightfind.com/) - Spooky Attractions / Walkthroughs
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
-* [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [⁠Trustroots](https://www.trustroots.org/) - Traveler Hospitality Community
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
@@ -506,7 +505,6 @@
 * [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
 * [News as Facts](https://newsasfacts.com/) - Wiki-Based News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
-* [Top Stories](https://murmel.social/top) - Top Fediverse News
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
@@ -527,7 +525,6 @@
 * [FlightSaftey](https://asn.flightsafety.org/), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
 * [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
-* [PressMob](https://pressmob.ai/) - Journalist Search
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
 
 ***
@@ -589,7 +586,7 @@
 * [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
-* [HNRankings](https://hnrankings.info/) or [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
+* [HNRankings](https://hnrankings.info/) - Best of / Top Posts Aggregator
 * [⁠Hacker Smacker](https://hackersmacker.org/) - Filter / Mark HackerNews Posters
 * [⁠Hacker Book](https://hackerbook.dosaygo.com/) - Hacker News Posts + Comment Archive
 * [Hacker News RSS](https://hnrss.github.io/) - HN RSS Feeds
@@ -1282,6 +1279,7 @@
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
+* [⁠zcal](https://zcal.co/) - Scheduling / Meeting Tool
 * [Proton Calendar](https://proton.me/calendar) - Calendar / [Discord](https://discord.com/invite/proton)
 * [Tuta Calendar](https://tuta.com/calendar) - Calendar
 * [Tweek](https://tweek.so/) - Calendar
@@ -1482,7 +1480,6 @@
 * [Checkbox Life](https://huth.me/checkbox-life/) or [Checkbox Olympics](https://checkbox.toys/) - Checkbox Games
 * [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner
 * [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull
-* [Wanda Whirl](https://wandawhirl.com/) - Play w/ Colorful Streamers
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
@@ -1672,9 +1669,7 @@
 * [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
-* [LinkRoll](https://satyrs.eu/linkroll) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
-* [Sharkle!](https://sharkle.com/) - Find Random Sites
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites
@@ -1720,7 +1715,7 @@
 * [Text to LinkedIn Translator](https://translate.kagi.com/?from=auto&to=linkedin) - Turn Text to LinkedIn Speech
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
-* [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
+* [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites
 * [PrankHotline](https://prankhotline.com/) - Phone Pranks

@@ -42,7 +42,7 @@
 * [SteamGG](https://steamgg.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-* [FreeToGame](https://www.freetogame.com/games), [⁠TendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+* [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
 
 ***
@@ -94,7 +94,7 @@
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
-* [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro Mobile Games / [Discord](https://discord.gg/8TgbHAG)
+* [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro (J2ME) Games / [Discord](https://discord.gg/8TgbHAG)
 * [Cemetech](https://cemetech.net/) - Calculator Games
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
 * [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
@@ -131,6 +131,7 @@
 * ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** / [Discord](https://discord.com/invite/zdoom-edge-raze-official-268086704961748992) or [BuildGDX](https://m210.duke4.net/) / [Discord](https://discord.gg/zZw2eq3n7G) - Oldschool Shooter Engines
 * [C.A.G.E](https://discord.gg/cage) - Abandonware / Requires Discord
+* [Rohan Kar](https://rentry.co/FMHYB64#rohan-kar) - Abandonware / Applies Mods + Fixes
 * [File Hunter](https://www.file-hunter.com/) - MSX Games
 * [Old-Games](https://www.old-games.ru/) - Abandonware
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
@@ -287,7 +288,6 @@
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
 * [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
-* [⁠Romifleur](https://github.com/4Sitam4/Romifleur/) - ROM Downloader / Manager
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
 * [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
 * [Hash Tool](https://www.romhacking.net/hash/) - ROM Patch Compatibility Checker
@@ -317,8 +317,8 @@
 * [Zophar's Domain](https://www.zophar.net/) - ROM Mods
 * [⁠roms.by](https://www.roms.by/) - ROMs / Requires Sign-Up
 * [TheRomDepot](https://theromdepot.com/) - ROMs / Requires Sign-Up
-* [ROMsFun](https://romsfun.com/) - ROMs
 * [BlueRoms](https://www.blueroms.ws/) - ROMs / Torrents
+* [ROMsFun](https://romsfun.com/) or [ROMsPURE](https://ROMspure.cc/) - ROMs
 * [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Arquivista ROMs](https://rentry.co/FMHYB64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYB64#finalburn-neo) - ROMs / Zip
@@ -334,7 +334,6 @@
 * [Myrient Archive](https://rentry.co/FMHYB64#myrient-backup) - ROMs
 * [Emuparadise](https://www.emuparadise.me/) - ROMs / [Forum](https://www.epforums.org/) / [Fix Downloads](https://gist.github.com/infval/c69b479ff0bd590f2dd7e1975fe2fcad/raw/8be1b17f03837939c8baab3b2247eb60a22fa89a/emuparadise.download.user.js)
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
-* [ROMsPURE](https://ROMspure.cc/) - ROMs
 * [Romspedia](https://www.romspedia.com/) - ROMs
 * [TechToROMs](https://techtoroms.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
@@ -987,6 +986,7 @@
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
+* [⁠Musicle](https://musicle.fun/) - Daily Music Connections Game
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
 * [Graphs](https://www.graphs.world/) - Graph Guessing Game

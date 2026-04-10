@@ -40,7 +40,7 @@
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
-* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME ResourcesTranslators
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources / Translators
 * [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
