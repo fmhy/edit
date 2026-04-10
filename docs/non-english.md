@@ -1538,7 +1538,7 @@
 * [la14hd](https://la14hd.com/) - Live Sports
 * [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
 * [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
-* [librefutboltv](https://librefutboltv.su/) - Live Football
+* [librefutboltv](https:futbollibre.gg/) - Live Football
 * [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
