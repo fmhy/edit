@@ -309,7 +309,7 @@
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games
-* [Steam API Check Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) - Steam API Check Bypass
+* [Steam API Check Bypass](https://gitlab.com/steamautocracks/Steam-API-Check-Bypass) - Steam API Check Bypass
 
 ***
 
@@ -372,7 +372,7 @@
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
-* [Wallpaper EngineWorkshop Downloader](https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader)
+* [Wallpaper EngineWorkshop Downloader](https://gitlab.com/steamautocracks/wallpaperengineworkshopdownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
