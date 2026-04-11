@@ -370,7 +370,7 @@
 * 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
-* ⭐ **[JetBrains](https://jetbrains.com/)**
+* ⭐ **[JetBrains](https://jetbrains.com/)** / [Features](https://rentry.co/FMHYB64#jbrains)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
@@ -548,9 +548,9 @@
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5.1 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-397B-A17B / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
-* [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-397B-A17B / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 
@@ -1204,6 +1204,7 @@
 * ⭐ **[GHIDRA](https://github.com/NationalSecurityAgency/ghidra)** - Reverse Engineering Framework / [Plugins](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
 * ⭐ **[Frida](https://frida.re/)** - Dynamic Instrumentation Toolkit / [GitHub](https://github.com/frida/frida)
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering / [Plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins)
+* [⁠Reverse Engineering](https://discord.gg/reverse-engineering-391398885819547652) (discord) - Reverse Engineering Community
 * [⁠LemmeDebug](https://greasyfork.org/en/scripts/537775) - Disable Anti-Devtools for Reverse Engineering / Debugging
 * [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [Discord](https://discord.gg/YBey7CR9jf) / [GitHub](https://github.com/radareorg/radare2)
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework

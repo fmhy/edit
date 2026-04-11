@@ -637,7 +637,7 @@
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers / [Homebrew GUI](https://corkmac.app/)
-* [AppsTorrent](https://appstorrent.ru/)
+* [AppsTorrent](https://appstorrent.ru/) - Downloads (not torrents)
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
@@ -701,7 +701,7 @@
 ## ▷ Mac Gaming
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
-* ⭐ **[AppsTorrent](https://appstorrent.ru/games/)** - Mac Games
+* ⭐ **[AppsTorrent](https://appstorrent.ru/games/)** - Mac Games / Downloads (not torrents)
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
@@ -792,6 +792,7 @@
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
+* [⁠Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting Tool 
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)

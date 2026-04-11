@@ -241,6 +241,7 @@
 * ⭐ **[Real-Debrid](https://real-debrid.com/)** - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [⁠Cocoleech](https://cocoleech.com/premium-link-generator), [⁠Downloader Zone](https://debrid.downloader.zone/) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
 * [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.org/) - Bypass PixelDrain Link Speed Limits
+* [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers
 

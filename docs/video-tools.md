@@ -333,7 +333,7 @@
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
 * ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Mac, Linux, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
-* [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
+* [jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Desktop Client
 * [Findroid](https://github.com/jarnedemeulemeester/findroid) or [Streamyfin](https://github.com/streamyfin/streamyfin) - JellyFin Android Clients
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
@@ -384,6 +384,7 @@
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
 * [⁠ReelSave](https://reelsave.app/) - Instagram
+* [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 

@@ -704,7 +704,7 @@
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
-* [OlaMovies](https://n1.olamovies.info/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.app/)
+* [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.app/)
 * [Fojik](https://fojik.site/) - Movies
 * [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -730,7 +730,7 @@
 * ⭐ **[⁠Animelok](https://animelok.xyz/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
-* ⭐ **[MultiMovies](https://multimovies.nl)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
+* ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [saicord](https://saicord.com/hi/) - Movies / TV 
@@ -1098,7 +1098,7 @@
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
-* [Docer PL](https://docer.pl/) - Books
+* [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader)
 
 ***
 
@@ -1538,7 +1538,7 @@
 * [la14hd](https://la14hd.com/) - Live Sports
 * [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
 * [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
-* [librefutboltv](https://librefutboltv.su/) - Live Football
+* [librefutboltv](https:futbollibre.gg/) - Live Football
 * [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV

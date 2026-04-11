@@ -616,6 +616,7 @@
 * ⭐ **[Medito](https://github.com/meditohq/medito-app)** or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [/mental health/](https://dan.valeena.dev/guides/mental-health/), [2](https://rentry.co/mentalhealthy) - Mental Help Tips
+* [Insomnia Guide](https://rentry.co/insomnia-guide) - Insomnia Guide / Tips
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
@@ -1540,6 +1541,7 @@
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
 * [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
+* [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
 * [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
 * [spurious correlations](https://tylervigen.com/spurious-correlations) - Random Correlations
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research

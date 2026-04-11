@@ -610,6 +610,7 @@
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music
 * [AMV](https://www.animemusicvideos.org/) - Anime Music Videos
 * [Doujin Cafe (Discord)](https://discord.com/invite/doujincafe) or [DoujinStyle](https://doujinstyle.com/) / [Discord](https://discord.com/invite/z2QDFdA) - Doujin Music
+* [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
 
 ***
 
