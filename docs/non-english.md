@@ -1098,7 +1098,7 @@
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
-* [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader)
+* [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader) / [Firefox Extension](https://addons.mozilla.org/firefox/addon/docer-downloader/)
 
 ***
 
@@ -1138,11 +1138,11 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, [Curso em Vídeo](https://www.cursoemvideo.com), [iEstudar Cursos](https://iestudar.com) or [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
+* [Cineby](https://www.cineby.sc/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [goyabu](https://goyabu.to/) - Anime / Sub
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login

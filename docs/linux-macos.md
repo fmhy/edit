@@ -525,6 +525,7 @@
 ## ▷ Window Managers
 
 * 🌐 **[⁠Awesome Wayland](https://github.com/rcalixte/awesome-wayland)** - Wayland Resources
+* 🌐 **[⁠Wayland.fyi](https://wayland.fyi/)** - Lightweight Wayland Resources
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
 * 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
