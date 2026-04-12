@@ -81,7 +81,7 @@
 
 ## ▷ PDF Search
 
-* [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
+* ⭐ **[Ocean of PDF](https://oceanofpdf.com/)** - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
