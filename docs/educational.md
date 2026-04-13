@@ -284,8 +284,8 @@
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
 * [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCoker)
-* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Guide / Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
-* [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - Liquid Rocket Info / Resources
+* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Guide / Info / Resources / Documentation / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
+* [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - LOX/Kerosene Liquid Rocket Info / Resources / Documentation
 * [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
 * [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
@@ -303,7 +303,7 @@
 * [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
 * [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
 * [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
-* [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [YouTube](https://www.youtube.com/@ChrisBrady737)
+* [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [X](https://x.com/B737Tech) / [YouTube](https://www.youtube.com/@ChrisBrady737)
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
 * [UIUC Applied Aerodynamics Group](https://m-selig.ae.illinois.edu/ads.html) - Airfoil Coordinates / Aerodynamic Research
@@ -312,7 +312,7 @@
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
-* [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
+* [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -401,7 +401,6 @@
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.visualcinnamon.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
-* [DinosaurPictures](https://dinosaurpictures.org/) - Dinosaur Info / Images
 * [Pteros](https://www.pteros.com/) - Pterosaur Database
 * [WFO](https://www.worldfloraonline.org/) - Plant Database
 * [The Ferns](https://tropical.theferns.info/) - Tropical Plant Database
