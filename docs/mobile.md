@@ -339,10 +339,10 @@
 
 * ⭐ **[KernelSU](https://kernelsu.org/)**
 * ⭐ **Magisk Tools** - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
-* [APatch](https://github.com/bmax121/APatch)
-* [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-* [Magisk](https://github.com/topjohnwu/Magisk)
 * [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+* [Magisk](https://github.com/topjohnwu/Magisk)
+* [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+* [APatch](https://github.com/bmax121/APatch)
 * [⁠Magisk Alpha](https://t.me/magiskalpha)
 * [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
 * [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
@@ -563,11 +563,10 @@
 * ↪️ **[Mobile / Desktop Transfer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25BA_file_transfer)**
 * ⭐ **[1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Go Speed](https://gopeed.com/) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed), [AB Download Manager](https://abdownloadmanager.com/) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager), [ADM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) - Download Managers
 * ⭐ **[MiXplorer](https://mixplorer.com/beta/)**, [2](https://mixplorer.com/), [3](https://xdaforums.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [MT Manager](https://mt2.cn/) - Advanced Root File Explorer / Manager / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
-* ⭐ **[SD Maid SE](https://github.com/d4rken-org/sdmaid-se)** - File Manager / Cleaner / [Discord](https://discord.com/invite/8Fjy6PTfXu) / [Unlock Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sd-maid.md)
 * ⭐ **[Material Files](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
 * ⭐ **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)** - File Manager / Archiver
-* ⭐ **[Pairdrop](https://pairdrop.net/)** - File Sharing / [GitHub](https://github.com/fm-sys/snapdrop-android) - File Archiver
+* ⭐ **[Pairdrop](https://pairdrop.net/)** / [GitHub](https://github.com/fm-sys/snapdrop-android) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - File Sharing 
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [File Navigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator) or [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Managers / Explorers
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
@@ -1384,7 +1383,7 @@
 
 ## ▷ iOS YouTube Apps
 
-* ⭐ **[YouTube Plus](https://github.com/dayanch96/YTLite)** - Modded YouTube iPA / Closed-Source
+* ⭐ **[YouTube Plus](https://github.com/dayanch96/YTLite)** - Modded YouTube iPA
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Telegram](https://t.me/dvntms) / [Discord](https://discord.gg/VN9ZSeMhEW)
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA

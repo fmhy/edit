@@ -17,7 +17,7 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Discord](https://discord.gg/38bRNmKB4v)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Discord](https://discord.gg/EjhETthj3V)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Launcher](https://union-crax.xyz/direct)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
@@ -94,7 +94,7 @@
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
-* [Kahvibreak](https://bluemaxima.org/kahvibreak/) - Java 2 Micro (J2ME) Games / [Discord](https://discord.gg/8TgbHAG)
+* [Kahvibreak](https://bluemaxima.org/kahvibreak/) / [Discord](https://discord.gg/8TgbHAG) or [J2ME Fans](https://discord.gg/DNPXUjbtx) (discord) - Java 2 Micro (J2ME) Games 
 * [Cemetech](https://cemetech.net/) - Calculator Games
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
 * [⁠Fangame Archive](https://archive.dappermink.me/) / [Discord](https://discord.com/invite/HSeycPx) or [Delicious Fruit](https://delicious-fruit.com/) - I Wanna Be the Guy Fan Game Archives
@@ -307,7 +307,7 @@
 * 🌐 **[r/ROMs Mega](https://r-roms.github.io/)** - ROMs
 * ⭐ **[Axekin](https://www.axekin.com/)** - ROMs / [Discord](https://discord.gg/CUpf57y5Vg)
 * ⭐ **[Vimm's Lair](https://vimm.net/)** - ROMs / [Discord](https://discord.com/invite/XReX2ZGNcV)
-* ⭐ **[No-Intro Archive](https://rentry.co/FMHYB64#no-intro)** - ROMs / Unoffcial
+* ⭐ **[No-Intro Archive](https://rentry.co/FMHYB64#no-intro)** - ROMs / Unofficial
 * ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)

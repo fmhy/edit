@@ -309,7 +309,7 @@
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games
-* [Steam API Check Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) - Steam API Check Bypass
+* [Steam API Check Bypass](https://gitlab.com/steamautocracks/Steam-API-Check-Bypass) - Steam API Check Bypass
 
 ***
 
@@ -372,7 +372,7 @@
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
-* [Wallpaper EngineWorkshop Downloader](https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader)
+* [Wallpaper EngineWorkshop Downloader](https://gitlab.com/steamautocracks/wallpaperengineworkshopdownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
@@ -680,8 +680,8 @@
 
 * ↪️ **[Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_premium_only_launchers)** - Launchers that Require Official Account
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/ElyPrismLauncher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-dl)
-* [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) / [Discord](https://discord.gg/yDDkTHp4cJ), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / [Ad Bypass](https://greasyfork.org/en/scripts/563188)
+* [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) / [Discord](https://discord.gg/yDDkTHp4cJ), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android
 * [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
