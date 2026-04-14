@@ -336,7 +336,7 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://osmand.net/) or [Mapy](https://mapy.com) - Online / Offline Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [FacilMap](https://facilmap.org/), [OsmAPP](https://osmapp.org/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
 * ⭐ **[StreetComplete](https://streetcomplete.app/)** - OpenStreetMap Surveyor App / Quests / [GitHub](https://github.com/streetcomplete/streetcomplete)
@@ -358,7 +358,7 @@
 
 ## ▷ Railway Maps
 
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
+* [OpenRailwayMap](https://openrailwaymap.app/), [2](https://www.openrailwaymap.org/) - World's Railway Infrastructure
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
 * [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
@@ -482,7 +482,6 @@
 
 * ⭐ **[Google Earth](https://www.google.com/earth/about/versions/)** - Earth Viewer
 * [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
-* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [glifwc](https://maps.glifwc.org/) - Map with Data
@@ -490,7 +489,6 @@
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
-* [GeoHack](https://geohack.toolforge.org/) - Uncensored Google Satellite View
 
 ***
 
@@ -616,7 +614,6 @@
 * ⭐ **[Medito](https://github.com/meditohq/medito-app)** or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [/mental health/](https://dan.valeena.dev/guides/mental-health/), [2](https://rentry.co/mentalhealthy) - Mental Help Tips
-* [Insomnia Guide](https://rentry.co/insomnia-guide) - Insomnia Guide / Tips
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
@@ -634,11 +631,12 @@
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
-* ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** - Sleep Hygiene / Science Guide
+* ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://claraiscute.neocities.org/Guides/insomnia-guide/)** / [2](https://claraiscute.pages.dev/Guides/insomnia-guide/) - Sleep Hygiene Guides / Tips
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
+* [Arete Codex](https://aretecodex.pages.dev/) - Physical Health / Bodybuilding Guide
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
-* [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App 
+* [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
 * [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
@@ -1023,6 +1021,8 @@
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
 * [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
+* [⁠Suppose](https://www.suppose.tv/) - Compare TV Providers (US Only)
+* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
 * [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
@@ -1040,7 +1040,6 @@
 * [⁠Knockology](https://forum.knockology.com/) or [r/mechanicalpencils](https://www.reddit.com/r/mechanicalpencils/) / [Wiki](https://www.reddit.com/r/mechanicalpencils/wiki/index/) / [Discord](https://discord.com/invite/2zZfsax) - Mechanical Pencil Communities
 * [⁠Pen Addict](https://www.penaddict.com/) - Mechanical Pencil and Stationary Reviews
 * [⁠UK Fountain Pens](https://ukfountainpens.com/) - Fountain Pen Reviews
-* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
@@ -1291,7 +1290,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [Table Plan](https://table-plan.com/) - Seating Chart Maker ⁠
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculator
+* [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/)- Group Expense Splitting Calculator
 
 ***
 
@@ -1372,6 +1371,7 @@
 * [Cataas](https://cataas.com/cat) - Random Cat Images
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
+* [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
 * [Magic Sketchpad](https://magic-sketchpad.glitch.me/)
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
