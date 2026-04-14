@@ -255,7 +255,7 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
+* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / Portable / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Materialgram](https://kukuruzka165.github.io/materialgram/)** - Desktop Client / Portable / [GitHub](https://github.com/kukuruzka165/materialgram)
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * [Forkgram](https://github.com/Forkgram/tdesktop) - Desktop Client
