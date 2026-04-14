@@ -16,8 +16,8 @@
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
 * ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
+* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
-* [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
@@ -230,6 +230,7 @@
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring / Windows
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version / Windows
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
+* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows

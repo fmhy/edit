@@ -539,6 +539,7 @@
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
+* [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
 ***
 

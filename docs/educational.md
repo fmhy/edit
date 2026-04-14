@@ -149,6 +149,7 @@
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [LabXchange](https://www.labxchange.org/), [JavaLab](https://javalab.org/en/) or [EduMedia](https://www.edumedia.com/) - Interactive Science Simulations
+* [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
 
 ***
 
@@ -1430,7 +1431,7 @@
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
-* [CrackMyApp](https://crackmy.app/) or [crackmes](https://crackmes.one/) / [Discord](https://discord.com/invite/2pPV3yq) - Reverse Engineering Challenges
+* [CrackMyApp](https://crackmy.app/) / [Discord](https://discord.gg/cx3sMjKhch) or [crackmes](https://crackmes.one/) / [Discord](https://discord.com/invite/2pPV3yq) - Reverse Engineering Challenges
 * [⁠Reverse Engineering Academy](https://reverseengineering.vercel.app/) - Interactive Reverse Engineering Lessons
 * [⁠Nightmare](https://guyinatuxedo.github.io/) - Binary Exploitation Defense / Reverse Engineering Course
 * [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity YouTube Tutorials

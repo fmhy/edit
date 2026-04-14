@@ -23,7 +23,7 @@
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
-* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠HizSearch](https://hizsearch.pages.dev/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [GameBounty](https://gamebounty.world/) - Download / [Discord](https://discord.gg/dmjUJ4xCEV)
@@ -160,6 +160,7 @@
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
+* [N64Recomp Launcher](https://github.com/SirDiabo/N64RecompLauncher) - Launch / Manage Recompiled N64 Games ⁠
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
@@ -785,7 +786,7 @@
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games
 * ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game / [Discord](https://discord.gg/gartic)
 * ⭐ **[skribbl](https://skribbl.io/)** / [Extra Features](https://typo.rip/) / [GitHub](https://github.com/toobeeh/skribbltypo), [DrawBattle](https://drawbattle.io/) / [Discord](https://discord.gg/D6aHB4hRhK), [Sketchful](https://sketchful.io/) / [Subreddit](https://reddit.com/r/Sketchful) / [Discord](https://discord.gg/MEvtMCv), [⁠DrawWars](https://drawwars.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
-* [⁠GamingCouch](https://gamingcouch.com/) - Multiplayer Phone Controller / Gamepad Games / [Discord](https://discord.gg/UqSX9ZGz5u)
+* [⁠GamingCouch](https://gamingcouch.com/) / [Discord](https://discord.gg/UqSX9ZGz5u) or [Couchplay](https://www.couchplay.tv/index_en.php) - Multiplayer Phone Controller / Gamepad Games 
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones

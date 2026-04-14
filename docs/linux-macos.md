@@ -139,7 +139,7 @@
 * [Flatpak](https://flatpak.org/) - Sandboxed Package Manager
 * [Flathub](https://flathub.org/) - Flatpak App Repo
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠APTUI](https://github.com/mexirica/aptui), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
@@ -222,7 +222,8 @@
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
-* [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
+* [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal Player
+* [⁠tuifi](https://git.sr.ht/~matf/tuifi) - Audio Player + Hi-Fi Tidal
 * [cmus](https://cmus.github.io/) - Audio Player
 * [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player / [Discord](https://discord.com/invite/v4EmhES) / [GitHub](https://github.com/Taiko2k/Tauon)
 * [Lollypop](https://gitlab.gnome.org/World/lollypop) - Audio Player
@@ -431,7 +432,7 @@
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
 * [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png), [2](https://files.catbox.moe/2390ha.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
-* [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers
+* [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers / Compression
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [lnav](https://lnav.org/) - Log File Viewer / Analyzer / [Discord](https://discord.gg/erBPnKwz7R) / [GitHub](https://github.com/tstack/lnav)

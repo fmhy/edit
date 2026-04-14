@@ -260,7 +260,7 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
+* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠HizSearch](https://hizsearch.pages.dev/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
@@ -622,7 +622,7 @@
 
 * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
 * ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)
-* ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker
+* ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker / [GitHub](https://github.com/mozilla/releases_insights)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 * [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager

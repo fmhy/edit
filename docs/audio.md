@@ -697,16 +697,16 @@
 
 ***
 
-## ▷ Song / Artist Discovery
+## ▷ Music Discovery
 
 * 🌐 **[/music discovery/](https://dan.valeena.dev/guides/music-discovery/), [2](https://rentry.co/musicdiscovery)** - Music Discovery Guide
+* ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Forum](https://rym.fm/)
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
-* [⁠BestSellingAlbums](https://bestsellingalbums.org/) - Album Chart Database 
+* [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [Random Song](https://randomsong.org/), [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
-* [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists

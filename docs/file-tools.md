@@ -55,6 +55,7 @@
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
 * [WinRAR](https://www.win-rar.com/), [2](https://www.rarlab.com) - File Archiver / [Hide Popups](https://claraiscute.neocities.org/Guides/x3-rawr/), [2](https://claraiscute.pages.dev/Guides/x3-rawr/) / [Update (Important)](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/winrar.md)
+* [ouch](https://crates.io/crates/ouch) - Archiving / Compression CLI / [GitHub](https://github.com/ouch-org/ouch)
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
 
 ***
