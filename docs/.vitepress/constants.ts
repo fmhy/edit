@@ -27,9 +27,10 @@ export const search: DefaultTheme.Config['search'] = {
     _render(src, env, md) {
       // Check if current file should be excluded from search
       const relativePath = env.relativePath || env.path || ''
-      const shouldExclude = excluded.some(excludedFile =>
-        relativePath.includes(excludedFile) ||
-        relativePath.endsWith(excludedFile)
+      const shouldExclude = excluded.some(
+        (excludedFile) =>
+          relativePath.includes(excludedFile) ||
+          relativePath.endsWith(excludedFile)
       )
 
       // Return empty content for excluded files so they don't appear in search
@@ -47,7 +48,10 @@ export const search: DefaultTheme.Config['search'] = {
     },
     miniSearch: {
       options: {
-        tokenize: (text) => text.replace(/[\u2060\u200B]/g, '').split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
+        tokenize: (text) =>
+          text
+            .replace(/[\u2060\u200B]/g, '')
+            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
         processTerm: (term, fieldName) => {
           // biome-ignore lint/style/noParameterAssign: h
           term = term

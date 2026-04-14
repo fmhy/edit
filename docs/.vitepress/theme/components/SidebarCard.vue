@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import Field from './CardField.vue'
 import ColorPicker from './ColorPicker.vue'
-import ThemeSelector from './ThemeSelector.vue'
 import InputField from './InputField.vue'
-import ToggleStarred from './ToggleStarred.vue'
+import ThemeSelector from './ThemeSelector.vue'
 import ToggleIndexes from './ToggleIndexes.vue'
+import ToggleStarred from './ToggleStarred.vue'
 </script>
 
 <template>

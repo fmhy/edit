@@ -14,10 +14,13 @@ const syncState = () => {
 let observer: MutationObserver | undefined
 
 onMounted(() =>
-  (observer = new MutationObserver(syncState)).observe(document.documentElement, {
-    attributes: true,
-    attributeFilter: ['class']
-  })
+  (observer = new MutationObserver(syncState)).observe(
+    document.documentElement,
+    {
+      attributes: true,
+      attributeFilter: ['class']
+    }
+  )
 )
 
 onMounted(syncState)
@@ -55,9 +58,12 @@ const toggleIndexes = (value: boolean) => {
 </script>
 
 <template>
-  <Switch v-model="isOn" 
+  <Switch
+    v-model="isOn"
     :disabled="isDisabled"
-    :class="{ disabled: isDisabled }"@update:modelValue="toggleIndexes" />
+    :class="{ disabled: isDisabled }"
+    @update:modelValue="toggleIndexes"
+  />
 </template>
 
 <style>

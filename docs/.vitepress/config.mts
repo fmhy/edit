@@ -3,8 +3,8 @@ import consola from 'consola'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import OptimizeExclude from 'vite-plugin-optimize-exclude'
-import Terminal from 'vite-plugin-terminal'
 import { VitePWA } from 'vite-plugin-pwa'
+import Terminal from 'vite-plugin-terminal'
 import { defineConfig } from 'vitepress'
 import {
   commitRef,
@@ -50,9 +50,15 @@ export default defineConfig({
     ['link', { rel: 'alternate icon', href: '/pwa_icon.png' }],
     ['link', { rel: 'mask-icon', href: '/pwa_icon.png', color: '#000000ff' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
-    ['link', { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }],
+    [
+      'link',
+      { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }
+    ],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    [
+      'meta',
+      { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }
+    ],
     // Bing site verification
     [
       'meta',

@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { computed, ref, onMounted, onUnmounted } from 'vue'
-import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { useTheme } from '../themes/themeHandler'
 
 const { mode, amoledEnabled, setAppearance } = useTheme()
 
@@ -17,15 +17,23 @@ interface ModeChoice {
 const modeChoices: ModeChoice[] = [
   { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
   { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
-  { mode: 'dark', label: 'AMOLED', icon: 'i-ph-moon-stars-duotone', isAmoled: true }
+  {
+    mode: 'dark',
+    label: 'AMOLED',
+    icon: 'i-ph-moon-stars-duotone',
+    isAmoled: true
+  }
 ]
 
 const currentChoice = computed(() => {
-  const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
+  const current = mode && (mode as any).value ? (mode as any).value : 'light'
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
   }
-  return modeChoices.find(choice => choice.mode === current && !choice.isAmoled) || modeChoices[0]
+  return (
+    modeChoices.find((choice) => choice.mode === current && !choice.isAmoled) ||
+    modeChoices[0]
+  )
 })
 
 const selectMode = (choice: ModeChoice) => {
@@ -37,7 +45,7 @@ const selectMode = (choice: ModeChoice) => {
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
-  const current = (mode && (mode as any).value) ? (mode as any).value : 'light'
+  const current = mode && (mode as any).value ? (mode as any).value : 'light'
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value
   }
@@ -73,7 +81,6 @@ const setupParentFlyoutOverride = () => {
   }
 
   document.addEventListener('click', closeFlyout)
-
   ;(wrapperRef.value as any)._cleanup = () => {
     flyout.classList.remove('click-based-flyout')
     button.removeEventListener('click', toggleFlyout)
@@ -95,55 +102,61 @@ onUnmounted(() => {
 
 <template>
   <div ref="wrapperRef" class="theme-dropdown-wrapper">
-    <VDropdown 
-        class="theme-dropdown" 
-        theme="theme-selector"
-        :distance="12" 
-        placement="bottom-end" 
-        :triggers="['click']"
-        :popper-triggers="['click']"
-        :auto-hide="true"
+    <VDropdown
+      class="theme-dropdown"
+      theme="theme-selector"
+      :distance="12"
+      placement="bottom-end"
+      :triggers="['click']"
+      :popper-triggers="['click']"
+      :auto-hide="true"
     >
-        <button
+      <button
         type="button"
         class="theme-dropdown-toggle"
         :title="currentChoice.label"
-        >
+      >
         <ClientOnly>
           <Transition name="fade" mode="out-in">
-            <div :key="currentChoice.label" :class="[currentChoice.icon, 'text-xl']" />
+            <div
+              :key="currentChoice.label"
+              :class="[currentChoice.icon, 'text-xl']"
+            />
           </Transition>
         </ClientOnly>
-        </button>
+      </button>
 
-        <template #popper>
+      <template #popper>
         <div class="theme-dropdown-content">
-            <button
+          <button
             v-for="(choice, index) in modeChoices"
             :key="index"
             class="theme-dropdown-item"
             :class="{ active: isActiveChoice(choice) }"
             @click="selectMode(choice)"
             v-close-popper
-            >
+          >
             <Transition name="fade" mode="out-in">
               <div :key="choice.label" :class="[choice.icon, 'text-lg']" />
             </Transition>
             <span>{{ choice.label }}</span>
-            <div v-if="isActiveChoice(choice)" class="i-ph-check text-lg ml-auto" />
-            </button>
+            <div
+              v-if="isActiveChoice(choice)"
+              class="i-ph-check text-lg ml-auto"
+            />
+          </button>
         </div>
-        </template>
+      </template>
     </VDropdown>
   </div>
 </template>
 
 <style lang="scss" scoped>
 .theme-dropdown-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 .theme-dropdown {
@@ -168,7 +181,9 @@ onUnmounted(() => {
   &:hover {
     color: var(--vp-c-text-1);
     background: var(--vp-c-bg-elv);
-    transition: color 0.25s, background 0.25s;
+    transition:
+      color 0.25s,
+      background 0.25s;
     backdrop-filter: blur(12px);
   }
 }

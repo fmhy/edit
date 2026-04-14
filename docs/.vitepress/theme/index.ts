@@ -18,14 +18,18 @@ import type { Theme } from 'vitepress'
 import Components from '@fmhy/components'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
-import { useThemeHandler } from './themes/themeHandler'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
+import { useThemeHandler } from './themes/themeHandler'
+
 import './style.scss'
 import 'virtual:uno.css'
-import Feedback from './components/Feedback.vue'
+
 import FloatingVue from 'floating-vue'
+import Feedback from './components/Feedback.vue'
+
 import 'floating-vue/dist/style.css'
+
 import Tooltip from './components/Tooltip.vue'
 
 export default {
