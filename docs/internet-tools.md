@@ -177,7 +177,7 @@
 * [FetchRSS](https://fetchrss.com/)
 * [RSS Diffbot](https://rss.diffbot.com/)
 * [RuSShdown](https://chaiaeran.github.io/RuSShdown/)
-* [PolitePol](https://politepaul.com/en//)
+* [PolitePol](https://politepaul.com/en/)
 * [Janicek](https://feed.janicek.co/)
 * [FiveFilters](https://createfeed.fivefilters.org/)
 
