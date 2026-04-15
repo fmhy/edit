@@ -1775,8 +1775,6 @@
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [TVMienPhi](https://tv.tvhayhd.org/) - Live TV / 1080p
-* [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
 * [⁠Phim4K](https://phim4k.xyz/) - Desktop App / [Telegram](https://t.me/congdong4ker)
 
