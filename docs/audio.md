@@ -30,7 +30,7 @@
 
 * 🌐 **[HiFi Tidal Instances](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md)** - Tidal Instance List
 * ⭐ **[YouTube Music](https://music.youtube.com/)** - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
-* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz/)** - Browser Music / Lossless / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
@@ -382,7 +382,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
-* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - HiFi Tidal Instance / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Download CLI](https://github.com/PrathxmOp/dab-downloader) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
@@ -1025,7 +1025,7 @@
 * ⭐ **[Kits4Beats](https://kits4beats.com/)** - Samples / [Telegram](https://t.me/kits4beats)
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Samples / Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[OrangeFreeSounds](https://orangefreesounds.com/)** - Sound Effects
-* [Drumkit Library](https://rentry.co/FMHYB64#dkl) - Samples / Drumkits
+* [Stash](https://rentry.co/FMHYB64#dkl) - Samples / Drumkits / Presets
 * [FreeSoundsLibrary](https://www.freesoundslibrary.com/) - Sound Effects
 * [BandLab Samples](https://www.bandlab.com/sounds/free-samples) - Samples
 * [SoundGator](https://www.soundgator.com/) - Sound Effects

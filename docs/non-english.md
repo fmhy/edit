@@ -460,7 +460,6 @@
 ## ▷ Streaming
 
 * ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html)
-* ⭐ **[Movix](https://movix.rodeo/)** - Movies / TV / Anime
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [noctaflix](https://noctaflix.lol/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime

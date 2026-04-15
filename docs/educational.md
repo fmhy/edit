@@ -1374,7 +1374,7 @@
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/) / [Company Questions](https://leetbot.org/), [2](https://seanprashad.com/leetcode-patterns/), [3](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
+* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://doocs.github.io/leetcode/#/README_EN) / [Company Questions](https://rentry.co/FMHYB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice
@@ -1537,7 +1537,7 @@
 * ↪️ **[Presentation / Slideshare tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
-* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [tldraw](https://www.tldraw.com/), [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers

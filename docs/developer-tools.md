@@ -524,7 +524,6 @@
 
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
-* [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3.6-Plus / Qwen3.5-Plus (Qwen3.5-397B-A17B) / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Gemini CLI](https://geminicli.com/), [2](https://google-gemini.github.io/gemini-cli/) - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
@@ -550,7 +549,7 @@
 * [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5.1 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-397B-A17B / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
+* [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)

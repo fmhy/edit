@@ -188,13 +188,13 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[AyuGram](https://github.com/AyuGram/AyuGram4A)** - Telegram With Extra Features / [Docs](https://docs.ayugram.one/) / [Telegram](https://t.me/ayugramchat)
+* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / Portable / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [⁠NagramX](https://t.me/NagramX) / [GitHub](https://github.com/risin42/NagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
-* [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Basic Client
-* [Nicegram](https://nicegram.app/) - Basic Client / [GitHub](https://github.com/Nicegram)
-* [Octogram](https://octogramapp.github.io/) - Basic Client / [GitHub](https://github.com/OctoGramApp/OctoGram)
+* [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
+* [Octogram](https://octogramapp.github.io/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
 * [Nullgram](https://github.com/qwq233/Nullgram/) - Basic Client
 * [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - Advanced Client
+* [Nicegram](https://nicegram.app/) - Client w/ Web3 Integration / [GitHub](https://github.com/Nicegram)
 
 ***
 
@@ -309,7 +309,7 @@
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
-* [BCR](https://github.com/chenxiaolong/BCR) - Call Recorder / [GUI](https://github.com/nicorac/bcr-gui)
+* [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Call Recorder
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
@@ -612,7 +612,7 @@
 * [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
-* [Read Aloud AI](https://readaloudai.com/android) - Text to Speech / [Discord](https://readaloudai.com/discord)
+* [Read Aloud AI](https://readaloudai.com/android) / [Discord](https://readaloudai.com/discord) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Text to Speech 
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Kagi Translate](https://play.google.com/store/apps/details?id=com.kagi.translate), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
 * [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers

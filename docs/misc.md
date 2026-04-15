@@ -629,7 +629,7 @@
 ## ▷ Physical Health
 
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
-* ⭐ **[BMI Chart](https://wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
+* ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
 * ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://claraiscute.neocities.org/Guides/insomnia-guide/)** / [2](https://claraiscute.pages.dev/Guides/insomnia-guide/) - Sleep Hygiene Guides / Tips
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
@@ -890,7 +890,6 @@
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - Leaked Google / Facebook / Amazon Interview Questions / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
 * [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
@@ -1071,7 +1070,7 @@
 * [GPU Scout](https://www.gpuscout.com/) - eBay GPU Price Tracker
 * [CPU Scout](https://www.cpuscout.com/) - eBay CPU Price Tracker
 * [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
-* [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
+* [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1ExFofRZOk9BP2-gp0jtMHPmnStkHlkG_3KmqQNgwyBc/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/), [⁠PricePerGig](https://pricepergig.com/), [List of Disks](https://www.listofdisks.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Trackers
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) (discord) - Laptop Suggestions
 * [EveryMac](https://everymac.com/) - Mac Info Database
@@ -1199,7 +1198,7 @@
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
-* [Hots&Cots](https://www.hotscots.app/) - Military Reviews of Barracks / DFAC
+* [Hots&Cots](https://www.hotscots.app/) - Military Reviews of Barracks / DFAC / [X](https://x.com/hotscots_app)
 
 ***
 

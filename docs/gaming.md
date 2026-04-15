@@ -768,7 +768,7 @@
 ***
 
 * 🌐 **[⁠UBGHub](https://ubghub.org/)** - Index of Unblocked Game Sites / [Discord](https://discord.gg/7CMSEmzBDC)
-* ⭐ **[GN-Math](https://gn-math.dev/)**, [2](https://gn-math-t.github.io/) - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
+* ⭐ **[GN-Math](https://gn-math.dev/)** - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [VAPOR](https://vapor.onl/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
