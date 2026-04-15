@@ -84,40 +84,39 @@
 
 ## ▷ Local AI Frontends
 
-* 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Interface / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
-* ⭐ **[Open WebUI](https://openwebui.com/)** - Self-Hosted Interface / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
-* [Msty](https://msty.app/) - Download & Run Models Locally / [Discord](https://discord.gg/2QBw6XxkCC)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Desktop App / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
+* ⭐ **[Open WebUI](https://openwebui.com/)** - Web UI / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
+* ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
+* ⭐ **[LM Studio](https://lmstudio.ai/)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
+* ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
+* [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [Cherry Studio](https://www.cherry-ai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Demo](https://g4f.dev/chat/pro.html), [2](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel)
-* [LobeChat](https://lobechat.com/chat) - Desktop App / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [LobeHub](https://lobechat.com/chat) - Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [Noi](https://noib.app/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
-* [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
-* [⁠Can I Run AI Locally](https://www.canirun.ai/) or [What Models?](https://whatmodelscanirun.com/) - Determine Which AI Models You Can Locally Run
-* [⁠LocalAI](https://localai.io/) - Self-Hosted Models / [GitHub](https://github.com/mudler/LocalAI)
-* [tgpt](https://github.com/aandrew-me/tgpt) - Self-Hosted Models
-* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Self-Hosted Models / Minimal / Lightweight
+* [LibreChat](https://librechat.ai/) - Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
+* [LoLLMs](https://lollms.com/) - Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)
+* [AnythingLLM](https://anythingllm.com/) - Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
+* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)
+* [tgpt](https://github.com/aandrew-me/tgpt) - Command-Line Interface
+* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Language Model Bridge / Lightweight / Minimal 
 
 ***
 
 ## ▷ Self-Hosting Tools
 
-* ⭐ **[Jan](https://jan.ai/)** - Self-Hosted / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
-* ⭐ **[LM Studio](https://lmstudio.ai/)** - Self-Hosted / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
+* 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Hosted Transformer-Based LLMs
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Self-Hosted Models / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
 * [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)
-* [LoLLMs Web UI](https://github.com/ParisNeo/lollms-webui) - Self-Hosted
-* [AnythingLLM](https://anythingllm.com/) - Self-Hosted / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
-* [LibreChat](https://librechat.ai/) - Self-Hosted / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
-* [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)
 * [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
 * [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - LLM API Key Proxy
+* [⁠Can I Run AI Locally](https://www.canirun.ai/) or [What Models?](https://whatmodelscanirun.com/) - Determine Which AI Models You Can Run Locally
+* [⁠LocalAI](https://localai.io/) - Self-Hosted Models / [GitHub](https://github.com/mudler/LocalAI)
 
 ***
 
