@@ -21,6 +21,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
+* ⭐ **[Rexa Games](https://rexagames.com/)** - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
 * ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Rezi Search](https://rezi.one/), [⁠HizSearch](https://hizsearch.pages.dev/), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
@@ -33,7 +34,6 @@
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/cgames)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com`/ Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
-* [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [CG Games](https://www.cg-gamespc.com/) - Download
