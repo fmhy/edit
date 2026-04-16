@@ -425,7 +425,7 @@
 * ⭐ **[Kagane](https://kagane.org/)** - Manhwa / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [⁠OniSaga](https://onisaga.com/)
+* [⁠OniSaga](https://onisaga.com/) - Manga + Scanlation Groups
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MangaBall](https://mangaball.net/)
 * [Mangadotnet](https://mangadot.net/) / [Discord](https://discord.com/invite/XCdaT6tyy8)
