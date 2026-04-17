@@ -592,6 +592,7 @@
 * [18xx](https://18xx.games/) - 18xx Board Games Online / [GitHub](https://github.com/tobymao/18xx)
 * [Hexxagon](https://hexxagon.com/) - Rubies Vs Pearls
 * [The Bafflement Fires](https://www.dpoetry.com/fires/) - 1950s Freemasonic Board Game
+* [Cybadels](https://www.cybadels.com/) - Citadels Board Game Online / [Discord](https://discord.gg/wGzUsChP)
 
 ***
 
