@@ -936,19 +936,20 @@
 * 🌐 **[osu! Game Rsources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) or **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)** - Osu! Resources
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
 * ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
+* [Rust Clash](https://wiki.rustclash.com/) - Rust Info Database / Wiki
+* [⁠UltraRumble](https://ultrarumble.com/) - My Hero Ultra Rumble Info Database / Wiki
+* [Asphalt Database](https://asphalt9.info/) - Asphalt Legends Unite Database / Wiki
+* [EFEM](https://efem.club/) - Football Manager Info Database / Wiki
+* [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
-* [Rust Clash](https://wiki.rustclash.com/) - Rust Info / Tools
-* [⁠UltraRumble](https://ultrarumble.com/) - My Hero Ultra Rumble Info Database 
 * [totk.wism.fr](https://totk.wism.fr/) - Zelda TOTK AutoBuild QR Codes
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
+* [⁠FactorioLab](https://factoriolab.github.io/) or [Factorio Calculator](https://kirkmcdonald.github.io/calc.html) / [GitHub](https://github.com/KirkMcDonald/kirkmcdonald.github.io) - Factorio / Factory Game Calculators
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
-* [EFEM](https://efem.club/) - Football Manager Database / Info
-* [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
-* [Asphalt Database](https://asphalt9.info/) - Asphalt Legends Unite Database / Wiki
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer

@@ -498,7 +498,7 @@
 * [⁠Geph](https://geph.io/) - Anti-Censorship Proxy / [GitHub](https://github.com/geph-official)
 * [DNSTT.XYZ](https://dnstt.xyz/) / [Telegram](https://t.me/dnstt_xyz) / [GitHub](https://github.com/dnstt-xyz/dnstt_xyz_app), [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna), [SlipNet](https://github.com/anonvector/SlipNet) / [Telegram](https://t.me/SlipNet_app) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
-* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [Rethink DNS](https://rethinkdns.com/configure), [⁠Paqet](https://github.com/hanselime/paqet), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter / Packet Level Proxies
+* [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [Rethink DNS](https://rethinkdns.com/app), [⁠Paqet](https://github.com/hanselime/paqet), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter / Packet Level Proxies
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers
 * [Scamalytics](https://scamalytics.com/) - Check IP Blacklists
 

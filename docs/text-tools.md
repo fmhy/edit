@@ -170,7 +170,6 @@
 * ⭐ **[Amp What](https://www.amp-what.com/)**
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
-* [Unicode Explorer](https://unicode-explorer.com/)
 * [Symbol.so](https://symbol.so/)
 * [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
