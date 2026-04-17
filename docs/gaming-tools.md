@@ -940,6 +940,7 @@
 * [⁠UltraRumble](https://ultrarumble.com/) - My Hero Ultra Rumble Info Database / Wiki
 * [Asphalt Database](https://asphalt9.info/) - Asphalt Legends Unite Database / Wiki
 * [EFEM](https://efem.club/) - Football Manager Info Database / Wiki
+* [Fantasy Football Team Name Generator](https://beastskins.com/fantasy-football-team-name-generator/) - Free fantasy football team name generator with 500+ unique names, dynasty builder, nemesis generator and more.
 * [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
