@@ -618,5 +618,6 @@
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)
 * [FontGen](https://fontgen.cool/)
+* [Font Generator Copy Paste](https://beastskins.com/) - Free fancy text generator with 500+ Unicode font styles. Copy and paste anywhere instantly.
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
