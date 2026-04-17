@@ -618,5 +618,6 @@
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)
 * [FontGen](https://fontgen.cool/)
+* [Middle Name Generator](https://beastskins.com)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
