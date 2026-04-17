@@ -459,11 +459,11 @@
 
 ## ▷ Streaming
 
-* ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html)
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [noctaflix](https://noctaflix.lol/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
+* [Movix](https://movix.rodeo/), [2](https://movix.llc/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [yakriv](https://yakriv.com/), [Kordoz](https://www.kordoz.com/) or [Deksov](https://deksov.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
@@ -483,7 +483,6 @@
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [anime-kami](https://anime-kami.com/) - Anime
 * [anime-sama](https://anime-sama.tv/), [2](https://anime-sama.pw/) - Anime
-* [animesultra](https://animesultra.org/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://ww7.vostanime.fr/) - Anime / Sub / 1080p
@@ -1001,7 +1000,6 @@
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
-* [Download1Music](https://download1music.ir/) - Music / MP3
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
@@ -1011,7 +1009,6 @@
 
 * [RadioVatani](https://www.radiovatani.com/) - Persian Movies / TV / Live / 1080p
 * [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
-* [myket](https://myket.ir/) - Movies / TV / Region Locked
 * [imvbox](https://www.imvbox.com/) - Movies / TV / Sub
 * [hikoca](https://hikoca.co.uk/) - Movies / TV
 * [ParsaTV](https://www.parsatv.com/) - Live TV
