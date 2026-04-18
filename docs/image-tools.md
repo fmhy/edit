@@ -828,6 +828,7 @@
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
 * [FastPic](https://fastpic.org/) - 25MB / Forever
+* [⁠EasyCaptures](https://easycaptures.com/) - Forever
 * [PicoShare](https://github.com/mtlynch/picoshare) - Self-Hosted
 
 ***
