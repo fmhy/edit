@@ -26,7 +26,7 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
-
+* [Fancy Text Generator](https://thefancytext.com/) – Create stylish fonts, cool symbols, and fancy text for Instagram, Twitter, and more.
 ***
 
 ## ▷ Pastebins
