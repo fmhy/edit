@@ -314,7 +314,7 @@
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Multi-Tool Firefox Extension for URLs / [Full Tools List](https://files.catbox.moe/s7s4pv.png)
 * ⭐ **[HTTPStatus](https://httpstatus.io/)** - Check URL Status Codes / Redirect Chains
 * ⭐ **[lychee](https://lychee.cli.rs/)** - URL Scanner / [GitHub](https://github.com/lycheeverse/lychee/)
-* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd) or [Follow That Page](https://www.followthatpage.com/) - Page Change Detection / Notification
+* [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [Changd](https://github.com/paschmann/changd), [Follow That Page](https://www.followthatpage.com/) or [Snaplert](https://snaplert.com) - Page Change Detection / Notification
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255) - Turn Plain Text URLs Into Links
 * [Open Bulk URL](https://openbulkurl.com/), [Multiple Link Opener](https://urltoolshub.com/multiple-link-opener/) or [OpenAllURLs](https://www.openallurls.com/) - Bulk Open URLs
 * [Link Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
