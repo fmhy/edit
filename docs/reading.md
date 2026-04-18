@@ -647,7 +647,7 @@
 ## ▷ Programming Books
 
 * 🌐 **[Free-Programming-Books](https://ebookfoundation.github.io/free-programming-books-search/)** - Programming Book Index / [GitHub](https://github.com/EbookFoundation/free-programming-books)
-* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making a new account
+* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making a new account
 * ⭐ **[ScanLibs](https://scanlibs.com/)**, [2](https://forcoder.net/), [3](https://coderprog.com/)
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
