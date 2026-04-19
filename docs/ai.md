@@ -64,7 +64,7 @@
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / Reset Limits w/ Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-*[⁠AI Roundtable](https://opper.ai/ai-roundtable) - Run Multi-Model Debates on Any Question 
+* [⁠AI Roundtable](https://opper.ai/ai-roundtable) - Run Multi-Model Debates on Any Question 
 * [Alphaxiv](https://www.alphaxiv.org/) - Research Chatbot
 * [⁠Exa](https://exa.ai/search) - AI Search Engine
 * [Vane](https://github.com/ItzCrazyKns/Vane) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
