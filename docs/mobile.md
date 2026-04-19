@@ -1386,9 +1386,9 @@
 
 ## ▷ iOS YouTube Apps
 
-* ⭐ **[YouTube Plus](https://github.com/dayanch96/YTLite)** - Modded YouTube iPA / Older Versions All Free
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Telegram](https://t.me/dvntms) / [Discord](https://discord.gg/VN9ZSeMhEW)
+* [YouTube Plus](https://github.com/dayanch96/YTLite) - Modded YouTube iPA / Older Versions All Free
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA
 * [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
