@@ -279,8 +279,8 @@
 # ► Media Servers
 
 * ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
-* ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
+* ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
@@ -288,7 +288,7 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Seanime](https://seanime.app/) - Anime Server
-* [Plex](https://www.plex.tv/) - Media Server
+* [Plex](https://www.plex.tv/) or [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server

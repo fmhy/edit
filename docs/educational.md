@@ -918,6 +918,7 @@
 * [⁠Rebrickable](https://rebrickable.com/) - LEGO Collection Manager / Build Ideas
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building
 * [Brickset](https://brickset.com/) - LEGO Set Guide
+* [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool  
 
 ***
 
@@ -967,6 +968,8 @@
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mori-note.md)
 * [Toki Pona](https://tokipona.org/) or [Wasona](https://wasona.com/) - Toki Pona Learning Site / Minimal Language / [Info](https://wikipedia.org/wiki/Toki_Pona#Purpose)
+* [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
+* [⁠nimi.li](https://nimi.li/) - Toki Pona Dictionary
 * [Ithkuil](https://ithkuil.net/) - Constructed Language Focused on Logical Precision
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
