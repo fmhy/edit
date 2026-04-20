@@ -10,7 +10,7 @@ outline: false
 ### Feedback
 
 :::tip What is this?
-These are all anonymous comments taken from Reddit, Discord, X.com and our feedback system. This is why we do it. People are the motivation, equality is the goal.
+Anonymous comments taken from Reddit, Discord, X.com and our feedback system. People are the motivation, equality is the goal.
 :::
 
 ***
