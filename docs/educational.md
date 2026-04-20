@@ -866,6 +866,7 @@
 * 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
+* ⭐ **[Chess it Up](https://chessitup.com/)** - Analyse Chess Matches For Free
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [Listudy](https://listudy.org/en) - Chess Lessons
