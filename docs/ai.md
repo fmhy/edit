@@ -33,7 +33,7 @@
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 3 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3.5 Flash / DeepSeek R1
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
-* [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Requires Sign-Up / [Discord](https://discord.gg/jtjNSD52mf)
+* [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Sign-Up / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
@@ -167,12 +167,12 @@
 * [Design Arena](https://www.designarena.ai/) - Multiple Models / Video Editing / No Direct Mode / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 1 (10 Fast, Unlimited Slow- Per Day) / Image to Video / Sign-Up
 * [Wan AI](https://create.wan.video/explore/video/generate?model=wan2.7) - Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / [GitHub](https://github.com/Wan-Video/Wan2.1)
-* [⁠HunyuanVideo](https://hunyuan.tencent.com/modelSquare/home/play?modelId=303&from=/visual) - Unlimited / Requires Sign-Up
+* [⁠HunyuanVideo](https://hunyuan.tencent.com/modelSquare/home/play?modelId=303&from=/visual) - Unlimited / Sign-Up
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play) - LTX-2.3 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [Meta AI](https://www.meta.ai/) - Unlimited / Meta Sign-Up
-* [⁠Klipy](https://klipy.com/create/gif-maker/) - Veo 3 / GIF Only / 4s-5s / 4 Daily / Requires Sign-Up
+* [⁠Klipy](https://klipy.com/create/gif-maker/) - Veo 3 / GIF Only / 4s-5s / 4 Daily /  Sign-Up
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Requires Sign-Up
+* [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 /  Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) - Seedance 2 / 120 Credits Daily
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 / Veo 3.1 Lite / 150 Credits Monthly / [Discord](https://discord.com/invite/googlelabs)
