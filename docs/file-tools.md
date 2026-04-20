@@ -313,7 +313,7 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements.
+* **Note** - Keep in mind that it's **never** a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Sign-up Requirements.
 
 ***
 
