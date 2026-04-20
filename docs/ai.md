@@ -13,28 +13,28 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V3.2 / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Requires Sign-Up / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5.1 / GLM-5-Turbo / Slides / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.5-397B-A17B / Qwen3.6-Plus / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5.1 / GLM-5-Turbo / Slides / [Discord](https://discord.gg/QR7SARHRxK)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.5-397B-A17B / Qwen3.6-Plus /  Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3 Flash (unlimited) / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.5 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Meta AI](https://www.meta.ai/) - Muse Spark / Meta Sign-Up / Unlimited
 * [⁠Ernie](https://ernie.baidu.com/) - ERNIE 5.0 Preview 1220 / x1 Demo
 * [ChatGPT](https://chatgpt.com/) - GPT-5.3 Instant / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
-* [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Pro / MiMo-V2-Flash / MiMo-V2-Omni / Requires Sign-Up
+* [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2-Pro / MiMo-V2-Flash / MiMo-V2-Omni / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [Claude](https://claude.ai/) - Claude Sonnet 4.6 / Require Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [MiniMax AI](https://agent.minimax.io/) - Gemini 3 Pro / MiniMax-M2.7 / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral (console)](https://console.mistral.ai/home) - Mistral Large 3 / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
-* [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B (Think) / No Sign-Up / [Discord](https://discord.gg/NE5xPufNwu)
-* [⁠LongCat](https://longcat.chat/) - LongCat Flash Reasoning / Requires Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
-* [⁠Cohere](https://dashboard.cohere.com/playground/chat) - Command A Reasoning / 1000 Monthly / Requires Sign-Up / [Discord](https://discord.com/invite/co-mmunity)
+* [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B (Think) / No Sign-Up / Unlimited [Discord](https://discord.gg/NE5xPufNwu)
+* [⁠LongCat](https://longcat.chat/) - LongCat Flash Reasoning / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
+* [⁠Cohere](https://dashboard.cohere.com/playground/chat) - Command A Reasoning / 1000 Monthly / Sign-Up / [Discord](https://discord.com/invite/co-mmunity)
 * [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 3 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠StepFun](https://stepfun.ai/) - Step 3.5 Flash / DeepSeek R1
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B 
 * [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Requires Sign-Up / [Discord](https://discord.gg/jtjNSD52mf)
-* [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Requires Sign-Up
+* [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
 ***
@@ -46,8 +46,8 @@
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GLM-5.1 / GPT-5.4 / Multiple Models / [Limits and Models](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K2.5 / Multiple Models / ≈1900 Monthly /  Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [⁠Element Flash](https://flash.kernal.bid/) - Multiple Models / Queue (if traffic is high) / Sign-Up / [Discord](https://discord.gg/RwNb8YrHQX)
-* [⁠Together.ai](https://chat.together.ai/) - GLM-5.1 / Kimi K2.5 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5 / Minimax-m2.7 / Kimi K2.5 / Multiple Models /  No Sign-Up
+* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.1 / Minimax-m2.7 / Kimi K2.5 / Multiple Models /  No Sign-Up / Unlimited
+* [⁠Together.ai](https://chat.together.ai/) - GLM-5.1 / Kimi K2.5 / MiniMax-M2.7 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B /  Sign-Up
@@ -175,7 +175,7 @@
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Requires Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) - Seedance 2 / 120 Credits Daily
-* [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 (5 Monthly) / Veo 3.1 Lite (50 Daily) / [Discord](https://discord.com/invite/googlelabs)
+* [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 / Veo 3.1 Lite / 150 Credits Monthly / [Discord](https://discord.com/invite/googlelabs)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
 * [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / Requires NVIDIA GPU
