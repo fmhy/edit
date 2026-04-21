@@ -779,7 +779,7 @@
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
 * [⁠bat](https://github.com/sharkdp/bat) / [Extras](https://github.com/eth-p/bat-extras/), [Shiki](https://shiki.style/), [tailspin](https://github.com/bensadeh/tailspin) or [Sight](https://github.com/tsenart/sight) - Syntax Highlighters
-* [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
+* [Cloudflared](https://github.com/cloudflare/cloudflared) or [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
 * [Bore](https://github.com/ekzhang/bore) - TCP Tunnel to Expose Servers Local Ports
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
@@ -1074,7 +1074,7 @@
 
 * **Note** - The tags for this section are as follows: Storage Limit / Monthly Bandwidth Limit.
 
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
+* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB / 10GB

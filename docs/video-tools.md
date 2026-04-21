@@ -486,9 +486,6 @@
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
 
-
-/ [Auto Next](
-
 ***
 
 ## ▷ Animation Tools

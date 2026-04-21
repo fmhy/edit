@@ -445,7 +445,7 @@
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
-* ⭐ **[Mail.tm](https://mail.tm/)** or [Mail.gw](https://mail.gw/) - Forever / 7 Days / 1 Domain
+* ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/) / [3](https://tempmail.pw) / [4](https://www.emailgenerator.org/) / [5](https://edumail.su/), [GetEduMail](https://getedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu Addresses
