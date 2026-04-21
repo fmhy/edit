@@ -66,6 +66,7 @@
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
 * [⁠SpectrShare](https://spectrshare.com/) - P2P Video Streaming / Temp Files
+*  [⁠SeekStreaming](https://seekstreaming.com/) - Unlimited / Forever / Require Signup
 
 ***
 
