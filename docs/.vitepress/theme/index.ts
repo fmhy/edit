@@ -27,6 +27,7 @@ import Feedback from './components/Feedback.vue'
 import FloatingVue from 'floating-vue'
 import 'floating-vue/dist/style.css'
 import Tooltip from './components/Tooltip.vue'
+import ServiceExtrasHost from './components/ServiceExtrasHost.vue'
 
 export default {
   extends: DefaultTheme,
@@ -37,6 +38,7 @@ export default {
     app.component('Post', Post)
     app.component('Feedback', Feedback)
     app.component('Tooltip', Tooltip)
+    app.component('ServiceExtras', ServiceExtrasHost)
     loadProgress(router)
 
     if (typeof window !== 'undefined') {

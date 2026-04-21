@@ -21,6 +21,7 @@ import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transformsPlugin } from './transformer'
 import { replaceNoteLink } from './utils/markdown'
+import { replaceServiceExtras } from './utils/serviceExtrasMarkdown'
 
 // @unocss-include
 
@@ -225,6 +226,7 @@ export default defineConfig({
       md.use(toggleStarredPlugin)
       meta.build.api && md.use(headersPlugin)
       replaceNoteLink(md)
+      replaceServiceExtras(md)
     }
   },
   themeConfig: {
