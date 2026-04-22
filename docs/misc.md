@@ -368,6 +368,7 @@
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
 * [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
 * [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
+* [carto.tchoo](https://carto.tchoo.net/) - French Live Train Map
 * [⁠MiniLondon3D](https://www.minilondon3d.xyz/) - Real-time 3D map of the London Underground 
 * [Train positions](https://treinposities.nl/) - Netherlands Train Info Map
 * [Chronotrains](https://www.chronotrains.com/) - European Train Distances
@@ -1468,7 +1469,6 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
-* [KickassApp](https://kickassapp.com/) - Turn Webpages into Space Shooting Game
 * [Our World of Text](https://ourworldoftext.com/), [TextWall](https://tw.2s4.me/) or [OurWorldOfText](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem

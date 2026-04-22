@@ -14,7 +14,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)**, [2](https://note-tool.study/) - Download / Pre-Installed / [Launcher](https://union-crax.xyz/direct)
@@ -676,6 +676,7 @@
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [PlayAnyPage](https://playanypage.com/) or [KickassApp](https://kickassapp.com/) - Turn Webpages into Games
 * [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
 * [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
@@ -807,7 +808,7 @@
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
 * [⁠Splatoon.io](https://splatoon.io/) - Multiplayer ⁠Splatoon Style Game
-* [Slither.io](https://slither.io/) - Grow the Longest Worm
+* [Slither.io](http://slither.com/io) - Grow the Longest Worm
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game / [Discord](https://discord.gg/t3GZmuQndv)
 * [Sigmally](https://one.sigmally.com/) / [Discord](https://discord.com/invite/4j4Rc4dQTP) or [agar.io](https://agar.io/) - Become the Biggest Circle
 * [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
@@ -1061,6 +1062,7 @@
 * [⁠TVGuessr](https://www.tvguessr.garden/) - Guess Countries by TV Channels
 * [Tradle](https://games.oec.world/en/tradle/) - Guess Countries by their Exports
 * [Back Of Your Hand](https://backofyourhand.com/) - Local GeoGuessr
+* [⁠NYCGuessr](https://nycguessr.vercel.app/) - NYC Traffic Cam GeoGuessr
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuessr](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
