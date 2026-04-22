@@ -67,7 +67,7 @@
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [⁠bin](https://github.com/marcosnils/bin) - Binary Manager
 * [N8N](https://n8n.io/) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
-* [botwiki](https://botwiki.org/) - Learn How to Make Bots
+* [⁠lastversion](https://github.com/dvershinin/lastversion) - Find / Download Latest Project Releases 
 * [Sentry](https://sentry.io/) or [Darkly](https://launchdarkly.com/) - Error Tracking Platforms
 * [Mockaroo](https://mockaroo.com/) or [Mockium](https://softwium.com/mockium/) - Generate Test Data
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs

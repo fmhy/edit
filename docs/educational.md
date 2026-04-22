@@ -1139,17 +1139,6 @@
 
 ***
 
-## ▷ Constructed Languages
-
-* 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures ⁠
-* [Toki Pona](https://tokipona.org/), [⁠mun!](https://mun.la/) or [Wasona](https://wasona.com/) - Toki Pona Learning Sites / Minimal Language / [Info](https://wikipedia.org/wiki/Toki_Pona#Purpose)
-* [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
-* [⁠nimi.li](https://nimi.li/) or [Linku](https://linku.la/) - Toki Pona Dictionaries
-* [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
-* [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
-
-***
-
 ## ▷ Sign Languages
 
 * ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
@@ -1181,6 +1170,21 @@
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 * [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [DMDb](https://deafmovie.org/) or [Sign on Screen](https://signonscreen.com/all-films/) - Deaf Movie Databases / Sign Language Films / Deaf Actors
+
+***
+
+## ▷ Constructed Languages
+
+* 🌐 **[⁠pona.la](https://pona.la/)** - Toki Pona Learning / Resources
+* 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures 
+
+* [Toki Pona](https://tokipona.org/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language / [Info](https://wikipedia.org/wiki/Toki_Pona#Purpose)
+* [⁠ma pona pi toki pona](https://discord.com/invite/mapona) - Toki Pona Community / Learning 
+* [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
+* [Toki Pona Dictionary](https://commons.wikimedia.org/wiki/File:Toki_Pona_Dictionary.pdf), [⁠nimi.li](https://nimi.li/) or [Linku](https://linku.la/) / [GitHub](https://github.com/lipu-linku/sona) / [Audio](https://mylittlewordland.com/course/351477/toki-pona-jan-lentan-s-course-with-audio) - Toki Pona Dictionaries
+* [Semantic Spaces Dictionary](https://lipamanka.gay/essays/dictionary) - Toki Pona Word Explanations / Dictionary
+* [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
+* [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
 
 ***
 
@@ -1240,6 +1244,7 @@
 * [systemd-by-example](https://systemd-by-example.com/) - systemd Learning
 * [The Linux Kernel](https://kernel.org/doc/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
+* [botwiki](https://botwiki.org/) - Learn How to Make Bots
 
 ***
 
