@@ -51,7 +51,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/) / [Magnetz](https://magnetz.eu/)**
-* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/) / [StreamSports99](https://streamsports99.ru)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.space/) / [StreamSports99](https://streamsports99.ru)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
