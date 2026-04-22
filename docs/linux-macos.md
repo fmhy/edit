@@ -637,7 +637,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers / [Homebrew GUI](https://corkmac.app/)
+* ⭐ **[Homebrew](https://brew.sh/)**, [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers / [Homebrew GUI](https://github.com/buresdv/Cork/)
 * [AppsTorrent](https://appstorrent.ru/) - Downloads (not torrents)
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -701,7 +701,7 @@
 
 ## ▷ Mac Gaming
 
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games / Requires Sign-Up
 * ⭐ **[AppsTorrent](https://appstorrent.ru/games/)** - Mac Games / Downloads (not torrents)
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
@@ -768,9 +768,9 @@
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/) / [Albert GitHub](https://github.com/albertlauncher/albert)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Windows-Style Alt-Tab for Mac
-* [MuMuPlayer](https://www.mumuplayer.com/), [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
+* [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
-* [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
+* [Conky](https://conky.cc), [eul](https://github.com/gao-sun/eul), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Mole](https://github.com/tw93/Mole) - System Cleanup / Optimization Multi-Tool

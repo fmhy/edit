@@ -405,6 +405,7 @@
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
+* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Mod](https://github.com/OrfiDev/orpheusdl-qobuz)
@@ -412,7 +413,7 @@
 * [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Qobuz / Tidal / Amazon Music / FLAC
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
-* [Audion](https://audionplayer.com/) - Tidal / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
+* [Audion](https://audionplayer.com/) - Tidal / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [Shira](https://github.com/KraXen72/shira) - YouTube / SoundCloud / 128kb AAC
 * [QBDLX](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / 256 ACC Premium / FLAC / Use Firehawk52
 * [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz / 128kb Free / FLAC / Use Firehawk52
@@ -705,7 +706,7 @@
 * ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Forum](https://rym.fm/)
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
-* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
+* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [Random Song](https://randomsong.org/), [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
@@ -770,7 +771,7 @@
 * [Astra](https://astramusic.dev/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/boof2015/astra)
 * [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, Mac, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
-* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, Mac, Linux, Android / [Plugins](https://www.audionplayer.com/plugins)  / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
+* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, Mac, Linux, Android / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
 * [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, Mac, Linux / [GitHub](https://github.com/clangen/musikcube)
 * [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / Mac, Linux

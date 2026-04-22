@@ -86,6 +86,7 @@
 * [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
+* [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
 * [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
@@ -127,9 +128,7 @@
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
-* Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf)
-    
-   / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
+* Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
 
 ***
 

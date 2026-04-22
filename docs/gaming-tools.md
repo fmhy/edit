@@ -34,14 +34,14 @@
 * [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/), [Easy Bracket](https://lvup.gg/en/easy) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournament Creators / Managers
-* [Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medel) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [SteelSeries Moments](https://steelseries.com/gg/moments), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medel) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay
 * [PSNProfiles](https://psnprofiles.com/) - Trophy Guide / PSN Profile Viewer
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Wiki.gg](https://wiki.gg/wikis/) - Game Wikis / [Redirector](https://support.wiki.gg/wiki/Redirect_to_wiki.gg)
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources / Translators
-* [⁠Interpreter](https://github.com/bquenin/interpreter) - Retro Japanese Game Live Translator 
+* [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠Translumo](https://github.com/ramjke/Translumo) - Game Live Translators
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
@@ -320,6 +320,7 @@
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [LEGENDARY](https://github.com/derrod/legendary) / [Discord](https://legendary.gl/discord) or [Rare](https://raredevs.github.io/Rare/) / [GitHub](https://github.com/RareDevs/Rare) - Epic Games Launchers
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) or [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
+* [Steam Extensions](https://redd.it/1sp8quf) - How-To Add Chrome Extensions to Steam
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Millennium](https://steambrew.app/) - Steam Client Customization / [Discord](https://steambrew.app/discord) / [GitHub](https://github.com/shdwmtr/millennium)
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
@@ -574,6 +575,7 @@
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [⁠OrbisPatches](https://orbispatches.com/) or [ProsperoPatches](https://www.prosperopatches.com/) - PS4 / PS5 Game Updates / [Discord](https://discord.com/invite/2ApmZKs)
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
+* [PS4 Package Extractor](https://www.nexusmods.com/bloodborne/mods/194) - PS4 Package Extraction Tool
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
 * [⁠webMAN MOD](https://aldostools.github.io/webMAN-MOD/) - Add Extended Services to PS3 Consoles / [GitHub](https://github.com/aldostools/webMAN-MOD)
 * [Brewology](http://store.brewology.com/) or [PS Network Database](https://rentry.co/FMHYB64#ps-content) - PS3 Homebrew Stores
@@ -670,9 +672,7 @@
 * [Minestom](https://minestom.net/) - Lightweight Minecraft Server / [Discord](https://discord.gg/pkFRvqB) / [GitHub](https://github.com/Minestom/Minestom)
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds / [Discord](https://discord.com/invite/VdCAUtm) / [GitHub](https://github.com/MaxMaeder/DriveBackupV2)
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [GitHub](https://github.com/PurpurMC/) or [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [GitHub](https://github.com/PaperMC/Paper) / [Plugins](https://hangar.papermc.io/) - Performance Enhancement Servers
-
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Discord](https://discord.com/invite/geysermc) / [GitHub](https://github.com/GeyserMC/Geyser) / [Extras](https://geyserextras.letsgoaway.dev/) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-
 * [ServerPackCreator](https://serverpackcreator.de/) - Create Minecraft Server Packs from Modpacks / [Discord](https://discord.com/invite/JfsXK8qB95) / [GitHub](https://github.com/Griefed/ServerPackCreator)
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Real-Time Updated Server Banners
@@ -924,7 +924,7 @@
 * 🌐 **[Visual Novel Wiki](https://www.vnwiki.xyz/)** - Visual Novel Resources / Guides / [Discord](https://discord.gg/dejvpMhWaH) / [GitHub](https://github.com/VNWiki/visual-novel-wiki)
 * ↪️ **[Visual Novel DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_special_interest)** - Visual Novel Download Sites
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
-* [LunaTranslator](https://docs.lunatranslator.org/en/) / [GitHub](https://github.com/HIllya51/LunaTranslator, [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠MTool](https://mtool.app/?lang=en) - Game / Visual Novel Translators
+* [LunaTranslator](https://docs.lunatranslator.org/en/) / [GitHub](https://github.com/HIllya51/LunaTranslator), [⁠Translumo](https://github.com/ramjke/Translumo), [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠MTool](https://mtool.app/?lang=en) - Game / Visual Novel Translators
 * [VNDB](https://vndb.org/) - Visual Novel Database
 * [r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 

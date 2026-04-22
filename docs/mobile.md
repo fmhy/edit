@@ -155,14 +155,14 @@
 
 ## ▷ Social Media Apps
 
-* 🌐 **[/reddit clients/](https://rentry.co/redditclients) - Android Reddit Client Comparisons
+* 🌐 **[/reddit clients/](https://rentry.co/redditclients)** - Android Reddit Client Comparisons
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ⭐ **[Revenge](https://github.com/revenge-mod/revenge-bundle)** - Modded Discord Client / [Plugins](https://plugins-list.pages.dev/) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [Discord](https://discord.com/invite/ddcQf3s2Uq)
 * ⭐ **[Kettu](https://www.raincord.dev/kettu)** - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Source Code](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
-* ⭐ **[piko](https://github.com/crimera/twitter-apk)**, [2](https://github.com/lluni/twitter-apk) / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
+* ⭐ **[piko](https://github.com/crimera/twitter-apk)** / [Telegram](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[Nobook](https://github.com/ycngmn/Nobook)** - Ad-Free Facebook Lite
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Moshidon](https://github.com/LucasGGamerM/moshidon) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
@@ -583,6 +583,7 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [OpenAndroidBackup](https://mrrfv.github.io/open-android-backup/) / [GitHub](https://github.com/mrrfv/open-android-backup), [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) (root), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) (root) - Device Backup Tools
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
+* [⁠PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) - PDF Editor / Toolkit
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 
 ***
@@ -613,7 +614,7 @@
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [Read Aloud AI](https://readaloudai.com/android) / [Discord](https://readaloudai.com/discord) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Text to Speech 
-* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Kagi Translate](https://play.google.com/store/apps/details?id=com.kagi.translate), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
+* [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Kagi Translate](https://play.google.com/store/apps/details?id=com.kagi.translate), [Offline Translator](https://github.com/davidventura/firefox-translator), [RTranslator](https://github.com/niedev/RTranslator) or [TranslateYou](https://github.com/you-apps/TranslateYou) - Translation Apps
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) - Emoji / Unicode Manager / [GitHub](https://github.com/Ryosuke839/UnicodePad)
 * [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
 
@@ -1290,6 +1291,7 @@
 * ⭐ **[Swiftgram](https://swiftgram.app/)** - Telegram App / [GitHub](https://github.com/Swiftgram/Telegram-iOS)
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
+* [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
 * [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
@@ -1331,6 +1333,7 @@
 * ⭐ **[PocketCasts](https://www.pocketcasts.com/)** - Podcasts
 * ⭐ **[Triode](https://triode.app/)** - Radio App
 * ⭐ **[Cuterdio](https://cuterdio.com/en)** - Radio App
+* [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded
 * [Spotify](https://apps.apple.com/app/id324684580) - Podcasts
 * [Podbean](https://apps.apple.com/app/id973361050) - Podcasts
 * [Apple Podcasts](https://apps.apple.com/app/id525463029) - Podcasts
@@ -1387,10 +1390,9 @@
 ## ▷ iOS YouTube Apps
 
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
-* [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / [Telegram](https://t.me/dvntms) / [Discord](https://discord.gg/VN9ZSeMhEW)
-* [YouTube Plus](https://github.com/dayanch96/YTLite) - Modded YouTube iPA / Older Versions All Free
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube iPA
 * [YTLitePlus](https://ytliteplus.github.io/) - YTLite + Tweaks / Official iPAs are Outdated / [GitHub](https://github.com/YTLitePlus/YTLitePlus)
+* [Dan's Workshop](https://dvntm0.github.io/) - Modded YouTube IPAs / Versions Older than 5.2 Free / [Telegram](https://t.me/dvntms) / [Discord](https://discord.gg/VN9ZSeMhEW) / [GitHub](https://github.com/dayanch96/YTLite)
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 
 ***

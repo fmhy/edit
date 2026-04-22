@@ -325,7 +325,7 @@
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblocker / [Discord](https://discord.gg/EPEFC6KkpF) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 7 Day Expiry / +1 Hour Per DDL / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
-* ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
+* ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / Use Adblocker / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
@@ -403,7 +403,7 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month.
+* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month (plan name).
 
 ***
 
@@ -416,7 +416,7 @@
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / [Client](https://github.com/SamSchott/maestral)
 * [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
 * [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)
-* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
+* [pCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
 * [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
 * [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
