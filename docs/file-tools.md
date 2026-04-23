@@ -80,7 +80,7 @@
 * [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB / Web
 * [MiConv](https://miconv.com/) - Online / File Converter / 75MB / Web
 * [⁠Docpose](https://docpose.cloud/convert) - Online / File Converter / 25MB / Web
-* [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
+* [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
 
 ***
 

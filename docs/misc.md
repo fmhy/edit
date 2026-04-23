@@ -877,7 +877,6 @@
 
 * 🌐 **[30-sec](https://30secondsofinterviews.org/)** - Tech Interview Questions Indexes
 * 🌐 **[Summer 2026 Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
-* 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
@@ -1598,12 +1597,13 @@
 
 ***
 
-## ▷ Live Webcams
+## ▷ Live Cameras
 
 * ⭐ **[WebcamTaxi](https://www.webcamtaxi.com/en/)**
 * ⭐ **[Explore](https://explore.org/)**, [Mangolinkcam](https://www.mangolinkcam.com/), [Africam](https://africam.com/our-locations/) or [AnimalsLife](https://animalslife.net/category/shelters/) - Animal Cams
 * ⭐ **[San Diego Zoo](https://zoo.sandiegozoo.org/live-cameras)** or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
 * [WorldCams](https://worldcams.tv/)
+* [OpenCCTV](https://opencctv.org/)
 * [EarthCam](https://www.earthcam.com/)
 * [WebcamExplore](https://www.webcamexplore.com/)
 * [BalticLiveCam](https://balticlivecam.com/)

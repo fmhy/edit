@@ -1177,14 +1177,15 @@
 
 * 🌐 **[⁠pona.la](https://pona.la/)** - Toki Pona Learning / Resources
 * 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures 
-
-* [Toki Pona](https://tokipona.org/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language / [Info](https://wikipedia.org/wiki/Toki_Pona#Purpose)
-* [⁠ma pona pi toki pona](https://discord.com/invite/mapona) - Toki Pona Community / Learning 
+* [Toki Pona](https://tokipona.org/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [DuoStories Toki](https://duostories.org/tok2-en) / [2](https://duostories.org/tok-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language / [Info](https://wikipedia.org/wiki/Toki_Pona#Purpose)
+* [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning 
 * [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
-* [Toki Pona Dictionary](https://commons.wikimedia.org/wiki/File:Toki_Pona_Dictionary.pdf), [⁠nimi.li](https://nimi.li/) or [Linku](https://linku.la/) / [GitHub](https://github.com/lipu-linku/sona) / [Audio](https://mylittlewordland.com/course/351477/toki-pona-jan-lentan-s-course-with-audio) - Toki Pona Dictionaries
+* [Toki Pona Dictionary](https://commons.wikimedia.org/wiki/File:Toki_Pona_Dictionary.pdf), [⁠nimi.li](https://nimi.li/) / [GitHub](https://github.com/cubedhuang/nimi.li) or [Linku](https://linku.la/) / [GitHub](https://github.com/lipu-linku/sona) / [Audio](https://mylittlewordland.com/course/351477/toki-pona-jan-lentan-s-course-with-audio) - Toki Pona Dictionaries
 * [Semantic Spaces Dictionary](https://lipamanka.gay/essays/dictionary) - Toki Pona Word Explanations / Dictionary
+* [⁠lipu tenpo](https://liputenpo.org/) - Toki Pona Magazine
 * [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
 * [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
+* [⁠Viossa Diskordseгver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
 
 ***
 
