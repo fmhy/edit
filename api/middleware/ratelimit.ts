@@ -17,15 +17,17 @@ export default defineEventHandler(async (event) => {
   const { cloudflare } = event.context
 
   const ipAddress =
-    getHeader(event, 'cf-connecting-ip') ||
-    getHeader(event, 'x-forwarded-for') ||
-    event.node.req.socket.remoteAddress
+    getHeader(event, 'cf-connecting-ip') || event.node.req.socket.remoteAddress
+  const normalizedIpAddress =
+    typeof ipAddress === 'string' && !ipAddress.includes(',')
+      ? ipAddress.trim()
+      : undefined
 
-  if (ipAddress && cloudflare?.env?.RATE_LIMITER) {
+  if (normalizedIpAddress && cloudflare?.env?.RATE_LIMITER) {
     const { success } = await (
       cloudflare.env as unknown as Env
     ).RATE_LIMITER.limit({
-      key: ipAddress
+      key: normalizedIpAddress
     })
 
     if (!success) {
