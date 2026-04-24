@@ -94,6 +94,7 @@
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
+* [Waifu2x](https://www.waifu2x.net/) - Anime Image Upscaling / Online
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
 
 ***
@@ -671,8 +672,7 @@
 * [tiny.pictures](https://tiny.pictures/) - Image Optimization
 * [Pingo](https://css-ig.net/pingo) - Image Optimization / [GUI](https://css-ig.net/pinga)
 * [Ihancer](https://ihancer.com) - Image Optimization
-* [Waifu2x](https://www.waifu2x.net/) - Image Optimization
-* [OxiPNG](https://github.com/shssoichiro/oxipng) - PNG Optimization
+* [Oxipng](https://github.com/shssoichiro/oxipng) - PNG Optimization
 * [Crunch](https://github.com/chrissimpkins/Crunch) - PNG Optimization / Self-Hosted / No Sign-Up
 
 ***

@@ -100,7 +100,7 @@
 
 * 🌐 **[ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)** - Speech to Text Leaderboard
 * [Whisper](https://github.com/openai/whisper) - Audio Transcription / [WebUI](https://huggingface.co/spaces/hf-audio/whisper-large-v3), [2](https://ggml.ai/whisper.cpp/)
-* [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Speech-To-Text Tools
+* [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [⁠Transcrisper](https://transcrisper.com/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Audio Transcription Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
 * [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool
@@ -283,6 +283,7 @@
 * [JustNotePad](https://justnotepad.com/) - Local Saves
 * [NotesOnline](https://notesonline.org/) - Local Saves
 * [PasteePad](https://pasteepad.com/) - Local Saves
+* [Notes](https://notes.xtra.wtf/) - Local / Cloud Saves
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves

@@ -28,7 +28,7 @@ Before installing any file, it's recommended to scan the setup / install with **
 
 We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)** or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
+For Android, we recommend **[Brave](https://brave.com/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Firefox](https://www.firefox.com/browsers/mobile/android/)**.
 
 For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
 
