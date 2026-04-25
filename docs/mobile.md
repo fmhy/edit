@@ -683,7 +683,6 @@
 * [TheFor](https://thefor.xyz/) - Habit Tracker
 * [Unlock Master](https://github.com/sweakpl/unlock-master) - Digital Habit Tracker
 * [Mindful](https://github.com/akaMrNagar/Mindful) - Digital Productivity Tracker / App Blocker
-* [Ascent](https://play.google.com/store/apps/details?id=com.ascent) - App Blocker
 * [one sec](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - App Blocker
 * [⁠ScreenZen](https://screenzen.co/) - Website / App Blocker
 * [MyBrain](https://github.com/mhss1/MyBrain) - Productivity Tracker
