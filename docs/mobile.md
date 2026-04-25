@@ -559,7 +559,7 @@
 
 ## ▷ Android RSS Readers
 
-* [Feeder](https://github.com/spacecowboy/Feeder) - RSS / Atom / RDF / JSON Feed
+* ⭐ **[Feeder](https://github.com/spacecowboy/Feeder)** - RSS / Atom / RDF / JSON Feed
 * [Twine](https://github.com/msasikanth/twine) - RSS / Atom / RDF / JSON Feed
 * [Pluma RSS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - RSS / Atom
 * [FeedMe](https://github.com/seazon/FeedMe) - RSS / Atom
