@@ -635,15 +635,14 @@
 
 * 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* 🌐 **[Teuteuf](https://teuteuf.fr/)** - Country Guessing Game Index
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [Seterra](https://www.seterra.com/#quizzes), [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Teuteuf](https://teuteuf.fr/) - Geography Guessing / Quizzes
-* [Tradle](https://games.oec.world/en/tradle/) - Guess Countries by their Exports
-* [travle](https://travle.earth/) - Guess Countries Between Two Locations
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [LizardPoint](https://lizardpoint.com/) or [Seterra](https://www.seterra.com/#quizzes) - Quiz Sites
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
