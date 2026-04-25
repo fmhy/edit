@@ -512,6 +512,7 @@
 
 * ↪️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
 * [Titanium Network](https://titaniumnetwork.org/services/) - Multi-Proxy / [Instances](https://discord.gg/unblock) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
+* [InvisiProxy](https://invisiproxy.com/) - Multi-Site + Onion Routing / Adblocker / [Instances](https://invisiproxy.com/partners) / [Discord](https://discord.gg/unblock) / [GitHub](https://github.com/QuiteAFancyEmerald/InvisiProxy)
 * [⁠US5](https://voucan.securly.com.surf.surfnet.ca/) - Multi-Site + App Proxy / Adblocker / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [ProxyOf2](https://proxyof2.com/)
