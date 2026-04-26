@@ -77,7 +77,7 @@
 * ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/optiscaler/OptiScaler) - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com) - Game Setting Guides
-* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
+* [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guide
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) - FPS / Latency Guides
 * [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
@@ -612,7 +612,7 @@
 * ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Pirates’ Cove](https://livinin82.github.io/steam-deck-pirates/), [r/LinuxCrackSupport Wiki](https://reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) or [Steam Deck Guide](https://main.steamdeck.guide/) / [2](https://steamdeck.guide/) / [GitHub](https://github.com/NKkrisz/Steam-Deck-Guide) - Steam Deck Guides / Resources
 * [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Discord](https://discord.gg/frg5Mmda56)
-* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
+* [⁠CheckMyDeck](https://checkmydeck.ofdgn.com/) or [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Steam Deck Game Compatibility Checks
 * [OpenGameInstaller](https://ogi.nat3z.com/) - Game Manager w/ DDL, Torrent, and Real Debrid / [Addons](https://ogi.nat3z.com/community/) / [GitHub](https://github.com/Nat3z/OpenGameInstaller)
 * [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
 * [EmuDeck](https://www.emudeck.com/) - Steam Deck Emulator Setup / [Compatibility](https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/) / [Discord](https://discord.com/invite/b9F7GpXtFP)
@@ -900,7 +900,7 @@
 * [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Requires Sign-Up
 * [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Requires Sign-Up
 * [2-Minute Tabletop](https://2minutetabletop.com/) - Free TTRPG Assets
-* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
+* [Dungeon Scrawl](https://www.dungeonscrawl.com/), [2](https://probabletrain.itch.io/dungeon-scrawl) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg)
 * [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
 
 ***

@@ -39,6 +39,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
+* *"This website is genuinely a candidate for top 3 greatest websites to ever exist on the web. Thanks to it I was able to download games, build a whole local music library, watch all the movies and tv shows I want, read all the books I want. This website has genuinely enlightened me and guided me into new life and im forever thankful."*
+
 * *"Thank you to whoever made the website,it has made things easier for a lot of people. I pinned this website on an old laptop I installed linux mint xfce on for one of my dads friends who is about 65 years old and he loves it, free media is awesome."*
 
 * *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*

@@ -102,7 +102,7 @@
 ## ▷ Image Effects
 
 * ⭐ **[Mosh](https://moshpro.app/)**, **[Efecto](https://efecto.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
+* [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
@@ -231,7 +231,7 @@
 ## ▷ Meme Tools
 
 * ⭐ **[Know Your Meme](https://knowyourmeme.com/)** or [FindThatMeme](https://findthatmeme.com/) - Meme Databases
-* [ImgFlip](https://imgflip.com/memegenerator), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [ImgFlip](https://imgflip.com/memegenerator) / [Remove Watermarks](https://greasyfork.org/scripts/470387), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
@@ -379,7 +379,7 @@
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis
 * [PixelJoint](https://pixeljoint.com/), [Lospec](https://lospec.com/) or [rsrcs](https://rentry.co/rsrcs) - Download / Share Pixel Art
-* [shot.cafe](https://shot.cafe/), [⁠StillsLab](https://stillslab.com/), [FanCaps](https://fancaps.net/) or [Film Grab](https://film-grab.com/) - Media Screenshots / Stills
+* [shot.cafe](https://shot.cafe/), [⁠StillsLab](https://stillslab.com/), [FanCaps](https://fancaps.net/), [Movie Screencaps](https://movie-screencaps.com/), [Animation Screencaps](https://animationscreencaps.com/), or [Film Grab](https://film-grab.com/) - Media Screenshots / Stills
 * [Free Classic Image](https://freeclassicimages.com/) - Vintage / Retro Image Collection / Some NSFW
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files

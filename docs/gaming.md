@@ -934,7 +934,7 @@
 * [⁠OFF](https://off.zchr.org/) - Browser RPG
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
-* [Isleward](https://bigbadwaffle.itch.io/isleward) - Browser RPG
+* [Isleward](https://www.isleward.com/), [2](https://bigbadwaffle.itch.io/isleward) - Browser RPG / Sign-Up Required
 * [Hordes.io](https://hordes.io/) - Browser MMORPG / [Discord](https://discord.com/invite/hordes)
 * [Aberoth](https://aberoth.com/) - Browser MMORPG
 * [RPGMaker Game Archive](https://archive.org/details/rpgmaker-net-game-archive) - Collection of Games From RPGMaker

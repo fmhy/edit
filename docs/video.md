@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each sites respective pros & cons, and what their ads are like. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (We recommend the full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in their settings which are noted on the grading page. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+* **Note** - Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each sites respective pros & cons, and what their ads are like. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in their settings which are noted on the grading page. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
 
 ***
 
@@ -94,7 +94,6 @@
 * [bCine](https://bcine.app/) - Movies / TV / Anime / [Discord](https://discord.gg/FekgaSAtJa)
 * [AuroraScreen](https://www.aurorascreen.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * [Flicker](https://flickermini.pages.dev/) - Movies / TV / Anime / [Proxy](https://flickerminiproxy.pages.dev/) / [Subreddit](https://www.reddit.com/r/flickermini/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/flicker-proxy.md)
-* [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
 * [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
 * [KiraStreams](https://kirastreamsv2.vercel.app/) - Movies / TV / Anime / [GitHub](https://github.com/amalxloop/kirastreams)
 * [TouStream](https://toustream.movietrunk.com/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/us5-and-toustream-1157125685178007672)
@@ -102,6 +101,7 @@
 * [Youflex](https://youflex.live/) - Movies / TV / Anime
 * [StreamWatch](https://streamwatch.online/), [2](https://streamwatch.youplex.site/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)
 * [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
+* [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
 * [Pulp](https://tv.pulp.watch/) - Movies / TV / Anime
 * [Auto Embed](https://autoembed.app/), [2](https://watch-v2.autoembed.app/) - Movies / TV / Anime
 * [GaiaFlix](https://gaiaflix.live/) - Movies / TV / Anime / [Discord](https://discord.gg/XyMuMpnvF4)
@@ -421,7 +421,7 @@
 
 # ► Live TV / Sports
 
-* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (We recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
 
 ***
 
@@ -481,7 +481,7 @@
 
 ## ▷ Live Sports
 
-* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (We recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
+* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
 
 ***
 
@@ -499,10 +499,10 @@
 * ⭐ **[StreamEast](https://streameast.ga/)**, [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.net/)**, [2](https://timstreams.fit/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
+* [SportDB](https://hoofoot.ru/) - Stream Aggregator
 * [⁠StreamFree](https://streamfree.app) / [Telegram](https://t.me/streamfreeto) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [TotalSportek](https://totalsportek.events/), [2](https://streameast.games/), [3](https://sportsurge.bz/) - Stream Aggregator / [Discord](https://discord.com/invite/mdEsarNMyF)
-* [SportDB](https://hoofoot.ru/) - Stream Aggregator
 * [Superstrim](https://superstrim.pages.dev/) - Stream Aggregator
 * [DamiTV](https://damitv.live/) / [2](https://damitvsports.com/) or [90minutes](https://www.90minutes.xyz/) - Stream Aggregator
 * [DaddyLiveHD](https://daddylive.pw/), [2](https://daddylive.top/), [3](https://daddylives.nl/), [4](https://daddylive.im/) - Stream Aggregator / [Telegram](https://t.me/daddylive3) / [Discord](https://discord.gg/33yA574vvd)

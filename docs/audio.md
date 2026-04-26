@@ -407,7 +407,6 @@
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Mod](https://github.com/OrfiDev/orpheusdl-qobuz)
-* [Archive](https://rentry.co/FMHYB64#archive) - Qobuz / Tidal / Soundcloud / FLAC
 * [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3

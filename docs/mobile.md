@@ -107,7 +107,6 @@
 * [Discreet Launcher](https://falzonv.github.io/discreet-launcher/) - Minimalist / Clean Launcher / [GitHub](https://github.com/falzonv/discreet-launcher)
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher / [Telegram](https://t.me/LunarLauncher_chats)
 * [mLauncher](https://github.com/DroidWorksStudio/mLauncher) - Minimalist / Clean Launcher
-* [Focus Launcher](https://github.com/mslalith/focus_launcher) - Minimalist / Clean Launcher
 * [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher / [Telegram](https://t.me/neo_launcher)
 * [Unlauncher](https://jkuester.github.io/unlauncher/) - Distraction-Free Launcher / [GitHub](https://github.com/jkuester/unlauncher)
 * [Notcha](https://play.google.com/store/apps/details?id=com.notch.launcher) - Secondary Launcher
@@ -330,7 +329,7 @@
 * [Orangefox](https://orangefox.download/), [twrp](https://twrp.me/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [⁠Rezygisk](https://github.com/PerformanC/ReZygisk) - Zygote Injection Engine 
-* [ReLSPosed](https://github.com/ThePedroo/ReLSPosed) or [LSPosed](https://github.com/JingMatrix/LSPosed) - Module-Based Customization Framework
+* [Vector](https://github.com/JingMatrix/Vector) - Module-Based Customization Framework
 * [PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel Phone Flashing GUI
 
 ***

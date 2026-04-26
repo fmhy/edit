@@ -24,7 +24,7 @@
 
 ## ▷ Disc Utilities
 
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping
 * [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Version](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/)
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
@@ -456,7 +456,7 @@
 
 ## ▷ Effects / Enhancements
 
-* ⭐ **[Efecto](https://efecto.app/)** or [effect.app](https://effect.app/) - Online Video Effects
+* ⭐ **[Efecto](https://efecto.app/)**, [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
@@ -513,7 +513,8 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠SpriteSheep](https://spritesheep.com/
+https://discord.gg/cQBZV3FcEZ), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [⁠Wigglypaint](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings

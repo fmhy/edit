@@ -235,7 +235,7 @@
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, Mac, Linux
-* [Task Manager DeLuxe](https://www.mitec.cz/tmx.html) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
+* [Task Manager DeLuxe](https://www.mitec.cz/tmx.html), [⁠AppControl](https://www.appcontrol.com/) / [Discord](https://discord.gg/txdQZtW8AV) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor / Windows
 * [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers / Windows
 * [bottom](https://bottom.pages.dev) / [GitHub](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors / Windows, Mac, Linux

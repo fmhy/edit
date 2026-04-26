@@ -447,7 +447,7 @@
 * ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Sign-Up
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
-* ⭐ **[sms24](https://www.sms24.me/)**, [2](https://receive-sms.com/)
+* ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**
 
