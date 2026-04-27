@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus).
+* **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
 
 ***
 
@@ -45,17 +45,15 @@
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [ristoanime](https://ristoanime.com/) - Anime
 * [witanime](https://witanime.red/) - Anime
-* [animeiat](https://ww1.animeiat.tv/) - Anime
+* [Kawaii Anime](https://kawaii-anime.com/) - Anime
 * [anslayerweb](https://anslayerweb.com/) - Anime
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [Animerco](https://gat.animerco.org/) - Anime / Sub / 1080p
-* [maycima](https://maycima.com/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [anime3rb](https://anime3rb.com/) - Anime / Sub
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [Flowind](https://flowind.net/) - Cartoons
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
-* [Split TV](https://split-tv.co.il/) - Live News / Split Screen
 * [Bein4kora](https://bein4kora.com/) - Live Football
 * [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
@@ -67,7 +65,6 @@
 * [Shamela](https://shamela.ws/) - Books / Documents
 * [FoulaBook](https://foulabook.com/) - Books
 * [books-library](https://books-library.website/) - Books
-* [EbookSar](https://www.ebooksar.net/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Hindawi](https://www.hindawi.org/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
@@ -75,9 +72,11 @@
 * [3asq](https://3asq.org/) - Manga
 * [Azoramoon](https://azoramoon.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
+* [⁠Eshadow](https://www.eshadow.net/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 * [Almaany](https://www.almaany.com/) - Multilingual Dictionary
+* [⁠Archive Alsharekh](https://archive.alsharekh.org/) - Journals / Magazines 
 * [dohadictionary](https://www.dohadictionary.org/) - Historical Dictionary
 * [Mo3jam](https://ar.mo3jam.com) - Colloquial / Slang Dictionary
 
@@ -92,12 +91,12 @@
 
 ## ▷ Reading / পড়া
 
+* ⭐ **[ebanglalibrary](https://www.ebanglalibrary.com/)** - Books
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
 * [BanglaBookshelf](https://www.banglabookshelf.com/) - Fiction / Islamic / Tech Books
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [Boimate](https://boimate.com/) - Books
-* [ebanglalibrary](https://www.ebanglalibrary.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
 * [bengaliebook](https://bengaliebook.com/) - Books
 * [boierthikana](http://boierthikana.com/) - Books
@@ -107,7 +106,6 @@
 * [bookspointer](https://bookspointer.com/) - Books
 * [jyotirjagat](https://jyotirjagat.wordpress.com/) - Books
 * [⁠Banglabook](https://www.banglabook.org/) - Books
-* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books / Downloads
 * [SovietBooksinBengali](https://sovietbooksinbengali.blogspot.com/) - Soviet Books
 * [NCTB](https://nctb.portal.gov.bd/) - NCTB Textbooks of Bangladesh
 
@@ -115,7 +113,6 @@
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
 * [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
-* [emwbd](https://emwbd.shop/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
 
@@ -132,15 +129,9 @@
 
 * [YavkA](https://yavka.net/), [subsunacs](https://subsunacs.net/) or [subs.sab.bz](http://subs.sab.bz/) - Subtitles
 
-## ▷ Torrenting / Торентиране
-
-* [Zamunda](https://zamunda.net/) - Video / Audio / Books / Requires Sign-Up
-* [ArenaBG](https://arenabg.com/en/) - Movies / TV / Requires Sign-Up
-
 ## ▷ Streaming / Стрийминг
 
 * [NovaPlay](https://play.nova.bg/) - Live TV / TV / Sub / Dub / 1080p
-* [FilmiPlay](https://filmiplay.com/) - Movies / Sub / Dub / 720p
 * [Filmifen](https://filmifen.com/) - Movies / Sub / Dub
 * [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
@@ -163,14 +154,12 @@
 * [Bangumi](https://bangumi.moe/) - Anime Subtitles
 * [Tool.lu](https://tool.lu/) - Online Tools
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
-* [GameLoop](https://syzs.qq.com/) - Android Emulator
-* [Thanox](https://tornaco.github.io/Thanox-Docs/en) - Android System Manager
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
-* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
 * [CatoCR](https://catocr.com/) - Image to Text
+* [todaiinews](https://chinese.todaiinews.com/) - Language Learning
 * [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
 * [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
 * [TopHub](https://tophub.today/), [Rebang](https://rebang.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
@@ -182,9 +171,10 @@
 * [ICIBA](https://www.iciba.com/) / [Client](https://cp.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translators
 * [Hack Game](https://hack-games.com/) - Incremental Games
 * [Funn](https://fuun.fun/) - Fun Sites
-* [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
+* [V2EX](https://v2ex.com/), [CNBlogs](https://www.cnblogs.com/) or [ZongScan](https://www.zongscan.com/) - Developer / Programming Forums
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [Gitee](https://gitee.com/) - GitHub Alternative
+* [HelloGitHub](https://hellogithub.com/) - GitHub Projects
 * [hkslbrowser](http://www.cslds.org/hkslbrowser/index.jsp) - Chinese Sign Language Dictionary
 
 ## ▷ Great Firewall
@@ -194,7 +184,7 @@
 ***
 
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
-* ⭐ **[Censordex](https://censordex.fr.to/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guides
+* ⭐ **[Censorship Bypass Guide](https://cbg.fmhy.bid/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guide
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
 * [r/dumbclub](https://www.reddit.com/r/dumbclub/) - GFW Discussion
 * [gfw.report](https://gfw.report/) - GFW Information
@@ -202,11 +192,10 @@
 * [⁠GFWMass](https://github.com/eli32-vlc/gfwmass) - Proxy Deployment Tool / [Guide](https://forum.blackfox.qzz.io/posts/introduction-to-gfwmass/)
 * [Accesser](https://github.com/URenko/Accesser/) - SNI RST Solver
 * [China Firewall Test](https://www.dotcom-tools.com/china-firewall-test), [ChinaFirewallTest](http://www.chinafirewalltest.com/), [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) or [Chinese Firewall](https://viewdns.info/chinesefirewall/) - Chinese Firewall Blocking Test
-* [Apple Account Guide](https://zhuanlan.zhihu.com/p/623576755) - How-to Make Apple Account in China
-* [todaiinews](https://chinese.todaiinews.com/) - Language Learning
 
 ## ▷ Downloading / 下载
 
+* [HaiSo ⁠海搜u](https://haisou.cc/) - Video / Audio / Books
 * [AnimeNep](https://t.me/AnimeNep) - Anime
 * [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
 * [icourse163](https://www.icourse163.org/) / [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses
@@ -219,7 +208,7 @@
 
 ## ▷ Torrenting / 下载种子
 
-* [QBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
 * [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
@@ -232,7 +221,6 @@
 * [MioBT](https://www.miobt.com/) - Anime
 * [VCB-S](https://vcb-s.com/) - Anime
 * [ACGNX](https://share.acgnx.se/) - Anime
-* [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
 * [Mikan](https://mikanani.me/) - Anime
 * [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - Anime Torrent Auto Download
@@ -243,7 +231,7 @@
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
 * ⭐ **[555dy](https://577938.vip/)** - Movies / TV / Anime / NSFW / Sub / 1080p
-* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474) / [Sponsorblock](https://github.com/hanydd/BilibiliSponsorBlock) / [Enhancement Script](https://github.com/the1812/Bilibili-Evolved)
+* ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
 * [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
@@ -260,9 +248,7 @@
 * [nunuju](https://nunuju.com/) - Drama / Sub / Dub / 1080p
 * [dramaq](https://dramaq.xyz/) - Drama / Sub / Dub / 1080p
 * [duanjuhk](https://duanjuhk.com/) - Short Drama / Sub / Dub / 1080p
-* [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
 * [CC動漫](https://ccdm.cc/) - Anime / Sub / 1080p
-* [AGE Animation](https://www.agedm.org/) - Anime / Sub / 1080p
 * [xgcartoon](https://www.xgcartoon.com/) - Anime / Sub / Dub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
 * [Myself-BBS](https://myself-bbs.com/) - Anime / Sub / 1080p
@@ -288,7 +274,7 @@
 * [ixdzs](https://ixdzs8.tw/) - Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
-* [haodoo](https://haodoo.net/) - Fiction
+* [haodoo](https://haodoo.org/) - Fiction
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
@@ -316,7 +302,6 @@
 
 ## ▷ Light Novels
 
-* [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels
 * [hetushu](https://hetushu.com/) - Light-Novels
@@ -361,13 +346,17 @@
 # ► Czech / Čeština
 
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
+* [FuckCards](https://fuckcards.store/) or [NoCard](https://nocard.cz/) - Public Czech Club Cards / [Android App](https://github.com/HelloOO7/Karticky)
+* [spojenka](https://spojenka.cz/) - Public Czech Transport App
 
 ## ▷ Downloading / Stahování
 
-* [War-Forum](https://war-forum.net/) - Video / Audio / Books / Magazines / Comics / NSFW
-* [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW
-* [WebShare](https://webshare.cz/) - Video / Audio / Books
-* [hellspy](https://hellspy.to/) - Video / Geoblocked
+* ⭐ **[hellspy](https://hellspy.to/)** - Video / Geoblocked
+* [WebShare](https://webshare.cz/) - Video / Audio / Books / NSFW
+* [War-Forum](https://war-forum.net/) - Video / Audio / Books / Comics / NSFW / Requires Sign-Up
+* [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW / Requires Sign-Up
+* [FastShare.cloud](https://fastshare.cloud/) - Video / Audio / Books / NSFW
+* [Datoid](https://datoid.to/) - Video / Audio / Books / NSFW / Requires Sign-Up for 1GB+ Files
 
 ## ▷ Torrenting
 
@@ -376,19 +365,17 @@
 ## ▷ Streaming / Streamování
 
 * [Bombuj](https://bombuj.si/) - Movies / TV
+* [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/K4rDRa5WAS)
 * [Sledujteto](https://www.sledujteto.cz/) - Movies / TV / Anime / 1080p
-* [videoserialy](https://videoserialy.to/) - Movies / TV / Anime / 1080p
-* [PlayMe](https://playme.wtf/) - Movies / TV / Anime / 1080p
 * [filmbot](https://filmbot.tv/) - Movies / TV / Anime
 * [mrkni](https://mrkni.tv/) - Movies / TV / Anime
-* [mrkaj](https://mrkaj.si/) - Movies / TV / Anime / Geoblocked
-* [uzi](https://uzi.si) - Movies / TV / Anime / Geoblocked
-* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Geoblocked
+* [mrkaj](https://mrkaj.me/) - Movies / TV / Anime / Geoblocked
+* [Dupe](https://dupe.cz/) - Movies / TV / Anime / Concerts / 1080p / Geoblocked / [Discord](https://discord.com/invite/tSzJW4fBtF)
 * [svetserialu](https://svetserialu.io/) - Movies / TV / Anime / 1080p
 * [sledujfilmy](https://ww.sledujfilmy.io/) or [serialy](https://sledujserialy.io/) - Movies / TV / Anime / 1080p
 * [najserialy](https://www.najserialy.io/) - Movies / TV / Anime / 1080p
 * [Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/) - Movies / TV
-* [StarStreams](https://starstreams.pro/) - Live Football / Hockey
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Live TV Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 * [CSFD](https://www.csfd.cz/) - Czech Film Database
 
 ## ▷ Reading / Čtení
@@ -397,7 +384,7 @@
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 * [eknihovna](https://eknihovna.maxzone.eu/index.html) - Books
-* [prirucka](https://prirucka.ujc.cas.cz) or [slovnikcestiny](https://slovnikcestiny.cz/uvod.php) - Dictionaries
+* [prirucka](https://prirucka.ujc.cas.cz) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
 
 ***
@@ -406,9 +393,10 @@
 
 ## ▷ Streaming / Nanonood
 
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Some NSFW / Sub / Dub / 1080p
-* [Pinoy Movies Hub](https://pinoymovieshub.tv/) - Movies / TV / NSFW / Sub / Dub / 720p
-* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / NSFW / Sub / Dub / 720p
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Anime / Some NSFW / Sub / Dub / 1080p
+* [Pinoy Movies Hub](https://pinoymovieshub.cv/) - Movies / TV / Anime / NSFW / Sub / Dub / 720p
+* [cinema](https://cinema.com.ph) - Movies / TV / Anime / Some NSFW
+* [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies / TV / Some NSFW / Sub / Dub / 720p
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
 
 ***
@@ -438,6 +426,7 @@
 # ► French / Français
 
 * 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / Check Comments / [Subreddit](https://reddit.com/r/FrancePirate/)
+* ⭐ **[Dealabs](https://www.dealabs.com/)** - Track Deals / Freebies
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Tseret](https://tseret.com/) - Game Guides
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
@@ -446,17 +435,17 @@
 * [nuit-blanche](https://nuit-blanche.ch/) - Drug Detox Help
 * [Remonterletemps](https://remonterletemps.ign.fr) - France Geographic / Forestry Info and Maps
 * [nooSFere](https://www.noosfere.org/) - Science Fiction Media Database
-* [Deal Labs](https://www.dealabs.com/) - Track Deals
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [carto.tchoo](https://carto.tchoo.net/) - Live Train Map
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
-* [Donnons](https://donnons.org/) - Item Donation
+* [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 * [I Say LSF](https://dico.swax-lsf.fr/) - French Sign Translator
 
 ## ▷ Downloading / Téléchargement
 
 * [WawaCity](https://www.wawacity.irish/) - Movies / TV / Check [Telegram](https://t.me/Wawacityofficiel) if Domain Changes
+* [Extreme-Down](https://www.extreme-down.fit/) - Video / Audio / Books
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
@@ -466,40 +455,35 @@
 
 ## ▷ Torrenting
 
-* [YGGTorrent](https://www.yggtorrent.top/) - Video / Audio / ROMs / Books / Requires Sign-Up
-* [Torrent9](https://torrent9.to/) - Video / Audio / ROMs / Books
-* [Cpasbien](https://www1.cpasbien.to/) - Video / Audio / ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books / Requires Sign-Up
+* [⁠Torr9](https://torr9.net/) - Video / Audio / Books
 
 ## ▷ Streaming
 
-* ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[Movix](https://www.movix.blog/)** - Movies / TV / Anime
 * [Darkiworld](https://darkiworld14.com/) - Movies / TV / Anime / [Status](https://t.me/tirexo_officiel)
 * [noctaflix](https://noctaflix.lol/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime
+* [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
+* [Movix](https://movix.rodeo/), [2](https://movix.llc/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
-* [yakriv](https://yakriv.com/), [Kordoz](https://www.kordoz.com/) or [Deksov](https://deksov.com/) - Movies / TV / Anime
+* [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
-* [TF1](https://www.tf1.fr/) - Movies / TV / Anime / Live TV / Requires French VPN for Some Content
+* [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
+* [toflix](https://toflix.xyz/) - Movies / TV / Anime
 * [fs6](https://fs6.lol/) - Movies / TV / Anime
-* [flemmix](https://flemmix.mom/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
+* [flemmix](https://flemmix.irish/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Sign-Up
 * [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Requires Sign-Up
-* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Requires Sign-Up
-* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Requires Sign-Up
+* [TV5Unis](https://www.tv5unis.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Sign-Up Required
+* [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Sign-Up Required
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
-* [toonanime](https://www.toonanime.biz/) - Anime / Sub / Dub
-* [VoirAnime](https://v6.voiranime.com/) - Anime / Sub / 1080p
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [anime-kami](https://anime-kami.com/) - Anime
 * [anime-sama](https://anime-sama.tv/), [2](https://anime-sama.pw/) - Anime
-* [animesultra](https://animesultra.org/) - Anime / Sub / Dub
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://ww7.vostanime.fr/) - Anime / Sub / 1080p
@@ -508,7 +492,6 @@
 * [tvradiozap](https://tvradiozap.eu/) - Live TV
 * [DirectFR](https://directfr.sbs/) - Live TV
 * [witv](https://witv.soccer/) - Live TV
-* [oohquelbut](https://quelbut.me/) - Live Sports
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
@@ -521,7 +504,7 @@
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [litteratureaudio](https://www.litteratureaudio.com/) - Audiobooks / [Ripper](https://github.com/L-at-nnes/litteratureaudio.com-ripper)
-* [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW / [Discord](https://discord.gg/77Yz4ZgN)
+* [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / Some NSFW 
 * [Mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planete-BD](https://planete-bd.org/) - Manga / Comics
 * [SushiScan](https://sushiscan.net/) - Manga
@@ -534,15 +517,15 @@
 
 # ► German / Deutsch
 
-* ⭐ **[Tarnkappe](https://tarnkappe.info/forum/)** - Piracy Discussion / [Telegram](https://t.me/Tarnkappe_info)
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [animexx](https://www.animexx.de/) - German Anime Community
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
-* [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App 
+* [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App
+* [All About Berlin](https://allaboutberlin.com/) - Berlin Expat Guide / Relocation Tools
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
-* [Signsuisse](https://www.sgb-fss.ch/signsuisse/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries
+* [Signsuisse](https://www.sgb-fss.ch/signsuisse/), [GebaerdenLernen](https://gebaerdenlernen.de/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries / Learning
 
 ## ▷ Downloading / Herunterladen
 
@@ -575,7 +558,6 @@
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [Cine](https://cine.to/) - Movies / TV / Dub / 720p
 * [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
-* [HDFilme](https://hdfilme.food) - Movies / TV / Anime / Dub / 720p
 * [StreamCloud](https://streamcloud.my) - Movies / TV / 720p
 * [streamkiste.taxi](https://streamkiste.taxi/) - Movies / TV / Dub / 720p
 * [Einschalten](https://einschalten.in/) - Movies / Dub / 720p
@@ -583,7 +565,6 @@
 * [ardmediathek](https://www.ardmediathek.de/) - Free w/ Ads
 * [zdf](https://www.zdf.de/) - Free w/ Ads
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
-* [FireAnime](https://fireani.me/) - Anime
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons
@@ -619,11 +600,11 @@
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
-* [tenies](https://tenies.gr/) - Movies / TV / Anime / Live TV / Live Sports
+* [tenies](https://tenies.gr/) - Movies / TV / Anime
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
-* [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/), [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
+* [tainio-mania](https://tainio-mania.store), [2](https://tenies-online.best/), [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
 * [eltube](https://www.eltube.gr/) - Movies
 * [ertflix](https://www.ertflix.gr/en/) - Movies / TV
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/qPcUxRH)
@@ -660,7 +641,6 @@
 ## ▷ Downloading / הורדה
 
 * [AnimeBlood](https://animebloodsub.net/) - Anime / Download / Sub
-* [ultsub](https://ultsub.co.il/) - Anime / Sub / [Telegram](https://t.me/UltSub) / [Discord](https://discord.gg/4Bc8b2W)
 
 ## ▷ Reading / קרוא
 
@@ -695,110 +675,96 @@
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
 * [PCPriceTracker](https://pcpricetracker.in/) - PC Component Price Tracking
 * [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
+* [TalkingHands](https://talkinghands.co.in/) - Indian Sign Language Dictionary / Learning
 * [IndianSignLanguage](https://indiansignlanguage.org/) - Indian Technical Sign Language Dictionary
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://vegamovies.gripe/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://vegamovies.vodka/)**, [2](https://moviesflix.ad/) - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[⁠The One Piece](https://m.flixindia.xyz/)** - Movie / TV / Anime / [Telegram](https://telegram.me/TheOnePieceUpdates)
-* ⭐ **[HDHub4u](https://hdhub4u.gd/)** - Movies / TV / 1080p
-* ⭐ **[⁠XDMovies](https://xdmovies.site/)** - Movies / TV / 1080p / 4K
-* ⭐ **[MoviesMod](https://modlist.in/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[HDHub4u](https://hdhub4u.hn/)** - Movies / TV / 1080p
+* ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / 1080p / [Discord](https://discord.com/invite/Py5KKx28Bx)
+* ⭐ **[MoviesMod](https://moviesmod.blue/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/zxFrtqBHHx)
+* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
-* ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
-* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
-* [Bollyflix](https://bollyflix.vet/) - Movies / TV / Anime
+* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
+* [Bollyflix](https://bollyflix.frl/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
+* [BollyMod](https://bolly-mod.christmas/) or [MoviesKai](https://movieskai.top/) - Movies / TV / Sub / Dub / 1080p
+* [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
-* [MkvMoviesPoint](https://mkvmoviespoint.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.me/mkvpoint1)
-* [MKV Mad](https://mkvmad.com/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
-* [PrivateMovieZ](https://privatemoviez.art/) - Movies / TV / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
-* [MoviesDrive](https://moviesdrive.forum/) - Movies / TV / Anime / [Status](https://moviesdrives.cv/), [2](https://moviedrive.org/) / [Telegram](https://t.me/moviesdrivee)
+* [MoviesDrive](https://new1.moviesdrives.my/) - Movies / TV / Anime / [Status](https://moviesdrives.cv/), [2](https://moviedrive.org/) / [Telegram](https://t.me/moviesdrivee)
 * [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
-* [FiberMovies](https://fibermovies.beer/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
-* [OlaMovies](https://new1.olamovies.onl/) - Movies / TV / Sub / Dub / 1080p / 4K / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [Fojik](https://fojik.site/) - Movies
-* [MoviesFD](https://moviesfd.vip/) - Movies / Sub / Dub / 1080p
+* [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
-* [MKVHub](https://www.mkvhub.hair/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/+lTty7fOB6I4yM2M5)
-* [MoviesNation](https://moviesnation.party/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+O88huh3QZ2k2Yjc9)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 * [KatDrama](https://katdrama.com/) - Korean Drama
-* [AnimeAcademy](https://animeacademy.in/) - Anime / Sub / Dub / 1080p
-* [AnimeSalt](https://animesalt.top/) - Anime / Sub / Dub / 1080p
 * [Anime Dub Hindi](https://www.animedubhindi.me/) - Anime / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
-* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Telegram Chat
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
-* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Audio
+* [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Music
+* [DJPunjab](https://djpunjab.is/) - Punjabi / Music
+* [Isaimini](https://isaimini.com.co/) - Movies Music
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.gd/)** - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[HydraHD](https://hydrahd.com/)** - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
-* ⭐ **[RgShows](https://www.rgshows.ru/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
-* ⭐ **[ToonStream](https://toonstream.world/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
-* ⭐ **[⁠Animelok](https://animelok.to/)** - Anime / Cartoons / 1080p / Auto-Next / [Telegram](https://t.me/animerulz_xyz)
-* ⭐ **[Anime World India](https://watchanimeworld.in/)**, [2](https://animesalt.top/) - Anime
-* ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
-* [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Languages
+* ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime / [Mirrors](https://piratexplay.com/)
+* ⭐ **[ToonStream](https://toonstream.one/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
+* ⭐ **[⁠Animelok](https://animelok.xyz/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
+* ⭐ **[Anime World India](https://watchanimeworld.net/)**, [2](https://animesalt.top/) - Anime
+* ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
+* [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [saicord](https://saicord.com/hi/) - Movies / TV 
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
-* [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p / 1080p
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
-* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p / 1080p
-* [tamilbulb](https://tamilbulb.world/) - Tamil Movie / TV
-* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 720p / 1080p
-* [MiniTV](https://www.amazon.in/minitv) - Movies / TV / Sub / 1080p
-* [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
-* [Fixer](https://fixer.buzz/) - Movies / TV / Anime
-* [rtally](https://www.rtally.xyz/) - Movies / TV / Anime
-* [HDMovie1](https://hdmovie1.free.nf/) - Movies / TV / Dub / 1080p / 4K
-* [moviesflix](https://moviesflix.com.pl/) - Movies / Dub / 1080p
+* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 1080p / 720p
+* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
+* [Cineby](https://www.cineby.gd/) - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
+* [RgShows](https://www.rgshows.ru/) - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.ru/guide.html) / [Discord](https://discord.com/invite/K4RFYFspG4)
+* [HydraHD](https://hydrahd.com/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [Kartoons](https://kartoons.fun/) - Anime / Cartoons
-* [⁠AnimeDekho](https://animedekho.in/home) - Anime / Cartoons
-* [Aniflix](https://aniflix.uno/) - Anime
+* [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)
+* [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
+* [desidubanime](https://www.desidubanime.me/) - Anime
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Desi Serials](https://www.desi-serials.to/) - TV
-* [desitv](https://watch.desitv.ru/) - TV
+* [desitv](https://www.desitv.to/) - TV
 * [DistroTV](https://distro.tv/) - Live TV
 * [crickmail](https://crickmail.pages.dev/channel-13) - Live Cricket
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV / Android App
-* [MovieBox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
 * [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [hungama](https://www.hungama.com/music/) - Music
-* [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
+* [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Music
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
 
 ## ▷ Reading
 
-* [SuccessCDs](https://www.successcds.net/) - CBSE Study Guides
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [⁠Bankelal Comics Lite](https://play.google.com/store/apps/details?id=com.comicslover.bankelalcomics) - Classic Comics App / Use Adblocker
 * [NDLI](https://ndl.iitkgp.ac.in/) - Educational Resources / Documents
 * [Sanskrit Documents](https://sanskritdocuments.org), [sanskritsahitya](https://sanskritsahitya.org/) or [gitasupersite](https://www.gitasupersite.iitk.ac.in/) - Esoteric Texts
 * [Hindwi](https://hindwi.org/) - Hindi Poems
+* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Jainism Texts
 
 ***
 
@@ -811,6 +777,7 @@
 * ⭐ **[Lendrive](https://lendrive.web.id/)** - Movies / Anime / Sub / Dub / 1080p / x265
 * [sontolfilm](https://sontolmovie.xyz) - Movies / TV / Anime
 * [ngefilm21](https://new16.ngefilm.site/) - Movies / TV / Anime
+* [lk21official](https://tv6.lk21official.cc/) - Movies / TV / Anime / Region Locked
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
@@ -827,15 +794,16 @@
 * [idlixku](https://idlix.net/) - Movies / TV
 * [klikxxi](https://klikxxi.art/), [2](https://www.klikxxi.com/) - Movies / TV
 * [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
-* [Anoboye](https://anoboye.com/) - Anime / Sub
+* [Anoboye](https://anoboye.com/) - Anime / Donghua / Sub
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 
 ## ▷ Reading / Membaca
 
 * [Komiku](https://komiku.id/) - Manga
-* [Komikcast](https://komikcast02.com/) - Manga
+* [Komikcast](https://komikcast.com) - Manga
 * [maid.my](https://www.maid.my.id/) - Manga
+* [softkomik](https://softkomik.com/) - Manga
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
 * [meionovels](https://meionovels.com/) - Light Novels
@@ -853,7 +821,6 @@
 ## ▷ Downloading / Scaricare
 
 * [OverDay](https://overday.org/) - Courses / Books / [Mirrors](https://justpaste.it/OVERPOSTING) / [2](https://filecrypt.co/Container/B25EED8329.html) / [Telegram](https://t.me/Overposting1)
-* [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
 * [Ipersphera](https://www.ipersphera.com/) - Movies / TV / Sub
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
@@ -866,19 +833,18 @@
 ## ▷ Streaming
 
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
-* [StreamingCommunity](https://streamingcommunityz.me/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
+* [StreamingCommunity](https://streamingcommunityz.ninja/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [Altadefinizione](https://altadefinizione.ist/) - Movies / Dub / 1080p / [Status](https://telegra.ph/Link-Aggiornato-Altadefinizione-08-07) / [Telegram](https://t.me/+x_9jyFBbYBpkYTRi)
-* [CB01](https://cb01net.site/), [2](https://cb01.uno) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
+* [CB01](https://cb01uno.world/) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
 * [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Requires Italian VPN / Sign-Up Unlocks Channel History
+* [AniDream](https://anidream.cc/) - Anime / Cartoons / Sub / Dub / 1080p / [Telegram](https://t.me/anidreamindex)
 * [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animeworlditalia.com/) / [Telegram](https://t.me/AnimeWorldITA2)
 * [AnimeSaturn](https://www.animesaturn.cx/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animesaturn.me/) / [Telegram](https://t.me/AnimeSaturnRedirect)
 * [AnimeUnity](https://www.animeunity.so/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/animeunitytv)
-* [AniDream](https://anidream.cc/) - Anime / Cartoons / Sub / Dub / 1080p / [Telegram](https://t.me/anidreamindex)
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
-* [hattrick](https://hattrick.ws/) - Live Football
 * [tream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
@@ -886,7 +852,7 @@
 ## ▷ Reading / Leggere
 
 * [LiberLiber](https://liberliber.it/opere/libri/) - Books
-* [MangaWorld](https://www.mangaworld.cx/) - Manga / [Telegram](https://t.me/MangaWorldITA)
+* [MangaWorld](https://www.mangaworld.mx/) - Manga / [Telegram](https://t.me/MangaWorldITA)
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 * [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
@@ -903,7 +869,7 @@
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [fuseji](http://fuseji.net/) - Hidden Character Search
-* [goo](https://www.goo.ne.jp/) or [Yahoo Japan](https://search.yahoo.co.jp/) - Search
+* [Yahoo Japan](https://search.yahoo.co.jp/) - Search
 * [megalodon](https://megalodon.jp/) or [gyo.tc](https://gyo.tc/) - JP Web Archive Tool
 * [Pixiv Guides](https://www.pixiv.net/howto) / [Ideas](https://www.pixiv.net/idea/) - Drawing Guides / Inspiration
 * [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/) / [X](https://x.com/mangamaterials2), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Pixiv](https://www.pixiv.net/en/users/16776564)
@@ -912,7 +878,6 @@
 
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** - Japanese Media / [Discord](https://discord.gg/nhqjydaR8j)
 * [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Comics / NSFW / 1080p
-* [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [JPop Singles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [Doujin Cafe (Discord)](https://discord.gg/doujincafe) - Music / MP3 / FLAC
 * [Doujin Music](https://rentry.co/FMHYB64#doujin-music) - Music / MP3
@@ -954,11 +919,9 @@
 * [A-zmanga](https://www.a-zmanga.net/) - Manga
 * [AsianMediaBlog Manga](https://asiamediablog.com/media/comic/manga/) - Manga
 * [Comic77.com](https://comic77.com/) - Manga
-* [mangagoku](https://mangagoku.com/) - Manga
 * [Comics888](https://comics888.com/) - Manga
 * [KLManga](https://klz9.com/) - Manga
 * [mangafree](https://mangafree.me/) - Manga
-* [jmanga](https://jmanga.se/) - Manga
 * [rawfree](https://rawfree.to/) - Manga
 * [rawkuma](https://rawkuma.net/) - Manga
 * [raw1001](https://raw1001.net/) - Manga
@@ -995,7 +958,7 @@
 ## ▷ Downloading
 
 * [CinEast](https://cineaste.co.kr/) - Movies / TV / Sub / 1080p
-* [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
+* [K-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
 * [ilKPOP](https://ilkpop.in/) - Music / MP3
 
@@ -1023,28 +986,22 @@
 # ► Persian / فارسی
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
-* 🌐 **[Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel)** - AI Telegram Channels / Groups Index
 * 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
+* [⁠FilterWatch](https://filter.watch/) - Censorship News / Articles
 * [parseek](https://www.parseek.com/) - Search
 
 ## ▷ Downloading / دانلود
 
 * 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
 * [git_ir](https://t.me/git_ir) - Programming Courses
-* [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
-* [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
 * [DigiMovie](https://digimoviez.com/) - Movies / TV / Sub / Dub / 1080p
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
 * [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
-* [GolsarMusic](https://golsarmusic.ir/) - Music / MP3
-* [Download1Music](https://download1music.ir/) - Music / MP3
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
-* [Pixinema](https://www.pixinema.ir/) - Soundtracks
-* [farsroid](https://www.farsroid.com/) - APKs
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
 * [hoseinwave](https://rj.hoseinwave.ir/) - Javen Radio Downloader
@@ -1055,10 +1012,8 @@
 * [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
 * [imvbox](https://www.imvbox.com/) - Movies / TV / Sub
 * [hikoca](https://hikoca.co.uk/) - Movies / TV
-* [Anten.ir](https://www.anten.ir/) - Live TV / Sports
 * [ParsaTV](https://www.parsatv.com/) - Live TV
 * [Split TV](https://split-tv.co.il/) - Live News / Split Screen
-* [MusicGeek](https://musicgeek.ir/) - Music
 * [Awesome Persian Podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
 
 ## ▷ Reading / خواندن
@@ -1069,9 +1024,10 @@
 
 # ► Polish / Polski
 
+* [Poland.gg]( https://poland.gg/) - Data & Statistics
+* [JakDojade](https://jakdojade.pl/) - Public Transport Map
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
-* [JakDojade](https://jakdojade.pl/) - Public Transport Map
 * [AnimeSub.info](http://animesub.info/) - Anime Subtitles
 
 ## ▷ Downloading / Pobieranie
@@ -1082,45 +1038,49 @@
 
 ## ▷ Torrenting / Torrentowanie
 
+* ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [polskie-torrenty](https://helltorrents.com/index.php) - Video / Audio / Books / NSFW
 * [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Books / NSFW
 * [Electro Torrent](https://electro-torrent.pl/) - Video / Audio / Books
 
 ## ▷ Streaming
 
-* ⭐ **[Kreskowki24](https://kreskowki24.top/)** - Movies / Cartoons / [Discord](https://discord.gg/SB5bdaRNfb)
+* 🌐 **[Polish Kodi Addons](https://github.com/mtr81/kodi_addons)**
+* 🌐 **[FilmWeb](https://www.filmweb.pl/vod/free)** - Free w/ Ads Service Index
 * ⭐ **[Obejrzyj](https://www.obejrzyj.to/)** - Movies / TV
 * ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.com/invite/XJTq5Ez5Kv)
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [Virpe](https://virpe.cc/) - Movies / TV
+* [Vestroiakr](https://vestroiakr.blogspot.com/) - Movies / TV / Anime
 * [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
-* [Zaluknij](https://zaluknij.cc/) - Movies / TV
-* [wizja](https://wizja.cc/) - Movies / TV
+* [Zaluknij](https://zaluknij.cc/) - Movies / TV / Anime
+* [wizja](https://wizja.cc/) - Movies / TV / Anime
 * [ninateka](https://ninateka.pl/) - Movies
 * [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
-* [Ekino-TV](https://ekino-tv.pl/), [3](https://ekino.sx/), [4](https://ekino.ws/) - Movies / TV / Sub / 720p
-* [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
+* [Ekino-TV](https://ekino-tv.pl/), [2](https://ekino.sx/), [3](https://ekino.ws/) - Movies / TV / Sub / 720p
 * [KreskówkaSubs](https://kreskowkasubs.blogspot.com/) - Cartoons / Sub / Dub
 * [Filman](https://filman.cc/) - Movies / TV
 * [centrum-dramy](https://centrum-dramy.pl/) - Asian Drama
-* [FilmWeb](https://www.filmweb.pl/vod/free) - Free w/ Ads
 * [Rakuten](https://www.rakuten.tv/pl/gardens/avod-fast) - Free w/ Ads
-* [sweet.tv](https://sweet.tv/pl/free_tv) - Free w/ Ads
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 * [vod.tvp](https://vod.tvp.pl/) - Free w/ Ads
 * [Pilot](https://pilot.wp.pl/) - Free w/ Ads
+* [megogo](https://megogo.net/) - Free w/ Ads
 * [player.pl](https://player.pl/) - Free w/ Ads
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
-* [docchi](https://docchi.pl/) - Anime / Sub / 1080p
+* [docchi](https://docchi.pl/) - Anime / Sub / 1080p / [Kodi Addon](https://github.com/skoruppa/plugin.video.docchipl)
 * [animedesu](https://animedesu.pl/) - Anime
 * [FrixySubs](https://frixysubs.pl/) - Anime / Sub / 1080p
-* [Fumetsu](https://fumetsu.pl/) - Anime / Sub / 1080p
 * [Nana Subs](https://nanasubs.com/) - Anime / Sub / 1080p
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
 * [Desu-Online](https://desu-online.pl/) - Anime / Sub / 1080p
 * [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
+* [35mm](https://35mm.online/) - Film Archive / [Database](https://filmpolski.pl/fp/index.php)
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
-* [Naikamu](https://naikamu.com/) - Anime Streaming / Android
+* [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
+* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
+* [Naikamu](https://naikamu.com/) - Anime Streaming App / Android, iOS / [GitHub](https://github.com/FezMLG/Naikamu)
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
@@ -1128,14 +1088,14 @@
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
-* [doci PL](https://doci.pl/) - Books
-* [Docer PL](https://docer.pl/) - Books
+* [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader) / [Firefox Extension](https://addons.mozilla.org/firefox/addon/docer-downloader/)
+* [Shinden](https://shinden.pl/) - Manga / [Discord](https://discord.gg/xyH5uS6)
 
 ***
 
 # ► Portuguese / Português
 
-* **Note** - Brazil is known for blocking many sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
+* **Note** - Brazil is known for blocking some piracy sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
 
 ***
 
@@ -1156,40 +1116,31 @@
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * ⭐ **[Curso_vip](https://t.me/Curso_vip)** - Courses / Books
-* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
+* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Some NSFW / Sub / Dub / 1080p
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
 
 ## ▷ Torrenting
 
-* 🌐 **[Trackers.md](https://pirataria.link/trackers#🔰-➜-trackers-brasileiros)** - Private Tracker Index
+* 🌐 **[Trackers.md](https://pirataria.link/trackers)** - Private Tracker Index
 * [Download Cult](http://downloadcult.org) - Classic Movies
-* [Dark Animes](https://darkmahou.org) - Anime
-* [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
 * [Sua Música](https://www.suamusica.com.br) - Audio / MP3
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, [Curso em Vídeo](https://www.cursoemvideo.com), [iEstudar Cursos](https://iestudar.com) or [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
-* [tugaflix](https://tugaflix.best) - Movies / TV / Sub / 1080p
-* [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
+* [Cineby](https://www.cineby.sc/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [goyabu](https://goyabu.to/) - Anime / Sub
-* [NewZect](https://newzect.com) - Asian Drama / Sub / 720p
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
 * [Olhos na TV](https://www.olhosnatv.com.br) - Live TV / Sports
 * [CXTv](https://www.cxtv.com.br) - Live TV
 * [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
-* [embedtv](https://embedtv.digital/) - Live TV
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
-* [piratetv](https://piratetv.pro/) - Live TV
-* [pirilampo](https://www.pirilampo.tv/) - Live TV
-* [Futebol Agora](https://futebolagora.gratis/) - Live Sports
 * [Kultivi](https://app.kultivi.com) - Courses
 * [Prime Cursos](https://www.primecursos.com.br) - Courses
 * [UNIASSELVI](https://portal.uniasselvi.com.br/cursolivre) - Courses
@@ -1205,7 +1156,6 @@
 * [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 * [DIO](https://www.dio.me) - Development Courses
 * [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
-* [Harpa Cristã](https://harpacrista.org), [2](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
 * [Rádio J-Hero](https://radiojhero.com) - Radio
 * [Radios.com.br](https://www.radios.com.br) - Radio
 * [Radiosaovivo.net](https://radiosaovivo.net) - Radio
@@ -1221,13 +1171,10 @@
 * [Rádios7](http://www.radios7.com) - Radio
 * [Antena 1](https://www.antena1.com.br) - Radio
 * [CXRadio](https://www.cxradio.com.br) - Radio
-* [Flow Podcast](https://nv99.com.br/flow) - Political Podcast
-* [cinematório](https://www.cinematorio.com.br) - Movie Podcasts
-* [RapaduraCast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Movie Podcasts
+* [Harpa Cristã](https://harpacrista.org), [2](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
 * [Omelete Originals](https://originals.omelete.com.br) - Podcasts
 * [Papo de Gordo](https://www.papodegordo.com.br/category/podcast/) - Podcasts
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
-* [Tastemade](https://www.tastemade.com.br) - Recipe Videos
 
 ## ▷ Reading / Leitura
 
@@ -1246,7 +1193,6 @@
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
 * [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 * [Novel Mania](https://novelmania.com.br) - Light Novels
-* [HunterComics](https://hunterscomics.com/) - Manga
 * [Central Novel](https://centralnovel.com) - Light Novels
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
 * [fanfiction.com](https://fanfiction.com.br/) - Fanfiction
@@ -1276,6 +1222,8 @@
 
 # ► Romanian / Limba Română
 
+* [arhivabac](https://www.arhivabac.com/) or [pro-matematica](https://www.pro-matematica.ro/) - Romanian Exam Prep
+
 ## ▷ Downloading
 
 * [xCinema.ro](https://www.xcinema.ro/) - Movies / TV / Sub / 720p
@@ -1286,7 +1234,6 @@
 
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV / Sub / 720p
 * [Deseneledublate](https://deseneledublate.com/) - Movies / TV / Sub / 720p
-* [portalultautv](https://portalultautv.biz/) - Movies / TV / Sub
 * [fsonline](https://www3.fsonline.app/) - Movies / TV / Sub
 * [desenefaine](https://desenefaine.com/) - Movies / TV / Sub
 * [xfilme](https://xfilme.ro/) - Movies
@@ -1307,41 +1254,26 @@
 
 # ► Russian / Русский
 
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_org_Bot](https://t.me/rks_org_bot), [ru_tech_talk](https://t.me/ru_tech_talk) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
 * [subtitry](https://subtitry.ru/) or [DXP](https://dxp.ru/) - Subtitles
-* [RKN Dump Check](https://t.me/u2ckbot) - Censorship Check
-* [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
-* [Kribrum](https://kribrum.io/search) - Social Media Search Engine
-* [tgstat](https://tgstat.ru/) - Telegram Channel Stats
-* [EDA](https://eda.ru/) - Recipes
-* [Songs Pro](https://songspro.pro/) - Lyrics
+* [TGStat](https://tgstat.ru/) - Telegram Channel Stats
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
-* [Ok.ru](https://ok.ru/), [VK](https://vk.com/), [MyMail](https://my.mail.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
-* [GitFlic](https://gitflic.ru/) - GitHub Alternative
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
-* [RG.RU](https://rg.ru/) - News / [Telegram](https://t.me/rgrunews)
-* [Kremlin News](https://t.me/news_kremlin) - Government News
-* [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) - Government Procurement Watch
-* [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
-* [World Art](http://www.world-art.ru/) - Movies / Anime / Game Reviews and Art Display
-* [Cute Chan](https://kpop.re/) - K-Pop Imageboard
+
+## ▷ Russian Anti-Censorship
+
+* ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
+* [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
+* [⁠EtoNeYa](https://tseya.a9fm.site/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
+* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) / Android
-* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
-* [2BakSa](http://2baksa.ws/) - Video / Audio / Books
-* [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
-* [z3.fm](https://z3.fm/) - Music / MP3
 * [tancpol](https://tancpol.net/) - Music / MP3
-* [MDCORE](https://vk.com/mdcore) - Metal / MP3
-* [MDROCK](https://vk.com/mdrock) - Rock / MP3
-* [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
 
 ## ▷ Torrenting / Торрентинг
@@ -1353,12 +1285,10 @@
 * [krasfs](https://krasfs.ru/) or [torrent.by](https://torrent.by/) - Torrent Search
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
 * [PiratBit](https://pb.wtf/), [2](https://piratbit.top/) - Video / Audio / Books / Comics / Magazines / NSFW
-* [Riper.AM](https://riperam.org/) - Video / Audio / Books / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
-* [Utor.pp](http://utor.pp.ua/) - Video / Audio / Books / ROMs
 * [Spaider](https://spaider.net/) - Video / Audio / ROMs
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [androidkino](https://androidkino.net/) - Movies / TV
@@ -1374,27 +1304,24 @@
 ## ▷ Streaming / Стриминг
 
 * ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
-* ⭐ **[reyohoho](https://reyohoho.github.io/reyohoho/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * ⭐ **[yummyani](https://site.yummyani.me/)** - Anime / Sub / 1080p
-* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
+* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.pro/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
 * [IVI](https://www.ivi.tv/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
-* [DostFilms](https://dostfilms.site/) - Movies / TV / Anime / Dub / 1080p
 * [kinogoo](https://hd.kinogoo.cc/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [filmix](https://filmix.my/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub
-* [staroetv](https://staroetv.su/) - Retro Russian Streaming
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [animang](https://animang.one/) - Anime / Dub / 1080p
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
+* [anilib](https://anilib.me/), [2](https://v3.animelib.org) - Anime / Dub / 1080p
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [AniLibria](https://anilibria.top/) - Anime / Sub / 1080p
-* [animego](https://animego.me/) - Anime / Sub / 1080p
 * [Animebuff](https://animebuff.ru/) - Anime / Sub / 1080p
 * [Animestars](https://animestars.org/) - Anime / Sub / 1080p
 * [Anidub](https://anidub.pro/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/anidubofficial) / [Discord](https://discord.com/invite/QF6Kn99tsu)
@@ -1405,10 +1332,10 @@
 * [RUkino](https://rukino.org/) - Russian Movies / TV / 1080p
 * [CCCP Film](https://cccp-film.ru/) - Soviet Movies / TV
 * [Soviet Movies Online](https://sovietmoviesonline.com/) - Soviet Movies / Sub
-* [VseDoramy](https://vsedoramy.net/) - Asian Drama / Dub / 720p
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [liveam](http://liveam.tv/) - TV
 * [mult-fan](https://mult-fan.tv/) - Cartoons
+* [Ok.ru](https://ok.ru/), [VK](https://vk.com/) - Russian Video Sharing Sites
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
 * [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.tv/) - Turkish TV w/ Russian Subs
 * [TVRF](https://tvrf.online/) - Live TV
@@ -1424,11 +1351,8 @@
 * [DomaTV](http://live.domatv.net/) - Live TV
 * [finttv](https://finttv.in/) - Live Sports
 * [Anixart](https://anixart-app.com/) - Anime / Android App
-* [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:\\music\\](https://vk.com/e_music) - Music
-* [mp3-gorilla](https://mp3-gorilla.ru/) - Music
-* [MDCORE](https://vk.com/mdcore) - Metal
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
 * [recradio](https://t.me/recradio) - Radio
@@ -1444,7 +1368,6 @@
 * [Knowledge Base](https://dontaz.github.io/), [2](https://dontaz.pages.dev/), [3](https://dontaz.vercel.app/) - Educational Recommendations
 * [VK Book DL Pages](https://redd.it/kne0ba)
 * [Twirpx](https://www.twirpx.com/) - Books / Educational
-* [studmed](https://www.studmed.ru/) - Books / Educational
 * [alleng](https://www.alleng.org/) - Textbooks
 * [11klasov](https://go.11klasov.net/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
@@ -1465,7 +1388,6 @@
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
 * [mangalib.me](https://mangalib.me/) - Manga
-* [Com-X Life](https://comx.life/mm) - Manga
 * [MangaPoisk](https://mangapoisk.me/) - Manga
 * [Manga Club](https://mangaclub.ru/) - Manga
 * [remanga](https://remanga.org/) - Manga
@@ -1490,6 +1412,7 @@
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
 * [Bombuj](https://bombuj.si/) - Movies / TV
 * [uzi.si](https://uzi.si) - Movies / TV / Anime / VPN May Be Needed
+* [sweet.tv](https://sweet.tv/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 * [MojeVideo](https://www.mojevideo.sk/), [2](https://m.mojevideo.sk/) - User Videos
 
 ## ▷ Torrenting
@@ -1525,10 +1448,9 @@
 * [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
-* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 1080p / 4K / Latino
-* [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 1080p / 4K / Latino
+* [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino
+* [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 4K / 1080p / Latino
 * [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino
-* [Mega-Mkv](https://wwv.peliculastoday.net/) - Movies / TV / 1080p / Latino / Castilian
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Castilian / Latino / Requires Waitlist / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
@@ -1554,11 +1476,15 @@
 * [Daemon Anime](https://www.daemonanime.net/) - Anime / Sub / Dub / Latino
 * [MandraAnime](https://mandranime.com/) - Anime / Sub
 * [Animegafirex](https://www.animegafirex.com/) - Anime / Sub
+* [japanpaw](https://japanpaw.com/) - Anime
+* [ivanime](https://www.ivanime.com/) - Anime / [Discord](https://discord.gg/PTbSKQbBJc)
+* [DW Anime](https://dw-anime.net/) - Anime
+* [AZ Anime](https://www.az-animex.com/) - Anime
+* [sphinxanime](https://sphinxanime.com/) - Anime
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels
-* [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD) - Anime / Telegram
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 * [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
 * [Hello-Python](https://github.com/mouredev/Hello-Python) or [python-web](https://github.com/mouredev/python-web) - Python Courses
@@ -1584,37 +1510,31 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.gd/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino / [Discord](https://discord.gg/BRKCXEe)
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Requires Sign-Up / Castilian / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
-* ⭐ **[Playdede](https://privacidad.me/@playdede)**, [2](https://entrarplaydede.com/) - Movies / TV / Anime / 1080p / Requires Sign-Up / [Telegram](https://t.me/playdedelink)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [ModoCine](https://modocine.com/) - Movies / TV
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
-* [poseidonhd2](https://www.poseidonhd2.co/) - Movies / TV
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
-* [repelisplus](https://repelisplus.today/) - Movies / TV
 * [La Movie](https://la.movie/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [cineplus](https://www.cineplus.lat) - Movies / TV
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+* [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
 * [tele-libre](https://tele-libre.fans/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
-* [futbollibrehd](https://futbollibrehd.cl/) - Live Sports
-* [la12hd](https://la12hd.com/) - Live Sports
+* [la14hd](https://la14hd.com/) - Live Sports
 * [Streamtpmedia](https://streamtpmedia.com/) - Live Sports
-* [AceStream Links](https://rentry.co/FMHYB64#acestream) - Live Sports Acestream IDs
+* [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
+* [librefutboltv](https://futbollibre.gg/) - Live Football
 * [Listas-IPTV](https://rentry.co/fmhyb64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
-* [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [Cuevana3.biz](https://cuevana.biz/) - Movies / TV / Latino
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 * [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
-* [oscar220374](https://oscar220374.com/) - Movies / TV / Castilian
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
-* [TuCineClasico](https://online.tucineclasico.es/) - Movies
 * [Gnula.se](https://gnula.se/) - TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
@@ -1629,7 +1549,7 @@
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / LATAM Only
-* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
+* [AtresPlayer](https://www.atresplayer.com/) - Live TV / Movies / TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
 * [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
@@ -1643,14 +1563,12 @@
 * [TioAnime](https://tioanime.com/) - Anime / Sub
 * [jkanimeflv](https://jkanimeflv.com/) - Anime / Sub
 * [animeav1](https://animeav1.com/) - Anime
-* [HenaoJara](https://henaojara.com/) - Anime / Sub
+* [Animejara](https://animejara.com/) - Anime / Sub
 * [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub
 * [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
 * [estrenosanime](https://estrenosanime.net/) - Anime
 * [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub
 * [ytanime](https://ytanime.tv/) - Anime / Sub
-* [AnimeID](https://www.animeid.tv/) - Anime / Sub
-* [animeyt](https://animeytx.net/) - Anime / Sub
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
@@ -1660,7 +1578,7 @@
 ## ▷ Reading / Leer
 
 * ⭐ **[EpubLibre](https://www.epublibre.org/)** - Books / Torrents / May Require VPN
-* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
+* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [LectuEpub](https://lectuepub4.com/) - Books
@@ -1724,7 +1642,6 @@
 
 # ► Turkish / Türkçe
 
-* ⭐ **[Universal Blocklist](https://github.com/berkaygediz/universal-blocklist)** - Get rid of low-quality Turkish results
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
@@ -1738,26 +1655,34 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.ws/)** - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
+* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[Yabancıdizi](https://yabancidizi.so/)** - Movies / TV / Sub / Dub / 1080p 
+* ⭐ **[OpenAnime](https://openani.me/)** - Anime
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
-* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - TV / Sub / Dub / Anime / 1080p / 2K / 4K / Movies / TV / Documentaries
 * [Izlelan](https://izlelan.vercel.app/) - Movies / TV / Anime
 * [Dizipal](https://dizipal1532.com/), [2](https://dizipalx61.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.to/) - Movies / TV / Sub / Dub / 1080p
+* [canlidizi14](https://www.canlidizi14.com/) - Movies / TV / Anime
+* [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime
+* [diziyo](https://diziyo.sh/) - Movies / TV / Anime
+* [FullHdFilmizle](https://www.fullhdfilmizle.mom/) - Movies / 1080p
+* [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
+* [webteizle3](https://webteizle3.xyz/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
-* [Jet Film izle](https://jetfilmizle.website/) or [4kFilmizlesene](https://www.4kfilmizlesene.org/) - Movies / Requires VPN
+* [Jet Film izle](https://jetfilmizle.website/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
+* [webdramaturkey2](https://webdramaturkey2.com/) - Asian Drama
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
-* [OpenAnime](https://openani.me/) - Anime
 * [AnimeciX](https://anm.cx/) - Anime
-* [SeiCode](https://seicode.net/) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
+* [cizgimax](https://cizgimax.online/) - Cartoons
+* [belgeselx](https://belgeselx.com/) - Documentaries
 * [Canlı TV](https://www.canlitv.me/) - Live TV / Requires VPN
 * [Kral Bozguncu](https://discord.gg/kral) - Talk and watch football.
 
@@ -1769,7 +1694,7 @@
 * [⁠Hattusa](https://hattusa.club/) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Mavi Manga](https://mavimanga.com/) - Manga
-* [sadscans](https://sadscans.net/) - Manga
+* [sadscans](https://sadscans.net/) - Manga / [Discord](https://discord.gg/wrr9A6wHGu)
 * [Trwebtoon](https://trwebtoon.com/) - Manga
 * [Nirvana Manga](https://nirvanamanga.com/) - Manga
 * [Tortuga-ceviri](https://tortugaceviri.com/) - Manga / [Discord](https://discord.gg/bSxwMNM9mm)
@@ -1798,6 +1723,7 @@
 * [UAKino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
 * [UASerials](https://uaserials.pro/) - Movies / TV / Anime
 * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
+* [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
 
 ***
 
@@ -1823,18 +1749,13 @@
 * ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/), [TECHRUM.VN](https://www.techrum.vn/) or [WhiteHat.vn](https://whitehat.vn/) - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/)** - Vietnamese Keyboard / [Source Code](https://sourceforge.net/projects/unikey/)
-* ⭐ **[Baomoi](https://baomoi.com/)** - News Aggregator / [Android](https://play.google.com/store/apps/details?id=com.epi) / [iOS](https://apps.apple.com/app/báo-mới-đọc-báo-tin-mới-24h/id651979466)
+* ⭐ **[Báo Mới](https://baomoi.com/)** - News Aggregator / [Android](https://play.google.com/store/apps/details?id=com.epi) / [iOS](https://apps.apple.com/app/báo-mới-đọc-báo-tin-mới-24h/id651979466)
 * ⭐ **[HocMai Forum](https://diendan.hocmai.vn/)** - Study Forum
 * [hostsVN](https://github.com/bigdargon/hostsVN/wiki) - Adblocking Guides
 * [Quantrimang](https://quantrimang.com/) or [Anonyviet](https://anonyviet.com/) - Tech News
-* [Phudeviet](http://phudeviet.org/) - Subtitles
 * [Forumvi](https://www.forumvi.com/) - Forum Creator
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
-
-## ▷ Downloading / Tải xuống
-
-* [NhạcHayVN](https://nhachayvn.net/) - Music
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
@@ -1842,7 +1763,6 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* ⭐ **[rophim](https://www.rophim.li/phimhay)** - Movies / TV / Anime / Watch Parties / Sub / Dub / 1080p / [Telegram](https://t.me/congdongrophim) / [Discord](https://discord.gg/rophim)
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
@@ -1850,9 +1770,8 @@
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [TVMienPhi](https://tvmienphi.org/), [2](https://tv.tvhayhd.org/) - Live TV / 1080p
-* [XemPhim](https://xemphim.app/) - Movies / TV / Sub / 720p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
+* [⁠Phim4K](https://phim4k.xyz/) - Desktop App / [Telegram](https://t.me/congdong4ker)
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
@@ -1869,20 +1788,17 @@
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
 * ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Study References
+* ⭐ **[Thoát Porn Luận](https://thu-tram.github.io/tpl/)** - Porn Quitting Guide / EasyPeasy Translation
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [GacSach](https://gacsach.org/) - Books
-* [NhaSach](https://nhasachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
-* [TruyenPlus](https://Truyenplus.vn) - Books / Novel
-* [CongTruyen](https://congtruyen.org/) - Manga / Manhwa / Manhua
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [cuutruyen](https://cuutruyen.net/) - Manga
-* [Bao Tang Truyen](https://baotangtruyen34.top/) - Manga
-* [Truyensieuhay](https://truyensieuhay.com/) - Manga / Manhwa / Manhua
+* [Bao Tang Truyen](https://baotangtruyen37.top/) - Manga
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [Vietwriter](https://vietwriter.one/) - Manga / Manhwa / Manhua / Novel
 * [TruyenFull](https://truyenfull.vision/) - Manga / Light Novels
@@ -1897,7 +1813,6 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
-* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Multilingual / Sacred Texts
 * [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
@@ -1923,10 +1838,8 @@
 * [NRK TV](https://tv.nrk.no/) - Norwegian / Stream / Movies / TV / Documentaries / Sub / 1080p
 * [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Norwegian / Books / Journals / Magazines / Maps / Music Sheets
 * [Tegnordbok](https://www.minetegn.no/Tegnordbok-2016/) - Norwegian Sign Language Dictionary
-* [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p
-* [ZulTV](https://zultv.com/) - Serbian / Live TV
 * [gledajcrtace](https://www.gledajcrtace.rs/) or [gledajcrtace.org](https://gledajcrtace.org/) - Serbian / Dubbed Cartoons
 * [iptvm3u](https://iptvm3u.vercel.app/) - Serbian / Live TV / Radio
 * [Singapore Sign](https://blogs.ntu.edu.sg/sgslsignbank/) - Singapore Sign Language Dictionary

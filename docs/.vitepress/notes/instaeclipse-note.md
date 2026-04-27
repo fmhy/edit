@@ -1,3 +1,3 @@
-#### Instaeclipse Note
+#### InstaEclipse Note
 
-Use ['advanced'](https://wispydocs.pages.dev/revanced-morphe-obtainium/#advanced) to build clean apks, or use antisplitm with revanced manager.
+Use [this guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/#advanced) to build clean APKs, or use AntiSplit M with ReVanced manager.

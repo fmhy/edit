@@ -1,3 +1,3 @@
 #### TeamSpeak Warning
 
-Note that teamspeak server admins can view IPs, so only join servers you trust
+Note that TeamSpeak server admins can view user IP addresses, so only join servers you trust.

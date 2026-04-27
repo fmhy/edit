@@ -81,12 +81,14 @@ const feedback = reactive<{
 
 const selectedOption = ref(feedbackOptions[0])
 
-async function handleSubmit(type?: FeedbackType['type']) {
-  if (type) {
-    feedback.type = type
-    selectedOption.value = getFeedbackOption(type)!
-  }
+function selectType(type: FeedbackType['type']) {
+  feedback.type = type
+  selectedOption.value = getFeedbackOption(type)!
+}
+
+async function handleSubmit() {
   loading.value = true
+  error.value = null
 
   const body: FeedbackType = {
     message: feedback.message,
@@ -105,8 +107,8 @@ async function handleSubmit(type?: FeedbackType['type']) {
     })
 
     const data = await response.json()
-    if (data.error) {
-      error.value = data.error
+    if (!response.ok || data.error) {
+      error.value = data.message || data.error || 'Failed to send feedback'
       return
     }
     if (data.status === 'ok') {
@@ -192,7 +194,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               v-for="item in feedbackOptions"
               :key="item.value"
                 class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
-              @click="handleSubmit(item.value)"
+              @click="selectType(item.value)"
             >
               <span>{{ item.label }}</span>
             </button>
@@ -207,9 +209,13 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <p>Please read the <a href="/other/contributing">Contribute Guide</a> before submitting your feedback!</p>
           </div>
+          <div v-if="error" class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs">
+            <span class="font-bold">Error:</span> {{ typeof error === 'string' ? error : (error as any).message || 'Failed to send feedback. Please try again.' }}
+          </div>
           <textarea
             v-model="feedback.message"
             autofocus
+            @input="error = null"
             class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
             placeholder="What a lovely wiki!"
           />
@@ -226,18 +232,18 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <div class="flex flex-row gap-2">
             <button
               class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="feedback.type = undefined"
+              @click="feedback.type = undefined; error = null"
             >
               <span class="i-lucide:panel-left-close">close</span>
             </button>
             <button
               type="submit"
               class="btn btn-primary"
-              :disabled="isDisabled"
+              :disabled="isDisabled || loading"
               @click="handleSubmit()"
-              :style="isDisabled ? {} : { 'background-color': 'var(--vp-button-brand-bg)', 'border-color': 'var(--vp-button-brand-border)', color: 'var(--vp-button-brand-text)' }"
+              :style="isDisabled || loading ? {} : { 'background-color': 'var(--vp-button-brand-bg)', 'border-color': 'var(--vp-button-brand-border)', color: 'var(--vp-button-brand-text)' }"
             >
-              Send Feedback 📩
+              {{ loading ? 'Sending...' : 'Send Feedback 📩' }}
             </button>
           </div>
         </div>

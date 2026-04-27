@@ -10,7 +10,7 @@ outline: false
 ### Feedback
 
 :::tip What is this?
-These are all anonymous comments taken from Reddit, Discord, X.com and our feedback system. This is why we do it. People are the motivation, equality is the goal.
+Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 :::
 
 ***
@@ -38,6 +38,8 @@ These are all anonymous comments taken from Reddit, Discord, X.com and our feedb
 * *"Shoutout to you guys for letting my 60 year old mother feel like ms hackerman and enjoy her shows."*
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
+
+* *"This website is genuinely a candidate for top 3 greatest websites to ever exist on the web. Thanks to it I was able to download games, build a whole local music library, watch all the movies and tv shows I want, read all the books I want. This website has genuinely enlightened me and guided me into new life and im forever thankful."*
 
 * *"Thank you to whoever made the website,it has made things easier for a lot of people. I pinned this website on an old laptop I installed linux mint xfce on for one of my dads friends who is about 65 years old and he loves it, free media is awesome."*
 

@@ -1,3 +1,3 @@
 #### Megabasterd Note
 
-Free proxies work but they are very hit and miss
+Free proxies work but they are very hit and miss.

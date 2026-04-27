@@ -1,3 +1,3 @@
 #### Yet Another Call Blocker Note
 
-The app itself isn't maintained, but the repo contains the "main" phone number database. It is updated once in a couple of months. The app receives daily (incremental) updates directly from third-party services.
+The app itself isn't updated, but the blocklists are. It has a main local blocklist by default, and if you have "Auto-update database" enabled the app receives daily blocklist updates directly from third-party services. More info in their [GitLab repository](https://gitlab.com/xynngh/YetAnotherCallBlocker#yet-another-call-blocker).

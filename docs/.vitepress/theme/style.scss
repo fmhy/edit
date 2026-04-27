@@ -1,4 +1,9 @@
+body {
+  transition: background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1), color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
 :root {
+  scroll-behavior: smooth;
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
@@ -399,4 +404,52 @@
 
 .dark .VPLocalSearchBox .backdrop {
   background: rgba(0, 0, 0, 0.6);
+}
+
+/* Glassy Tooltips */
+.v-popper--theme-tooltip .v-popper__inner {
+  background: var(--vp-c-bg-elv) !important;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border: 1px solid var(--vp-c-divider) !important;
+  color: var(--vp-c-text-1) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.v-popper--theme-tooltip .v-popper__arrow {
+  display: none !important;
+}
+
+/* Global theme styles for the dropdown to ensure correct box appearance */
+.v-popper--theme-theme-selector .v-popper__inner {
+  background: var(--vp-c-bg-elv);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  padding: 6px;
+  color: var(--vp-c-text-1);
+}
+
+.dark .v-popper--theme-theme-selector .v-popper__inner {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.v-popper--theme-theme-selector .v-popper__arrow {
+  display: none;
+}
+
+/* Override VPFlyout hover behavior when manually controlled */
+.VPFlyout.click-based-flyout:hover .menu {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  transform: translateY(0) !important;
+  /* Reset transform if any */
+}
+
+.VPFlyout.click-based-flyout.open .menu {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: translateY(0) !important;
 }

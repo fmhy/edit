@@ -1,8 +1,8 @@
 #### 1337x Ranks
 
-* ⬛ Black - Admin
-* 🟩 Green - Moderator
-* 🟦 Blue - VIP (Very Trusted)
-* 🟨 Yellow - Uploader (Trusted)
-* 🟥 Red - Trial Uploader
-* ⬜ Grey - User
+* ⬛ Black - Administrators
+* 🟩 Green - Moderators
+* 🟦 Blue - VIP Uploaders (Very Trusted)
+* 🟨 Yellow - Uploaders (Trusted)
+* 🟥 Red - Trial Uploaders
+* ⬜ Grey - Users

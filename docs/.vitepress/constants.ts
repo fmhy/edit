@@ -20,50 +20,7 @@ import { transform, transformGuide } from './transformer'
 
 // @unocss-include
 
-<<<<<<< HEAD
-export const meta = {
-  name: 'Kugelstadt',
-  description: 'Copy of fmhy.net!',
-  hostname: 'https://fmhy.kugelstadt.cc',
-  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
-  build: {
-    api: true,
-    nsfw: true
-  }
-}
-
-export const excluded = [
-  'readme.md',
-  'single-page',
-  'feedback.md',
-  'index.md',
-  'sandbox.md',
-  'startpage.md'
-]
-
-if (process.env.FMHY_BUILD_NSFW === 'false') {
-  consola.info('FMHY_BUILD_NSFW is set to false, disabling NSFW content')
-  meta.build.nsfw = false
-}
-if (process.env.FMHY_BUILD_API === 'false') {
-  consola.info('FMHY_BUILD_API is set to false, disabling API component')
-  meta.build.api = false
-}
-
-const formatCommitRef = (commitRef: string) =>
-  `<a href="https://github.com/fmhy/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
-
-export const commitRef =
-  process.env.CF_PAGES && process.env.CF_PAGES_COMMIT_SHA
-    ? formatCommitRef(process.env.CF_PAGES_COMMIT_SHA)
-    : process.env.COMMIT_REF
-      ? formatCommitRef(process.env.COMMIT_REF)
-      : 'dev'
-
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
-=======
 export * from './shared'
->>>>>>> show page title in search (#4643)
 
 export const search: DefaultTheme.Config['search'] = {
   options: {

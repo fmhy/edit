@@ -23,6 +23,33 @@ function getDocsFiles(dir) {
 const files = getDocsFiles(DOCS_DIR);
 let hasErrors = false;
 
+// Load typos from CSV
+const typosMap = new Map();
+/* sucks right now
+try {
+    const typosPath = path.resolve(__dirname, 'typos.csv');
+    if (fs.existsSync(typosPath)) {
+        const typosContent = fs.readFileSync(typosPath, 'utf-8');
+        const typoLines = typosContent.split('\n');
+        typoLines.forEach(line => {
+            const parts = line.split(',');
+            if (parts.length >= 2) {
+                const typo = parts[0].trim().toLowerCase();
+                const correction = parts[1].trim();
+                if (typo && correction) {
+                    typosMap.set(typo, correction);
+                }
+            }
+        });
+        console.log(`✅ Loaded ${typosMap.size} typos from dictionary.`);
+    } else {
+        console.warn('⚠️ scripts/typos.csv not found, using fallback list.');
+    }
+} catch (e) {
+    console.warn(`⚠️ Failed to load typos: ${e.message}`);
+}
+*/
+
 console.log('🔍 Scanning markdown files for formatting issues...\n');
 
 files.forEach(file => {
@@ -30,8 +57,28 @@ files.forEach(file => {
     const lines = content.split('\n');
     const relativePath = path.relative(process.cwd(), file);
 
+    // Files to complete ignore from all checks
+    const FILES_TO_IGNORE = [
+        'docs/feedback.md',
+        'docs/index.md'
+    ];
+
+    if (FILES_TO_IGNORE.some(fileToIgnore => relativePath === fileToIgnore)) return;
+
+    // Files to ignore for english-specific checks (Typos, A/An, Repeated Words)
+    const FILES_TO_IGNORE_ENGLISH_CHECKS = [
+        'docs/non-english.md'
+    ];
+    const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => relativePath === f);
+
+
+    let currentHeader = '';
+
     lines.forEach((line, index) => {
         const lineNum = index + 1;
+        if (/^#+\s/.test(line)) {
+            currentHeader = line;
+        }
         let errors = [];
 
         // Check 1: Starred links must be bolded
@@ -138,6 +185,176 @@ files.forEach(file => {
 
                 errors.push(`Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`);
                 break;
+            }
+
+            // C. Double slash separated by spaces: "/ /"
+            if (/\/\s+\//.test(lineWithoutLinks)) {
+                errors.push('Double slash with spaces detected (e.g. "/ /")');
+            }
+        }
+
+
+
+        // Check 9: Adjacent links without separator (e.g. "Text [Link]" instead of "Text / [Link]")
+        const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
+            'docs/beginners-guide.md',
+            'docs/unsafe.md'
+        ];
+
+        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => file.endsWith(ignoredFile))) {
+            const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+            let match;
+            while ((match = linkRegex.exec(line)) !== null) {
+                const index = match.index;
+                if (index === 0) continue;
+
+                const preceding = line.slice(0, index);
+
+                // Ignore if line starts with valid list marker followed immediately by this link
+                // e.g. "* [Link]" or "- [Link]" or "1. [Link]"
+                if (/^\s*([*+-]|\d+\.)\s*$/.test(preceding)) continue;
+                // Ignore if Starred item "* ⭐ [Link]"
+                if (/^\s*[*+-]\s+⭐\s*$/.test(preceding)) continue;
+                // Ignore if link is preceded by bold/italic markers only (start of line)
+                if (/^\s*[*+-]\s+[*_]+\s*$/.test(preceding)) continue;
+
+                const trimmedPreceding = preceding.trimEnd();
+                if (trimmedPreceding.length === 0) continue;
+
+                // Check last character
+                const lastChar = trimmedPreceding.slice(-1);
+                // Allowed: separators, openers, end of sentences
+                // ! for images (![Alt]), * for bold, ( for parens, etc.
+                const allowedChars = ['/', '-', ',', '(', '&', '>', ':', '|', '*', '!', '.', '?', ';', '_', '⭐', '+', '#', '►', '▷'];
+                if (allowedChars.includes(lastChar)) continue;
+
+                // Check for allowed functional words (prepositions, conjunctions, determiners, etc.)
+                // to avoid flagging sentences like "Try a [VPN]" or "Use [Adblock]"
+                const allowedWords = [
+                    'or', 'and',
+                    'a', 'an', 'the',
+                    'use', 'using', 'via', 'with',
+                    'in', 'on', 'at', 'by',
+                    'to', 'for', 'from',
+                    'check', 'see', 'try',
+                    'requires', 'including', 'includes',
+                    'that', 'your', 'our',
+                    'of', 'about', 'their', 'join', 'getting', 'most',
+                    'like', 'every', 'being', 'mostly', 'highly', 'up', 'we', 'optionally'
+                ];
+                const wordRegex = new RegExp(`(^|[^a-zA-Z0-9])(${allowedWords.join('|')})$`, 'i');
+                if (wordRegex.test(trimmedPreceding)) continue;
+
+                errors.push(`Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`);
+            }
+        }
+
+        // Check 13: Duplicate Descriptions
+        const isTempMailSection = relativePath === 'docs/internet-tools.md' && currentHeader.includes('Temp Mail');
+        if (line.includes('/') && !isTempMailSection) {
+            const BLOCK_SPLIT = '___BLOCK_SPLIT___';
+            const lineCleanedLinks = line.replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT);
+            const blocks = lineCleanedLinks.split(BLOCK_SPLIT);
+
+            blocks.forEach(block => {
+                if (!block || !block.includes('/')) return;
+
+                // Split by " / " (slash surrounded by spaces) to avoid matching paths (/bin), w/ (w/ acc), TCP/IP
+                // This assumes standard formatting (Check 8 enforces spaces)
+                const parts = block.split(/\s+\/\s+/);
+                if (parts.length < 2) return;
+
+                const seenDescriptions = new Set();
+                parts.forEach(part => {
+                    let desc = part.trim();
+                    desc = desc.replace(/^[\s\-\*⭐]+/, '').replace(/[\s\-\*⭐]+$/, '');
+
+                    if (!desc) return;
+
+                    const checkDesc = desc.toLowerCase();
+                    if (seenDescriptions.has(checkDesc)) {
+                        errors.push(`Duplicate description detected: "${desc}"`);
+                    } else {
+                        seenDescriptions.add(checkDesc);
+                    }
+                });
+            });
+        }
+
+        // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)
+        if (!isSeparatedEnglishCheck) {
+            // Prepare clean line for text-based checks (remove URLs and Markdown links)
+            // Remove entire link block: [Text](Url) -> "__LINK__" to avoid merging adjacent words
+            const lineCleaned = line.replace(/https?:\/\/[^\s)]+/g, '')
+                .replace(/\[[^\]]+\]\([^)]*\)/g, '__LINK__');
+
+            // Check 10: Repeated words (e.g. "the the")
+            const repeatedWordMatch = lineCleaned.match(/\b([a-zA-Z]+)\s+\1\b/i);
+            if (repeatedWordMatch) {
+                const word = repeatedWordMatch[1].toLowerCase();
+                // Allow specific repeated words
+                if (!['puyo', 'duran', 'agar', 'hocus'].includes(word)) {
+                    errors.push(`Repeated word detected: "${repeatedWordMatch[0]}"`);
+                }
+            }
+
+            // Check 11: Common Typos
+            // Check 11: Common Typos from CSV
+            // We load this once usually, but here for simplicity we assume 'commonTyposMap' is prepared.
+            // Actually, let's just stick to the hardcoded list for now as a fallback,
+            // but if the CSV loading logic was added, we would use it.
+            // Since we are inside the line loop, we shouldn't load the file here.
+            // The loading should happen outside. We will assume 'typosMap' exists.
+
+            if (typeof typosMap !== 'undefined' && typosMap.size > 0) {
+                // Unicode-aware split to avoid breaking words like "Română" or "Slovenčina"
+                const words = lineCleaned.split(/[^\p{L}0-9']+/u);
+                const ALLOWED_TYPOS = [
+                    'hong', 'hls', 'troy', 'fami', 'rentry', 'typesafe', 'spritesheet', 'ba',
+                    'puyo', 'moo', 'ne', 'nes', 'rg', 'rgshop', 'rgshows',
+                    're', 'revanced', 'skipper', 'ste', 'sneedacity', 'rom', 'ide', 'luks', 'cse', 'gameboy',
+                    'lan', 'pokemon', 'sa', 'cah', 'rin', 'tx', 'mame'
+                ];
+                for (const word of words) {
+                    const lowerWord = word.toLowerCase();
+                    if (typosMap.has(lowerWord) && !ALLOWED_TYPOS.includes(lowerWord)) {
+                        errors.push(`Possible typo: "${word}" (should be "${typosMap.get(lowerWord)}")`);
+                    }
+                }
+            } else {
+                // Fallback to small list if CSV not loaded
+                const commonTypos = {
+                    'teh': 'the', 'adn': 'and', 'thier': 'their', 'dont': "don't", 'cant': "can't",
+                    'wont': "won't", 'occured': 'occurred', 'seperate': 'separate',
+                    'independant': 'independent', 'reccomend': 'recommend', 'recieve': 'receive',
+                    'adress': 'address', 'neccessary': 'necessary', 'tring': 'trying', 'availalbe': 'available'
+                };
+                for (const [typo, correction] of Object.entries(commonTypos)) {
+                    const typoRegex = new RegExp(`\\b${typo}\\b`, 'i');
+                    if (typoRegex.test(line)) {
+                        if (!/http/.test(line)) {
+                            errors.push(`Possible typo: "${typo}" (should be "${correction}")`);
+                        }
+                    }
+                }
+            }
+
+            // Check 12: Basic A/An Grammar
+            const aAnMatch = line.match(/\b(a)\s+([aeio]\w+)/i);
+            if (aAnMatch) {
+                const word = aAnMatch[2].toLowerCase();
+                if (word !== 'one') {
+                    errors.push(`Incorrect article "a" usage: "${aAnMatch[0]}" (should be "an")`);
+                }
+            }
+
+            const anAMatch = line.match(/\b(an)\s+([bcdfVkLmMnNpPqQrRsStTvVwWxXyYzZ]\w+)/i);
+            if (anAMatch) {
+                const word = anAMatch[2];
+                const isAcronym = /^[A-Z0-9]+$/.test(word);
+                if (!isAcronym) {
+                    errors.push(`Incorrect article "an" usage: "${anAMatch[0]}" (should be "a")`);
+                }
             }
         }
 

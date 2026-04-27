@@ -1,3 +1,3 @@
 #### General Tweak Warning
 
-Its not recommended to use these unless you know what you're doing. Always research first, never just "Apply All" tweaks randomly.
+Make sure you know what you're doing before you apply these tweaks. Always research first, never just "Apply All" without knowing what what will happen.

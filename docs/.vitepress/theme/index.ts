@@ -38,6 +38,35 @@ export default {
     app.component('Feedback', Feedback)
     app.component('Tooltip', Tooltip)
     loadProgress(router)
+
+    if (typeof window !== 'undefined') {
+      const originalBefore = router.onBeforeRouteChange
+      const originalAfter = router.onAfterRouteChanged
+
+      router.onBeforeRouteChange = (to) => {
+        try {
+          // Force scroll-behavior: auto (instant) when changing pages (path),
+          // preventing the "scroll to top" animation.
+          // Smooth scrolling is preserved for same-page hash/anchor changes.
+          const targetUrl = new URL(to, window.location.href)
+          if (targetUrl.pathname !== window.location.pathname) {
+            document.documentElement.style.scrollBehavior = 'auto'
+          }
+        } catch (e) {
+          // Fallback if URL parsing fails
+        }
+        originalBefore?.(to)
+      }
+
+      router.onAfterRouteChanged = (to) => {
+        originalAfter?.(to)
+        // Re-enable smooth scrolling shortly after navigation completes
+        setTimeout(() => {
+          document.documentElement.style.scrollBehavior = 'smooth'
+        }, 1)
+      }
+    }
+
     // Initialize theme handler
     useThemeHandler()
   }

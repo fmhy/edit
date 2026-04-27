@@ -1,0 +1,1 @@
+Note you can get free pro by installing code rabbit on a public github/gitlab repo, as they offer a free open source plan with no popularity requirements or approval/forms.
