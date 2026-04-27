@@ -63,13 +63,13 @@ files.forEach(file => {
         'docs/index.md'
     ];
 
-    if (FILES_TO_IGNORE.some(fileToIgnore => relativePath === fileToIgnore)) return;
+    if (FILES_TO_IGNORE.some(fileToIgnore => path.normalize(relativePath) === path.normalize(fileToIgnore))) return;
 
     // Files to ignore for english-specific checks (Typos, A/An, Repeated Words)
     const FILES_TO_IGNORE_ENGLISH_CHECKS = [
         'docs/non-english.md'
     ];
-    const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => relativePath === f);
+    const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => path.normalize(relativePath) === path.normalize(f));
 
 
     let currentHeader = '';
@@ -201,7 +201,7 @@ files.forEach(file => {
             'docs/unsafe.md'
         ];
 
-        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => file.endsWith(ignoredFile))) {
+        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => path.normalize(file).endsWith(path.normalize(ignoredFile)))) {
             const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
             let match;
             while ((match = linkRegex.exec(line)) !== null) {
