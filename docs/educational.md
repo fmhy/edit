@@ -530,7 +530,7 @@
 * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_aerospace_engineering)**
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
 * ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
-* [⁠NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://www.youtube.com/@NASASpaceflight)
+* [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [⁠Spaceflight Archive](https://spaceflight-archive.com/) - Rocket Launch History / Visualizations / Stats / [X](https://x.com/S_F_Archive)
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
@@ -921,7 +921,7 @@
 * [⁠Rebrickable](https://rebrickable.com/) - LEGO Collection Manager / Build Ideas
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building
 * [Brickset](https://brickset.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
-* [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool  
+* [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool
 
 ***
 

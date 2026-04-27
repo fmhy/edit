@@ -138,7 +138,7 @@
 * [Flatpak](https://flatpak.org/) - Sandboxed Package Manager / [App Repository](https://flathub.org) / [Manage Permissions](https://github.com/tchx84/flatseal)
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
-* [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [⁠APTUI](https://github.com/mexirica/aptui) -  TUI Frontends for APT Package Manager
+* [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages

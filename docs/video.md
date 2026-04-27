@@ -164,7 +164,7 @@
 * ⭐ **[Plex](https://watch.plex.tv/)** - Movies / TV / 720p
 * ⭐ **[Pluto](https://pluto.tv/)** - Movies / TV / 720p
 * [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies), [FreeGreatMovies](https://www.freegreatmovies.com/), [Voleflix](https://vole.wtf/voleflix/), [OpenCulture](https://www.openculture.com/freemoviesonline), [MoviesFoundOnline](https://moviesfoundonline.com/) or [Official YT Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) (US Only) - YouTube Movie Collections
-* [PopcornFlix](https://popcornflix.com/) -  Movies / TV
+* [PopcornFlix](https://popcornflix.com/) - Movies / TV
 * [Prime Video Free](https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
 * [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Requires Sign-Up
@@ -357,7 +357,7 @@
 * [Vidbox](https://vidbox.cc/asian-drama) - TV / Movies / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
 * [KissAsian.video](https://kissasian.video/) - TV / Movies
-* [KissKH.dk](https://kisskh.dk/) [2](https://kisskh.red/) - TV / Movies
+* [KissKH.dk](https://kisskh.dk/) / [2](https://kisskh.red/) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [AsianSubs](https://asiansubs.com/) - TV / Movies
 * [Dramacool.sr](https://www12.dramacool.sr/) - TV / Movies
@@ -528,7 +528,7 @@
 * [FawaNews](http://www.fawanews.sc/)
 * [Sports24](https://sports24.cc/)
 * [SharkStreams](https://sharkstreams.net/)
-* [⁠CrackStreams.ms](https://crackstreams.ms/) / [Discord](https://t.me/+s6ROvhLw2Hw0Mjg0)
+* [CrackStreams.ms](https://crackstreams.ms/) / [Telegram](https://t.me/+s6ROvhLw2Hw0Mjg0)
 * [MyFootball](https://myfootball.pw/) - Football
 * [KilatLIVE](https://kilatlive.net/) - Football
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
@@ -652,7 +652,7 @@
 * ↪️ **[Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)** / **[Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks)**
 * ⭐ **[Stremio](https://www.stremio.com/)**, **[Nuvio](https://nuvioapp.space/)** / [Plugins](https://nuvio-plugin-library.vercel.app/), [2](https://discord.gg/daqjFEfZv) / [Discord](https://discord.gg/ggKTJbHdw) / [GitHub](https://github.com/tapframe/NuvioTV/releases/) or [⁠RealStream](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
 * ⭐ **[TiviMate](https://tivimate.com/)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - IPTV Player
-* ⭐ **[Downloader App](https://www.aftvnews.com/downloader)** - Sideloading App / Downloader for Fire TV + Android TV  / [URL Shortener](https://go.aftvnews.com/)
+* ⭐ **[Downloader App](https://www.aftvnews.com/downloader)** - Sideloading App / Downloader for Fire TV + Android TV / [URL Shortener](https://go.aftvnews.com/)
 * ⭐ **[⁠TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)** / [Discord](https://discord.com/invite/m2P7v8Y2qR) / [Telegram](https://t.me/tizentubecobaltofficial) or [SmartTube](https://github.com/yuliskov/SmartTube) / [2](https://smarttubeapp.github.io/) / [Discord](https://discord.com/invite/Wt8HDDej5z) / [Telegram](https://t.me/SmartTubeEN) - Ad-Free Android TV / Firestick YouTube
 * [⁠Flicky](https://github.com/mlm-games/flicky) - F-Droid Client
 * [Android TV Tools v4](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v4.4648239/) - Multiple Android TV Tools
@@ -1087,7 +1087,7 @@
 * ⭐ **[Quality / Release Type Guide](https://redd.it/1ktgh4h)** / [2](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) or [Streaming Site Guide](https://redd.it/yykvnv) - Video Quality / Release Type Guide
 * ⭐ **[Release Group Qualities](https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview)** - Movie / TV Release Group Quality Indexes
 * ⭐ **[AnimeFillerList](https://www.animefillerlist.com/)** or [AnimeFillerGuide](https://www.animefillerguide.com/) - Anime Filler Guides
-* [⁠TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb)) / [GitHub](https://github.com/TheIntroDB)
+* [TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)
 * [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284) - Add Stream / DDL Site Results to IMDb
 * [FlickChart](https://www.flickchart.com/) - Rank Your Movies
 * [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search

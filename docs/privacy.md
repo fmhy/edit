@@ -31,9 +31,9 @@
 
 ***
 
-* 🌐 **[FilterLists](https://filterlists.com/)**  - Filter / Host List Directory
+* 🌐 **[FilterLists](https://filterlists.com/)** - Filter / Host List Directory
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use w/ AdGuard URL Tracking Protection
-*  ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
 * [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines 

@@ -208,7 +208,7 @@
 * [AVPlayer](http://www.awesomevideoplayer.com/), [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
-* [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [YouTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
+* [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [SMTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
 * [uView](https://www.idruf.com/) - Video Player
 * [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - Video Player
 * [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
@@ -304,7 +304,7 @@
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
-* [⁠TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb)) / [GitHub](https://github.com/TheIntroDB)
+* [TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
 * [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script 
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
@@ -513,8 +513,7 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [⁠Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [⁠SpriteSheep](https://spritesheep.com/
-https://discord.gg/cQBZV3FcEZ), [⁠KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [LibreSprite](https://libresprite.github.io/), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [⁠Wigglypaint](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
