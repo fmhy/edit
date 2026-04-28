@@ -415,6 +415,7 @@
 * [you-get](https://you-get.org/) - SoundCloud / Bilibili / 128kb MP3
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl) - Bandcamp / 128kb MP3 / Free Only / [Discord](https://discord.com/invite/nwdT4MP)
 * [AccurateRip](https://www.accuraterip.com/) - Verify Ripped Tracks are Error-Free
+* [MusicDL](https://github.com/CharlesPikachu/musicdl) - FLAC / Global Multi-platform Aggregation (Spotify, Apple Music, QQ music, etc.) and Download / GUI, CLI, Python
 
 ***
 
