@@ -99,7 +99,7 @@
 ## ▷ Audio Transcription
 
 * 🌐 **[ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)** - Speech to Text Leaderboard
-* [Whisper](https://github.com/openai/whisper) - Audio Transcription / [WebUI](https://huggingface.co/spaces/hf-audio/whisper-large-v3), [2](https://ggml.ai/whisper.cpp/)
+* [Whisper](https://github.com/openai/whisper) - Audio Transcription / [WebUI](https://huggingface.co/spaces/hf-audio/whisper-large-v3), [2](https://ggml.ai/whisper.cpp/), [Groq](https://console.groq.com/playground?model=whisper-large-v3-turbo)
 * [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [⁠Transcrisper](https://transcrisper.com/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Audio Transcription Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
