@@ -834,6 +834,7 @@
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacewar.md)
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+* [kingar.online](https://kingar.online/) - Agar.io-style multiplayer game with weapons and RPG progression system — free, browser-based
 
 ***
 
