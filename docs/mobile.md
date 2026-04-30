@@ -1035,7 +1035,7 @@
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [AnimeTV](https://discord.com/invite/zD6URsM4ms)
 * [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
-
+* [Tomato Animes APK](https://tomatoanimes.net.br/) - Use [DNS Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking)
 ***
 
 ## ▷ Android Live TV
