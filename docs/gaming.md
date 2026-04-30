@@ -32,7 +32,7 @@
 * [⁠Fluxy Repacks](https://fluxyrepacks.xyz/) - Download / [Discord](https://discord.gg/TBs8Te5nwn) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluxy-repacks.md)
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [AtopGames](https://atopgames.com/) - Download / Pre-Installed / [Discord](https://discord.gg/KSG9Tg2s7b)
-* [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/cgames)
+* [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com`/ Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)

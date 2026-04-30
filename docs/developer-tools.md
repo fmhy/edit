@@ -425,7 +425,7 @@
 * [Anywidget](https://anywidget.dev) - Create Jupyter Widgets / [GitHub](https://github.com/manzt/anywidget)
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
 * [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
-* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
+* [Platform.uno](https://platform.uno/) / [GitHub](https://github.com/unoplatform/uno) or [Enact](https://enactjs.com/) - App Frameworks
 * [InstantDB](https://www.instantdb.com/) - Collaborative App Framework
 * [Codeface](https://github.com/chrissimpkins/codeface), [Monaspace](https://monaspace.githubnext.com/), [Programming Fonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Fonts for Coding / [Comparison](https://www.codingfont.com/)
 
