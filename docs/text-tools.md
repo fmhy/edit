@@ -203,15 +203,16 @@
 * 🌐 **[⁠TextEditors](http://texteditors.org/)** - Text Editor Index + Reviews
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
-* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus) or [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor
-* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / [GitHub](https://github.com/evpo/EncryptPad)
-* [Notepads](https://www.notepadsapp.com/) - Text Editor / [GitHub](https://github.com/0x7c13/Notepads)
-* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / [GitHub](https://github.com/FrozenAssassine/Fastedit)
-* [Kompad](https://github.com/hudy9x/kompad) - Text Editor
-* [Sublime Text](https://www.sublimetext.com/) - Text Editor / [Package Manager](https://packagecontrol.io/)
-* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor
-* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor
-* [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor
+* ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / Windows / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
+* [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / Windows, Mac, Linux
+* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / Windows, Mac, Linux / [GitHub](https://github.com/evpo/EncryptPad)
+* [Notepads](https://www.notepadsapp.com/) - Text Editor / Windows / [GitHub](https://github.com/0x7c13/Notepads)
+* [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / Windows / [GitHub](https://github.com/FrozenAssassine/Fastedit)
+* [Kompad](https://github.com/hudy9x/kompad) - Text Editor / Web Based
+* [Sublime Text](https://www.sublimetext.com/) - Text Editor / Windows, Mac, Linux / [Package Manager](https://packagecontrol.io/)
+* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, Mac, Linux
+* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, Mac, Linux
+* [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor / Windows, Mac, Linux
 
 ***
 

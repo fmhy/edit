@@ -116,7 +116,7 @@
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
+* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
 ***
 

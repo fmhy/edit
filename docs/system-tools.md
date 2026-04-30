@@ -378,7 +378,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/)
+* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
 * [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
 
 ***
