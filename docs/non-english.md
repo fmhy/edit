@@ -44,6 +44,7 @@
 * [witanime](https://witanime.cyou/) - Anime / Sub / 1080p
 * [okanime](https://okanime.tv/) - Anime / Sub / 1080p / Region Locked
 * [ristoanime](https://ristoanime.com/) - Anime
+* [Anime Slayer](https://animeslayer.to/) - Anime 
 * [witanime](https://witanime.red/) - Anime
 * [Kawaii Anime](https://kawaii-anime.com/) - Anime
 * [anslayerweb](https://anslayerweb.com/) - Anime
