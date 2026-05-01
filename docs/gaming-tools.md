@@ -70,35 +70,35 @@
 
 * 🌐 **[Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md)** - Nvidia Overclocking Resources
 * 🌐 **[Creepy's HDR Guides](https://www.hdrmods.com/)** - HDR Gaming Resources / Guides ⁠
-* ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK)
-* ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer
-* ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
-* ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/optiscaler/OptiScaler) - Game Upscaling
+* ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK) / Windows, Linux
+* ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer / Windows
+* ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test / Windows
+* ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles / Windows
+* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/optiscaler/OptiScaler) - Game Upscaling / Windows
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com) - Game Setting Guides
 * [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guide
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) - FPS / Latency Guides
-* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors
+* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors / Windows
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/) - Game Optimization Community
-* [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) / [Note](https://ibb.co/VSYtdTW) - Overclocking Tools / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/)
+* [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) / [Note](https://ibb.co/VSYtdTW) - Overclocking Tools / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) / Windows
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
-* [Ryzen Master Utility](https://www.amd.com/en/products/software/ryzen-master.html) - Overclocking Control for Ryzen Desktop CPU
-* [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
-* [DLSS Swapper](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
+* [Ryzen Master Utility](https://www.amd.com/en/products/software/ryzen-master.html) - Overclocking Control for Ryzen Desktop CPU / Windows
+* [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning / Windows
+* [DLSS Swapper](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS / Windows
 * [⁠RTX Features Update](https://forums.guru3d.com/threads/rtx-features-total-update-package-v4-and-dlss-4-5-discussion.459016/) - Latest DLSS Without NVIDIA App 
-* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
-* [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction 
-* [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
-* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [HDR](https://github.com/clshortfuse/renodx) / [DX11 Improvement](https://github.com/Filoppi/Luma-Framework) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade)
-* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
-* [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA
-* [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://legacy.borderlessgam.ing/) / [Discord](https://discord.gg/8UvpR5UgX3) / [GitHub](https://github.com/andrewmd5/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
-* [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
+* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper / Windows
+* [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Linux
+* [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control / Windows
+* [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [HDR](https://github.com/clshortfuse/renodx) / [DX11 Improvement](https://github.com/Filoppi/Luma-Framework) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade) / Windows, Linux
+* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / Windows / [Discord](https://discord.gg/MqxMj8MT55)
+* [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA / Windows
+* [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://legacy.borderlessgam.ing/) / [Discord](https://discord.gg/8UvpR5UgX3) / [GitHub](https://github.com/andrewmd5/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games / Windows
+* [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window / Windows
 * [WSGF](https://www.wsgf.org/) - Widescreen Gaming Community / Solutions
-* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
-* [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB
+* [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes / Windows
+* [4GB Patch](https://ntcore.com/?page_id=371) - Patch x86 executables to use 4GB / Windows
 
 ***
 
