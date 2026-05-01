@@ -1328,7 +1328,7 @@
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Airsoft International](https://discord.gg/airsoft) - Airsoft Guides / Community 
 * [Photonlexicon](https://www.photonlexicon.com/forums/) - Lasers Forum
-* [LearnNavi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
+* [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
 * [Status.Cafe](https://status.cafe/) - Share Current Status
 * [TwoCansAndAString](https://twocansandstring.com/) or [TellOnMe](https://tellonym.me/) - Anonymous Q&A
 * [Earth 2050](https://2050.earth/) - Future Predictions

@@ -184,7 +184,7 @@
 # ► Search Tools
 
 * ↪️ **[Reddit Search Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_reddit_search)**
-* [Shodan](https://www.shodan.io/) or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
+* ⭐ **[Shodan](https://www.shodan.io/)** or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
 * [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Maigret](https://github.com/soxoj/maigret), [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Blackbird](https://github.com/p1ngul1n0/blackbird), [WhatsMyName](https://whatsmyname.app/), [Sherlock](https://github.com/sherlock-project/sherlock), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Tookie-OSINT](https://github.com/Alfredredbird/tookie-osint) or [Lullar](https://lullar-com-3.appspot.com/) - Username Search

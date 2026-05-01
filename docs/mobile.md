@@ -786,6 +786,7 @@
 
 ***
 
+* ↪️ **[Multi-Platform Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - Torrent Client / Allows Binding / Use Adblock
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - Torrent Client / Doesn't Allow Binding / [Telegram](https://t.me/LibreTorrent) / [GitHub](https://github.com/proninyaroslav/libretorrent)
 * [Tixati](https://tixati.com/android) - Torrent Client / Allows Binding

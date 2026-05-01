@@ -175,7 +175,7 @@
 * [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up
 * [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) - Seedance 2 / 120 Credits Daily
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) / 120 Credits Daily
 * [Google Flow](https://labs.google/fx/tools/flow) - Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / [Discord](https://discord.com/invite/googlelabs)
 * [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
 * [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)

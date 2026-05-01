@@ -379,7 +379,6 @@
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠imov.life](https://imov.life/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
-* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok

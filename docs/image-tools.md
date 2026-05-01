@@ -374,7 +374,7 @@
 
 * 🌐 **[designer](https://start.me/p/jj0JAp/designer)** - Image Download Site Indexes
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
-* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
+* ⭐ **[gallery-dl](https://codeberg.org/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis

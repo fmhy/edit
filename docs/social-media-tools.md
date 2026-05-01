@@ -193,7 +193,7 @@
 ***
 
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
-* [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
+* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloaders
 * [⁠Redvid](https://redvid.io/) - Reddit Media Downloader 
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 

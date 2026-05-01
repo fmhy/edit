@@ -293,7 +293,7 @@
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
-* [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - (Run Windows Games on Linux 
+* [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux 
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements

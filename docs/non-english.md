@@ -464,6 +464,7 @@
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
+* [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.rodeo/), [2](https://movix.llc/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
@@ -691,15 +692,12 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
-* [Bollyflix](https://bollyflix.frl/) - Movies / TV / Anime
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [BollyMod](https://bolly-mod.christmas/) or [MoviesKai](https://movieskai.top/) - Movies / TV / Sub / Dub / 1080p
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
-* [MoviesDrive](https://new1.moviesdrives.my/) - Movies / TV / Anime / [Status](https://moviesdrives.cv/), [2](https://moviedrive.org/) / [Telegram](https://t.me/moviesdrivee)
-* [9kmovies](https://9kmovies.solar/m/) - Movies / TV / 1080p
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
@@ -708,7 +706,7 @@
 * [KatDrama](https://katdrama.com/) - Korean Drama
 * [Anime Dub Hindi](https://www.animedubhindi.me/) - Anime / Dub / 1080p
 * [PikaHD](https://pikahd.com/) - Anime / Dub / 1080p
-* [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
+* [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / Geoblocked / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Music
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Music
@@ -726,12 +724,11 @@
 * ⭐ **[Anime World India](https://watchanimeworld.net/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
-* [Einthusan](https://einthusan.tv/) - Movies / 1080p
+* [Einthusan](https://einthusan.tv/) - Movies / 1080p / VPN Required
 * [saicord](https://saicord.com/hi/) - Movies / TV 
-* [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 1080p / 720p
-* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p
+* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p / VPN Required
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Cineby](https://www.cineby.gd/) - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)

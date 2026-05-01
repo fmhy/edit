@@ -21,7 +21,7 @@
 * ⭐ **[Cinegram](https://cinegram.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[ShuttleTV](https://shuttletv.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)**, [2](https://spenflix.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
-* ⭐ **[Cinetaro](https://cinetaro.tv/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Cinetaro](https://cinetaro.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/4yGUxdz3h9)
 * [1Shows](https://www.1shows.org/), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / [Discord](https://discord.gg/the-one)
 * [Cinema.BZ](https://cinema.bz/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
 * [Movish](https://movish.net/) - Movies / TV / Anime / [Discord](https://discord.gg/FsbU2BQcjQ)
@@ -345,7 +345,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/drama)**, [2](https://everythingmoe.org/section/drama) - Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / [Discord](https://discord.com/invite/yY2P3DQR8S)
 * ⭐ **[Dramacool](https://wv.dramacool.com.tr/)** - TV / Movies
-* [Einthusan](https://einthusan.tv/intro/) - Movies
+* [Einthusan](https://einthusan.tv/intro/) - Movies / VPN May Be Required
 * [KissAsian](https://ww14.kissasian.com.lv/), [2](https://kisskh.fr/) - TV / Movies
 * [KissKH](https://kisskh.ovh/), [2](https://kisskh.id/) - TV / Movies
 * [Dramahood](https://dramahood.mom/) - TV / Movies
@@ -664,6 +664,7 @@
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP) - Android TV Video / Media Player
 * [Syncler](https://syncler.net/) - Streaming App / [Providers](https://www.reddit.com/r/providers4syncler/)
+* [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 * [⁠Sozo](https://sozo.azamov.me/) - Anime Streaming App
 * [aDrama](https://adrama.app/) - Asian Drama Streaming App
 * [APKUpdater](https://github.com/rumboalla/apkupdater) - APK Installer / Updater
@@ -725,7 +726,7 @@
 * [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Vyla](https://vyla.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
-* [Cinetaro](https://cinetaro.tv/) - Movies / TV / Anime
+* [Cinetaro](https://cinetaro.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4yGUxdz3h9)
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [Cineby](https://www.cineby.gd/), [2](https://www.bitcine.net/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [FlickyStream](https://flickystream.ru/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
@@ -796,7 +797,6 @@
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / Requires Google Account / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / Requires Sign-Up / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* ⭐ **[HakuNeko](https://hakuneko.download/) / [GitHub](https://github.com/manga-download/hakuneko)** or [Senpwai](https://github.com/SenZmaKi/Senpwai) - Anime Download Apps
 * [Kuudere](https://kuudere.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
 * [Anime-Sharing](https://www.anime-sharing.com/) - Sub / Dub / Anime / Manga Download Forum
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)

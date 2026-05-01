@@ -364,7 +364,7 @@
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
-* [FileFast](https://gofile.to/) - 5GB / Unlimited
+* [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Requires Sign-Up
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever

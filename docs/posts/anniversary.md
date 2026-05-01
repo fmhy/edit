@@ -1,7 +1,7 @@
 ---
 title: Our 8-Year Anniversary 💖
 description: 8 Years of FMHY
-date: 2026-04-28
+date: 2026-04-30
 next: false
 
 prev: false
@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-FMHY was made on [April 28th, 2018](https://i.ibb.co/VJQmQ9t/image.png), which means we're now 8 years old. I remember the exact day. I was going for a run, and during the run I was thinking about things like awesome-piracy, a list similar to FMHY, made a few years prior to us. I had also seen a comment on /r/Firefox, where someone had organized their favorite extensions into a nice list, and thought to myself, I could do that...
+FMHY was made on [April 29th, 2018](https://i.ibb.co/VJQmQ9t/image.png), which means we're now 8 years old. I remember the exact day. I was going for a run, and during the run I was thinking about things like awesome-piracy, a list similar to FMHY, made a few years prior to us. I had also seen a comment on /r/Firefox, where someone had organized their favorite extensions into a nice list, and thought to myself, I could do that...
 
 So I did. 
 
