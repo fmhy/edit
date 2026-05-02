@@ -1,0 +1,146 @@
+import { execSync } from 'node:child_process';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const DAYS = 30;
+const OUTPUT_FILE = 'docs/recently-removed.md';
+
+function generateRemovedSites() {
+  console.log(`Generating recently removed sites from the last ${DAYS} days...`);
+  
+  // Ensure the directory is marked as safe for git (common issue in Docker)
+  try {
+    execSync('git config --global --add safe.directory /app');
+  } catch (e) {
+    // Ignore error if it fails (e.g. not in a git repo)
+  }
+
+  // Get git log with diffs
+  // We use a custom separator to make parsing easier
+  const logOutput = execSync(
+    `git log --since="${DAYS} days ago" --pretty=format:"---COMMIT---%H---MSG---%s" -p --unified=0 docs/*.md`,
+    { maxBuffer: 10 * 1024 * 1024 }
+  ).toString();
+
+  const commits = logOutput.split('---COMMIT---').filter(Boolean);
+  const removedSites = [];
+
+  // Get current state of all docs to check if a URL still exists somewhere
+  // We exclude the output file itself to avoid false positives from previous runs
+  const allCurrentDocs = execSync(`ls docs/*.md | grep -v "${path.basename(OUTPUT_FILE)}" | xargs cat`, { maxBuffer: 100 * 1024 * 1024 }).toString();
+
+  for (const commit of commits) {
+    const lines = commit.split('\n');
+    const header = lines[0];
+    const [hash, ...msgParts] = header.split('---MSG---');
+    const msg = msgParts.join('---MSG---');
+    
+    let currentFile = '';
+    const deletions = [];
+    const additions = [];
+
+    for (let i = 1; i < lines.length; i++) {
+      const line = lines[i];
+      if (line.startsWith('diff --git')) {
+        currentFile = line.split(' b/')[1];
+      } else if (line.startsWith('-* ') || line.startsWith('-**[')) {
+        deletions.push({ text: line.substring(1), file: currentFile });
+      } else if (line.startsWith('+* ') || line.startsWith('+**[')) {
+        additions.push(line.substring(1));
+      }
+    }
+
+    // Filter out deletions that are just updates or still exist elsewhere
+    for (const del of deletions) {
+      const urls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map(m => m[1]);
+      const names = [...del.text.matchAll(/\[(.*?)\]/g)].map(m => m[1]);
+
+      if (urls.length > 0) {
+        // A site is only "removed" if:
+        // 1. Its URL is not in the additions of the SAME commit (not an update in the same file)
+        // 2. Its URL is not present ANYWHERE in the current docs (not moved or still exists elsewhere)
+        // 3. Its NAME is not in the additions of the SAME commit (not a URL change for the same site)
+        const isStillPresent = 
+          urls.some(url => additions.some(add => add.includes(url)) || allCurrentDocs.includes(url)) ||
+          names.some(name => name.length > 3 && additions.some(add => add.includes(`[${name}]`)));
+        
+        if (!isStillPresent) {
+          // Extract PR number if present
+          const prMatch = msg.match(/\(#(\d+)\)/) || msg.match(/Merge pull request #(\d+)/);
+          const pr = prMatch ? prMatch[1] : null;
+          
+          // Clean text
+          let cleanText = del.text.trim();
+          cleanText = cleanText.replace(/^\*+\s*/, ''); // Remove leading *
+          cleanText = cleanText.replace(/^⭐\s*/, ''); // Remove leading ⭐
+
+          // Remove automated suffix from commit message
+          let cleanMsg = msg.trim();
+          cleanMsg = cleanMsg.replace(/:?\s*updated \d+ pages/i, '').trim();
+
+          removedSites.push({
+            text: cleanText,
+            urls,
+            file: del.file,
+            hash,
+            msg: cleanMsg,
+            pr,
+            date: new Date().toISOString()
+          });
+        }
+      }
+    }
+  }
+
+  // Deduplicate by first URL (keep most recent)
+  const uniqueRemoved = new Map();
+  for (const site of removedSites) {
+    const firstUrl = site.urls[0];
+    if (!uniqueRemoved.has(firstUrl)) {
+      uniqueRemoved.set(firstUrl, site);
+    }
+  }
+
+  const sortedRemoved = Array.from(uniqueRemoved.values());
+
+  // Generate Markdown
+  let markdown = `# ► Recently Removed Sites\n\n`;
+  markdown += `<!-- search-exclude -->\n`;
+  markdown += `This page lists sites that were removed from the wiki in the last ${DAYS} days. This helps you find sites that may have gone down or were moved.\n\n`;
+  markdown += `> [!TIP]\n`;
+  markdown += `> For more information about why a site was removed, feel free to join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).\n`;
+  markdown += `<!-- /search-exclude -->\n\n`;
+  
+  if (sortedRemoved.length === 0) {
+    markdown += `No sites were removed in the last ${DAYS} days.\n`;
+  } else {
+    for (const site of sortedRemoved) {
+      const msgPart = site.msg ? `: ${site.msg}` : '';
+      const prLink = site.pr ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})` : '';
+      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}`;
+      
+      // Separate the link part from the description
+      // Pattern: "[Name](URL) - Description" or just "[Name](URL)"
+      const linkMatch = site.text.match(/^(\[.*?\]\(.*?\))(.*)/);
+      let searchablePart = site.text;
+      let hiddenPart = '';
+      
+      if (linkMatch) {
+        searchablePart = linkMatch[1];
+        hiddenPart = linkMatch[2]; // This includes the " - Description" part
+      }
+      
+      markdown += `- ${searchablePart} <!-- search-exclude -->${hiddenPart} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${msgPart})<!-- /search-exclude -->\n`;
+    }
+  }
+
+  fs.writeFileSync(OUTPUT_FILE, markdown);
+  console.log(`Successfully generated ${OUTPUT_FILE} with ${sortedRemoved.length} entries.`);
+}
+
+try {
+  generateRemovedSites();
+} catch (error) {
+  console.error('Error generating removed sites:', error);
+  process.exit(1);
+}

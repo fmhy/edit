@@ -241,6 +241,10 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/unsafe'
             },
             {
+                text: '<span class="i-twemoji:wastebasket"></span> Recently Removed',
+                link: '/recently-removed'
+            },
+            {
                 text: '<span class="i-twemoji:package"></span> Storage',
                 link: '/storage'
             }

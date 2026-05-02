@@ -131,6 +131,10 @@ export const headers: Header = {
   'unsafe.md': {
     title: 'Unsafe Sites',
     description: 'Unsafe/harmful sites to avoid.'
+  },
+  'recently-removed.md': {
+    title: 'Recently Removed Sites',
+    description: 'List of sites recently removed from the wiki'
   }
 } as const
 
