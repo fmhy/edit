@@ -16,6 +16,18 @@ function generateRemovedSites() {
   }
 
   let gitDir = ''
+  // Check if it's a shallow clone (common in Cloudflare/CI)
+  const isShallow = fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
+  
+  if (isShallow) {
+    console.log('Shallow clone detected. Fetching history for the last 30 days...')
+    try {
+      execSync(`git fetch --shallow-since="${DAYS + 1} days ago" --tags`)
+    } catch (e) {
+      console.warn('Warning: Failed to unshallow repository. Results may be incomplete.')
+    }
+  }
+
   // Check if .git directory exists. If not, try to bootstrap it for the build
   if (!fs.existsSync('.git')) {
     console.log(
