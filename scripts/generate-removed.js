@@ -8,17 +8,39 @@ const OUTPUT_FILE = 'docs/recently-removed.md';
 function generateRemovedSites() {
   console.log(`Generating recently removed sites from the last ${DAYS} days...`);
   
+  let gitDir = '';
+  // Check if .git directory exists. If not, try to bootstrap it for the build
+  if (!fs.existsSync('.git')) {
+    console.log('No .git directory found. Attempting to fetch temporary history for generation...');
+    try {
+      const REPO_URL = 'https://github.com/fmhy/edit.git';
+      const TEMP_GIT_DIR = '.git-temp';
+      
+      // Clean up any old temp dir
+      if (fs.existsSync(TEMP_GIT_DIR)) fs.rmSync(TEMP_GIT_DIR, { recursive: true, force: true });
+      
+      // Perform a blobless, shallow clone of just the metadata to save time/space
+      // We only need the commits since 30 days ago
+      execSync(`git clone --bare --filter=blob:none --shallow-since="${DAYS + 1} days ago" ${REPO_URL} ${TEMP_GIT_DIR}`);
+      gitDir = `--git-dir=${TEMP_GIT_DIR}`;
+      console.log('Temporary history fetched successfully.');
+    } catch (e) {
+      console.warn('Warning: Failed to fetch temporary Git history. Skipping generation.');
+      return;
+    }
+  }
+
   // Ensure the directory is marked as safe for git (common issue in Docker)
   try {
-    execSync('git config --global --add safe.directory /app');
+    execSync(`git ${gitDir} config --global --add safe.directory /app`);
   } catch (e) {
-    // Ignore error if it fails (e.g. not in a git repo)
+    // Ignore error if it fails
   }
 
   // Get git log with diffs
   // We use a custom separator to make parsing easier
   const logOutput = execSync(
-    `git log --since="${DAYS} days ago" --pretty=format:"---COMMIT---%H---MSG---%s" -p --unified=0 docs/*.md`,
+    `git ${gitDir} log --since="${DAYS} days ago" --pretty=format:"---COMMIT---%H---MSG---%s" -p --unified=0 docs/*.md`,
     { maxBuffer: 10 * 1024 * 1024 }
   ).toString();
 
@@ -136,6 +158,16 @@ function generateRemovedSites() {
 
   fs.writeFileSync(OUTPUT_FILE, markdown);
   console.log(`Successfully generated ${OUTPUT_FILE} with ${sortedRemoved.length} entries.`);
+
+  // Cleanup temporary git dir
+  if (gitDir.includes('.git-temp')) {
+    try {
+      const tempDir = gitDir.split('=')[1];
+      fs.rmSync(tempDir, { recursive: true, force: true });
+    } catch (e) {
+      // Ignore cleanup errors
+    }
+  }
 }
 
 try {
