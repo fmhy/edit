@@ -71,17 +71,17 @@
 
 ## ▷ Screen Recording
 
-* ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, Mac, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* [Shinobi](https://shinobi.video/) - Network Video Recorder / Mac, Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
-* [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / Windows, Mac, Linux / [GitHub](https://github.com/MythTV/mythtv)
-* [FFmpeg](https://ffmpeg.org/) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
-* [Openscreen](https://openscreen.vercel.app/) / Windows, Mac / [GitHub](https://github.com/siddharthvaddem/openscreen)
-* [Recordly](https://recordly.dev/) / Windows, Mac, Linux / [GitHub](https://github.com/webadderall/Recordly)
-* [ShareX](https://getsharex.com/) / Windows / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
-* [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / Windows, Linux / [GitHub](https://github.com/vkohaupt/vokoscreenNG)
-* [Cap](https://cap.so/) / Windows, Mac / [GitHub](https://github.com/CapSoftware/Cap)
+* ⭐ **[OBS Studio](https://obsproject.com/)** / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio) / Windows, Mac, Linux
+* [Shinobi](https://shinobi.video/) - Network Video Recorder / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi) / Mac, Linux
+* [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / [GitHub](https://github.com/MythTV/mythtv) / Windows, Mac, Linux
+* [FFmpeg](https://ffmpeg.org/) / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux
+* [Openscreen](https://openscreen.vercel.app/) / [GitHub](https://github.com/siddharthvaddem/openscreen) / Windows, Mac
+* [Recordly](https://recordly.dev/) / [GitHub](https://github.com/webadderall/Recordly) / Windows, Mac, Linux
+* [ShareX](https://getsharex.com/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX) / Windows
+* [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / [GitHub](https://github.com/vkohaupt/vokoscreenNG) / Windows, Linux
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap) / Windows, Mac
 * [Shar.ec](https://shar.ec/) / Web
-* [ScreenREC](https://screen-rec.vercel.app/) / Web / [GitHub](https://github.com/heysagnik/screenREC)
+* [ScreenREC](https://screen-rec.vercel.app/) / [GitHub](https://github.com/heysagnik/screenREC) / Web
 * [RecordScreen](https://recordscreen.io/) / Web
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) / Web
 * [⁠Cursorful](https://cursorful.com/) - Browser Screen Recording
@@ -90,9 +90,9 @@
 
 ## ▷ Processing / Encoding
 
-* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
-* ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
-* ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
+* ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake) / Windows, Mac, Linux
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / [GitHub](https://github.com/FFmpeg/FFmpeg) / Windows, Mac, Linux
+* ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / [GitHub](https://github.com/paulpacifico/shutter-encoder) / Windows, Mac, Linux
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
 * ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [⁠Video Noob Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/), [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Basics to the Art of Remuxing](https://claraiscute.neocities.org/Guides/remuxing/)**, [2](https://claraiscute.pages.dev/Guides/remuxing/) - Learn How to Remux Videos
@@ -100,8 +100,8 @@
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding / Windows, Linux
 * [Av1an](https://github.com/rust-av/Av1an) - Video Encoding / Windows, Mac, Linux
-* [FastFlix](https://fastflix.org/) - Video Conversion / Windows, Mac, Linux / [GitHub](https://github.com/cdgriffith/FastFlix)
-* [Winnydows](https://winnydows.com/) - Video Conversion Software / Windows, Mac, Linux / [Telegram](https://t.me/xvid4psp81)
+* [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix) / Windows, Mac, Linux
+* [Winnydows](https://winnydows.com/) - Video Conversion Software / [Telegram](https://t.me/xvid4psp81) / Windows, Mac, Linux
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator / Windows
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion / Windows
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) - AV1 Encoding / Windows
@@ -143,13 +143,13 @@
 ## ▷ Live Streaming
 
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
-* ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / Windows, Mac, Linux / [GitHub](https://github.com/obsproject/obs-studio)
+* ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / [GitHub](https://github.com/obsproject/obs-studio) / Windows, Mac, Linux
 * ⭐ **OBS Tools** - [Tweaks](https://ctt.cx/video/obs/) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Smooth Zoom](https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
 * ⭐ **[Streamer.bot](https://streamer.bot/)** - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamerbot)
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠MeldStudio](https://meldstudio.co/) - Live Stream Manager / Windows, Mac
-* [StreamLabs](https://streamlabs.com/) - Live Stream Manager / Windows, Mac / [GitHub](https://github.com/streamlabs/desktop)
+* [StreamLabs](https://streamlabs.com/) - Live Stream Manager / [GitHub](https://github.com/streamlabs/desktop) / Windows, Mac
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Restream](https://restream.io/) - Multi-Platform Streams
 * [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP) / [GitHub](https://github.com/Durss/Twitchat)
@@ -201,7 +201,7 @@
 * ⭐ **[MPV Clients](https://mpv.rocks/)**, **[MPC-QT](https://mpc-qt.github.io/)** or [MPV (Official)](https://mpv.io/) - Video Player / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
-* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Android](https://github.com/WyvrnRes/FastStream-for-Mobile/) / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
+* ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Android](https://github.com/WyvrnRes/FastStream-for-Mobile/) / [GitHub](https://github.com/Andrews54757/FastStream/) / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
