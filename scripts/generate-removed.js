@@ -11,20 +11,27 @@ function generateRemovedSites() {
 
   // Verify docs directory exists
   if (!fs.existsSync('docs')) {
-    console.error('Error: "docs" directory not found in the current working directory.')
+    console.error(
+      'Error: "docs" directory not found in the current working directory.'
+    )
     return
   }
 
   let gitDir = ''
   // Check if it's a shallow clone (common in Cloudflare/CI)
-  const isShallow = fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
-  
+  const isShallow =
+    fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
+
   if (isShallow) {
-    console.log('Shallow clone detected. Fetching history for the last 30 days...')
+    console.log(
+      'Shallow clone detected. Fetching history for the last 30 days...'
+    )
     try {
       execSync(`git fetch --shallow-since="${DAYS + 1} days ago" --tags`)
     } catch (e) {
-      console.warn('Warning: Failed to unshallow repository. Results may be incomplete.')
+      console.warn(
+        'Warning: Failed to unshallow repository. Results may be incomplete.'
+      )
     }
   }
 
@@ -175,11 +182,10 @@ function generateRemovedSites() {
     markdown += `No sites were removed in the last ${DAYS} days.\n`
   } else {
     for (const site of sortedRemoved) {
-      const msgPart = site.msg ? `: ${site.msg}` : ''
+      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}`
       const prLink = site.pr
         ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
         : ''
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}`
 
       // Separate the link part from the description
       // Pattern: "[Name](URL) - Description" or just "[Name](URL)"
@@ -192,7 +198,24 @@ function generateRemovedSites() {
         hiddenPart = linkMatch[2] // This includes the " - Description" part
       }
 
-      markdown += `- ${searchablePart} <!-- search-exclude -->${hiddenPart} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${msgPart})<!-- /search-exclude -->\n`
+      // Strip all hyperlinks from the searchable and hidden parts
+      // We keep the PR and commit links separate
+      const stripLinks = (t) =>
+        t
+          .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // Remove markdown links: [text](url) -> text
+          .replace(/https?:\/\/[^\s)]+/g, '') // Remove raw URLs
+          .replace(/\s+/g, ' ') // Collapse multiple spaces
+
+      const cleanSearchable = stripLinks(searchablePart).trim()
+      let cleanHidden = stripLinks(hiddenPart)
+      // Preserve the leading " - " for the hidden part if it existed
+      if (hiddenPart.trim().startsWith('-') && !cleanHidden.trim().startsWith('-')) {
+        cleanHidden = ` - ${cleanHidden.trim()}`
+      }
+      
+      const cleanMsg = site.msg ? `: ${stripLinks(site.msg).trim()}` : ''
+
+      markdown += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`
     }
   }
 
