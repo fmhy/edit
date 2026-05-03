@@ -268,7 +268,7 @@
 * 🌐 **[Dev Scraping APIs](https://github.com/cporter202/scraping-apis-for-devs)** - ⁠Scraping APIs for Developers
 * 🌐 **[⁠awesome-transit](https://github.com/MobilityData/awesome-transit)** - Transit Focused APIs
 * 🌐 **[⁠NASA API](https://api.nasa.gov/)** - NASA Open APIs
-* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources), [FreeAPIProviders](https://rentry.co/freeapiproviders), [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
+* 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)**, [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), [Shizuku Fork](https://github.com/thedjchi/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
@@ -626,13 +626,13 @@
 * 🌐 **[Awesome Java](https://github.com/akullpp/awesome-java)** - Java Resources
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
+* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor / [GUI](https://github.com/Col-E/Recaf-Launcher/)
 * [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower), [JavaDecompiler](https://www.javadecompilers.com/) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [⁠WhichJDK](https://whichjdk.com/) - JDK Version Cheatsheet / Info
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [GraalVM](https://www.graalvm.org/) - Advanced Multi-language JVM
-* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 
 ***
 
@@ -1082,10 +1082,10 @@
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Free Tier Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/neocities.md)
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
-* [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
+* [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects / [Request Storage](https://codeberg.org/Codeberg-e.V./requests)
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
 * [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain

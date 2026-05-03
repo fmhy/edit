@@ -45,10 +45,10 @@
 
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 4.6 / Claude Sonnet 4.6 / Multiple Models / Requires Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / Reset Limits w/ Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Pollinations Chat](https://pollinations.ai/play), [2](https://ai-studio.puter.site/index.html), [3](https://hey-hi.space/unified) - GLM-5.1 / GPT-5.4 / Multiple Models / [Limits and Models](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K2.5 / Multiple Models / ≈1900 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
+* [Pollinations Chat](https://pollinations.ai/play), [2](https://ai-studio.puter.site/index.html), [3](https://hey-hi.space/unified) - Grok 4.2 Fast-Reasoning / GLM-5.1 / GPT-5.4 / Multiple Models / [Limits and Models](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
+* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K2.6 / Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [⁠Element Flash](https://flash.kernal.bid/) - Multiple Models / Queue (if traffic is high) / Sign-Up / [Discord](https://discord.gg/RwNb8YrHQX)
-* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.1 / Deepseek-v4-Pro / Kimi K2.5 / Multiple Models / No Sign-Up / Unlimited
+* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.1 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5.1 / Kimi K2.6 / MiniMax-M2.7 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up
@@ -90,7 +90,7 @@
 * ⭐ **[Open WebUI](https://openwebui.com/)** - Web UI / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
-* ⭐ **[oobabooga](https://github.com/oobabooga/text-generation-webui)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
+* ⭐ **[oobabooga](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [Cherry Studio](https://www.cherry-ai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
@@ -373,6 +373,7 @@
 * [⁠LightSession](https://github.com/11me/light-session) - Fix ChatGPT Lag 
 * [⁠Privatiser](https://privatiser.net/) - Anonymize Sensitive Data for AI
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
+* [⁠Agent Reach](https://github.com/Panniantong/Agent-Reach) - Connect AI Agents to Popular Internet Platforms
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen / [GitHub](https://github.com/adamlui/chatgpt-widescreen)
 * [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)

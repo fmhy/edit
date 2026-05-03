@@ -50,8 +50,8 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / Windows / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
-* ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / Achievement Support / Windows, Linux / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection / Windows / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
+* ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / Achievement Support / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / Windows, Linux / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
 * ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / Windows, Linux / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / Windows / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
 * [UC.DIRECT](https://union-crax.xyz/direct) - Game Launcher / Downloader / Windows, Linux / [GitHub](https://github.com/Union-Crax/UnionCrax.Direct)
@@ -89,7 +89,7 @@
 * [DLSS Swapper](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS / Windows
 * [⁠RTX Features Update](https://forums.guru3d.com/threads/rtx-features-total-update-package-v4-and-dlss-4-5-discussion.459016/) - Latest DLSS Without NVIDIA App 
 * [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper / Windows
-* [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Linux
+* [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Windows, Linux
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control / Windows
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [HDR](https://github.com/clshortfuse/renodx) / [DX11 Improvement](https://github.com/Filoppi/Luma-Framework) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade) / Windows, Linux
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / Windows / [Discord](https://discord.gg/MqxMj8MT55)
@@ -298,6 +298,7 @@
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**, [steam.tools](https://steam.tools/) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
+* [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Multi-Tool / Manifest Tool
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
@@ -341,6 +342,7 @@
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * ⭐ **[Steam-Auto-Crack](https://gitlab.com/steamautocracks)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Auto Apply Cracks / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * [Koalageddon](https://github.com/KA4I/Koalageddon) - DLC Unlocker for Origin, EA, Uplay & Steam
+* [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Multi-Tool w/ DLC Unlockers + Multiplayer Fixes
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
 * [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
@@ -1046,8 +1048,8 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://rentry.org/Retro-Rewind)** - Retro MKWii Tracks / Multiplayer / [Discord](https://discord.gg/qbr3Y4PJFH)
-* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/) / [Troubleshooting](https://rentry.org/RR-Fixes)
+* ⭐ **[Retro Rewind](https://rwfc.net/)** - Retro MKWii Tracks / Multiplayer / [Guides](https://rentry.org/Retro-Rewind) / [Discord](https://discord.gg/qbr3Y4PJFH)
+* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/vr) / [Troubleshooting](https://rentry.org/RR-Fixes)
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKWii Tracks / Multiplayer / Requires Disc / [Discord](https://discord.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies

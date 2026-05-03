@@ -26,7 +26,7 @@ Before installing any file, it's recommended to scan the setup / install with **
 
 > Which web browser should I use?
 
-We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)** or **[Brave](https://brave.com/)** if you prefer Chromium.
+We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
 For Android, we recommend **[Brave](https://brave.com/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Firefox](https://www.firefox.com/browsers/mobile/android/)**.
 
@@ -70,7 +70,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [Nicotine+](https://nicotine-plus.org/)**
-* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
@@ -149,8 +149,8 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ### iOS Sideloading
 
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
-* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
-* **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
+* **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App [iOS 16.0 & Above]
+* **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideload Apps [iOS 7.0 & Above]
 * **[Impactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
 
 ***

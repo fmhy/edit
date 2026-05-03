@@ -203,6 +203,7 @@
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Matthen](https://blog.matthen.com/) - Math Animations
 * [⁠Math Discord](https://discord.gg/math) - Math Help / Community Discord
+* [⁠Mathematical Olympiads](https://mathematics.isodn.org/) - Mathematical Olympiads Discord Community / [Discord](https://discord.gg/KCdTTF5)
 * [Mathcha](https://www.mathcha.io/), [Corca](https://corca.app/) or [Math Editor](https://math-editor.online/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
@@ -216,7 +217,7 @@
 * [MathJax](https://www.mathjax.org/) - JavaScript Math Display
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [MathOnline](http://mathonline.wikidot.com/), [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) or [Mathigon](https://mathigon.org/) - Math / Courses
-* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
+* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [Flipped Mastery](https://www.flippedmath.com/), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [⁠Andy Math](https://andymath.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [Coolmath Games](https://www.coolmathgames.com/1-number-games) - Math Games
 * [Cut The Knot](https://cut-the-knot.org/) - Math Equations / Problems
@@ -252,7 +253,7 @@
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [LibreTexts Engineering](https://eng.libretexts.org/Bookshelves) - Engineering Learning / Guides
-* [CESDB](https://www.cesdb.com/) - Engineering Software
+* [CESDB](https://www.cesdb.com/) or [⁠LAVTeam](https://lavteam.org/) - Engineering Software
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -436,7 +437,7 @@
 * [Antibiotics Summary](https://i.imgur.com/rADmmfy.jpeg), [2](https://files.catbox.moe/l7r3n5.jpeg) - Antibiotics Summary Image
 * [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review), [ECG Library](https://www.ecglibrary.com/) or [Litfl](https://litfl.com/ecg-library/) - ECG Information
 * [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
-* [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice
+* [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) or [Harvard Electrocardiography](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice / Learning
 * [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
 * [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Case Index
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
@@ -534,6 +535,7 @@
 * [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
 * [⁠Spaceflight Archive](https://spaceflight-archive.com/) - Rocket Launch History / Visualizations / Stats / [X](https://x.com/S_F_Archive)
+* [⁠Sven's Space Place](https://www.svengrahn.pp.se/) - Space Mission Technical Analysis
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
 * [⁠Ringwatchers](https://ringwatchers.com/) - Starship Diagrams / Articles / Community / [X](https://x.com/ringwatchers) / [Discord](https://discord.com/invite/ringwatchers)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
@@ -562,6 +564,7 @@
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
 * [Museo](https://museo.app/) - Museum Search
+* [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Shorpy](https://shorpy.com/) - Historical Photos
 * [⁠Historic Aerials](https://www.historicaerials.com/) - US Historical Aerial Imagery / Maps 
@@ -585,7 +588,7 @@
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [⁠Fashion History Timeline](https://fashionhistory.fitnyc.edu/) or [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
 * [PessimistsArchive](https://pessimistsarchive.org/) - Historical Technological Pessimism Archive
-* [Time Portal](https://www.eggnog.ai/entertimeportal) - History Clip Guessing
+* [Time Portal](https://www.eggnog.ai/entertimeportal) or [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 
 ***
@@ -663,6 +666,7 @@
 * [Wealth, Shown to Scale](https://wealth.ronnycoste.com/) - Wealth Inequality Visualization / Facts / [GitHub](https://github.com/lertsoft/1-pixel-wealth)
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
+* [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [Statista](https://www.statista.com/) - Market Statistics
@@ -702,7 +706,7 @@
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
 * [⁠Philosophy Stack Exchange](https://philosophy.stackexchange.com/) - Philosophy Forum
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
-* [⁠Effective Altruism Forum](https://forum.effectivealtruism.org/) - ⁠Effective Altruism Forum
+* [⁠Effective Altruism Forum](https://effectivealtruism.org/) - ⁠Effective Altruism Learning / [Forum](https://forum.effectivealtruism.org/)
 * [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
 * [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
 * [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
@@ -725,6 +729,7 @@
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
 * [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/), [Antique Pattern Library](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns
+* [⁠RSN Stitch Bank](https://rsnstitchbank.org/) - Embroidery Stiches / Lessons
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
@@ -1073,6 +1078,7 @@
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons / Stroke Orders
 * [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
+* [Dictionary Variants](https://dict.variants.moe.edu.tw/?la=1) - Dictionary of Chinese Character Variants
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
 * [Lindict](https://humanum.arts.cuhk.edu.hk/Lexis/Lindict/), [CantoWords](https://cantowords.com/), [MDBG](https://www.mdbg.net/), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [Revised Dictionary](https://dict.revised.moe.edu.tw/index.jsp), [Concised Dictionary](https://dict.concised.moe.edu.tw/), [Mini Dictionary](https://dict.mini.moe.edu.tw/) or [zdict](http://zdic.net/) - Chinese Dictionaries
@@ -1634,6 +1640,7 @@
 * [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
 * [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
+* [⁠Modern Classroom](https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne) - Improved Google Classroom Extension
 * [StudyStream](https://www.studystream.live/), [⁠Yeolpumta](https://www.yeolpumta.com/en) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets

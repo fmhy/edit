@@ -126,16 +126,16 @@
 * 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - Portable Malware Scanners / Removal Tools / [GitHub](https://github.com/jijirae/thesecondopinion/)
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://claraiscute.neocities.org/Guides/vtguide/), [2](https://claraiscute.pages.dev/Guides/vtguide/) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
 * ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
+* [⁠Threat Insights Portal](https://www.threat.rip/) - Online File Scanner / [Discord](https://discord.com/invite/p2YbdzJ6f2)
+* [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
+* [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
+* [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) - On-demand AV Scanner
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze)
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool / [GitHub](https://github.com/virustotal/yara)
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
-* [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
-* [⁠Threat Insights Portal](https://www.threat.rip/) - Online File Scanner / [Discord](https://discord.com/invite/p2YbdzJ6f2)
-* [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
-* [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
 
 ***
 
@@ -198,7 +198,7 @@
 * [⁠Kicksecure Wiki](https://www.kicksecure.com/wiki) - Educational Guide / [Forum](https://forums.kicksecure.com/)
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
-* [Beginner Privacy](https://beginnerprivacy.com/) - Beginners Privacy Guide / Checklist / [Mastodon](https://mastodon.social/@BeginnerPrivacy) / [Codeberg](https://codeberg.org/BeginnerPrivacy) / [GitHub](https://github.com/beginnerprivacy/beginnerprivacy.com)
+* [Beginner Privacy](https://beginnerprivacy.com/) - Beginners Privacy Guide / Checklist / [Mastodon](https://mastodon.social/@BeginnerPrivacy) / [Source Code](https://codeberg.org/BeginnerPrivacy) / [GitHub](https://github.com/beginnerprivacy/beginnerprivacy.com)
 * [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides

@@ -564,6 +564,7 @@
 * [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
 * [Cling](https://cling.com/)
 * [FMHY Startpage](https://fmhy.net/startpage)
+* [⁠Re-Start](https://github.com/refact0r/re-start)
 * [Symbaloo](https://www.symbaloo.com/)
 * [Tixio](https://tixio.io/)
 * [Bento](https://github.com/migueravila/Bento)

@@ -101,7 +101,6 @@
 
 ***
 
-* [PlayRetroGames](https://playretrogames.net/) - Retro Consoles / EmulatorJS / [Discord](https://discord.gg/qw9caq2qEg)
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro Consoles / EmulatorJS
 * [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
 * [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS

@@ -223,6 +223,7 @@
 * [FreeCiv](https://www.freeciv.org/) - Civilization Remake / [GitHub](https://github.com/freeciv)
 * [⁠Widelands](https://www.widelands.org/) - Open-Source The Settlers II Successor / [GitHub](https://github.com/widelands/widelands)
 * [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake
+* [KeeperFX](https://keeperfx.net/) - Fan-Made Dungeon Keeper Remake / [Discord](https://discord.gg/hE4p7vy2Hb) / [GitHub](https://github.com/dkfans/keeperfx)
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Fangame / [GitHub](https://github.com/Card-Forge/forge)
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
 * [⁠Hyper Dragon Ball Z](https://discord.gg/W85hmYcJB9) - Fan-Made Dragon Ball Z Inspired Fighting Game / Mugen + Ikemen GO
@@ -448,6 +449,7 @@
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
 * [ClassicGames](https://www.classicgames.me/) - Retro Consoles / Multiple-Emulators
 * [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
+* [⁠ArcadeSpace](https://www.arcadespace.org/) - Retro Consoles / Multiple-Emulators / Sign-Up Required
 * [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
 * [Emupedia](https://emupedia.net/beta/) - Retro Consoles
 * [yag.im](https://yag.im/) - Retro Edutainment + Adventure Game Browser Emulator / Signup Required / [Discord](https://discord.gg/N4QavHBBAG) / [GitHub](https://github.com/yag-im)
@@ -945,6 +947,8 @@
 ## ▷ Strategy
 
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
+* [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
+* [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [OpenFront](https://openfront.io/) / [Discord](https://discord.gg/k22YrnAzGp) or [Territorial](https://territorial.io/) - Conquest / War Style Games
 * [Warzone](https://www.warzone.com/) - RISK Clone
@@ -985,6 +989,7 @@
 * [The Impossible Quiz](https://www.newgrounds.com/portal/view/365143) - Classic Quiz Browser Game 
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
+* [Salty Trivia](https://haitouch.itch.io/salty-trivia) - Comedy Style Trivia Game / [Discord](https://discord.gg/95JWgy9gue)
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [Amountle](https://www.amountle.dev/) - Daily Estimation Game
@@ -997,6 +1002,7 @@
 * [⁠AniGuessr](https://aniguessr.com/) - Anime Guessing Game
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Song Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [⁠Toon Tone](https://toon-tone.vercel.app/) - Cartoon Character Color Tone Guessing Game
 * [Play Football](https://playfootball.games/) - Football Quizzes / Trivia
 * [The Wiki Game](https://www.thewikigame.com/) or [WikiRacer](https://wikiracer.io/) - Wikipedia Exploration Games / [Automation Tool](https://www.sixdegreesofwikipedia.com/), [2](https://gitlab.com/johanbluecreek/wikiracer)
 * [⁠FactorDay](https://factorday.com/) - Daily Wikipedia-Based Trivia / Crosswords
@@ -1066,7 +1072,7 @@
 * [⁠NYCGuessr](https://nycguessr.vercel.app/) - NYC Traffic Cam GeoGuessr
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuessr](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
+* [Time Portal](https://www.eggnog.ai/entertimeportal) or [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
 * [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr / Requires Sign-Up
 * [Artifact Guesser](https://artifactguesser.com/) or [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator

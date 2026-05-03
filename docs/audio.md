@@ -366,7 +366,6 @@
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Timelineify](https://www.timelineify.com/) - Create Playlist from an Artist's Discography
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
-* [Tagify](https://tagify.me/) - Create Tagged Playlists from Spotify Library
 * [PlaylistProxy](https://playlistproxy.net/) - Share Playlists Anonymously / [GitHub](https://github.com/okanten/playlistproxy.net)
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive), [2](https://github.com/maciejpedzich/spotifyplaylistarchive.com)
 
@@ -382,7 +381,7 @@
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
-* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - FLAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev), [4](https://lossless.wtf/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * ⭐ **[DAB Music Player](https://dabmusic.xyz)** - FLAC / [Download CLI](https://github.com/PrathxmOp/dab-downloader) / [Telegram](https://t.me/+RnrXmKyOPNY0ZGY9) / [Discord](https://discord.com/invite/rmzH6ttgcC)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - FLAC / MP3
@@ -430,7 +429,7 @@
 * [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [soundcloudaudiodownloader](https://t.me/soundcloudaudiodownloader) - YouTube / SoundCloud / 128kb MP3
 * [GlomaticoPinkMusicBot](https://t.me/GlomaticoPinkMusicBot) - Apple Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
-* [GlomaticoBlueMusicBot](https://t.me/GlomaticoBlueMusicBot) - Amazong Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
+* [GlomaticoBlueMusicBot](https://t.me/GlomaticoBlueMusicBot) - Amazon Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
 
 ***
 
@@ -589,6 +588,7 @@
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
 * [Fugue](https://icons8.com/music) - Music for Creators
 * [Chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
+* [⁠DOVA-SYNDROME](https://dova-s.jp/en/) - Royalty-Free Library
 * [tunetank](https://tunetank.com/) - Music for Videos
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
@@ -644,7 +644,7 @@
 
 # ► Tracking / Databases
 
-* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Forum](https://rym.fm/)
+* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [Drop Watch](https://drop-watch.ghost.io/), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
@@ -701,7 +701,7 @@
 ## ▷ Music Discovery
 
 * 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
-* ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/CaptainMocha/betterrym-browser-extension/) / [Forum](https://rym.fm/)
+* ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Music-Map](https://www.music-map.com/), [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts

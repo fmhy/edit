@@ -112,6 +112,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
+* [⁠ImageToCartoon](https://imagetocartoon.com/) - Turn Images into Cartoons
 * [Mimi](https://mimi-panda.com/) - Turn Photos into Coloring Book Sketch
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [BDFM](https://bitmap.designfamilymarket.com/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering / Bitmap Generators

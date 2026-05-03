@@ -116,7 +116,7 @@
 * [r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
 * [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
-* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
+* [CharityNavigator](https://www.charitynavigator.org/), [Effective Altruism Funds](https://funds.effectivealtruism.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
@@ -328,6 +328,7 @@
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
+* [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics Map
@@ -708,6 +709,7 @@
 * [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
+* [⁠CaffeineHealth](https://github.com/ohuc/CaffeineHealth) - Caffeine Intake Calculator / Android
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
@@ -1274,7 +1276,7 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
+* [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) / [GitHub](https://github.com/iorate/ublacklist) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
 * [Time Tracker](https://www.wfhg.cc/) - Browser Time Tracking Extension / [GitHub](https://github.com/sheepzh/time-tracker-4-browser)
 * [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
