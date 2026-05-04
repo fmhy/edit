@@ -313,7 +313,7 @@
 * [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / [GitHub](https://github.com/Moulberry/PandoraLauncher)
 * [GDLauncher](https://gdlauncher.com/) - Launcher / [Discord](https://discord.com/invite/8n3NnERF22)
 * [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS / Linux
-* [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android), [2](https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
+* [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android), [2](https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / [Discord](https://discord.gg/5ptqkyZxEy) / Android, iOS
 * [⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launcher / Android
 
 ***

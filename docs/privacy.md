@@ -271,23 +271,23 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
 * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
-* ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis)
-* ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente) / All Platforms
+* ⭐ **[Aegis](https://getaegis.app/)** - 2FA / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis) / Android
+* ⭐ **[Stratum](https://stratumauth.com)** - 2FA / [GitHub](https://github.com/stratumauth/app) / Android
 * ⭐ **[Password Strength Chart](https://i.ibb.co/B2Vz3hSj/89x5g3t4xrxe1.png)**
-* [2FAS](https://2fas.com/) - 2FA / Android, iOS / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas)
-* [⁠Proton Authenticator](https://proton.me/authenticator) - 2FA / All Platforms / [Discord](https://discord.com/invite/proton)
+* [2FAS](https://2fas.com/) - 2FA / [Discord](https://discord.gg/q4cP6qh2g5) / [GitHub](https://github.com/twofas) / Android, iOS
+* [⁠Proton Authenticator](https://proton.me/authenticator) - 2FA / [Discord](https://discord.com/invite/proton) / All Platforms
 * [Mauth](https://github.com/X1nto/Mauth) - 2FA / Android
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - 2FA / Android
-* [KeePassXC](https://keepassxc.org/) - 2FA / Windows, Mac, Linux / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
-* [AuthMe](https://authme.levminer.com/) - 2FA / Windows, Mac, Linux / [GitHub](https://github.com/Levminer/authme)
-* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / YubiKey Support / Windows, Android / [GitHub](https://github.com/Yubico/yubioath-flutter)
+* [KeePassXC](https://keepassxc.org/) - 2FA / [Guide](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc) / Windows, Mac, Linux
+* [AuthMe](https://authme.levminer.com/) - 2FA / [GitHub](https://github.com/Levminer/authme) / Windows, Mac, Linux
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / YubiKey Support / [GitHub](https://github.com/Yubico/yubioath-flutter) / Windows, Android
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - 2FA / Linux
 * [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS
 * [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS
-* [Tofu](https://www.tofuauth.com/) - 2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)
+* [Tofu](https://www.tofuauth.com/) - 2FA / [GitHub](https://github.com/iKenndac/Tofu) / iOS
 * [Authenticator](https://authenticator.cc/) - 2FA Browser Extension / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
-* [2FAuth](https://docs.2fauth.app/) - Self-Hosted / Web / [GitHub](https://github.com/Bubka/2FAuth)
+* [2FAuth](https://docs.2fauth.app/) - Self-Hosted / [GitHub](https://github.com/Bubka/2FAuth) / Web
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden Server Backend / Self-Hosted
 * [OTP Helper](https://github.com/jd1378/otphelper) - Extract OTP Tokens
 * [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
@@ -311,14 +311,14 @@
 * [Jami](https://jami.net/) - All Platforms / [GitLab](https://git.jami.net/savoirfairelinux/jami-project)
 * [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore) or [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox) - All Platforms
 * [Cabal](https://cabal.chat/) - P2P / Serverless All Platforms / [GitHub](https://github.com/cabal-club)
-* [Linphone](https://www.linphone.org/) - All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)
-* [Berty](https://berty.tech/) / Android, iOS / [GitHub](https://github.com/berty/berty)
-* [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, Mac, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
-* [Cwtch](https://docs.cwtch.im) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
+* [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects) - All Platforms
+* [Berty](https://berty.tech/) / [GitHub](https://github.com/berty/berty) / Android, iOS
+* [Ricochet Refresh](https://www.ricochetrefresh.net/) / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh) / Windows, Mac, Linux
+* [Cwtch](https://docs.cwtch.im) / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch) / Windows, Mac, Linux, Android
 * [Delta Chat](https://delta.chat/) - Decentralized Email-Based Messenger / Windows, Mac, Linux, Android
-* [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
+* [Status](https://status.app/) / [GitHub](https://github.com/status-im) / Android, iOS
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / iOS
-* [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
+* [Databag](https://github.com/balzack/databag) - Self-Hosted / [GitHub](https://github.com/balzack/databag) / Android, iOS, Web
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
 ***
@@ -431,7 +431,7 @@
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/torrenting/)** - Bind VPN to Torrent Client to Avoid ISP Letters
 * [⁠WireSock](https://wiresock.net/) or [⁠Tunnl](https://tunnl.to/) - WireGuard Split Tunneling Clients
-* [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / Android / [Windows](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)
+* [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / [Windows](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel) / Android
 * [VPN Hotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot / Rooted Android
 * [Gluetun](https://github.com/qdm12/gluetun) - VPN using Docker
 
@@ -470,15 +470,15 @@
 ## ▷ Proxy Clients
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, Mac, Linux
-* ⭐ **[NekoBox](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
+* ⭐ **[NekoBox](https://matsuridayo.github.io/)** - Proxy Client / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/) / Android
 * [v2rayNG](https://github.com/2dust/v2rayNG) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2]( https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
-* [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
-* [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / All Platforms / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
-* [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
-* [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / Mac, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
-* [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / Windows, Mac, Linux / [GitHub](https://github.com/throneproj/Throne)
+* [Hiddify](https://hiddify.com/) - Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify) / All Platforms
+* [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn) / All Platforms
+* [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / [GitHub](https://github.com/shadowsocks) / All Platforms
+* [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box) / Mac, Android
+* [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / [GitHub](https://github.com/throneproj/Throne) / Windows, Mac, Linux
 * [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) / Android or [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) / iOS - Proxy Client
-* [ClashVerge](https://www.clashverge.dev/) - Proxy Client / Windows, Mac, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
+* [ClashVerge](https://www.clashverge.dev/) - Proxy Client / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) / Windows, Mac, Linux
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, Mac, Linux, Android
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
