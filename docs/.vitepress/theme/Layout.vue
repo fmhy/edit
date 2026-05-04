@@ -75,12 +75,37 @@ const handleClick = (e: MouseEvent) => {
   }
 }
 
+const updateMobileActiveLink = () => {
+  if (window.innerWidth >= 960) return
+  
+  const anchors = Array.from(document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4'))
+  let activeId = ''
+  
+  for (const anchor of anchors) {
+    if (anchor.getBoundingClientRect().top < 120) {
+      activeId = anchor.id
+    } else {
+      break
+    }
+  }
+  
+  const mobileLinks = document.querySelectorAll('.VPLocalNavOutlineDropdown .outline-link')
+  mobileLinks.forEach(link => {
+    const isMatch = link.getAttribute('href') === `#${activeId}`
+    link.classList.toggle('active', isMatch)
+  })
+}
+
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
+  window.addEventListener('scroll', updateMobileActiveLink, { passive: true })
+  // Run once on mount to set initial state
+  updateMobileActiveLink()
 })
 
 onUnmounted(() => {
   window.removeEventListener('click', handleClick, { capture: true })
+  window.removeEventListener('scroll', updateMobileActiveLink)
 })
 </script>
 
