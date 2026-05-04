@@ -96,16 +96,30 @@ const updateMobileActiveLink = () => {
   })
 }
 
+let tocObserver: MutationObserver | null = null
+
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
   window.addEventListener('scroll', updateMobileActiveLink, { passive: true })
   // Run once on mount to set initial state
   updateMobileActiveLink()
+
+  // Refresh highlight as soon as the TOC menu is opened/added to DOM
+  tocObserver = new MutationObserver((mutations) => {
+    for (const mutation of mutations) {
+      if (mutation.addedNodes.length) {
+        const hasTOC = document.querySelector('.VPLocalNavOutlineDropdown .items')
+        if (hasTOC) updateMobileActiveLink()
+      }
+    }
+  })
+  tocObserver.observe(document.body, { childList: true, subtree: true })
 })
 
 onUnmounted(() => {
   window.removeEventListener('click', handleClick, { capture: true })
   window.removeEventListener('scroll', updateMobileActiveLink)
+  if (tocObserver) tocObserver.disconnect()
 })
 </script>
 
