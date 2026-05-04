@@ -76,7 +76,7 @@ const handleClick = (e: MouseEvent) => {
 }
 
 const updateMobileActiveLink = () => {
-  if (window.innerWidth >= 960) return
+  if (window.innerWidth >= 1280) return
   
   const anchors = Array.from(document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4'))
   let activeId = ''

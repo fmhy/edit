@@ -454,7 +454,7 @@ body {
   transform: translateY(0) !important;
 }
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
-@media (max-width: 959px) {
+@media (max-width: 1279px) {
   .VPLocalNavOutlineDropdown .outline-link.active {
     color: var(--vp-c-brand-1) !important;
     font-weight: 600;
