@@ -1101,8 +1101,8 @@
 * [35mm](https://35mm.online/) - Film Archive / [Database](https://filmpolski.pl/fp/index.php)
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
-* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
-* [Naikamu](https://github.com/FezMLG/Naikamu)) - Anime Streaming App / Android, iOS
+* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb) / Windows, Android
+* [Naikamu](https://naikamu.com/) - Anime Streaming App / [GitHub](https://github.com/FezMLG/Naikamu) / Android, iOS
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
@@ -1290,13 +1290,13 @@
 ## ▷ Russian Anti-Censorship
 
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
-* [⁠VPN Traffic Light](https://vpn.maximkatz.com/) - Russian VPN Status'
+* [⁠VPN Traffic Light](https://vpn.maximkatz.com/) - Russian VPN Status
 * [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 * [⁠EtoNeYa](https://tseya.a9fm.site/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** / Android, iOS / [App](https://github.com/slartus/4pdaClient-plus)
+* ⭐ **[4PDA](https://4pda.to/forum/)** / [App](https://github.com/slartus/4pdaClient-plus) / Android, iOS
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) / Android
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming Courses
@@ -1330,7 +1330,7 @@
 
 * ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/), [3](https://rezka-ua.tv/), [4](https://hdrezka.co/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * ⭐ **[yummyani](https://site.yummyani.me/)** - Anime / Sub / 1080p
-* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
+* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html) / Android App
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.li/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
