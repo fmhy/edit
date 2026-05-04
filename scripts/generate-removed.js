@@ -5,6 +5,26 @@ import path from 'node:path'
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
 
+const IGNORED_FILES = [
+  'docs/posts.md',
+  'docs/unsafe.md',
+  'docs/sandbox.md',
+  'docs/feedback.md',
+  'docs/index.md',
+  'docs/startpage.md',
+  OUTPUT_FILE
+]
+
+const IGNORED_DIRS = ['docs/posts/', 'docs/.vitepress/']
+
+function isIgnored(file) {
+  return (
+    !file ||
+    IGNORED_FILES.includes(file) ||
+    IGNORED_DIRS.some((dir) => file.startsWith(dir))
+  )
+}
+
 function generateRemovedSites() {
   console.log(`Generating recently removed sites from the last ${DAYS} days...`)
   console.log(`Current working directory: ${process.cwd()}`)
@@ -80,12 +100,11 @@ function generateRemovedSites() {
   const commits = logOutput.split('---COMMIT---').filter(Boolean)
   const removedSites = []
 
-  // Get current state of all docs to check if a URL still exists somewhere
-  // We exclude the output file itself to avoid false positives from previous runs
-  const allCurrentDocs = execSync(
-    `ls docs/*.md | grep -v "${path.basename(OUTPUT_FILE)}" | xargs cat`,
-    { maxBuffer: 100 * 1024 * 1024 }
-  ).toString()
+  // Get current state of all valid wiki docs to check if a URL still exists somewhere
+  const findCommand = `find docs -name "*.md" ${IGNORED_DIRS.map((d) => `! -path "${d}*"`).join(' ')} ${IGNORED_FILES.map((f) => `! -path "${f}"`).join(' ')}`
+  const allCurrentDocs = execSync(`${findCommand} | xargs cat`, {
+    maxBuffer: 100 * 1024 * 1024
+  }).toString()
 
   for (const commit of commits) {
     const lines = commit.split('\n')
@@ -101,7 +120,13 @@ function generateRemovedSites() {
       const line = lines[i]
       if (line.startsWith('diff --git')) {
         currentFile = line.split(' b/')[1]
-      } else if (line.startsWith('-') && line.includes('](')) {
+      }
+
+      if (isIgnored(currentFile)) {
+        continue
+      }
+
+      if (line.startsWith('-') && line.includes('](')) {
         deletions.push({ text: line.substring(1), file: currentFile })
       } else if (line.startsWith('+') && line.includes('](')) {
         additions.push(line.substring(1))
