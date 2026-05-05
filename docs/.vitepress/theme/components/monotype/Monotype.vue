@@ -65,14 +65,14 @@ const categories = [
   },
 ]
 
-function modeLabel() {
+const mode = ref('light')
+
+onMounted(() => {
   const html = document.documentElement
   const isDark = html.classList.contains('dark')
   const isAmoled = html.classList.contains('amoled')
-  if (isAmoled) return 'amoled'
-  if (isDark) return 'dark'
-  return 'light'
-}
+  mode.value = isAmoled ? 'amoled' : isDark ? 'dark' : 'light'
+})
 
 function handleKeydown(e: KeyboardEvent) {
   if (e.key === '/' && document.activeElement !== input.value) {
@@ -142,7 +142,7 @@ onUnmounted(() => {
   <div class="monotype">
     <div class="monotype-bar">
       <span class="monotype-bar-title">mono-type</span>
-      <span class="monotype-bar-mode">{{ modeLabel() }}</span>
+      <span class="monotype-bar-mode">{{ mode }}</span>
     </div>
 
     <main class="monotype-main">
