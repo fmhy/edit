@@ -101,6 +101,30 @@ export class ThemeHandler {
     } else {
       root.classList.remove('monochrome')
     }
+
+    if (theme.name === 'bentogrid') {
+      root.classList.add('bentogrid')
+    } else {
+      root.classList.remove('bentogrid')
+    }
+
+    if (theme.name === 'neumorphism') {
+      root.classList.add('neumorphism')
+    } else {
+      root.classList.remove('neumorphism')
+    }
+
+    if (theme.name === 'saas') {
+      root.classList.add('saas')
+    } else {
+      root.classList.remove('saas')
+    }
+
+    if (theme.name === 'datadense') {
+      root.classList.add('datadense')
+    } else {
+      root.classList.remove('datadense')
+    }
   }
 
   private applyDOMClasses(mode: DisplayMode) {

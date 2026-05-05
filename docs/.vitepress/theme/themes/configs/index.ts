@@ -15,11 +15,23 @@
  */
 import { catppuccinTheme } from './catppuccin'
 import { monochromeTheme } from './monochrome'
+import { monotypeTheme } from './monotype'
+import { bentogridTheme } from './bentogrid'
+import { datadenseTheme } from './datadense'
+import { infiniteCanvasTheme } from './infinite-canvas'
+import { saasTheme } from './saas'
+import { neumorphismTheme } from './neumorphism'
 import type { ThemeRegistry } from '../types'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
   monochrome: monochromeTheme,
+  monotype: monotypeTheme,
+  bentogrid: bentogridTheme,
+  datadense: datadenseTheme,
+  'infinite-canvas': infiniteCanvasTheme,
+  saas: saasTheme,
+  neumorphism: neumorphismTheme,
 }
 
-export { catppuccinTheme, monochromeTheme }
+export { catppuccinTheme, monochromeTheme, monotypeTheme, bentogridTheme, datadenseTheme, infiniteCanvasTheme, saasTheme, neumorphismTheme }
