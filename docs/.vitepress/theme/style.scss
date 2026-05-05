@@ -122,7 +122,6 @@ body {
 
 .saas {
   --vp-saas-card-shadow: 0 1px 2px rgba(0, 0, 0, 0.04), 0 2px 8px rgba(0, 0, 0, 0.06);
-  --vp-saas-card-hover-shadow: 0 8px 30px rgba(0, 0, 0, 0.08), 0 2px 8px rgba(0, 0, 0, 0.04);
 
   .VPNavBar {
     backdrop-filter: blur(24px) saturate(1.4);
@@ -158,34 +157,11 @@ body {
     background: var(--vp-c-bg-elv);
     border: 1px solid var(--vp-c-divider);
     box-shadow: var(--vp-saas-card-shadow);
-    transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.25s ease, border-color 0.25s ease;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .VPFeatures .container .items .VPFeature::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: 16px;
-    padding: 1px;
-    background: linear-gradient(135deg, transparent 0%, var(--vp-c-brand-soft) 100%);
-    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.4s ease;
-  }
-
-  .VPFeatures .container .items .VPFeature:hover::before {
-    opacity: 1;
   }
 
   .VPFeatures .container .items .VPFeature:hover {
-    transform: translateY(-6px);
-    box-shadow: var(--vp-saas-card-hover-shadow);
-    border-color: var(--vp-c-brand-soft);
+    border: 2px solid var(--vp-c-brand-1);
+    padding: 27px 23px 23px;
   }
 
   .VPFeatures .container .items .VPFeature .icon {
@@ -198,12 +174,10 @@ body {
     align-items: center;
     justify-content: center;
     margin-bottom: 16px;
-    transition: background 0.25s ease, transform 0.25s ease;
   }
 
   .VPFeatures .container .items .VPFeature:hover .icon {
     background: color-mix(in srgb, var(--vp-c-brand-soft) 20%, var(--vp-c-bg-alt));
-    transform: scale(1.05);
   }
 
   .VPFeatures .container .items .VPFeature .title {
@@ -228,23 +202,10 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 4px;
-    opacity: 0;
-    transform: translateX(-8px);
-    transition: opacity 0.25s ease, transform 0.25s ease;
 
     &::after {
       content: '→';
-      transition: transform 0.2s ease;
     }
-  }
-
-  .VPFeatures .container .items .VPFeature:hover .link {
-    opacity: 1;
-    transform: translateX(0);
-  }
-
-  .VPFeatures .container .items .VPFeature .link:hover::after {
-    transform: translateX(4px);
   }
 
   .VPHomeHero {
@@ -294,12 +255,11 @@ body {
     font-size: 0.9375rem;
     padding: 10px 28px;
     box-shadow: 0 2px 8px color-mix(in srgb, var(--vp-c-brand-1) 30%, transparent);
-    transition: all 0.2s ease;
   }
 
   .VPHomeHero .button.brand:hover {
-    box-shadow: 0 6px 20px color-mix(in srgb, var(--vp-c-brand-1) 35%, transparent);
-    transform: translateY(-2px);
+    background: var(--vp-c-brand-2);
+    border-color: var(--vp-c-brand-3);
   }
 
   .VPHomeHero .button.alt {
@@ -307,12 +267,12 @@ body {
     font-weight: 500;
     font-size: 0.9375rem;
     padding: 10px 28px;
-    transition: all 0.2s ease;
   }
 
   .VPHomeHero .button.alt:hover {
     background: var(--vp-c-bg-alt);
-    transform: translateY(-2px);
+    border: 2px solid var(--vp-c-brand-soft);
+    padding: 9px 27px;
   }
 
   .VPHomeHero .image {
@@ -346,17 +306,20 @@ body {
 
   .VPSidebarItem .item {
     border-radius: 8px;
-    transition: background 0.15s ease;
     padding: 6px 12px;
   }
 
   .VPSidebarItem .item:hover {
     background: var(--vp-c-bg-alt);
+    border: 1px solid var(--vp-c-brand-soft);
+    padding: 5px 11px;
   }
 
   .VPSidebarItem.is-active .item {
     background: color-mix(in srgb, var(--vp-c-brand-soft) 15%, transparent);
     color: var(--vp-c-brand-1);
+    border: 1px solid var(--vp-c-brand-soft);
+    padding: 5px 11px;
   }
 
   .VPNavScreen .nav-screen-group {
@@ -425,11 +388,10 @@ body {
   .VPNavBarSearchButton {
     border-radius: 10px;
     border: 1px solid var(--vp-c-divider);
-    transition: border-color 0.2s ease;
   }
 
   .VPNavBarSearchButton:hover {
-    border-color: var(--vp-c-brand-soft);
+    border: 2px solid var(--vp-c-brand-1);
   }
 
   .VPLocalNav {
