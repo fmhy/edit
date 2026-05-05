@@ -161,11 +161,12 @@ export const datadenseTheme: Theme = {
   customProperties: {
     '--vp-datadense-gap': '2px',
     '--vp-datadense-radius': '2px',
-    '--vp-datadense-card-padding': '12px',
-    '--vp-datadense-card-min-height': '80px',
-    '--vp-datadense-font-size': '0.875rem',
-    '--vp-datadense-line-height': '1.4',
-    '--vp-datadense-content-max-width': '960px',
+    '--vp-datadense-card-padding': '8px',
+    '--vp-datadense-card-min-height': '60px',
+    '--vp-datadense-font-size': '0.8125rem',
+    '--vp-datadense-line-height': '1.35',
+    '--vp-datadense-content-max-width': '1024px',
+    '--vp-datadense-nav-height': '44px',
     '--vp-datadense-sidebar-width': '220px'
   }
 }
