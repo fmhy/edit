@@ -1179,7 +1179,7 @@
 * [HomeDepot OLD](https://web.archive.org/web/20240121141903/https://wall.supplies/OLD%20iPhone%20HACKED.html) - 8.0-8.4.1 Semi-Untethered Jailbreak (A5-A5X) / [Guide](https://ios.cfw.guide/installing-homedepot/)
 * [Carbon](http://carbon.sep.lol/) - 8.0-9.3.6 Untethered Jailbreak (32-bit Only)
 * [Lyncis](https://github.com/staturnzz/Lyncis) - 8.0-8.4.1 Tethered Jailbreak (64-bit) / [Guide](https://ios.cfw.guide/using-lyncis/)
-* [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1-7.1.2 Untethered Jailbreak / **[Warning](https://rentry.co/77idzr4v)** / [Guide](https://ios.cfw.guide/installing-pangu7/) / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa)
+* [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1-7.1.2 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-pangu7/) / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pangu7-warning.md)**
 * [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0-7.0.6 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-evasi0n7/) / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Z1MC2ZaS)
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - 6.1.3-6.1.6 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-p0sixspwn/) / [macOS High Sierra+](https://archive.org/download/p0sixspwn-modernmacOS/p0sixspwn%206.1.6%20test.zip)
 * [Evasi0n6](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I5k1gaoQ) - 6.0-6.1.2 Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-evasi0n6/)
@@ -1206,12 +1206,12 @@
 ## ▷ iOS Sideloading
 
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
+* ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / iOS 14.0 & Above / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
 * ⭐ **[Impactor](https://github.com/khcrysalis/Impactor)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) (Lift Certificate Blacklisting)
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
-* [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
+* [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows) / iOS 14.0 & Above
 * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing / Bypass Sidestore limits
 * [⁠iloader](https://iloader.app/) - WiFi Sideloading (Weekly Refresh) / [GitHub](https://github.com/nab138/iloader/)
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit

@@ -622,7 +622,7 @@
 * [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
 * [The 16-bit Audiophile Project](https://16bap.theclassicgamer.net/) - Retro Game Soundtracks / FLAC
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
-* [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
+* [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / [GitHub](https://github.com/mmontag/chip-player-js) / Web
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYB64#hcs-forum) - Game Soundtracks
@@ -765,34 +765,34 @@
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
 * ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Feature-Rich Audio Player / All Platforms
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics) / [Wiki](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000)
-* ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
+* ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / [Discord](https://discord.gg/5pVTdbj) / Windows
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android
 * ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons) / Windows
-* [Astra](https://astramusic.dev/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/boof2015/astra)
-* [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, Mac, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
-* [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
-* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, Mac, Linux, Android / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
+* [Astra](https://astramusic.dev/) - Audio Player / [GitHub](https://github.com/boof2015/astra) / Windows, Mac, Linux
+* [Harmonoid](https://harmonoid.com/) - Audio Player / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid) / Windows, Mac, Linux, Android
+* [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official) / Windows, Linux, Android
+* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion) / Windows, Mac, Linux, Android
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
-* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, Mac, Linux / [GitHub](https://github.com/clangen/musikcube)
+* [MusikCube](https://musikcube.com/) - Terminal-Based / [GitHub](https://github.com/clangen/musikcube) / Windows, Mac, Linux
 * [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / Mac, Linux
 * [XMPlay](https://www.un4seen.com/xmplay.html) - Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, Mac, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
-* [Snowify](https://snowify.cc/) - Audio Player / Windows, Mac, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
-* [Museeks](https://museeks.io/) - Simple Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/martpie/museeks)
-* [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
-* [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
-* [Exaile](https://exaile.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/exaile/exaile)
+* [Snowify](https://snowify.cc/) - Audio Player / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify) / Windows, Mac, Linux
+* [Museeks](https://museeks.io/) - Simple Audio Player / [GitHub](https://github.com/martpie/museeks) / Windows, Mac, Linux
+* [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / [GitHub](https://github.com/audacious-media-player/audacious) / Windows, Mac, Linux
+* [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / Windows, Mac, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
+* [Exaile](https://exaile.org/) - Audio Player / [GitHub](https://github.com/exaile/exaile) / Windows, Mac, Linux
 * [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, Mac, Linux
-* [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, Mac, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)
-* [Swing](https://swingmx.com/) - Self-Hosted Browser Music Player / Windows, Linux / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
+* [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef) / Windows, Mac, Linux
+* [Swing](https://swingmx.com/) - Self-Hosted Browser Music Player / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic) / Windows, Linux
 * [Nora](https://noramusic.netlify.app/) - Audio Player / [Discord](https://discord.gg/c5rGKnBs4y) / [GitHub](https://github.com/Sandakan/Nora)
 * [Dopamine](https://github.com/digimezzo/dopamine) - Simple Audio Player / Windows, Mac, Linux
-* [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player / Windows, Mac, Linux / [Discord](https://discord.gg/FVKpcMDy5f)
+* [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player / [Discord](https://discord.gg/FVKpcMDy5f) / Windows, Mac, Linux
 * [Aonsoku](https://github.com/victoralvesf/aonsoku) - Navidrome / Subsonic Player / Windows, Mac, Linux
-* [LedFx](https://docs.ledfx.app/en/stable/) - LED Music Sync / Windows / [Discord](https://discord.gg/xyyHEquZKQ) / [GitHub](https://github.com/ledfx/ledfx)
+* [LedFx](https://docs.ledfx.app/en/stable/) - LED Music Sync / [Discord](https://discord.gg/xyyHEquZKQ) / [GitHub](https://github.com/ledfx/ledfx) / Windows
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices / [Wiki](https://www.rockbox.org/wiki/) / [Themes](https://themes.rockbox.org/)
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info
 
@@ -835,7 +835,7 @@
 ## ▷ Album Artwork
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**, [Albumart.Digital](https://albumart.digital/) or [bigpictures](https://bigpictures.xyz/) - Album Art Search Engines
-* ⭐ **[SpotifyArt](https://spotify-art.vercel.app/)** - Spotify Album Art Downloader / Web / [GitHub](https://github.com/Shiawaseu/SpotifyArt)
+* ⭐ **[SpotifyArt](https://spotify-art.vercel.app/)** - Spotify Album Art Downloader / [GitHub](https://github.com/Shiawaseu/SpotifyArt) / Web
 * [Apple Artwork](https://artwork.thekvt.eu.org/) - Apple Music Album Art Downloader
 * [MediUX Album Covers](https://mediux.pro/albums) - Media Soundtrack Album Art
 * [Classic Rock Covers](https://www.classic-rock-covers.com/) - Rock Album Art
@@ -846,7 +846,7 @@
 ## ▷ Song Identification
 
 * ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088)** / Android, iOS / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)
-* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
+* ⭐ **[Shazam](https://www.shazam.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/librezam/) / [Chrome](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb), [2](https://chromewebstore.google.com/detail/librezam/kolhjbddamlepljhchmgmlabaanmpegk) / Android, iOS, Web
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [AudioTag](https://audiotag.info/) / Web
