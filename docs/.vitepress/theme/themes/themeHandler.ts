@@ -125,6 +125,12 @@ export class ThemeHandler {
     } else {
       root.classList.remove('datadense')
     }
+
+    if (theme.name === 'infinite-canvas') {
+      root.classList.add('infinite-canvas')
+    } else {
+      root.classList.remove('infinite-canvas')
+    }
   }
 
   private applyDOMClasses(mode: DisplayMode) {

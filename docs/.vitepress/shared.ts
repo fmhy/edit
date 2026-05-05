@@ -35,7 +35,8 @@ export const excluded = [
     'feedback.md',
     'index.md',
     'sandbox.md',
-    'startpage.md'
+    'startpage.md',
+    'monotype.md'
 ]
 
 const safeEnv = (key: string) => typeof process !== 'undefined' ? process.env?.[key] : undefined
@@ -86,6 +87,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
             { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
             { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
+            { text: '⌨ Mono-type', link: 'https://fmhy.net/monotype' },
             { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
             {
                 text: '💡 Site Hunting',

@@ -148,6 +148,10 @@ export const infiniteCanvasTheme: Theme = {
       }
     }
   },
+  fonts: {
+    body: "'Inter', 'SF Pro Text', system-ui, -apple-system, sans-serif",
+    heading: "'Inter', 'SF Pro Display', system-ui, -apple-system, sans-serif"
+  },
   borderRadius: '12px',
   spacing: {
     small: '8px',
@@ -155,10 +159,15 @@ export const infiniteCanvasTheme: Theme = {
     large: '32px'
   },
   customProperties: {
-    '--vp-infinite-grid-color': 'rgba(0, 0, 0, 0.04)',
-    '--vp-infinite-grid-size': '20px',
-    '--vp-infinite-grid-width': '1px',
-    '--vp-infinite-canvas-padding': '48px',
-    '--vp-infinite-canvas-radius': '16px'
+    '--vp-infinite-dot-color': 'rgba(0, 0, 0, 0.06)',
+    '--vp-infinite-dot-color-dark': 'rgba(255, 255, 255, 0.06)',
+    '--vp-infinite-dot-size': '20px',
+    '--vp-infinite-card-shadow': '0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03)',
+    '--vp-infinite-card-hover-shadow': '0 4px 12px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.04)',
+    '--vp-infinite-card-radius': '12px',
+    '--vp-infinite-card-border': '1px solid rgba(0,0,0,0.04)',
+    '--vp-infinite-card-padding': '24px',
+    '--vp-infinite-glass-bg': 'rgba(255,255,255,0.6)',
+    '--vp-infinite-glass-bg-dark': 'rgba(24,24,27,0.6)'
   }
 }
