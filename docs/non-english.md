@@ -1102,7 +1102,7 @@
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
 * [FlowFlix](https://flowflix.vercel.app/) - Streaming App / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb) / Windows, Android
-* [Naikamu](https://naikamu.com/) - Anime Streaming App / [GitHub](https://github.com/FezMLG/Naikamu) / Android, iOS
+* [Naikamu](https://github.com/FezMLG/Naikamu)) - Anime Streaming App / Android, iOS
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
