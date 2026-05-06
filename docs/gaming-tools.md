@@ -50,19 +50,19 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / Windows / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
-* ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / Achievement Support / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / Windows, Linux / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
-* ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / Windows, Linux / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
-* ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / Windows / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
-* [UC.DIRECT](https://union-crax.xyz/direct) - Game Launcher / Downloader / Windows, Linux / [GitHub](https://github.com/Union-Crax/UnionCrax.Direct)
-* [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / Windows, Linux / [Discord](https://discord.gg/cXaBWdcUSF)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/) / Windows
+* ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Torrent Client / Achievement Support / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra) / Windows, Linux
+* ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara) / Windows, Linux
+* ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers / Windows
+* [UC.DIRECT](https://union-crax.xyz/direct) - Game Launcher / Downloader / [GitHub](https://github.com/Union-Crax/UnionCrax.Direct) / Windows, Linux
+* [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / [Discord](https://discord.gg/cXaBWdcUSF) / Windows, Linux
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher / Windows, Android
-* [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher / Windows / [GitHub](https://github.com/callmeEthan/GameHUB2)
+* [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher / [GitHub](https://github.com/callmeEthan/GameHUB2) / Windows
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher / Linux
-* [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / Windows, Linux / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
-* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / Windows, Mac, Linux / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
+* [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / [GitHub](https://github.com/TwintailTeam/TwintailLauncher) / Windows, Linux
+* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility) / Windows, Mac, Linux
 * [⁠Starward](https://github.com/Scighost/Starward) - HoYoverse Game Launcher / Windows
-* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / Windows, Mac, Linux / [GitHub](https://github.com/Phalcode/gamevault-app)
+* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / [GitHub](https://github.com/Phalcode/gamevault-app) / Windows, Mac, Linux
 
 ***
 
@@ -82,7 +82,7 @@
 * [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Game Bar](https://rentry.co/WindowsFPS) - FPS Monitors / Windows
 * [SSTap](https://github.com/FQrabbit/SSTap-Rule) - Decrease Ping
 * [r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/) - Game Optimization Community
-* [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) / [Note](https://ibb.co/VSYtdTW) - Overclocking Tools / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) / Windows
+* [GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Overclocking Tools / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/gpu-tweak-iii-note.md)
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/products/software/ryzen-master.html) - Overclocking Control for Ryzen Desktop CPU / Windows
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning / Windows
@@ -92,7 +92,7 @@
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Windows, Linux
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control / Windows
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [HDR](https://github.com/clshortfuse/renodx) / [DX11 Improvement](https://github.com/Filoppi/Luma-Framework) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade) / Windows, Linux
-* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / Windows / [Discord](https://discord.gg/MqxMj8MT55)
+* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55) / Windows
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA / Windows
 * [WindowedBorderlessGaming](https://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://legacy.borderlessgam.ing/) / [Discord](https://discord.gg/8UvpR5UgX3) / [GitHub](https://github.com/andrewmd5/Borderless-Gaming) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games / Windows
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window / Windows
