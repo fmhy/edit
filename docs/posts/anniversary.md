@@ -28,7 +28,3 @@ A long time ago, we made a post promising you all that we'd never give up on thi
 ***
 
 **TLDR** - I wish you all infinite peace and happiness. We're truly grateful for the amount of love and support we've been given over these last 8 years. It's been unimaginably awesome.
-
-***
-
-Discussion Post: https://redd.it/1sznnoj

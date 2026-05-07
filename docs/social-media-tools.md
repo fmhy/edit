@@ -446,6 +446,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
+* [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos

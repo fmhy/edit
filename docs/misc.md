@@ -267,7 +267,7 @@
 # ► Travel
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
@@ -574,7 +574,6 @@
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
-* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
@@ -1374,7 +1373,7 @@
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html) - Vintage Magazine Cover Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
-* [THE 88×31 ARCHIVE](https://hellnet.work/8831/), [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons) or [Web Badges World](https://web.badges.world/) - Oldschool 88x31 Web Badges
+* [THE 88×31 ARCHIVE](https://hellnet.work/8831/), [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons) or [Web Badges World](https://web.badges.world/) - Oldschool 88x31 Web Badges
 * [r/Place Atlas](https://place-atlas.stefanocoding.me/) - r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [TinyFox](https://tinyfox.dev/image-list/) - Random Animal Images
@@ -1688,6 +1687,7 @@
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
+* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites

@@ -295,6 +295,7 @@
 * [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
 * [⁠FreeLogoMaker](https://myfreelogomaker.com/), [⁠BrandCrowd](https://www.brandcrowd.com/), [⁠Logo Surf](https://www.logo.surf/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/), [seeklogo](https://seeklogo.com/) or [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/) - Logo Search / Designs
 * [Logo Fast](https://logofa.st/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons
 * [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - Generate Logos Based on Project Name & Style
 * [PFP Finder](https://pfpfinder.com) - PFPs / Avatars
@@ -385,7 +386,6 @@
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
 * [Placeit](https://placeit.net/) - Image Templates
-* [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/), [seeklogo](https://seeklogo.com/) or [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/) - Logo Search / Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Block Posters](https://www.blockposters.com/), [PosterRazor](https://posterazor.sourceforge.io/) or [Rasterbator](https://rasterbator.net/) - Create Printable Posters
 

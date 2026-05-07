@@ -500,6 +500,7 @@
 ## ▷ VSCode Tools
 
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/), [vsixhub](https://www.vsixhub.com/) or [VSCodiuim Marketplace](https://rentry.co/vscodiumguide)
+* [VSCode Web](https://code.visualstudio.com/docs/setup/vscode-web) - VSCode Web Version / Guide
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
@@ -700,7 +701,6 @@
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Refine](https://refine.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
-* [Codux](https://www.codux.com/) - Visual IDE for React
 * [Puck](https://puckeditor.com/) - Create Simplified Visual Editors for Non-Devs / [GitHub](https://github.com/puckeditor/puck/)
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - Type-Safe Form for React

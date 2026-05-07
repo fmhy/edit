@@ -595,6 +595,7 @@
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Requires Sign-Up
 * [MahjongFun](https://www.mahjongfun.com/), [⁠Voxjong](https://voxjong.com/), [Mahjong 4 Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
+* [⁠Mahjong Solitaire](https://mahjong-solitaire.app/) - Mahjong Solitaire 
 * [lishogi.org](https://lishogi.org/) - Shogi / [Discord](https://discord.gg/YFtpMGg3rR) / [GitHub](https://github.com/WandererXII/lishogi)
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [lidraughts.org](https://lidraughts.org/) - Multiplayer Checkers / [GitHub](https://github.com/RoepStoep/lidraughts)

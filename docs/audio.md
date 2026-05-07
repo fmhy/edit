@@ -407,7 +407,7 @@
 * [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
-* [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer) / [Qobuz Mod](https://github.com/OrfiDev/orpheusdl-qobuz)
+* [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
 * [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
@@ -603,7 +603,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/music)**, [2](https://everythingmoe.org/section/music) - Otaku Music Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks
-* ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
+* ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/), [2](https://discord.gg/hfjBQXpXJq) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks
 * [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
@@ -834,7 +834,7 @@
 
 ## ▷ Album Artwork
 
-* ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**, [Albumart.Digital](https://albumart.digital/) or [bigpictures](https://bigpictures.xyz/) - Album Art Search Engines
+* ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**, [CoverAtlas](https://www.coveratlas.com/), [Albumart.Digital](https://albumart.digital/) or [bigpictures](https://bigpictures.xyz/) - Album Art Search Engines
 * ⭐ **[SpotifyArt](https://spotify-art.vercel.app/)** - Spotify Album Art Downloader / Web / [GitHub](https://github.com/Shiawaseu/SpotifyArt)
 * [Apple Artwork](https://artwork.thekvt.eu.org/) - Apple Music Album Art Downloader
 * [MediUX Album Covers](https://mediux.pro/albums) - Media Soundtrack Album Art

@@ -136,7 +136,7 @@
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
-* [360Cities](https://www.360cities.net/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [360Cities](https://www.360cities.net/) or [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 * [National Palace Museum](https://tech2.npm.edu.tw/720vr/enHome.html) - National Palace Museum Virtual Tours
 * [The Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) - Bayeux Tapestry 3D Digitization
@@ -312,6 +312,7 @@
 * [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
+* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Guides and Resources
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)

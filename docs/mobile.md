@@ -497,6 +497,7 @@
 * [InviZible](https://invizible.net/en/) - Tor, DNSCrypt, And Purple I2P Hybrid VPN / [GitHub](https://github.com/Gedsh/InviZible)
 * [Intra](https://getintra.org) - Encrypted DNS App
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
+* [⁠AppLock](https://github.com/PranavPurwar/AppLock) - Open-Source App Locker / No Root Required / [Forensics Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/applock.md)
 * [Orbot](https://orbot.app/en/), [2](https://guardianproject.info/apps/org.torproject.android/) - Tor Proxy Apps
 * [Privacy Guides](https://www.privacyguides.org/en/android/), [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Manager
@@ -1257,7 +1258,7 @@
 * 🌐 **[⁠App Store Tracker](https://appstoretracker.com/)** - App Store Analytics / Tracker 
 * 🌐 **[iOS Console Emulators](https://www.reddit.com/r/EmulationOniOS/wiki/emulators)** - Gaming Emulator Index
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official) / [Discord](https://discord.gg/erVkAkzGHZ)
-* ⭐ **[CodeVN](https://ios.codevn.net/)** / [Telegram](https://t.me/+1qK9KUZlfGs3ZDg1) or [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Safari to Translate
+* [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Safari to Translate
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Safari to Translate / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
 * [AppDB](https://appdb.to) - App Library
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Telegram](https://t.me/iosvizor)
