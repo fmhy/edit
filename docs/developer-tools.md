@@ -186,6 +186,7 @@
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * ⭐ **[refined-github](https://github.com/refined-github/refined-github)** - Improved GitHub Interface
 * ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
+* [Related Repos](https://relatedrepos.com/) - Discover related open source projects
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [Languish](https://tjpalmer.github.io/languish/) - GitHub Programming Language Stats
