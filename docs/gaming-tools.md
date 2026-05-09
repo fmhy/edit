@@ -888,6 +888,7 @@
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/), [Master Duel Meta](https://www.masterduelmeta.com/) / [Discord](https://discord.com/invite/masterduelmeta) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists / Metas
 * [Untap.in](https://untap.in/) - Test Card Game Decks / Requires Sign-Up
+* [GhoulApp](https://ghoulapp.com/) - Vampire: The Masquerade Character Creator & Dice Simulator - v5/v20
 
 ***
 
