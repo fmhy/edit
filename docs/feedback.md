@@ -39,6 +39,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Me and my friends call your site the keys to the internet, its kinda amazing."*
 
+* *"This website is genuinely a candidate for top 3 greatest websites to ever exist on the web. Thanks to it I was able to download games, build a whole local music library, watch all the movies and tv shows I want, read all the books I want. This website has genuinely enlightened me and guided me into new life and im forever thankful."*
+
 * *"Thank you to whoever made the website,it has made things easier for a lot of people. I pinned this website on an old laptop I installed linux mint xfce on for one of my dads friends who is about 65 years old and he loves it, free media is awesome."*
 
 * *"A really great and detailed job of putting everything together. I hope you hear this a lot, but thanks for all the work you put in this, people appreciate it more than you think <3."*
@@ -46,6 +48,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 * *"Thanks to FMHY, I was able to find a piece of software that upped my efficiency at work three-fold. Literal life-saver. Thank you!"*
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
+
+* *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."
 
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 

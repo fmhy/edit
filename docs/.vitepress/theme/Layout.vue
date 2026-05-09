@@ -75,12 +75,51 @@ const handleClick = (e: MouseEvent) => {
   }
 }
 
+const updateMobileActiveLink = () => {
+  if (window.innerWidth >= 1280) return
+  
+  const anchors = Array.from(document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4'))
+  let activeId = ''
+  
+  for (const anchor of anchors) {
+    if (anchor.getBoundingClientRect().top < 120) {
+      activeId = anchor.id
+    } else {
+      break
+    }
+  }
+  
+  const mobileLinks = document.querySelectorAll('.VPLocalNavOutlineDropdown .outline-link')
+  mobileLinks.forEach(link => {
+    const isMatch = link.getAttribute('href') === `#${activeId}`
+    link.classList.toggle('active', isMatch)
+  })
+}
+
+let tocObserver: MutationObserver | null = null
+
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
+  window.addEventListener('scroll', updateMobileActiveLink, { passive: true })
+  // Run once on mount to set initial state
+  updateMobileActiveLink()
+
+  // Refresh highlight as soon as the TOC menu is opened/added to DOM
+  tocObserver = new MutationObserver((mutations) => {
+    for (const mutation of mutations) {
+      if (mutation.addedNodes.length) {
+        const hasTOC = document.querySelector('.VPLocalNavOutlineDropdown .items')
+        if (hasTOC) updateMobileActiveLink()
+      }
+    }
+  })
+  tocObserver.observe(document.body, { childList: true, subtree: true })
 })
 
 onUnmounted(() => {
   window.removeEventListener('click', handleClick, { capture: true })
+  window.removeEventListener('scroll', updateMobileActiveLink)
+  if (tocObserver) tocObserver.disconnect()
 })
 </script>
 

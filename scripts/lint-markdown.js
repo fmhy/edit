@@ -56,6 +56,7 @@ files.forEach(file => {
     const content = fs.readFileSync(file, 'utf-8');
     const lines = content.split('\n');
     const relativePath = path.relative(process.cwd(), file);
+    const normalizedPath = relativePath.replace(/\\/g, '/');
 
     // Files to complete ignore from all checks
     const FILES_TO_IGNORE = [
@@ -63,19 +64,21 @@ files.forEach(file => {
         'docs/index.md'
     ];
 
-    if (FILES_TO_IGNORE.some(fileToIgnore => relativePath === fileToIgnore)) return;
+    if (FILES_TO_IGNORE.includes(normalizedPath)) return;
 
     // Files to ignore for english-specific checks (Typos, A/An, Repeated Words)
     const FILES_TO_IGNORE_ENGLISH_CHECKS = [
         'docs/non-english.md'
     ];
-    const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.some(f => relativePath === f);
+    const isSeparatedEnglishCheck = FILES_TO_IGNORE_ENGLISH_CHECKS.includes(normalizedPath);
 
 
     let currentHeader = '';
 
     lines.forEach((line, index) => {
         const lineNum = index + 1;
+        // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
+        line = line.replace(/[\u200B-\u200D\uFEFF\u2060]/g, '');
         if (/^#+\s/.test(line)) {
             currentHeader = line;
         }
@@ -201,7 +204,7 @@ files.forEach(file => {
             'docs/unsafe.md'
         ];
 
-        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => file.endsWith(ignoredFile))) {
+        if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(ignoredFile => path.normalize(file).endsWith(path.normalize(ignoredFile)))) {
             const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
             let match;
             while ((match = linkRegex.exec(line)) !== null) {
@@ -250,8 +253,9 @@ files.forEach(file => {
         }
 
         // Check 13: Duplicate Descriptions
-        const isTempMailSection = relativePath === 'docs/internet-tools.md' && currentHeader.includes('Temp Mail');
-        if (line.includes('/') && !isTempMailSection) {
+        const isTempMailSection = normalizedPath === 'docs/internet-tools.md' && currentHeader.includes('Temp Mail');
+        const isStaticHostingSection = normalizedPath === 'docs/developer-tools.md' && currentHeader.includes('Static Page Hosting');
+        if (line.includes('/') && !isTempMailSection && !isStaticHostingSection) {
             const BLOCK_SPLIT = '___BLOCK_SPLIT___';
             const lineCleanedLinks = line.replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT);
             const blocks = lineCleanedLinks.split(BLOCK_SPLIT);
@@ -279,6 +283,56 @@ files.forEach(file => {
                     }
                 });
             });
+        }
+
+        // Check 14: Link Label Mismatch
+        // Ensures that labels like "Subreddit", "GitHub", "Discord", etc. point to the correct domain
+        const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g;
+        let lm;
+        while ((lm = linkMatchRegex.exec(line)) !== null) {
+            const label = lm[1].toLowerCase();
+            const url = lm[2].toLowerCase();
+            
+            const checks = [
+                { key: 'subreddit', domains: ['reddit.com'] },
+                { key: 'github', domains: ['github.com', 'github.io'] },
+                { key: 'discord', domains: ['discord.com', 'discord.gg', 'discordapp.com', 'discord.me', 'discord.li', 'dsc.gg', 'railgun.works'] },
+                { key: 'telegram', domains: ['t.me', 'telegram.me', 'telegram.org', 'telegram.dog'] },
+                { key: 'twitter', domains: ['twitter.com', 'x.com', 't.co'] },
+                { key: 'youtube', domains: ['youtube.com', 'youtu.be'] },
+                { key: 'lemmy', domains: ['lemmy.', 'fediverse.', 'sh.itjust.works'] },
+                { key: 'instagram', domains: ['instagram.com'] },
+                { key: 'facebook', domains: ['facebook.com'] },
+                { key: 'bluesky', domains: ['bsky.app'] },
+                { key: 'mastodon', domains: ['mastodon.social', 'apps.apple.com'] }
+            ];
+
+            const trimmedLabel = lm[1].trim().toLowerCase();
+
+            for (const check of checks) {
+                // Exact match check for keywords to avoid flagging descriptive names like "GitHub Dorks"
+                // Also allow "r/" prefix check separately
+                if (trimmedLabel === check.key) {
+                    if (!check.domains.some(d => url.includes(d))) {
+                        // Allow some custom domains/redirects if they contain the keyword in the URL path
+                        if (!url.includes(check.key)) {
+                            errors.push(`Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`);
+                        }
+                    }
+                }
+            }
+            
+            // Special check for "r/" prefix (e.g. [r/OpenAI]) - ONLY if it's the full label
+            if (/^r\/[a-zA-Z0-9_]+$/.test(trimmedLabel)) {
+                if (!url.includes('reddit.com')) {
+                    errors.push(`Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`);
+                }
+            }
+            
+            // Special check for "X" label (social media)
+            if (trimmedLabel === 'x' && !url.includes('x.com') && !url.includes('twitter.com') && !url.includes('t.co')) {
+                errors.push(`Link label mismatch: Label "X" points to non-X/Twitter domain: ${lm[2]}`);
+            }
         }
 
         // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)

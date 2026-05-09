@@ -19,7 +19,6 @@
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
-* [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [⁠Torr9](https://torr9.net/) - Video / Audio / Books
 * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -38,6 +37,7 @@
 * [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
+* [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
@@ -116,7 +116,7 @@
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
+* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
 ***
 
@@ -142,7 +142,7 @@
 # ► Private Trackers
 
 * 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
-* ⭐ **[TrackerStatus](https://trackerstatus.info/)**, [⁠OpenSignup](https://opensignup.xyz/) / [GitHub](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
+* [OpenSignup](https://opensignup.xyz/) / [Telegram](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
 * [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs

@@ -10,3 +10,4 @@ dist
 .eslintcache
 docs/.vitepress/.temp
 result
+docs/recently-removed.md

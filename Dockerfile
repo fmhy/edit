@@ -2,6 +2,7 @@ FROM node:25.7-alpine AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
 RUN npm install -g pnpm@10.30.3
+RUN apk add --no-cache git
 WORKDIR /app
 COPY package.json pnpm-lock.yaml ./
 

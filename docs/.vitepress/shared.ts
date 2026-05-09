@@ -86,7 +86,6 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
             { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
             { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
-            { text: '✴️ rss.fmhy', link: 'https://rss.fmhy.bid/' },
             { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
             {
                 text: '💡 Site Hunting',
@@ -240,6 +239,10 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
             {
                 text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
                 link: '/unsafe'
+            },
+            {
+                text: '<span class="i-twemoji:wastebasket"></span> Recently Removed',
+                link: '/recently-removed'
             },
             {
                 text: '<span class="i-twemoji:package"></span> Storage',

@@ -26,11 +26,11 @@ Before installing any file, it's recommended to scan the setup / install with **
 
 > Which web browser should I use?
 
-We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)** or **[Brave](https://brave.com/)** if you prefer Chromium.
+We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For Android, we recommend **[Firefox](https://www.firefox.com/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
+For Android, we recommend **[Brave](https://brave.com/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Firefox](https://www.firefox.com/browsers/mobile/android/)**.
 
-For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)**.
+For iOS, we recommend **Safari + [AdGuard](https://adguard.com/en/adguard-ios/overview.html)** or **[Brave](https://brave.com/)**.
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
@@ -48,10 +48,10 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
+* **Streaming: [Cineby](https://www.cineby.sc/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/) / [StreamSports99](https://streamsports99.ru)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.space/) / [StreamSports99](https://streamsports99.ru)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
@@ -70,7 +70,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [Nicotine+](https://nicotine-plus.org/)**
-* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
@@ -149,8 +149,8 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 ### iOS Sideloading
 
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
-* **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
-* **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
+* **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App [iOS 16.0 & Above]
+* **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideload Apps [iOS 7.0 & Above]
 * **[Impactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
 
 ***

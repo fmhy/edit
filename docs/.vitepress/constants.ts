@@ -38,9 +38,14 @@ export const search: DefaultTheme.Config['search'] = {
       }
 
       let contents = src
+
+      //Strip any content wrapped in <!-- search-exclude --> tags
+      contents = contents.replace(/<!--\s*search-exclude\s*-->[\s\S]*?<!--\s*\/search-exclude\s*-->/gi, '')
+
       // I do this as env.frontmatter is not available until I call `md.render`
       if (contents.includes('Beginners Guide'))
         contents = transformGuide(contents)
+
       contents = transform(contents)
       const html = md.render(contents, env)
       return html
