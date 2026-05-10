@@ -760,6 +760,7 @@
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
 * ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [LibreTexts Music](https://human.libretexts.org/Bookshelves/Music) - Music Learning
+* [⁠Z-Tonnetz](https://ztonnetz.com/) - Music Visualization Tool
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -787,7 +788,6 @@
 * [Jazz Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Improvised Jazz
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
-* [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [PerfectPitch](https://artistaiden.com/perfectpitch) - Pitch Recognition Practice
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://www.chiffandfipple.com/) - Irish Traditional Music Forum
@@ -1232,7 +1232,7 @@
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials 
-* [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
+* [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Increase Speed](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming

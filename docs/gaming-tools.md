@@ -11,6 +11,7 @@
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Fixes & Workarounds / [Discord](https://discord.gg/KDfrTZ8)
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
+* ⭐ **[r/CrackWatch](https://www.reddit.com/r/CrackWatch/)**, [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)**, [2](https://hl2b.com/) - Find Average Game Lengths / [Discord](https://discord.gg/v5F26Dk)
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
@@ -43,7 +44,6 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources / Translators
 * [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠Translumo](https://github.com/ramjke/Translumo) - Game Live Translators
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [r/CrackWatch](https://www.reddit.com/r/CrackWatch/), [r/RepackWorld](https://reddit.com/r/RepackWorld), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
 
 ***
@@ -340,7 +340,7 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
-* ⭐ **[Steam-Auto-Crack](https://gitlab.com/steamautocracks)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Auto Apply Cracks / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[Steam-Auto-Crack](https://gitlab.com/steamautocracks/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Auto Apply Cracks / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * [Koalageddon](https://github.com/KA4I/Koalageddon) - DLC Unlocker for Origin, EA, Uplay & Steam
 * [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Multi-Tool w/ DLC Unlockers + Multiplayer Fixes
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)

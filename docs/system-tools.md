@@ -448,6 +448,7 @@
 * [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
 * [theme.park](https://theme-park.dev/) - Custom App Theme
 * [Solarized](https://ethanschoonover.com/solarized/) - Custom App Theme / [GitHub](https://github.com/altercation/solarized)
+* [gruvbox](https://github.com/morhetz/gruvbox) - Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)
 * [⁠Flexoki](https://stephango.com/flexoki/) - Custom App Theme / [GitHub](https://github.com/kepano/flexoki)
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes

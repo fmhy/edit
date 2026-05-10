@@ -188,6 +188,7 @@
 * [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
+* [⁠LACT](https://github.com/ilya-zlobintsev/LACT/) - GPU Config + Monitor
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [systemctl-tui](https://github.com/rgwood/systemctl-tui) - TUI for systemd
 * [nosystemd](https://nosystemd.org/) or [⁠Init Freedom](https://www.devuan.org/os/init-freedom) - Alternatives to systemd
@@ -297,7 +298,7 @@
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux 
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlocker / [Installer](https://github.com/Novattz/creamlinux-installer)
-* [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements
+* [SLSsteam](https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Generate Achievements](https://github.com/xamionex/SLScheevo)
 * [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options
 * [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - Steam Frontend
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
@@ -736,6 +737,7 @@
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
+* [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
 * [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor

@@ -278,6 +278,7 @@
 * [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Emulation Guides⁠
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
+* [CloudRetro](https://cloudretro.io/) - Cloud Gaming Service for Emulators / [GitHub](https://github.com/giongto35/cloud-game)
 * [Two-Torial](https://two-torial.maimaidxprism.plus/) - Arcade Game Emulation Guides
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
@@ -430,7 +431,7 @@
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
-* ⭐ **[webЯcade](https://play.webrcade.com/)** or [PlayGames](https://playgames.onl/) - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
+* ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
 * ⭐ **[DOS Zone](https://dos.zone/)** - Retro PC Browser Emulators / [Discord](https://discord.com/invite/hMVYEbG)
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
@@ -444,6 +445,7 @@
 * [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro Consoles / Archive.org
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
+* [PlayGames](https://playgames.onl/) - Retro Consoles
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
@@ -768,9 +770,9 @@
 * 🌐 **[Browser Craft](https://browsercraft.com/)** - Indie Browser Game Index / Tracker
 * 🌐 **[⁠/r/ioGames Index](https://www.reddit.com/r/IoGames/wiki/index/)** - .io Game Index
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Indie Games / Community Developed
+* ⭐ **[Armor Games](https://armorgames.com/)** - Indie Games / Official Publisher
 * ⭐ **[Nitrome](https://www.nitrome.com/)** - Indie Games / In-House Dev Team
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Indie Games / Community Developed / [Discord](https://discord.gg/qDaYeXPsRK)
-* ⭐ **[Armor Games](https://armorgames.com/)** - Indie Games / Official Publisher
 * [Js13kGames](https://js13kgames.com/entries) - Indie Browser Game Competition
 * [Deepnight](https://deepnight.net/) - Indie Games / In-House Dev Team
 * [watabou](https://watabou.itch.io/) - Indie Games / In-House Dev Team
@@ -954,7 +956,7 @@
 * [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [OpenFront](https://openfront.io/) / [Wiki](https://openfront.wiki/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio) or [Territorial](https://territorial.io/) - Conquest / War Style Games
+* [OpenFront](https://openfront.io/) / [Wiki](https://openfront.wiki/) / [Subreddit](https://www.reddit.com/r/OpenFront/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio) or [Territorial](https://territorial.io/) - Conquest / War Style Games
 * [Warzone](https://www.warzone.com/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
