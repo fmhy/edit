@@ -910,7 +910,6 @@
 * [JP-Films](https://jp-films.com/) - Classic Japanese Movies / TV / 1080p
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animation Archive
 * [Abema](https://abema.tv/) - Live TV
-* [utako](https://web.utako.moe/) - Live TV
 * [iptv-jp](https://rentry.co/fmhyb64#iptv-playlists) - Japanese IPTV Resources
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Movie Archive
 * [SimulRadio](https://simulradio.info/) - Radio
@@ -1311,6 +1310,7 @@
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
 * [PiratBit](https://pb.wtf/), [2](https://piratbit.top/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
+* [⁠Riper.AM ](https://riper.online/) - Video / Audio / Books
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
@@ -1688,7 +1688,7 @@
 * ⭐ **[OpenAnime](https://openani.me/)** - Anime
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/)**, [2](https://www.fullhdfilmizlesene.com) - Movies / Sub / Dub / 1080p
 * [Izlelan](https://izlelan.vercel.app/) - Movies / TV / Anime
-* [Dizipal](https://dizipal1532.com/), [2](https://dizipalx61.com/) - Movies / TV / Sub / Dub / 1080p
+* [Dizipal](https://dizipal1532.com/), [2](https://dizipal1552.com/) - Movies / TV / Sub / Dub / 1080p
 * [Dizilla](https://dizilla.to/) - Movies / TV / Sub / Dub / 1080p
 * [canlidizi14](https://www.canlidizi14.com/) - Movies / TV / Anime
 * [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime
@@ -1795,8 +1795,7 @@
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
-* [onflix](https://onflix.me/) - Movies / TV / Anime
-* [rophim](https://rophim.gg/) - Movies / TV / Anime
+* [rophim](https://rophim1.vip/) - Movies / TV / Anime
 * [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
@@ -1822,7 +1821,6 @@
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [GacSach](https://gacsach.org/) - Books
-* [DocSach24](https://docsach24.co/) - Books
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua

@@ -42,7 +42,6 @@
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [BeatBoss](https://beatboss-web.thevolecitor.qzz.io/) - Browser Music / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
-* [⁠Anixtv Music](https://anixtv.us.cc/music) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [jiosaavn](https://www.jiosaavn.com/), [Saavn Web](https://saavn-web-ui.vercel.app/) / [GitHub](https://github.com/wiz64/saavn-web-ui) or [Hayasaka](https://hayasaka.vercel.app/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
@@ -368,7 +367,6 @@
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Timelineify](https://www.timelineify.com/) - Create Playlist from an Artist's Discography
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
-* [PlaylistProxy](https://playlistproxy.net/) - Share Playlists Anonymously / [GitHub](https://github.com/okanten/playlistproxy.net)
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive), [2](https://github.com/maciejpedzich/spotifyplaylistarchive.com)
 
 ***
@@ -938,7 +936,8 @@
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
 * ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
-* [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [GitHub](https://github.com/stakira/OpenUtau)
+* [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)
+* [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [Guides](https://utauguides.carrd.co/) / [GitHub](https://github.com/stakira/OpenUtau)
 * [Tonocracy](https://tonocracy.com/), [NeuralAmpModeler](https://www.neuralampmodeler.com/), [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Guitar Tones, Effects & Virtual Amps
 * [Tone3000](https://tone3000.com/) - Guitar Tone Profiles
 * [PresetShare](https://presetshare.com/) - Audio Presets / Requires Sign-Up
@@ -979,7 +978,7 @@
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Tracker / Sequencer
 * [Sequencer](https://sequencer.henryfellerhoff.com/), [Draw Audio](https://draw.audio/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [Pianoboi](https://pianoboi.site/) - Piano Sequencers / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
-* [OnlineSequencer](https://onlinesequencer.net/) - MIDI Editors
+* [⁠Signal](https://signalmidi.app/edit) / [Discord](https://discord.com/invite/XQxzNdDJse) / [GitHub](https://github.com/ryohey/signal/) or [OnlineSequencer](https://onlinesequencer.net/) - MIDI Editors
 * [WebSynths](https://www.websynths.com/) - Browser Synthesizers
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
 * [VirtualPiano](https://virtualpiano.net/) - Browser Pianos

@@ -334,7 +334,7 @@
 
 ## ▷ System Audio
 
-* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/), [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
+* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[AutoEQ](https://autoeq.app/)** or [⁠PEQdB](https://peqdb.com/) - Create Custom Equalizer Presets / [Discord](https://discord.gg/B7e8cM76PM)
 * [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
 * [SteelSeries Sonar](https://steelseries.com/gg/sonar) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Cancelling Software
@@ -410,7 +410,7 @@
 
 * 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openrgb-beta.md), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)**, **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [macOS Style](https://redd.it/pd5ha6) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
 * [VirtualCustoms](https://virtualcustoms.net/), [⁠WinClassic](https://winclassic.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
@@ -442,12 +442,18 @@
 
 ## ▷ App Themes
 
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
-* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Theme / [Discord](https://discord.gg/r6Mdz5dpFc)
+* ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Theme / [Discord](https://discord.com/invite/yDcFsrYuq9)
+* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)
+* [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
+* [theme.park](https://theme-park.dev/) - Custom App Theme
+* [Solarized](https://ethanschoonover.com/solarized/) - Custom App Theme / [GitHub](https://github.com/altercation/solarized)
+* [gruvbox](https://github.com/morhetz/gruvbox) - Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)
+* [⁠Flexoki](https://stephango.com/flexoki/) - Custom App Theme / [GitHub](https://github.com/kepano/flexoki)
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - System Monitor Themes
-* [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
+* [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
 
 ***
 
@@ -457,7 +463,6 @@
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / Some NSFW / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
 * ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** / [GitHub](https://github.com/not-ayan/wallwidgy), [⁠Fluffy](https://wp.kernal.bid/), [Simple Desktops](https://simpledesktops.com/) or [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) - Minimalist Wallpapers
-* ⭐ **[Rev Wallpaper](https://weris.ordinall.dev/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
 * [WallpaperCave](https://wallpapercave.com/) - Search Wallpapers
@@ -466,7 +471,8 @@
 * [⁠WallBrowser](https://wallbrowser.com/) - Search Wallpapers
 * [VSThemes](https://vsthemes.org/en/) - Search Wallpapers
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Search Wallpapers
-* [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
+* [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Subreddit
+* [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
 * [⁠Kawaii Hoshi](https://kawaiihoshi.com/) - Cute Wallpapers
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers

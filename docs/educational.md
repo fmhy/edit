@@ -40,7 +40,6 @@
 
 * 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
 * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
-* ↪️ **[Chemistry Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chemistry_lessons)**
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
@@ -243,6 +242,7 @@
 * 🌐 **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - Electronic Engineering Resources
 * 🌐 **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - Engineering Blogs
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+* ↪️ **[Vehicle Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)**
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
 * ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)** or [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
@@ -255,7 +255,8 @@
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning 
+* [VisRo Robotics](https://vis-ro.web.app) / [Discord](https://discord.com/invite/TfwZ3hH2D2) or [⁠VittaScience](https://en.vittascience.com/code) - Robotics Learning
+* [⁠Humanity's Last Machine](https://www.humanityslastmachine.com/) or [Humanoid Atlas](https://www.humanoids.fyi/) / [GitHub](https://github.com/kingjulio8238/humanoid-atlas) - Humanoid Robotics Hardware & Supply Chain Analysis
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [Diode](https://www.withdiode.com/) - 3D Hardware Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
@@ -312,7 +313,7 @@
 * [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
 * [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
-* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Guides and Resources
+* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Resources, Hardware & Supply Chain Analysis / [X](https://x.com/osoraku_1997)
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
@@ -324,7 +325,6 @@
 ## ▷ Chemistry
 
 * 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
-* ↪️ **[Chemistry Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chemistry_lessons)**
 * ↪️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
 * ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
@@ -333,9 +333,9 @@
 * [ChemicalAid](https://www.chemicalaid.com/), [⁠WebQC](https://www.webqc.org/) or [Chemequations](https://chemequations.com/en/) - Chemistry Calculators / Element Tables
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
+* [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor), [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html) or [PeriodicVideos](http://www.periodicvideos.com/) - Chemistry Lessons
 * [ChemistrySteps](https://www.chemistrysteps.com/), [⁠ChemQuiz](https://chemquiz.net/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
-* [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides* [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [⁠Compound Interest](https://www.compoundchem.com/infographics/) - Chemistry Infographics
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
@@ -652,7 +652,9 @@
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
+* [⁠WikiMapped](https://wikimapped.mukul-mehta.in/) - 1.3M Wikipedia Articles Geolocated on Map
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
+* [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [City Data](https://www.city-data.com/) - US City Data
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
 * [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
@@ -719,6 +721,7 @@
 # ► Skills / Hobbies / DIY
 
 * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
+* ↪️ **[Fashion / Clothing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
 * ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_puzzle_games)**
@@ -726,7 +729,7 @@
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
-* [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/), [Antique Pattern Library](https://www.antiquepatternlibrary.org/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Sewing Patterns
+* [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library
 * [⁠RSN Stitch Bank](https://rsnstitchbank.org/) - Embroidery Stiches / Lessons
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
@@ -757,7 +760,9 @@
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
 * ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [LibreTexts Music](https://human.libretexts.org/Bookshelves/Music) - Music Learning
+* [⁠Z-Tonnetz](https://ztonnetz.com/) - Music Visualization Tool
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
+* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/), [⁠Tuner](https://codeberg.org/thetwom/Tuner) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner
@@ -783,7 +788,6 @@
 * [Jazz Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Improvised Jazz
 * [LearningSynths](https://learningsynths.ableton.com/) - Synthesizers
 * [Sight Singing Factory](https://www.sightreadingfactory.com/) - Sight Singing Practice
-* [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [PerfectPitch](https://artistaiden.com/perfectpitch) - Pitch Recognition Practice
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [ChiffAndFipple](https://www.chiffandfipple.com/) - Irish Traditional Music Forum
@@ -828,7 +832,6 @@
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [AnatomyArchive](https://www.anatomyarchive.org/) - Human Anatomy Drawing Tutorials
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
-* [Reference Angle](http://referenceangle.com/) - Human Photo Reference Search
 * [x6ud](https://x6ud.github.io/#/) - Animal Photo Reference Search
 * [Thomas Romain Perspective](https://ibb.co/album/chGtPJ?sort=name_asc) - Perspective Guide
 * [Dimensions](https://www.dimensions.com/) - Object Dimension Reference
@@ -1229,7 +1232,7 @@
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials 
-* [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Javascript Converter](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
+* [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Increase Speed](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
@@ -1427,7 +1430,7 @@
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
 * [VisuAlgo](https://visualgo.net/) or [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Data Structure & Algorithm Visualizations
-* [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
+* [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visualizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
 * [Memery Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
 
@@ -1723,6 +1726,7 @@
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
+* [namuwiki](https://en.namu.wiki/) - Korean Encyclopedia
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
 * [Encyclopedia](https://www.encyclopedia.com/)

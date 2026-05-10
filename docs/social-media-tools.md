@@ -36,7 +36,7 @@
 ***
 
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
-* ⭐ **[embeddr.top](https://embeddr.top/)**, **[x266.mov](https://x266.mov/discord-embed/)**, [⁠Discord Embed Fixer](https://fixembed.site/), [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
+* ⭐ **[embeddr.top](https://embeddr.top/)**, [⁠Discord Embed Fixer](https://fixembed.site/), [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
@@ -429,7 +429,9 @@
 * [Tube All Images](https://imageyoutube.com/) - Download YouTube Images
 * [YTThumbnailHD](https://ytthumbnailhd.com/), [YT-Thumbnail-Grabber](https://youtube-thumbnail-grabber.org/), [ThumbnailDownloader](https://www.thumbnaildownloader.art/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
-* [YT Subtitle Downloader](https://addons.mozilla.org/firefox/addon/youtube-subtitle-downloader/) - Download Video Subtitles / [GitHub](https://github.com/lockex1987/youtube-subtitle-downloader)
+* [⁠ytsubdl](https://ytsubdl.com/) or [YT Subtitle Downloader](https://addons.mozilla.org/firefox/addon/youtube-subtitle-downloader/) / [GitHub](https://github.com/lockex1987/youtube-subtitle-downloader) - Extract Subtitles from YouTube Videos
+
+
 
 ***
 
@@ -629,7 +631,7 @@
 * [KittyGram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends
 * [⁠ReelSave](https://reelsave.app/) - Instagram Video / Audio Downloader
 * [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) - Embed Fixer and Downloader
-* [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
+* [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
 * [Unfollow-Everyone](https://github.com/tlorien/Unfollow-Everyone-on-Instagram) - Bulk Instagram Unfollow

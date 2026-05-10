@@ -72,8 +72,8 @@
 
 ## ▷ DNS Filters
 
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* ⭐ **[OISD](https://oisd.nl/)**
+* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Multi-Source Domain Blocklist / Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+* ⭐ **[OISD](https://oisd.nl/)** - Multi-Source Domain Blocklist
 * [hBlock](https://github.com/hectorm/hblock)
 * [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
 * [Spamhaus](https://www.spamhaus.org/blocklists/)
@@ -126,7 +126,7 @@
 * 🌐 **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - Portable Malware Scanners / Removal Tools / [GitHub](https://github.com/jijirae/thesecondopinion/)
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://claraiscute.neocities.org/Guides/vtguide/), [2](https://claraiscute.pages.dev/Guides/vtguide/) or **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
 * ⭐ **VirusTotal Tools** - [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
-* [⁠Threat Insights Portal](https://www.threat.rip/) - Online File Scanner / [Discord](https://discord.com/invite/p2YbdzJ6f2)
+* [⁠Threat Insights Portal](https://www.threat.rip/) - Online File Scanner / Sign-Up Required / [Discord](https://discord.com/invite/p2YbdzJ6f2)
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
 * [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
 * [Farbar](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) - Local File Scanner / [Guide](https://www.bleepingcomputer.com/forums/t/781976/)
