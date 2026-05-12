@@ -723,6 +723,7 @@
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
 * [GLM-OCR](https://ocr.z.ai/) - Online OCR
 * [OCR.SPACE](https://ocr.space/) - Online OCR
+* [ScanRead.ai](https://scanread.ai/) - Online OCR / 100+ Languages / Handwriting
 * [OCRTool](https://ocrtool.net/) - Online OCR
 * [2OCR](https://2ocr.com/) - Online OCR
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
