@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
-import { inBrowser } from 'vitepress'
-import { computed, provide, watchEffect, ref, watch, onMounted } from 'vue'
-import { useNav } from 'vitepress/dist/client/theme-default/composables/nav'
+import { useWindowScroll, useWindowSize } from '@vueuse/core'
+import { inBrowser, useData } from 'vitepress'
 import VPNavBar from 'vitepress/dist/client/theme-default/components/VPNavBar.vue'
 import VPNavScreen from 'vitepress/dist/client/theme-default/components/VPNavScreen.vue'
-import { useWindowScroll, useWindowSize } from '@vueuse/core'
+import { useNav } from 'vitepress/dist/client/theme-default/composables/nav'
+import { computed, onMounted, provide, ref, watch, watchEffect } from 'vue'
 
 const { isScreenOpen, closeScreen, toggleScreen } = useNav()
 const { frontmatter } = useData()
@@ -28,24 +27,24 @@ const { width } = useWindowSize()
 const isHidden = ref(false)
 
 const updateMobileNavClass = (hidden: boolean) => {
-    if (!inBrowser) return
-    if (hidden) {
-        document.documentElement.classList.remove('vp-nav-shown-mobile')
-    } else {
-        document.documentElement.classList.add('vp-nav-shown-mobile')
-    }
+  if (!inBrowser) return
+  if (hidden) {
+    document.documentElement.classList.remove('vp-nav-shown-mobile')
+  } else {
+    document.documentElement.classList.add('vp-nav-shown-mobile')
+  }
 }
 
 watch(y, (newY, oldY) => {
   if (!inBrowser) return
-  
+
   // If at top, show
   if (newY <= 0) {
     isHidden.value = false
     updateMobileNavClass(false)
     return
   }
-  
+
   // Only apply on mobile (< 960px usually)
   if (width.value < 960) {
     if (newY > oldY) {
@@ -58,23 +57,22 @@ watch(y, (newY, oldY) => {
       updateMobileNavClass(false)
     }
   } else {
-     isHidden.value = false
-     updateMobileNavClass(false)
+    isHidden.value = false
+    updateMobileNavClass(false)
   }
 })
 
 onMounted(() => {
-    updateMobileNavClass(isHidden.value)
+  updateMobileNavClass(isHidden.value)
 })
 
 // Watch width to reset if resizing to desktop
 watch(width, (newWidth) => {
-    if(newWidth >= 960) {
-        isHidden.value = false
-        updateMobileNavClass(false)
-    }
+  if (newWidth >= 960) {
+    isHidden.value = false
+    updateMobileNavClass(false)
+  }
 })
-
 </script>
 
 <template>
@@ -83,14 +81,26 @@ watch(width, (newWidth) => {
 
   <header v-if="hasNavbar" class="VPNav" :class="{ 'nav-hidden': isHidden }">
     <VPNavBar :is-screen-open="isScreenOpen" @toggle-screen="toggleScreen">
-      <template #nav-bar-title-before><slot name="nav-bar-title-before" /></template>
-      <template #nav-bar-title-after><slot name="nav-bar-title-after" /></template>
-      <template #nav-bar-content-before><slot name="nav-bar-content-before" /></template>
-      <template #nav-bar-content-after><slot name="nav-bar-content-after" /></template>
+      <template #nav-bar-title-before>
+        <slot name="nav-bar-title-before" />
+      </template>
+      <template #nav-bar-title-after>
+        <slot name="nav-bar-title-after" />
+      </template>
+      <template #nav-bar-content-before>
+        <slot name="nav-bar-content-before" />
+      </template>
+      <template #nav-bar-content-after>
+        <slot name="nav-bar-content-after" />
+      </template>
     </VPNavBar>
     <VPNavScreen :open="isScreenOpen">
-      <template #nav-screen-content-before><slot name="nav-screen-content-before" /></template>
-      <template #nav-screen-content-after><slot name="nav-screen-content-after" /></template>
+      <template #nav-screen-content-before>
+        <slot name="nav-screen-content-before" />
+      </template>
+      <template #nav-screen-content-after>
+        <slot name="nav-screen-content-after" />
+      </template>
     </VPNavScreen>
   </header>
 </template>
@@ -103,7 +113,9 @@ watch(width, (newWidth) => {
   z-index: var(--vp-z-index-nav);
   width: 100%;
   pointer-events: none;
-  transition: background-color 0.5s, transform 0.25s ease-in-out;
+  transition:
+    background-color 0.5s,
+    transform 0.25s ease-in-out;
 }
 
 @media (min-width: 960px) {
@@ -117,7 +129,7 @@ watch(width, (newWidth) => {
   .VPNav {
     position: fixed; /* Fix header on mobile */
   }
-  
+
   .VPNav.nav-hidden {
     transform: translateY(-100%); /* Hide on scroll down */
   }
@@ -129,18 +141,18 @@ watch(width, (newWidth) => {
 }
 
 @media (min-width: 960px) {
-    .vp-nav-spacer {
-        display: none;
-    }
+  .vp-nav-spacer {
+    display: none;
+  }
 }
 
 /* Ensure Nav Screen is visible above everything else when open */
 :deep(.VPNav.screen-open) {
-    z-index: var(--vp-z-index-nav) !important;
+  z-index: var(--vp-z-index-nav) !important;
 }
 /* When screen is open, disable the hide transform so it doesn't fly away if they scroll */
-:global(.VPNav:has(.VPNavScreen[style*="display: block"])) { 
-    transform: none !important;
+:global(.VPNav:has(.VPNavScreen[style*='display: block'])) {
+  transform: none !important;
 }
 </style>
 

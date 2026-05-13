@@ -71,8 +71,10 @@ export const saasTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #6366f1 30%, #38bdf8)',
-        heroImageBackground: 'linear-gradient(-45deg, #6366f1 50%, #38bdf8 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #6366f1 30%, #38bdf8)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #6366f1 50%, #38bdf8 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -142,15 +144,18 @@ export const saasTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #818cf8 30%, #38bdf8)',
-        heroImageBackground: 'linear-gradient(-45deg, #818cf8 50%, #38bdf8 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #818cf8 30%, #38bdf8)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #818cf8 50%, #38bdf8 50%)',
         heroImageFilter: 'blur(44px)'
       }
     }
   },
   fonts: {
     body: "'Inter', 'Geist', 'SF Pro Text', system-ui, -apple-system, sans-serif",
-    heading: "'Inter', 'Geist', 'SF Pro Display', system-ui, -apple-system, sans-serif"
+    heading:
+      "'Inter', 'Geist', 'SF Pro Display', system-ui, -apple-system, sans-serif"
   },
   borderRadius: '12px',
   spacing: {
@@ -159,8 +164,10 @@ export const saasTheme: Theme = {
     large: '20px'
   },
   customProperties: {
-    '--vp-saas-card-shadow': '0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04)',
-    '--vp-saas-card-hover-shadow': '0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04)',
+    '--vp-saas-card-shadow':
+      '0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px -1px rgba(0, 0, 0, 0.04)',
+    '--vp-saas-card-hover-shadow':
+      '0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04)',
     '--vp-saas-card-radius': '12px',
     '--vp-saas-card-border': '1px solid rgba(0, 0, 0, 0.06)',
     '--vp-saas-card-padding': '20px'

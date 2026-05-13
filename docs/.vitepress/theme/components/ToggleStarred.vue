@@ -14,10 +14,13 @@ const syncState = () => {
 let observer: MutationObserver | undefined
 
 onMounted(() =>
-  (observer = new MutationObserver(syncState)).observe(document.documentElement, {
-    attributes: true,
-    attributeFilter: ['class']
-  })
+  (observer = new MutationObserver(syncState)).observe(
+    document.documentElement,
+    {
+      attributes: true,
+      attributeFilter: ['class']
+    }
+  )
 )
 
 onMounted(syncState)

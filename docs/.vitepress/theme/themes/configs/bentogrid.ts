@@ -72,7 +72,8 @@ export const bentogridTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: '#C5A5F6',
-        heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -137,8 +138,10 @@ export const bentogridTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-        heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
         heroImageFilter: 'blur(44px)'
       }
     }
@@ -154,7 +157,8 @@ export const bentogridTheme: Theme = {
     '--vp-bento-grid-radius': '16px',
     '--vp-bento-card-padding': '24px',
     '--vp-bento-card-min-height': '120px',
-    '--vp-bento-card-shadow': '0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.05)',
+    '--vp-bento-card-shadow':
+      '0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.05)',
     '--vp-bento-card-border': '1px solid rgba(0, 0, 0, 0.06)',
     '--vp-bento-grid-wide-min': '320px',
     '--vp-bento-grid-narrow-min': '240px'

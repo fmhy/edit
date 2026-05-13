@@ -144,8 +144,8 @@ export const excluded = [
   'feedback.md',
   'index.md',
   'sandbox.md',
-   'startpage.md',
-   'monotype.md'
+  'startpage.md',
+  'monotype.md'
 ]
 
 export function getHeader(id: string) {

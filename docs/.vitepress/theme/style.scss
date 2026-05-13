@@ -1,5 +1,7 @@
 body {
-  transition: background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1), color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition:
+    background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1),
+    color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 :root {
@@ -87,7 +89,6 @@ body {
 }
 
 .monochrome {
-
   [class*='i-'],
   svg,
   img:not(.VPImage) {
@@ -106,7 +107,9 @@ body {
 
   .switch .thumb {
     background-color: #fff !important;
-    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+    box-shadow:
+      0 0 0 2px rgba(0, 0, 0, 0.25),
+      var(--vp-shadow-1);
   }
 
   .switch.enabled {
@@ -116,14 +119,19 @@ body {
 
   .switch.enabled .thumb {
     background-color: #000 !important;
-    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+    box-shadow:
+      0 0 0 2px rgba(0, 0, 0, 0.25),
+      var(--vp-shadow-1);
   }
 }
 
 .saas {
-  --vp-saas-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.06);
-  --vp-saas-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
-  --vp-saas-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --vp-saas-shadow-sm:
+    0 1px 2px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.06);
+  --vp-saas-shadow-md:
+    0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+  --vp-saas-shadow-lg:
+    0 12px 40px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
   --vp-saas-radius-sm: 8px;
   --vp-saas-radius-md: 12px;
   --vp-saas-radius-lg: 16px;
@@ -413,7 +421,11 @@ body {
     }
 
     .container .items .VPFeature:hover .icon {
-      background: color-mix(in srgb, var(--vp-c-brand-soft) 20%, var(--vp-c-bg-alt));
+      background: color-mix(
+        in srgb,
+        var(--vp-c-brand-soft) 20%,
+        var(--vp-c-bg-alt)
+      );
     }
 
     .container .items .VPFeature .title {
@@ -553,7 +565,12 @@ body {
   }
 
   .vp-doc .custom-block.info {
-    border-image: linear-gradient(180deg, var(--vp-c-brand-1), var(--vp-c-brand-soft)) 0 0 0 1;
+    border-image: linear-gradient(
+        180deg,
+        var(--vp-c-brand-1),
+        var(--vp-c-brand-soft)
+      )
+      0 0 0 1;
     border-left: 4px solid;
     border-image-slice: 1;
   }
@@ -666,12 +683,19 @@ body {
 }
 
 .dark .saas {
-  --vp-saas-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.3);
-  --vp-saas-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25), 0 1px 3px rgba(0, 0, 0, 0.15);
-  --vp-saas-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.3), 0 4px 12px rgba(0, 0, 0, 0.2);
+  --vp-saas-shadow-sm:
+    0 1px 2px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.3);
+  --vp-saas-shadow-md:
+    0 4px 12px rgba(0, 0, 0, 0.25), 0 1px 3px rgba(0, 0, 0, 0.15);
+  --vp-saas-shadow-lg:
+    0 12px 40px rgba(0, 0, 0, 0.3), 0 4px 12px rgba(0, 0, 0, 0.2);
 
   .VPFeatures .container .items .VPFeature:hover .icon {
-    background: color-mix(in srgb, var(--vp-c-brand-soft) 15%, var(--vp-c-bg-alt));
+    background: color-mix(
+      in srgb,
+      var(--vp-c-brand-soft) 15%,
+      var(--vp-c-bg-alt)
+    );
   }
 }
 
@@ -734,7 +758,11 @@ body {
   }
 
   .VPNavBar:not(.has-sidebar) {
-    background-color: color-mix(in srgb, var(--vp-c-bg) 82%, transparent) !important;
+    background-color: color-mix(
+      in srgb,
+      var(--vp-c-bg) 82%,
+      transparent
+    ) !important;
   }
 
   .VPNavBar.has-sidebar {
@@ -1314,7 +1342,11 @@ body {
   --vp-neumo-glow: 0 0 20px rgba(55, 60, 72, 0.1);
 
   .VPNavBar:not(.has-sidebar) {
-    background-color: color-mix(in srgb, var(--vp-c-bg) 82%, transparent) !important;
+    background-color: color-mix(
+      in srgb,
+      var(--vp-c-bg) 82%,
+      transparent
+    ) !important;
   }
 
   .VPNavBar.has-sidebar {
@@ -1332,7 +1364,11 @@ body {
   --vp-neumo-glow: 0 0 20px rgba(255, 255, 255, 0.04);
 
   .VPNavBar:not(.has-sidebar) {
-    background-color: color-mix(in srgb, var(--vp-c-bg) 85%, transparent) !important;
+    background-color: color-mix(
+      in srgb,
+      var(--vp-c-bg) 85%,
+      transparent
+    ) !important;
   }
 
   .VPNavBar.has-sidebar {
@@ -1884,11 +1920,18 @@ body {
   --vp-canvas-dot-color: var(--vp-infinite-dot-color, rgba(0, 0, 0, 0.06));
   --vp-canvas-dot-size: var(--vp-infinite-dot-size, 20px);
 
-  background-image: radial-gradient(circle, var(--vp-canvas-dot-color) 1px, transparent 1px);
+  background-image: radial-gradient(
+    circle,
+    var(--vp-canvas-dot-color) 1px,
+    transparent 1px
+  );
   background-size: var(--vp-canvas-dot-size) var(--vp-canvas-dot-size);
 
   .dark & {
-    --vp-canvas-dot-color: var(--vp-infinite-dot-color-dark, rgba(255, 255, 255, 0.06));
+    --vp-canvas-dot-color: var(
+      --vp-infinite-dot-color-dark,
+      rgba(255, 255, 255, 0.06)
+    );
   }
 
   .VPNavBar {
@@ -1897,11 +1940,17 @@ body {
   }
 
   .VPNavBar:not(.has-sidebar) {
-    background: var(--vp-infinite-glass-bg, rgba(255, 255, 255, 0.6)) !important;
+    background: var(
+      --vp-infinite-glass-bg,
+      rgba(255, 255, 255, 0.6)
+    ) !important;
     border-bottom: 1px solid rgba(0, 0, 0, 0.04);
 
     .dark & {
-      background: var(--vp-infinite-glass-bg-dark, rgba(24, 24, 27, 0.6)) !important;
+      background: var(
+        --vp-infinite-glass-bg-dark,
+        rgba(24, 24, 27, 0.6)
+      ) !important;
       border-bottom: 1px solid rgba(255, 255, 255, 0.04);
     }
   }
@@ -2003,7 +2052,7 @@ body {
     border-radius: var(--vp-infinite-card-radius, 12px);
     padding: var(--vp-infinite-card-padding, 24px);
     background: var(--vp-c-bg-elv);
-    box-shadow: var(--vp-infinite-card-shadow, 0 1px 3px rgba(0,0,0,0.04));
+    box-shadow: var(--vp-infinite-card-shadow, 0 1px 3px rgba(0, 0, 0, 0.04));
     border: 1px solid transparent;
     height: 100%;
   }
@@ -2112,7 +2161,10 @@ body {
 }
 
 .dark .infinite-canvas {
-  --vp-canvas-dot-color: var(--vp-infinite-dot-color-dark, rgba(255, 255, 255, 0.06));
+  --vp-canvas-dot-color: var(
+    --vp-infinite-dot-color-dark,
+    rgba(255, 255, 255, 0.06)
+  );
 
   .VPFeatures .container .items .VPFeature {
     border-color: rgba(255, 255, 255, 0.08);
@@ -2254,7 +2306,8 @@ body {
   --bento-pad-sm: 16px;
   --bento-sidebar-width: 260px;
   --bento-border: 1px solid var(--vp-c-divider);
-  --bento-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+  --bento-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
   --bento-card-bg: var(--vp-c-bg);
   --bento-surface-bg: var(--vp-c-bg-elv);
 
@@ -2289,9 +2342,9 @@ body {
       grid-template-columns: var(--bento-sidebar-width) 1fr;
       grid-template-rows: auto 1fr auto;
       grid-template-areas:
-        "nav nav"
-        "sidebar content"
-        "footer footer";
+        'nav nav'
+        'sidebar content'
+        'footer footer';
       gap: var(--bento-gap);
       padding: var(--bento-gap);
       max-width: 1440px;
@@ -2497,25 +2550,25 @@ body {
   }
 
   /* Feature card accent left borders (color-coded) */
-  .VPFeatures .container .items .item:nth-child(7n+1) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 1) .VPFeature {
     border-left: 4px solid var(--bento-accent-1);
   }
-  .VPFeatures .container .items .item:nth-child(7n+2) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 2) .VPFeature {
     border-left: 4px solid var(--bento-accent-2);
   }
-  .VPFeatures .container .items .item:nth-child(7n+3) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 3) .VPFeature {
     border-left: 4px solid var(--bento-accent-3);
   }
-  .VPFeatures .container .items .item:nth-child(7n+4) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 4) .VPFeature {
     border-left: 4px solid var(--bento-accent-4);
   }
-  .VPFeatures .container .items .item:nth-child(7n+5) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 5) .VPFeature {
     border-left: 4px solid var(--bento-accent-5);
   }
-  .VPFeatures .container .items .item:nth-child(7n+6) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 6) .VPFeature {
     border-left: 4px solid var(--bento-accent-6);
   }
-  .VPFeatures .container .items .item:nth-child(7n+7) .VPFeature {
+  .VPFeatures .container .items .item:nth-child(7n + 7) .VPFeature {
     border-left: 4px solid var(--bento-accent-7);
   }
 
@@ -2704,9 +2757,9 @@ body {
     .Layout {
       grid-template-columns: 1fr !important;
       grid-template-areas:
-        "nav"
-        "content"
-        "footer" !important;
+        'nav'
+        'content'
+        'footer' !important;
       gap: 8px;
       padding: 8px;
     }

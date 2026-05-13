@@ -72,7 +72,8 @@ export const infiniteCanvasTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: 'linear-gradient(135deg, #4F46E5, #EC4899)',
-        heroImageBackground: 'linear-gradient(135deg, #EEF2FF 0%, #FAFAFA 100%)',
+        heroImageBackground:
+          'linear-gradient(135deg, #EEF2FF 0%, #FAFAFA 100%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -143,7 +144,8 @@ export const infiniteCanvasTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: 'linear-gradient(135deg, #818CF8, #F472B6)',
-        heroImageBackground: 'linear-gradient(135deg, #18181B 0%, #27272A 100%)',
+        heroImageBackground:
+          'linear-gradient(135deg, #18181B 0%, #27272A 100%)',
         heroImageFilter: 'blur(44px)'
       }
     }
@@ -162,8 +164,10 @@ export const infiniteCanvasTheme: Theme = {
     '--vp-infinite-dot-color': 'rgba(0, 0, 0, 0.06)',
     '--vp-infinite-dot-color-dark': 'rgba(255, 255, 255, 0.06)',
     '--vp-infinite-dot-size': '20px',
-    '--vp-infinite-card-shadow': '0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03)',
-    '--vp-infinite-card-hover-shadow': '0 4px 12px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.04)',
+    '--vp-infinite-card-shadow':
+      '0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03)',
+    '--vp-infinite-card-hover-shadow':
+      '0 4px 12px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.04)',
     '--vp-infinite-card-radius': '12px',
     '--vp-infinite-card-border': '1px solid rgba(0,0,0,0.04)',
     '--vp-infinite-card-padding': '24px',

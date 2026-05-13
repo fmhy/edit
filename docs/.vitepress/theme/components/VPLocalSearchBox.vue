@@ -1,28 +1,31 @@
 <script lang="ts" setup>
 /**
  * VPLocalSearchBox - Enhanced Local Search Modal Component
- * 
+ *
  * Base: VitePress default local search component
- * 
+ *
  * Custom Features Added:
  * ----------------------
  * 1. Fuzzy Search Toggle
  *    - Toggle between exact and fuzzy matching modes
  *    - Fuzzy mode includes typo tolerance and multi-word queries
  *    - Searches both space-separated and dash-separated variants
- * 
+ *
  * 2. Smart Highlight Merging (Fuzzy Mode)
  *    - Automatically merges nearby highlights (< 20px apart) in fuzzy mode
  *    - Reduces navigation tedium when multiple words are highlighted
  *    - Preserves text between merged highlights
- * 
+ *
  * 3. Match Navigation System
  *    - Navigate through highlights with left/right arrow keys
  *    - Visual controls: prev/next buttons with match counter (e.g., "2/5")
  *    - Smooth scrolling to center the active match
  *    - Yellow highlight for currently focused match
- * 
+ *
  */
+import type { SearchResult } from 'minisearch'
+import type { ModalTranslations } from 'vitepress/types/local-search'
+import type { Ref } from 'vue'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -34,9 +37,15 @@ import {
   useSessionStorage
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
+import FloatingVue from 'floating-vue'
 import Mark from 'mark.js/src/vanilla.js'
-import MiniSearch, { type SearchResult } from 'minisearch'
+import MiniSearch from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
+import { pathToFile } from 'vitepress/dist/client/app/utils'
+import { escapeRegExp } from 'vitepress/dist/client/shared'
+import { useData } from 'vitepress/dist/client/theme-default/composables/data'
+import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
+import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import {
   computed,
   createApp,
@@ -48,18 +57,10 @@ import {
   shallowRef,
   triggerRef,
   watch,
-  watchEffect,
-  type Ref
+  watchEffect
 } from 'vue'
-import type { ModalTranslations } from 'vitepress/types/local-search'
-import { pathToFile } from 'vitepress/dist/client/app/utils'
-import { escapeRegExp } from 'vitepress/dist/client/shared'
-import { useData } from 'vitepress/dist/client/theme-default/composables/data'
-import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
-import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
-import Tooltip from './Tooltip.vue'
-import FloatingVue from 'floating-vue'
 import { sidebar } from '../../shared'
+import Tooltip from './Tooltip.vue'
 
 const emit = defineEmits<{
   (e: 'close'): void
@@ -118,7 +119,10 @@ const searchIndex = computedAsync(async () =>
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
         tokenize: (text: string) =>
-          text.replace(/[\u2060\u200B]/g, '').split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/).filter((t) => t),
+          text
+            .replace(/[\u2060\u200B]/g, '')
+            .split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/)
+            .filter((t) => t),
         searchOptions: {
           fuzzy: false,
           prefix: true,
@@ -195,8 +199,18 @@ const cache = new LRUCache<string, Map<string, string>>(16)
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 debouncedWatch(
-  () => [searchIndex.value, filterText.value, showDetailedList.value, isFuzzySearch.value] as const,
-  async ([index, filterTextValue, showDetailedListValue, fuzzySearchValue], old, onCleanup) => {
+  () =>
+    [
+      searchIndex.value,
+      filterText.value,
+      showDetailedList.value,
+      isFuzzySearch.value
+    ] as const,
+  async (
+    [index, filterTextValue, showDetailedListValue, fuzzySearchValue],
+    old,
+    onCleanup
+  ) => {
     if (old?.[0] !== index) {
       // Clear cache on index change (e.g., locale switch or HMR update)
       cache.clear()
@@ -272,10 +286,7 @@ debouncedWatch(
         // A string query might default to AND depending on global config, which would fail here.
         query = {
           combineWith: 'OR',
-          queries: [
-            filterTextValue,
-            ...candidateTerms
-          ]
+          queries: [filterTextValue, ...candidateTerms]
         }
       }
     }
@@ -298,9 +309,12 @@ debouncedWatch(
     results.value = rawResults.map((r) => {
       const [id] = r.id.split('#')
       const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
-      const pageTitle = findPageTitle(Array.isArray(sidebar) ? sidebar : [], cleanPath)
+      const pageTitle = findPageTitle(
+        Array.isArray(sidebar) ? sidebar : [],
+        cleanPath
+      )
       const titles = [...r.titles]
-      
+
       if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
         titles.unshift(pageTitle)
       }
@@ -325,7 +339,7 @@ debouncedWatch(
       const [id, anchor] = r.id.split('#')
       const map = cache.get(id)
       const text = map?.get(anchor) ?? ''
-      
+
       if (isFuzzySearch.value) {
         for (const term in r.match) {
           terms.add(term)
@@ -362,18 +376,22 @@ debouncedWatch(
       await mergeNearbyMarks()
     }
 
-    const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? []) as HTMLElement[]
+    const excerpts = Array.from(
+      el.value?.querySelectorAll('.result .excerpt') ?? []
+    ) as HTMLElement[]
     for (const excerpt of excerpts) {
-      const mark = excerpt.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      const mark = excerpt.querySelector(
+        'mark[data-markjs="true"]'
+      ) as HTMLElement | null
       if (mark) {
         const markTop = mark.offsetTop
         const markHeight = mark.offsetHeight
         const excerptHeight = excerpt.clientHeight
-        
+
         excerpt.scrollTop = markTop - excerptHeight / 2 + markHeight / 2
       }
     }
-    
+
     /**
      * Custom feature: Initialize match navigation state.
      * Collects all highlight marks in each result for prev/next navigation.
@@ -381,10 +399,12 @@ debouncedWatch(
      */
     const newResultMarks = new Map<number, HTMLElement[]>()
     const newCurrentMarkIndex = new Map<number, number>()
-    
+
     results.value.forEach((_, index) => {
       const item = el.value?.querySelector(`#localsearch-item-${index}`)
-      const marks = Array.from(item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []) as HTMLElement[]
+      const marks = Array.from(
+        item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []
+      ) as HTMLElement[]
       if (marks.length > 0) {
         newResultMarks.set(index, marks)
         newCurrentMarkIndex.set(index, 0)
@@ -409,18 +429,22 @@ const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
  * Merges adjacent highlight marks that are visually close together.
  * This reduces the number of navigation stops in fuzzy mode where
  * each individual word match would otherwise be a separate highlight.
- * 
+ *
  * Merging criteria:
  * - Marks must be on the same line (within 5px vertical distance)
  * - Marks must be close horizontally (< 20px apart)
  */
 async function mergeNearbyMarks() {
-  const excerpts = Array.from(el.value?.querySelectorAll('.result .excerpt') ?? [])
-  
+  const excerpts = Array.from(
+    el.value?.querySelectorAll('.result .excerpt') ?? []
+  )
+
   for (const excerpt of excerpts) {
-    const marks = Array.from(excerpt.querySelectorAll('mark[data-markjs="true"]')) as HTMLElement[]
+    const marks = Array.from(
+      excerpt.querySelectorAll('mark[data-markjs="true"]')
+    ) as HTMLElement[]
     if (marks.length <= 1) continue
-    
+
     // Process marks to merge those within 20 characters of each other
     let i = 0
     while (i < marks.length - 1) {
@@ -432,21 +456,22 @@ async function mergeNearbyMarks() {
         i++
         continue
       }
-      
+
       // Calculate distance between marks
       const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
       const nextStart = nextMark.offsetLeft
       const distance = nextStart - currentEnd
-      
+
       // Also check if they're on the same line (similar offsetTop)
-      const onSameLine = Math.abs(currentMark.offsetTop - nextMark.offsetTop) < 5
-      
+      const onSameLine =
+        Math.abs(currentMark.offsetTop - nextMark.offsetTop) < 5
+
       // Merge if they're close (within 20px) and on the same line
       if (distance >= 0 && distance < 20 && onSameLine) {
         // Collect text between and remove intermediate nodes
         let textBetween = ''
         let node = currentMark.nextSibling
-        
+
         while (node && node !== nextMark) {
           textBetween += node.textContent || ''
           const next = node.nextSibling
@@ -454,9 +479,10 @@ async function mergeNearbyMarks() {
           node = next
         }
 
-        const mergedText = currentMark.textContent + textBetween + nextMark.textContent
+        const mergedText =
+          currentMark.textContent + textBetween + nextMark.textContent
         currentMark.textContent = mergedText
-        
+
         // Remove the next mark
         nextMark.remove()
         marks.splice(i + 1, 1)
@@ -487,13 +513,13 @@ function nextMatch(index: number) {
   // Add 'current' class to new mark
   const newMark = marks[curr]
   newMark.classList.add('current')
-  
+
   const excerpt = newMark.closest('.excerpt')
   if (excerpt) {
     const markTop = newMark.offsetTop
     const markHeight = newMark.offsetHeight
     const excerptHeight = excerpt.clientHeight
-    
+
     excerpt.scrollTo({
       top: markTop - excerptHeight / 2 + markHeight / 2,
       behavior: 'smooth'
@@ -521,13 +547,13 @@ function prevMatch(index: number) {
   // Add 'current' class to new mark
   const newMark = marks[curr]
   newMark.classList.add('current')
-  
+
   const excerpt = newMark.closest('.excerpt')
   if (excerpt) {
     const markTop = newMark.offsetTop
     const markHeight = newMark.offsetHeight
     const excerptHeight = excerpt.clientHeight
-    
+
     excerpt.scrollTo({
       top: markTop - excerptHeight / 2 + markHeight / 2,
       behavior: 'smooth'
@@ -594,7 +620,10 @@ async function processExcerpts(
   }
 }
 
-function filterResults(results: (SearchResult & Result)[], filterTextValue: string) {
+function filterResults(
+  results: (SearchResult & Result)[],
+  filterTextValue: string
+) {
   return results.filter((r) => {
     const phrase = filterTextValue.toLowerCase()
     const inText = r.text?.toLowerCase().includes(phrase)
@@ -645,7 +674,11 @@ function scrollToSelectedResult() {
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
 
-  if (resultsEl.value && document.activeElement === resultsEl.value && selectedIndex.value === 0) {
+  if (
+    resultsEl.value &&
+    document.activeElement === resultsEl.value &&
+    selectedIndex.value === 0
+  ) {
     selectedIndex.value = -1
     searchInput.value?.focus()
     return
@@ -712,7 +745,10 @@ onKeyStroke('Escape', () => {
 onKeyStroke('ArrowLeft', (event) => {
   // Navigate to previous match - only when viewing detailed excerpts with highlights
   const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
-  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+  if (
+    showDetailedList.value &&
+    (resultMarks.value.get(targetIndex)?.length ?? 0) > 0
+  ) {
     if (document.activeElement === searchInput.value) {
       // Only hijack if modifier is pressed
       if (!event.altKey && !event.ctrlKey) return
@@ -725,7 +761,10 @@ onKeyStroke('ArrowLeft', (event) => {
 onKeyStroke('ArrowRight', (event) => {
   // Navigate to next match - only when viewing detailed excerpts with highlights
   const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
-  if (showDetailedList.value && (resultMarks.value.get(targetIndex)?.length ?? 0) > 0) {
+  if (
+    showDetailedList.value &&
+    (resultMarks.value.get(targetIndex)?.length ?? 0) > 0
+  ) {
     if (document.activeElement === searchInput.value) {
       if (event.shiftKey) return
       if (event.altKey || event.ctrlKey) {
@@ -733,8 +772,9 @@ onKeyStroke('ArrowRight', (event) => {
       } else {
         // Shortcut: If at end of input, go to next match AND focus results
         const { selectionStart, selectionEnd, value } = searchInput.value!
-        if (selectionStart !== value.length || selectionEnd !== value.length) return
-        
+        if (selectionStart !== value.length || selectionEnd !== value.length)
+          return
+
         // Use the target index (0) if we were at -1
         if (selectedIndex.value === -1) selectedIndex.value = 0
         resultsEl.value?.focus()
@@ -828,7 +868,12 @@ function onMouseMove(e: MouseEvent) {
 
 <template>
   <Teleport to="body">
-    <Transition name="vp-local-search" appear :duration="200" @after-leave="$emit('close')">
+    <Transition
+      name="vp-local-search"
+      appear
+      :duration="200"
+      @after-leave="$emit('close')"
+    >
       <div
         v-if="show"
         ref="el"
@@ -839,194 +884,227 @@ function onMouseMove(e: MouseEvent) {
         aria-labelledby="localsearch-label"
         class="VPLocalSearchBox"
       >
-      <div class="backdrop" @click="close" />
+        <div class="backdrop" @click="close" />
 
-      <div class="shell">
-        <form
-          class="search-bar"
-          @pointerup="onSearchBarClick($event)"
-          @submit.prevent=""
-        >
-          <label
-            :title="buttonText"
-            id="localsearch-label"
-            for="localsearch-input"
+        <div class="shell">
+          <form
+            class="search-bar"
+            @pointerup="onSearchBarClick($event)"
+            @submit.prevent=""
           >
-            <span aria-hidden="true" class="vpi-search search-icon local-search-icon" />
-          </label>
-          <div class="search-actions before">
-            <button
-              class="back-button"
-              :title="translate('modal.backButtonTitle')"
-              @click="close"
+            <label
+              :title="buttonText"
+              id="localsearch-label"
+              for="localsearch-input"
             >
-              <span class="vpi-arrow-left local-search-icon" />
-            </button>
-          </div>
-          <input
-            ref="searchInput"
-            :value="filterText"
-            @input="handleInput"
-            :aria-activedescendant="selectedIndex > -1 ? ('localsearch-item-' + selectedIndex) : undefined"
-            aria-autocomplete="both"
-            :aria-controls="results?.length ? 'localsearch-list' : undefined"
-            aria-labelledby="localsearch-label"
-            autocapitalize="off"
-            autocomplete="off"
-            autocorrect="off"
-            class="search-input"
-            id="localsearch-input"
-            enterkeyhint="go"
-            maxlength="64"
-            :placeholder="buttonText"
-            spellcheck="false"
-            type="search"
-          />
-          <div class="search-actions">
-            <button
-              v-if="!disableDetailedView"
-              class="toggle-layout-button"
-              type="button"
-              :class="{ 'detailed-list': showDetailedList }"
-              :title="translate('modal.displayDetails')"
-              @click="
-                selectedIndex > -1 && (showDetailedList = !showDetailedList)
-              "
-            >
-              <span class="vpi-layout-list local-search-icon" />
-            </button>
-
-            <button
-              class="toggle-fuzzy-button"
-              type="button"
-              :class="{ 'fuzzy-active': isFuzzySearch }"
-              :title="isFuzzySearch ? 'Switch to Exact Search' : 'Switch to Fuzzy Search'"
-              @click="toggleFuzzySearch"
-            >
-              <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
-              <span v-else class="exact-icon">=</span>
-            </button>
-
-            <button
-              class="clear-button"
-              type="reset"
-              :disabled="disableReset"
-              :title="translate('modal.resetButtonTitle')"
-              @click="resetSearch"
-            >
-              <span class="vpi-delete local-search-icon" />
-            </button>
-          </div>
-        </form>
-
-        <ul
-          ref="resultsEl"
-          :id="results?.length ? 'localsearch-list' : undefined"
-          :role="results?.length ? 'listbox' : undefined"
-          :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
-          class="results"
-          tabindex="-1"
-          @mousemove="onMouseMove"
-        >
-          <li
-            v-for="(p, index) in results"
-            :key="p.id"
-            :id="'localsearch-item-' + index"
-            :aria-selected="selectedIndex === index ? 'true' : 'false'"
-            role="option"
-            class="result-item"
-            :data-index="index"
-          >
-            <a
-              :href="p.id"
-              class="result"
-              :class="{
-                selected: selectedIndex === index
-              }"
-              :aria-label="[...p.titles, p.title].join(' > ')"
-              @mouseenter="!disableMouseOver && (selectedIndex = index)"
-              @focusin="selectedIndex = index"
-              @click="close"
-              :data-index="index"
-            >
-              <div>
-                <div class="titles">
-                  <span class="title-icon">#</span>
-                  <span
-                    v-for="(t, index) in p.titles"
-                    :key="index"
-                    class="title"
-                  >
-                    <span class="text" v-html="t" />
-                    <span class="vpi-chevron-right local-search-icon" />
-                  </span>
-                  <span class="title main">
-                    <span class="text" v-html="p.title" />
-                  </span>
-                </div>
-
-                <div v-if="showDetailedList" class="excerpt-wrapper">
-                  <div v-if="p.text" class="excerpt" inert>
-                    <div class="vp-doc" v-html="p.text" />
-                  </div>
-
-                  <div class="excerpt-gradient-bottom" />
-                  <div class="excerpt-gradient-top" />
-                </div>
-              </div>
-            </a>
-            <div
-              v-if="showDetailedList && (resultMarks.get(index)?.length ?? 0) > 1"
-              class="excerpt-actions"
-            >
-              <button type="button" class="match-nav-button" @click="prevMatch(index)" title="Previous match">
-                <span class="vpi-chevron-left navigate-icon" />
-              </button>
-              <span class="match-count">{{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{ resultMarks.get(index)?.length }}</span>
-              <button type="button" class="match-nav-button" @click="nextMatch(index)" title="Next match">
-                <span class="vpi-chevron-right navigate-icon" />
+              <span
+                aria-hidden="true"
+                class="vpi-search search-icon local-search-icon"
+              />
+            </label>
+            <div class="search-actions before">
+              <button
+                class="back-button"
+                :title="translate('modal.backButtonTitle')"
+                @click="close"
+              >
+                <span class="vpi-arrow-left local-search-icon" />
               </button>
             </div>
-          </li>
-          <li
-            v-if="filterText && !results.length && enableNoResults"
-            class="no-results"
-          >
-            {{ translate('modal.noResultsText') }} "{{ filterText }}"
-          </li>
-        </ul>
+            <input
+              ref="searchInput"
+              :value="filterText"
+              @input="handleInput"
+              :aria-activedescendant="
+                selectedIndex > -1
+                  ? 'localsearch-item-' + selectedIndex
+                  : undefined
+              "
+              aria-autocomplete="both"
+              :aria-controls="results?.length ? 'localsearch-list' : undefined"
+              aria-labelledby="localsearch-label"
+              autocapitalize="off"
+              autocomplete="off"
+              autocorrect="off"
+              class="search-input"
+              id="localsearch-input"
+              enterkeyhint="go"
+              maxlength="64"
+              :placeholder="buttonText"
+              spellcheck="false"
+              type="search"
+            />
+            <div class="search-actions">
+              <button
+                v-if="!disableDetailedView"
+                class="toggle-layout-button"
+                type="button"
+                :class="{ 'detailed-list': showDetailedList }"
+                :title="translate('modal.displayDetails')"
+                @click="
+                  selectedIndex > -1 && (showDetailedList = !showDetailedList)
+                "
+              >
+                <span class="vpi-layout-list local-search-icon" />
+              </button>
 
-        <div class="search-keyboard-shortcuts">
-          <span>
-            <kbd :aria-label="translate('modal.footer.navigateUpKeyAriaLabel')">
-              <span class="vpi-arrow-up navigate-icon" />
-            </kbd>
-            <kbd :aria-label="translate('modal.footer.navigateDownKeyAriaLabel')">
-              <span class="vpi-arrow-down navigate-icon" />
-            </kbd>
-            {{ translate('modal.footer.navigateText') }}
-          </span>
-          <span>
-            <kbd :aria-label="translate('modal.footer.selectKeyAriaLabel')">
-              <span class="vpi-corner-down-left navigate-icon" />
-            </kbd>
-            {{ translate('modal.footer.selectText') }}
-          </span>
-          <span v-if="showDetailedList">
-            <kbd>
-              <span class="vpi-arrow-left navigate-icon" />
-            </kbd>
-            <kbd>
-              <span class="vpi-arrow-right navigate-icon" />
-            </kbd>
-            to cycle matches
-          </span>
-          <span>
-            <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">esc</kbd>
-            {{ translate('modal.footer.closeText') }}
-          </span>
+              <button
+                class="toggle-fuzzy-button"
+                type="button"
+                :class="{ 'fuzzy-active': isFuzzySearch }"
+                :title="
+                  isFuzzySearch
+                    ? 'Switch to Exact Search'
+                    : 'Switch to Fuzzy Search'
+                "
+                @click="toggleFuzzySearch"
+              >
+                <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
+                <span v-else class="exact-icon">=</span>
+              </button>
+
+              <button
+                class="clear-button"
+                type="reset"
+                :disabled="disableReset"
+                :title="translate('modal.resetButtonTitle')"
+                @click="resetSearch"
+              >
+                <span class="vpi-delete local-search-icon" />
+              </button>
+            </div>
+          </form>
+
+          <ul
+            ref="resultsEl"
+            :id="results?.length ? 'localsearch-list' : undefined"
+            :role="results?.length ? 'listbox' : undefined"
+            :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
+            class="results"
+            tabindex="-1"
+            @mousemove="onMouseMove"
+          >
+            <li
+              v-for="(p, index) in results"
+              :key="p.id"
+              :id="'localsearch-item-' + index"
+              :aria-selected="selectedIndex === index ? 'true' : 'false'"
+              role="option"
+              class="result-item"
+              :data-index="index"
+            >
+              <a
+                :href="p.id"
+                class="result"
+                :class="{
+                  selected: selectedIndex === index
+                }"
+                :aria-label="[...p.titles, p.title].join(' > ')"
+                @mouseenter="!disableMouseOver && (selectedIndex = index)"
+                @focusin="selectedIndex = index"
+                @click="close"
+                :data-index="index"
+              >
+                <div>
+                  <div class="titles">
+                    <span class="title-icon">#</span>
+                    <span
+                      v-for="(t, index) in p.titles"
+                      :key="index"
+                      class="title"
+                    >
+                      <span class="text" v-html="t" />
+                      <span class="vpi-chevron-right local-search-icon" />
+                    </span>
+                    <span class="title main">
+                      <span class="text" v-html="p.title" />
+                    </span>
+                  </div>
+
+                  <div v-if="showDetailedList" class="excerpt-wrapper">
+                    <div v-if="p.text" class="excerpt" inert>
+                      <div class="vp-doc" v-html="p.text" />
+                    </div>
+
+                    <div class="excerpt-gradient-bottom" />
+                    <div class="excerpt-gradient-top" />
+                  </div>
+                </div>
+              </a>
+              <div
+                v-if="
+                  showDetailedList && (resultMarks.get(index)?.length ?? 0) > 1
+                "
+                class="excerpt-actions"
+              >
+                <button
+                  type="button"
+                  class="match-nav-button"
+                  @click="prevMatch(index)"
+                  title="Previous match"
+                >
+                  <span class="vpi-chevron-left navigate-icon" />
+                </button>
+                <span class="match-count">
+                  {{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{
+                    resultMarks.get(index)?.length
+                  }}
+                </span>
+                <button
+                  type="button"
+                  class="match-nav-button"
+                  @click="nextMatch(index)"
+                  title="Next match"
+                >
+                  <span class="vpi-chevron-right navigate-icon" />
+                </button>
+              </div>
+            </li>
+            <li
+              v-if="filterText && !results.length && enableNoResults"
+              class="no-results"
+            >
+              {{ translate('modal.noResultsText') }} "{{ filterText }}"
+            </li>
+          </ul>
+
+          <div class="search-keyboard-shortcuts">
+            <span>
+              <kbd
+                :aria-label="translate('modal.footer.navigateUpKeyAriaLabel')"
+              >
+                <span class="vpi-arrow-up navigate-icon" />
+              </kbd>
+              <kbd
+                :aria-label="translate('modal.footer.navigateDownKeyAriaLabel')"
+              >
+                <span class="vpi-arrow-down navigate-icon" />
+              </kbd>
+              {{ translate('modal.footer.navigateText') }}
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.selectKeyAriaLabel')">
+                <span class="vpi-corner-down-left navigate-icon" />
+              </kbd>
+              {{ translate('modal.footer.selectText') }}
+            </span>
+            <span v-if="showDetailedList">
+              <kbd>
+                <span class="vpi-arrow-left navigate-icon" />
+              </kbd>
+              <kbd>
+                <span class="vpi-arrow-right navigate-icon" />
+              </kbd>
+              to cycle matches
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">
+                esc
+              </kbd>
+              {{ translate('modal.footer.closeText') }}
+            </span>
+          </div>
         </div>
-      </div>
       </div>
     </Transition>
   </Teleport>
@@ -1152,7 +1230,9 @@ function onMouseMove(e: MouseEvent) {
   height: 20px;
   border-radius: 2px;
   color: var(--vp-c-text-2);
-  transition: color 0.2s, background-color 0.2s;
+  transition:
+    color 0.2s,
+    background-color 0.2s;
   cursor: pointer;
 }
 
@@ -1317,8 +1397,6 @@ function onMouseMove(e: MouseEvent) {
   gap: 4px;
 }
 
-
-
 .title-icon + .title .text {
   font-weight: 600;
   border-bottom: 1px solid var(--vp-c-brand-1);
@@ -1441,8 +1519,12 @@ svg {
 }
 
 @keyframes vp-backdrop-enter {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .vp-local-search-enter-active .backdrop {

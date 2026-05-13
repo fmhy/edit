@@ -13,15 +13,15 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-import { catppuccinTheme } from './catppuccin'
-import { monochromeTheme } from './monochrome'
 
+import type { ThemeRegistry } from '../types'
 import { bentogridTheme } from './bentogrid'
+import { catppuccinTheme } from './catppuccin'
 import { datadenseTheme } from './datadense'
 import { infiniteCanvasTheme } from './infinite-canvas'
-import { saasTheme } from './saas'
+import { monochromeTheme } from './monochrome'
 import { neumorphismTheme } from './neumorphism'
-import type { ThemeRegistry } from '../types'
+import { saasTheme } from './saas'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
@@ -31,7 +31,15 @@ export const themeRegistry: ThemeRegistry = {
   datadense: datadenseTheme,
   'infinite-canvas': infiniteCanvasTheme,
   saas: saasTheme,
-  neumorphism: neumorphismTheme,
+  neumorphism: neumorphismTheme
 }
 
-export { catppuccinTheme, monochromeTheme, bentogridTheme, datadenseTheme, infiniteCanvasTheme, saasTheme, neumorphismTheme }
+export {
+  catppuccinTheme,
+  monochromeTheme,
+  bentogridTheme,
+  datadenseTheme,
+  infiniteCanvasTheme,
+  saasTheme,
+  neumorphismTheme
+}
