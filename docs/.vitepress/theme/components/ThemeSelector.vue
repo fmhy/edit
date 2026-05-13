@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { useTheme } from '../themes/themeHandler'
 import { themeRegistry } from '../themes/configs'
+import { useTheme } from '../themes/themeHandler'
 
 const { themeName, setTheme, getAvailableThemes, state, mode } = useTheme()
 
@@ -13,13 +13,13 @@ const getThemePreview = (name: string) => {
     return theme.preview
   }
   // Fallback: create gradient from theme's brand colors if they exist
-  const modeKey = (mode && (mode as any).value) ? (mode as any).value : 'light'
+  const modeKey = mode && (mode as any).value ? (mode as any).value : 'light'
   const colors = modeKey === 'dark' ? theme?.modes.dark : theme?.modes.light
-  
+
   if (colors?.brand && colors.brand[1] && colors.brand[2] && colors.brand[3]) {
     return `linear-gradient(135deg, ${colors.brand[1]} 0%, ${colors.brand[2]} 50%, ${colors.brand[3]} 100%)`
   }
-  
+
   return 'linear-gradient(135deg, var(--vp-c-brand-1) 0%, var(--vp-c-brand-2) 100%)'
 }
 
@@ -28,7 +28,8 @@ const normalizeThemeName = (name: string) =>
   name.slice(1).replaceAll(/-/g, ' ')
 
 const currentDisplayName = computed(() => {
-  const t = themeName && (themeName as any).value ? (themeName as any).value : ''
+  const t =
+    themeName && (themeName as any).value ? (themeName as any).value : ''
   if (!t) return 'Default'
   const cfg = themeRegistry[t]
   if (cfg && cfg.displayName) return cfg.displayName

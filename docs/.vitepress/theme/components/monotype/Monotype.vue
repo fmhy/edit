@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 
 const time = ref(new Date())
 const query = ref('')
@@ -27,7 +27,7 @@ const timeString = computed(() => {
   return [
     String(t.getHours()).padStart(2, '0'),
     String(t.getMinutes()).padStart(2, '0'),
-    String(t.getSeconds()).padStart(2, '0'),
+    String(t.getSeconds()).padStart(2, '0')
   ].join(':')
 })
 
@@ -36,7 +36,7 @@ const dateString = computed(() => {
   return [
     String(t.getFullYear()),
     String(t.getMonth() + 1).padStart(2, '0'),
-    String(t.getDate()).padStart(2, '0'),
+    String(t.getDate()).padStart(2, '0')
   ].join('-')
 })
 
@@ -46,23 +46,23 @@ const categories = [
     links: [
       { key: 'gh', label: 'github', url: 'https://github.com' },
       { key: 'hn', label: 'hacker news', url: 'https://news.ycombinator.com' },
-      { key: 'rd', label: 'reddit', url: 'https://reddit.com' },
-    ],
+      { key: 'rd', label: 'reddit', url: 'https://reddit.com' }
+    ]
   },
   {
     label: 'media',
     links: [
       { key: 'yt', label: 'youtube', url: 'https://youtube.com' },
-      { key: 'tw', label: 'twitch', url: 'https://twitch.tv' },
-    ],
+      { key: 'tw', label: 'twitch', url: 'https://twitch.tv' }
+    ]
   },
   {
     label: 'fmhy',
     links: [
       { key: 'fm', label: 'fmhy net', url: 'https://fmhy.net' },
-      { key: 'sx', label: 'searxng', url: 'https://searx.fmhy.net' },
-    ],
-  },
+      { key: 'sx', label: 'searxng', url: 'https://searx.fmhy.net' }
+    ]
+  }
 ]
 
 const mode = ref('light')
@@ -99,7 +99,10 @@ function handleKeydown(e: KeyboardEvent) {
       history.value.unshift(q)
       if (history.value.length > 50) history.value.pop()
       historyIndex.value = -1
-      window.open(`https://searx.fmhy.net/search?q=${encodeURIComponent(q)}`, '_self')
+      window.open(
+        `https://searx.fmhy.net/search?q=${encodeURIComponent(q)}`,
+        '_self'
+      )
       query.value = ''
     }
     return
@@ -160,7 +163,11 @@ onUnmounted(() => {
       </form>
 
       <div class="monotype-categories">
-        <div v-for="cat in categories" :key="cat.label" class="monotype-category">
+        <div
+          v-for="cat in categories"
+          :key="cat.label"
+          class="monotype-category"
+        >
           <div class="monotype-category-label">{{ cat.label }}</div>
           <div class="monotype-category-items">
             <a
@@ -178,10 +185,23 @@ onUnmounted(() => {
       </div>
 
       <div class="monotype-help">
-        <span><kbd>/</kbd> focus input</span>
-        <span><kbd>esc</kbd> clear</span>
-        <span><kbd>&uarr;</kbd><kbd>&darr;</kbd> history</span>
-        <span><kbd>enter</kbd> search</span>
+        <span>
+          <kbd>/</kbd>
+          focus input
+        </span>
+        <span>
+          <kbd>esc</kbd>
+          clear
+        </span>
+        <span>
+          <kbd>&uarr;</kbd>
+          <kbd>&darr;</kbd>
+          history
+        </span>
+        <span>
+          <kbd>enter</kbd>
+          search
+        </span>
       </div>
     </main>
   </div>
@@ -194,7 +214,8 @@ onUnmounted(() => {
   flex-direction: column;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
-  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace;
+  font-family:
+    'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace;
 }
 
 .monotype-bar {

@@ -15,8 +15,13 @@ const formatDate = (raw: string): string => {
   <div>
     <section>
       <h1 class="flex items-center gap-2">Posts</h1>
-      <p>Monthly updates, announcements, and more.</p> We also have an <a href="/feed.rss" target="_blank" title="RSS feed">
-        <div class="i-carbon-rss vertical-top" style="width: 16px; height: 24px;" />
+      <p>Monthly updates, announcements, and more.</p>
+      We also have an
+      <a href="/feed.rss" target="_blank" title="RSS feed">
+        <div
+          class="i-carbon-rss vertical-top"
+          style="width: 16px; height: 24px"
+        />
         RSS feed.
       </a>
     </section>

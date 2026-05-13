@@ -1,35 +1,44 @@
 <script setup lang="ts">
+import type { Theme } from '../themes/types'
 import { colors } from '@fmhy/colors'
 import { useStorage } from '@vueuse/core'
-import { watch, onMounted, nextTick } from 'vue'
-import { useTheme } from '../themes/themeHandler'
+import { nextTick, onMounted, watch } from 'vue'
 import { themeRegistry } from '../themes/configs'
-import type { Theme } from '../themes/types'
+import { useTheme } from '../themes/themeHandler'
 import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
 
 // Use the theme system
-const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } = useTheme()
+const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } =
+  useTheme()
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
 ) as Array<ColorNames>
 
 // Preset themes (exclude dynamically generated color- themes)
-const presetThemeNames = Object.keys(themeRegistry).filter((k) => !k.startsWith('color-'))
+const presetThemeNames = Object.keys(themeRegistry).filter(
+  (k) => !k.startsWith('color-')
+)
 
 const getThemePreviewStyle = (name: string) => {
   const theme = themeRegistry[name]
   if (!theme) return {}
-  const modeKey = (mode && (mode as any).value) ? (mode as any).value as keyof typeof theme.modes : 'light'
+  const modeKey =
+    mode && (mode as any).value
+      ? ((mode as any).value as keyof typeof theme.modes)
+      : 'light'
   const modeColors = theme.modes[modeKey]
 
   if (theme.preview) {
     // If preview is a URL or gradient, use it directly
     if (theme.preview.startsWith('http') || theme.preview.startsWith('data:')) {
-      return { backgroundImage: `url(${theme.preview})`, backgroundSize: 'cover' }
+      return {
+        backgroundImage: `url(${theme.preview})`,
+        backgroundSize: 'cover'
+      }
     }
     return { background: theme.preview }
   }
@@ -46,7 +55,7 @@ const getThemePreviewStyle = (name: string) => {
 
 const generateThemeFromColor = (colorName: ColorNames): Theme => {
   const colorSet = colors[colorName]
-  
+
   return {
     name: `color-${colorName}`,
     displayName: normalizeColorName(colorName),
@@ -117,8 +126,10 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+          heroNameBackground:
+            '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground:
+            'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       },
@@ -182,8 +193,10 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
         },
         home: {
           heroNameColor: 'transparent',
-          heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-          heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+          heroNameBackground:
+            '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+          heroImageBackground:
+            'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
           heroImageFilter: 'blur(44px)'
         }
       }
@@ -208,7 +221,7 @@ onMounted(async () => {
 })
 
 watch(selectedColor, async (color) => {
-  if (!color) return;
+  if (!color) return
   const theme = generateThemeFromColor(color)
   themeRegistry[`color-${color}`] = theme
   await nextTick()
@@ -228,7 +241,7 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            (themeName && themeName.value === `color-${color}`)
+            themeName && themeName.value === `color-${color}`
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
@@ -237,7 +250,12 @@ const toggleAmoled = () => {
         >
           <span
             class="inline-block w-full h-full rounded-full"
-            :style="{ backgroundColor: colors[color][500], backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }"
+            :style="{
+              backgroundColor: colors[color][500],
+              backgroundSize: 'cover',
+              backgroundPosition: 'center',
+              backgroundRepeat: 'no-repeat'
+            }"
           ></span>
         </button>
       </div>
@@ -247,16 +265,28 @@ const toggleAmoled = () => {
         <button
           :class="[
             'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            (themeName && themeName.value === t)
+            themeName && themeName.value === t
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="selectedColor = '' as ColorNames; setTheme(t)"
+          @click="
+            selectedColor = '' as ColorNames
+            setTheme(t)
+          "
           :title="themeRegistry[t].displayName"
         >
           <span
             class="inline-block w-full h-full rounded-full"
-            :style="Object.assign({ backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }, getThemePreviewStyle(t))"
+            :style="
+              Object.assign(
+                {
+                  backgroundSize: 'cover',
+                  backgroundPosition: 'center',
+                  backgroundRepeat: 'no-repeat'
+                },
+                getThemePreviewStyle(t)
+              )
+            "
           ></span>
         </button>
       </div>

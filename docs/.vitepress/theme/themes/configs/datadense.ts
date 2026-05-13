@@ -81,8 +81,10 @@ export const datadenseTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #2563eb 30%, #475569)',
-        heroImageBackground: 'linear-gradient(-45deg, #2563eb 50%, #475569 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #2563eb 30%, #475569)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #2563eb 50%, #475569 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -152,8 +154,10 @@ export const datadenseTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #60a5fa 30%, #8b949e)',
-        heroImageBackground: 'linear-gradient(-45deg, #2563eb 50%, #475569 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #60a5fa 30%, #8b949e)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #2563eb 50%, #475569 50%)',
         heroImageFilter: 'blur(44px)'
       }
     }

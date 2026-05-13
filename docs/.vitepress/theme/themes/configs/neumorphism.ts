@@ -82,7 +82,8 @@ export const neumorphismTheme: Theme = {
       home: {
         heroNameColor: '#2d3748',
         heroNameBackground: 'linear-gradient(135deg, #d5dae1 0%, #e4e9f0 100%)',
-        heroImageBackground: 'linear-gradient(-45deg, #c8d0d8 50%, #eef2f6 50%)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #c8d0d8 50%, #eef2f6 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -153,7 +154,8 @@ export const neumorphismTheme: Theme = {
       home: {
         heroNameColor: '#e4e9f0',
         heroNameBackground: 'linear-gradient(135deg, #323640 0%, #282c35 100%)',
-        heroImageBackground: 'linear-gradient(-45deg, #323640 50%, #1e2228 50%)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #323640 50%, #1e2228 50%)',
         heroImageFilter: 'blur(44px)'
       }
     }
