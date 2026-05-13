@@ -32,6 +32,7 @@
 * [The Models Resource](https://models.spriters-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites / [Discord](https://discord.gg/tsr)
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
+* * [MiiChart](https://miichart.com/) - Tomodachi Life Personality Chart / Quiz
 * [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/), [Easy Bracket](https://lvup.gg/en/easy) or [Lorenzi's Game Boards](https://gb.hlorenzi.com/) - Tournament Creators / Managers
