@@ -723,6 +723,7 @@
 * ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
 * ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
+* ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **[Flash Museum](https://flashmuseum.org/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
@@ -732,7 +733,6 @@
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
 * [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
-* [⁠Gamesfrog](https://gamesfrog.com/) - Browser Game Aggregator
 * [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator
 * [Poki](https://poki.com/) - Browser Game Aggregator
 * [Quenq](https://quenq.com/arcade/) - Browser Game Aggregator
@@ -955,12 +955,12 @@
 
 ## ▷ Strategy
 
+* ⭐ **[OpenFront](https://openfront.io/)** / [Wiki](https://openfront.wiki/) / [Subreddit](https://www.reddit.com/r/OpenFront/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio), [⁠LANDS.io](https://lands.io/) / [Discord](https://discord.gg/landsio) or [Territorial.io](https://territorial.io/) / [Discord](https://discord.com/invite/pthqvpTXmh) - Conquest / War Style Games
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
 * [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [OpenFront](https://openfront.io/) / [Wiki](https://openfront.wiki/) / [Subreddit](https://www.reddit.com/r/OpenFront/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio) or [Territorial.io](https://territorial.io/) - Conquest / War Style Games
-* [Warzone](https://www.warzone.com/) - RISK Clone
+* [War.app](https://war.app/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
 

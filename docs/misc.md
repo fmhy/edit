@@ -204,8 +204,9 @@
 * [⁠Fashion History Timeline](https://fashionhistory.fitnyc.edu/) or [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
 * [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
-* [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [cholyknight](https://cholyknight.com/), [PinDIY](https://www.pindiy.com/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Clothing Sewing Patterns
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 
@@ -220,6 +221,7 @@
 * [Esphome](https://esphome.io/) - Home Assistant / IoT
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
+* [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
 * [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -573,12 +575,12 @@
 * [Kagi News](https://news.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
 * [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
+* [Upstract](https://upstract.com/) - Single Page News Aggregator
+* [newstel](https://newstel.vercel.app/) - Telegram Channel News Aggregator
+* [AllSides](https://www.allsides.com/) - Political New Aggregator
+* [⁠100.news](https://100.news/) - Political New Aggregator
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
-* [Upstract](https://upstract.com/)
-* [newstel](https://newstel.vercel.app/)
-* [⁠100.news](https://100.news/)
-* [AllSides](https://www.allsides.com/)
 * [SPIDR](https://spidr.today/)
 * [NewsNow](https://www.newsnow.co.uk/)
 * [SkimFeed](https://skimfeed.com/)
@@ -651,7 +653,7 @@
 
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
-* ⭐ **[Medito](https://github.com/meditohq/medito-app)** or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* ⭐ **[Medito](https://github.com/meditohq/medito-app)** - Meditation App
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
@@ -674,7 +676,6 @@
 * ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://claraiscute.neocities.org/Guides/insomnia-guide/)** / [2](https://claraiscute.pages.dev/Guides/insomnia-guide/) - Sleep Hygiene Guides / Tips
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [Arete Codex](https://aretecodex.pages.dev/) - Physical Health / Bodybuilding Guide
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
 * [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
@@ -733,7 +734,7 @@
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
 * [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/), [Waistline](https://github.com/davidhealey/waistline) or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
-* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research
+* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research / Vegan-Focused
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
@@ -747,9 +748,6 @@
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
 * [Nutrient Sorter](https://michaelf314.github.io/nutrient-sorter/) - Vegan Food Nutrient Sorter
 * [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
-* [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
-* [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
-* [ORAC Values](https://superfoodly.com/orac-values/) - ORAC Value Database / Information
 
 ***
 
@@ -759,7 +757,7 @@
 * ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are)** - Free Abortion Pills
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
-* [DoItRight](https://trust.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
+* [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.org/) - Sexual / Reproductive Health App
 * [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
 
@@ -785,7 +783,6 @@
 
 * ⭐ **[r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
 * [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
-* [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
 * [I Am Sober](https://iamsober.com/en/site/home) - Sobriety Tracker / Community
 * [Petals](https://github.com/LeoColman/Petals) - Quit / Reduce Marijuana Usage
@@ -1088,6 +1085,7 @@
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
 * [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
+* [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 
 ***
@@ -1237,7 +1235,6 @@
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/), [FamilySearch](https://www.familysearch.org/) or [WikiTree](https://wikitree.com/) - Find Family Trees
 * [⁠Family Chart](https://github.com/donatso/family-chart) or [FamilyEcho](https://www.familyecho.com/) - Create Custom Family Tree
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
-* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [r/CurlyHair Guide](https://docs.google.com/document/d/e/2PACX-1vSvGm-p4tvrstjT-XEo6pTHZSYeEON7xF5lPSnNv-3Kc2lCrdnkjXhFbdHt4pF3HUetWZ1j9dgfBBkS/pub) - Curly Hair Haircare Guide
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
@@ -1267,7 +1264,7 @@
 * [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
-* [onlinetools](https://onlinetools.com/) - File-Specific Tools
+* [Online Tools](https://onlinetools.com/) - File-Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
@@ -1656,14 +1653,14 @@
 * [Worldviewstream](https://worldviewstream.com/)
 * [CamStreamer](https://camstreamer.com/live)
 * [SkylineWebcams](https://www.skylinewebcams.com/en.html)
-* [webcamhopper](https://www.webcamhopper.com/)
+* [Webcam Hopper](https://www.webcamhopper.com/)
 * [WorldCam](https://worldcam.eu/)
-* [mangolinkworld](https://www.mangolinkworld.com/)
+* [Mangolink World](https://www.mangolinkworld.com/)
 * [Insecam](http://www.insecam.org/en/)
 * [CameraFTP](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
-* [livecamcroatia](https://www.livecamcroatia.com/en)
+* [LiveCam Croatia](https://www.livecamcroatia.com/en)
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [BirdCAMs](https://birdcams.live/) - Bird Nests
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)

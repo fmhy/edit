@@ -21,10 +21,12 @@ Verified instances that mirror the official FMHY [repository](https://github.com
 * [fmhy.bid](https://fmhy.bid/)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
+* [fmhy.ou0.cc](https://fmhy.ou0.cc/)
 * [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY)
 * [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[3](https://fmhy.blooketbot.me/)/[4](https://fmhy.joyconlab.net/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.pp.ua/)/[7](https://fmhy.prigoana.com/)/[8](https://fmhy.prigoana.pp.ua/)/[9](https://fmhy.axinstagram.com/)/[10](https://fmhy.axintsagram.com/)/[11](https://fmhy.axinstagram.world/)/[12](https://fmhy.flax.rip/))
 * [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
 * [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Style
+* `ssh bbs.fmhy.bid -p 2222` - Terminal User Interface (TUI)
 
 ***
 

@@ -388,7 +388,7 @@
 
 ### Slideshare Downloaders
 
-[DownloaderSlides](https://downloderslides.com/), [SlidesDownloaders](https://slidesdownloaders.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/), [Regem Downloader](https://regem.in/slideshare-downloader/)
+[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/), [Regem Downloader](https://regem.in/slideshare-downloader/)
 
 ***
 
