@@ -797,6 +797,12 @@ function resetSearch() {
   nextTick().then(() => focusSearchInput(false))
 }
 
+function toggleDetailedList() {
+  if (selectedIndex.value > -1) {
+    showDetailedList.value = !showDetailedList.value
+  }
+}
+
 function handleInput(e: Event) {
   filterText.value = (e.target as HTMLInputElement).value
 }
@@ -889,9 +895,7 @@ function onMouseMove(e: MouseEvent) {
               type="button"
               :class="{ 'detailed-list': showDetailedList }"
               :title="translate('modal.displayDetails')"
-              @click="
-                selectedIndex > -1 && (showDetailedList = !showDetailedList)
-              "
+              @click="toggleDetailedList"
             >
               <span class="vpi-layout-list local-search-icon" />
             </button>

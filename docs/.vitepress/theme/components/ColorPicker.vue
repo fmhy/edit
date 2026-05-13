@@ -215,6 +215,11 @@ watch(selectedColor, async (color) => {
   setTheme(`color-${color}`)
 })
 
+const selectPresetTheme = (name: string) => {
+  selectedColor.value = '' as ColorNames
+  setTheme(name)
+}
+
 const toggleAmoled = () => {
   setAmoledEnabled(!amoledEnabled.value)
 }
@@ -251,7 +256,7 @@ const toggleAmoled = () => {
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="selectedColor = '' as ColorNames; setTheme(t)"
+          @click="selectPresetTheme(t)"
           :title="themeRegistry[t].displayName"
         >
           <span

@@ -132,6 +132,10 @@ const helpfulDescription = props.heading
 const prompt = computed(() => getPrompt())
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => (isCardShown.value = !isCardShown.value)
+const resetFeedback = () => {
+  feedback.type = undefined
+  error.value = null
+}
 </script>
 
 <template>
@@ -232,7 +236,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           <div class="flex flex-row gap-2">
             <button
               class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="feedback.type = undefined; error = null"
+              @click="resetFeedback()"
             >
               <span class="i-lucide:panel-left-close">close</span>
             </button>
