@@ -416,7 +416,7 @@
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
 * [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor / Windows, Mac, Linux
 * [VapourSynth](https://www.vapoursynth.com/) - Video Processor / Windows, Linux
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/) / Windows 
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/) / Windows
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows, Mac, Linux
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows, Mac, Linux
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
