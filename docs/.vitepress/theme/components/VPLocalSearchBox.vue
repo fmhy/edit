@@ -899,8 +899,8 @@ function onMouseMove(e: MouseEvent) {
             @submit.prevent=""
           >
             <label
-              :title="buttonText"
               id="localsearch-label"
+              :title="buttonText"
               for="localsearch-input"
             >
               <span
@@ -920,7 +920,6 @@ function onMouseMove(e: MouseEvent) {
             <input
               ref="searchInput"
               :value="filterText"
-              @input="handleInput"
               :aria-activedescendant="
                 selectedIndex > -1
                   ? 'localsearch-item-' + selectedIndex
@@ -932,9 +931,10 @@ function onMouseMove(e: MouseEvent) {
               autocapitalize="off"
               autocomplete="off"
               autocorrect="off"
-              class="search-input"
               id="localsearch-input"
+              class="search-input"
               enterkeyhint="go"
+              @input="handleInput"
               maxlength="64"
               :placeholder="buttonText"
               spellcheck="false"
@@ -980,8 +980,8 @@ function onMouseMove(e: MouseEvent) {
           </form>
 
           <ul
-            ref="resultsEl"
             :id="results?.length ? 'localsearch-list' : undefined"
+            ref="resultsEl"
             :role="results?.length ? 'listbox' : undefined"
             :aria-labelledby="results?.length ? 'localsearch-label' : undefined"
             class="results"
@@ -990,8 +990,8 @@ function onMouseMove(e: MouseEvent) {
           >
             <li
               v-for="(p, index) in results"
-              :key="p.id"
               :id="'localsearch-item-' + index"
+              :key="p.id"
               :aria-selected="selectedIndex === index ? 'true' : 'false'"
               role="option"
               class="result-item"
@@ -1004,10 +1004,10 @@ function onMouseMove(e: MouseEvent) {
                   selected: selectedIndex === index
                 }"
                 :aria-label="[...p.titles, p.title].join(' > ')"
+                :data-index="index"
                 @mouseenter="!disableMouseOver && (selectedIndex = index)"
                 @focusin="selectedIndex = index"
                 @click="close"
-                :data-index="index"
               >
                 <div>
                   <div class="titles">
@@ -1044,8 +1044,8 @@ function onMouseMove(e: MouseEvent) {
                 <button
                   type="button"
                   class="match-nav-button"
-                  @click="prevMatch(index)"
                   title="Previous match"
+                  @click="prevMatch(index)"
                 >
                   <span class="vpi-chevron-left navigate-icon" />
                 </button>
@@ -1057,8 +1057,8 @@ function onMouseMove(e: MouseEvent) {
                 <button
                   type="button"
                   class="match-nav-button"
-                  @click="nextMatch(index)"
                   title="Next match"
+                  @click="nextMatch(index)"
                 >
                   <span class="vpi-chevron-right navigate-icon" />
                 </button>

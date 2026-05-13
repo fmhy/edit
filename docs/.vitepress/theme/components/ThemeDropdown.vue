@@ -131,10 +131,10 @@ onUnmounted(() => {
           <button
             v-for="(choice, index) in modeChoices"
             :key="index"
+            v-close-popper
             class="theme-dropdown-item"
             :class="{ active: isActiveChoice(choice) }"
             @click="selectMode(choice)"
-            v-close-popper
           >
             <Transition name="fade" mode="out-in">
               <div :key="choice.label" :class="[choice.icon, 'text-lg']" />

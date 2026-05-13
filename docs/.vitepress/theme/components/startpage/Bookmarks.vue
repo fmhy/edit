@@ -377,7 +377,7 @@ onUnmounted(() => {
               <DialogDescription class="text-text-2 mb-6">
                 Add a new bookmark
               </DialogDescription>
-              <form @submit.prevent="handleAddBookmark" class="space-y-4">
+              <form class="space-y-4" @submit.prevent="handleAddBookmark">
                 <div>
                   <label class="block text-sm font-medium text-text-2 mb-1">
                     Name
@@ -552,16 +552,16 @@ onUnmounted(() => {
           class="absolute top-1 right-1 opacity-0 group-hover:opacity-100 transition-opacity flex gap-1"
         >
           <button
-            @click.stop="openEditDialog(bookmark)"
             class="p-1 bg-bg-elv border border-div rounded hover:bg-bg-alt transition-colors"
             title="Edit bookmark"
+            @click.stop="openEditDialog(bookmark)"
           >
             <i class="i-lucide:edit-2 w-3 h-3 text-text-2" />
           </button>
           <button
-            @click.stop="openDeleteDialog(bookmark)"
             class="p-1 bg-bg-elv border border-div rounded hover:bg-red-100 hover:text-red-600 transition-colors"
             title="Delete bookmark"
+            @click.stop="openDeleteDialog(bookmark)"
           >
             <i class="i-lucide:trash-2 w-3 h-3 text-text-2" />
           </button>
@@ -582,7 +582,7 @@ onUnmounted(() => {
           <DialogDescription class="text-text-2 mb-6">
             Editing "{{ editingBookmark?.name }}"
           </DialogDescription>
-          <form @submit.prevent="handleEditBookmark" class="space-y-4">
+          <form class="space-y-4" @submit.prevent="handleEditBookmark">
             <div>
               <label class="block text-sm font-medium text-text-2 mb-1">
                 Name
@@ -712,8 +712,8 @@ onUnmounted(() => {
 
           <div class="flex gap-3">
             <button
-              @click="handleDeleteBookmark"
               class="flex-1 bg-red-600 text-white py-2 px-4 rounded-md font-medium hover:bg-red-700 transition-colors"
+              @click="handleDeleteBookmark"
             >
               Delete
             </button>

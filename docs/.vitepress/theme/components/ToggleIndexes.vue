@@ -62,7 +62,7 @@ const toggleIndexes = (value: boolean) => {
     v-model="isOn"
     :disabled="isDisabled"
     :class="{ disabled: isDisabled }"
-    @update:modelValue="toggleIndexes"
+    @update:model-value="toggleIndexes"
   />
 </template>
 

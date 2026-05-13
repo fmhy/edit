@@ -92,9 +92,9 @@ const openLink = () => {
 
         <div class="flex items-center gap-2 mb-4">
           <input
-            type="checkbox"
             id="dont-show"
             v-model="dontShowAgain"
+            type="checkbox"
             class="rounded border-border bg-bg-input text-brand focus:ring-brand"
           />
           <label for="dont-show" class="text-sm text-text-1 select-none">
@@ -104,14 +104,14 @@ const openLink = () => {
 
         <div class="flex justify-end gap-3">
           <button
-            @click="close"
             class="px-4 py-2 border border-border rounded-lg hover:bg-bg-input transition-colors font-medium text-text-2"
+            @click="close"
           >
             Cancel
           </button>
           <button
-            @click="openLink"
             class="px-4 py-2 border-2 border-brand text-brand bg-[var(--vp-c-bg-alt)] hover:bg-brand hover:text-white rounded-lg transition-colors font-medium"
+            @click="openLink"
           >
             Open Link
           </button>

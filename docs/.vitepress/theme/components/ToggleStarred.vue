@@ -45,7 +45,7 @@ const toggleStarred = (value: boolean) => {
     v-model="isOn"
     :disabled="isDisabled"
     :class="{ disabled: isDisabled }"
-    @update:modelValue="toggleStarred"
+    @update:model-value="toggleStarred"
   />
 </template>
 

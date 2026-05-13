@@ -17,7 +17,7 @@ const emit = defineEmits<{
     :disabled="props.disabled"
     class="switch"
     :class="{ enabled: props.modelValue, disabled: props.disabled }"
-    @update:modelValue="emit('update:modelValue', $event)"
+    @update:model-value="emit('update:modelValue', $event)"
   >
     <span class="thumb" />
   </HeadlessSwitch>

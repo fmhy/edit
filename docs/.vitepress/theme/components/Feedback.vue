@@ -141,8 +141,8 @@ const resetFeedback = () => {
 <template>
   <template v-if="props.heading">
     <button
-      @click="toggleCard()"
       class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+      @click="toggleCard()"
     >
       <span
         :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
@@ -238,9 +238,9 @@ const resetFeedback = () => {
           <textarea
             v-model="feedback.message"
             autofocus
-            @input="error = null"
             class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
             placeholder="What a lovely wiki!"
+            @input="error = null"
           />
           <p class="desc mb-2">
             Add your Discord handle if you would like a response, or if we need
@@ -263,7 +263,6 @@ const resetFeedback = () => {
               type="submit"
               class="btn btn-primary"
               :disabled="isDisabled || loading"
-              @click="handleSubmit()"
               :style="
                 isDisabled || loading
                   ? {}
@@ -273,6 +272,7 @@ const resetFeedback = () => {
                       color: 'var(--vp-button-brand-text)'
                     }
               "
+              @click="handleSubmit()"
             >
               {{ loading ? 'Sending...' : 'Send Feedback 📩' }}
             </button>

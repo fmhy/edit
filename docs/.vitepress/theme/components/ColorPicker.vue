@@ -250,8 +250,8 @@ const toggleAmoled = () => {
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="selectedColor = color"
           :title="normalizeColorName(color)"
+          @click="selectedColor = color"
         >
           <span
             class="inline-block w-full h-full rounded-full"
@@ -274,8 +274,8 @@ const toggleAmoled = () => {
               ? 'border-slate-200 dark:border-slate-400 shadow-lg'
               : 'border-transparent'
           ]"
-          @click="selectPresetTheme(t)"
           :title="themeRegistry[t].displayName"
+          @click="selectPresetTheme(t)"
         >
           <span
             class="inline-block w-full h-full rounded-full"
