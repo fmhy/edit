@@ -26,7 +26,7 @@ const modeChoices: ModeChoice[] = [
 ]
 
 const currentChoice = computed(() => {
-  const current = mode && (mode as any).value ? (mode as any).value : 'light'
+  const current = mode.value
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
   }
@@ -45,12 +45,14 @@ const selectMode = (choice: ModeChoice) => {
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
-  const current = mode && (mode as any).value ? (mode as any).value : 'light'
+  const current = mode.value
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value
   }
   return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
 }
+
+let cleanupFlyout: (() => void) | null = null
 
 // Logic to override the parent VPFlyout behavior to be click-based
 const setupParentFlyoutOverride = () => {
@@ -67,7 +69,7 @@ const setupParentFlyoutOverride = () => {
   if (!button) return
 
   // Click handler for toggle
-  const toggleFlyout = (e: MouseEvent) => {
+  const toggleFlyout = () => {
     flyout.classList.toggle('open')
   }
 
@@ -81,7 +83,7 @@ const setupParentFlyoutOverride = () => {
   }
 
   document.addEventListener('click', closeFlyout)
-  ;(wrapperRef.value as any)._cleanup = () => {
+  cleanupFlyout = () => {
     flyout.classList.remove('click-based-flyout')
     button.removeEventListener('click', toggleFlyout)
     document.removeEventListener('click', closeFlyout)
@@ -94,8 +96,8 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
-  if (wrapperRef.value && (wrapperRef.value as any)._cleanup) {
-    ;(wrapperRef.value as any)._cleanup()
+  if (cleanupFlyout) {
+    cleanupFlyout()
   }
 })
 </script>
