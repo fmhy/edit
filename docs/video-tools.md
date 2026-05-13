@@ -404,29 +404,26 @@
 ## ▷ Video Editors
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
-* ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor
-* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / [GitHub](https://github.com/mltframework/shotcut)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / Windows, Mac, Linux / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
+* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
+* ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
 * [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
-* [Auto-Editor](https://auto-editor.com/) - CLI Editor
-* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
-* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
-* [avisynth](http://avisynth.nl/index.php/Main_Page) or [VapourSynth](https://www.vapoursynth.com/) - Video Processors
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
-* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review
-* [Remotion](https://www.remotion.dev/) - Video Editor
-* [Olive](https://www.olivevideoeditor.org/) - Video Editor
-* [OpenShot](https://www.openshot.org/) - Video Editor
-* [Lightworks](https://lwks.com/) - Video Editor
-* [VSDC](https://www.videosoftdev.com/) - Video Editor
-* [Pitivi](https://www.pitivi.org/) - Video Editor
-* [Visla](https://www.visla.us/) - Video Editor
-* [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html), [2](https://archive.org/details/mm26enu_202002), [3](https://archive.org/details/MM2.1And2.6_201903) - Video Editor
-* [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
-* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
-* [Opus](https://www.opus.pro/) - Clip Creator
-* [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
+* [Auto-Editor](https://auto-editor.com/) - CLI Editor / [GitHub](https://github.com/WyattBlue/auto-editor/)
+* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor / [GitHub](https://github.com/Zulko/moviepy/)
+* [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
+* [avisynth](https://avs-plus.net/) - Video Processors / Windows, Mac, Linux
+* [VapourSynth](https://www.vapoursynth.com/) - Video Processors / Windows, Linux
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / Windows / [Resources](https://sfmlab.com/)
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows, Mac, Linux
+* [Remotion](https://www.remotion.dev/) - CLI Video Editor / [GitHub](https://github.com/remotion-dev/remotion)
+* [OpenShot](https://www.openshot.org/) - Video Edito / Windows, Mac, Linux
+* [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, iOS
+* [Pitivi](https://www.pitivi.org/) - Video Editor / Linux / [GitLab](https://gitlab.gnome.org/GNOME/pitivi)
+* [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) / Windows, Mac, Linux - Cut & Trim Videos 
+* [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
+* [Kurku](https://app.kurku.tech/) - Motion Tracking / Web
+* [FreeMoCap](https://freemocap.org/) - Motion Tracking / Windows, Mac, Linux
 
 ***
 
