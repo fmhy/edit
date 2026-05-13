@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
-import { ref, onMounted, onUnmounted, provide, nextTick } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+import { nextTick, onMounted, onUnmounted, provide, ref } from 'vue'
 import Announcement from './components/Announcement.vue'
-import Sidebar from './components/SidebarCard.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
+import Sidebar from './components/SidebarCard.vue'
 import { useTheme } from './themes/themeHandler'
 
 const { isDark } = useData()
@@ -55,17 +55,20 @@ const handleClick = (e: MouseEvent) => {
   // Check if the clicked element is a link or within a link
   const target = e.target as HTMLElement
   const link = target.closest ? target.closest('a') : null
-  
+
   if (link) {
     const href = (link as HTMLAnchorElement).href
-    
+
     if (typeof href === 'string') {
-      if (href.includes('https://rentry.co/FMHYB64') || href.startsWith('https://rentry.co/FMHYB64')) {
+      if (
+        href.includes('https://rentry.co/FMHYB64') ||
+        href.startsWith('https://rentry.co/FMHYB64')
+      ) {
         const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
         if (dontShow === 'true') {
           return // Let the link click proceed normally
         }
-        
+
         e.preventDefault()
         e.stopPropagation()
         formattedUrl.value = href
@@ -77,10 +80,12 @@ const handleClick = (e: MouseEvent) => {
 
 const updateMobileActiveLink = () => {
   if (window.innerWidth >= 1280) return
-  
-  const anchors = Array.from(document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4'))
+
+  const anchors = Array.from(
+    document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4')
+  )
   let activeId = ''
-  
+
   for (const anchor of anchors) {
     if (anchor.getBoundingClientRect().top < 120) {
       activeId = anchor.id
@@ -88,9 +93,11 @@ const updateMobileActiveLink = () => {
       break
     }
   }
-  
-  const mobileLinks = document.querySelectorAll('.VPLocalNavOutlineDropdown .outline-link')
-  mobileLinks.forEach(link => {
+
+  const mobileLinks = document.querySelectorAll(
+    '.VPLocalNavOutlineDropdown .outline-link'
+  )
+  mobileLinks.forEach((link) => {
     const isMatch = link.getAttribute('href') === `#${activeId}`
     link.classList.toggle('active', isMatch)
   })
@@ -108,7 +115,9 @@ onMounted(() => {
   tocObserver = new MutationObserver((mutations) => {
     for (const mutation of mutations) {
       if (mutation.addedNodes.length) {
-        const hasTOC = document.querySelector('.VPLocalNavOutlineDropdown .items')
+        const hasTOC = document.querySelector(
+          '.VPLocalNavOutlineDropdown .items'
+        )
         if (hasTOC) updateMobileActiveLink()
       }
     }
@@ -139,7 +148,11 @@ onUnmounted(() => {
     </template>
     <Content />
   </Layout>
-  <Base64Dialog :show="showBase64Dialog" :url="formattedUrl" @close="showBase64Dialog = false" />
+  <Base64Dialog
+    :show="showBase64Dialog"
+    :url="formattedUrl"
+    @close="showBase64Dialog = false"
+  />
 </template>
 
 <style>

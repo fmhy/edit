@@ -19,7 +19,8 @@ import type { Theme } from '../types'
 export const catppuccinTheme: Theme = {
   name: 'catppuccin',
   displayName: 'Catppuccin',
-  preview: 'https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png',
+  preview:
+    'https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png',
   modes: {
     light: {
       brand: {
@@ -88,7 +89,8 @@ export const catppuccinTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: '#C5A5F6',
-        heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -153,8 +155,10 @@ export const catppuccinTheme: Theme = {
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-        heroImageBackground: 'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
         heroImageFilter: 'blur(44px)'
       }
     }

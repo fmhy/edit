@@ -234,10 +234,13 @@ function generateRemovedSites() {
       const cleanSearchable = stripLinks(searchablePart).trim()
       let cleanHidden = stripLinks(hiddenPart)
       // Preserve the leading " - " for the hidden part if it existed
-      if (hiddenPart.trim().startsWith('-') && !cleanHidden.trim().startsWith('-')) {
+      if (
+        hiddenPart.trim().startsWith('-') &&
+        !cleanHidden.trim().startsWith('-')
+      ) {
         cleanHidden = ` - ${cleanHidden.trim()}`
       }
-      
+
       const cleanMsg = site.msg ? `: ${stripLinks(site.msg).trim()}` : ''
 
       markdown += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`

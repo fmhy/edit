@@ -155,7 +155,9 @@ const resetFeedback = () => {
     >
       <div class="flex items-start md:items-center gap-3">
         <div class="pt-1 md:pt-0">
-          <div class="w-10 h-10 rounded-full flex items-center justify-center bg-$vp-c-brand-3">
+          <div
+            class="w-10 h-10 rounded-full flex items-center justify-center bg-$vp-c-brand-3"
+          >
             <span
               :class="
                 isCardShown === false
@@ -165,10 +167,14 @@ const resetFeedback = () => {
             />
           </div>
         </div>
-        <div class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row">
+        <div
+          class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row"
+        >
           <div class="flex-grow">
             <div class="font-semibold text-$vp-c-text-1">Got feedback?</div>
-            <div class="text-sm text-$vp-c-text-2">We'd love to know what you think about this page.</div>
+            <div class="text-sm text-$vp-c-text-2">
+              We'd love to know what you think about this page.
+            </div>
           </div>
           <div>
             <button
@@ -197,7 +203,7 @@ const resetFeedback = () => {
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-                class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+              class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="selectType(item.value)"
             >
               <span>{{ item.label }}</span>
@@ -211,10 +217,23 @@ const resetFeedback = () => {
           </div>
           <p class="heading" v-text="message"></p>
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
-            <p>Please read the <a href="/other/contributing">Contribute Guide</a> before submitting your feedback!</p>
+            <p>
+              Please read the
+              <a href="/other/contributing">Contribute Guide</a>
+              before submitting your feedback!
+            </p>
           </div>
-          <div v-if="error" class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs">
-            <span class="font-bold">Error:</span> {{ typeof error === 'string' ? error : (error as any).message || 'Failed to send feedback. Please try again.' }}
+          <div
+            v-if="error"
+            class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs"
+          >
+            <span class="font-bold">Error:</span>
+            {{
+              typeof error === 'string'
+                ? error
+                : (error as any).message ||
+                  'Failed to send feedback. Please try again.'
+            }}
           </div>
           <textarea
             v-model="feedback.message"
@@ -245,7 +264,15 @@ const resetFeedback = () => {
               class="btn btn-primary"
               :disabled="isDisabled || loading"
               @click="handleSubmit()"
-              :style="isDisabled || loading ? {} : { 'background-color': 'var(--vp-button-brand-bg)', 'border-color': 'var(--vp-button-brand-border)', color: 'var(--vp-button-brand-text)' }"
+              :style="
+                isDisabled || loading
+                  ? {}
+                  : {
+                      'background-color': 'var(--vp-button-brand-bg)',
+                      'border-color': 'var(--vp-button-brand-border)',
+                      color: 'var(--vp-button-brand-text)'
+                    }
+              "
             >
               {{ loading ? 'Sending...' : 'Send Feedback 📩' }}
             </button>
