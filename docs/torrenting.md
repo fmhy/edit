@@ -175,3 +175,4 @@
 * [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
 * [r/torrents](https://reddit.com/r/torrents) - Torrenting Discussion
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - View Torrents Downloaded by your IP (can be inaccurate)
+* [WarezInfo](https://scenegroups.chromeknight.dev/) - Release Group Database - List of scene groups and related meta info
