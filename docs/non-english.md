@@ -1240,6 +1240,7 @@
 * [RetroArquivo](https://retroarquivo.wordpress.com) - Portuguese Game Magazines
 * [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
 * [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Wikipedia Parody
+* [Biblioteca Digital](https://bibliotecadigital.aemrt.pt/) - Digital Library
 
 ***
 
