@@ -578,7 +578,7 @@
 * [zdf](https://www.zdf.de/) - Free w/ Ads
 * [Burning Series](https://bs.to/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
-* [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p
+* [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Discord](https://discord.com/invite/xTkw6292Uj)
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons
 * [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive

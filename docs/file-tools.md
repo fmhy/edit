@@ -409,7 +409,7 @@
 
 * 🌐 **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
 * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
-* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB / 2 Years / ~$3.33 (5TB Google AI Pro)
+* ⭐ **[Google Drive](https://drive.google.com/)** - 5GB (15GB w/ Phone) / 2 Years / ~$3.33 (5TB Google AI Pro)
 * ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 (20TB Pro III) / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 (4TB Personal)
 * [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
