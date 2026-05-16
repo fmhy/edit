@@ -730,6 +730,7 @@
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Multi-Platform Scrobbler
 * ⭐ **[Last.fm Stats](https://lastfmstats.com/)** - In-Depth Last.fm Stats / [GitHub](https://github.com/felhag/lastfm-stats-web)
 * [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble Any Site
+* [FastScrobbler](https://github.com/kevinlim512/FastScrobbler) - Lightweight iOS/MacOS scrobbler for Apple Music
 * [Edit Scrobbles](https://greasyfork.org/en/scripts/485278) - Manually Edit Scrobbles
 * [Last.fm Labs](https://www.last.fm/labs) - Last.fm Library Visualizers
 * [Chart My Music](https://www.chartmymusic.com/lastfm/), [TapMusic](https://www.tapmusic.net/), [SonicPrint](https://sonicprint.art/) or [MusicCoruMap](https://musicorumapp.com/generate) - Album Collages
