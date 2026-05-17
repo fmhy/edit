@@ -138,7 +138,7 @@ onMounted(() => {
   <div class="flex flex-col items-start w-full space-y-4 antialiased">
     <Clock />
 
-    <form @submit.prevent="handleSubmit" class="relative w-full">
+    <form class="relative w-full" @submit.prevent="handleSubmit">
       <div class="relative">
         <i
           class="i-lucide-search absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-text-2"
@@ -146,10 +146,10 @@ onMounted(() => {
         <input
           ref="inputRef"
           v-model="query"
-          @focus="handleInputFocus"
-          @blur="handleInputBlur"
           placeholder="What would you like to search for?"
           class="w-full pl-10 pr-3 py-3 text-lg rounded-md shadow-sm transition-colors bg-bg-elv text-text border-2 outline-none border-div hover:border-primary"
+          @focus="handleInputFocus"
+          @blur="handleInputBlur"
         />
       </div>
     </form>
@@ -159,9 +159,9 @@ onMounted(() => {
         v-for="platform in platforms"
         :key="platform.name"
         :disabled="!query.trim()"
-        @click="handlePlatformClick(platform)"
         :class="platformClass()"
         :style="platform.color ? { borderColor: platform.color } : {}"
+        @click="handlePlatformClick(platform)"
       >
         <div class="flex items-center gap-2">
           <i

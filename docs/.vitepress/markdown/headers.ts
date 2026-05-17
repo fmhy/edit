@@ -71,7 +71,7 @@ export const headersPlugin = (md: MarkdownRenderer) => {
   const defaultRender = md.renderer.rules.link_open
 
   md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
-    const result = defaultRender!!!!!!!!!!(tokens, idx, options, env, self)
+    const result = defaultRender!(tokens, idx, options, env, self)
 
     const meta = tokens[idx].meta
     if (!meta || !meta.feedback) return result

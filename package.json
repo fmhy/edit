@@ -17,7 +17,8 @@
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache --check .",
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
@@ -45,6 +46,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260305.1",
+    "@eslint/js": "^10.0.1",
     "@ianvs/prettier-plugin-sort-imports": "^4.7.1",
     "@iconify-json/carbon": "^1.2.19",
     "@iconify-json/fluent": "^1.2.40",
@@ -63,17 +65,23 @@
     "@types/node": "^25.3.3",
     "@types/nprogress": "^0.2.3",
     "@vue/compiler-sfc": "^3.5.29",
+    "eslint": "^10.3.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-vue": "^10.9.1",
     "floating-vue": "^5.2.2",
+    "globals": "^17.6.0",
     "nitro-cloudflare-dev": "^0.2.2",
     "prettier": "^3.8.1",
     "prettier-plugin-pkgsort": "^0.3.0",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "sass": "^1.97.3",
     "typescript": "^5.9.3",
+    "typescript-eslint": "^8.59.3",
     "unplugin-auto-import": "^21.0.0",
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.4.0",
+    "vue-eslint-parser": "^10.4.0",
     "wrangler": "^4.70.0"
   },
   "pnpm": {
