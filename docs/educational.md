@@ -706,6 +706,7 @@
 ## ▷ Philosophy
 
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
+* ⭐ **[Early Modern Texts](https://www.earlymoderntexts.com)** - Early Modern Philosophy
 * [Philosophy Bro](https://www.philosophybro.com/), [LibreTexts Philosophy](https://human.libretexts.org/Bookshelves/Philosophy), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
 * [Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
 * [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
@@ -713,13 +714,13 @@
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
-* [Open Logic Project](https://openlogicproject.org/) - Math Logic Teaching Materials
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
 * [⁠Philosophy Stack Exchange](https://philosophy.stackexchange.com/) - Philosophy Forum
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [⁠Effective Altruism Forum](https://effectivealtruism.org/) - ⁠Effective Altruism Learning / [Forum](https://forum.effectivealtruism.org/)
+* [Open Logic Project](https://openlogicproject.org/) - Math Logic Teaching Materials
 * [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
 * [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
 * [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
@@ -1029,7 +1030,6 @@
 * [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 * [⁠IELTS Liz](https://ieltsliz.com/) - IELTS Test Preparation
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
-* [CEFR Lookup](https://cefrlookup.com/) - CEFR Word Level Lookup
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
