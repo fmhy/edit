@@ -44,6 +44,15 @@ export default defineConfig({
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/test.png' }],
+    [
+      'link',
+      {
+        rel: 'alternate',
+        type: 'application/rss+xml',
+        title: 'FMHY RSS Feed',
+        href: '/feed.rss'
+      }
+    ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['link', { rel: 'icon', href: '/pwa_icon.png', type: 'image/svg+xml' }],
