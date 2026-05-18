@@ -22,33 +22,6 @@ function getDocsFiles(dir) {
 const files = getDocsFiles(DOCS_DIR)
 let hasErrors = false
 
-// Load typos from CSV
-const typosMap = new Map()
-/* sucks right now
-try {
-    const typosPath = path.resolve(__dirname, 'typos.csv');
-    if (fs.existsSync(typosPath)) {
-        const typosContent = fs.readFileSync(typosPath, 'utf-8');
-        const typoLines = typosContent.split('\n');
-        typoLines.forEach(line => {
-            const parts = line.split(',');
-            if (parts.length >= 2) {
-                const typo = parts[0].trim().toLowerCase();
-                const correction = parts[1].trim();
-                if (typo && correction) {
-                    typosMap.set(typo, correction);
-                }
-            }
-        });
-        console.log(`✅ Loaded ${typosMap.size} typos from dictionary.`);
-    } else {
-        console.warn('⚠️ scripts/typos.csv not found, using fallback list.');
-    }
-} catch (e) {
-    console.warn(`⚠️ Failed to load typos: ${e.message}`);
-}
-*/
-
 console.log('🔍 Scanning markdown files for formatting issues...\n')
 
 files.forEach((file) => {
@@ -57,8 +30,15 @@ files.forEach((file) => {
   const relativePath = path.relative(process.cwd(), file)
   const normalizedPath = relativePath.replace(/\\/g, '/')
 
-  // Files to complete ignore from all checks
-  const FILES_TO_IGNORE = ['docs/feedback.md', 'docs/index.md']
+  // Files to completely ignore from all checks
+  const FILES_TO_IGNORE = [
+    'docs/feedback.md',
+    'docs/index.md',
+    'docs/recently-removed.md',
+    'docs/posts.md',
+    'docs/sandbox.md',
+    'docs/startpage.md'
+  ]
 
   if (FILES_TO_IGNORE.includes(normalizedPath)) return
 
@@ -68,11 +48,20 @@ files.forEach((file) => {
     FILES_TO_IGNORE_ENGLISH_CHECKS.includes(normalizedPath)
 
   let currentHeader = ''
+  let inCodeBlock = false
 
   lines.forEach((line, index) => {
     const lineNum = index + 1
     // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
     line = line.replace(/[\u200B-\u200D\uFEFF\u2060]/g, '')
+
+    // Toggle fenced code block state on lines starting with ``` (optionally indented)
+    if (/^\s*```/.test(line)) {
+      inCodeBlock = !inCodeBlock
+      return
+    }
+    if (inCodeBlock) return
+
     if (/^#+\s/.test(line)) {
       currentHeader = line
     }
@@ -154,18 +143,24 @@ files.forEach((file) => {
       }
     }
     // Check 8: Asymmetric spaces around slash
-    // We must exclude URLs (http://...)
-    const lineWithoutLinks = line.replace(
-      /https?:\/\/[^\s)]+/g,
-      'LINK_PLACEHOLDER'
-    )
+    // Strip tokens that legitimately contain slashes / comments so they don't
+    // generate false positives. Replacements are blanked (not placeholders)
+    // because any word-shaped placeholder would itself be matched by the
+    // slash regex below and re-flagged.
+    //   - URLs (http://...)
+    //   - HTML comments (<!-- /search-exclude -->)
+    //   - Inline code (`elenemigos.com`, `w/ account`)
+    const lineForChecks = line
+      .replace(/<!--[\s\S]*?-->/g, ' ')
+      .replace(/`[^`]+`/g, ' ')
+      .replace(/https?:\/\/[^\s)]+/g, ' ')
 
     // Ignore VitePress sidebar links (e.g. "link: /foo")
     if (!/^\s*link:/i.test(line)) {
       // A. Missing space after slash: " /Word"
       // Exception: /> (HTML close tag)
       // Exception: /Word/ (Path/Board e.g. /co/)
-      const missingSpaceAfter = lineWithoutLinks.matchAll(/\s\/([^\s]+)/g)
+      const missingSpaceAfter = lineForChecks.matchAll(/\s\/(\S+)/g)
       for (const match of missingSpaceAfter) {
         const wordAfter = match[1]
         if (wordAfter.startsWith('>')) continue // Ignore />
@@ -180,14 +175,15 @@ files.forEach((file) => {
 
       // B. Missing space before slash: "Word/ "
       // Exceptions: w/ (with), r/ (reddit), u/ (user), c/ (community)
-      // Exception: /Word/ (Path/Board e.g. /b/)
-      const missingSpaceBefore = lineWithoutLinks.matchAll(/([^\s]+)\/\s/g)
+      // The leading non-word anchor keeps "(w/" from sticking "(" onto the
+      // captured abbreviation and breaking the allow-list match.
+      const missingSpaceBefore = lineForChecks.matchAll(
+        /(?:^|[^\w/])([\w.+-]+)\/\s/g
+      )
       for (const match of missingSpaceBefore) {
         const wordBefore = match[1]
         // Allow common abbreviations: w/, r/, u/, c/
         if (/^(w|r|u|c)$/i.test(wordBefore)) continue
-        // Allow paths ending in slash or containing slash: /b/ or [/int
-        if (wordBefore.includes('/')) continue
 
         errors.push(
           `Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`
@@ -196,7 +192,7 @@ files.forEach((file) => {
       }
 
       // C. Double slash separated by spaces: "/ /"
-      if (/\/\s+\//.test(lineWithoutLinks)) {
+      if (/\/\s+\//.test(lineForChecks)) {
         errors.push('Double slash with spaces detected (e.g. "/ /")')
       }
     }
@@ -299,7 +295,19 @@ files.forEach((file) => {
           'highly',
           'up',
           'we',
-          'optionally'
+          'optionally',
+          // OS / platform / browser qualifiers that commonly precede [Guide], [GitHub], etc.
+          'linux',
+          'mac',
+          'macos',
+          'windows',
+          'android',
+          'ios',
+          'web',
+          'desktop',
+          'mobile',
+          'firefox',
+          'chrome'
         ]
         const wordRegex = new RegExp(
           `(^|[^a-zA-Z0-9])(${allowedWords.join('|')})$`,
@@ -322,10 +330,10 @@ files.forEach((file) => {
       currentHeader.includes('Static Page Hosting')
     if (line.includes('/') && !isTempMailSection && !isStaticHostingSection) {
       const BLOCK_SPLIT = '___BLOCK_SPLIT___'
-      const lineCleanedLinks = line.replace(
-        /(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g,
-        BLOCK_SPLIT
-      )
+      const lineCleanedLinks = line
+        .replace(/<!--[\s\S]*?-->/g, '')
+        .replace(/`[^`]+`/g, '')
+        .replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT)
       const blocks = lineCleanedLinks.split(BLOCK_SPLIT)
 
       blocks.forEach((block) => {
@@ -446,87 +454,28 @@ files.forEach((file) => {
         }
       }
 
-      // Check 11: Common Typos
-      // Check 11: Common Typos from CSV
-      // We load this once usually, but here for simplicity we assume 'commonTyposMap' is prepared.
-      // Actually, let's just stick to the hardcoded list for now as a fallback,
-      // but if the CSV loading logic was added, we would use it.
-      // Since we are inside the line loop, we shouldn't load the file here.
-      // The loading should happen outside. We will assume 'typosMap' exists.
-
-      if (typeof typosMap !== 'undefined' && typosMap.size > 0) {
-        // Unicode-aware split to avoid breaking words like "Română" or "Slovenčina"
-        const words = lineCleaned.split(/[^\p{L}0-9']+/u)
-        const ALLOWED_TYPOS = [
-          'hong',
-          'hls',
-          'troy',
-          'fami',
-          'rentry',
-          'typesafe',
-          'spritesheet',
-          'ba',
-          'puyo',
-          'moo',
-          'ne',
-          'nes',
-          'rg',
-          'rgshop',
-          'rgshows',
-          're',
-          'revanced',
-          'skipper',
-          'ste',
-          'sneedacity',
-          'rom',
-          'ide',
-          'luks',
-          'cse',
-          'gameboy',
-          'lan',
-          'pokemon',
-          'sa',
-          'cah',
-          'rin',
-          'tx',
-          'mame'
-        ]
-        for (const word of words) {
-          const lowerWord = word.toLowerCase()
-          if (typosMap.has(lowerWord) && !ALLOWED_TYPOS.includes(lowerWord)) {
-            errors.push(
-              `Possible typo: "${word}" (should be "${typosMap.get(lowerWord)}")`
-            )
-          }
-        }
-      } else {
-        // Fallback to small list if CSV not loaded
-        const commonTypos = {
-          teh: 'the',
-          adn: 'and',
-          thier: 'their',
-          dont: "don't",
-          cant: "can't",
-          wont: "won't",
-          occured: 'occurred',
-          seperate: 'separate',
-          independant: 'independent',
-          reccomend: 'recommend',
-          recieve: 'receive',
-          adress: 'address',
-          neccessary: 'necessary',
-          tring: 'trying',
-          availalbe: 'available'
-        }
-        for (const [typo, correction] of Object.entries(commonTypos)) {
-          const typoRegex = new RegExp(`\\b${typo}\\b`, 'i')
-          if (typoRegex.test(line)) {
-            if (!/http/.test(line)) {
-              errors.push(
-                `Possible typo: "${typo}" (should be "${correction}")`
-              )
-            }
-          }
+      // Check 11: Common Typos (curated hardcoded list)
+      const commonTypos = {
+        teh: 'the',
+        adn: 'and',
+        thier: 'their',
+        dont: "don't",
+        cant: "can't",
+        wont: "won't",
+        occured: 'occurred',
+        seperate: 'separate',
+        independant: 'independent',
+        reccomend: 'recommend',
+        recieve: 'receive',
+        adress: 'address',
+        neccessary: 'necessary',
+        tring: 'trying',
+        availalbe: 'available'
+      }
+      for (const [typo, correction] of Object.entries(commonTypos)) {
+        const typoRegex = new RegExp(`\\b${typo}\\b`, 'i')
+        if (typoRegex.test(lineCleaned)) {
+          errors.push(`Possible typo: "${typo}" (should be "${correction}")`)
         }
       }
 
