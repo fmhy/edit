@@ -1507,6 +1507,7 @@
 * [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
+* [Jellify](https://sc420.github.io/jellify-ur-website/) - Turn Websites to Jelly / [GitHub](https://github.com/sc420/jellify-ur-website)
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
 * [Our World of Text](https://ourworldoftext.com/), [TextWall](https://tw.2s4.me/) or [OurWorldOfText](https://www.yourworldoftext.com/) - Infinite Community Text Grid

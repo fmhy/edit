@@ -765,7 +765,7 @@
 ## ▷ Mac Internet
 
 * ↪️ **[Mac Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
-* [KeePassXC](https://keepassxc.org/download/#macos) (local) or [Strongbox](https://strongboxsafe.com/) - Password Managers
+* [KeePassXC](https://keepassxc.org/download/#macos) (local) / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) or [Strongbox](https://strongboxsafe.com/) - Password Managers
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
 * [Browserino](https://github.com/AlexStrNik/Browserino) - Browser Prompter
