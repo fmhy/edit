@@ -30,6 +30,7 @@
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [BooksMania](https://t.me/booksmania) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
+* [Chesser Resources](https://chesserresources.com.au/) - Free PDF Books / Resources
 * [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending 
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)

@@ -115,6 +115,7 @@
 * [ShipSpotting](https://www.shipspotting.com/) - Ship Index / Images
 * [Alchemy Forums](https://alchemyforums.com/index.php) - Alchemy Forum
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
+* [Learro](https://learro.com/) - Free Education Resources / Learning
 
 ***
 
