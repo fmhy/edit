@@ -1084,7 +1084,7 @@
 * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework
 * ⭐ **[GDDP](https://gddp.pro/)** or **[GD Demon Ladder](https://gdladder.com/)** - Practice & Improve Your Skills
-* [⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/) -  ⁠Geometry Dash Wiki
+* [⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/) - ⁠Geometry Dash Wiki
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language

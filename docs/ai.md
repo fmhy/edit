@@ -53,7 +53,7 @@
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Qwen3 235B Instruct / Multiple Models / Sign-Up
-* [Groq](https://console.groq.com/playground) - GPT-OSS-120B /  Llama 3.3 70B / Multiple Models / Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
+* [Groq](https://console.groq.com/playground) - GPT-OSS-120B / Llama 3.3 70B / Multiple Models / Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
 * [Dolphin Chat](https://chat.dphn.ai/) - Dolphin 24B / Unrestricted / No Sign Up / Unlimited
 
 ***
@@ -133,9 +133,9 @@
 * ⭐ **[Chub](https://chub.ai/)** - Roleplaying Chatbots / Sign-Up / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
 * [HammerAI](https://www.hammerai.com/characters) - Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / [Local](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [Subreddit](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom) 
 * [Miku](https://docs.miku.gg/) / [Live Demo](https://bots.miku.gg/) / Open-Source / Roleplaying / Some NSFW / [Discord](https://discord.gg/3XPdpUdGgV)
-* [4thWall AI](https://beta.4wall.ai/) / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai)  or [WyvernChat](https://app.wyvern.chat/)  - Roleplaying Chatbots / No Sign-Up
+* [4thWall AI](https://beta.4wall.ai/) / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai) or [WyvernChat](https://app.wyvern.chat/) - Roleplaying Chatbots / No Sign-Up
 * [AI Dungeon](https://aidungeon.com/) / [Subreddit](https://www.reddit.com/r/AIDungeon/) / [Discord](https://discord.com/invite/HB2YBZYjyf) or [Spellbound](https://www.tryspellbound.com/) or [FictionLab](https://fictionlab.ai/) / [Discord](https://discord.com/invite/SKcb2C7HjH) - Roleplaying + Story Chatbot / No Sign-Up
-*  [KoboldAI Web](https://lite.koboldai.net/) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
+* [KoboldAI Web](https://lite.koboldai.net/) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
 * [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
 * [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - Realistic AI Voice Chatlooks
@@ -207,7 +207,7 @@
 * [⁠ZonerAI](https://zonerai.com/en/image-editor) - Editing (sign up) + Generating (no sign up) / Unlimited
 * [Meta AI](https://www.meta.ai/) - Generating + Editing / Unlimited / Meta Sign-Up
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) or [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators)  - Z-Image Turbo
+* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) or [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
 * [⁠Ernie](https://ernie.baidu.com/) or [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2 / 10 Daily / Sign-Up
@@ -294,7 +294,7 @@
 * [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://github.com/DrewThomasson/ebook2audiobook) / [2](https://huggingface.co/spaces/drewThomasson/ebook2audiobook), [ElevenReader](https://elevenreader.io/), [⁠Paper2Audio](https://www.paper2audio.com/) or [ReadWise](https://readwise.io/read) (reset trial) - Convert Books / Documents to Audiobooks
 * [Google Illuminate](https://illuminate.google.com/) - Generate AI Conversations
 * [ElevenLabs](https://elevenlabs.io/) / No Sign-Up / [Discord](https://discord.gg/elevenlabs) / [GitHub](https://github.com/elevenlabs)
-* [Pollinations Chat](https://pollinations.ai/play) - Whisper Large V3/ AssemblyAI Universal-2 / Qwen3-TTS Flash / [Limits and Models](https://enter.pollinations.ai/sign-in##models) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
+* [Pollinations Chat](https://pollinations.ai/play) - Whisper Large V3 / AssemblyAI Universal-2 / Qwen3-TTS Flash / [Limits and Models](https://enter.pollinations.ai/sign-in##models) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [TTS-WebUI](https://ttswebui.com/) / No Sign-Up / [Colab](https://colab.research.google.com/github/rsxdalv/tts-webui/blob/main/notebooks/google_colab.ipynb) / [Discord](https://discord.gg/V8BKTVRtJ9) / [GitHub](https://github.com/rsxdalv/TTS-WebUI)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)

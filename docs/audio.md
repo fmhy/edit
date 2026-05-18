@@ -46,7 +46,7 @@
 * [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.vercel.app/) - Recreates MTV Experience from Different Eras
 * [The 120 Minutes Archive](https://120minutes.org/) - MTV's 120 Minutes Archive
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
-* [⁠VersusMedia](https://watch.versusmedia.com/music-channel) - Independant Music Video Feed
+* [⁠VersusMedia](https://watch.versusmedia.com/music-channel) - Independent Music Video Feed
 * [Hype Machine](https://hypem.com/popular) - Rising
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
 * [Mirlo](https://mirlo.space/) - Free Music Release Platform
@@ -226,7 +226,7 @@
 * ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
-* [Radio.dubbeh](https://radio.dubbeh.net/) -  Online Radio Directory
+* [Radio.dubbeh](https://radio.dubbeh.net/) - Online Radio Directory
 * [My Radio](https://junguler.github.io/m3u-player-web/) - Online Radio Directory
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
