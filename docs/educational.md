@@ -817,7 +817,7 @@
 * 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
 * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
-* ⭐ **[Drawabox](https://drawabox.com/)**, [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
+* ⭐ **[Drawabox](https://drawabox.com/)** / [Discord](https://discord.com/invite/drawabox), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing Lessons
 * ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
 * ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [⁠Ctrl+Paint](https://www.ctrlpaint.com/), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
 * [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts

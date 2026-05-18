@@ -26,7 +26,7 @@
 * [1Shows](https://www.1shows.org/), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / [Discord](https://discord.gg/the-one) / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * [Movish](https://movish.net/) - Movies / TV / Anime / [Discord](https://discord.gg/FsbU2BQcjQ)
 * [WatchFlix](https://watchflix.to/) - Movies / TV / Anime / Auto-Next
-* [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.pro/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
+* [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.ru/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [TVids](https://www.tvids.to/), [2](https://www.tvids.net/), [3](https://watch-tvseries.net/), [4](https://tvids.me/), [5](https://tvids.tv/) - Movies / TV / Anime / Auto-Next
 * [AZMovies](https://azmovies.to/) - Movies / TV / Anime / Mostly 3rd Party Hosts
 * [BFLIX](https://bflix.sh/) - Movies / TV
@@ -92,7 +92,7 @@
 * [AuroraScreen](https://www.aurorascreen.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
 * [Netplay](https://netplayz.live/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
-* [Youflex](https://youflex.live/) - Movies / TV / Anime
+* [Youflex](http://youflex.lol/) - Movies / TV / Anime
 * [StreamWatch](https://streamwatch.online/), [2](https://streamwatch.youplex.site/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)
 * [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next
 * [TeleV](https://telev.tv/) - Movies / TV / Anime / Sign-Up Required / [Discord](https://discord.gg/bPez4gxuze)

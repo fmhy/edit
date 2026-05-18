@@ -128,7 +128,6 @@
 * [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
 * [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
 * [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
-* [FBReader](https://apps.apple.com/app/fbreader-epub-and-fb2-reader/id1067172178) - Ebook Reader / Mac, iOS
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
 * [DjVuLibr](https://djvu.sourceforge.net/) - DjVu Reader / Windows
