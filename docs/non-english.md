@@ -466,6 +466,7 @@
 ## ▷ Streaming
 
 * [noctaflix](https://noctaflix.art/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
+* [French Stream](https://fstream.info/) - Movies / TV / Anime / VF and VOSTFR / Use Filmoon or VOE for better quality
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [FS02](https://fs02.lol/) - Movies / TV / Anime
