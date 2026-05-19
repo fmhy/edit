@@ -38,6 +38,22 @@ export const search: DefaultTheme.Config['search'] = {
         return ''
       }
 
+      // Exclude posts older than 2 months (60 days)
+      if (relativePath.includes('posts/')) {
+        const frontmatterMatch = src.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+        if (frontmatterMatch) {
+          const dateMatch = frontmatterMatch[1].match(/^date:\s*['"]?([\d-]+)['"]?/m)
+          if (dateMatch) {
+            const postDate = new Date(dateMatch[1])
+            const twoMonthsAgo = new Date()
+            twoMonthsAgo.setMonth(twoMonthsAgo.getMonth() - 2)
+            if (postDate < twoMonthsAgo) {
+              return ''
+            }
+          }
+        }
+      }
+
       let contents = src
 
       //Strip any content wrapped in <!-- search-exclude --> tags
@@ -95,7 +111,7 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
-        // @ts-ignore
+        // @ts-expect-error: Record is a generic type but used as value/type directly here
         boostDocument: (documentId, term, storedFields: Record) => {
           const titles = (storedFields?.titles as string[])
             .filter((t) => Boolean(t))
