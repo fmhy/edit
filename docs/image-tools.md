@@ -485,6 +485,7 @@
 * [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
+* [Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Unofficial booru client for multiple imageboards / [GitHub](https://github.com/khoadng/Boorusama) / [Discord](https://discord.gg/tvyYVxjfBr)
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [TEv2](http://te2.tewi.us/) - Share Your Drawings
