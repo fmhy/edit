@@ -465,7 +465,7 @@
 * ⭐ **[MagazineLib](https://magazinelib.com/)** - VK
 * [Calameo](https://calameo.com/) - Online Reading
 * [Magzter](https://www.magzter.com/top-free-magazines) - Online Reading
-* [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading
+* [FlipHTML5](https://fliphtml5.com/exploring) - Online Reading / [Downloader](https://fliphtml5.aivaded.com/)
 * [Magazine Rack](https://archive.org/details/magazine_rack) - Archive.org
 * [Computer Magazines](https://archive.org/details/computermagazines) - Archive.org
 * [freemagazines](https://freemagazines.top/) - VK
