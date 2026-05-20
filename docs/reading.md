@@ -336,7 +336,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
 * ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.net/)
 * [HDAudiobooks](https://hdaudiobooks.net/)

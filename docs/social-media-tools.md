@@ -536,7 +536,7 @@
 * [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [PurpleAdblock](https://github.com/arthurbolsoni/Purple-adblock) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
-* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw) or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Mobile Ad-Free Twitch Apps
+* [PurpleTV](https://purpletv.aeong.win/) - Mobile Ad-Free Twitch App / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw)
 
 ***
 

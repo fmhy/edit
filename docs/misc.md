@@ -744,7 +744,6 @@
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [⁠CaffeineHealth](https://github.com/ohuc/CaffeineHealth) - Caffeine Intake Calculator / Android
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
 * [Nutrient Sorter](https://michaelf314.github.io/nutrient-sorter/) - Vegan Food Nutrient Sorter
