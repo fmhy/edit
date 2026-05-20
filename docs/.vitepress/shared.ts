@@ -32,6 +32,7 @@ export const meta = {
 export const excluded = [
   'readme.md',
   'single-page',
+  'single-page.md',
   'feedback.md',
   'index.md',
   'sandbox.md',
