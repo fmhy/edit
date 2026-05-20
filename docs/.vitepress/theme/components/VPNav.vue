@@ -35,6 +35,8 @@ const updateMobileNavClass = (hidden: boolean) => {
   }
 }
 
+const SCROLL_THRESHOLD = 12
+
 watch(y, (newY, oldY) => {
   if (!inBrowser) return
 
@@ -47,14 +49,17 @@ watch(y, (newY, oldY) => {
 
   // Only apply on mobile (< 960px usually)
   if (width.value < 960) {
-    if (newY > oldY) {
-      // Scrolling down -> hide
-      isHidden.value = true
-      updateMobileNavClass(true)
-    } else {
-      // Scrolling up -> show
-      isHidden.value = false
-      updateMobileNavClass(false)
+    const diff = newY - oldY
+    if (Math.abs(diff) > SCROLL_THRESHOLD) {
+      if (diff > 0) {
+        // Scrolling down -> hide
+        isHidden.value = true
+        updateMobileNavClass(true)
+      } else {
+        // Scrolling up -> show
+        isHidden.value = false
+        updateMobileNavClass(false)
+      }
     }
   } else {
     isHidden.value = false
