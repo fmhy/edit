@@ -1,3 +1,7 @@
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   transition:
     background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1),
