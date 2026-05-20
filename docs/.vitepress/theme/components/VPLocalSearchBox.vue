@@ -16,6 +16,7 @@ const globalCurrentMarkIndex = ref<Map<number, number>>(new Map())
 const RESULTS_PAGE_SIZE = 16
 const globalResultLimit = ref(RESULTS_PAGE_SIZE)
 const globalUsedSubstringExpansion = ref(false)
+const globalMayHaveMore = ref(false)
 </script>
 
 <script lang="ts" setup>
@@ -193,6 +194,7 @@ const enableNoResults = ref(isRestoring)
 const isSearching = ref(!isRestoring && !!filterText.value)
 const usedSubstringExpansion = ref(isRestoring ? globalUsedSubstringExpansion.value : false)
 const resultLimit = ref(isRestoring ? globalResultLimit.value : RESULTS_PAGE_SIZE)
+const mayHaveMore = ref(isRestoring ? globalMayHaveMore.value : false)
 
 const recentSearches = useLocalStorage<string[]>(
   'vitepress:local-search-recent',
@@ -327,6 +329,7 @@ debouncedWatch(
     if (!index || !filterTextValue.trim()) {
       allResults.value = []
       totalResultsCount.value = 0
+      mayHaveMore.value = false
 
       // Clear global cache for empty query
       globalAllResults.value = []
@@ -335,6 +338,7 @@ debouncedWatch(
       globalResults.value = []
       globalResultMarks.value = new Map()
       globalCurrentMarkIndex.value = new Map()
+      globalMayHaveMore.value = false
       return
     }
 
@@ -444,6 +448,7 @@ watch(
         isSearching.value = false
       }
       totalResultsCount.value = 0
+      mayHaveMore.value = false
       return
     }
 
@@ -460,6 +465,7 @@ watch(
 
     let finalResults: (SearchResult & Result)[]
     let totalCount: number
+    let mayHaveMoreValue = false
 
     const isExactSearch = !isFuzzySearch.value && !usedSubstringExpansion.value
 
@@ -488,7 +494,10 @@ watch(
 
       const filtered = filterResults(mapped, filterText.value)
       finalResults = filtered.slice(0, limit)
-      totalCount = filtered.length + Math.max(0, allRes.length - candidateLimit)
+      totalCount = filtered.length
+      // Untested remainder beyond the candidate pool may contain more matches;
+      // expanding resultLimit re-runs this branch with a larger candidateLimit.
+      mayHaveMoreValue = allRes.length > candidateLimit
     } else {
       // Fuzzy search or substring expansion: slice to limit directly
       const slicedToFetch = showDetailedListValue
@@ -520,6 +529,7 @@ watch(
 
     results.value = finalResults
     totalResultsCount.value = totalCount
+    mayHaveMore.value = mayHaveMoreValue
 
     await nextTick()
     if (canceled) return
@@ -603,6 +613,7 @@ watch(
     globalResultMarks.value = resultMarks.value
     globalCurrentMarkIndex.value = currentMarkIndex.value
     globalResultLimit.value = limit
+    globalMayHaveMore.value = mayHaveMoreValue
   },
   { immediate: true }
 )
@@ -1102,7 +1113,8 @@ const customTitles = {
   nextMatch: 'Next match',
   fuzzyOn: 'Switch to Exact Search',
   fuzzyOff: 'Switch to Fuzzy Search',
-  searching: 'Searching...'
+  searching: 'Searching...',
+  cycleMatches: 'to cycle matches'
 }
 
 // Back
@@ -1444,7 +1456,7 @@ function fastScrollTo(targetY: number, duration = 150) {
           >
             <TransitionGroup name="result-list">
               <li v-if="filterText && results.length" key="results-info" class="results-info">
-                Showing {{ results.length }} of {{ totalResultsCount }} matches
+                Showing {{ results.length }} of {{ totalResultsCount }}{{ mayHaveMore ? '+' : '' }} matches
               </li>
               <li
                 v-for="(p, index) in results"
@@ -1585,7 +1597,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                 </div>
               </li>
               <li
-                v-if="!isSearching && results.length < totalResultsCount"
+                v-if="!isSearching && (results.length < totalResultsCount || mayHaveMore)"
                 key="show-more"
                 class="show-more-item"
               >
@@ -1593,7 +1605,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                   class="show-more-btn"
                   @click="resultLimit += RESULTS_PAGE_SIZE"
                 >
-                  Show more results ({{ totalResultsCount - results.length }} remaining)
+                  Show more results<template v-if="!mayHaveMore && totalResultsCount > results.length"> ({{ totalResultsCount - results.length }} remaining)</template>
                 </button>
               </li>
             </TransitionGroup>
@@ -1626,7 +1638,7 @@ function fastScrollTo(targetY: number, duration = 150) {
               <kbd>
                 <span class="vpi-arrow-right navigate-icon" />
               </kbd>
-              to cycle matches
+              {{ customTitles.cycleMatches }}
             </span>
             <span>
               <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">

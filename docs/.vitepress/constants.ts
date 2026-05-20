@@ -111,8 +111,7 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
-        // @ts-expect-error: Record is a generic type but used as value/type directly here
-        boostDocument: (documentId, term, storedFields: Record) => {
+        boostDocument: (documentId, term, storedFields: Record<string, unknown>) => {
           const titles = (storedFields?.titles as string[])
             .filter((t) => Boolean(t))
             .map((t) => t.toLowerCase())
