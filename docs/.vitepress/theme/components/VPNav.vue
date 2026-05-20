@@ -40,6 +40,12 @@ const SCROLL_THRESHOLD = 12
 watch(y, (newY, oldY) => {
   if (!inBrowser) return
 
+  // If mobile Table of Contents dropdown is open, do not hide the nav bar.
+  // NOTE: This selector depends on VitePress internal DOM structure; update if VitePress changes class names.
+  if (document.querySelector('.VPLocalNavOutlineDropdown .items')) {
+    return
+  }
+
   // If at top, show
   if (newY <= 0) {
     isHidden.value = false
