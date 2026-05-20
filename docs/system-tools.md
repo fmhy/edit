@@ -439,6 +439,7 @@
 * [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV Screensaver
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows
 * [MacType](https://www.mactype.net/) - Use Mac Fonts on Windows / [GitHub](https://github.com/snowie2000/mactype)
+* [LegendBar](https://github.com/Baldev8910/LegendBar) - Menu Bar/Top Bar for Windows 11
 
 ***
 
