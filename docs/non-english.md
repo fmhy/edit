@@ -11,7 +11,6 @@
 # ► Arabic / العربية
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
-* [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
@@ -1004,7 +1003,6 @@
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
 * 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
-* [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Censorship Bypass Tool / [Support](https://t.me/MasterDnsVPNGroup) / [Telegram](https://t.me/masterdnsvpn)
 * [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
