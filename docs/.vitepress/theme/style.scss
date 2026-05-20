@@ -470,3 +470,10 @@ body {
     transition: color 0.25s;
   }
 }
+
+body,
+.Layout {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
