@@ -89,6 +89,15 @@ interface Result {
   text?: string
 }
 
+interface BoostFlags {
+  hasStarredExact: boolean
+  hasExact: boolean
+  hasStarredPrefix: boolean
+  hasPrefix: boolean
+  hasStarredWord: boolean
+  hasLinkWord: boolean
+}
+
 const vitePressData = useData()
 const { activate } = useFocusTrap(el, {
   allowOutsideClick: true,
@@ -122,18 +131,18 @@ const TOKEN_STOP_WORDS = new Set([
   'with',
   'you'
 ])
+// Zero-width / word-joiner characters the wiki sprinkles inside text (kept in
+// sync with the build-time stripper in constants.ts).
+const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
+
 function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
   const out: string[] = []
   const raw = text
-    .replace(/[⁠​]/g, '')
+    .replace(INVISIBLE_CHARS_RE, '')
     .split(/[\n\r #%*,=/:;?[\]{}()&]+/u)
   for (const piece of raw) {
     if (!piece) continue
-    const t = piece
-      .trim()
-      .toLowerCase()
-      .replace(/^\.+/, '')
-      .replace(/\.+$/, '')
+    const t = piece.trim().toLowerCase().replace(/^\.+/, '').replace(/\.+$/, '')
     if (t.length < 2 || TOKEN_STOP_WORDS.has(t)) continue
     out.push(t)
     if (splitDottedParts && t.includes('.')) {
@@ -151,27 +160,24 @@ const searchIndex = computedAsync(async () => {
   const parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
   customMetadata.value = parsed?.customMetadata || {}
   return markRaw(
-    MiniSearch.loadJS<Result>(
-      parsed,
-      {
-        fields: ['title', 'titles', 'text'],
-        storeFields: ['title', 'titles'],
-        tokenize: (text: string) =>
-          text
-            .replace(/[\u2060\u200B]/g, '')
-            .split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/)
-            .filter((t) => t),
-        searchOptions: {
-          fuzzy: false,
-          prefix: true,
-          boost: { title: 4, text: 2, titles: 1 },
-          ...(theme.value.search?.provider === 'local' &&
-            theme.value.search.options?.miniSearch?.searchOptions)
-        },
+    MiniSearch.loadJS<Result>(parsed, {
+      fields: ['title', 'titles', 'text'],
+      storeFields: ['title', 'titles'],
+      tokenize: (text: string) =>
+        text
+          .replace(/[\u2060\u200B]/g, '')
+          .split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/)
+          .filter((t) => t),
+      searchOptions: {
+        fuzzy: false,
+        prefix: true,
+        boost: { title: 4, text: 2, titles: 1 },
         ...(theme.value.search?.provider === 'local' &&
-          theme.value.search.options?.miniSearch?.options)
-      }
-    )
+          theme.value.search.options?.miniSearch?.searchOptions)
+      },
+      ...(theme.value.search?.provider === 'local' &&
+        theme.value.search.options?.miniSearch?.options)
+    })
   )
 })
 
@@ -520,8 +526,12 @@ debouncedWatch(
     //   7. raw score (title/text match, etc.)
     // Bold-without-star is treated as a regular link (no special tier).
     // "Prefix"/"exact" compare the full query against the whole hyperlink text,
-    // not against individual tokens.
-    const q = filterTextValue.trim().toLowerCase()
+    // not against individual tokens. Strip zero-width characters from the
+    // query to match the build-time normalization in extractLinkMetadata.
+    const q = filterTextValue
+      .replace(INVISIBLE_CHARS_RE, '')
+      .trim()
+      .toLowerCase()
 
     const boostedResults = currentResults.map((r) => {
       const meta = customMetadata.value[r.id]
@@ -574,19 +584,19 @@ debouncedWatch(
       }
     })
 
-    const tierKeys = [
+    const tierKeys: (keyof BoostFlags)[] = [
       'hasStarredExact',
       'hasExact',
       'hasStarredPrefix',
       'hasPrefix',
       'hasStarredWord',
       'hasLinkWord'
-    ] as const
+    ]
 
     boostedResults.sort((a, b) => {
       for (const key of tierKeys) {
-        const av = (a as any)[key] ? 1 : 0
-        const bv = (b as any)[key] ? 1 : 0
+        const av = a[key] ? 1 : 0
+        const bv = b[key] ? 1 : 0
         if (av !== bv) return bv - av
       }
       return b.score - a.score

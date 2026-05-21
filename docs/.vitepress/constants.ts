@@ -15,8 +15,8 @@
  */
 
 import type { DefaultTheme } from 'vitepress'
-import MiniSearch from 'minisearch'
 import path from 'node:path'
+import MiniSearch from 'minisearch'
 import { excluded } from './shared'
 import { transform, transformGuide } from './transformer'
 
@@ -45,13 +45,17 @@ function getDocId(file: string) {
   return id
 }
 
-
 function extractLinkMetadata(html: string) {
   const links = new Set<string>()
   const starredBoldLinks = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
+  // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
+  // occasionally U+200B) inside link text as a visual workaround; leaving them
+  // in metadata phrases breaks exact/prefix tier matching at search time.
+  const stripInvisible = (str: string) =>
+    str.replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
   const cleanText = (text: string) =>
-    stripTags(text).replace(/\s+/g, ' ').trim().toLowerCase()
+    stripInvisible(stripTags(text)).replace(/\s+/g, ' ').trim().toLowerCase()
 
   const isStarred = (index: number) => {
     // `<li ` and `<li>` rather than `<li` so we don't catch `<link>` / `<line>`.
@@ -175,7 +179,8 @@ export const search: DefaultTheme.Config['search'] = {
         }
         const sections: any[] = []
 
-        const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+        const headingRegex =
+          /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
         const headingContentRegex = /(.*?)<a.*? href="#(.*?)".*?>.*?<\/a>/i
 
         const clearHtmlTags = (str: string) => str.replace(/<[^>]*>/g, '')
