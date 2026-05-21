@@ -42,7 +42,9 @@ export const search: DefaultTheme.Config['search'] = {
       if (relativePath.includes('posts/')) {
         const frontmatterMatch = src.match(/^---\r?\n([\s\S]*?)\r?\n---/)
         if (frontmatterMatch) {
-          const dateMatch = frontmatterMatch[1].match(/^date:\s*['"]?([\d-]+)['"]?/m)
+          const dateMatch = frontmatterMatch[1].match(
+            /^date:\s*['"]?([\d-]+)['"]?/m
+          )
           if (dateMatch) {
             const postDate = new Date(dateMatch[1])
             const twoMonthsAgo = new Date()
@@ -67,7 +69,9 @@ export const search: DefaultTheme.Config['search'] = {
         contents = transformGuide(contents)
 
       contents = transform(contents)
-      const html = md.render(contents, env)
+      let html = md.render(contents, env)
+      // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
+      html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')
       return html
     },
     miniSearch: {
@@ -111,8 +115,12 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
-        boostDocument: (documentId, term, storedFields: Record<string, unknown>) => {
-          const titles = (storedFields?.titles as string[])
+        boostDocument: (
+          documentId,
+          term,
+          storedFields?: Record<string, unknown>
+        ) => {
+          const titles = ((storedFields?.titles as string[]) || [])
             .filter((t) => Boolean(t))
             .map((t) => t.toLowerCase())
           // Downrank posts
