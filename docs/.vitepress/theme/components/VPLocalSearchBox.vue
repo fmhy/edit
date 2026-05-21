@@ -20,7 +20,6 @@ const globalMayHaveMore = ref(false)
 </script>
 
 <script lang="ts" setup>
-
 import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
@@ -106,10 +105,54 @@ const { localeIndex, theme } = vitePressData
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
-const searchIndex = computedAsync(async () =>
-  markRaw(
-    MiniSearch.loadJSON<Result>(
-      (await searchIndexData.value[localeIndex.value]?.())?.default,
+const customMetadata = shallowRef<
+  Record<string, { l?: string[]; b?: string[]; s?: string[] }>
+>({})
+
+// Mirrors the build-time tokenize + processTerm logic in constants.ts so
+// metadata phrases tokenize to the same atoms MiniSearch stores in r.terms.
+const TOKEN_STOP_WORDS = new Set([
+  'frontmatter',
+  '$frontmatter.synopsis',
+  'and',
+  'about',
+  'but',
+  'now',
+  'the',
+  'with',
+  'you'
+])
+function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
+  const out: string[] = []
+  const raw = text
+    .replace(/[⁠​]/g, '')
+    .split(/[\n\r #%*,=/:;?[\]{}()&]+/u)
+  for (const piece of raw) {
+    if (!piece) continue
+    const t = piece
+      .trim()
+      .toLowerCase()
+      .replace(/^\.+/, '')
+      .replace(/\.+$/, '')
+    if (t.length < 2 || TOKEN_STOP_WORDS.has(t)) continue
+    out.push(t)
+    if (splitDottedParts && t.includes('.')) {
+      for (const part of t.split('.')) {
+        if (part.length >= 2 && !TOKEN_STOP_WORDS.has(part)) out.push(part)
+      }
+    }
+  }
+  return out
+}
+
+const searchIndex = computedAsync(async () => {
+  const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
+  if (!rawIndex) return null
+  const parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
+  customMetadata.value = parsed?.customMetadata || {}
+  return markRaw(
+    MiniSearch.loadJS<Result>(
+      parsed,
       {
         fields: ['title', 'titles', 'text'],
         storeFields: ['title', 'titles'],
@@ -130,7 +173,7 @@ const searchIndex = computedAsync(async () =>
       }
     )
   )
-)
+})
 
 const disableQueryPersistence = computed(() => {
   return (
@@ -184,16 +227,28 @@ function matchesGlobalState() {
 
 const isRestoring = matchesGlobalState()
 
-const results: Ref<(SearchResult & Result)[]> = shallowRef(isRestoring ? globalResults.value : [])
-const allResults = shallowRef<(SearchResult & Result)[]>(isRestoring ? globalAllResults.value : [])
+const results: Ref<(SearchResult & Result)[]> = shallowRef(
+  isRestoring ? globalResults.value : []
+)
+const allResults = shallowRef<(SearchResult & Result)[]>(
+  isRestoring ? globalAllResults.value : []
+)
 const totalResultsCount = ref(isRestoring ? globalTotalResultsCount.value : 0)
-const resultMarks = shallowRef<Map<number, HTMLElement[][]>>(isRestoring ? new Map(globalResultMarks.value) : new Map())
-const currentMarkIndex = shallowRef<Map<number, number>>(isRestoring ? new Map(globalCurrentMarkIndex.value) : new Map())
+const resultMarks = shallowRef<Map<number, HTMLElement[][]>>(
+  isRestoring ? new Map(globalResultMarks.value) : new Map()
+)
+const currentMarkIndex = shallowRef<Map<number, number>>(
+  isRestoring ? new Map(globalCurrentMarkIndex.value) : new Map()
+)
 
 const enableNoResults = ref(isRestoring)
 const isSearching = ref(!isRestoring && !!filterText.value)
-const usedSubstringExpansion = ref(isRestoring ? globalUsedSubstringExpansion.value : false)
-const resultLimit = ref(isRestoring ? globalResultLimit.value : RESULTS_PAGE_SIZE)
+const usedSubstringExpansion = ref(
+  isRestoring ? globalUsedSubstringExpansion.value : false
+)
+const resultLimit = ref(
+  isRestoring ? globalResultLimit.value : RESULTS_PAGE_SIZE
+)
 const mayHaveMore = ref(isRestoring ? globalMayHaveMore.value : false)
 
 const recentSearches = useLocalStorage<string[]>(
@@ -217,11 +272,56 @@ const autoSuggestions = computed(() => {
 
   try {
     const rawSuggestions = searchIndex.value.autoSuggest(query, {
-      fuzzy: 0.2,
+      fuzzy: (term) => (term.length >= 5 ? 2 : 1),
       prefix: true
-    }) as { suggestion: string }[]
+    }) as { suggestion: string; terms: string[]; score: number }[]
 
-    return rawSuggestions
+    const globalStarredLinks = new Set<string>()
+    const globalLinks = new Set<string>()
+
+    for (const key in customMetadata.value) {
+      const item = customMetadata.value[key]
+      if (item.s) {
+        for (const phrase of item.s) {
+          for (const w of tokenizeIndexLike(phrase, true)) {
+            globalStarredLinks.add(w)
+          }
+        }
+      }
+      // Bold-without-star (item.b) and regular links (item.l) are both
+      // "linkable but not curated" – fold into one bucket.
+      const otherLists = [item.b, item.l]
+      for (const list of otherLists) {
+        if (!list) continue
+        for (const phrase of list) {
+          for (const w of tokenizeIndexLike(phrase, true)) {
+            globalLinks.add(w)
+          }
+        }
+      }
+    }
+
+    const cleanQuery = query.toLowerCase()
+    const sortedSuggestions = [...rawSuggestions].sort((a, b) => {
+      const aSug = a.suggestion.toLowerCase()
+      const bSug = b.suggestion.toLowerCase()
+
+      const aPrefix = aSug.startsWith(cleanQuery) ? 1 : 0
+      const bPrefix = bSug.startsWith(cleanQuery) ? 1 : 0
+      if (aPrefix !== bPrefix) return bPrefix - aPrefix
+
+      const aStarred = globalStarredLinks.has(aSug) ? 1 : 0
+      const bStarred = globalStarredLinks.has(bSug) ? 1 : 0
+      if (aStarred !== bStarred) return bStarred - aStarred
+
+      const aLink = globalLinks.has(aSug) ? 1 : 0
+      const bLink = globalLinks.has(bSug) ? 1 : 0
+      if (aLink !== bLink) return bLink - aLink
+
+      return (b.score || 0) - (a.score || 0)
+    })
+
+    return sortedSuggestions
       .map((s) => s.suggestion)
       .filter((s) => s && !/\s/.test(s) && s !== query.toLowerCase())
       .slice(0, 3)
@@ -230,19 +330,18 @@ const autoSuggestions = computed(() => {
   }
 })
 
-
-
 watch([filterText, isFuzzySearch], () => {
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
   shouldResetScroll.value = true
 })
 
-
-
 const cache = globalExcerptCache
 
-function getRelativeOffsetTop(element: HTMLElement, ancestor: HTMLElement): number {
+function getRelativeOffsetTop(
+  element: HTMLElement,
+  ancestor: HTMLElement
+): number {
   let offsetTop = 0
   let curr: HTMLElement | null = element
   while (curr && curr !== ancestor) {
@@ -308,14 +407,7 @@ debouncedWatch(
       isFuzzySearch.value,
       showDetailedList.value
     ] as const,
-  async (
-    [
-      index,
-      filterTextValue
-    ],
-    old,
-    onCleanup
-  ) => {
+  async ([index, filterTextValue], old, onCleanup) => {
     const indexChanged = old && old[0] !== undefined && old[0] !== index
     if (!indexChanged && matchesGlobalState()) {
       return
@@ -399,29 +491,114 @@ debouncedWatch(
     }
 
     // Search and retrieve all matches (up to 200 max in memory)
-    const rawResults = index.search(query, searchOptions) as (SearchResult & Result)[]
+    const rawResults = index.search(query, searchOptions) as (SearchResult &
+      Result)[]
 
     const sidebarItems = Array.isArray(sidebar) ? sidebar : []
-    const currentResults: (SearchResult & Result)[] = rawResults.slice(0, 200).map((r) => {
-      const [id] = r.id.split('#')
-      const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
-      const pageTitle = findPageTitle(sidebarItems, cleanPath)
-      const titles = [...r.titles]
+    const currentResults: (SearchResult & Result)[] = rawResults
+      .slice(0, 200)
+      .map((r) => {
+        const [id] = r.id.split('#')
+        const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
+        const pageTitle = findPageTitle(sidebarItems, cleanPath)
+        const titles = [...r.titles]
 
-      if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
-        titles.unshift(pageTitle)
+        if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
+          titles.unshift(pageTitle)
+        }
+
+        return { ...r, titles }
+      })
+
+    // Ranking model:
+    //   1. starredExact  \u2013 query exactly matches a starred-bold hyperlink
+    //   2. exact         \u2013 query exactly matches any hyperlink
+    //   3. starredPrefix \u2013 query is a prefix of a starred-bold hyperlink
+    //   4. prefix        \u2013 query is a prefix of any hyperlink
+    //   5. starredWord   \u2013 a query term is a word inside a starred hyperlink
+    //   6. linkWord      \u2013 a query term is a word inside any hyperlink
+    //   7. raw score (title/text match, etc.)
+    // Bold-without-star is treated as a regular link (no special tier).
+    // "Prefix"/"exact" compare the full query against the whole hyperlink text,
+    // not against individual tokens.
+    const q = filterTextValue.trim().toLowerCase()
+
+    const boostedResults = currentResults.map((r) => {
+      const meta = customMetadata.value[r.id]
+      let hasStarredExact = false
+      let hasExact = false
+      let hasStarredPrefix = false
+      let hasPrefix = false
+      let hasStarredWord = false
+      let hasLinkWord = false
+
+      const lowerTerms = r.terms ? r.terms.map((t) => t.toLowerCase()) : []
+
+      const processPhrases = (
+        phrases: string[] | undefined,
+        isStarred: boolean
+      ) => {
+        if (!phrases) return
+        for (const phrase of phrases) {
+          if (q && phrase === q) {
+            hasExact = true
+            if (isStarred) hasStarredExact = true
+          } else if (q && phrase.startsWith(q)) {
+            hasPrefix = true
+            if (isStarred) hasStarredPrefix = true
+          }
+          if (lowerTerms.length > 0) {
+            const tokens = new Set(tokenizeIndexLike(phrase, true))
+            if (lowerTerms.some((t) => tokens.has(t))) {
+              if (isStarred) hasStarredWord = true
+              else hasLinkWord = true
+            }
+          }
+        }
       }
 
-      return { ...r, titles }
+      processPhrases(meta?.s, true)
+      // meta.b (bold-without-star, e.g. index labels) folds into the regular
+      // link tier \u2013 bold alone is not a curated signal.
+      processPhrases(meta?.b, false)
+      processPhrases(meta?.l, false)
+
+      return {
+        ...r,
+        hasStarredExact,
+        hasExact,
+        hasStarredPrefix,
+        hasPrefix,
+        hasStarredWord,
+        hasLinkWord
+      }
+    })
+
+    const tierKeys = [
+      'hasStarredExact',
+      'hasExact',
+      'hasStarredPrefix',
+      'hasPrefix',
+      'hasStarredWord',
+      'hasLinkWord'
+    ] as const
+
+    boostedResults.sort((a, b) => {
+      for (const key of tierKeys) {
+        const av = (a as any)[key] ? 1 : 0
+        const bv = (b as any)[key] ? 1 : 0
+        if (av !== bv) return bv - av
+      }
+      return b.score - a.score
     })
 
     enableNoResults.value = true
 
     if (canceled) return
-    allResults.value = currentResults
+    allResults.value = boostedResults
 
     // Save to global cache (totalResultsCount is set by watcher 2 after excerpt filtering)
-    globalAllResults.value = currentResults
+    globalAllResults.value = boostedResults
     globalLastQuery.value = filterTextValue
     globalLastFuzzy.value = isFuzzySearch.value
     globalLastDetailed.value = showDetailedList.value
@@ -479,7 +656,9 @@ watch(
         const [id] = r.id.split('#')
         return !cache.has(id)
       })
-      const mods = await Promise.all(candidatesToFetch.map((r) => fetchExcerpt(r.id)))
+      const mods = await Promise.all(
+        candidatesToFetch.map((r) => fetchExcerpt(r.id))
+      )
       if (canceled) return
 
       await processExcerpts(mods, vitePressData, () => canceled)
@@ -506,7 +685,9 @@ watch(
             return !cache.has(id)
           })
         : []
-      const mods = await Promise.all(slicedToFetch.map((r) => fetchExcerpt(r.id)))
+      const mods = await Promise.all(
+        slicedToFetch.map((r) => fetchExcerpt(r.id))
+      )
       if (canceled) return
 
       await processExcerpts(mods, vitePressData, () => canceled)
@@ -575,7 +756,9 @@ watch(
       if (markElement) {
         const markRelTop = getRelativeOffsetTop(markElement, excerpt)
         excerpt.scrollTop =
-          markRelTop - (excerpt.clientHeight || 80) / 2 + markElement.offsetHeight / 2
+          markRelTop -
+          (excerpt.clientHeight || 80) / 2 +
+          markElement.offsetHeight / 2
       }
     }
 
@@ -617,8 +800,6 @@ watch(
   },
   { immediate: true }
 )
-
-
 
 /**
  * Merges adjacent highlight marks that are visually close together.
@@ -842,7 +1023,11 @@ function filterResults(
   filterTextValue: string
 ) {
   const clean = (s: string) =>
-    s.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim().toLowerCase()
+    s
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+      .toLowerCase()
 
   const phrase = clean(filterTextValue)
   if (!phrase) return results
@@ -855,7 +1040,6 @@ function filterResults(
   })
 }
 
-
 /* Search input focus */
 
 const searchInput = ref<HTMLInputElement>()
@@ -867,6 +1051,11 @@ function focusSearchInput(select = true) {
   if (select) {
     searchInput.value?.select()
   }
+}
+
+function applySuggestion(s: string) {
+  filterText.value = s
+  focusSearchInput(false)
 }
 
 function onSearchBarClick(event: PointerEvent) {
@@ -891,10 +1080,14 @@ watch(results, (newR, oldR) => {
     newR[0]?.id === oldR[0]?.id
   )
     return
-  
+
   // Default to -1 (no selection) so first result is not pre-selected while typing
   let newIdx = -1
-  if (oldR.length > 0 && selectedIndex.value >= 0 && selectedIndex.value < oldR.length) {
+  if (
+    oldR.length > 0 &&
+    selectedIndex.value >= 0 &&
+    selectedIndex.value < oldR.length
+  ) {
     const prevSelectedId = oldR[selectedIndex.value]?.id
     const foundIdx = newR.findIndex((r) => r.id === prevSelectedId)
     if (foundIdx !== -1) {
@@ -931,14 +1124,15 @@ watch(selectedIndex, (newIdx, oldIdx) => {
       const updatedMarks = resultMarks.value.get(newIdx)
       const updatedCurr = currentMarkIndex.value.get(newIdx) ?? 0
       updatedMarks?.[updatedCurr]?.forEach((m) => m.classList.add('current'))
-      
+
       const activeMark = updatedMarks?.[updatedCurr]?.[0]
       const excerpt = activeMark?.closest<HTMLElement>('.excerpt')
       // Only smooth-scroll excerpt to center match if selection was keyboard-driven (prevents layout thrashing on hover)
       if (isKb && excerpt && activeMark) {
         const markRelTop = getRelativeOffsetTop(activeMark, excerpt)
         excerpt.scrollTo({
-          top: markRelTop - excerpt.clientHeight / 2 + activeMark.offsetHeight / 2,
+          top:
+            markRelTop - excerpt.clientHeight / 2 + activeMark.offsetHeight / 2,
           behavior: 'smooth'
         })
       }
@@ -1000,7 +1194,11 @@ onKeyStroke('Enter', (e) => {
 
   let selectedPackage = results.value[selectedIndex.value]
   // Fallback to first result if Enter is pressed in search input with no active selection
-  if (!selectedPackage && selectedIndex.value === -1 && results.value.length > 0) {
+  if (
+    !selectedPackage &&
+    selectedIndex.value === -1 &&
+    results.value.length > 0
+  ) {
     selectedPackage = results.value[0]
   }
 
@@ -1171,15 +1369,22 @@ function handleResultClick(e: MouseEvent, id: string) {
 
   const [path, hash] = id.split('#')
   let decodedHash: string | null = null
-  try { decodedHash = hash ? decodeURIComponent(hash) : null } catch { /* malformed URI */ }
+  try {
+    decodedHash = hash ? decodeURIComponent(hash) : null
+  } catch {
+    /* malformed URI */
+  }
   if (decodedHash && isSamePageComparison(path)) {
     const targetEl = document.getElementById(decodedHash)
     if (targetEl) {
       close()
       const navEl = document.querySelector('.VPNavBar')
       const navHeight = navEl ? navEl.clientHeight : 64
-      const targetY = Math.max(0, targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16)
-      
+      const targetY = Math.max(
+        0,
+        targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
+      )
+
       fastScrollTo(targetY, 300)
       window.history.pushState(null, '', `#${hash}`)
       return
@@ -1242,7 +1447,10 @@ function formMarkRegex(terms: Set<string>, rawQuery: string) {
     allTerms.add(term)
   }
   if (isFuzzySearch.value) {
-    const words = rawQuery.trim().split(/[\s\W]+/).filter(Boolean)
+    const words = rawQuery
+      .trim()
+      .split(/[\s\W]+/)
+      .filter(Boolean)
     for (const word of words) {
       allTerms.add(word)
     }
@@ -1419,18 +1627,26 @@ function fastScrollTo(targetY: number, duration = 150) {
                 type="button"
                 :class="{ 'fuzzy-active': isFuzzySearch }"
                 :aria-pressed="isFuzzySearch"
-                :title="isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff"
+                :title="
+                  isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
+                "
                 @click="toggleFuzzySearch"
               >
                 <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
                 <span v-else class="exact-icon">=</span>
-                <span class="visually-hidden">{{ isFuzzySearch ? 'Fuzzy Search Active' : 'Exact Search Active' }}</span>
+                <span class="visually-hidden">
+                  {{
+                    isFuzzySearch
+                      ? 'Fuzzy Search Active'
+                      : 'Exact Search Active'
+                  }}
+                </span>
               </button>
 
               <span
                 v-if="isSearching"
                 class="vp-search-spinner"
-                style="align-self: center; margin: 0 4px;"
+                style="align-self: center; margin: 0 4px"
                 :title="customTitles.searching"
               />
               <button
@@ -1455,8 +1671,13 @@ function fastScrollTo(targetY: number, duration = 150) {
             @mousemove="onMouseMove"
           >
             <TransitionGroup name="result-list">
-              <li v-if="filterText && results.length" key="results-info" class="results-info">
-                Showing {{ results.length }} of {{ totalResultsCount }}{{ mayHaveMore ? '+' : '' }} matches
+              <li
+                v-if="filterText && results.length"
+                key="results-info"
+                class="results-info"
+              >
+                Showing {{ results.length }} of {{ totalResultsCount
+                }}{{ mayHaveMore ? '+' : '' }} matches
               </li>
               <li
                 v-for="(p, index) in results"
@@ -1540,7 +1761,10 @@ function fastScrollTo(targetY: number, duration = 150) {
               </li>
               <li
                 v-if="
-                  filterText && !results.length && !isSearching && enableNoResults
+                  filterText &&
+                  !results.length &&
+                  !isSearching &&
+                  enableNoResults
                 "
                 key="no-results"
                 class="no-results"
@@ -1558,7 +1782,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                       v-for="s in autoSuggestions"
                       :key="s"
                       class="suggestion-btn"
-                      @click="filterText = s; focusSearchInput(false)"
+                      @click="applySuggestion(s)"
                     >
                       {{ s }}
                     </button>
@@ -1572,7 +1796,9 @@ function fastScrollTo(targetY: number, duration = 150) {
               >
                 <div class="recent-header">
                   <span class="recent-label">Recent</span>
-                  <button class="clear-all-btn" @click="clearAllRecentSearches">Clear all</button>
+                  <button class="clear-all-btn" @click="clearAllRecentSearches">
+                    Clear all
+                  </button>
                 </div>
                 <div class="recent-items">
                   <div
@@ -1580,10 +1806,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                     :key="s"
                     class="recent-item-wrapper"
                   >
-                    <button
-                      class="recent-item"
-                      @click="filterText = s; focusSearchInput(false)"
-                    >
+                    <button class="recent-item" @click="applySuggestion(s)">
                       {{ s }}
                     </button>
                     <button
@@ -1597,7 +1820,10 @@ function fastScrollTo(targetY: number, duration = 150) {
                 </div>
               </li>
               <li
-                v-if="!isSearching && (results.length < totalResultsCount || mayHaveMore)"
+                v-if="
+                  !isSearching &&
+                  (results.length < totalResultsCount || mayHaveMore)
+                "
                 key="show-more"
                 class="show-more-item"
               >
@@ -1605,7 +1831,12 @@ function fastScrollTo(targetY: number, duration = 150) {
                   class="show-more-btn"
                   @click="resultLimit += RESULTS_PAGE_SIZE"
                 >
-                  Show more results<template v-if="!mayHaveMore && totalResultsCount > results.length"> ({{ totalResultsCount - results.length }} remaining)</template>
+                  Show more results
+                  <template
+                    v-if="!mayHaveMore && totalResultsCount > results.length"
+                  >
+                    ({{ totalResultsCount - results.length }} remaining)
+                  </template>
                 </button>
               </li>
             </TransitionGroup>
@@ -1942,7 +2173,9 @@ function fastScrollTo(targetY: number, duration = 150) {
 /* Match navigation controls fade/slide transition */
 .match-actions-fade-enter-active,
 .match-actions-fade-leave-active {
-  transition: opacity 0.15s ease, transform 0.15s ease;
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease;
 }
 
 .match-actions-fade-enter-from,
