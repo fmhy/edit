@@ -143,9 +143,12 @@ export default defineConfig({
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
-    generateImages(context)
-      .then(() => generateFeed(context))
-      .finally(() => consola.success('Success!'))
+    try {
+      await generateImages(context)
+      await generateFeed(context)
+    } finally {
+      consola.success('Success!')
+    }
   },
   vite: {
     css: {
