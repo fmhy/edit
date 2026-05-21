@@ -888,33 +888,33 @@
 
 * 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠Immortal Chess Network](https://t.me/Immortal_Chess_Network), [⁠TheChessDirectory](https://thechessdirectory.com/) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [r/Chess](https://reddit.com/r/chess) - Chess Subreddits
-* 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
+* 🌐 **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Community Recommended Books
 * ↪️ **[Play Chess Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_chess)**
-* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
+* ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** - Chess Training Software
+* ⭐ **[Chess Tempo](https://chesstempo.com/)** - Tactics Training / Endgame Solver
+* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Chess Database Software
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
-* [ChessLab](https://chesslab.me/) - Chess Lessons / [Discord](https://discord.com/invite/AA5G5f9wKC)
-* [Listudy](https://listudy.org/en) - Chess Lessons
-* [Chessable](https://www.chessable.com/) - Chess Lessons
+* [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
+* [Listudy](https://listudy.org/en) - Blindfolded Tactics / Openings
+* [Chessable](https://www.chessable.com/) - Openings / Endgames
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
-* [Chess Tempo](https://chesstempo.com/) - Chess Practice
-* [Lucas Chess](https://lucaschess.pythonanywhere.com/) - Chess Practice
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
 * [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
-* [⁠Shâh Kur](https://shahkur.specr.net/) - Blind Chess Practice / Improve Board Visualization 
-* [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Chess Game / Move Analysis
-* [⁠Chess Analysis](https://chess-analysis.org/) - Chess Game / Move Analysis / [Discord](https://discord.gg/hvrEXhX8qA)
-* [Pawn Appétit](https://pawnappetit.com/) - Chess Game / Move Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
-* [Chesskit](https://chesskit.org/) - Chess Game / Move Analysis / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit)
-* [YottaChess](https://www.yottachess.com/) - Chess Game / Move Analysis
-* [⁠Chessigma](https://www.chessigma.com/) - Chess Game / Move Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
-* [En Croissant](https://encroissant.org/) - Chess Game / Move Analysis
-* [Chess Vision](https://chessvision.ai/) - Chess Game / Move Analysis
-* [⁠Tactic or Not](https://tacticornot.com/) - Chess Move Analysis / Practice / [Discord](https://discord.gg/2WWgsuZmag)
-* [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
-* [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
-* [2700chess](https://2700chess.com/) - Live Chess Player Ratings
+* [⁠Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
+* [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Engine Analysis
+* [⁠Chess Analysis](https://chess-analysis.org/) - Engine Analysis / [Discord](https://discord.gg/hvrEXhX8qA)
+* [Pawn Appétit](https://pawnappetit.com/) - Engine Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
+* [Chesskit](https://chesskit.org/) - Engine Analysis / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit)
+* [YottaChess](https://www.yottachess.com/) - Professional Player Database
+* [⁠Chessigma](https://www.chessigma.com/) - Engine Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
+* [En Croissant](https://encroissant.org/) - Chess Analysis Tool
+* [Chess Vision](https://chessvision.ai/) - Import Images Into Chess Engine
+* [⁠Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
+* [OpeningTree](https://www.openingtree.com/) - Import Lichess and Chess.com Analysis
+* [Chess Monitor](https://www.chessmonitor.com/) - Aggregate Lichess and Chess.com Match History
+* [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
 * [365Chess](https://www.365chess.com/) - Chess History / Lessons
-* [ChessVariants](https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides
+* [ChessVariants](https://www.chessvariants.com/index/favorites.php) - Chess Variant Encyclopedia
 
 ***
 
@@ -973,7 +973,7 @@
 * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [FSI Language Courses](https://www.fsi-language-courses.org/) / [X](https://x.com/fsi_languages) - Language Learning Courses
 * [DLIFLC](https://gloss.dliflc.edu/) - Language Learning Quizzes
-* [Ba Ba Dum](https://babadum.com/) - Language Learning Game
+* [⁠Danobang](https://danobang.com/) or [Ba Ba Dum](https://babadum.com/) - Language Learning Games
 * [LanguageGuide](https://www.languageguide.org/) - Visual Language Learning
 * [clozemaster](https://www.clozemaster.com/) - Context-Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
@@ -1480,6 +1480,7 @@
 * [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [Addielamarr](https://publish.obsidian.md/addielamarr/), [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
+* [⁠WeChall](https://www.wechall.net/) - Cybersecurity Practice Games + Rankings
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides

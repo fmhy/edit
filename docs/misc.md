@@ -401,6 +401,7 @@
 * [OpenRailwayMap](https://openrailwaymap.app/), [2](https://www.openrailwaymap.org/) - World's Railway Infrastructure
 * [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
 * [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
+* [⁠UrbanRail.Net](https://www.urbanrail.net/) - Railway Maps
 * [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
@@ -698,7 +699,6 @@
 
 ## ▷ Workout / Exercise
 
-* 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
@@ -724,7 +724,6 @@
 * [⁠OpenClimbing](https://openclimbing.org/) - Editable Climbing Map / [GitHub](https://github.com/zbycz/osmapp)
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Trackers
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [Fitness](https://github.com/wger-project/flutter) / [GitHub](https://github.com/wger-project/wger)
-* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
 * [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Home Workout App
 
 ***
@@ -745,7 +744,6 @@
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [⁠CaffeineHealth](https://github.com/ohuc/CaffeineHealth) - Caffeine Intake Calculator / Android
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
 * [Nutrient Sorter](https://michaelf314.github.io/nutrient-sorter/) - Vegan Food Nutrient Sorter
@@ -1318,11 +1316,9 @@
 
 * ↪️ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
 * ⭐ **[Cal.com](https://cal.com/)** - Business / Work Schedule Calendar / [GitHub](https://github.com/calcom/cal.com)
-* ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Date Organizing
+* ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Star Fit](https://starbestfit.com/), [Samay](https://samay.app/), [Pick Time](https://pick-time.io/), [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Planning / Schedule Voting
 * [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
-* [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
-* [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [⁠zcal](https://zcal.co/) - Scheduling / Meeting Tool
 * [Proton Calendar](https://proton.me/calendar) - Calendar / [Discord](https://discord.com/invite/proton)
 * [Tuta Calendar](https://tuta.com/calendar) - Calendar

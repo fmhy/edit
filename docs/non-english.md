@@ -11,7 +11,6 @@
 # ► Arabic / العربية
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
-* [Wudooh](https://wudooh.app/) - Make Arabic Text Clearer
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - Fix Arabic Language on Reddit
@@ -230,7 +229,6 @@
 
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* ⭐ **[555dy](https://577938.vip/)** - Movies / TV / Anime / NSFW / Sub / 1080p
 * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
@@ -467,8 +465,8 @@
 
 * [noctaflix](https://noctaflix.art/) - Movies / TV / Anime / [Telegram](https://t.me/noctaflix)
 * [yablom](https://yablom.com/) - Movies / TV / Anime
+* [French Stream](https://fs09.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
-* [FS02](https://fs02.lol/) - Movies / TV / Anime
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.health/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
@@ -481,7 +479,6 @@
 * [toflix](https://toflix.xyz/) - Movies / TV / Anime
 * [Wowfilms](https://wowfilms0126.site/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
-* [fs6](https://fs6.lol/) - Movies / TV / Anime
 * [flemmix](https://flemmix.irish/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Sign-Up
@@ -566,6 +563,7 @@
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [Cine](https://cine.to/) - Movies / TV / Dub / 720p
+* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
 * [megakino3](https://megakino3.tv/) - Movies / TV / Anime
 * [StreamCloud](https://streamcloud.my) - Movies / TV / 720p
@@ -854,6 +852,7 @@
 * [StreamingCommunity](https://streamingcommunityz.ninja/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [CB01](https://cb01uno.world/) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
 * [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Requires Italian VPN / Sign-Up Unlocks Channel History
 * [AniDream](https://anidream.cc/) - Anime / Cartoons / Sub / Dub / 1080p / [Telegram](https://t.me/anidreamindex)
@@ -1004,7 +1003,6 @@
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
 * 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
-* [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [cscot](https://cscot.pages.dev/2023/07/10/v2ray-geoip-iran/) - V2Ray GeoIP Guide
 * [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Censorship Bypass Tool / [Support](https://t.me/MasterDnsVPNGroup) / [Telegram](https://t.me/masterdnsvpn)
 * [⁠projectXhttp](https://t.me/projectXhttp) - Xray-Core Telegram Group
@@ -1548,6 +1546,7 @@
 * [La Movie](https://la.movie/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [cineplus](https://www.cineplus.lat) - Movies / TV
+* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
@@ -1792,6 +1791,7 @@
 ## ▷ Streaming / Phát trực tuyến
 
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [⁠Sofaflix](https://sofaflix.site/) -  Movies / TV / Anime
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p

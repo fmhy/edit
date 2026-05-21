@@ -72,8 +72,8 @@
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
 * ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod
+* ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
-* [Equicord](https://equicord.org) / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
@@ -536,7 +536,7 @@
 * [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [PurpleAdblock](https://github.com/arthurbolsoni/Purple-adblock) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
-* [PurpleTV](https://purpletv.aeong.win/) / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw) or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Mobile Ad-Free Twitch Apps
+* [PurpleTV](https://purpletv.aeong.win/) - Mobile Ad-Free Twitch App / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw)
 
 ***
 
