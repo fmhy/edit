@@ -468,6 +468,7 @@ body {
   -webkit-backdrop-filter: none !important;
   border: 1px solid var(--vp-c-divider) !important;
   border-radius: 8px !important;
+  overflow: hidden !important;
 }
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
 @media (max-width: 1279px) {
