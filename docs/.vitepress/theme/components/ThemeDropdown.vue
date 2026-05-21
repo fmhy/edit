@@ -182,11 +182,10 @@ onUnmounted(() => {
 
   &:hover {
     color: var(--vp-c-text-1);
-    background: var(--vp-c-bg-elv);
+    background: var(--vp-c-bg);
     transition:
       color 0.25s,
       background 0.25s;
-    backdrop-filter: blur(12px);
   }
 }
 

@@ -431,9 +431,7 @@ body {
 
 /* Global theme styles for the dropdown to ensure correct box appearance */
 .v-popper--theme-theme-selector .v-popper__inner {
-  background: var(--vp-c-bg-elv);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
@@ -461,6 +459,15 @@ body {
   opacity: 1 !important;
   visibility: visible !important;
   transform: translateY(0) !important;
+}
+
+/* Make VPFlyout menu opaque (remove glassmorphism) */
+.VPMenu {
+  background: var(--vp-c-bg) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  border-radius: 8px !important;
 }
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
 @media (max-width: 1279px) {
