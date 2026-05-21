@@ -4,3 +4,7 @@
 
 https://cdn.jsdelivr.net/*
   Cache-Control: max-age=31536000
+
+/single-page.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=7200
