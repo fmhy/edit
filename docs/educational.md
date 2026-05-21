@@ -677,7 +677,8 @@
 * [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
-* [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
+* [Flags of the World](https://www.crwflags.com/fotw/flags/), [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
+* [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 
 ***
@@ -1203,7 +1204,7 @@
 * 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures
 * 🌐 **[⁠Languages of Arda](https://rentry.co/languages-of-arda)** - Guide to Tolkien Languages
 * [Toki Pona (.net)](https://tokipona.net/), [Toki Pona](https://tokipona.org/) / [Subreddit](https://www.reddit.com/r/tokipona/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [DuoStories Toki](https://duostories.org/tok-en) / [2](https://duostories.org/tok2-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language
-* [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning 
+* [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning / Resources
 * [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
 * [Toki Pona Dictionary](https://commons.wikimedia.org/wiki/File:Toki_Pona_Dictionary.pdf), [⁠nimi.li](https://nimi.li/) / [GitHub](https://github.com/cubedhuang/nimi.li) or [Linku](https://linku.la/) / [GitHub](https://github.com/lipu-linku/sona) / [Audio](https://mylittlewordland.com/course/351477/toki-pona-jan-lentan-s-course-with-audio) - Toki Pona Dictionaries
 * [Semantic Spaces Dictionary](https://lipamanka.gay/essays/dictionary) - Toki Pona Word Explanations / Dictionary
@@ -1725,7 +1726,6 @@
 * [Affixes.org](https://www.affixes.org/) - Affixes
 * [Fraze.it](https://fraze.it/) - Sentence Search
 * [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
-* [PrideFlags](https://www.prideflags.org/) - LGBT Flag Index
 * [TheDevilsDictionary](https://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [WordSafety](http://wordsafety.com/) - Swear Word Indexes
 * [PyGlossary](https://github.com/ilius/pyglossary) or [DSL Converter](https://dictz.github.io/dsl_converter.html) - Convert Dictionary Files

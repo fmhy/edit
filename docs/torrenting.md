@@ -164,7 +164,7 @@
 * [Port Forwarding Guide](https://wispydocs.pages.dev/torrenting/#port-forwarding)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
-* [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
+* [InfoTorrent](https://infotorrent.tnl.one/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [magnet2list](https://hutstep.github.io/magnet2list/) - Convert Magnets to Tracker Lists

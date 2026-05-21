@@ -334,7 +334,6 @@
 * [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
 * [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
 * [S2V](https://s2v.app/) - Source 2 Viewer & Decompiler / [GitHub](https://github.com/ValveResourceFormat/ValveResourceFormat)
-* [⁠Fortnite Porting](https://fortniteporting.app/) - Extract Fortnite Assets / [GitHub](https://github.com/h4lfheart/FortnitePorting)
 
 ***
 

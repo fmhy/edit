@@ -851,6 +851,7 @@
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) / Android
 * [Audire](https://github.com/alexmercerind/audire) / Android
 * [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) / Android
+* [SongGuesser](https://songguesser.com/) - Identify Songs via Keyboard Taps / Melody
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
 * [AHA Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Chrome Extension / Web
 
@@ -871,7 +872,7 @@
 ## ▷ Karaoke / Synced Lyrics
 
 * ⭐ **[LRCGET](https://github.com/tranxuanthang/lrcget)** - Download Synced Lyrics
-* ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search / [Uploader](https://lrclibup.boidu.dev/)
+* ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search / [Uploader](https://lrclibup.boidu.dev/) / [GitHub](https://github.com/tranxuanthang/lrclib)
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) or [Karaoke Eternal](https://www.karaoke-eternal.com/) / [Discord](https://discord.gg/PgqVtFq) / [GitHub](https://github.com/bhj/KaraokeEternal/) - Karaoke Apps / Systems
 * [⁠Spotify Karaoke](https://github.com/haroldalan/spotify-karaoke) - Karaoke, Romanization + Translation for Spotify Web Player Lyrics
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify Synced Lyrics
