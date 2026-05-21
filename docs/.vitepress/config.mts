@@ -95,6 +95,50 @@ export default defineConfig({
           }
         })();
         `
+    ],
+    // Apply the saved theme synchronously before the page paints, so users
+    // who picked a non-default theme don't briefly see the default one.
+    [
+      'script',
+      {},
+      `
+        (function() {
+          try {
+            var d = document.documentElement;
+            var mode = localStorage.getItem('vitepress-display-mode');
+            var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
+            var themeName = localStorage.getItem('vitepress-theme-name');
+            var varsJson = localStorage.getItem('vitepress-theme-vars');
+
+            if (!mode) {
+              mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            }
+
+            if (mode === 'dark') {
+              d.classList.add('dark');
+              d.classList.remove('light');
+            } else {
+              d.classList.add('light');
+              d.classList.remove('dark');
+            }
+
+            if (mode === 'dark' && amoled) d.classList.add('amoled');
+            else d.classList.remove('amoled');
+
+            if (themeName === 'monochrome') d.classList.add('monochrome');
+            else d.classList.remove('monochrome');
+
+            if (varsJson) {
+              var vars = JSON.parse(varsJson);
+              for (var k in vars) {
+                if (Object.prototype.hasOwnProperty.call(vars, k) && k.indexOf('--vp-') === 0) {
+                  d.style.setProperty(k, vars[k]);
+                }
+              }
+            }
+          } catch (e) {}
+        })();
+        `
     ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),

@@ -21,6 +21,7 @@ import { themeRegistry } from './configs'
 const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
+const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -120,6 +121,28 @@ export class ThemeHandler {
       root.classList.add('monochrome')
     } else {
       root.classList.remove('monochrome')
+    }
+
+    this.persistInlineVars()
+  }
+
+  // Snapshot the inline --vp-* CSS variables so the head bootstrap script
+  // can replay them on the next page load before hydration, avoiding the
+  // flash of the default theme.
+  private persistInlineVars() {
+    if (typeof window === 'undefined' || typeof document === 'undefined') return
+    const root = document.documentElement
+    const vars: Record<string, string> = {}
+    for (let i = 0; i < root.style.length; i++) {
+      const prop = root.style[i]
+      if (prop.startsWith('--vp-')) {
+        vars[prop] = root.style.getPropertyValue(prop)
+      }
+    }
+    try {
+      localStorage.setItem(STORAGE_KEY_VARS, JSON.stringify(vars))
+    } catch {
+      // localStorage may be unavailable (quota, privacy mode); ignore.
     }
   }
 

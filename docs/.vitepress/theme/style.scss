@@ -469,4 +469,17 @@ body {
     font-weight: 600;
     transition: color 0.25s;
   }
+
+  .VPLocalNavOutlineDropdown .items {
+    max-height: 50vh !important;
+    max-height: 50dvh !important;
+    overscroll-behavior: contain !important;
+  }
 }
+
+body,
+.Layout {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
