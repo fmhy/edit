@@ -431,9 +431,7 @@ body {
 
 /* Global theme styles for the dropdown to ensure correct box appearance */
 .v-popper--theme-theme-selector .v-popper__inner {
-  background: var(--vp-c-bg-elv);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
