@@ -23,6 +23,7 @@
  *    - Yellow highlight for currently focused match
  *
  */
+
 import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Ref } from 'vue'
@@ -918,6 +919,7 @@ function onMouseMove(e: MouseEvent) {
               </button>
             </div>
             <input
+              id="localsearch-input"
               ref="searchInput"
               :value="filterText"
               :aria-activedescendant="
@@ -931,14 +933,13 @@ function onMouseMove(e: MouseEvent) {
               autocapitalize="off"
               autocomplete="off"
               autocorrect="off"
-              id="localsearch-input"
               class="search-input"
               enterkeyhint="go"
-              @input="handleInput"
               maxlength="64"
               :placeholder="buttonText"
               spellcheck="false"
               type="search"
+              @input="handleInput"
             />
             <div class="search-actions">
               <button
@@ -1013,8 +1014,8 @@ function onMouseMove(e: MouseEvent) {
                   <div class="titles">
                     <span class="title-icon">#</span>
                     <span
-                      v-for="(t, index) in p.titles"
-                      :key="index"
+                      v-for="(t, tIdx) in p.titles"
+                      :key="tIdx"
                       class="title"
                     >
                       <span class="text" v-html="t" />

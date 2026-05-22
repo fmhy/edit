@@ -15,7 +15,7 @@
  */
 
 import type { Rule } from 'unocss'
-import { colors, shortcuts } from '@fmhy/colors'
+import { colors } from './docs/.vitepress/theme/utils/colors'
 import {
   defineConfig,
   presetAttributify,

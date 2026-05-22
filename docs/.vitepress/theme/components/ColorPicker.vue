@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import type { Theme } from '../themes/types'
-import { colors } from '@fmhy/colors'
 import { useStorage } from '@vueuse/core'
 import { nextTick, onMounted, watch } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
+import { colors } from '../utils/colors'
 import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
