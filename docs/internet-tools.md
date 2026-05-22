@@ -64,6 +64,7 @@
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
+* * [BypassKit](bypasskit.co) - Link Bypasser With Safe Way
 
 ***
 
