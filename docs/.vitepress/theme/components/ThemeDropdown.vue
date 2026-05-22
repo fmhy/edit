@@ -6,6 +6,7 @@ import { useTheme } from '../themes/themeHandler'
 const { mode, amoledEnabled, setAppearance } = useTheme()
 
 const wrapperRef = ref<HTMLElement | null>(null)
+const shown = ref(false)
 
 interface ModeChoice {
   mode: DisplayMode
@@ -79,6 +80,7 @@ const setupParentFlyoutOverride = () => {
   const closeFlyout = (e: MouseEvent) => {
     if (!flyout.contains(e.target as Node)) {
       flyout.classList.remove('open')
+      shown.value = false
     }
   }
 
@@ -105,6 +107,7 @@ onUnmounted(() => {
 <template>
   <div ref="wrapperRef" class="theme-dropdown-wrapper">
     <VDropdown
+      v-model:shown="shown"
       class="theme-dropdown"
       theme="theme-selector"
       :distance="12"

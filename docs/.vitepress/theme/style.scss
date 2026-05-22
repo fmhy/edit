@@ -89,16 +89,7 @@ body {
 }
 
 .monochrome {
-  [class*='i-'],
-  svg,
-  img:not(.VPImage) {
-    filter: grayscale(100%);
-  }
-
-  .switch,
-  .switch * {
-    filter: none;
-  }
+  filter: grayscale(100%);
 
   .switch {
     background-color: #000;
@@ -461,14 +452,6 @@ body {
   transform: translateY(0) !important;
 }
 
-/* Make VPFlyout menu opaque (remove glassmorphism) */
-.VPMenu {
-  background: var(--vp-c-bg) !important;
-  backdrop-filter: none !important;
-  -webkit-backdrop-filter: none !important;
-  border: 1px solid var(--vp-c-divider) !important;
-  border-radius: 8px !important;
-}
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
 @media (max-width: 1279px) {
   .VPLocalNavOutlineDropdown .outline-link.active {
