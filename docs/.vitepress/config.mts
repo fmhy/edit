@@ -32,6 +32,9 @@ export default defineConfig({
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
+  router: {
+    prefetchLinks: false
+  },
   appearance: true,
   base: baseUrl,
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
