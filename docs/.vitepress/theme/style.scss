@@ -89,16 +89,7 @@ body {
 }
 
 .monochrome {
-  [class*='i-'],
-  svg,
-  img:not(.VPImage) {
-    filter: grayscale(100%);
-  }
-
-  .switch,
-  .switch * {
-    filter: none;
-  }
+  filter: grayscale(100%);
 
   .switch {
     background-color: #000;
