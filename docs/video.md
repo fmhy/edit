@@ -569,8 +569,8 @@
 * [WatchProWrestling](https://watchprowrestlings.live/) - MMA / Wrestling Replays
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling Replays
 * [WatchWrestling.st](https://watchwrestling.st/) - MMA / Wrestling Replays
-* [PWrestling](https://pwrestling.com/) - MMA / Wrestling Replays
 * [AllWrestling24](https://allwrestling24.com/) - MMA / Wrestling Replays
+* [PWrestling](https://pwrestling.com/) - MMA / Wrestling Replays
 * [123Wrestling](https://123wrestling.com/) - Wrestling Replays
 * [Miselet](https://vkvideo.ru/@miselet) - Sumo Wrestling Replays
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / Kickboxing Replays

@@ -379,8 +379,8 @@
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
-* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
+* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
 * [Fresh](https://getfresh.dev/) - TUI Code Editor
 * [Brackets](https://brackets.io/) - Webapp / Live Preview

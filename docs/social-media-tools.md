@@ -416,8 +416,8 @@
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - Cross-Platform YT-DL GUIs
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [yoink.tools](https://yoink.tools/) - YouTube Downloader / Online / [GitHub](https://github.com/coah80/yoink)
 * [⁠YT1s](https://yt1s.com.co/) - YouTube Downloader / Online
 * [⁠YTDown](https://app.ytdown.to/en7/) - YouTube Downloader / Online
