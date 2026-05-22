@@ -1792,7 +1792,7 @@
 ## ▷ Streaming / Phát trực tuyến
 
 * [Phimmoi](https://vuaphimmoi.net/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [⁠Sofaflix](https://sofaflix.site/) -  Movies / TV / Anime
+* [⁠Sofaflix](https://sofaflix.site/) - Movies / TV / Anime
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p

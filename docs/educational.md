@@ -477,7 +477,7 @@
 * [Encyclopedia Astronautica](http://www.astronautix.com/) - Space Encyclopedia
 * [NASA+](https://plus.nasa.gov/) - Official NASA Streaming Service
 * [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books
-* [⁠Ask an Astronaut](https://askanastronaut.issinrealtime.org/) - Astronaut Q&A Interview Search 
+* [⁠Ask an Astronaut](https://askanastronaut.issinrealtime.org/) - Astronaut Interview Q&A Search
 * [⁠Cosmos2025](https://cosmos2025.iap.fr/fitsmap.html), [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization

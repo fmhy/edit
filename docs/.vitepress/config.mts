@@ -158,9 +158,7 @@ export default defineConfig({
         }
       }
     },
-    ssr: {
-      noExternal: ['@fmhy/components']
-    },
+
     resolve: {
       alias: [
         {
