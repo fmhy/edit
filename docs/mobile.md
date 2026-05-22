@@ -1387,7 +1387,7 @@
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Requires Sign-Up
 * [Viki](https://apps.apple.com/app/id445553058) or [aDrama](https://adrama.app/) - Asian Drama
 * [TVBAnywhere](https://apps.apple.com/app/id1191642382) - Chinese Drama
-* [Tunity](https://tunity.com/) - Hear Muted TVs / US Only
+* [Tunity](https://tunity.com/) - Hear Muted TVs / US Only 
 
 ***
 

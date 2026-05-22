@@ -1473,7 +1473,7 @@
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
-* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
+* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience 
 * [⁠Flipbook](https://flipbook.page/) - Interactive Topic Expansion AI
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - Cookie Disabling Game
