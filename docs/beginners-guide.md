@@ -62,7 +62,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Miruro](https://www.miruro.com/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
-* **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
+* **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)** 
 
 ***
 
@@ -88,9 +88,9 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
 * **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://rcostation.xyz/) / [GetComics](https://getcomics.org/)**
-* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 

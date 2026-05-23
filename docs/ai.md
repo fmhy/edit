@@ -15,11 +15,11 @@
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5.1 / GLM-5-Turbo / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max-Preview / Qwen3.7-Plus-Preview / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash Lite / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Meta AI](https://www.meta.ai/) - Muse Spark / Meta Sign-Up / Unlimited
-* [⁠Ernie](https://ernie.baidu.com/) - 5.1 Instant / Ernie 5.1 Thinking
+* [⁠Ernie](https://ernie.baidu.com/) - Ernie 5.1 Thinking / 5.1 Instant
 * [ChatGPT](https://chatgpt.com/) - GPT-5.5 Instant / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -46,10 +46,10 @@
 * [⁠Woozlit](https://woozlit.com/) - Sonnet 4.6 / Gemini 3.1 Pro / DeepSeek-v4-Pro / Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Pollinations Chat](https://pollinations.ai/play), [2](https://ai-studio.puter.site/index.html), [3](https://hey-hi.space/unified) - Grok 4.20 Non-Reasoning / GLM-5.1 / GPT-5.4 / Multiple Models / [Limits and Models](https://enter.pollinations.ai/sign-in##models) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
+* [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.1 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5.1 / Kimi K2.6 / Deepseek-V4 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Element Flash](https://flash.kernal.bid/) - Multiple Models / Queue (if traffic is high) / Sign-Up / [Discord](https://discord.gg/RwNb8YrHQX)
-* [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Qwen3 235B Instruct / Multiple Models / Sign-Up
 * [Groq](https://console.groq.com/playground) - GPT-OSS-120B / Llama 3.3 70B / Multiple Models / Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
@@ -193,7 +193,7 @@
 * [⁠GeminiGen AI](https://geminigen.ai/app/imagen) - Nano Banana Pro / Nano Banana 2 / Grok Imagine / Sign-up / [Discord](https://discord.com/invite/vJnYe86T8F)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
-* [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR) 
 * [Google AI Studio](https://aistudio.google.com/generate-image) - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
 * [Pollinations Chat](https://pollinations.ai/play) - GPT Image 1.5 / Wan 2.7 Image / Qwen Image Plus / [Limits and models](https://enter.pollinations.ai/sign-in##models) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [Perchance](https://perchance.org/ai-photo-generator) / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
@@ -275,8 +275,8 @@
 * [Waveformer](https://github.com/fofr/waveformer)
 * [SOUNDRAW](https://soundraw.io/) / No Sign-Up
 * [Google Flow Music](https://www.flowmusic.app/)
-* [Mubert](https://mubert.com/)
 * [⁠ACE-Step 1.5](https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5) / No Sign-Up / [GitHub](https://github.com/ace-step/ACE-Step-1.5)
+* [Mubert](https://mubert.com/)
 * [AIVA](https://aiva.ai/) / [Discord](https://discord.com/invite/ypDnFXN)
 * [Boomy](https://boomy.com/) / [Discord](https://discord.gg/DNHQXeJegp)
 * [⁠MusicGPT](https://musicgpt.com/)
@@ -438,7 +438,7 @@
 ## ▷ Specialized Benchmarks
 
 * ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
-* [⁠AI Roundtable](https://opper.ai/ai-roundtable) - Run Multi-Model Debates on Any Question
+* [⁠AI Roundtable](https://opper.ai/ai-roundtable) - Multi-Model Debate AI / Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Shared Limits / No Sign Up
 * [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
 * [⁠IUMB](https://pellaml.github.io/iumb/) - AI Mathematics Benchmarks / Leaderboard 

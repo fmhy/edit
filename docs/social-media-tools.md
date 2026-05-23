@@ -71,7 +71,7 @@
 ## ▷ Discord Clients
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
-* ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod
+* ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins]([https://vencord.dev/plugins)
 * ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
@@ -409,15 +409,15 @@
 ## ▷ YouTube Downloaders
 
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
-* ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
+* ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** 
 * ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)** or [Tartube](https://tartube.sourceforge.io/) - Cross-Platform YT-DLP GUIs
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - YouTube CLI Downloader / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - Cross-Platform YT-DL GUIs
 * [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
-* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLI Downloader / YT-DLP Fork
+* [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) - YouTube-DL GUI
 * [yoink.tools](https://yoink.tools/) - YouTube Downloader / Online / [GitHub](https://github.com/coah80/yoink)
 * [⁠YT1s](https://yt1s.com.co/) - YouTube Downloader / Online
 * [⁠YTDown](https://app.ytdown.to/en7/) - YouTube Downloader / Online

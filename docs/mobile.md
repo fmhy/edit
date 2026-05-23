@@ -1378,8 +1378,8 @@
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
-* [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV
+* [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
 * [⁠Uriel](https://uriel-app.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/dM2RUMdSZV)
 * [Mometu](https://apps.apple.com/us/app/mometu/id1609138069) - Movies / TV
 * [⁠NebuloIPTV](https://github.com/mongoosemonke504/NebuloIPTV) - Live Sports
@@ -1387,7 +1387,7 @@
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Requires Sign-Up
 * [Viki](https://apps.apple.com/app/id445553058) or [aDrama](https://adrama.app/) - Asian Drama
 * [TVBAnywhere](https://apps.apple.com/app/id1191642382) - Chinese Drama
-* [Tunity](https://tunity.com/) - Hear Muted TVs / US Only
+* [Tunity](https://tunity.com/) - Hear Muted TVs / US Only 
 
 ***
 
@@ -1395,7 +1395,7 @@
 
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-* [⁠Shirox](https://github.com/xibrox/Shirox)
+* [⁠Shirox](https://github.com/xibrox/Shirox) / [Discord](https://discord.gg/6CuZuYYnKc)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
 

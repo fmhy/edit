@@ -192,7 +192,7 @@
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [systemctl-tui](https://github.com/rgwood/systemctl-tui) - TUI for systemd
 * [nosystemd](https://nosystemd.org/) or [⁠Init Freedom](https://www.devuan.org/os/init-freedom) - Alternatives to systemd
-* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
+* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon 
 
 ***
 
@@ -204,8 +204,8 @@
 * ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [Pitivi](https://www.pitivi.org/), [⁠davincibox](https://github.com/zelikos/davincibox) or [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - Video Editors
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
-* [⁠Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
+* [⁠Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders

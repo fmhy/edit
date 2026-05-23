@@ -281,11 +281,11 @@
 * [Two-Torial](https://two-torial.maimaidxprism.plus/) - Arcade Game Emulation Guides
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
 * [MouseInjector](https://github.com/garungorp/MouseInjectorDolphinDuck) - Add Mouse Support to Emulators
-* [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves
+* [SaveFileConverter](https://savefileconverter.com/) - Convert Console Saves to Emulator Saves 
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 * [ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) - Download Switch Emulator Mods
-* [TOTK Optimization](https://rentry.co/FMHYB64#totk-optimization) - TOTK Optimization / Fixes
 * [UniversalDynamicInput](https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
+* [TOTK Optimization](https://rentry.co/FMHYB64#totk-optimization) - TOTK Optimization / Fixes
 * [Prime Hack](https://github.com/Kekun/primehack) or [Prime Hunter Hack](https://github.com/IBreakGames/PrimeHunterHack) - Add Mouse Support to Metroid Games
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [⁠AmigaVision](https://amiga.vision/) - Commodore Amiga Emulator Launcher & Setup

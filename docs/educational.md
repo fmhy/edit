@@ -778,7 +778,7 @@
 * [LibreTexts Music](https://human.libretexts.org/Bookshelves/Music) - Music Learning
 * [⁠Z-Tonnetz](https://ztonnetz.com/) - Music Visualization Tool
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
-* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
+* [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials 
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/), [⁠Tuner](https://codeberg.org/thetwom/Tuner) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner
@@ -786,8 +786,8 @@
 * [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw), [Chordi](https://chordi.co/) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library
-* [Piano Scribe](https://laqieer.github.io/piano-scribe/) - Piano Transcriber
 * [LilyPond](https://lilypond.org/) - Music Engraving Program
+* [Piano Scribe](https://laqieer.github.io/piano-scribe/) - Piano Transcriber
 * [Learning Music](https://learningmusic.ableton.com/) or [Musicca](https://www.musicca.com/) - Music-Making Lessons
 * [Midiano](https://midiano.com/) / [Discord](https://discord.com/invite/SfFdbunEm2), [Piano Trainer](https://zaneh.itch.io/piano-trainer) / [GitHub](https://github.com/ZaneH/piano-trainer), [Chord Nebula](https://chords.yottanami.com/), [sightread](https://sightread.dev/), [⁠Playsheet](https://playsheet.app/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice / Learning
 * [⁠Fundamentals of Piano Practice](http://www.pianopractice.org/) - Piano Practice Book 

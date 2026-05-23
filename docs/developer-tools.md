@@ -367,7 +367,7 @@
 
 # ► IDEs / Code Editors
 
-* 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index
+* 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index 
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[JetBrains](https://jetbrains.com/)** / [Features](https://rentry.co/FMHYB64#jbrains)
@@ -379,8 +379,8 @@
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
-* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
+* [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
 * [Fresh](https://getfresh.dev/) - TUI Code Editor
 * [Brackets](https://brackets.io/) - Webapp / Live Preview
