@@ -339,7 +339,7 @@
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Display Synced Lyrics
 * [⁠Spotify Karaoke](https://github.com/haroldalan/spotify-karaoke) - Fetching, Romanization & Translation for Web Player Lyrics
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Synced Lyrics
-* [LoaderSpot](https://load-spot.pages.dev/) - Official Spotify Installers Archive
+* [LoaderSpot](https://loadspot.vercel.app/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
 * [Opslagify](https://opslagify.deruever.nl/) - Calculate Storage Size of Spotify Library
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content

@@ -93,7 +93,7 @@
 * ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux / [Codeberg](https://codeberg.org/mbunkus/mkvtoolnix)
 * ⭐ **[Basics to the Art of Remuxing](https://claraiscute.neocities.org/Guides/remuxing/)**, [2](https://claraiscute.pages.dev/Guides/remuxing/) - Learn How to Remux Videos
 * [⁠Video Noob Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/), [archived-things](https://sometimes-archives-things.github.io/archived-things/),  [JET Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
@@ -430,7 +430,7 @@
 ## ▷ Online Editors
 
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
-* ⭐ **[Pikimov](https://pikimov.com/)** - Use Edge or Chrome
+* ⭐ **[Pikimov](https://pikimov.com/)** - Use Chromium Browser
 * ⭐ **[Mastershot](https://mastershot.app/)** - Requires Sign-Up
 * [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
 * [FreeCut](https://www.freecut.net/), [2](https://freecut-sandy.vercel.app/) / [GitHub](https://github.com/walterlow/freecut)
