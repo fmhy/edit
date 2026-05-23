@@ -297,7 +297,7 @@
 * [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
 * [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
 * [⁠openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
-* [⁠JetPhotos](https://www.jetphotos.com/) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
+* [⁠JetPhotos](https://www.jetphotos.com/) / [Forums](https://forums.jetphotos.com/) / [X](https://x.com/jetphotos) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
