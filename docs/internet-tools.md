@@ -17,7 +17,7 @@
 
 ## ▷ Network Tools
 
-* ⭐ **[fast](https://fast.com/)** / [Blur Info](https://userstyles.world/style/17413) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)** / [CLI](https://github.com/kavehtehrani/cloudflare-speed-cli), **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** / [GitHub](https://github.com/librespeed/speedtest) - Speed Tests
+* ⭐ **[fast](https://fast.com/)** / [Blur Info](https://greasyfork.org/en/scripts/579474) / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)** / [CLI](https://github.com/kavehtehrani/cloudflare-speed-cli), **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** / [GitHub](https://github.com/librespeed/speedtest) - Speed Tests
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
 * [Pinging](https://www.pinging.net/), [GlobalPing](https://globalping.io/) or [PingTracer](https://github.com/bp2008/pingtracer) - Network Testing / Ping Monitors
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
@@ -251,7 +251,6 @@
 * [AOL](https://search.aol.com/)
 * [All the Internet](https://www.alltheinternet.com/)
 * [eTools.ch](https://www.etools.ch/)
-* [WorldWideScience](https://worldwidescience.org/) 
 
 ***
 
@@ -295,7 +294,6 @@
 * [Mastering Google Search Operators](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [2](https://ahrefs.com/blog/google-advanced-search-operators/), [3](https://moz.com/learn/seo/search-operators), [4](https://seranking.com/ru/blog/operatory-poiska-google/), [5](https://wikipedia.org/wiki/Google_Search#Search_syntax) - Google Search Operator Resources
 * [Custom Sidebar](https://greasyfork.org/en/scripts/535629) - Highly Customizable ⁠Google Search Sidebar
 * [ISearchFrom](https://isearchfrom.com/) - Change Location / Device for Google Search
-* [goosh](https://goosh.org/) - Simple Google Web Client
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
 * [⁠Google Images Tools Enhanced](https://greasyfork.org/en/scripts/537524) - Extra Google Image Search Filters
 * [View Image](https://github.com/bijij/ViewImage) - Adds Back "View Image" Button to Google Image Search
@@ -368,7 +366,6 @@
 * [⁠1sh](https://www.1sh.pl/) - `1sh.pl/qIPAbZ`
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
-* [⁠AnonShort](https://anonshort.com/) - `ash.biz.id/JO8Ou`
 * [tny.lv](https://tny.lv/) - `tny.lv/QYg05`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
 * [f1.tf](https://f1.tf/) - `f1.tf/k94R`
@@ -535,7 +532,6 @@
 * [Dropmark](https://www.dropmark.com/) - Web-Based Manager
 * [KeepThisSite](https://keepthis.site/) - Web-Based Manager
 * [yabs.io](https://www.yabs.io/) - Web-Based Manager
-* [Centroly](https://centroly.com/) - Web-Based Manager
 * [Stacks](https://betterstacks.com/) - Web-Based Manager
 * [Zulu](https://tryzulu.com/) - Web-Based Manager
 * [GGather](https://web.ggather.com/) - Web-Based Manager
@@ -560,7 +556,6 @@
 * [8bitdash](https://www.8bitdash.com/)
 * [8 Bit Dashboard](https://8bitdashboard.com/)
 * [Clippingmini](https://www.clippingmini.com/)
-* [Draggo](https://draggo.com/)
 * [Pearltrees](https://www.pearltrees.com/)
 * [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
 * [Cling](https://cling.com/)
