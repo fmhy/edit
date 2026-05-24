@@ -708,6 +708,7 @@
 * ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/) or [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * ⭐ **[Early Modern Texts](https://www.earlymoderntexts.com)** - Early Modern Philosophy
 * [Philosophy Bro](https://www.philosophybro.com/), [LibreTexts Philosophy](https://human.libretexts.org/Bookshelves/Philosophy), [Reasoned](https://www.reasoned.org/dir/), [TheDailyIdea](https://thedailyidea.org/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Philosophy Resources / Learning
+* [Wireless Philosophy](https://www.wi-phi.com/) - Philosophy Videos
 * [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
@@ -1069,7 +1070,7 @@
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
 * [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - Korean Learning Courses
-* [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
+* [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
 * [National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do) - Korean Dictionaries / Expression Practice
 * [⁠LetsLearnHangul](http://letslearnhangul.com/) - Hangul Learning
@@ -1718,7 +1719,7 @@
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
-* [Unionpedia](https://en.unionpedia.org/) or [Lexipedia](https://www.lexipedia.com/) - Word Connections / Visualizers
+* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
 * [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Affixes.org](https://www.affixes.org/) - Affixes
 * [Fraze.it](https://fraze.it/) - Sentence Search

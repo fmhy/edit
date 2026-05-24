@@ -204,6 +204,7 @@
 * [Newznab](https://www.newznab.com/)
 * [NZBStars](https://nzbstars.com/)
 * [usenet-crawler](https://www.usenet-crawler.com/)
+* [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [altHUB](https://althub.co.za) - Unlimited Free Trials
