@@ -341,6 +341,7 @@
 * [BigAudiobooks](https://bigaudiobooks.net/)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
+* [CozyAudiobooks](https://cozyaudiobooks.com/category/) / Some NSFW
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) / [Downloader](https://github.com/nazdridoy/audiobooksnatcher)
 * [Audiozaic](https://audiozaic.com/)
 * [Audio AZ](https://audioaz.com/)

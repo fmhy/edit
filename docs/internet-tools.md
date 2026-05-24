@@ -48,7 +48,6 @@
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
 * [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
-* [Spectre](https://spectre.app/)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 
 ***
