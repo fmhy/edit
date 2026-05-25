@@ -17,6 +17,7 @@
 * [Canvas](https://www.nvidia.com/en-us/studio/creative-side-hustle/) - Turn Simple Art into Photorealistic Landscapes
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [BulkPicTools](https://bulkpictools.com/) - Browser-Based Batch Image Processing / Compress, Convert, Resize, Watermark / WebAssembly / Privacy-First
 
 ***
 
