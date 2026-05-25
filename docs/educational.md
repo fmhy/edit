@@ -1129,9 +1129,10 @@
 * [SpanishChecker](https://spanishchecker.com/) - Spanish Grammar Check
 * [FluentWithStories](https://www.fluentwithstories.com/) - Learn Spanish via Stories
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
-* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) - French Learning Videos 
+* [⁠TV5MONDE](https://apprendre.tv5monde.com/en/) - French Learning Videos
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
+* [Finnish Flashcards](https://finnishflashcards.com/) - Finnish Flashcards / [Resources](https://finnishflashcards.com/resources)
 * [The People's Dictionary](https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html) - Swedish Translation Dictionary
 * [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning 
 * [⁠ancientgreek.jean.land](https://ancientgreek.jean.land/) - Ancient Greek Learning Site

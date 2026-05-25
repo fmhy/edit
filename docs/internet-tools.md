@@ -42,13 +42,21 @@
 ## ▷ Password Managers
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) or **[KeePass](https://keepass.info/)** / [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [Read-Only](https://tusk.subdavis.com/) / [GitHub](https://github.com/keepassxreboot/keepassxc) - Local Manager
-* ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
-* ⭐ **[Proton Pass](https://proton.me/pass)**
-* [Pashword](https://pashword.app/)
-* [LessPass](https://lesspass.com/)
-* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb)
+* ⭐ **[KeePassXC](https://keepassxc.org/)** / Windows, Mac, Linux / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) 
+* ⭐ **[Bitwarden](https://bitwarden.com/)** / All Platforms / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
+* ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms
+* ⭐ **[KeePass](https://keepass.info/)** / Windows / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/)
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)** / [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
+* ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / Mac, iOS
+* [AuthPass](https://authpass.app/) / All Platforms
+* [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
+* [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
+* [LessPass](https://lesspass.com/) / Stateless Password Manager / Mobile and Web
+* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb) / Desktop and Web
+* [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
+* [Strongbox](https://strongboxsafe.com/) / Apple iOs
+* [gopass](https://github.com/gopasspw/gopass) / CLI Password Manager
 
 ***
 
