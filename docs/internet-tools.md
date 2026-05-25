@@ -42,10 +42,10 @@
 ## ▷ Password Managers
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[KeePassXC](https://keepassxc.org/)** / Windows, Mac, Linux / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) 
+* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, Mac, Linux
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / All Platforms / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 * ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms
-* ⭐ **[KeePass](https://keepass.info/)** / Windows / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/)
+* ⭐ **[KeePass](https://keepass.info/)** / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/) / Windows
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)** / [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
 * ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / Mac, iOS
 * [AuthPass](https://authpass.app/) / All Platforms
