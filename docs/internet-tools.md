@@ -53,7 +53,7 @@
 * [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 * [LessPass](https://lesspass.com/) / Stateless Password Manager / Mobile and Web
-* [KeeWeb](https://keeweb.info/) / [GitHub](https://github.com/keeweb/keeweb) / Desktop and Web
+* [KeeWeb](https://keeweb.info/) / Desktop and Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
 * [Strongbox](https://strongboxsafe.com/) / Apple iOs
 * [gopass](https://github.com/gopasspw/gopass) / CLI Password Manager
