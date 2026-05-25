@@ -1,4 +1,4 @@
-FROM node:current-alpine AS base
+FROM node:26.2.0-alpine AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
 RUN npm install -g pnpm@11.2.2
