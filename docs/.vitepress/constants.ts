@@ -15,12 +15,112 @@
  */
 
 import type { DefaultTheme } from 'vitepress'
+import path from 'node:path'
+import MiniSearch from 'minisearch'
 import { excluded } from './shared'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
 
 export * from './shared'
+
+// l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks).
+// Bold-without-star is just an index label, no special ranking – folded into l.
+const globalLinkMetadata: Record<string, { l: string[]; s: string[] }> = {}
+
+// Inject customMetadata into the serialized MiniSearch index so the client
+// can read it back via MiniSearch.loadJS.  This patches the prototype because
+// VitePress controls serialization internally — there's no cleaner hook.
+// If MiniSearch ever drops toJSON, the build will still work; the metadata
+// just won't be attached (and the client already falls back to {}).
+const originalToJSON = MiniSearch.prototype.toJSON
+if (typeof originalToJSON === 'function') {
+  MiniSearch.prototype.toJSON = function () {
+    const json = originalToJSON.call(this)
+    if (json && typeof json === 'object') {
+      ;(json as Record<string, unknown>).customMetadata = globalLinkMetadata
+    }
+    return json
+  }
+}
+
+function getDocId(file: string) {
+  const srcDir = path.resolve(__dirname, '..')
+  let relFile = path.relative(srcDir, file).replace(/\\/g, '/')
+  let id = '/' + relFile
+  id = id.replace(/(^|\/)index\.md$/, '$1')
+  id = id.replace(/\.md$/, '')
+  return id
+}
+
+function extractLinkMetadata(html: string) {
+  const links = new Set<string>()
+  const starredBoldLinks = new Set<string>()
+  const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
+  // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
+  // occasionally U+200B) inside link text as a visual workaround; leaving them
+  // in metadata phrases breaks exact/prefix tier matching at search time.
+  const stripInvisible = (str: string) =>
+    str.replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
+  const cleanText = (text: string) =>
+    stripInvisible(stripTags(text)).replace(/\s+/g, ' ').trim().toLowerCase()
+
+  const isStarred = (index: number) => {
+    // `<li ` and `<li>` rather than `<li` so we don't catch `<link>` / `<line>`.
+    const liSpace = html.lastIndexOf('<li ', index)
+    const liGt = html.lastIndexOf('<li>', index)
+    const prefixIndex = Math.max(liSpace, liGt)
+    const prefixText =
+      prefixIndex !== -1
+        ? html.substring(prefixIndex, index)
+        : html.substring(Math.max(0, index - 50), index)
+    return (
+      prefixText.includes('starred') ||
+      prefixText.includes('⭐') ||
+      prefixText.includes('🌟')
+    )
+  }
+
+  const boldRegex =
+    /<strong\b[^>]*>([\s\S]*?)<\/strong>|<b\b[^>]*>([\s\S]*?)<\/b>/i
+
+  // 1. Process <a> tags – starred-bold goes to s, everything else to l.
+  const aTagRegex = /<a\b[^>]*>([\s\S]*?)<\/a>/gi
+  let match: RegExpExecArray | null
+  while ((match = aTagRegex.exec(html)) !== null) {
+    const innerHtml = match[1]
+    const cleaned = cleanText(innerHtml)
+    if (!cleaned) continue
+    if (boldRegex.test(innerHtml) && isStarred(match.index)) {
+      starredBoldLinks.add(cleaned)
+    } else {
+      links.add(cleaned)
+    }
+  }
+
+  // 2. Process <strong>/<b> tags containing <a> tags (covers **[Name](url)**).
+  const boldTagRegex = /<(strong|b)\b[^>]*>([\s\S]*?)<\/\1>/gi
+  while ((match = boldTagRegex.exec(html)) !== null) {
+    const innerHtml = match[2]
+    if (/<a\b[^>]*>([\s\S]*?)<\/a>/i.test(innerHtml)) {
+      const cleaned = cleanText(innerHtml)
+      if (cleaned) {
+        if (isStarred(match.index)) {
+          starredBoldLinks.add(cleaned)
+        } else {
+          links.add(cleaned)
+        }
+      }
+    }
+  }
+
+  starredBoldLinks.forEach((w) => links.delete(w))
+
+  return {
+    links: Array.from(links),
+    starredBoldLinks: Array.from(starredBoldLinks)
+  }
+}
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
@@ -38,6 +138,24 @@ export const search: DefaultTheme.Config['search'] = {
         return ''
       }
 
+      // Exclude posts older than 2 months (60 days)
+      if (relativePath.includes('posts/')) {
+        const frontmatterMatch = src.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+        if (frontmatterMatch) {
+          const dateMatch = frontmatterMatch[1].match(
+            /^date:\s*['"]?([\d-]+)['"]?/m
+          )
+          if (dateMatch) {
+            const postDate = new Date(dateMatch[1])
+            const twoMonthsAgo = new Date()
+            twoMonthsAgo.setMonth(twoMonthsAgo.getMonth() - 2)
+            if (postDate < twoMonthsAgo) {
+              return ''
+            }
+          }
+        }
+      }
+
       let contents = src
 
       //Strip any content wrapped in <!-- search-exclude --> tags
@@ -51,16 +169,81 @@ export const search: DefaultTheme.Config['search'] = {
         contents = transformGuide(contents)
 
       contents = transform(contents)
-      const html = md.render(contents, env)
+      let html = md.render(contents, env)
+      // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
+      html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')
       return html
     },
     miniSearch: {
+      _splitIntoSections(file: string, html: string) {
+        const fileId = getDocId(file)
+        // Drop any stale metadata for this file before re-populating so HMR
+        // edits don't leave behind links that no longer exist.
+        const filePrefix = fileId + '#'
+        for (const key of Object.keys(globalLinkMetadata)) {
+          if (key === fileId || key.startsWith(filePrefix)) {
+            delete globalLinkMetadata[key]
+          }
+        }
+        const sections: any[] = []
+
+        const headingRegex =
+          /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+        const headingContentRegex = /(.*?)<a.*? href="#(.*?)".*?>.*?<\/a>/i
+
+        const clearHtmlTags = (str: string) => str.replace(/<[^>]*>/g, '')
+        const getSearchableText = (content: string) => clearHtmlTags(content)
+
+        const result = html.split(headingRegex)
+        result.shift()
+        let parentTitles: string[] = []
+
+        for (let i = 0; i < result.length; i += 3) {
+          const level = parseInt(result[i]) - 1
+          const heading = result[i + 1]
+          const headingResult = headingContentRegex.exec(heading)
+          const title = clearHtmlTags(headingResult?.[1] ?? '').trim()
+          const anchor = headingResult?.[2] ?? ''
+          const content = result[i + 2]
+          if (!title || !content) continue
+          let titles = parentTitles.slice(0, level)
+          titles[level] = title
+          titles = titles.filter(Boolean)
+
+          const sectionId = anchor ? `${fileId}#${anchor}` : fileId
+
+          const { links, starredBoldLinks } = extractLinkMetadata(content)
+          if (links.length > 0 || starredBoldLinks.length > 0) {
+            globalLinkMetadata[sectionId] = {
+              l: links,
+              s: starredBoldLinks
+            }
+          }
+
+          sections.push({
+            anchor,
+            titles,
+            text: getSearchableText(content)
+          })
+
+          if (level === 0) {
+            parentTitles = [title]
+          } else {
+            parentTitles[level] = title
+          }
+        }
+        return sections
+      },
+      // \u26A0 tokenize + processTerm are duplicated in VPLocalSearchBox.vue's
+      // tokenizeIndexLike().  If you change the split regex, stop words, or
+      // min-length here, update the copy there too \u2014 search ranking breaks
+      // silently when they disagree.
       options: {
-        tokenize: (text) =>
+        tokenize: (text: string) =>
           text
-            .replace(/[\u2060\u200B]/g, '')
-            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
-        processTerm: (term, fieldName) => {
+            .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
+            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
+        processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h
           term = term
             .trim()
@@ -95,27 +278,37 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
-        // @ts-ignore
-        boostDocument: (documentId, term, storedFields: Record) => {
-          const titles = (storedFields?.titles as string[])
+        boostDocument: (
+          documentId: string,
+          term: string,
+          storedFields?: Record<string, unknown>
+        ) => {
+          const titles = ((storedFields?.titles as string[]) || [])
             .filter((t) => Boolean(t))
             .map((t) => t.toLowerCase())
-          // Downrank posts
-          if (documentId.match(/\/posts/)) return -5
-          // Downrank /other
-          if (documentId.match(/\/other/)) return -5
+
+          let boost = 1
 
           // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
           const titleIndex =
             titles
               .map((t, i) => (t?.includes(term) ? i : -1))
               .find((i) => i >= 0) ?? -1
-          if (titleIndex >= 0) return 10000 - titleIndex
+          if (titleIndex >= 0) {
+            boost = 10000 - titleIndex
+          }
 
-          return 1
+          // Downrank posts and other pages
+          if (documentId.match(/\/posts/)) {
+            boost *= 0.1
+          } else if (documentId.match(/\/other/)) {
+            boost *= 0.1
+          }
+
+          return boost
         }
       }
-    },
+    } as any,
     detailedView: true
   },
   provider: 'local'

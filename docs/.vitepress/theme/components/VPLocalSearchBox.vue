@@ -1,32 +1,38 @@
-<script lang="ts" setup>
-/**
- * VPLocalSearchBox - Enhanced Local Search Modal Component
- *
- * Base: VitePress default local search component
- *
- * Custom Features Added:
- * ----------------------
- * 1. Fuzzy Search Toggle
- *    - Toggle between exact and fuzzy matching modes
- *    - Fuzzy mode includes typo tolerance and multi-word queries
- *    - Searches both space-separated and dash-separated variants
- *
- * 2. Smart Highlight Merging (Fuzzy Mode)
- *    - Automatically merges nearby highlights (< 20px apart) in fuzzy mode
- *    - Reduces navigation tedium when multiple words are highlighted
- *    - Preserves text between merged highlights
- *
- * 3. Match Navigation System
- *    - Navigate through highlights with left/right arrow keys
- *    - Visual controls: prev/next buttons with match counter (e.g., "2/5")
- *    - Smooth scrolling to center the active match
- *    - Yellow highlight for currently focused match
- *
- */
+<script lang="ts">
+import { ref, h } from 'vue'
 
+const RESULTS_PAGE_SIZE = 16
+const MAX_RESULTS_IN_MEMORY = 200
+const MAX_SUBSTRING_TERMS = 100
+const MAX_RECENT_SEARCHES = 20
+const MAX_SUGGESTIONS = 3
+const SEARCH_DEBOUNCE_MS = 350
+const FUZZY_THRESHOLD = 0.2
+const MIN_CANDIDATE_POOL = 32
+const MARK_MERGE_DISTANCE_PX = 20
+const MARK_SAME_LINE_THRESHOLD_PX = 5
+
+// Permanent global cache for rendered excerpts keyed by page ID (build output is stable)
+const globalExcerptCache = new Map<string, Map<string, string>>()
+
+// Persisted results state across mount/unmount of the modal
+const globalLastQuery = ref('')
+const globalLastFuzzy = ref(false)
+const globalLastDetailed = ref(false)
+const globalResults = ref<any[]>([])
+const globalAllResults = ref<any[]>([])
+const globalTotalResultsCount = ref(0)
+const globalResultMarks = ref<Map<number, HTMLElement[][]>>(new Map())
+const globalCurrentMarkIndex = ref<Map<number, number>>(new Map())
+const globalResultLimit = ref(RESULTS_PAGE_SIZE)
+const globalUsedSubstringExpansion = ref(false)
+const globalMayHaveMore = ref(false)
+</script>
+
+<script lang="ts" setup>
 import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
-import type { Ref } from 'vue'
+import type { Component, Ref } from 'vue'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -38,14 +44,12 @@ import {
   useSessionStorage
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
-import FloatingVue from 'floating-vue'
 import Mark from 'mark.js/src/vanilla.js'
 import MiniSearch from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
 import { pathToFile } from 'vitepress/dist/client/app/utils'
 import { escapeRegExp } from 'vitepress/dist/client/shared'
 import { useData } from 'vitepress/dist/client/theme-default/composables/data'
-import { LRUCache } from 'vitepress/dist/client/theme-default/support/lru'
 import { createSearchTranslate } from 'vitepress/dist/client/theme-default/support/translation'
 import {
   computed,
@@ -54,7 +58,6 @@ import {
   nextTick,
   onBeforeUnmount,
   onMounted,
-  ref,
   shallowRef,
   triggerRef,
   watch,
@@ -63,7 +66,7 @@ import {
 import { sidebar } from '../../shared'
 import Tooltip from './Tooltip.vue'
 
-const emit = defineEmits<{
+defineEmits<{
   (e: 'close'): void
 }>()
 
@@ -82,9 +85,9 @@ const searchIndexData = shallowRef(localSearchIndex)
 
 // Hot Module Replacement - updates search index without full page reload during development
 if (import.meta.hot) {
-  import.meta.hot.accept('/@localSearchIndex', (m) => {
+  import.meta.hot.accept('@localSearchIndex', (m: { default: unknown }) => {
     if (m) {
-      searchIndexData.value = m.default
+      searchIndexData.value = m.default as typeof localSearchIndex
     }
   })
 }
@@ -95,9 +98,17 @@ interface Result {
   text?: string
 }
 
+interface BoostFlags {
+  hasStarredExact: boolean
+  hasExact: boolean
+  hasStarredPrefix: boolean
+  hasPrefix: boolean
+  hasStarredWord: boolean
+  hasLinkWord: boolean
+}
+
 const vitePressData = useData()
 const { activate } = useFocusTrap(el, {
-  immediate: true,
   allowOutsideClick: true,
   clickOutsideDeactivates: true,
   escapeDeactivates: true
@@ -112,31 +123,101 @@ const { localeIndex, theme } = vitePressData
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
-const searchIndex = computedAsync(async () =>
-  markRaw(
-    MiniSearch.loadJSON<Result>(
-      (await searchIndexData.value[localeIndex.value]?.())?.default,
-      {
-        fields: ['title', 'titles', 'text'],
-        storeFields: ['title', 'titles'],
-        tokenize: (text: string) =>
-          text
-            .replace(/[\u2060\u200B]/g, '')
-            .split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/)
-            .filter((t) => t),
-        searchOptions: {
-          fuzzy: false,
-          prefix: true,
-          boost: { title: 4, text: 2, titles: 1 },
-          ...(theme.value.search?.provider === 'local' &&
-            theme.value.search.options?.miniSearch?.searchOptions)
-        },
-        ...(theme.value.search?.provider === 'local' &&
-          theme.value.search.options?.miniSearch?.options)
+const customMetadata = shallowRef<
+  Record<string, { l?: string[]; s?: string[] }>
+>({})
+
+const globalLinksData = computed(() => {
+  const globalStarredLinks = new Set<string>()
+  const globalLinks = new Set<string>()
+  for (const key in customMetadata.value) {
+    const item = customMetadata.value[key]
+    if (item.s) {
+      for (const phrase of item.s) {
+        for (const w of tokenizeIndexLike(phrase, true)) {
+          globalStarredLinks.add(w)
+        }
       }
-    )
+    }
+    if (item.l) {
+      for (const phrase of item.l) {
+        for (const w of tokenizeIndexLike(phrase, true)) {
+          globalLinks.add(w)
+        }
+      }
+    }
+  }
+  return { globalStarredLinks, globalLinks }
+})
+
+// \u26A0 tokenizeIndexLike duplicates the tokenize + processTerm logic from
+// constants.ts (miniSearch.options).  If you change the split regex, stop
+// words, or min-length there, update this copy too \u2014 ranking breaks silently
+// when they disagree.
+const TOKEN_STOP_WORDS = new Set([
+  'frontmatter',
+  '$frontmatter.synopsis',
+  'and',
+  'about',
+  'but',
+  'now',
+  'the',
+  'with',
+  'you'
+])
+const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
+const TOKEN_SPLIT_RE = /[\n\r #%*,=/:;?[\]{}()&]+/u
+const MIN_TERM_LENGTH = 2
+
+function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
+  const out: string[] = []
+  const raw = text.replace(INVISIBLE_CHARS_RE, '').split(TOKEN_SPLIT_RE)
+  for (const piece of raw) {
+    if (!piece) continue
+    const t = piece.trim().toLowerCase().replace(/^\.+/, '').replace(/\.+$/, '')
+    if (t.length < MIN_TERM_LENGTH || TOKEN_STOP_WORDS.has(t)) continue
+    out.push(t)
+    if (splitDottedParts && t.includes('.')) {
+      for (const part of t.split('.')) {
+        if (part.length >= MIN_TERM_LENGTH && !TOKEN_STOP_WORDS.has(part))
+          out.push(part)
+      }
+    }
+  }
+  return out
+}
+
+const searchIndex = computedAsync(async () => {
+  const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
+  if (!rawIndex) return null
+  let parsed: any
+  try {
+    parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
+  } catch {
+    return null
+  }
+  customMetadata.value = parsed?.customMetadata || {}
+  return markRaw(
+    MiniSearch.loadJS<Result>(parsed, {
+      fields: ['title', 'titles', 'text'],
+      storeFields: ['title', 'titles'],
+      tokenize: (text: string) =>
+        text
+          .replace(INVISIBLE_CHARS_RE, '')
+          .split(TOKEN_SPLIT_RE)
+          .filter((t) => t),
+      searchOptions: {
+        fuzzy: false,
+        prefix: true,
+        boost: { title: 4, text: 2, titles: 1 },
+        ...(theme.value.search?.provider === 'local' &&
+          theme.value.search.options?.miniSearch?.searchOptions)
+      },
+      ...(theme.value.search?.provider === 'local' &&
+        theme.value.search.options?.miniSearch?.options)
+    })
   )
-)
+})
 
 const disableQueryPersistence = computed(() => {
   return (
@@ -179,42 +260,177 @@ watchEffect(() => {
   }
 })
 
-const results: Ref<(SearchResult & Result)[]> = shallowRef([])
+function matchesGlobalState() {
+  return (
+    inBrowser &&
+    filterText.value === globalLastQuery.value &&
+    isFuzzySearch.value === globalLastFuzzy.value &&
+    showDetailedList.value === globalLastDetailed.value
+  )
+}
 
-const enableNoResults = ref(false)
+const isRestoring = matchesGlobalState()
 
-watch(filterText, () => {
-  enableNoResults.value = false
+const results: Ref<(SearchResult & Result)[]> = shallowRef(
+  isRestoring ? globalResults.value : []
+)
+const allResults = shallowRef<(SearchResult & Result)[]>(
+  isRestoring ? globalAllResults.value : []
+)
+const totalResultsCount = ref(isRestoring ? globalTotalResultsCount.value : 0)
+const resultMarks = shallowRef<Map<number, HTMLElement[][]>>(
+  isRestoring ? new Map(globalResultMarks.value) : new Map()
+)
+const currentMarkIndex = shallowRef<Map<number, number>>(
+  isRestoring ? new Map(globalCurrentMarkIndex.value) : new Map()
+)
+
+const enableNoResults = ref(isRestoring)
+const isSearching = ref(!isRestoring && !!filterText.value)
+const usedSubstringExpansion = ref(
+  isRestoring ? globalUsedSubstringExpansion.value : false
+)
+const resultLimit = ref(
+  isRestoring ? globalResultLimit.value : RESULTS_PAGE_SIZE
+)
+const mayHaveMore = ref(isRestoring ? globalMayHaveMore.value : false)
+
+const recentSearches = useLocalStorage<string[]>(
+  'vitepress:local-search-recent',
+  []
+)
+
+const shouldResetScroll = ref(false)
+
+const autoSuggestions = computed(() => {
+  if (
+    !filterText.value ||
+    results.value.length > 0 ||
+    !searchIndex.value
+  )
+    return []
+
+  const query = filterText.value.trim()
+  if (/\s/.test(query)) return []
+
+  try {
+    const rawSuggestions = searchIndex.value.autoSuggest(query, {
+      fuzzy: (term) => (term.length >= 5 ? 2 : 1),
+      prefix: true
+    }) as { suggestion: string; terms: string[]; score: number }[]
+
+    const { globalStarredLinks, globalLinks } = globalLinksData.value
+
+    const cleanQuery = query.toLowerCase()
+    const sortedSuggestions = [...rawSuggestions].sort((a, b) => {
+      const aSug = a.suggestion.toLowerCase()
+      const bSug = b.suggestion.toLowerCase()
+
+      const aPrefix = aSug.startsWith(cleanQuery) ? 1 : 0
+      const bPrefix = bSug.startsWith(cleanQuery) ? 1 : 0
+      if (aPrefix !== bPrefix) return bPrefix - aPrefix
+
+      const aStarred = globalStarredLinks.has(aSug) ? 1 : 0
+      const bStarred = globalStarredLinks.has(bSug) ? 1 : 0
+      if (aStarred !== bStarred) return bStarred - aStarred
+
+      const aLink = globalLinks.has(aSug) ? 1 : 0
+      const bLink = globalLinks.has(bSug) ? 1 : 0
+      if (aLink !== bLink) return bLink - aLink
+
+      return (b.score || 0) - (a.score || 0)
+    })
+
+    return sortedSuggestions
+      .map((s) => s.suggestion)
+      .filter((s) => s && !/\s/.test(s) && s !== query.toLowerCase())
+      .slice(0, MAX_SUGGESTIONS)
+  } catch {
+    return []
+  }
 })
 
-const mark = computedAsync(async () => {
-  if (!resultsEl.value) return
-  return markRaw(new Mark(resultsEl.value))
-}, null)
+watch([filterText, isFuzzySearch], () => {
+  enableNoResults.value = false
+  resultLimit.value = RESULTS_PAGE_SIZE
+  shouldResetScroll.value = true
+})
 
-// LRU cache for rendered excerpts (16 most recently viewed files)
-const cache = new LRUCache<string, Map<string, string>>(16)
+const cache = globalExcerptCache
+
+function getRelativeOffsetTop(
+  element: HTMLElement,
+  ancestor: HTMLElement
+): number {
+  let offsetTop = 0
+  let curr: HTMLElement | null = element
+  while (curr && curr !== ancestor) {
+    offsetTop += curr.offsetTop
+    curr = curr.offsetParent as HTMLElement | null
+  }
+  return offsetTop
+}
+
+// Cached term keys for substring matching — rebuilt only when the search index changes
+let cachedTermKeys: string[] = []
+
+interface SidebarItem {
+  text?: string
+  link?: string
+  items?: SidebarItem[]
+}
+
+function findPageTitle(items: SidebarItem[], path: string): string | null {
+  for (const item of items) {
+    if (item.link === path) return item.text ?? null
+    if (item.items) {
+      const found = findPageTitle(item.items, path)
+      if (found) return found
+    }
+  }
+  return null
+}
 
 /**
  * Main search handler - debounced to avoid excessive re-renders while typing.
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
+watch(
+  [filterText, isFuzzySearch, showDetailedList, searchIndex],
+  () => {
+    isSearching.value = !matchesGlobalState() && !!filterText.value
+  },
+  { immediate: true }
+)
+
+// Rebuild term keys and clear cache on index change (locale switch or HMR)
+watch(
+  searchIndex,
+  (index) => {
+    cache.clear()
+    if (index) {
+      const ms = index as unknown as { _index?: Map<string, unknown> }
+      cachedTermKeys = ms?._index ? [...ms._index.keys()] : []
+    } else {
+      cachedTermKeys = []
+    }
+  },
+  { immediate: true }
+)
+
+// 1. Debounced Search watcher: Only runs the index query and gets the raw matching results list
 debouncedWatch(
   () =>
     [
       searchIndex.value,
       filterText.value,
-      showDetailedList.value,
-      isFuzzySearch.value
+      isFuzzySearch.value,
+      showDetailedList.value
     ] as const,
-  async (
-    [index, filterTextValue, showDetailedListValue, fuzzySearchValue],
-    old,
-    onCleanup
-  ) => {
-    if (old?.[0] !== index) {
-      // Clear cache on index change (e.g., locale switch or HMR update)
-      cache.clear()
+  async ([index, filterTextValue], old, onCleanup) => {
+    const indexChanged = old && old[0] !== undefined && old[0] !== index
+    if (!indexChanged && matchesGlobalState()) {
+      return
     }
 
     let canceled = false
@@ -222,19 +438,24 @@ debouncedWatch(
       canceled = true
     })
 
-    if (!index) return
+    if (!index || !filterTextValue.trim()) {
+      allResults.value = []
+      totalResultsCount.value = 0
+      mayHaveMore.value = false
 
-    /**
-     * Configure search options based on fuzzy mode.
-     * Fuzzy search splits multi-word queries and searches for:
-     * 1. All words present (AND) - matches "PC Optimization Hub"
-     * 2. Dashed version - matches "PC-Optimization-Hub"
-     * This allows flexible matching of space-separated or dash-separated content.
-     */
-    const searchOptions = {
-      fuzzy: isFuzzySearch.value ? 0.2 : false
+      // Clear global cache for empty query
+      globalAllResults.value = []
+      globalTotalResultsCount.value = 0
+      globalLastQuery.value = ''
+      globalResults.value = []
+      globalResultMarks.value = new Map()
+      globalCurrentMarkIndex.value = new Map()
+      globalMayHaveMore.value = false
+      return
     }
-    let query: any = filterTextValue
+
+    let query: string | object = filterTextValue
+    usedSubstringExpansion.value = false
 
     if (isFuzzySearch.value) {
       const parts = filterTextValue.split(/\s+/).filter((p) => p)
@@ -246,12 +467,12 @@ debouncedWatch(
             {
               queries: parts,
               combineWith: 'AND',
-              fuzzy: 0.2
+              fuzzy: FUZZY_THRESHOLD
             },
             {
               queries: [dashed],
               combineWith: 'AND',
-              fuzzy: 0.2
+              fuzzy: FUZZY_THRESHOLD
             }
           ]
         }
@@ -260,184 +481,369 @@ debouncedWatch(
 
     /**
      * Suffix Search / Substring Matching:
-     * If the user searches for a suffix (e.g. "abolic"), scan the index for terms
-     * containing that substring (e.g. "parabolic") and add them to the query.
-     * This mimics "contains" behavior which is missing in strict prefix search.
+     * For exact mode, find index terms containing the query as a substring
+     * (e.g. "abolic" → "parabolic") using the pre-cached term key list.
      */
     if (!isFuzzySearch.value && filterTextValue.length > 2) {
       const candidateTerms: string[] = []
-      const miniSearch = index as any
-      if (miniSearch._index) {
-        const it = miniSearch._index.keys()
-        const match = filterTextValue.toLowerCase()
-        let result = it.next()
-        while (!result.done) {
-          const term = result.value
-          if (term.includes(match) && term !== match) {
-            candidateTerms.push(term)
-          }
-          result = it.next()
+      const match = filterTextValue.toLowerCase()
+      for (const term of cachedTermKeys) {
+        if (term.includes(match) && term !== match) {
+          candidateTerms.push(term)
         }
       }
-
       if (candidateTerms.length > 0) {
-        // In exact mode, use an explicit OR query.
-        // This ensures that if the original search term ("arabolic") returns no results
-        // due to prefix matching, the substring matches ("Parabolic") are still returned.
-        // A string query might default to AND depending on global config, which would fail here.
+        // Sort by length ascending so shorter words win the cap
+        candidateTerms.sort((a, b) => a.length - b.length)
+        const capped = candidateTerms.slice(0, MAX_SUBSTRING_TERMS)
+        usedSubstringExpansion.value = true
         query = {
           combineWith: 'OR',
-          queries: [filterTextValue, ...candidateTerms]
+          queries: [filterTextValue, ...capped]
         }
       }
     }
 
-    function findPageTitle(items: any[], path: string): string | null {
-      for (const item of items) {
-        if (item.link === path) return item.text
-        if (item.items) {
-          const found = findPageTitle(item.items, path)
-          if (found) return found
-        }
-      }
-      return null
+    // fuzzy only matters for string queries; structured queries carry their own per-clause fuzzy
+    const searchOptions = {
+      combineWith: 'AND',
+      fuzzy:
+        isFuzzySearch.value && typeof query === 'string'
+          ? FUZZY_THRESHOLD
+          : false
     }
 
-    const rawResults = index
-      .search(query, searchOptions)
-      .slice(0, 16) as (SearchResult & Result)[]
+    // Search and retrieve all matches (up to 200 max in memory)
+    const rawResults = index.search(query, searchOptions) as (SearchResult &
+      Result)[]
 
-    results.value = rawResults.map((r) => {
-      const [id] = r.id.split('#')
-      const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
-      const pageTitle = findPageTitle(
-        Array.isArray(sidebar) ? sidebar : [],
-        cleanPath
-      )
-      const titles = [...r.titles]
+    const sidebarItems = Array.isArray(sidebar) ? sidebar : []
+    const currentResults: (SearchResult & Result)[] = rawResults
+      .slice(0, MAX_RESULTS_IN_MEMORY)
+      .map((r) => {
+        const [id] = r.id.split('#')
+        const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
+        const pageTitle = findPageTitle(sidebarItems, cleanPath)
+        const titles = [...r.titles]
 
-      if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
-        titles.unshift(pageTitle)
+        if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
+          titles.unshift(pageTitle)
+        }
+
+        return { ...r, titles }
+      })
+
+    // Ranking model:
+    //   1. starredExact  \u2013 query exactly matches a starred-bold hyperlink
+    //   2. exact         \u2013 query exactly matches any hyperlink
+    //   3. starredPrefix \u2013 query is a prefix of a starred-bold hyperlink
+    //   4. prefix        \u2013 query is a prefix of any hyperlink
+    //   5. starredWord   \u2013 a query term is a word inside a starred hyperlink
+    //   6. linkWord      \u2013 a query term is a word inside any hyperlink
+    //   7. raw score (title/text match, etc.)
+    // Bold-without-star is treated as a regular link (no special tier).
+    // "Prefix"/"exact" compare the full query against the whole hyperlink text,
+    // not against individual tokens. Strip zero-width characters from the
+    // query to match the build-time normalization in extractLinkMetadata.
+    const q = filterTextValue
+      .replace(INVISIBLE_CHARS_RE, '')
+      .trim()
+      .toLowerCase()
+
+    const boostedResults = currentResults.map((r) => {
+      const meta = customMetadata.value[r.id]
+      let hasStarredExact = false
+      let hasExact = false
+      let hasStarredPrefix = false
+      let hasPrefix = false
+      let hasStarredWord = false
+      let hasLinkWord = false
+
+      const lowerTerms = r.terms ? r.terms.map((t) => t.toLowerCase()) : []
+
+      const processPhrases = (
+        phrases: string[] | undefined,
+        isStarred: boolean
+      ) => {
+        if (!phrases) return
+        for (const phrase of phrases) {
+          if (q && phrase === q) {
+            hasExact = true
+            if (isStarred) hasStarredExact = true
+          } else if (q && phrase.startsWith(q)) {
+            hasPrefix = true
+            if (isStarred) hasStarredPrefix = true
+          }
+          if (lowerTerms.length > 0) {
+            const tokens = new Set(tokenizeIndexLike(phrase, true))
+            if (lowerTerms.some((t) => tokens.has(t))) {
+              if (isStarred) hasStarredWord = true
+              else hasLinkWord = true
+            }
+          }
+        }
       }
 
-      return { ...r, titles }
+      processPhrases(meta?.s, true)
+      processPhrases(meta?.l, false)
+
+      return {
+        ...r,
+        hasStarredExact,
+        hasExact,
+        hasStarredPrefix,
+        hasPrefix,
+        hasStarredWord,
+        hasLinkWord
+      }
+    })
+
+    const tierKeys: (keyof BoostFlags)[] = [
+      'hasStarredExact',
+      'hasExact',
+      'hasStarredPrefix',
+      'hasPrefix',
+      'hasStarredWord',
+      'hasLinkWord'
+    ]
+
+    boostedResults.sort((a, b) => {
+      for (const key of tierKeys) {
+        const av = a[key] ? 1 : 0
+        const bv = b[key] ? 1 : 0
+        if (av !== bv) return bv - av
+      }
+      return b.score - a.score
     })
 
     enableNoResults.value = true
 
-    // Fetch and process excerpts for detailed view highlighting
-    const mods = showDetailedListValue
-      ? await Promise.all(results.value.map((r) => fetchExcerpt(r.id)))
-      : []
     if (canceled) return
+    allResults.value = boostedResults
 
-    await processExcerpts(mods, vitePressData, () => canceled)
-    if (canceled) return
+    // Save to global cache (totalResultsCount is set by watcher 2 after excerpt filtering)
+    globalAllResults.value = boostedResults
+    globalLastQuery.value = filterTextValue
+    globalLastFuzzy.value = isFuzzySearch.value
+    globalLastDetailed.value = showDetailedList.value
+    globalUsedSubstringExpansion.value = usedSubstringExpansion.value
+  },
+  { debounce: SEARCH_DEBOUNCE_MS, immediate: true }
+)
+
+// 2. Synchronous Watcher: Handles slicing, excerpt fetching, DOM rendering, and highlight marking instantly
+watch(
+  () => [allResults.value, resultLimit.value, showDetailedList.value] as const,
+  async ([allRes, limit, showDetailedListValue], old, onCleanup) => {
+    let canceled = false
+    onCleanup(() => {
+      canceled = true
+    })
+
+    const sliced = allRes.slice(0, limit)
+    if (sliced.length === 0) {
+      results.value = []
+      resultMarks.value = new Map()
+      currentMarkIndex.value = new Map()
+      if (!(old === undefined && filterText.value)) {
+        isSearching.value = false
+      }
+      totalResultsCount.value = 0
+      mayHaveMore.value = false
+      return
+    }
 
     const terms = new Set<string>()
 
-    results.value = results.value.map((r) => {
-      const [id, anchor] = r.id.split('#')
-      const map = cache.get(id)
-      const text = map?.get(anchor) ?? ''
-
+    const mapResult = (r: SearchResult & Result, text: string) => {
       if (isFuzzySearch.value) {
-        for (const term in r.match) {
+        for (const term of Object.keys(r.match || {})) {
           terms.add(term)
         }
       }
       return { ...r, text }
-    })
+    }
+
+    let finalResults: (SearchResult & Result)[]
+    let totalCount: number
+    let mayHaveMoreValue = false
+
+    const isExactSearch = !isFuzzySearch.value && !usedSubstringExpansion.value
+
+    if (showDetailedListValue && isExactSearch) {
+      // For exact search, we fetch excerpts for a dynamic candidate pool
+      // to ensure contiguous phrase matches are not lost due to ranking.
+      const candidateLimit = Math.max(MIN_CANDIDATE_POOL, limit * 2)
+      const candidates = allRes.slice(0, candidateLimit)
+
+      const candidatesToFetch = candidates.filter((r) => {
+        const [id] = r.id.split('#')
+        return !cache.has(id)
+      })
+      const mods = await Promise.all(
+        candidatesToFetch.map((r) => fetchExcerpt(r.id))
+      )
+      if (canceled) return
+
+      await processExcerpts(mods, vitePressData, () => canceled)
+      if (canceled) return
+
+      const mapped = candidates.map((r) => {
+        const [id, anchor] = r.id.split('#')
+        const map = cache.get(id)
+        const text = map?.get(anchor) ?? ''
+        return mapResult(r, text)
+      })
+
+      const filtered = filterResults(mapped, filterText.value)
+      finalResults = filtered.slice(0, limit)
+      totalCount = filtered.length
+      // Untested remainder beyond the candidate pool may contain more matches;
+      // expanding resultLimit re-runs this branch with a larger candidateLimit.
+      mayHaveMoreValue = allRes.length > candidateLimit
+    } else {
+      // Fuzzy search or substring expansion: slice to limit directly
+      const slicedToFetch = showDetailedListValue
+        ? sliced.filter((r) => {
+            const [id] = r.id.split('#')
+            return !cache.has(id)
+          })
+        : []
+      const mods = await Promise.all(
+        slicedToFetch.map((r) => fetchExcerpt(r.id))
+      )
+      if (canceled) return
+
+      await processExcerpts(mods, vitePressData, () => canceled)
+      if (canceled) return
+
+      const mapped = sliced.map((r) => {
+        const [id, anchor] = r.id.split('#')
+        const map = showDetailedListValue ? cache.get(id) : undefined
+        const text = map?.get(anchor) ?? ''
+        return mapResult(r, text)
+      })
+
+      finalResults = mapped
+      totalCount = mapped.length + Math.max(0, allRes.length - limit)
+    }
 
     if (!isFuzzySearch.value) {
-      // Only highlight search term if results exist to avoid highlighting "No results" message
-      if (results.value.length > 0) {
-        terms.add(filterTextValue)
-      }
-      results.value = filterResults(results.value, filterTextValue)
+      terms.add(filterText.value)
     }
+
+    results.value = finalResults
+    totalResultsCount.value = totalCount
+    mayHaveMore.value = mayHaveMoreValue
 
     await nextTick()
     if (canceled) return
 
-    await new Promise((r) => {
-      mark.value?.unmark({
+    await new Promise<void>((resolve) => {
+      if (!resultsEl.value) {
+        resolve()
+        return
+      }
+      const targets = resultsEl.value.querySelectorAll(
+        '.result-item:not(.result-list-leave-active) .titles, .result-item:not(.result-list-leave-active) .excerpt'
+      )
+      if (targets.length === 0) {
+        resolve()
+        return
+      }
+      const m = new Mark(Array.from(targets))
+      m.unmark({
         done: () => {
-          mark.value?.markRegExp(formMarkRegex(terms), { done: r })
+          m.markRegExp(formMarkRegex(terms, filterText.value), {
+            exclude: ['.title-icon'],
+            acrossElements: false,
+            done: () => resolve()
+          })
         }
       })
     })
+    if (canceled) return
 
-    /**
-     * Custom feature: Merge nearby highlights in fuzzy mode.
-     * Combines individual word highlights that are close together (< 20px apart)
-     * into single continuous highlights, reducing navigation tedium.
-     */
     if (isFuzzySearch.value) {
-      await mergeNearbyMarks()
+      mergeNearbyMarks()
     }
 
     const excerpts = Array.from(
-      el.value?.querySelectorAll('.result .excerpt') ?? []
+      resultsEl.value?.querySelectorAll(
+        '.result-item:not(.result-list-leave-active) .result .excerpt'
+      ) ?? []
     ) as HTMLElement[]
+    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
     for (const excerpt of excerpts) {
-      const mark = excerpt.querySelector(
+      const markElement = excerpt.querySelector(
         'mark[data-markjs="true"]'
       ) as HTMLElement | null
-      if (mark) {
-        const markTop = mark.offsetTop
-        const markHeight = mark.offsetHeight
-        const excerptHeight = excerpt.clientHeight
-
-        excerpt.scrollTop = markTop - excerptHeight / 2 + markHeight / 2
+      if (markElement) {
+        const markRelTop = getRelativeOffsetTop(markElement, excerpt)
+        const scrollTop =
+          markRelTop -
+          (excerpt.clientHeight || 80) / 2 +
+          markElement.offsetHeight / 2
+        scrollTargets.push({ excerpt, scrollTop })
       }
+    }
+    for (const { excerpt, scrollTop } of scrollTargets) {
+      excerpt.scrollTop = scrollTop
     }
 
     /**
      * Custom feature: Initialize match navigation state.
-     * Collects all highlight marks in each result for prev/next navigation.
-     * Each result tracks its own array of marks and current position.
      */
-    const newResultMarks = new Map<number, HTMLElement[]>()
+    const newResultMarks = new Map<number, HTMLElement[][]>()
     const newCurrentMarkIndex = new Map<number, number>()
 
-    results.value.forEach((_, index) => {
-      const item = el.value?.querySelector(`#localsearch-item-${index}`)
+    results.value.forEach((r, index) => {
+      const item = resultsEl.value?.querySelector(
+        `[data-id="${CSS.escape(r.id)}"]`
+      )
       const marks = Array.from(
         item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []
       ) as HTMLElement[]
       if (marks.length > 0) {
-        newResultMarks.set(index, marks)
+        newResultMarks.set(index, groupMarks(marks))
         newCurrentMarkIndex.set(index, 0)
       }
     })
     resultMarks.value = newResultMarks
     currentMarkIndex.value = newCurrentMarkIndex
 
-    // Reset scroll position to top
-    if (resultsEl.value) {
+    if (resultsEl.value && shouldResetScroll.value) {
       resultsEl.value.scrollTop = 0
+      shouldResetScroll.value = false
     }
-  },
-  { debounce: 200, immediate: true }
-)
 
-/* Custom Feature: Match Navigation State */
-const resultMarks = shallowRef<Map<number, HTMLElement[]>>(new Map())
-const currentMarkIndex = shallowRef<Map<number, number>>(new Map())
+    isSearching.value = false
+
+    // Save to global cache
+    globalResults.value = finalResults
+    globalTotalResultsCount.value = totalCount
+    globalResultMarks.value = resultMarks.value
+    globalCurrentMarkIndex.value = currentMarkIndex.value
+    globalResultLimit.value = limit
+    globalMayHaveMore.value = mayHaveMoreValue
+  },
+  { immediate: true }
+)
 
 /**
  * Merges adjacent highlight marks that are visually close together.
  * This reduces the number of navigation stops in fuzzy mode where
  * each individual word match would otherwise be a separate highlight.
  *
- * Merging criteria:
- * - Marks must be on the same line (within 5px vertical distance)
- * - Marks must be close horizontally (< 20px apart)
+ * Merging criteria (tuned via constants at top of file):
+ * - Marks must be on the same line (within MARK_SAME_LINE_THRESHOLD_PX)
+ * - Marks must be close horizontally (< MARK_MERGE_DISTANCE_PX)
  */
-async function mergeNearbyMarks() {
+function mergeNearbyMarks() {
   const excerpts = Array.from(
-    el.value?.querySelectorAll('.result .excerpt') ?? []
+    resultsEl.value?.querySelectorAll(
+      '.result-item:not(.result-list-leave-active) .result .excerpt'
+    ) ?? []
   )
 
   for (const excerpt of excerpts) {
@@ -446,47 +852,40 @@ async function mergeNearbyMarks() {
     ) as HTMLElement[]
     if (marks.length <= 1) continue
 
-    // Process marks to merge those within 20 characters of each other
+    // Snapshot all rects in one pass before any mutations to avoid layout thrash
+    type Rect = { left: number; right: number; top: number }
+    const rects: Rect[] = marks.map((m) => {
+      const r = m.getBoundingClientRect()
+      return { left: r.left, right: r.right, top: r.top }
+    })
+
     let i = 0
     while (i < marks.length - 1) {
-      const currentMark = marks[i]
-      const nextMark = marks[i + 1]
-
-      // Ensure they are siblings to safely merge
-      if (currentMark.parentNode !== nextMark.parentNode) {
+      if (marks[i].parentNode !== marks[i + 1].parentNode) {
         i++
         continue
       }
 
-      // Calculate distance between marks
-      const currentEnd = currentMark.offsetLeft + currentMark.offsetWidth
-      const nextStart = nextMark.offsetLeft
-      const distance = nextStart - currentEnd
-
-      // Also check if they're on the same line (similar offsetTop)
+      const distance = rects[i + 1].left - rects[i].right
       const onSameLine =
-        Math.abs(currentMark.offsetTop - nextMark.offsetTop) < 5
+        Math.abs(rects[i].top - rects[i + 1].top) < MARK_SAME_LINE_THRESHOLD_PX
 
-      // Merge if they're close (within 20px) and on the same line
-      if (distance >= 0 && distance < 20 && onSameLine) {
-        // Collect text between and remove intermediate nodes
-        let textBetween = ''
-        let node = currentMark.nextSibling
-
-        while (node && node !== nextMark) {
-          textBetween += node.textContent || ''
+      if (distance >= 0 && distance < MARK_MERGE_DISTANCE_PX && onSameLine) {
+        let node = marks[i].nextSibling
+        while (node && node !== marks[i + 1]) {
           const next = node.nextSibling
-          node.parentNode?.removeChild(node)
+          marks[i].appendChild(node as Node)
           node = next
         }
-
-        const mergedText =
-          currentMark.textContent + textBetween + nextMark.textContent
-        currentMark.textContent = mergedText
-
-        // Remove the next mark
-        nextMark.remove()
+        // Also move all children of marks[i + 1] into marks[i]
+        while (marks[i + 1].firstChild) {
+          marks[i].appendChild(marks[i + 1].firstChild as Node)
+        }
+        marks[i + 1].remove()
         marks.splice(i + 1, 1)
+        // Update rect to the merged right edge so chained merges use correct distance
+        rects[i].right = rects[i + 1].right
+        rects.splice(i + 1, 1)
       } else {
         i++
       }
@@ -500,31 +899,33 @@ async function mergeNearbyMarks() {
  * Smoothly scrolls the excerpt to center the highlighted match.
  */
 function nextMatch(index: number) {
+  if (selectedIndex.value !== index) {
+    selectedIndex.value = index
+  }
   const marks = resultMarks.value.get(index)
   let curr = currentMarkIndex.value.get(index) ?? 0
   if (!marks) return
 
-  // Remove 'current' class from previous mark
-  marks[curr].classList.remove('current')
+  // Remove 'current' class from previous group of marks
+  marks[curr]?.forEach((m) => m.classList.remove('current'))
 
   curr = (curr + 1) % marks.length
   currentMarkIndex.value.set(index, curr)
   triggerRef(currentMarkIndex)
 
-  // Add 'current' class to new mark
-  const newMark = marks[curr]
-  newMark.classList.add('current')
-
-  const excerpt = newMark.closest('.excerpt')
-  if (excerpt) {
-    const markTop = newMark.offsetTop
-    const markHeight = newMark.offsetHeight
-    const excerptHeight = excerpt.clientHeight
-
-    excerpt.scrollTo({
-      top: markTop - excerptHeight / 2 + markHeight / 2,
-      behavior: 'smooth'
-    })
+  // Add 'current' class to new group of marks
+  const newGroup = marks[curr]
+  if (newGroup && newGroup.length > 0) {
+    newGroup.forEach((m) => m.classList.add('current'))
+    const newMark = newGroup[0]
+    const excerpt = newMark.closest<HTMLElement>('.excerpt')
+    if (excerpt) {
+      const markRelTop = getRelativeOffsetTop(newMark, excerpt)
+      excerpt.scrollTo({
+        top: markRelTop - excerpt.clientHeight / 2 + newMark.offsetHeight / 2,
+        behavior: 'smooth'
+      })
+    }
   }
 }
 
@@ -534,36 +935,40 @@ function nextMatch(index: number) {
  * Smoothly scrolls the excerpt to center the highlighted match.
  */
 function prevMatch(index: number) {
+  if (selectedIndex.value !== index) {
+    selectedIndex.value = index
+  }
   const marks = resultMarks.value.get(index)
   let curr = currentMarkIndex.value.get(index) ?? 0
   if (!marks) return
 
-  // Remove 'current' class from previous mark
-  marks[curr].classList.remove('current')
+  // Remove 'current' class from previous group of marks
+  marks[curr]?.forEach((m) => m.classList.remove('current'))
 
   curr = (curr - 1 + marks.length) % marks.length
   currentMarkIndex.value.set(index, curr)
   triggerRef(currentMarkIndex)
 
-  // Add 'current' class to new mark
-  const newMark = marks[curr]
-  newMark.classList.add('current')
-
-  const excerpt = newMark.closest('.excerpt')
-  if (excerpt) {
-    const markTop = newMark.offsetTop
-    const markHeight = newMark.offsetHeight
-    const excerptHeight = excerpt.clientHeight
-
-    excerpt.scrollTo({
-      top: markTop - excerptHeight / 2 + markHeight / 2,
-      behavior: 'smooth'
-    })
+  // Add 'current' class to new group of marks
+  const newGroup = marks[curr]
+  if (newGroup && newGroup.length > 0) {
+    newGroup.forEach((m) => m.classList.add('current'))
+    const newMark = newGroup[0]
+    const excerpt = newMark.closest<HTMLElement>('.excerpt')
+    if (excerpt) {
+      const markRelTop = getRelativeOffsetTop(newMark, excerpt)
+      excerpt.scrollTo({
+        top: markRelTop - excerpt.clientHeight / 2 + newMark.offsetHeight / 2,
+        behavior: 'smooth'
+      })
+    }
   }
 }
 
 async function fetchExcerpt(id: string) {
-  const file = pathToFile(id.slice(0, id.indexOf('#')))
+  const hashIndex = id.indexOf('#')
+  const cleanId = hashIndex === -1 ? id : id.slice(0, hashIndex)
+  const file = pathToFile(cleanId)
   try {
     if (!file) throw new Error(`Cannot find file for id: ${id}`)
     return { id, mod: await import(/*@vite-ignore*/ file) }
@@ -573,50 +978,79 @@ async function fetchExcerpt(id: string) {
   }
 }
 
+interface ComponentModule {
+  default?: unknown
+  render?: unknown
+  setup?: unknown
+}
+
+interface VitePressData {
+  frontmatter: Ref<Record<string, unknown>>
+  page: Ref<{ params?: unknown }>
+}
+
+const VDropdownStub = {
+  name: 'VDropdown',
+  render(this: any) {
+    return h('span', { class: 'v-popper' }, this.$slots.default?.())
+  }
+}
+
 async function processExcerpts(
-  mods: { id: string; mod: any }[],
-  vitePressData: any,
+  mods: { id: string; mod: ComponentModule }[],
+  vitePressData: VitePressData,
   isCanceled: () => boolean
 ) {
   for (const { id, mod } of mods) {
     if (isCanceled()) return
-    const mapId = id.slice(0, id.indexOf('#'))
+    const hashIndex = id.indexOf('#')
+    const mapId = hashIndex === -1 ? id : id.slice(0, hashIndex)
     let map = cache.get(mapId)
     if (map) continue
     map = new Map()
     cache.set(mapId, map)
-    const comp = mod.default ?? mod
-    if (comp?.render || comp?.setup) {
-      const app = createApp(comp)
-      app.use(FloatingVue)
-      app.component('Tooltip', Tooltip)
-      app.config.warnHandler = () => {}
-      app.provide(dataSymbol, vitePressData)
-      Object.defineProperties(app.config.globalProperties, {
-        $frontmatter: {
-          get() {
-            return vitePressData.frontmatter.value
+    const comp = (mod.default ?? mod) as { render?: unknown; setup?: unknown }
+    if (comp && typeof comp === 'object' && (comp.render || comp.setup)) {
+      try {
+        const app = createApp(comp as Component)
+        app.component('VDropdown', VDropdownStub)
+        app.component('Tooltip', Tooltip)
+        app.config.warnHandler = () => {}
+        app.provide(dataSymbol, vitePressData)
+        Object.defineProperties(app.config.globalProperties, {
+          $frontmatter: {
+            get() {
+              return vitePressData.frontmatter.value
+            }
+          },
+          $params: {
+            get() {
+              return vitePressData.page.value.params
+            }
           }
-        },
-        $params: {
-          get() {
-            return vitePressData.page.value.params
-          }
+        })
+        const div = document.createElement('div')
+        app.mount(div)
+        try {
+          const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+          headings.forEach((heading) => {
+            const href = heading.querySelector('a')?.getAttribute('href')
+            const anchor = href?.startsWith('#') && href.slice(1)
+            if (!anchor) return
+            let html = ''
+            let next: Element | null = heading.nextElementSibling
+            while (next && !/^h[1-6]$/i.test(next.tagName)) {
+              html += next.outerHTML
+              next = next.nextElementSibling
+            }
+            map!.set(anchor, html)
+          })
+        } finally {
+          app.unmount()
         }
-      })
-      const div = document.createElement('div')
-      app.mount(div)
-      const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
-      headings.forEach((el) => {
-        const href = el.querySelector('a')?.getAttribute('href')
-        const anchor = href?.startsWith('#') && href.slice(1)
-        if (!anchor) return
-        let html = ''
-        while ((el = el.nextElementSibling!) && !/^h[1-6]$/i.test(el.tagName))
-          html += el.outerHTML
-        map!.set(anchor, html)
-      })
-      app.unmount()
+      } catch (e) {
+        console.error('Error processing excerpt for ' + id, e)
+      }
     }
   }
 }
@@ -625,12 +1059,22 @@ function filterResults(
   results: (SearchResult & Result)[],
   filterTextValue: string
 ) {
+  const clean = (s: string) =>
+    s
+      .replace(INVISIBLE_CHARS_RE, '')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+      .toLowerCase()
+
+  const phrase = clean(filterTextValue)
+  if (!phrase) return results
+
   return results.filter((r) => {
-    const phrase = filterTextValue.toLowerCase()
-    const inText = r.text?.toLowerCase().includes(phrase)
-    const inTitle = r.title.toLowerCase().includes(phrase)
-    const inTitles = r.titles.some((t) => t.toLowerCase().includes(phrase))
-    return inText || inTitle || inTitles
+    if (clean(r.title).includes(phrase)) return true
+    if (r.titles.some((t) => clean(t).includes(phrase))) return true
+    if (!r.text) return true // Keep optimistically if text is not fetched yet
+    return clean(r.text).includes(phrase)
   })
 }
 
@@ -638,16 +1082,19 @@ function filterResults(
 
 const searchInput = ref<HTMLInputElement>()
 const disableReset = computed(() => {
-  return filterText.value?.length <= 0
+  return !filterText.value
 })
 function focusSearchInput(select = true) {
   searchInput.value?.focus()
-  select && searchInput.value?.select()
+  if (select) {
+    searchInput.value?.select()
+  }
 }
 
-onMounted(() => {
-  focusSearchInput()
-})
+function applySuggestion(s: string) {
+  filterText.value = s
+  focusSearchInput(false)
+}
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') {
@@ -659,21 +1106,81 @@ function onSearchBarClick(event: PointerEvent) {
 
 const selectedIndex = ref(-1)
 const disableMouseOver = ref(true)
+// Flag to track whether the selection was driven by keyboard navigation.
+// Used to limit excerpt smooth-scrolling strictly to keyboard events to prevent scroll/hover performance lag.
+const isKeyboardAction = ref(false)
 
-watch(results, (r) => {
-  selectedIndex.value = r.length ? 0 : -1
+watch(results, (newR, oldR) => {
+  // Show-more expansion: first result is unchanged and list grew — keep current position
+  if (
+    oldR.length > 0 &&
+    newR.length > oldR.length &&
+    newR[0]?.id === oldR[0]?.id
+  )
+    return
+
+  // Default to -1 (no selection) so first result is not pre-selected while typing
+  let newIdx = -1
+  if (
+    oldR.length > 0 &&
+    selectedIndex.value >= 0 &&
+    selectedIndex.value < oldR.length
+  ) {
+    const prevSelectedId = oldR[selectedIndex.value]?.id
+    const foundIdx = newR.findIndex((r) => r.id === prevSelectedId)
+    if (foundIdx !== -1) {
+      newIdx = foundIdx
+    }
+  }
+  selectedIndex.value = newIdx
   scrollToSelectedResult()
 })
 
 function scrollToSelectedResult() {
   nextTick(() => {
-    const selectedEl = document.querySelector('.result.selected')
+    // Avoid querying transitioning/leaving items to prevent scroll-into-view selector collisions.
+    const selectedEl = resultsEl.value?.querySelector(
+      '.result-item:not(.result-list-leave-active) .result.selected'
+    )
     selectedEl?.scrollIntoView({ block: 'nearest' })
   })
 }
 
+watch(selectedIndex, (newIdx, oldIdx) => {
+  if (oldIdx !== undefined && oldIdx >= 0) {
+    const marks = resultMarks.value.get(oldIdx)
+    const curr = currentMarkIndex.value.get(oldIdx) ?? 0
+    marks?.[curr]?.forEach((m) => m.classList.remove('current'))
+  }
+
+  if (newIdx !== undefined && newIdx >= 0) {
+    // Add current class and scroll active match into view
+    const isKb = isKeyboardAction.value
+    isKeyboardAction.value = false
+
+    nextTick(() => {
+      const updatedMarks = resultMarks.value.get(newIdx)
+      const updatedCurr = currentMarkIndex.value.get(newIdx) ?? 0
+      updatedMarks?.[updatedCurr]?.forEach((m) => m.classList.add('current'))
+
+      const activeMark = updatedMarks?.[updatedCurr]?.[0]
+      const excerpt = activeMark?.closest<HTMLElement>('.excerpt')
+      // Only smooth-scroll excerpt to center match if selection was keyboard-driven (prevents layout thrashing on hover)
+      if (isKb && excerpt && activeMark) {
+        const markRelTop = getRelativeOffsetTop(activeMark, excerpt)
+        excerpt.scrollTo({
+          top:
+            markRelTop - excerpt.clientHeight / 2 + activeMark.offsetHeight / 2,
+          behavior: 'smooth'
+        })
+      }
+    })
+  }
+})
+
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
+  isKeyboardAction.value = true
 
   if (
     resultsEl.value &&
@@ -700,6 +1207,7 @@ onKeyStroke('ArrowUp', (event) => {
 
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
+  isKeyboardAction.value = true
 
   if (resultsEl.value && document.activeElement === searchInput.value) {
     resultsEl.value.focus()
@@ -722,13 +1230,23 @@ onKeyStroke('Enter', (e) => {
   if (e.target instanceof HTMLButtonElement && e.target.type !== 'submit')
     return
 
-  const selectedPackage = results.value[selectedIndex.value]
+  let selectedPackage = results.value[selectedIndex.value]
+  // Fallback to first result if Enter is pressed in search input with no active selection
+  if (
+    !selectedPackage &&
+    selectedIndex.value === -1 &&
+    results.value.length > 0
+  ) {
+    selectedPackage = results.value[0]
+  }
+
   if (e.target instanceof HTMLInputElement && !selectedPackage) {
     e.preventDefault()
     return
   }
 
   if (selectedPackage) {
+    addRecentSearch(filterText.value)
     router.go(selectedPackage.id)
     close()
   }
@@ -744,45 +1262,64 @@ onKeyStroke('Escape', () => {
  * Only active when detailed view is enabled and matches exist.
  */
 onKeyStroke('ArrowLeft', (event) => {
-  // Navigate to previous match - only when viewing detailed excerpts with highlights
+  if (event.repeat) return
   const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+
+  if (document.activeElement === searchInput.value) {
+    if (event.altKey || event.ctrlKey) {
+      // modifier always forces nav
+    } else {
+      // mirror ArrowRight: hijack only when caret is at start of input
+      const { selectionStart, selectionEnd } = searchInput.value!
+      if (selectionStart !== 0 || selectionEnd !== 0) return
+      isKeyboardAction.value = true
+      if (selectedIndex.value === -1) selectedIndex.value = 0
+      resultsEl.value?.focus()
+      event.preventDefault()
+      return
+    }
+  }
+
+  // Navigate to previous match - only when viewing detailed excerpts with highlights
   if (
     showDetailedList.value &&
     (resultMarks.value.get(targetIndex)?.length ?? 0) > 0
   ) {
-    if (document.activeElement === searchInput.value) {
-      // Only hijack if modifier is pressed
-      if (!event.altKey && !event.ctrlKey) return
-    }
     event.preventDefault()
     prevMatch(targetIndex)
   }
 })
 
 onKeyStroke('ArrowRight', (event) => {
-  // Navigate to next match - only when viewing detailed excerpts with highlights
+  if (event.repeat) return
   const targetIndex = selectedIndex.value === -1 ? 0 : selectedIndex.value
+
+  if (document.activeElement === searchInput.value) {
+    if (event.shiftKey) return
+    if (event.altKey || event.ctrlKey) {
+      // Allow modifier to force nav
+    } else {
+      // Shortcut: If at end of input, go down to results list without cycling matches
+      const { selectionStart, selectionEnd, value } = searchInput.value!
+      if (selectionStart !== value.length || selectionEnd !== value.length)
+        return
+
+      // Use the target index (0) if we were at -1
+      isKeyboardAction.value = true
+      if (selectedIndex.value === -1) selectedIndex.value = 0
+      resultsEl.value?.focus()
+      event.preventDefault()
+      return
+    }
+  }
+
+  // Navigate to next match - only when viewing detailed excerpts with highlights
   if (
     showDetailedList.value &&
     (resultMarks.value.get(targetIndex)?.length ?? 0) > 0
   ) {
-    if (document.activeElement === searchInput.value) {
-      if (event.shiftKey) return
-      if (event.altKey || event.ctrlKey) {
-        // Allow modifier to force nav
-      } else {
-        // Shortcut: If at end of input, go to next match AND focus results
-        const { selectionStart, selectionEnd, value } = searchInput.value!
-        if (selectionStart !== value.length || selectionEnd !== value.length)
-          return
-
-        // Use the target index (0) if we were at -1
-        if (selectedIndex.value === -1) selectedIndex.value = 0
-        resultsEl.value?.focus()
-      }
-    }
     event.preventDefault()
-    nextMatch(targetIndex) // Use targetIndex as we might have just updated selectedIndex from -1 to 0 or kept valid index
+    nextMatch(targetIndex)
   }
 })
 
@@ -807,15 +1344,18 @@ const defaultTranslations: { modal: ModalTranslations } = {
 
 const translate = createSearchTranslate(defaultTranslations)
 
+const customTitles = {
+  prevMatch: 'Previous match',
+  nextMatch: 'Next match',
+  fuzzyOn: 'Switch to Exact Search',
+  fuzzyOff: 'Switch to Fuzzy Search',
+  searching: 'Searching...',
+  cycleMatches: 'to cycle matches'
+}
+
 // Back
 
-onMounted(() => {
-  // Prevents going to previous site
-  window.history.pushState(null, '', null)
-})
-
-useEventListener('popstate', (event) => {
-  event.preventDefault()
+useEventListener('popstate', () => {
   close()
 })
 
@@ -823,6 +1363,8 @@ useEventListener('popstate', (event) => {
 const isLocked = useScrollLock(inBrowser ? document.body : null)
 
 onMounted(() => {
+  focusSearchInput()
+  window.history.pushState ? window.history.pushState(null, '', null) : null
   nextTick(() => {
     isLocked.value = true
     nextTick().then(() => activate())
@@ -831,7 +1373,65 @@ onMounted(() => {
 
 onBeforeUnmount(() => {
   isLocked.value = false
+  resultMarks.value = new Map()
+  currentMarkIndex.value = new Map()
+  globalResultMarks.value = new Map()
+  globalCurrentMarkIndex.value = new Map()
 })
+
+function addRecentSearch(query: string) {
+  const q = query.trim()
+  if (!q) return
+  recentSearches.value = [
+    q,
+    ...recentSearches.value.filter((s) => s !== q)
+  ].slice(0, MAX_RECENT_SEARCHES)
+}
+
+function removeRecentSearch(query: string) {
+  recentSearches.value = recentSearches.value.filter((s) => s !== query)
+  nextTick().then(() => focusSearchInput(false))
+}
+
+function clearAllRecentSearches() {
+  recentSearches.value = []
+  nextTick().then(() => focusSearchInput(false))
+}
+
+function handleResultClick(e: MouseEvent, id: string) {
+  if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) {
+    return
+  }
+  e.preventDefault()
+  addRecentSearch(filterText.value)
+
+  const [path, hash] = id.split('#')
+  let decodedHash: string | null = null
+  try {
+    decodedHash = hash ? decodeURIComponent(hash) : null
+  } catch {
+    /* malformed URI */
+  }
+  if (decodedHash && isSamePageComparison(path)) {
+    const targetEl = document.getElementById(decodedHash)
+    if (targetEl) {
+      close()
+      const navEl = document.querySelector('.VPNavBar')
+      const navHeight = navEl ? navEl.clientHeight : 64
+      const targetY = Math.max(
+        0,
+        targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
+      )
+
+      fastScrollTo(targetY, 300)
+      window.history.pushState(null, '', `#${hash}`)
+      return
+    }
+  }
+
+  router.go(id)
+  close()
+}
 
 function resetSearch() {
   filterText.value = ''
@@ -839,9 +1439,7 @@ function resetSearch() {
 }
 
 function toggleDetailedList() {
-  if (selectedIndex.value > -1) {
-    showDetailedList.value = !showDetailedList.value
-  }
+  showDetailedList.value = !showDetailedList.value
 }
 
 function handleInput(e: Event) {
@@ -852,9 +1450,59 @@ function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
 
-function formMarkRegex(terms: Set<string>) {
+function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
+  const groups: HTMLElement[][] = []
+  if (marks.length === 0) return groups
+  if (typeof document === 'undefined') return [marks]
+
+  let currentGroup = [marks[0]]
+  for (let i = 1; i < marks.length; i++) {
+    const prev = marks[i - 1]
+    const curr = marks[i]
+    if (prev.parentNode !== curr.parentNode) {
+      groups.push(currentGroup)
+      currentGroup = [curr]
+      continue
+    }
+    try {
+      const range = document.createRange()
+      range.setStartAfter(prev)
+      range.setEndBefore(curr)
+      const textBetween = range.toString()
+      if (/^[\s\W]{0,20}$/.test(textBetween)) {
+        currentGroup.push(curr)
+      } else {
+        groups.push(currentGroup)
+        currentGroup = [curr]
+      }
+    } catch {
+      groups.push(currentGroup)
+      currentGroup = [curr]
+    }
+  }
+  groups.push(currentGroup)
+  return groups
+}
+
+function formMarkRegex(terms: Set<string>, rawQuery: string) {
+  const allTerms = new Set<string>()
+  for (const term of terms) {
+    allTerms.add(term)
+  }
+  if (isFuzzySearch.value) {
+    const words = rawQuery
+      .trim()
+      .split(/[\s\W]+/)
+      .filter(Boolean)
+    for (const word of words) {
+      allTerms.add(word)
+    }
+  } else {
+    allTerms.add(rawQuery.trim())
+  }
   return new RegExp(
-    [...terms]
+    [...allTerms]
+      .filter(Boolean)
       .sort((a, b) => b.length - a.length)
       .map((term) => `(${escapeRegExp(term)})`)
       .join('|'),
@@ -862,14 +1510,82 @@ function formMarkRegex(terms: Set<string>) {
   )
 }
 
+let lastMouseX = 0
+let lastMouseY = 0
+
 function onMouseMove(e: MouseEvent) {
-  if (!disableMouseOver.value) return
+  if (e.clientX === lastMouseX && e.clientY === lastMouseY) {
+    return
+  }
+  lastMouseX = e.clientX
+  lastMouseY = e.clientY
+
+  if (disableMouseOver.value) {
+    disableMouseOver.value = false
+    return
+  }
+
   const el = (e.target as HTMLElement)?.closest<HTMLElement>('.result-item')
   const index = el?.dataset?.index ? Number.parseInt(el.dataset.index) : -1
   if (index >= 0 && index !== selectedIndex.value) {
     selectedIndex.value = index
   }
-  disableMouseOver.value = false
+}
+
+function isSamePageComparison(destPath: string) {
+  if (!destPath) return true
+  const base = vitePressData.site?.value?.base || '/'
+  const clean = (p: string) => {
+    let cleaned = p
+      .replace(/^\.?\//, '/')
+      .replace(/\.html$/, '')
+      .replace(/\/index$/, '')
+      .replace(/\/$/, '')
+      .toLowerCase()
+    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+      cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
+    }
+    return cleaned || '/'
+  }
+  const current = clean(window.location.pathname) || '/'
+  const dest = clean(destPath) || '/'
+  return current === dest
+}
+
+let activeScrollRAF = 0
+let savedScrollBehavior = ''
+
+function fastScrollTo(targetY: number, duration = 150) {
+  if (typeof window === 'undefined') return
+  const htmlEl = document.documentElement
+
+  if (!activeScrollRAF) {
+    savedScrollBehavior = htmlEl.style.scrollBehavior
+    htmlEl.style.scrollBehavior = 'auto'
+  } else {
+    cancelAnimationFrame(activeScrollRAF)
+  }
+
+  const startY = window.scrollY
+  const difference = targetY - startY
+  const startTime = performance.now()
+
+  function step(currentTime: number) {
+    const elapsed = currentTime - startTime
+    const progress = Math.min(elapsed / duration, 1)
+    const ease = 1 - Math.pow(1 - progress, 3)
+
+    window.scrollTo(0, startY + difference * ease)
+
+    if (progress < 1) {
+      activeScrollRAF = requestAnimationFrame(step)
+    } else {
+      htmlEl.style.scrollBehavior = savedScrollBehavior
+      activeScrollRAF = 0
+    }
+  }
+
+  activeScrollRAF = requestAnimationFrame(step)
 }
 </script>
 
@@ -878,7 +1594,7 @@ function onMouseMove(e: MouseEvent) {
     <Transition
       name="vp-local-search"
       appear
-      :duration="200"
+      :duration="150"
       @after-leave="$emit('close')"
     >
       <div
@@ -897,7 +1613,7 @@ function onMouseMove(e: MouseEvent) {
           <form
             class="search-bar"
             @pointerup="onSearchBarClick($event)"
-            @submit.prevent=""
+            @submit.prevent
           >
             <label
               id="localsearch-label"
@@ -942,11 +1658,19 @@ function onMouseMove(e: MouseEvent) {
               @input="handleInput"
             />
             <div class="search-actions">
+              <span
+                v-if="isSearching"
+                class="vp-search-spinner"
+                style="align-self: center; margin: 0 4px"
+                :title="customTitles.searching"
+              />
+
               <button
                 v-if="!disableDetailedView"
                 class="toggle-layout-button"
                 type="button"
                 :class="{ 'detailed-list': showDetailedList }"
+                :aria-pressed="showDetailedList"
                 :title="translate('modal.displayDetails')"
                 @click="toggleDetailedList"
               >
@@ -957,15 +1681,21 @@ function onMouseMove(e: MouseEvent) {
                 class="toggle-fuzzy-button"
                 type="button"
                 :class="{ 'fuzzy-active': isFuzzySearch }"
+                :aria-pressed="isFuzzySearch"
                 :title="
-                  isFuzzySearch
-                    ? 'Switch to Exact Search'
-                    : 'Switch to Fuzzy Search'
+                  isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
                 "
                 @click="toggleFuzzySearch"
               >
                 <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
                 <span v-else class="exact-icon">=</span>
+                <span class="visually-hidden">
+                  {{
+                    isFuzzySearch
+                      ? 'Fuzzy Search Active'
+                      : 'Exact Search Active'
+                  }}
+                </span>
               </button>
 
               <button
@@ -989,88 +1719,176 @@ function onMouseMove(e: MouseEvent) {
             tabindex="-1"
             @mousemove="onMouseMove"
           >
-            <li
-              v-for="(p, index) in results"
-              :id="'localsearch-item-' + index"
-              :key="p.id"
-              :aria-selected="selectedIndex === index ? 'true' : 'false'"
-              role="option"
-              class="result-item"
-              :data-index="index"
-            >
-              <a
-                :href="p.id"
-                class="result"
-                :class="{
-                  selected: selectedIndex === index
-                }"
-                :aria-label="[...p.titles, p.title].join(' > ')"
-                :data-index="index"
-                @mouseenter="!disableMouseOver && (selectedIndex = index)"
-                @focusin="selectedIndex = index"
-                @click="close"
+            <TransitionGroup name="result-list">
+              <li
+                v-if="filterText && results.length"
+                key="results-info"
+                class="results-info"
               >
-                <div>
-                  <div class="titles">
-                    <span class="title-icon">#</span>
-                    <span
-                      v-for="(t, tIdx) in p.titles"
-                      :key="tIdx"
-                      class="title"
-                    >
-                      <span class="text" v-html="t" />
-                      <span class="vpi-chevron-right local-search-icon" />
-                    </span>
-                    <span class="title main">
-                      <span class="text" v-html="p.title" />
-                    </span>
-                  </div>
-
-                  <div v-if="showDetailedList" class="excerpt-wrapper">
-                    <div v-if="p.text" class="excerpt" inert>
-                      <div class="vp-doc" v-html="p.text" />
+                Showing {{ results.length }} of {{ totalResultsCount
+                }}{{ mayHaveMore ? '+' : '' }} matches
+              </li>
+              <li
+                v-for="(p, index) in results"
+                :id="'localsearch-item-' + index"
+                :key="p.id"
+                :data-id="p.id"
+                :aria-selected="selectedIndex === index ? 'true' : 'false'"
+                role="option"
+                class="result-item"
+                :data-index="index"
+              >
+                <div
+                  class="result"
+                  :class="{
+                    selected: selectedIndex === index
+                  }"
+                  @mouseenter="!disableMouseOver && (selectedIndex = index)"
+                  @focusin="selectedIndex = index"
+                  @click="handleResultClick($event, p.id)"
+                >
+                  <div>
+                    <div class="titles">
+                      <span class="title-icon">#</span>
+                      <span
+                        v-for="(t, titleIndex) in p.titles"
+                        :key="titleIndex"
+                        class="title"
+                      >
+                        <span class="text" v-html="t" />
+                        <span class="vpi-chevron-right local-search-icon" />
+                      </span>
+                      <span class="title main">
+                        <a
+                          :href="p.id"
+                          class="result-link"
+                          :aria-label="[...p.titles, p.title].join(' > ')"
+                        >
+                          <span class="text" v-html="p.title" />
+                        </a>
+                      </span>
                     </div>
+                    <div v-if="showDetailedList" class="excerpt-wrapper">
+                      <div v-if="p.text" class="excerpt" inert>
+                        <div class="vp-doc" v-html="p.text" />
+                      </div>
 
-                    <div class="excerpt-gradient-bottom" />
-                    <div class="excerpt-gradient-top" />
+                      <div class="excerpt-gradient-bottom" />
+                      <div class="excerpt-gradient-top" />
+                      <Transition name="match-actions-fade">
+                        <div
+                          v-if="(resultMarks.get(index)?.length ?? 0) > 1"
+                          class="excerpt-actions"
+                          @click.stop.prevent
+                        >
+                          <button
+                            type="button"
+                            class="match-nav-button"
+                            :title="customTitles.prevMatch"
+                            @click.stop.prevent="prevMatch(index)"
+                          >
+                            <span class="vpi-chevron-left navigate-icon" />
+                          </button>
+                          <span class="match-count">
+                            {{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{
+                              resultMarks.get(index)?.length
+                            }}
+                          </span>
+                          <button
+                            type="button"
+                            class="match-nav-button"
+                            :title="customTitles.nextMatch"
+                            @click.stop.prevent="nextMatch(index)"
+                          >
+                            <span class="vpi-chevron-right navigate-icon" />
+                          </button>
+                        </div>
+                      </Transition>
+                    </div>
                   </div>
                 </div>
-              </a>
-              <div
+              </li>
+              <li
                 v-if="
-                  showDetailedList && (resultMarks.get(index)?.length ?? 0) > 1
+                  filterText &&
+                  !results.length &&
+                  !isSearching &&
+                  enableNoResults
                 "
-                class="excerpt-actions"
+                key="no-results"
+                class="no-results"
+              >
+                <div>
+                  {{ translate('modal.noResultsText') }} "{{ filterText }}"
+                </div>
+                <div v-if="!isFuzzySearch" class="no-results-actions">
+                  <button class="try-fuzzy-btn" @click="isFuzzySearch = true">
+                    Try fuzzy search?
+                  </button>
+                  <template v-if="autoSuggestions.length">
+                    <span class="did-you-mean">Did you mean:</span>
+                    <button
+                      v-for="s in autoSuggestions"
+                      :key="s"
+                      class="suggestion-btn"
+                      @click="applySuggestion(s)"
+                    >
+                      {{ s }}
+                    </button>
+                  </template>
+                </div>
+              </li>
+              <li
+                v-if="!filterText && recentSearches.length"
+                key="recent-searches"
+                class="recent-searches"
+              >
+                <div class="recent-header">
+                  <span class="recent-label">Recent</span>
+                  <button class="clear-all-btn" @click="clearAllRecentSearches">
+                    Clear all
+                  </button>
+                </div>
+                <div class="recent-items">
+                  <div
+                    v-for="s in recentSearches"
+                    :key="s"
+                    class="recent-item-wrapper"
+                  >
+                    <button class="recent-item" @click="applySuggestion(s)">
+                      {{ s }}
+                    </button>
+                    <button
+                      class="recent-delete-btn"
+                      title="Remove search"
+                      @click.stop.prevent="removeRecentSearch(s)"
+                    >
+                      <span class="vpi-delete delete-icon-mini" />
+                    </button>
+                  </div>
+                </div>
+              </li>
+              <li
+                v-if="
+                  !isSearching &&
+                  (results.length < totalResultsCount || mayHaveMore)
+                "
+                key="show-more"
+                class="show-more-item"
               >
                 <button
-                  type="button"
-                  class="match-nav-button"
-                  title="Previous match"
-                  @click="prevMatch(index)"
+                  class="show-more-btn"
+                  @click="resultLimit += RESULTS_PAGE_SIZE"
                 >
-                  <span class="vpi-chevron-left navigate-icon" />
+                  Show more results
+                  <template
+                    v-if="!mayHaveMore && totalResultsCount > results.length"
+                  >
+                    ({{ totalResultsCount - results.length }} remaining)
+                  </template>
                 </button>
-                <span class="match-count">
-                  {{ (currentMarkIndex.get(index) ?? 0) + 1 }}/{{
-                    resultMarks.get(index)?.length
-                  }}
-                </span>
-                <button
-                  type="button"
-                  class="match-nav-button"
-                  title="Next match"
-                  @click="nextMatch(index)"
-                >
-                  <span class="vpi-chevron-right navigate-icon" />
-                </button>
-              </div>
-            </li>
-            <li
-              v-if="filterText && !results.length && enableNoResults"
-              class="no-results"
-            >
-              {{ translate('modal.noResultsText') }} "{{ filterText }}"
-            </li>
+              </li>
+            </TransitionGroup>
           </ul>
 
           <div class="search-keyboard-shortcuts">
@@ -1100,7 +1918,7 @@ function onMouseMove(e: MouseEvent) {
               <kbd>
                 <span class="vpi-arrow-right navigate-icon" />
               </kbd>
-              to cycle matches
+              {{ customTitles.cycleMatches }}
             </span>
             <span>
               <kbd :aria-label="translate('modal.footer.closeKeyAriaLabel')">
@@ -1126,6 +1944,9 @@ function onMouseMove(e: MouseEvent) {
   position: absolute;
   inset: 0;
   background: var(--vp-backdrop-bg-color);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  will-change: opacity;
 }
 
 .shell {
@@ -1140,6 +1961,7 @@ function onMouseMove(e: MouseEvent) {
   height: min-content;
   max-height: min(100vh - 128px, 900px);
   border-radius: 6px;
+  will-change: transform, opacity;
 }
 
 @media (max-width: 767px) {
@@ -1147,8 +1969,10 @@ function onMouseMove(e: MouseEvent) {
     margin: 0;
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
     max-height: none;
     border-radius: 0;
+    overflow: hidden;
   }
 }
 
@@ -1197,6 +2021,13 @@ function onMouseMove(e: MouseEvent) {
   width: 100%;
 }
 
+.search-input::-webkit-search-cancel-button,
+.search-input::-webkit-search-decoration,
+.search-input::-webkit-search-results-button,
+.search-input::-webkit-search-results-decoration {
+  display: none;
+}
+
 /* Custom Feature: Match navigation controls overlay */
 .result-item {
   position: relative;
@@ -1204,9 +2035,8 @@ function onMouseMove(e: MouseEvent) {
 
 .excerpt-actions {
   position: absolute;
-  /* (12px margin + 2px border + 5px spacing) */
-  bottom: 19px;
-  right: 19px;
+  bottom: 4px;
+  right: 4px;
   z-index: 2000;
   cursor: default;
   display: flex;
@@ -1217,28 +2047,52 @@ function onMouseMove(e: MouseEvent) {
   border-radius: 4px;
   padding: 2px 4px;
   box-shadow: var(--vp-shadow-1);
-}
-
-@media (max-width: 767px) {
-  .excerpt-actions {
-    /* (8px margin + 2px border + 5px spacing) */
-    bottom: 15px;
-    right: 15px;
-  }
+  transition:
+    gap 0.2s,
+    padding 0.2s;
 }
 
 .match-nav-button {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 20px;
-  height: 20px;
-  border-radius: 2px;
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
   color: var(--vp-c-text-2);
   transition:
     color 0.2s,
-    background-color 0.2s;
+    background-color 0.2s,
+    transform 0.1s ease;
   cursor: pointer;
+}
+
+.match-nav-button::before {
+  content: '';
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  right: -8px;
+  bottom: -8px;
+}
+
+.match-nav-button:active {
+  transform: scale(0.92);
+}
+
+@media (any-pointer: coarse) {
+  .excerpt-actions {
+    gap: 12px;
+    padding: 4px 8px;
+  }
+  .match-nav-button {
+    width: 32px;
+    height: 32px;
+  }
+  .match-count {
+    font-size: 13px;
+  }
 }
 
 .match-nav-button:hover {
@@ -1283,41 +2137,13 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .search-actions button:not([disabled]):hover,
-.toggle-layout-button.detailed-list {
+.toggle-layout-button.detailed-list,
+.toggle-fuzzy-button.fuzzy-active {
   color: var(--vp-c-brand-1);
 }
 
 .search-actions button.clear-button:disabled {
   opacity: 0.37;
-}
-
-/* Custom Feature: Fuzzy search toggle button */
-.toggle-fuzzy-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 4px;
-  transition: all 0.2s;
-}
-
-.toggle-fuzzy-button .fuzzy-icon,
-.toggle-fuzzy-button .exact-icon {
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 1;
-}
-
-.toggle-fuzzy-button:hover {
-  background: var(--vp-c-bg-soft);
-}
-
-.toggle-fuzzy-button.fuzzy-active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg-soft);
 }
 
 .search-keyboard-shortcuts {
@@ -1356,22 +2182,55 @@ function onMouseMove(e: MouseEvent) {
 .results {
   display: flex;
   flex-direction: column;
+  flex: 1;
+  min-height: 0;
   outline: none;
   gap: 6px;
+  padding-block-start: 4px;
   overflow-x: hidden;
   overflow-y: auto;
   overscroll-behavior: contain;
 }
 
 .result {
+  position: relative;
+  cursor: pointer;
   display: flex;
   align-items: center;
   gap: 8px;
   border-radius: 4px;
-  transition: none;
+  transition:
+    border-color 120ms ease,
+    background-color 120ms ease;
   line-height: 1rem;
   border: solid 2px var(--vp-local-search-result-border);
   outline: none;
+}
+
+.result-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.result-link::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* Match navigation controls fade/slide transition */
+.match-actions-fade-enter-active,
+.match-actions-fade-leave-active {
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease;
+}
+
+.match-actions-fade-enter-from,
+.match-actions-fade-leave-to {
+  opacity: 0;
+  transform: translateY(2px) scale(0.98);
 }
 
 .result > div {
@@ -1436,11 +2295,13 @@ function onMouseMove(e: MouseEvent) {
   overflow: hidden;
   position: relative;
   margin-top: 4px;
+  will-change: opacity;
+  transform: translateZ(0);
 }
 
 @media (hover: hover) {
   .excerpt {
-    opacity: 0.5;
+    opacity: 0.8;
   }
 }
 
@@ -1448,19 +2309,80 @@ function onMouseMove(e: MouseEvent) {
   opacity: 1;
 }
 
-.excerpt :deep(*) {
-  font-size: 0.8rem !important;
-  line-height: 130% !important;
+/*
+ * Scale the entire excerpt down by setting the root font-size only,
+ * then re-assert the page formatting (bold, code, links, lists) with
+ * enough contrast to stay readable at preview size and through the
+ * opacity used for unselected results.
+ */
+.excerpt {
+  font-size: 14.5px;
+  line-height: 1.6;
 }
 
-/* Ensure excerpt content is visible and correctly styled */
-.excerpt :deep(*) {
-  font-size: 0.8rem !important;
-  line-height: 130% !important;
+.excerpt :deep(strong),
+.excerpt :deep(b) {
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.excerpt :deep(em),
+.excerpt :deep(i) {
+  font-style: italic;
+}
+
+.excerpt :deep(a) {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-color: transparent;
+}
+
+.excerpt :deep(strong a),
+.excerpt :deep(a strong),
+.excerpt :deep(b a),
+.excerpt :deep(a b) {
+  font-weight: bold;
+}
+
+.excerpt :deep(p) {
+  margin: 0.5em 0;
+}
+
+.excerpt :deep(ul),
+.excerpt :deep(ol) {
+  margin: 0.5em 0;
+  padding-inline-start: 1.5em;
+}
+
+.excerpt :deep(ul) {
+  list-style-type: disc;
+}
+
+.excerpt :deep(ol) {
+  list-style-type: decimal;
 }
 
 .excerpt :deep(li) {
-  display: list-item !important;
+  display: list-item;
+  margin: 0.5em 0;
+}
+
+.excerpt :deep(:not(pre) > code) {
+  background-color: var(--vp-c-bg-alt);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.9em;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.excerpt :deep(blockquote) {
+  border-left: 3px solid var(--vp-c-divider);
+  padding-left: 0.8em;
+  margin: 0.5em 0;
+  color: var(--vp-c-text-2);
 }
 
 /* Highlight styles - default state */
@@ -1469,7 +2391,8 @@ function onMouseMove(e: MouseEvent) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
-  padding: 0 1px;
+  padding: 0 2px;
+  margin: 0 -2px;
   transition: background-color 0.2s;
 }
 
@@ -1523,20 +2446,255 @@ svg {
   flex: none;
 }
 
-@keyframes vp-backdrop-enter {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
+.vp-local-search-enter-from .backdrop,
+.vp-local-search-leave-to .backdrop {
+  opacity: 0;
 }
 
 .vp-local-search-enter-active .backdrop {
-  animation: vp-backdrop-enter 0.2s ease-out both;
+  transition: opacity 0.15s ease-out;
 }
 
-.vp-local-search-leave-active {
-  animation: vp-backdrop-enter 0.2s ease-in reverse both;
+.vp-local-search-leave-active .backdrop {
+  transition: opacity 0.1s ease-in;
+}
+
+@keyframes vp-shell-enter {
+  from {
+    opacity: 0;
+    transform: scale(0.975) translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.vp-local-search-enter-active .shell {
+  animation: vp-shell-enter 0.15s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.vp-local-search-leave-active .shell {
+  animation: vp-shell-enter 0.1s cubic-bezier(0.16, 1, 0.3, 1) reverse both;
+}
+
+.searching {
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+}
+
+.vp-search-spinner {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--vp-c-divider);
+  border-top-color: var(--vp-c-brand-1);
+  border-radius: 50%;
+  animation: vp-spin 0.6s linear infinite;
+}
+
+@keyframes vp-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.no-results-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+  font-size: 0.8rem;
+}
+
+.try-fuzzy-btn,
+.suggestion-btn {
+  padding: 2px 8px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  color: var(--vp-c-brand-1);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.try-fuzzy-btn:hover,
+.suggestion-btn:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.did-you-mean {
+  color: var(--vp-c-text-2);
+}
+
+.recent-searches {
+  padding: 8px 12px;
+}
+
+.recent-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.clear-all-btn {
+  font-size: 0.75rem;
+  color: var(--vp-c-brand-1);
+  opacity: 0.75;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  background: transparent;
+  border: none;
+}
+
+.clear-all-btn:hover {
+  opacity: 1;
+}
+
+.recent-label {
+  display: block;
+  font-size: 0.75rem;
+  opacity: 0.5;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.recent-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.recent-item-wrapper {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background-color: transparent;
+  transition: background-color 0.15s;
+}
+
+.recent-item-wrapper:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.recent-item-wrapper .recent-item {
+  border: none;
+  background: transparent;
+  padding: 3px 6px 3px 10px;
+  font-size: 0.8rem;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.recent-item-wrapper:hover .recent-item {
+  color: var(--vp-c-text-1);
+}
+
+.recent-delete-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  padding: 3px 8px 3px 4px;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.recent-delete-btn:hover {
+  color: var(--vp-c-danger-1);
+}
+
+.delete-icon-mini {
+  font-size: 11px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.results-info {
+  font-size: 0.75rem;
+  color: var(--vp-c-text-3);
+  padding: 6px 12px;
+  border-bottom: 1px dashed var(--vp-c-divider);
+  margin-top: -12px;
+  margin-bottom: 4px;
+}
+
+.show-more-item {
+  text-align: center;
+  padding: 6px;
+}
+
+.show-more-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 28px;
+  font-size: 0.8rem;
+  color: var(--vp-c-brand-1);
+  opacity: 0.75;
+  padding: 0 12px;
+  border-radius: 4px;
+  transition:
+    opacity 0.15s,
+    background-color 0.15s;
+}
+
+.show-more-btn:hover {
+  opacity: 1;
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* Custom Feature: Fuzzy search toggle button styling */
+.toggle-fuzzy-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-fuzzy-button .fuzzy-icon,
+.toggle-fuzzy-button .exact-icon {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.toggle-fuzzy-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-fuzzy-button.fuzzy-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+.result-list-enter-active,
+.result-list-leave-active {
+  transition: opacity 0.15s ease;
+}
+.result-list-enter-from,
+.result-list-leave-to {
+  opacity: 0;
 }
 </style>
