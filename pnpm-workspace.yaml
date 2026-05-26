@@ -1,0 +1,15 @@
+peerDependencyRules:
+  ignoreMissing:
+    - '@algolia/client-search'
+    - search-insights
+shellEmulator: true
+autoInstallPeers: false
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  sharp: true
+  simple-git-hooks: true
+  vue-demi: true
+  workerd: true
+pmOnFail: warn
+minimumReleaseAge: 0

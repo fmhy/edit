@@ -1,7 +1,4 @@
 <script setup lang="ts">
-import VPIconMoon from 'vitepress/dist/client/theme-default/components/icons/VPIconMoon.vue'
-import VPIconSun from 'vitepress/dist/client/theme-default/components/icons/VPIconSun.vue'
-
 const { isDark } = useData()
 
 const toggleAppearance = inject('toggle-appearance', () => {

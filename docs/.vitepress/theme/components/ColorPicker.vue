@@ -5,7 +5,6 @@ import { nextTick, onMounted, watch } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
 import { colors } from '../utils/colors'
-import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
 const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')

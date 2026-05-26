@@ -14,26 +14,33 @@ concurrency:
 
 jobs:
   build:
+    name: Build
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v6
-        with:
-          fetch-depth: 1
-      - uses: pnpm/action-setup@v6
-      - name: Setup Node
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 20
-          cache: pnpm
+          node-version: 26
+          cache: 'pnpm'
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
+
       - name: Install dependencies
         run: pnpm install
+
       - name: Build with VitePress
         run: |
           pnpm docs:build
           touch docs/.vitepress/dist/.nojekyll
+
       - name: Upload artifact
         id: deployment
         uses: actions/upload-pages-artifact@v5
@@ -41,12 +48,13 @@ jobs:
           path: docs/.vitepress/dist
 
   deploy:
+    name: Deploy
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
     runs-on: ubuntu-latest
-    name: Deploy
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

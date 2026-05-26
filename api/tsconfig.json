@@ -1,5 +1,5 @@
 {
-  "extends": "../.nitro/types/tsconfig.json",
+  "extends": "../tsconfig.json",
   "compilerOptions": {
     "types": ["@cloudflare/workers-types"]
   }
