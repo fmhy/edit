@@ -296,17 +296,18 @@
 ***
 
 * 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
-* [Prism Launcher](https://prismlauncher.org/) - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
-* [ATLauncher](https://atlauncher.com/) - Modpack Launcher / [Discord](https://discord.com/invite/B7TrrzH)
-* [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / [Discord](https://discord.com/invite/technic)
-* [⁠LeviLauncher](https://levilauncher.levimc.org/) - Bedrock Launcher w/ GDK Support / Windows / [GitHub](https://github.com/LiteLDev/LeviLauncher)
-* [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Launcher / [UWP Only](https://i.ibb.co/20gP91qf/image.png) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
-* [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Fork
-* [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / [GitHub](https://github.com/Moulberry/PandoraLauncher)
-* [GDLauncher](https://gdlauncher.com/) - Launcher / [Discord](https://discord.com/invite/8n3NnERF22)
-* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS / Linux
-* [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android), [2](https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
-* [⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launcher / Android
+* **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / Windows, Mac, Linux / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/B7TrrzH)
+* **[Technic Launcher](https://www.technicpack.net/)** - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/technic)
+* **[⁠LeviLauncher](https://levilauncher.levimc.org/)** - Bedrock Launcher w/ GDK Support / Windows / [GitHub](https://github.com/LiteLDev/LeviLauncher)
+* **[Bedrock Launcher](https://bedrocklauncher.github.io/)** - Bedrock Launcher / Windows (UWP Only) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
+* **[⁠FjordLauncher](https://github.com/unmojang/FjordLauncher)** - Prism Fork / Windows, Mac, Linux
+* **[⁠PandoraLauncher](https://pandora.moulberry.com/)** - Launcher / Windows, Mac, Linux / [GitHub](https://github.com/Moulberry/PandoraLauncher)
+* **[GDLauncher](https://gdlauncher.com/)** - Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/8n3NnERF22)
+* **[WineGDK](https://github.com/Weather-OS/WineGDK)** - Bedrock Launcher / Mac / Linux
+* **[Amethyst](https://github.com/AngelAuraMC/Amethyst-Android)**, **[2](https://github.com/AngelAuraMC/Amethyst-iOS)** - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
+* **[⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)** - Mobile Launcher / Android
+
 
 ***
 

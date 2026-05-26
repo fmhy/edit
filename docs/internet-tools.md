@@ -50,8 +50,8 @@
 * ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / Mac, iOS
 * [AuthPass](https://authpass.app/) / All Platforms
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
-* [LessPass](https://lesspass.com/) / Stateless Password Manager / Mobile and Web
-* [KeeWeb](https://keeweb.info/) / Desktop and Web / [GitHub](https://github.com/keeweb/keeweb)
+* [LessPass](https://lesspass.com/) / Stateless Password Manager / Android, iOS. Web
+* [KeeWeb](https://keeweb.info/) / Windows, Mac, Linux, Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
 * [Strongbox](https://strongboxsafe.com/) / Mac, iOS
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
