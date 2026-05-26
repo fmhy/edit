@@ -1,4 +1,5 @@
 import { execSync } from 'node:child_process'
+import crypto from 'node:crypto'
 import fs from 'node:fs'
 import path from 'node:path'
 
@@ -113,6 +114,7 @@ function generateRemovedSites() {
     const msg = msgParts.join('---MSG---')
 
     let currentFile = ''
+    let currentLineNum = 0
     const deletions = []
     const additions = []
 
@@ -120,16 +122,37 @@ function generateRemovedSites() {
       const line = lines[i]
       if (line.startsWith('diff --git')) {
         currentFile = line.split(' b/')[1]
+        currentLineNum = 0
+        continue
       }
 
       if (isIgnored(currentFile)) {
         continue
       }
 
-      if (line.startsWith('-') && line.includes('](')) {
-        deletions.push({ text: line.substring(1), file: currentFile })
-      } else if (line.startsWith('+') && line.includes('](')) {
-        additions.push(line.substring(1))
+      if (line.startsWith('@@ ')) {
+        const match = line.match(/^@@ -(\d+)(?:,\d+)? \+(\d+)(?:,\d+)? @@/)
+        if (match) {
+          currentLineNum = parseInt(match[1], 10)
+        }
+        continue
+      }
+
+      if (line.startsWith('-')) {
+        if (line.includes('](')) {
+          deletions.push({
+            text: line.substring(1),
+            file: currentFile,
+            lineNum: currentLineNum
+          })
+        }
+        currentLineNum++
+      } else if (line.startsWith('+')) {
+        if (line.includes('](')) {
+          additions.push(line.substring(1))
+        }
+      } else if (line.startsWith(' ')) {
+        currentLineNum++
       }
     }
 
@@ -174,6 +197,7 @@ function generateRemovedSites() {
             text: cleanText,
             urls,
             file: del.file,
+            lineNum: del.lineNum,
             hash,
             msg: cleanMsg,
             pr,
@@ -207,7 +231,12 @@ function generateRemovedSites() {
     markdown += `No sites were removed in the last ${DAYS} days.\n`
   } else {
     for (const site of sortedRemoved) {
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}`
+      const fileHash = crypto
+        .createHash('sha256')
+        .update(site.file)
+        .digest('hex')
+      const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
+      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
       const prLink = site.pr
         ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
         : ''
