@@ -49,14 +49,13 @@
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)** / [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
 * ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / Mac, iOS
 * [AuthPass](https://authpass.app/) / All Platforms
-* [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
-* [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 * [LessPass](https://lesspass.com/) / Stateless Password Manager / Mobile and Web
 * [KeeWeb](https://keeweb.info/) / Desktop and Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
-* [Strongbox](https://strongboxsafe.com/) / Apple iOs
-* [gopass](https://github.com/gopasspw/gopass) / CLI Password Manager
+* [Strongbox](https://strongboxsafe.com/) / Mac, iOS
+* [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
+* [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux / [GitHub](https://github.com/gopasspw/gopass)
 
 ***
 
