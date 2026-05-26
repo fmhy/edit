@@ -575,6 +575,7 @@
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
+* [FontGenixy Instagram Font Generator](https://fontgenixy.com/instagram-font-generator/)
 
 ***
 
@@ -623,3 +624,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [FontGenixy](https://fontgenixy.com/)
