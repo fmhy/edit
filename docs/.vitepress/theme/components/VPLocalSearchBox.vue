@@ -125,8 +125,31 @@ const { localeIndex, theme } = vitePressData
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
 const customMetadata = shallowRef<
-  Record<string, { l?: string[]; b?: string[]; s?: string[] }>
+  Record<string, { l?: string[]; s?: string[] }>
 >({})
+
+const globalLinksData = computed(() => {
+  const globalStarredLinks = new Set<string>()
+  const globalLinks = new Set<string>()
+  for (const key in customMetadata.value) {
+    const item = customMetadata.value[key]
+    if (item.s) {
+      for (const phrase of item.s) {
+        for (const w of tokenizeIndexLike(phrase, true)) {
+          globalStarredLinks.add(w)
+        }
+      }
+    }
+    if (item.l) {
+      for (const phrase of item.l) {
+        for (const w of tokenizeIndexLike(phrase, true)) {
+          globalLinks.add(w)
+        }
+      }
+    }
+  }
+  return { globalStarredLinks, globalLinks }
+})
 
 // \u26A0 tokenizeIndexLike duplicates the tokenize + processTerm logic from
 // constants.ts (miniSearch.options).  If you change the split regex, stop
@@ -168,7 +191,12 @@ function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
 const searchIndex = computedAsync(async () => {
   const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
   if (!rawIndex) return null
-  const parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
+  let parsed: any
+  try {
+    parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
+  } catch {
+    return null
+  }
   customMetadata.value = parsed?.customMetadata || {}
   return markRaw(
     MiniSearch.loadJS<Result>(parsed, {
@@ -176,8 +204,8 @@ const searchIndex = computedAsync(async () => {
       storeFields: ['title', 'titles'],
       tokenize: (text: string) =>
         text
-          .replace(/[\u2060\u200B]/g, '')
-          .split(/[^a-zA-Z0-9\u00C0-\u00FF-]+/)
+          .replace(INVISIBLE_CHARS_RE, '')
+          .split(TOKEN_SPLIT_RE)
           .filter((t) => t),
       searchOptions: {
         fuzzy: false,
@@ -279,7 +307,6 @@ const autoSuggestions = computed(() => {
   if (
     !filterText.value ||
     results.value.length > 0 ||
-    isFuzzySearch.value ||
     !searchIndex.value
   )
     return []
@@ -293,30 +320,7 @@ const autoSuggestions = computed(() => {
       prefix: true
     }) as { suggestion: string; terms: string[]; score: number }[]
 
-    const globalStarredLinks = new Set<string>()
-    const globalLinks = new Set<string>()
-
-    for (const key in customMetadata.value) {
-      const item = customMetadata.value[key]
-      if (item.s) {
-        for (const phrase of item.s) {
-          for (const w of tokenizeIndexLike(phrase, true)) {
-            globalStarredLinks.add(w)
-          }
-        }
-      }
-      // Bold-without-star (item.b) and regular links (item.l) are both
-      // "linkable but not curated" – fold into one bucket.
-      const otherLists = [item.b, item.l]
-      for (const list of otherLists) {
-        if (!list) continue
-        for (const phrase of list) {
-          for (const w of tokenizeIndexLike(phrase, true)) {
-            globalLinks.add(w)
-          }
-        }
-      }
-    }
+    const { globalStarredLinks, globalLinks } = globalLinksData.value
 
     const cleanQuery = query.toLowerCase()
     const sortedSuggestions = [...rawSuggestions].sort((a, b) => {
@@ -582,9 +586,6 @@ debouncedWatch(
       }
 
       processPhrases(meta?.s, true)
-      // meta.b (bold-without-star, e.g. index labels) folds into the regular
-      // link tier \u2013 bold alone is not a curated signal.
-      processPhrases(meta?.b, false)
       processPhrases(meta?.l, false)
 
       return {
@@ -1049,6 +1050,7 @@ function filterResults(
 ) {
   const clean = (s: string) =>
     s
+      .replace(INVISIBLE_CHARS_RE, '')
       .replace(/<[^>]*>/g, ' ')
       .replace(/\s+/g, ' ')
       .trim()
@@ -1516,13 +1518,18 @@ function onMouseMove(e: MouseEvent) {
 
 function isSamePageComparison(destPath: string) {
   if (!destPath) return true
+  const base = vitePressData.site?.value?.base || '/'
   const clean = (p: string) => {
-    return p
+    let cleaned = p
       .replace(/^\.?\//, '/')
       .replace(/\.html$/, '')
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
+    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+      cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
+    }
+    return cleaned || '/'
   }
   const current = clean(window.location.pathname) || '/'
   const dest = clean(destPath) || '/'
@@ -2474,13 +2481,6 @@ svg {
   to {
     transform: rotate(360deg);
   }
-}
-
-.result-section {
-  font-size: 0.7rem;
-  opacity: 0.5;
-  margin-top: 2px;
-  padding: 0 2px;
 }
 
 .no-results-actions {

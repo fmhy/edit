@@ -241,7 +241,7 @@ export const search: DefaultTheme.Config['search'] = {
       options: {
         tokenize: (text: string) =>
           text
-            .replace(/[\u2060\u200B]/g, '')
+            .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h
@@ -286,19 +286,26 @@ export const search: DefaultTheme.Config['search'] = {
           const titles = ((storedFields?.titles as string[]) || [])
             .filter((t) => Boolean(t))
             .map((t) => t.toLowerCase())
-          // Downrank posts
-          if (documentId.match(/\/posts/)) return -5
-          // Downrank /other
-          if (documentId.match(/\/other/)) return -5
+
+          let boost = 1
 
           // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
           const titleIndex =
             titles
               .map((t, i) => (t?.includes(term) ? i : -1))
               .find((i) => i >= 0) ?? -1
-          if (titleIndex >= 0) return 10000 - titleIndex
+          if (titleIndex >= 0) {
+            boost = 10000 - titleIndex
+          }
 
-          return 1
+          // Downrank posts and other pages
+          if (documentId.match(/\/posts/)) {
+            boost *= 0.1
+          } else if (documentId.match(/\/other/)) {
+            boost *= 0.1
+          }
+
+          return boost
         }
       }
     } as any,
