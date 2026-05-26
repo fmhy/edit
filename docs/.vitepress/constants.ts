@@ -28,12 +28,20 @@ export * from './shared'
 // Bold-without-star is just an index label, no special ranking – folded into l.
 const globalLinkMetadata: Record<string, { l: string[]; s: string[] }> = {}
 
-// Override MiniSearch.prototype.toJSON to inject customMetadata
+// Inject customMetadata into the serialized MiniSearch index so the client
+// can read it back via MiniSearch.loadJS.  This patches the prototype because
+// VitePress controls serialization internally — there's no cleaner hook.
+// If MiniSearch ever drops toJSON, the build will still work; the metadata
+// just won't be attached (and the client already falls back to {}).
 const originalToJSON = MiniSearch.prototype.toJSON
-MiniSearch.prototype.toJSON = function () {
-  const json = originalToJSON.call(this) as any
-  json.customMetadata = globalLinkMetadata
-  return json
+if (typeof originalToJSON === 'function') {
+  MiniSearch.prototype.toJSON = function () {
+    const json = originalToJSON.call(this)
+    if (json && typeof json === 'object') {
+      ;(json as Record<string, unknown>).customMetadata = globalLinkMetadata
+    }
+    return json
+  }
 }
 
 function getDocId(file: string) {
@@ -226,11 +234,15 @@ export const search: DefaultTheme.Config['search'] = {
         }
         return sections
       },
+      // \u26A0 tokenize + processTerm are duplicated in VPLocalSearchBox.vue's
+      // tokenizeIndexLike().  If you change the split regex, stop words, or
+      // min-length here, update the copy there too \u2014 search ranking breaks
+      // silently when they disagree.
       options: {
         tokenize: (text: string) =>
           text
             .replace(/[\u2060\u200B]/g, '')
-            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u), // simplified charset: removed [-_.@] and non-english chars (diacritics etc.)
+            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h
           term = term

@@ -1,6 +1,17 @@
 <script lang="ts">
 import { ref } from 'vue'
 
+const RESULTS_PAGE_SIZE = 16
+const MAX_RESULTS_IN_MEMORY = 200
+const MAX_SUBSTRING_TERMS = 100
+const MAX_RECENT_SEARCHES = 20
+const MAX_SUGGESTIONS = 3
+const SEARCH_DEBOUNCE_MS = 350
+const FUZZY_THRESHOLD = 0.2
+const MIN_CANDIDATE_POOL = 32
+const MARK_MERGE_DISTANCE_PX = 20
+const MARK_SAME_LINE_THRESHOLD_PX = 5
+
 // Permanent global cache for rendered excerpts keyed by page ID (build output is stable)
 const globalExcerptCache = new Map<string, Map<string, string>>()
 
@@ -13,7 +24,6 @@ const globalAllResults = ref<any[]>([])
 const globalTotalResultsCount = ref(0)
 const globalResultMarks = ref<Map<number, HTMLElement[][]>>(new Map())
 const globalCurrentMarkIndex = ref<Map<number, number>>(new Map())
-const RESULTS_PAGE_SIZE = 16
 const globalResultLimit = ref(RESULTS_PAGE_SIZE)
 const globalUsedSubstringExpansion = ref(false)
 const globalMayHaveMore = ref(false)
@@ -118,8 +128,10 @@ const customMetadata = shallowRef<
   Record<string, { l?: string[]; b?: string[]; s?: string[] }>
 >({})
 
-// Mirrors the build-time tokenize + processTerm logic in constants.ts so
-// metadata phrases tokenize to the same atoms MiniSearch stores in r.terms.
+// \u26A0 tokenizeIndexLike duplicates the tokenize + processTerm logic from
+// constants.ts (miniSearch.options).  If you change the split regex, stop
+// words, or min-length there, update this copy too \u2014 ranking breaks silently
+// when they disagree.
 const TOKEN_STOP_WORDS = new Set([
   'frontmatter',
   '$frontmatter.synopsis',
@@ -131,23 +143,22 @@ const TOKEN_STOP_WORDS = new Set([
   'with',
   'you'
 ])
-// Zero-width / word-joiner characters the wiki sprinkles inside text (kept in
-// sync with the build-time stripper in constants.ts).
 const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
+const TOKEN_SPLIT_RE = /[\n\r #%*,=/:;?[\]{}()&]+/u
+const MIN_TERM_LENGTH = 2
 
 function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
   const out: string[] = []
-  const raw = text
-    .replace(INVISIBLE_CHARS_RE, '')
-    .split(/[\n\r #%*,=/:;?[\]{}()&]+/u)
+  const raw = text.replace(INVISIBLE_CHARS_RE, '').split(TOKEN_SPLIT_RE)
   for (const piece of raw) {
     if (!piece) continue
     const t = piece.trim().toLowerCase().replace(/^\.+/, '').replace(/\.+$/, '')
-    if (t.length < 2 || TOKEN_STOP_WORDS.has(t)) continue
+    if (t.length < MIN_TERM_LENGTH || TOKEN_STOP_WORDS.has(t)) continue
     out.push(t)
     if (splitDottedParts && t.includes('.')) {
       for (const part of t.split('.')) {
-        if (part.length >= 2 && !TOKEN_STOP_WORDS.has(part)) out.push(part)
+        if (part.length >= MIN_TERM_LENGTH && !TOKEN_STOP_WORDS.has(part))
+          out.push(part)
       }
     }
   }
@@ -330,7 +341,7 @@ const autoSuggestions = computed(() => {
     return sortedSuggestions
       .map((s) => s.suggestion)
       .filter((s) => s && !/\s/.test(s) && s !== query.toLowerCase())
-      .slice(0, 3)
+      .slice(0, MAX_SUGGESTIONS)
   } catch {
     return []
   }
@@ -453,12 +464,12 @@ debouncedWatch(
             {
               queries: parts,
               combineWith: 'AND',
-              fuzzy: 0.2
+              fuzzy: FUZZY_THRESHOLD
             },
             {
               queries: [dashed],
               combineWith: 'AND',
-              fuzzy: 0.2
+              fuzzy: FUZZY_THRESHOLD
             }
           ]
         }
@@ -481,7 +492,7 @@ debouncedWatch(
       if (candidateTerms.length > 0) {
         // Sort by length ascending so shorter words win the cap
         candidateTerms.sort((a, b) => a.length - b.length)
-        const capped = candidateTerms.slice(0, 100) // [B5] Substring expansion cap
+        const capped = candidateTerms.slice(0, MAX_SUBSTRING_TERMS)
         usedSubstringExpansion.value = true
         query = {
           combineWith: 'OR',
@@ -493,7 +504,10 @@ debouncedWatch(
     // fuzzy only matters for string queries; structured queries carry their own per-clause fuzzy
     const searchOptions = {
       combineWith: 'AND',
-      fuzzy: isFuzzySearch.value && typeof query === 'string' ? 0.2 : false
+      fuzzy:
+        isFuzzySearch.value && typeof query === 'string'
+          ? FUZZY_THRESHOLD
+          : false
     }
 
     // Search and retrieve all matches (up to 200 max in memory)
@@ -502,7 +516,7 @@ debouncedWatch(
 
     const sidebarItems = Array.isArray(sidebar) ? sidebar : []
     const currentResults: (SearchResult & Result)[] = rawResults
-      .slice(0, 200)
+      .slice(0, MAX_RESULTS_IN_MEMORY)
       .map((r) => {
         const [id] = r.id.split('#')
         const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
@@ -614,7 +628,7 @@ debouncedWatch(
     globalLastDetailed.value = showDetailedList.value
     globalUsedSubstringExpansion.value = usedSubstringExpansion.value
   },
-  { debounce: 350, immediate: true }
+  { debounce: SEARCH_DEBOUNCE_MS, immediate: true }
 )
 
 // 2. Synchronous Watcher: Handles slicing, excerpt fetching, DOM rendering, and highlight marking instantly
@@ -659,7 +673,7 @@ watch(
     if (showDetailedListValue && isExactSearch) {
       // For exact search, we fetch excerpts for a dynamic candidate pool
       // to ensure contiguous phrase matches are not lost due to ranking.
-      const candidateLimit = Math.max(32, limit * 2)
+      const candidateLimit = Math.max(MIN_CANDIDATE_POOL, limit * 2)
       const candidates = allRes.slice(0, candidateLimit)
 
       const candidatesToFetch = candidates.filter((r) => {
@@ -816,9 +830,9 @@ watch(
  * This reduces the number of navigation stops in fuzzy mode where
  * each individual word match would otherwise be a separate highlight.
  *
- * Merging criteria:
- * - Marks must be on the same line (within 5px vertical distance)
- * - Marks must be close horizontally (< 20px apart)
+ * Merging criteria (tuned via constants at top of file):
+ * - Marks must be on the same line (within MARK_SAME_LINE_THRESHOLD_PX)
+ * - Marks must be close horizontally (< MARK_MERGE_DISTANCE_PX)
  */
 function mergeNearbyMarks() {
   const excerpts = Array.from(
@@ -848,9 +862,10 @@ function mergeNearbyMarks() {
       }
 
       const distance = rects[i + 1].left - rects[i].right
-      const onSameLine = Math.abs(rects[i].top - rects[i + 1].top) < 5
+      const onSameLine =
+        Math.abs(rects[i].top - rects[i + 1].top) < MARK_SAME_LINE_THRESHOLD_PX
 
-      if (distance >= 0 && distance < 20 && onSameLine) {
+      if (distance >= 0 && distance < MARK_MERGE_DISTANCE_PX && onSameLine) {
         let node = marks[i].nextSibling
         while (node && node !== marks[i + 1]) {
           const next = node.nextSibling
@@ -1357,7 +1372,7 @@ function addRecentSearch(query: string) {
   recentSearches.value = [
     q,
     ...recentSearches.value.filter((s) => s !== q)
-  ].slice(0, 20)
+  ].slice(0, MAX_RECENT_SEARCHES)
 }
 
 function removeRecentSearch(query: string) {
