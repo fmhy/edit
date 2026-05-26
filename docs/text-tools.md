@@ -492,10 +492,10 @@
 # ► Fonts
 
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer / Terminal Fonts
+* ⭐ **[Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/)** - Oldschool PC Fonts
 * [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
-* [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 * [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
 
 ***
