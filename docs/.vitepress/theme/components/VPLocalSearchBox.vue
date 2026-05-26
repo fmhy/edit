@@ -1658,6 +1658,13 @@ function fastScrollTo(targetY: number, duration = 150) {
               @input="handleInput"
             />
             <div class="search-actions">
+              <span
+                v-if="isSearching"
+                class="vp-search-spinner"
+                style="align-self: center; margin: 0 4px"
+                :title="customTitles.searching"
+              />
+
               <button
                 v-if="!disableDetailedView"
                 class="toggle-layout-button"
@@ -1691,12 +1698,6 @@ function fastScrollTo(targetY: number, duration = 150) {
                 </span>
               </button>
 
-              <span
-                v-if="isSearching"
-                class="vp-search-spinner"
-                style="align-self: center; margin: 0 4px"
-                :title="customTitles.searching"
-              />
               <button
                 class="clear-button"
                 type="reset"
