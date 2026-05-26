@@ -197,7 +197,7 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [Nightly.link](https://nightly.link/) - GitHub Shareable Nightly Links
-* [⁠GhGrab](https://ghgrab.readthedocs.io/) - GitHub Specific File Downloader 
+* [⁠GhGrab](https://ghgrab.readthedocs.io/) - GitHub Specific File Downloader / [GitHub](https://github.com/abhixdd/ghgrab)
 * [act](https://nektosact.com/) - Run GitHub Actions Locally / [GitHub](https://github.com/nektos/act)
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
