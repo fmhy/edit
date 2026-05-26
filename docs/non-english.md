@@ -1771,6 +1771,7 @@
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
 * [rophim](https://rophim1.vip/) - Movies / TV / Anime
+* [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p
