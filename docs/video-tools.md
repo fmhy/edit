@@ -226,7 +226,7 @@
 
 ## ▷ Stream Sync
 
-* ⭐ **[Synkplay](https://syncplay.pl/)** - App
+* ⭐ **[Syncplay](https://syncplay.pl/)** - App / [GitHub](https://github.com/Syncplay/syncplay)
 * ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
