@@ -476,3 +476,13 @@ body,
   min-height: 100vh;
   min-height: 100dvh;
 }
+/* Align inline platform and social icons (Discord, Reddit, Tor, etc.) relative to text baseline */
+.vp-doc [class*='i-'] {
+  vertical-align: -0.24em;
+}
+
+/* Align tooltips and their wrappers relative to text baseline (less negative since they baseline-align slightly lower) */
+.vp-doc .tooltip-trigger,
+.vp-doc .v-popper {
+  vertical-align: -0.15em;
+}

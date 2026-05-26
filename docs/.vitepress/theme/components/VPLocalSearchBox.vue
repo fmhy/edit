@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref } from 'vue'
+import { ref, h } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -44,7 +44,6 @@ import {
   useSessionStorage
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
-import FloatingVue from 'floating-vue'
 import Mark from 'mark.js/src/vanilla.js'
 import MiniSearch from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
@@ -774,17 +773,22 @@ watch(
         '.result-item:not(.result-list-leave-active) .result .excerpt'
       ) ?? []
     ) as HTMLElement[]
+    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
     for (const excerpt of excerpts) {
       const markElement = excerpt.querySelector(
         'mark[data-markjs="true"]'
       ) as HTMLElement | null
       if (markElement) {
         const markRelTop = getRelativeOffsetTop(markElement, excerpt)
-        excerpt.scrollTop =
+        const scrollTop =
           markRelTop -
           (excerpt.clientHeight || 80) / 2 +
           markElement.offsetHeight / 2
+        scrollTargets.push({ excerpt, scrollTop })
       }
+    }
+    for (const { excerpt, scrollTop } of scrollTargets) {
+      excerpt.scrollTop = scrollTop
     }
 
     /**
@@ -985,6 +989,13 @@ interface VitePressData {
   page: Ref<{ params?: unknown }>
 }
 
+const VDropdownStub = {
+  name: 'VDropdown',
+  render(this: any) {
+    return h('span', { class: 'v-popper' }, this.$slots.default?.())
+  }
+}
+
 async function processExcerpts(
   mods: { id: string; mod: ComponentModule }[],
   vitePressData: VitePressData,
@@ -1002,7 +1013,7 @@ async function processExcerpts(
     if (comp && typeof comp === 'object' && (comp.render || comp.setup)) {
       try {
         const app = createApp(comp as Component)
-        app.use(FloatingVue)
+        app.component('VDropdown', VDropdownStub)
         app.component('Tooltip', Tooltip)
         app.config.warnHandler = () => {}
         app.provide(dataSymbol, vitePressData)
@@ -1448,6 +1459,11 @@ function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
   for (let i = 1; i < marks.length; i++) {
     const prev = marks[i - 1]
     const curr = marks[i]
+    if (prev.parentNode !== curr.parentNode) {
+      groups.push(currentGroup)
+      currentGroup = [curr]
+      continue
+    }
     try {
       const range = document.createRange()
       range.setStartAfter(prev)
