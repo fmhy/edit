@@ -683,7 +683,6 @@
 
 ## ▷ Launchers
 
-* ↪️ **[Premium-Only Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_premium_only_launchers)** - Launchers that Require Official Account
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/ElyPrismLauncher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher / [Ad Bypass](https://greasyfork.org/en/scripts/563188)
 * [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android
@@ -696,6 +695,27 @@
 * [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / Use VPN or Disable JavaScript
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Minecraft Legacy Console Edition / [Discord](https://discord.gg/Q9V9mQkHBU)
+
+***
+
+## ▷ Premium Only Launchers
+
+* **Note** - The following options require an official Minecraft account to use.
+
+***
+
+* 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
+* **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / Windows, Mac, Linux / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* **[ATLauncher](https://atlauncher.com/)** - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/B7TrrzH)
+* **[Technic Launcher](https://www.technicpack.net/)** - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/technic)
+* **[⁠LeviLauncher](https://levilauncher.levimc.org/)** - Bedrock Launcher w/ GDK Support / Windows / [GitHub](https://github.com/LiteLDev/LeviLauncher)
+* **[Bedrock Launcher](https://bedrocklauncher.github.io/)** - Bedrock Launcher / Windows (UWP Only) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
+* **[⁠FjordLauncher](https://github.com/unmojang/FjordLauncher)** - Prism Fork / Windows, Mac, Linux
+* **[⁠PandoraLauncher](https://pandora.moulberry.com/)** - Launcher / Windows, Mac, Linux / [GitHub](https://github.com/Moulberry/PandoraLauncher)
+* **[GDLauncher](https://gdlauncher.com/)** - Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/8n3NnERF22)
+* **[WineGDK](https://github.com/Weather-OS/WineGDK)** - Bedrock Launcher / Mac / Linux
+* **[Amethyst](https://github.com/AngelAuraMC/Amethyst-Android)**, **[2](https://github.com/AngelAuraMC/Amethyst-iOS)** - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
+* **[⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)** - Mobile Launcher / Android
 
 ***
 
