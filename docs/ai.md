@@ -64,6 +64,7 @@
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / Pro (Google Signup) / Fast (No Signup)
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
 * ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable)** - Multi-Model Debate AI / Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Shared Limits / No Sign Up
+* [⁠Duck.AI](https://duck.ai/) - AI Search Engine
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠iAsk AI](https://iask.ai/) - Research Chatbot
