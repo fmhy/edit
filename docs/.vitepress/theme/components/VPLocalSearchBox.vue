@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref, h } from 'vue'
+import { h, ref } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -27,6 +27,7 @@ const globalCurrentMarkIndex = ref<Map<number, number>>(new Map())
 const globalResultLimit = ref(RESULTS_PAGE_SIZE)
 const globalUsedSubstringExpansion = ref(false)
 const globalMayHaveMore = ref(false)
+const globalIsAnon = ref(false)
 </script>
 
 <script lang="ts" setup>
@@ -122,6 +123,8 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+
+const isAnon = globalIsAnon
 
 const customMetadata = shallowRef<
   Record<string, { l?: string[]; s?: string[] }>
@@ -303,11 +306,7 @@ const recentSearches = useLocalStorage<string[]>(
 const shouldResetScroll = ref(false)
 
 const autoSuggestions = computed(() => {
-  if (
-    !filterText.value ||
-    results.value.length > 0 ||
-    !searchIndex.value
-  )
+  if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
 
   const query = filterText.value.trim()
@@ -1246,7 +1245,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    addRecentSearch(filterText.value)
+    if (!isAnon.value) addRecentSearch(filterText.value)
     router.go(selectedPackage.id)
     close()
   }
@@ -1403,7 +1402,7 @@ function handleResultClick(e: MouseEvent, id: string) {
     return
   }
   e.preventDefault()
-  addRecentSearch(filterText.value)
+  if (!isAnon.value) addRecentSearch(filterText.value)
 
   const [path, hash] = id.split('#')
   let decodedHash: string | null = null
@@ -1542,7 +1541,10 @@ function isSamePageComparison(destPath: string) {
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
-    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+    if (
+      base !== '/' &&
+      cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))
+    ) {
       cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
     }
     return cleaned || '/'
@@ -1699,6 +1701,54 @@ function fastScrollTo(targetY: number, duration = 150) {
               </button>
 
               <button
+                class="toggle-anon-button"
+                type="button"
+                :class="{ 'anon-active': isAnon }"
+                :aria-pressed="isAnon"
+                :title="
+                  isAnon
+                    ? 'Anon mode active - searches not saved'
+                    : 'Anon mode off - searches will be saved'
+                "
+                @click="isAnon = !isAnon"
+              >
+                <svg
+                  v-if="isAnon"
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94"
+                  />
+                  <path
+                    d="M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19"
+                  />
+                  <line x1="1" y1="1" x2="23" y2="23" />
+                  <path d="M14.12 14.12a3 3 0 1 1-4.24-4.24" />
+                </svg>
+                <svg
+                  v-else
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                  <circle cx="12" cy="12" r="3" />
+                </svg>
+              </button>
+
+              <button
                 class="clear-button"
                 type="reset"
                 :disabled="disableReset"
@@ -1839,7 +1889,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                 </div>
               </li>
               <li
-                v-if="!filterText && recentSearches.length"
+                v-if="!filterText && recentSearches.length && !isAnon"
                 key="recent-searches"
                 class="recent-searches"
               >
@@ -1867,6 +1917,34 @@ function fastScrollTo(targetY: number, duration = 150) {
                     </button>
                   </div>
                 </div>
+              </li>
+              <li
+                v-else-if="!filterText && isAnon"
+                key="anon-placeholder"
+                class="anon-placeholder"
+              >
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94"
+                  />
+                  <path
+                    d="M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19"
+                  />
+                  <line x1="1" y1="1" x2="23" y2="23" />
+                  <path d="M14.12 14.12a3 3 0 1 1-4.24-4.24" />
+                </svg>
+                <span class="anon-placeholder-text">
+                  Anon mode — searches won't be saved
+                </span>
               </li>
               <li
                 v-if="
@@ -2687,6 +2765,35 @@ svg {
 .toggle-fuzzy-button.fuzzy-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+/* Anon mode toggle button */
+.toggle-anon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-anon-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-anon-button.anon-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+.anon-placeholder {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
 }
 
 .result-list-enter-active,
