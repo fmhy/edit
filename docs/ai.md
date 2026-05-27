@@ -81,6 +81,7 @@
 * [⁠Anara](https://anara.com/) - Document Chatbot
 * [⁠Paper2Gal](https://paper2gal.com/) - Turn Academic Papers into Visual Novels via AI
 * [Hyperspace](https://hyper.space/) - P2P AI Network / [GitHub](https://github.com/hyperspaceai)
+* [Zenfox](https://zenfox.ai/) - AI Assistant with automations
 
 ***
 
