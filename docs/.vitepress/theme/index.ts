@@ -19,7 +19,7 @@ import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
 import {
   pendingScrollQuery,
-  scrollToMatchInSection
+  scheduleScrollToMatch
 } from './composables/searchScroll'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
@@ -85,19 +85,8 @@ export default {
         if (pendingScrollQuery.value) {
           const query = pendingScrollQuery.value
           pendingScrollQuery.value = null
-          // Wait for the page content to render before searching the DOM
-          setTimeout(() => {
-            const hash = window.location.hash.slice(1)
-            let sectionEl: HTMLElement | null = null
-            if (hash) {
-              try {
-                sectionEl = document.getElementById(decodeURIComponent(hash))
-              } catch {
-                /* malformed URI — fall back to no section */
-              }
-            }
-            scrollToMatchInSection(sectionEl, query)
-          }, 300)
+          const hash = window.location.hash.slice(1)
+          scheduleScrollToMatch(hash, query)
         }
       }
     }

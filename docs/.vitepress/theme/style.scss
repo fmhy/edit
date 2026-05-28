@@ -403,13 +403,17 @@ body {
 /* Search result scroll-to-match highlight flash */
 .vp-search-highlight-target {
   border-radius: 4px;
-  animation: vp-search-flash 1.5s ease-out forwards;
+  padding: 2px 0;
+  animation: vp-search-flash 2s ease-out forwards;
 }
 
 @keyframes vp-search-flash {
-  0%,
-  60% {
-    background-color: var(--vp-c-yellow-3);
+  0% {
+    background-color: var(--vp-c-yellow-2, #ffd54f);
+  }
+
+  70% {
+    background-color: var(--vp-c-yellow-3, #fff176);
   }
 
   100% {

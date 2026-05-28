@@ -66,7 +66,7 @@ import {
 import { sidebar } from '../../shared'
 import {
   pendingScrollQuery,
-  scrollToMatchInSection
+  scheduleScrollToMatch
 } from '../composables/searchScroll'
 import Tooltip from './Tooltip.vue'
 
@@ -1247,9 +1247,7 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     addRecentSearch(filterText.value)
-    pendingScrollQuery.value = filterText.value
-    router.go(selectedPackage.id)
-    close()
+    navigateToResult(selectedPackage.id)
   }
 })
 
@@ -1405,7 +1403,10 @@ function handleResultClick(e: MouseEvent, id: string) {
   }
   e.preventDefault()
   addRecentSearch(filterText.value)
+  navigateToResult(id)
+}
 
+function navigateToResult(id: string) {
   const [path, hash] = id.split('#')
   let decodedHash: string | null = null
   try {
@@ -1426,13 +1427,14 @@ function handleResultClick(e: MouseEvent, id: string) {
 
       fastScrollTo(targetY, 300)
       window.history.pushState(null, '', `#${hash}`)
-      // After scrolling to the section heading, refine scroll to the exact match
-      setTimeout(() => scrollToMatchInSection(targetEl, filterText.value), 350)
+      // After scrolling to the section heading, refine scroll to the exact match.
+      // Use 350ms delay so it fires after fastScrollTo's 300ms animation finishes.
+      scheduleScrollToMatch(hash, filterText.value, 350)
       return
     }
   }
 
-  // Store query so the router hook can scroll to the match after navigation
+  // Cross-page navigation: store query for the router hook
   pendingScrollQuery.value = filterText.value
   router.go(id)
   close()
