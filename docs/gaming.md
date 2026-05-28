@@ -14,10 +14,10 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg), [2](https://discord.gg/RpxHjjXwSB)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/38bRNmKB4v)
-* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Pre-Installed / [Launcher](https://union-crax.xyz/direct)
+* ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievments / [Discord](https://discord.gg/dmjUJ4xCEV)
