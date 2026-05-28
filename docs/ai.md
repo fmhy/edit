@@ -12,10 +12,10 @@
 
 ## ▷ Official Model Sites
 
+* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max / Qwen3.7-Plus-Preview / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5.1 / GLM-5-Turbo / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
-* ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash Lite / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Meta AI](https://www.meta.ai/) - Muse Spark / Meta Sign-Up / Unlimited
@@ -42,7 +42,7 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable/chat)** - Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Shared Limits / No Sign Up
+* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable/chat)** - Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Credits Refresh Daily / No Sign Up
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 4.7 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [⁠Woozlit](https://woozlit.com/) - Sonnet 4.6 / Gemini 3.1 Pro / DeepSeek-v4-Pro / Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
@@ -63,7 +63,7 @@
 * ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / Pro (Google Signup) / Fast (No Signup)
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
-* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable)** - Multi-Model Debate AI / Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Shared Limits / No Sign Up
+* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable)** - Multi-Model Debate AI / Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Credits Refresh Daily / No Sign Up
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠iAsk AI](https://iask.ai/) - Research Chatbot

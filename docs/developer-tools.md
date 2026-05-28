@@ -733,6 +733,7 @@
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
 * ⭐ **[PlayWright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://extension.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
+* [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [⁠Tech Playground](https://tech-playground.com/) - Playground for Server-Side Tech 
@@ -1095,6 +1096,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
+* [masscan](https://github.com/robertdavidgraham/masscan) or [Rang3r](https://github.com/floriankunushevci/rang3r) - Port Scanners
 * [Nuclei](https://docs.projectdiscovery.io/tools/nuclei) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://www.sniffnet.net/) / [GitHub](https://github.com/GyulyVGC/sniffnet) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)

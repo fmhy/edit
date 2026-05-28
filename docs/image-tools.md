@@ -394,7 +394,7 @@
 
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[Yandex Images](https://yandex.com/images/)** or [Mavink](https://mavink.com/) - Image Search
-* ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / [Extension](https://saucenao.com/tools/)
+* ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / Some NSFW / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://www.google.com/?olud)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)

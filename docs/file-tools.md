@@ -181,7 +181,7 @@
 * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
-* [⁠HashCheck](https://github.com/idrassi/HashCheck) - Checksum / Hash Verifier 
+* [⁠HashCheck](https://github.com/idrassi/HashCheck) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
 * [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
 * [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
@@ -320,7 +320,7 @@
 
 ***
 
-* 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts) or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
+* 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts), **[Awesome Free File Hosting](https://github.com/Nick088Official/awesome-free-file-hosting)** or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
@@ -368,6 +368,7 @@
 * [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Codeberg](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever

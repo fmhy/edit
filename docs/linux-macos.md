@@ -21,6 +21,7 @@
 * [Linux Roadmap](https://roadmap.sh/linux) - Linux Learning Roadmap
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
+* [⁠Wikiman](https://github.com/filiparag/wikiman) - Offline Linux Documentation Search
 
 ***
 
@@ -376,7 +377,6 @@
 * [Netcat](https://rentry.co/Netcat) - Networking Tool
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool
 * [iperf](https://github.com/esnet/iperf) - Network Bandwidth Test
-* [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
@@ -812,7 +812,6 @@
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
-* [alt-tab-macos](https://alt-tab-macos.netlify.app/) - Windows-Style Alt-Tab for Mac
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars

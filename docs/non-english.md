@@ -458,6 +458,7 @@
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [French Stream](https://fs09.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
+* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.health/) - Movies / TV / Anime / Use Adblocker
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
@@ -548,11 +549,12 @@
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * [KinoZ](https://www21.kinox.to/) - Movies / TV / Anime
+* [Chillflix](https://chillflix.to/) - Movies / TV / Anime
 * [Cineby](https://www.cineby.gd/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [Cine](https://cine.to/) - Movies / TV / Dub / 720p
-* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
+* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
 * [megakino3](https://megakino3.tv/) - Movies / TV / Anime
 * [StreamCloud](https://streamcloud.my) - Movies / TV / 720p
@@ -838,7 +840,7 @@
 * [StreamingCommunity](https://streamingcommunityz.ninja/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [CB01](https://cb01uno.world/) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
+* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
 * [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Requires Italian VPN / Sign-Up Unlocks Channel History
 * [AnimeWorld](https://www.animeworld.ac/) - Anime / Sub / Dub / 1080p / [Mirrors](https://www.animeworlditalia.com/) / [Telegram](https://t.me/AnimeWorldITA2)
@@ -1522,7 +1524,7 @@
 * [La Movie](https://la.movie/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [cineplus](https://www.cineplus.lat) - Movies / TV
-* [Aether](https://aether.mom/), [2](https://aether.bar/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
+* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino

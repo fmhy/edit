@@ -91,7 +91,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
 * **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://rcostation.xyz/) / [GetComics](https://getcomics.org/)**
-* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
+* **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
 ***

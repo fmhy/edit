@@ -807,7 +807,6 @@
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)**
 * ⭐ **[Librera](https://librera.mobi/)** - Ebook Reader
 * ⭐ **[Moon+ Reader](https://www.moondownload.com/)** - Ebook Reader / [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme)
-* ⭐ **[Legado](https://github.com/gedoor/legado/blob/master/English.md)** or [Legado MD3](https://github.com/HapeLee/legado-with-MD3/releases) - Ebook Reader
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
 * ⭐ **[Voice](https://voice.woitaschek.de/)** - Audiobook Player / [GitHub](https://github.com/PaulWoitaschek/Voice/)
 * ⭐ **[Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer)** - Audiobook Player
@@ -815,6 +814,7 @@
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
 * [PlayBook](https://github.com/Goodwy/PlayBook) - Audiobook Player
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
+* [Legado MD3](https://github.com/HapeLee/legado-with-MD3/releases) - Ebook Reader
 * [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) - Ebook Reader
 * [JellyBook](https://github.com/JellyBookOrg/JellyBook) - Ebook Reader
 * [Chaka](https://github.com/elementdavv/chaka) - Ebook Reader
@@ -896,6 +896,7 @@
 * [AIMP](https://www.aimp.ru/?do=download&os=android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
 * [⁠Eclipse](https://eclipsemusic.app/) / [Discord](https://discord.gg/sNG37F27eY)
+* [PixelPlayer](https://github.com/theovilardo/PixelPlayer)
 * [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)
 * [Rhythm](https://rhythmweb.vercel.app/) / [GitHub](https://github.com/cromaguy/Rhythm)
 * [Symphony](https://zyrouge.github.io/symphony/) / [GitHub](https://github.com/zyrouge/symphony)
@@ -1007,7 +1008,7 @@
 
 ## ▷ Android Video Players
 
-* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**
+* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)** or [mpvRx](https://github.com/Riteshp2001/mpvRx)
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
@@ -1307,7 +1308,7 @@
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights
 * [Chan](https://github.com/moffatman/chan) - 4chan App
-* [SCInsta](https://github.com/SoCuul/SCInsta) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
+* [SCInsta](https://github.com/SoCuul/SCInsta), [⁠RyukGram](https://github.com/faroukbmiled/RyukGram) / [Telegram](https://t.me/ryukgram) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats

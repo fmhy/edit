@@ -189,9 +189,10 @@
 * [⁠Layouts Wiki](https://layouts.wiki/) - Alt Typing Layouts Wiki 
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/), [⁠TypeGG](https://typegg.io/) / [Discord](https://discord.com/invite/64v955z) or [typing.works](https://typing.works/) - Typing Tests
+* [⁠ttyper](https://github.com/max-niederman/ttyper) or [⁠Smassh](https://github.com/kraanzu/smassh) - Typing Test TUIs
 * [Typing.com](https://www.typing.com/) - Touch Typing Lessons
 * [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
-* [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires JavaScript Enabled
+* [typing.academy](https://www.typing.academy/) - Typing Lessons
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
@@ -246,7 +247,6 @@
 * [Papers.IM](https://papers.im/) - Note-Taking / Web
 * [Joplin](https://joplinapp.org/) - Note-Taking / All Platforms / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
 * [MicroPad](https://getmicropad.com/) - Note-Taking / Windows, Mac, Linux / [Web](https://web.getmicropad.com/)
-* [WriteDown](https://writedown.app/) - Note-Taking / Web / [GitHub](https://github.com/NayamAmarshe/writedown)
 * [DocMost](https://docmost.com/) - Note-Taking / Self-Hosted / [GitHub](https://github.com/docmost/docmost)
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE / Windows
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / Windows, Android / [GitHub](https://github.com/martinstoeckli/SilentNotes)

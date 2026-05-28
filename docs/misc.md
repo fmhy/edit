@@ -132,7 +132,7 @@
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
-* [⁠LocalHarvest](https://www.localharvest.org/) or [⁠USDA Local Food Portal](https://www.usdalocalfoodportal.com/) - Find Local Farms / Farmers' Markets (US only)
+* [⁠LocalHarvest](https://www.localharvest.org/), [⁠Local Picks](https://localpicks.org/) or [⁠USDA Local Food Portal](https://www.usdalocalfoodportal.com/) - Find Local Farms / Farmers' Markets (US only)
 * [⁠Produce Converter](https://www.howmuchisin.com/produce_converters) - Produce Converter / Calculator
 * [DoesItGoBad.com](https://www.doesitgobad.com/) - Food Storage Tips
 * [Heard.](https://heardnyc.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
@@ -324,7 +324,7 @@
 * [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
 * [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
 * [⁠SeatMaps](https://seatmaps.com/) - Flight Seat Data / Reviews
-* [seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)
+* [seats.aero](https://seats.aero/) - Flight Search Engine / [X](https://x.com/seatsaero) / [Discord](https://discord.gg/PaHdCqb7eh)
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
@@ -1661,7 +1661,6 @@
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [LiveCam Croatia](https://www.livecamcroatia.com/en)
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
-* [BirdCAMs](https://birdcams.live/) - Bird Nests
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
 * [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Public Surveillance Webcams

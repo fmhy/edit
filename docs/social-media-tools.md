@@ -72,7 +72,7 @@
 ## ▷ Discord Clients
 
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Clients Index
-* ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins]([https://vencord.dev/plugins)
+* ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins](https://vencord.dev/plugins)
 * ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
@@ -93,7 +93,7 @@
 * ⭐ **[Discohook](https://discohook.app/)**, [Embed Creator](https://embed.dan.onl/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** / [GitHub](https://github.com/maximmax42/Discord-CustomRP) or [geetRPCS](https://geetrpcs.vercel.app/) / [GitHub](https://github.com/makcrtve/geetRPCS) - Customizable Rich Presence
 * [BD Editor](https://bdeditor.dev/) - Client Theme Editor
-* [Overlayed](https://overlayed.dev/) - Alternative Discord VC Overlay / [GitHub](https://github.com/overlayeddev/overlayed)
+* [Overlayed](https://overlayed.dev/) / [GitHub](https://github.com/overlayeddev/overlayed) or [⁠Orbolay](https://github.com/SpikeHD/Orbolay) - Alternative Discord Overlays 
 * [Coloured-Text-Generator](https://rebane2001.com/discord-colored-text-generator/) - Discord ANSI Text Generator
 * [Auto Creavite](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Discord Avatar Creator
@@ -212,7 +212,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted Reddit Posts / Comments
+* [Reveddit](https://www.reveddit.com/), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Redditle](https://redditle.com/) - Reddit-Only Google Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
@@ -564,7 +564,7 @@
 ## ▷ Twitter/X Archiving
 
 * [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter Backup Tool
-* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest), [⁠twmd](https://github.com/mmpx12/twitter-media-downloader) or [InThisTweet](https://inthistweet.app/) - Twitter Media Downloaders
+* [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Twitter Media Downloader
 * [Twitsave](https://twitsave.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Ghost Archive](https://ghostarchive.org/) or [Megalodon](https://megalodon.jp/) - Twitter Archive Services

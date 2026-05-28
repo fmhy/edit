@@ -206,7 +206,7 @@
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
-* [AVPlayer](http://www.awesomevideoplayer.com/), [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
+*[GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [SMTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
@@ -250,7 +250,6 @@
 * 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
 * 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
-* [⁠Flower's MPV Config](https://github.com/flowerey/flower-mpv-config) - MPV Configs
 * [ModernZ](https://github.com/Samillion/ModernZ), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)

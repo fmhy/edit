@@ -401,6 +401,7 @@
 * [RiseupVPN](https://riseup.net/en/vpn) - Free / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)
 * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [Calyx VPN](https://calyxos.org/docs/guide/apps/calyx-vpn/) - Free / Unlimited
+* [Bitmask](https://bitmask.net/) - Free / Unlimited / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn)
 
 ***
 
