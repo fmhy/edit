@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref, h } from 'vue'
+import { h, ref } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -64,6 +64,10 @@ import {
   watchEffect
 } from 'vue'
 import { sidebar } from '../../shared'
+import {
+  pendingScrollQuery,
+  scrollToMatchInSection
+} from '../composables/searchScroll'
 import Tooltip from './Tooltip.vue'
 
 defineEmits<{
@@ -303,11 +307,7 @@ const recentSearches = useLocalStorage<string[]>(
 const shouldResetScroll = ref(false)
 
 const autoSuggestions = computed(() => {
-  if (
-    !filterText.value ||
-    results.value.length > 0 ||
-    !searchIndex.value
-  )
+  if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
 
   const query = filterText.value.trim()
@@ -1247,6 +1247,7 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     addRecentSearch(filterText.value)
+    pendingScrollQuery.value = filterText.value
     router.go(selectedPackage.id)
     close()
   }
@@ -1425,10 +1426,14 @@ function handleResultClick(e: MouseEvent, id: string) {
 
       fastScrollTo(targetY, 300)
       window.history.pushState(null, '', `#${hash}`)
+      // After scrolling to the section heading, refine scroll to the exact match
+      setTimeout(() => scrollToMatchInSection(targetEl, filterText.value), 350)
       return
     }
   }
 
+  // Store query so the router hook can scroll to the match after navigation
+  pendingScrollQuery.value = filterText.value
   router.go(id)
   close()
 }
@@ -1542,7 +1547,10 @@ function isSamePageComparison(destPath: string) {
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
-    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+    if (
+      base !== '/' &&
+      cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))
+    ) {
       cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
     }
     return cleaned || '/'

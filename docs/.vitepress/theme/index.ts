@@ -17,6 +17,10 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
+import {
+  pendingScrollQuery,
+  scrollToMatchInSection
+} from './composables/searchScroll'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 import { useThemeHandler } from './themes/themeHandler'
@@ -76,6 +80,25 @@ export default {
         setTimeout(() => {
           document.documentElement.style.scrollBehavior = 'smooth'
         }, 1)
+
+        // Scroll to the exact matching text after a search-result navigation
+        if (pendingScrollQuery.value) {
+          const query = pendingScrollQuery.value
+          pendingScrollQuery.value = null
+          // Wait for the page content to render before searching the DOM
+          setTimeout(() => {
+            const hash = window.location.hash.slice(1)
+            let sectionEl: HTMLElement | null = null
+            if (hash) {
+              try {
+                sectionEl = document.getElementById(decodeURIComponent(hash))
+              } catch {
+                /* malformed URI — fall back to no section */
+              }
+            }
+            scrollToMatchInSection(sectionEl, query)
+          }, 300)
+        }
       }
     }
 

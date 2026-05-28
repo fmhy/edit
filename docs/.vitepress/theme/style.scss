@@ -400,6 +400,23 @@ body {
   color: inherit;
 }
 
+/* Search result scroll-to-match highlight flash */
+.vp-search-highlight-target {
+  border-radius: 4px;
+  animation: vp-search-flash 1.5s ease-out forwards;
+}
+
+@keyframes vp-search-flash {
+  0%,
+  60% {
+    background-color: var(--vp-c-yellow-3);
+  }
+
+  100% {
+    background-color: transparent;
+  }
+}
+
 /* Search modal blurred backdrop */
 .VPLocalSearchBox .backdrop {
   backdrop-filter: blur(8px);
@@ -484,5 +501,5 @@ body,
 /* Align tooltips and their wrappers relative to text baseline (less negative since they baseline-align slightly lower) */
 .vp-doc .tooltip-trigger,
 .vp-doc .v-popper {
-  vertical-align: -0.20em;
+  vertical-align: -0.2em;
 }
