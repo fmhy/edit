@@ -367,7 +367,7 @@
 
 # ► Android Camera
 
-* ⭐ **[Google Lens](https://lens.google.com/)** - Multiple Camera Tools
+* ⭐ **[Google Lens](https://lens.google/)** - Multiple Camera Tools
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** / [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) / [Windows Driver](https://ip-webcam.appspot.com/), [Iriun](https://iriun.com/) or [DroidCam](https://github.com/dev47apps/droidcam-linux-client) - Use Android as Webcam / Live Cam
 * [Libre Camera](https://github.com/iakdis/librecamera) - Camera App
 * [GrapheneOS Camera](https://github.com/GrapheneOS/Camera) - Camera App
