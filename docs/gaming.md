@@ -717,9 +717,10 @@
 * [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
+* [Super chess](https://superchess.iamraj.dev) - Super Chess / Free online Multiplayer  chess game
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Requires Sign-Up
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
-
+* [Snake-game-io](https://play-snake-game-io.netlify.app/) - snake Game io
 ***
 
 ## ▷ Multi-Game Sites
@@ -818,6 +819,7 @@
 * ⭐ **[skribbl](https://skribbl.io/)** / [Extra Features](https://typo.rip/) / [GitHub](https://github.com/toobeeh/skribbltypo), [DrawBattle](https://drawbattle.io/) / [Discord](https://discord.gg/D6aHB4hRhK), [Sketchful](https://sketchful.io/) / [Subreddit](https://reddit.com/r/Sketchful) / [Discord](https://discord.gg/MEvtMCv), [⁠DrawWars](https://drawwars.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [⁠GamingCouch](https://gamingcouch.com/) / [Discord](https://discord.gg/UqSX9ZGz5u) or [Couchplay](https://www.couchplay.tv/index_en.php) - Multiplayer Phone Controller / Gamepad Games 
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
+* [Play Imposter](https://play-imposter.netlify.app) - Play Imposter / party Game
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
@@ -964,6 +966,7 @@
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [War.app](https://war.app/) - RISK Clone
+* [chess pass and play](https://chess-pass-and-play.netlify.app) - Chess Pass and play
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
 
