@@ -177,7 +177,6 @@
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
-* [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
 * [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny & Super 3D Noah's Ark Port
 * [⁠Cut the Rope Home](https://ctrhome.github.io/) - Cut the Rope Game + Mod Archive
@@ -804,7 +803,6 @@
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [VAPOR](https://vapor.onl/) - Browser Games / Ports / [Discord](https://discord.com/invite/BHwm9rrK55)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
-* [⁠US5](https://voucan.securly.com.surf.surfnet.ca/) - Browser Games / [Discord](https://discord.com/invite/VDA8Ngx38Z)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 
 ***

@@ -42,7 +42,6 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable/chat)** - Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Credits Refresh Daily / No Sign Up
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 4.7 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [⁠Woozlit](https://woozlit.com/) - Sonnet 4.6 / Gemini 3.1 Pro / DeepSeek-v4-Pro / Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
@@ -63,7 +62,6 @@
 * ⭐ **[NotebookLM](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / Pro (Google Signup) / Fast (No Signup)
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
-* ⭐ **[⁠AI Roundtable](https://opper.ai/ai-roundtable)** - Multi-Model Debate AI / Claude Opus 4.7 / Gemini 3.5 Flash / Gpt 5.5 / Credits Refresh Daily / No Sign Up
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠iAsk AI](https://iask.ai/) - Research Chatbot

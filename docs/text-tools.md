@@ -143,7 +143,7 @@
 * ⭐ **[LanguageTool](https://languagetool.org/)** - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) / [Features](https://rentry.co/FMHYB64#quill)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
-* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App - Requires Sign-Up
+* [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [Harper](https://writewithharper.com/) - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [DeepL Write](https://www.deepl.com/write) - Web App
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 

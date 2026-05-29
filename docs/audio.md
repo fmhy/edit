@@ -241,7 +241,7 @@
 * [⁠BoxRadio](https://boxradio.net/) - Online Radio Directory
 * [You Radio](https://play.you.radio/) - Online Radio Directory
 * [Audiophile](https://audiophile.fm/) - Online Radio Directory
-* [Vidbox Radio](https://vidbox.cc/radio) - Online Radio Directory
+* [Vidbox Radio](https://vidbox.dev/radio) - Online Radio Directory
 * [ShoutCast](https://directory.shoutcast.com/) - User-Stations
 * [Zeno.fm](https://zeno.fm/) - User-Stations
 * [Live365](https://live365.com/) - User-Stations

@@ -93,8 +93,9 @@
 * [HydraHD](https://hydrahd.com/), [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 * [MovieBite](https://moviebite.cc/) - Movies / TV / Anime / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
 * [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
+* [Filmex](https://filmex.to/) - Movies / TV / Anime / Auto-Next
 * [⁠FilmU](https://tv.filmu.in/), [2](https://watch.filmu.in/) - Movies / TV / Anime / [Discord](https://discord.com/invite/Dxq6bFv4FP)
-* [Vidbox](https://vidbox.cc/), [2](https://cinehd.app/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
+* [Vidbox](https://vidbox.dev/), [2](https://cinehd.app/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [AuroraScreen](https://www.aurorascreen.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * [Netplay](https://netplayz.live/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [CineWave](https://watch.cinewave.qzz.io/) - Movies / TV / Anime / Auto-Next
@@ -365,7 +366,7 @@
 * [Dramahood](https://dramahood.mom/) - TV / Movies
 * [Asiaflix](https://asiaflix.net/), [2](https://asiaflix.in/) - TV / Movies / [Subreddit](https://www.reddit.com/r/Asiaflix/) / [Telegram](https://t.me/asiaflixapp) / [Discord](https://discord.com/invite/JTxEVkZWhc)
 * [Rive](https://www.rivestream.app/kdrama), [2](https://rivestream.ru/kdrama), [3](https://rivestream.top/kdrama) - Korean Drama / TV / Movies / [Discord](https://discord.com/invite/6xJmJja8fV)
-* [Vidbox](https://vidbox.cc/asian-drama) - TV / Movies / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
+* [Vidbox](https://vidbox.dev/asian-drama) - TV / Movies / [Status](https://vidbox.xyz/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [KissAsian.video](https://kissasian.video/) - TV / Movies
 * [KissKH.dk](https://kisskh.dk/) / [2](https://kisskh.red/) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
