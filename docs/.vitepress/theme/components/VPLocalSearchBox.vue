@@ -18,6 +18,7 @@ const globalExcerptCache = new Map<string, Map<string, string>>()
 // Persisted results state across mount/unmount of the modal
 const globalLastQuery = ref('')
 const globalLastFuzzy = ref(false)
+const globalLastUrlSearch = ref(false)
 const globalLastDetailed = ref(false)
 const globalResults = ref<any[]>([])
 const globalAllResults = ref<any[]>([])
@@ -123,6 +124,8 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+// Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
+const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
 const customMetadata = shallowRef<
   Record<string, { l?: string[]; s?: string[]; u?: string[] }>
@@ -207,7 +210,9 @@ function urlSearchVariants(value: string) {
   const withoutWww = withoutProtocol.replace(/^www\./, '')
   const compact = withoutWww.replace(/[^a-z0-9]/g, '')
   return [
-    ...new Set([normalized, withoutProtocol, withoutWww, compact].filter(Boolean))
+    ...new Set(
+      [normalized, withoutProtocol, withoutWww, compact].filter(Boolean)
+    )
   ]
 }
 
@@ -304,6 +309,7 @@ function matchesGlobalState() {
     inBrowser &&
     filterText.value === globalLastQuery.value &&
     isFuzzySearch.value === globalLastFuzzy.value &&
+    isUrlSearch.value === globalLastUrlSearch.value &&
     showDetailedList.value === globalLastDetailed.value
   )
 }
@@ -385,7 +391,7 @@ const autoSuggestions = computed(() => {
   }
 })
 
-watch([filterText, isFuzzySearch], () => {
+watch([filterText, isFuzzySearch, isUrlSearch], () => {
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
   shouldResetScroll.value = true
@@ -452,7 +458,7 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 watch(
-  [filterText, isFuzzySearch, showDetailedList, searchIndex],
+  [filterText, isFuzzySearch, isUrlSearch, showDetailedList, searchIndex],
   () => {
     isSearching.value = !matchesGlobalState() && !!filterText.value
   },
@@ -481,6 +487,7 @@ debouncedWatch(
       searchIndex.value,
       filterText.value,
       isFuzzySearch.value,
+      isUrlSearch.value,
       showDetailedList.value
     ] as const,
   async ([index, filterTextValue], old, onCleanup) => {
@@ -572,7 +579,9 @@ debouncedWatch(
     // Search and retrieve all matches (up to 200 max in memory)
     const rawResults = index.search(query, searchOptions) as (SearchResult &
       Result)[]
-    const urlResults = findUrlMatches(index, filterTextValue)
+    const urlResults = isUrlSearch.value
+      ? findUrlMatches(index, filterTextValue)
+      : []
     const mergedResultsById = new Map<string, SearchResult & Result>()
     for (const result of rawResults) {
       mergedResultsById.set(result.id, result)
@@ -698,6 +707,7 @@ debouncedWatch(
     globalAllResults.value = boostedResults
     globalLastQuery.value = filterTextValue
     globalLastFuzzy.value = isFuzzySearch.value
+    globalLastUrlSearch.value = isUrlSearch.value
     globalLastDetailed.value = showDetailedList.value
     globalUsedSubstringExpansion.value = usedSubstringExpansion.value
   },
@@ -844,23 +854,24 @@ watch(
     // URL matches match on a link's href, which mark.js can't highlight because
     // the query text isn't in the visible link text. Highlight the specific
     // link(s) in the excerpt whose href matched the query.
-    for (const r of finalResults) {
-      if (!r.urlMatched) continue
-      const item = resultsEl.value?.querySelector(
-        `[data-id="${CSS.escape(r.id)}"]`
-      )
-      if (!item) continue
-      const anchors = item.querySelectorAll<HTMLAnchorElement>(
-        '.excerpt a[href]'
-      )
-      for (const anchor of anchors) {
-        const href = anchor.getAttribute('href') ?? ''
-        if (!urlMatchesQuery(href, filterText.value)) continue
-        if (anchor.querySelector('mark[data-markjs="true"]')) continue
-        const mark = document.createElement('mark')
-        mark.setAttribute('data-markjs', 'true')
-        mark.append(...anchor.childNodes)
-        anchor.appendChild(mark)
+    if (isUrlSearch.value) {
+      for (const r of finalResults) {
+        if (!r.urlMatched) continue
+        const item = resultsEl.value?.querySelector(
+          `[data-id="${CSS.escape(r.id)}"]`
+        )
+        if (!item) continue
+        const anchors =
+          item.querySelectorAll<HTMLAnchorElement>('.excerpt a[href]')
+        for (const anchor of anchors) {
+          const href = anchor.getAttribute('href') ?? ''
+          if (!urlMatchesQuery(href, filterText.value)) continue
+          if (anchor.querySelector('mark[data-markjs="true"]')) continue
+          const mark = document.createElement('mark')
+          mark.setAttribute('data-markjs', 'true')
+          mark.append(...anchor.childNodes)
+          anchor.appendChild(mark)
+        }
       }
     }
 
@@ -1446,6 +1457,8 @@ const customTitles = {
   nextMatch: 'Next match',
   fuzzyOn: 'Switch to Exact Search',
   fuzzyOff: 'Switch to Fuzzy Search',
+  urlOn: 'Disable URL Search',
+  urlOff: 'Enable URL Search',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches'
 }
@@ -1545,6 +1558,10 @@ function handleInput(e: Event) {
 
 function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
+}
+
+function toggleUrlSearch() {
+  isUrlSearch.value = !isUrlSearch.value
 }
 
 function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
@@ -1795,6 +1812,20 @@ function fastScrollTo(targetY: number, duration = 150) {
                       ? 'Fuzzy Search Active'
                       : 'Exact Search Active'
                   }}
+                </span>
+              </button>
+
+              <button
+                class="toggle-url-button"
+                type="button"
+                :class="{ 'url-active': isUrlSearch }"
+                :aria-pressed="isUrlSearch"
+                :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
+                @click="toggleUrlSearch"
+              >
+                <span class="url-icon">@</span>
+                <span class="visually-hidden">
+                  {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
                 </span>
               </button>
 
@@ -2238,7 +2269,8 @@ function fastScrollTo(targetY: number, duration = 150) {
 
 .search-actions button:not([disabled]):hover,
 .toggle-layout-button.detailed-list,
-.toggle-fuzzy-button.fuzzy-active {
+.toggle-fuzzy-button.fuzzy-active,
+.toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
 }
 
@@ -2785,6 +2817,34 @@ svg {
 }
 
 .toggle-fuzzy-button.fuzzy-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+/* Custom Feature: URL search toggle button styling */
+.toggle-url-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-url-button .url-icon {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.toggle-url-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
 }
