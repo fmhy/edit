@@ -24,9 +24,15 @@ import { transform, transformGuide } from './transformer'
 
 export * from './shared'
 
-// l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks).
+const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
+
+// l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
+// u = link hrefs for URL search.
 // Bold-without-star is just an index label, no special ranking – folded into l.
-const globalLinkMetadata: Record<string, { l: string[]; s: string[] }> = {}
+const globalLinkMetadata: Record<
+  string,
+  { l: string[]; s: string[]; u: string[] }
+> = {}
 
 // Inject customMetadata into the serialized MiniSearch index so the client
 // can read it back via MiniSearch.loadJS.  This patches the prototype because
@@ -46,7 +52,7 @@ if (typeof originalToJSON === 'function') {
 
 function getDocId(file: string) {
   const srcDir = path.resolve(__dirname, '..')
-  let relFile = path.relative(srcDir, file).replace(/\\/g, '/')
+  const relFile = path.relative(srcDir, file).replace(/\\/g, '/')
   let id = '/' + relFile
   id = id.replace(/(^|\/)index\.md$/, '$1')
   id = id.replace(/\.md$/, '')
@@ -56,14 +62,29 @@ function getDocId(file: string) {
 function extractLinkMetadata(html: string) {
   const links = new Set<string>()
   const starredBoldLinks = new Set<string>()
+  const urls = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
   // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
   // occasionally U+200B) inside link text as a visual workaround; leaving them
   // in metadata phrases breaks exact/prefix tier matching at search time.
-  const stripInvisible = (str: string) =>
-    str.replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
+  const stripInvisible = (str: string) => str.replace(INVISIBLE_CHARS_RE, '')
   const cleanText = (text: string) =>
     stripInvisible(stripTags(text)).replace(/\s+/g, ' ').trim().toLowerCase()
+  const cleanUrl = (href: string) => {
+    let decoded = href
+    try {
+      decoded = decodeURI(href)
+    } catch {
+      // Keep the raw href if it is not a valid encoded URI.
+    }
+    return stripInvisible(decoded).replace(/\s+/g, '').trim().toLowerCase()
+  }
+  const isSearchableUrl = (href: string) =>
+    /^[a-z][a-z0-9+.-]*:\/\//i.test(href) || /^www\./i.test(href)
+  const extractHref = (tag: string) => {
+    const hrefMatch = tag.match(/\bhref=(["'])(.*?)\1/i)
+    return hrefMatch?.[2] ?? ''
+  }
 
   const isStarred = (index: number) => {
     // `<li ` and `<li>` rather than `<li` so we don't catch `<link>` / `<line>`.
@@ -88,6 +109,10 @@ function extractLinkMetadata(html: string) {
   const aTagRegex = /<a\b[^>]*>([\s\S]*?)<\/a>/gi
   let match: RegExpExecArray | null
   while ((match = aTagRegex.exec(html)) !== null) {
+    const href = extractHref(match[0])
+    const cleanedUrl = isSearchableUrl(href) ? cleanUrl(href) : ''
+    if (cleanedUrl) urls.add(cleanedUrl)
+
     const innerHtml = match[1]
     const cleaned = cleanText(innerHtml)
     if (!cleaned) continue
@@ -118,7 +143,8 @@ function extractLinkMetadata(html: string) {
 
   return {
     links: Array.from(links),
-    starredBoldLinks: Array.from(starredBoldLinks)
+    starredBoldLinks: Array.from(starredBoldLinks),
+    urls: Array.from(urls)
   }
 }
 
@@ -212,11 +238,16 @@ export const search: DefaultTheme.Config['search'] = {
 
           const sectionId = anchor ? `${fileId}#${anchor}` : fileId
 
-          const { links, starredBoldLinks } = extractLinkMetadata(content)
-          if (links.length > 0 || starredBoldLinks.length > 0) {
+          const { links, starredBoldLinks, urls } = extractLinkMetadata(content)
+          if (
+            links.length > 0 ||
+            starredBoldLinks.length > 0 ||
+            urls.length > 0
+          ) {
             globalLinkMetadata[sectionId] = {
               l: links,
-              s: starredBoldLinks
+              s: starredBoldLinks,
+              u: urls
             }
           }
 
@@ -241,7 +272,7 @@ export const search: DefaultTheme.Config['search'] = {
       options: {
         tokenize: (text: string) =>
           text
-            .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
+            .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h

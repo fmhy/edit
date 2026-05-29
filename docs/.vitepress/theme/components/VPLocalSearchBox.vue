@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref, h } from 'vue'
+import { h, ref } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -96,6 +96,7 @@ interface Result {
   title: string
   titles: string[]
   text?: string
+  urlMatched?: boolean
 }
 
 interface BoostFlags {
@@ -124,7 +125,7 @@ const { localeIndex, theme } = vitePressData
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 
 const customMetadata = shallowRef<
-  Record<string, { l?: string[]; s?: string[] }>
+  Record<string, { l?: string[]; s?: string[]; u?: string[] }>
 >({})
 
 const globalLinksData = computed(() => {
@@ -185,6 +186,44 @@ function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
     }
   }
   return out
+}
+
+function normalizeUrlSearchValue(value: string) {
+  let decoded = value.trim()
+  try {
+    decoded = decodeURI(decoded)
+  } catch {
+    // Keep the raw value if it is not a valid encoded URI.
+  }
+  return decoded
+    .replace(INVISIBLE_CHARS_RE, '')
+    .replace(/\s+/g, '')
+    .toLowerCase()
+}
+
+function urlSearchVariants(value: string) {
+  const normalized = normalizeUrlSearchValue(value)
+  const withoutProtocol = normalized.replace(/^[a-z][a-z0-9+.-]*:\/\//, '')
+  const withoutWww = withoutProtocol.replace(/^www\./, '')
+  const compact = withoutWww.replace(/[^a-z0-9]/g, '')
+  return [
+    ...new Set([normalized, withoutProtocol, withoutWww, compact].filter(Boolean))
+  ]
+}
+
+function urlMatchesQuery(url: string, query: string) {
+  const normalizedQuery = normalizeUrlSearchValue(query)
+  if (normalizedQuery.length < 3) return false
+
+  const urlVariants = urlSearchVariants(url)
+  const queryVariants = urlSearchVariants(query)
+  return urlVariants.some((urlValue) =>
+    queryVariants.some(
+      (queryValue) =>
+        queryValue &&
+        (urlValue.includes(queryValue) || queryValue.includes(urlValue))
+    )
+  )
 }
 
 const searchIndex = computedAsync(async () => {
@@ -303,11 +342,7 @@ const recentSearches = useLocalStorage<string[]>(
 const shouldResetScroll = ref(false)
 
 const autoSuggestions = computed(() => {
-  if (
-    !filterText.value ||
-    results.value.length > 0 ||
-    !searchIndex.value
-  )
+  if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
 
   const query = filterText.value.trim()
@@ -389,6 +424,27 @@ function findPageTitle(items: SidebarItem[], path: string): string | null {
     }
   }
   return null
+}
+
+function findUrlMatches(index: MiniSearch<Result>, query: string) {
+  const matches: (SearchResult & Result)[] = []
+  for (const [id, meta] of Object.entries(customMetadata.value)) {
+    if (!meta.u?.some((url) => urlMatchesQuery(url, query))) continue
+
+    const storedFields = index.getStoredFields(id) as Result | undefined
+    if (!storedFields) continue
+
+    matches.push({
+      id,
+      score: 1,
+      terms: [query],
+      queryTerms: [query],
+      match: {},
+      ...storedFields,
+      urlMatched: true
+    })
+  }
+  return matches
 }
 
 /**
@@ -516,9 +572,26 @@ debouncedWatch(
     // Search and retrieve all matches (up to 200 max in memory)
     const rawResults = index.search(query, searchOptions) as (SearchResult &
       Result)[]
+    const urlResults = findUrlMatches(index, filterTextValue)
+    const mergedResultsById = new Map<string, SearchResult & Result>()
+    for (const result of rawResults) {
+      mergedResultsById.set(result.id, result)
+    }
+    for (const result of urlResults) {
+      const existing = mergedResultsById.get(result.id)
+      if (existing) {
+        existing.score += result.score
+        existing.urlMatched = true
+      } else {
+        mergedResultsById.set(result.id, result)
+      }
+    }
 
     const sidebarItems = Array.isArray(sidebar) ? sidebar : []
-    const currentResults: (SearchResult & Result)[] = rawResults
+    const currentResults: (SearchResult & Result)[] = [
+      ...mergedResultsById.values()
+    ]
+      .sort((a, b) => b.score - a.score)
       .slice(0, MAX_RESULTS_IN_MEMORY)
       .map((r) => {
         const [id] = r.id.split('#')
@@ -766,6 +839,29 @@ watch(
 
     if (isFuzzySearch.value) {
       mergeNearbyMarks()
+    }
+
+    // URL matches match on a link's href, which mark.js can't highlight because
+    // the query text isn't in the visible link text. Highlight the specific
+    // link(s) in the excerpt whose href matched the query.
+    for (const r of finalResults) {
+      if (!r.urlMatched) continue
+      const item = resultsEl.value?.querySelector(
+        `[data-id="${CSS.escape(r.id)}"]`
+      )
+      if (!item) continue
+      const anchors = item.querySelectorAll<HTMLAnchorElement>(
+        '.excerpt a[href]'
+      )
+      for (const anchor of anchors) {
+        const href = anchor.getAttribute('href') ?? ''
+        if (!urlMatchesQuery(href, filterText.value)) continue
+        if (anchor.querySelector('mark[data-markjs="true"]')) continue
+        const mark = document.createElement('mark')
+        mark.setAttribute('data-markjs', 'true')
+        mark.append(...anchor.childNodes)
+        anchor.appendChild(mark)
+      }
     }
 
     const excerpts = Array.from(
@@ -1073,6 +1169,7 @@ function filterResults(
   return results.filter((r) => {
     if (clean(r.title).includes(phrase)) return true
     if (r.titles.some((t) => clean(t).includes(phrase))) return true
+    if (r.urlMatched) return true
     if (!r.text) return true // Keep optimistically if text is not fetched yet
     return clean(r.text).includes(phrase)
   })
@@ -1542,7 +1639,10 @@ function isSamePageComparison(destPath: string) {
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
-    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+    if (
+      base !== '/' &&
+      cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))
+    ) {
       cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
     }
     return cleaned || '/'
