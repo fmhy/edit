@@ -55,6 +55,7 @@
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
 * [⁠Streamain](https://streamain.com/) - Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
+* [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
 * [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 Days Since Last Download
@@ -174,7 +175,7 @@
 * [VTResources](https://vtresources.carrd.co/) - VTuber Resources
 * [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
 * [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [VRoid](https://vroid.com/en/studio) - VTuber Character Creators / Tracking
-* [VSeeFace](https://www.vseeface.icu/), [Kalidoface 3D](https://3d.kalidoface.com/) or [Animaze](https://www.animaze.us/) - 3D Tracking & Puppeteering (VRM)
+* [VSeeFace](https://www.vseeface.icu/), [Kalidoface 3D](https://3d.kalidoface.com/), [⁠VNyan](https://suvidriel.itch.io/vnyan) or [Animaze](https://www.animaze.us/) - 3D Tracking & Puppeteering (VRM)
 * [Vtube Studio](https://denchisoft.com/) or [Inochi2D](https://inochi2d.com/) / [Discord](https://discord.com/invite/abnxwN6r9v) - 2D / Live2D Tracking
 * [veadotube](https://olmewe.itch.io/veadotube-mini) - PNGTuber & Reactive Software
 * [avatarify-python](https://github.com/alievk/avatarify-python) - Real-Time Photo / Video Avatars
