@@ -65,6 +65,7 @@ import {
 } from 'vue'
 import { sidebar } from '../../shared'
 import {
+  cancelPendingScroll,
   pendingScrollQuery,
   scheduleScrollToMatch
 } from '../composables/searchScroll'
@@ -1408,12 +1409,17 @@ function handleResultClick(e: MouseEvent, id: string) {
 
 function navigateToResult(id: string) {
   const [path, hash] = id.split('#')
+  const query = filterText.value
   let decodedHash: string | null = null
   try {
     decodedHash = hash ? decodeURIComponent(hash) : null
   } catch {
     /* malformed URI */
   }
+
+  // Cancel any previous scroll-to-match operation
+  cancelPendingScroll()
+
   if (decodedHash && isSamePageComparison(path)) {
     const targetEl = document.getElementById(decodedHash)
     if (targetEl) {
@@ -1425,19 +1431,23 @@ function navigateToResult(id: string) {
         targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
       )
 
-      fastScrollTo(targetY, 300)
+      const scrollDuration = 300
+      fastScrollTo(targetY, scrollDuration)
       window.history.pushState(null, '', `#${hash}`)
-      // After scrolling to the section heading, refine scroll to the exact match.
-      // Use 350ms delay so it fires after fastScrollTo's 300ms animation finishes.
-      scheduleScrollToMatch(hash, filterText.value, 350)
+      // Schedule scroll-to-match after fastScrollTo completes.
+      // Add 100ms buffer beyond the animation duration for safety.
+      scheduleScrollToMatch(hash, query, scrollDuration + 100)
       return
     }
   }
 
-  // Cross-page navigation: store query for the router hook
-  pendingScrollQuery.value = filterText.value
-  router.go(id)
+  // Cross-page navigation: close modal, start navigation, then store query.
+  // router.go() synchronously fires onBeforeRouteChange (which clears
+  // pendingScrollQuery to guard against stale values). We re-set it AFTER
+  // router.go() returns so it survives for onAfterRouteChanged to consume.
   close()
+  router.go(id)
+  pendingScrollQuery.value = query
 }
 
 function resetSearch() {

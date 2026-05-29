@@ -10,10 +10,18 @@ import { ref } from 'vue'
 /**
  * When non-null, the router's onAfterRouteChanged hook will attempt to scroll
  * to the first text node matching this query inside the target section.
- * Set by VPLocalSearchBox before calling router.go(); consumed (and cleared)
- * by the theme's enhanceApp router hook.
+ * Set by VPLocalSearchBox AFTER calling router.go() (so that onBeforeRouteChange
+ * can clear stale values first); consumed (and cleared) by onAfterRouteChanged.
  */
 export const pendingScrollQuery = ref<string | null>(null)
+
+// Active scroll operation ID — incremented on every new schedule call
+// so stale attempts from previous navigations abort themselves.
+let activeScrollId = 0
+
+// Active MutationObserver, disconnected when a new scroll is scheduled
+// or when a match is found.
+let activeObserver: MutationObserver | null = null
 
 /**
  * After navigating to a section heading, scroll down to the first element
@@ -21,24 +29,23 @@ export const pendingScrollQuery = ref<string | null>(null)
  *
  * @param sectionEl  The heading element for the target section (may be null)
  * @param query      The raw search query string
+ * @returns true if a match was found and scrolled to, false otherwise
  */
 export function scrollToMatchInSection(
   sectionEl: HTMLElement | null,
   query: string
-): void {
-  if (!query.trim()) return
+): boolean {
+  if (!query.trim()) return false
 
   const queryLower = query.trim().toLowerCase()
   const queryWords = queryLower.split(/\s+/).filter(Boolean)
-  if (queryWords.length === 0) return
+  if (queryWords.length === 0) return false
 
   const contentRoot =
     sectionEl?.closest('.vp-doc') ?? document.querySelector('.vp-doc')
-  if (!contentRoot) return
+  if (!contentRoot) return false
 
   // Collect candidate elements that belong to this section.
-  // Walk all content elements after sectionEl and stop when we hit the next
-  // heading of same or higher level.
   const candidates: Element[] = []
   const allElements = contentRoot.querySelectorAll('p, li, td, dd, blockquote')
 
@@ -46,16 +53,10 @@ export function scrollToMatchInSection(
     // No section heading — scan everything
     for (const el of allElements) candidates.push(el)
   } else {
-    // Walk the DOM tree to find the next heading boundary.
-    // We can't use findPrecedingHeading on nested elements (e.g. <li> inside
-    // <ul>) because previousElementSibling only walks siblings, not up to
-    // parent containers. Instead, collect all headings at the same or higher
-    // level and find which one follows sectionEl.
     const sectionLevel = getHeadingLevel(sectionEl)
     let nextBoundary: Element | null = null
 
     if (sectionLevel > 0) {
-      // Build a selector for headings at same or higher level
       const headingSelectors: string[] = []
       for (let i = 1; i <= sectionLevel; i++) headingSelectors.push(`h${i}`)
       const allHeadings = contentRoot.querySelectorAll(
@@ -73,7 +74,6 @@ export function scrollToMatchInSection(
     }
 
     for (const el of allElements) {
-      // Only include elements after the section heading
       if (
         !(
           sectionEl.compareDocumentPosition(el) &
@@ -83,8 +83,6 @@ export function scrollToMatchInSection(
         continue
       }
 
-      // Stop if we've passed the next section boundary.
-      // DOCUMENT_POSITION_FOLLOWING means el comes AFTER nextBoundary.
       if (
         nextBoundary &&
         nextBoundary.compareDocumentPosition(el) &
@@ -97,15 +95,18 @@ export function scrollToMatchInSection(
     }
   }
 
-  // Find the best matching element
+  if (candidates.length === 0) return false
+
+  // Find the best matching element using a multi-pass strategy.
   let bestMatch: Element | null = null
 
-  // Also check <a> tags inside candidates for more precise matching
+  // Check <a> tags inside candidates for precise matching
   // (link text is often the actual item name, e.g. "Moe TTS")
   const linkMatchesQuery = (el: Element): boolean => {
     const links = el.querySelectorAll('a')
     for (const link of links) {
-      const linkText = (link.textContent ?? '').toLowerCase()
+      const linkText = (link.textContent ?? '').trim().toLowerCase()
+      if (linkText.length === 0) continue
       if (linkText.includes(queryLower) || queryLower.includes(linkText)) {
         return true
       }
@@ -154,15 +155,20 @@ export function scrollToMatchInSection(
     }
   }
 
-  if (!bestMatch) return
+  if (!bestMatch) return false
 
   // Don't scroll if the match IS the section heading itself
-  if (sectionEl && bestMatch === sectionEl) return
+  if (sectionEl && bestMatch === sectionEl) return false
 
   doScrollAndHighlight(bestMatch)
+  return true
 }
 
 function doScrollAndHighlight(el: Element): void {
+  // Remove any existing highlight from a previous scroll
+  const prev = document.querySelector('.vp-search-highlight-target')
+  if (prev) prev.classList.remove('vp-search-highlight-target')
+
   const navEl = document.querySelector('.VPNavBar')
   const navHeight = navEl ? navEl.clientHeight : 64
   const targetY = Math.max(
@@ -170,14 +176,16 @@ function doScrollAndHighlight(el: Element): void {
     el.getBoundingClientRect().top + window.scrollY - navHeight - 24
   )
 
-  // Temporarily force instant scroll to override any ongoing smooth scroll
+  // Force instant scroll — override any CSS smooth scroll that may be active.
   const htmlEl = document.documentElement
   const prevBehavior = htmlEl.style.scrollBehavior
   htmlEl.style.scrollBehavior = 'auto'
-  window.scrollTo({ top: targetY })
-  // Restore after a frame
+  window.scrollTo({ top: targetY, behavior: 'auto' as ScrollBehavior })
+  // Restore original scroll-behavior after the browser processes the scroll
   requestAnimationFrame(() => {
-    htmlEl.style.scrollBehavior = prevBehavior
+    requestAnimationFrame(() => {
+      htmlEl.style.scrollBehavior = prevBehavior
+    })
   })
 
   // Add a temporary flash highlight
@@ -186,8 +194,20 @@ function doScrollAndHighlight(el: Element): void {
 }
 
 /**
+ * Cancel any in-progress scroll-to-match operation. Call this before starting
+ * a new one or when the user navigates away.
+ */
+export function cancelPendingScroll(): void {
+  activeScrollId++
+  if (activeObserver) {
+    activeObserver.disconnect()
+    activeObserver = null
+  }
+}
+
+/**
  * Wait for the page DOM to be ready, then attempt to scroll to the match.
- * Uses requestAnimationFrame + retries to handle slow page renders.
+ * Uses polling retries AND a MutationObserver fallback for robustness.
  *
  * @param hash        The URL hash (without #) identifying the section heading
  * @param query       The search query text to find within the section
@@ -199,12 +219,21 @@ export function scheduleScrollToMatch(
   query: string,
   initialDelay = 150
 ): void {
-  let attempts = 0
-  const maxAttempts = 10
-  const intervalMs = 100
+  // Cancel any previous scroll operation
+  cancelPendingScroll()
 
-  function tryScroll() {
-    attempts++
+  const scrollId = activeScrollId
+  let attempts = 0
+  const maxAttempts = 15
+  const intervalMs = 120
+
+  function isStale(): boolean {
+    return scrollId !== activeScrollId
+  }
+
+  function tryScroll(): boolean {
+    if (isStale()) return true // treat stale as "done" to stop retrying
+
     let sectionEl: HTMLElement | null = null
     if (hash) {
       try {
@@ -214,21 +243,76 @@ export function scheduleScrollToMatch(
       }
     }
 
-    // If the section element exists (or no hash), try scrolling
-    if (sectionEl || !hash) {
-      scrollToMatchInSection(sectionEl, query)
-      return
-    }
+    // If the section heading hasn't rendered yet, we can't match content
+    if (hash && !sectionEl) return false
 
-    // Retry if section element not found yet (page still rendering)
+    // Attempt to find and scroll to the matching element
+    const found = scrollToMatchInSection(sectionEl, query)
+    if (found) {
+      // Success — clean up observer
+      if (activeObserver && !isStale()) {
+        activeObserver.disconnect()
+        activeObserver = null
+      }
+    }
+    return found
+  }
+
+  function poll() {
+    if (isStale()) return
+
+    attempts++
+    const found = tryScroll()
+    if (found) return
+
     if (attempts < maxAttempts) {
-      setTimeout(tryScroll, intervalMs)
+      setTimeout(poll, intervalMs)
+    } else {
+      // All polling attempts exhausted — fall back to MutationObserver.
+      // This catches lazy-loaded content, async components, etc.
+      startObserver()
     }
   }
 
-  // First attempt after a frame + delay for render / scroll animation
+  function startObserver() {
+    if (isStale()) return
+
+    const contentRoot = document.querySelector('.vp-doc')
+    if (!contentRoot) return
+
+    // Watch for new child nodes being added to the content area
+    activeObserver = new MutationObserver(() => {
+      if (isStale()) {
+        activeObserver?.disconnect()
+        activeObserver = null
+        return
+      }
+      const found = tryScroll()
+      if (found) {
+        activeObserver?.disconnect()
+        activeObserver = null
+      }
+    })
+
+    activeObserver.observe(contentRoot, {
+      childList: true,
+      subtree: true
+    })
+
+    // Safety: disconnect observer after 5 seconds to prevent leaks
+    const observerScrollId = scrollId
+    setTimeout(() => {
+      if (activeObserver && observerScrollId === activeScrollId) {
+        activeObserver.disconnect()
+        activeObserver = null
+      }
+    }, 5000)
+  }
+
+  // First attempt after a frame + initial delay
   requestAnimationFrame(() => {
-    setTimeout(tryScroll, initialDelay)
+    if (isStale()) return
+    setTimeout(poll, initialDelay)
   })
 }
 

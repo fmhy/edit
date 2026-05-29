@@ -18,6 +18,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
 import {
+  cancelPendingScroll,
   pendingScrollQuery,
   scheduleScrollToMatch
 } from './composables/searchScroll'
@@ -60,6 +61,13 @@ export default {
       const originalAfter = router.onAfterRouteChanged
 
       router.onBeforeRouteChange = (to) => {
+        // Cancel any in-progress scroll-to-match from a previous navigation
+        cancelPendingScroll()
+        // Clear stale search query — prevents it from being consumed on the
+        // wrong page if the user navigates away before the target page loads.
+        // navigateToResult re-sets this AFTER router.go() returns.
+        pendingScrollQuery.value = null
+
         try {
           // Force scroll-behavior: auto (instant) when changing pages (path),
           // preventing the "scroll to top" animation.
@@ -68,7 +76,7 @@ export default {
           if (targetUrl.pathname !== window.location.pathname) {
             document.documentElement.style.scrollBehavior = 'auto'
           }
-        } catch (e) {
+        } catch {
           // Fallback if URL parsing fails
         }
         originalBefore?.(to)
@@ -76,10 +84,13 @@ export default {
 
       router.onAfterRouteChanged = (to) => {
         originalAfter?.(to)
-        // Re-enable smooth scrolling shortly after navigation completes
-        setTimeout(() => {
+
+        // Re-enable smooth scrolling after navigation completes.
+        // Use rAF to ensure the browser has processed any instant scroll first,
+        // so we don't interfere with doScrollAndHighlight's instant scroll.
+        requestAnimationFrame(() => {
           document.documentElement.style.scrollBehavior = 'smooth'
-        }, 1)
+        })
 
         // Scroll to the exact matching text after a search-result navigation
         if (pendingScrollQuery.value) {
