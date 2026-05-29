@@ -71,7 +71,7 @@
 * **Note** - These serve as aggregators for multiple sources, and have custom players that will automatically test streams one-by-one without user input required. Sources vary site-to-site depending on which sites feel are worth using. Check [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#stream-aggregators) / [2](https://fmhy-grading.pages.dev/) for scores.
 
 ***
-
+* ⭐ **[Moonflix](https://Moonflix.site)**  / [Discord](https://discord.gg/pGc7jPGWMZ) - Movies / TV / Anime / Auto-Next / Instant Download
 * ⭐ **[Flixer](https://flixer.su)** or [Hexa](https://hexa.su/) / [Discord](https://discord.com/invite/yvwWjqvzjE) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cinezo](https://www.cinezo.net/)** or [Flikhub](https://www.flikhub.net/) - Movies / TV / Anime / [Discord](https://discord.gg/Gx27YMK73d)
 * ⭐ **[bCine](https://bcine.ru/)** or [1Embed](https://1embed.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/FekgaSAtJa)
