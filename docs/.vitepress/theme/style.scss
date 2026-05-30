@@ -400,24 +400,31 @@ body {
   color: inherit;
 }
 
-/* Search result scroll-to-match highlight flash */
+/* Search result scroll-to-match highlight flash.
+ * Uses outline + background instead of padding to avoid layout shift. */
 .vp-search-highlight-target {
   border-radius: 4px;
-  padding: 2px 0;
+  outline: 2px solid var(--vp-c-yellow-2, #ffd54f);
+  outline-offset: 2px;
   animation: vp-search-flash 2s ease-out forwards;
 }
 
 @keyframes vp-search-flash {
   0% {
-    background-color: var(--vp-c-yellow-2, #ffd54f);
+    background-color: rgba(255, 213, 79, 0.25);
+    background-color: color-mix(in srgb, var(--vp-c-yellow-2, #ffd54f) 25%, transparent);
+    outline-color: var(--vp-c-yellow-2, #ffd54f);
   }
 
   70% {
-    background-color: var(--vp-c-yellow-3, #fff176);
+    background-color: rgba(255, 241, 118, 0.15);
+    background-color: color-mix(in srgb, var(--vp-c-yellow-3, #fff176) 15%, transparent);
+    outline-color: var(--vp-c-yellow-3, #fff176);
   }
 
   100% {
     background-color: transparent;
+    outline-color: transparent;
   }
 }
 

@@ -60,6 +60,11 @@ export default {
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
+      // Track the original scroll-behavior so we restore it correctly
+      // instead of unconditionally forcing 'smooth'.
+      // null = no pending restoration (same-page nav or already restored).
+      let savedScrollBehavior: string | null = null
+
       router.onBeforeRouteChange = (to) => {
         // Cancel any in-progress scroll-to-match from a previous navigation
         cancelPendingScroll()
@@ -74,6 +79,8 @@ export default {
           // Smooth scrolling is preserved for same-page hash/anchor changes.
           const targetUrl = new URL(to, window.location.href)
           if (targetUrl.pathname !== window.location.pathname) {
+            savedScrollBehavior =
+              document.documentElement.style.scrollBehavior
             document.documentElement.style.scrollBehavior = 'auto'
           }
         } catch {
@@ -85,19 +92,42 @@ export default {
       router.onAfterRouteChanged = (to) => {
         originalAfter?.(to)
 
-        // Re-enable smooth scrolling after navigation completes.
-        // Use rAF to ensure the browser has processed any instant scroll first,
-        // so we don't interfere with doScrollAndHighlight's instant scroll.
-        requestAnimationFrame(() => {
-          document.documentElement.style.scrollBehavior = 'smooth'
-        })
+        const hasPendingSearch = !!pendingScrollQuery.value
+
+        // Restore scroll-behavior to its original value after navigation.
+        // Only runs when onBeforeRouteChange actually saved a value
+        // (cross-page navigations). Same-page hash changes are skipped.
+        if (savedScrollBehavior !== null) {
+          const valueToRestore = savedScrollBehavior
+          savedScrollBehavior = null
+
+          if (hasPendingSearch) {
+            // When a search scroll is pending, keep scroll-behavior as
+            // 'auto' (instant) until the scroll-to-match operation
+            // completes. scheduleScrollToMatch's onComplete callback
+            // fires when the match is found or all attempts are exhausted,
+            // so we never restore too early or rely on a fragile timeout.
+            const { query, matchContext } = pendingScrollQuery.value!
+            pendingScrollQuery.value = null
+            const hash = window.location.hash.slice(1)
+            scheduleScrollToMatch(hash, query, 150, matchContext, () => {
+              document.documentElement.style.scrollBehavior = valueToRestore
+            })
+            return
+          }
+
+          requestAnimationFrame(() => {
+            document.documentElement.style.scrollBehavior = valueToRestore
+          })
+        }
 
         // Scroll to the exact matching text after a search-result navigation
-        if (pendingScrollQuery.value) {
-          const query = pendingScrollQuery.value
+        // (same-page case — no scroll-behavior override was saved)
+        if (hasPendingSearch) {
+          const { query, matchContext } = pendingScrollQuery.value!
           pendingScrollQuery.value = null
           const hash = window.location.hash.slice(1)
-          scheduleScrollToMatch(hash, query)
+          scheduleScrollToMatch(hash, query, 150, matchContext)
         }
       }
     }

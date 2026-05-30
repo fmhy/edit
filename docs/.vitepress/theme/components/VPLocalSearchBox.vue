@@ -1248,7 +1248,9 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     addRecentSearch(filterText.value)
-    navigateToResult(selectedPackage.id)
+    const idx = results.value.indexOf(selectedPackage)
+    const matchCtx = idx >= 0 ? getMatchContext(idx) : null
+    navigateToResult(selectedPackage.id, matchCtx)
   }
 })
 
@@ -1398,16 +1400,39 @@ function clearAllRecentSearches() {
   nextTick().then(() => focusSearchInput(false))
 }
 
+/**
+ * Extract the text content of the element containing the currently active
+ * match highlight in the search excerpt. This identifies the SPECIFIC item
+ * the user was looking at (e.g., "SpotifyPublic" vs "EeveeSpotifyRevived")
+ * so we scroll to the right one on the page.
+ */
+function getMatchContext(resultIndex: number): string | null {
+  const marks = resultMarks.value.get(resultIndex)
+  const curr = currentMarkIndex.value.get(resultIndex) ?? 0
+  if (!marks || !marks[curr] || marks[curr].length === 0) return null
+
+  const mark = marks[curr][0]
+  // Find the closest content container (same selectors used on the actual page)
+  const container = mark.closest('li, p, td, dd, blockquote')
+  if (!container) return null
+
+  return container.textContent?.trim() || null
+}
+
 function handleResultClick(e: MouseEvent, id: string) {
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) {
     return
   }
   e.preventDefault()
   addRecentSearch(filterText.value)
-  navigateToResult(id)
+
+  // Find which result index was clicked to get the match context
+  const index = results.value.findIndex((r) => r.id === id)
+  const matchContext = index >= 0 ? getMatchContext(index) : null
+  navigateToResult(id, matchContext)
 }
 
-function navigateToResult(id: string) {
+function navigateToResult(id: string, matchContext: string | null = null) {
   const [path, hash] = id.split('#')
   const query = filterText.value
   let decodedHash: string | null = null
@@ -1424,19 +1449,12 @@ function navigateToResult(id: string) {
     const targetEl = document.getElementById(decodedHash)
     if (targetEl) {
       close()
-      const navEl = document.querySelector('.VPNavBar')
-      const navHeight = navEl ? navEl.clientHeight : 64
-      const targetY = Math.max(
-        0,
-        targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
-      )
-
-      const scrollDuration = 300
-      fastScrollTo(targetY, scrollDuration)
       window.history.pushState(null, '', `#${hash}`)
-      // Schedule scroll-to-match after fastScrollTo completes.
-      // Add 100ms buffer beyond the animation duration for safety.
-      scheduleScrollToMatch(hash, query, scrollDuration + 100)
+      // Single scroll directly to the matching element (no two-step scroll
+      // to heading first — that caused jerky animation). For same-page,
+      // the DOM is already rendered, so use a short delay for the modal
+      // close transition to start.
+      scheduleScrollToMatch(hash, query, 50, matchContext)
       return
     }
   }
@@ -1447,7 +1465,7 @@ function navigateToResult(id: string) {
   // router.go() returns so it survives for onAfterRouteChanged to consume.
   close()
   router.go(id)
-  pendingScrollQuery.value = query
+  pendingScrollQuery.value = { query, matchContext }
 }
 
 function resetSearch() {
@@ -1572,41 +1590,6 @@ function isSamePageComparison(destPath: string) {
   return current === dest
 }
 
-let activeScrollRAF = 0
-let savedScrollBehavior = ''
-
-function fastScrollTo(targetY: number, duration = 150) {
-  if (typeof window === 'undefined') return
-  const htmlEl = document.documentElement
-
-  if (!activeScrollRAF) {
-    savedScrollBehavior = htmlEl.style.scrollBehavior
-    htmlEl.style.scrollBehavior = 'auto'
-  } else {
-    cancelAnimationFrame(activeScrollRAF)
-  }
-
-  const startY = window.scrollY
-  const difference = targetY - startY
-  const startTime = performance.now()
-
-  function step(currentTime: number) {
-    const elapsed = currentTime - startTime
-    const progress = Math.min(elapsed / duration, 1)
-    const ease = 1 - Math.pow(1 - progress, 3)
-
-    window.scrollTo(0, startY + difference * ease)
-
-    if (progress < 1) {
-      activeScrollRAF = requestAnimationFrame(step)
-    } else {
-      htmlEl.style.scrollBehavior = savedScrollBehavior
-      activeScrollRAF = 0
-    }
-  }
-
-  activeScrollRAF = requestAnimationFrame(step)
-}
 </script>
 
 <template>
