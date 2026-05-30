@@ -381,14 +381,13 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* [Jumo-DL](https://jumo-dl.pages.dev/) - FLAC / MP3
 * [QQDL](https://tidal.qqdl.site/) - Tidal / FLAC
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse) / [GitHub](https://github.com/anandprtp/Antra)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb
 * [Spotisaver](https://spotisaver.net/) - Spotify / MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC
-* [cobalt](https://cobalt.tools/) - SoundCloud / 128kb / MP3 / [Instances](https://instances.cobalt.best/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
+* [cobalt](https://cobalt.tools/) - SoundCloud / 128kb / MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 
 ***
 
@@ -454,7 +453,6 @@
 * [Exystence](https://exystence.net/) - MP3 / FLAC
 * [ThemFire](https://themfire.pro/) - MP3 / FLAC
 * [Music Rider](https://musicrider.org/) - MP3 / FLAC
-* [FindFlac](https://findflac.com/) - FLAC / MP3 / MP4
 * [iPlusFree](https://www7.iplusfree.org/) - iTunes M4A
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
@@ -562,7 +560,6 @@
 * [Metal Tracker](https://en.metal-tracker.com/) or [RockBox](https://rawkbawx.rocks/) - Metal / MP3 320kb / FLAC
 * [BlackTorrent](https://blacktorrent.ru/) or [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3 / Various Bitrates
-* [TorrentTech](https://torrents.torrentech.org/) - Electronic / MP3 320kb / Requires Sign-Up / [Zip File](https://rentry.co/FMHYB64#torrenttech-zip)
 * [TribalMixes](https://www.tribalmixes.com/) - Forum / DJ Mixes / MP3
 * [the /kpg/ torrent](https://rentry.co/FMHYB64#kpop-torrent) - K-Pop / MP3 320kb / FLAC
 * [PandaCD](https://pandacd.io/) - User-Made Music / MP3 / FLAC
@@ -686,7 +683,7 @@
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Music Recommendation Directory
 * [Shfl](https://theshfl.com/) - Album Recommendations
 * [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
-* [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/3nDqpaiwgo2I4DSzDfahCL?si=twKxh5peQnuaKZCkCU_dfw&pi)
+* [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
@@ -703,7 +700,7 @@
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
-* [Random Song](https://randomsong.org/), [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
+* [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists

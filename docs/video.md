@@ -23,6 +23,7 @@
 * ⭐ **[Cinegram](https://cinegram.tv/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cinetaro](https://cinetaro.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/4yGUxdz3h9)
 * ⭐ **[Cinema.BZ](https://cinema.bz/)** - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
+* ⭐ **[SpenFlix](https://watch.spencerdevs.xyz/)** or [Lunara](https://lunara.watch/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RF8vMBRtTs)
 * ⭐ **[Movish](https://movish.net/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Coreflix](https://coreflix.tv/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/FkaeFU32nr)
 * [1Shows](https://www.1shows.org/), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / [Discord](https://discord.gg/the-one) / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
@@ -76,7 +77,6 @@
 * ⭐ **[Cinezo](https://www.cinezo.net/)** or [Flikhub](https://www.flikhub.net/) - Movies / TV / Anime / [Discord](https://discord.gg/Gx27YMK73d)
 * ⭐ **[bCine](https://bcine.ru/)** or [1Embed](https://1embed.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/FekgaSAtJa)
 * ⭐ **[CineBolt](https://cinebolt.net/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/7ZbCzMPt6f)
-* ⭐ **[Watchott](https://watchott.ru/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/mzs3YRntfG)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
 * ⭐ **[Willow](https://willowmovies.com/)** - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * ⭐ **[LordFlix](https://lordflix.org/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jUSTtedkpY)
@@ -147,7 +147,6 @@
 * [Pawflix](https://pawflix.foo.ng/) - Movies / TV / Anime
 * [zmov](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
-* [Yampi](https://yampi.live/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
 * [FluxTV](https://fluxtv.qzz.io/), [2](https://fluxustv.vercel.app/) - Movies / TV / Anime / [Status](https://rentry.co/fluxtv)
 * [StreameX](https://streamex.sh/) - Movies / TV / Anime
@@ -273,7 +272,7 @@
 * [⁠1Anime](https://1ani.me/), [2](https://1anime.app/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/jUjSeCrmQt)
 * [⁠Kiroku](https://kiroku.my/) - Sub / Dub
 * [Re:ANIME](https://reanime.to/), [2](https://kuudere.ru/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kuudere0to) / [Discord](https://discord.gg/h9v9Vfzp7B)
-* [⁠Anistream](https://anistream.one/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/K8hjSm4uY)
+* [⁠Anistream](https://anistream.one/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/kwgASavPvG)
 * [AniDoor](https://anidoor.me/) - Sub / Dub / Auto-Next
 * [⁠Aniverse](https://aniverse.watch/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/gDfz5SaM3K)
 * [⁠Enma](https://www.enma.lol/) - Sub / Dub / Auto-Next
@@ -344,6 +343,7 @@
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
 * [HDclump](https://hdclump.com/) - Documentaries / Cooking / Gardening
 * [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
+* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Show Replays / [Mirrors](ttps://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
 * [r/Panelshow](https://www.reddit.com/r/panelshow/) - Panel Shows
 * [Taskmaster](https://rentry.co/bbbr4cfr) - Full Taskmaster Episodes
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
@@ -462,7 +462,6 @@
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [WatchTVs](https://watchtvs.live/) - TV
 * [Cubik TV](https://cubiktv.com/) - TV / Sports
-* [Rive Live](https://www.rivestream.app/iptv) - TV / Sports
 * [Rive](https://www.rivestream.app/iptv), [2](https://rivestream.ru/iptv), [3](https://rivestream.top/iptv) - TV / Sports / [Discord](https://discord.com/invite/6xJmJja8fV)
 * [Zerostream](https://zerostream.alwaysdata.net/) - TV
 * [iShowMovies](https://ishowmovies.org/live) - TV
@@ -472,6 +471,7 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [DistroTV](https://distro.tv/) - TV
+* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Shows / [Mirrors](ttps://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
 * [Puffer](https://puffer.stanford.edu/) - San Fran TV / Requires Sign-Up
 * [cytube](https://cytu.be/) - Random Streams
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
@@ -800,7 +800,6 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#download)** - Anime Download Index / [Discord](https://discord.gg/vShRGx8ZBC) / [GitHub](https://github.com/wotakumoe/Wotaku)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/download)**, [2](https://everythingmoe.org/section/download) - Anime DDL Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index DDL](https://theindex.moe/collection/ddl)** - Anime DDL Sites / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/snackbox)
-* ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub / [Bulk Downloader](https://github.com/MaJoRX0/Tokyo-Downloader)
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / Requires Google Account / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / Requires Sign-Up / [Discord](https://discord.gg/uZ85cbAg4T)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**

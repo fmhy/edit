@@ -48,7 +48,6 @@
 * [Polarr](https://photoeditor.polarr.co/) - Multi-Tool
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
-* [photo.codes](https://www.photo.codes/) - Simple Editor w/ Shareable Colab Codes
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
@@ -243,6 +242,7 @@
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [LowQualitymemes](https://www.lowqualitymemes.com/) - Low Quality / Cursed Meme Generator
+* [JOE PFP Builder](https://joecoin.meme/) - Create Custom JOE Emojis
 * [YouWouldntStealAWebsite](https://youwouldntsteala.website/editor.html) - "You Wouldn't Steal" Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
 * [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
@@ -340,7 +340,6 @@
 * [Gumroad](https://gumroad.com/) / Enter $0 / Some NSFW
 * [Freeject](https://www.freeject.net/)
 * [⁠Salvaged](https://salvaged.nu/)
-* [AvaxGFX](https://avxgfx.com/)
 * [Cg_peers Archive](https://t.me/Cgpeers_archive)
 * [PNGTree](https://pngtree.com/)
 * [TianUI](https://www.titanui.com/)
@@ -742,6 +741,7 @@
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
+* [QuickView](https://github.com/justnullname/QuickView)
 * [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
 * [PhotoQt](https://github.com/luspi/photoqt)
 * [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / [GitHub](https://github.com/neelabo/NeeView)
@@ -767,7 +767,7 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [Lap](https://julyx10.github.io/lap/) / [GitHub](https://github.com/julyx10/lap)
 * [HomeGallery](https://home-gallery.org/)

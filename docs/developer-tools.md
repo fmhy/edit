@@ -184,6 +184,7 @@
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * ⭐ **[refined-github](https://github.com/refined-github/refined-github)** - Improved GitHub Interface
 * ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
+* [⁠Is GitHub Cooked?](https://isgithubcooked.com/) - GitHub Incident History
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [Languish](https://tjpalmer.github.io/languish/) - GitHub Programming Language Stats
@@ -600,7 +601,6 @@
 * [Thonny](https://thonny.org/) - Python IDE
 * [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
-* [ClipRun](https://cliprun.com/) - Run Python Code in Browser / Chrome Extension
 
 ***
 
@@ -640,7 +640,7 @@
 * [HTML-Minifier](https://github.com/j9t/html-minifier-next) - HTML Minifier
 * [HTMLRev](https://htmlrev.com/) - Free HTML Templates
 * [Markdown to HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
-* [ArtPlayer.js](https://artplayer.org/) / [GitHub](<ttps://github.com/zhw2590582/ArtPlayer), [APlayer](https://aplayer.js.org/), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
+* [ArtPlayer.js](https://artplayer.org/) / [GitHub](https://github.com/zhw2590582/ArtPlayer), [APlayer](https://aplayer.js.org/), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
 
 ***
 
@@ -1152,7 +1152,7 @@
 ## ▷ DNS Tools
 
 * ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_free_dns_resolvers)**
-* ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
+* ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS / [GitHub](https://github.com/jvns/mess-with-dns)
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources / [Public Servers](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
@@ -1198,6 +1198,7 @@
 ## ▷ Reverse Engineering
 
 * 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
+* 🌐 **[Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)** - Android Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)
 * ⭐ **[GHIDRA](https://github.com/NationalSecurityAgency/ghidra)** - Reverse Engineering Framework / [Plugins](https://github.com/AllsafeCyberSecurity/awesome-ghidra)

@@ -237,6 +237,7 @@
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager / Windows, Mac, Linux
 * [Mochi Cards](https://mochi.cards/) - Note-Taking / Study Tools / All Platforms
 * [Silicon](https://github.com/cu/silicon) - Note-Taking / Self-Hosted
+* [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, Mac, Linux
 * [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/vnotex/vnote)

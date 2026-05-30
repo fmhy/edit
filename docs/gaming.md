@@ -441,7 +441,6 @@
 * [⁠ArcadeSpace](https://www.arcadespace.org/) - Retro Consoles / Multiple-Emulators / Sign-Up Required
 * [⁠FreebieGames](https://freebie.games/) - Retro Consoles / Multiple-Emulators
 * [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console / [Discord](https://discord.gg/PtgKse35q7)
-* [rom.so](https://rom.so/) - Multi-Console / Requires Sign-Up
 * [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro Consoles / Archive.org
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles

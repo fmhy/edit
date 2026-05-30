@@ -349,7 +349,7 @@
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [TextToMap](https://www.textomap.com/) - Text-Based Map Search
-* [Copernix](https://copernix.io/) or [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
+* [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
@@ -504,6 +504,7 @@
 * [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
 * [Japanese Occupation of HK](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - Japanese Occupation of Hong Kong Interactive Map
 * [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
+* [⁠Map Myths](https://mapmyths.com/) - Historical Map Myths
 
 ***
 

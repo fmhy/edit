@@ -205,7 +205,7 @@
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [⁠Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder
+* [⁠Spectacle](https://apps.kde.org/spectacle/) or [GPU Screen Recorder](https://git.dec05eba.com/gpu-screen-recorder/) / [GitHub](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - Screen Recorders
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
