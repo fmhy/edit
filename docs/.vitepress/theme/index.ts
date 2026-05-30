@@ -17,6 +17,11 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
+import {
+  cancelPendingScroll,
+  pendingScrollQuery,
+  scheduleScrollToMatch
+} from './composables/searchScroll'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
 import { useThemeHandler } from './themes/themeHandler'
@@ -55,16 +60,30 @@ export default {
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
+      // Track the original scroll-behavior so we restore it correctly
+      // instead of unconditionally forcing 'smooth'.
+      // null = no pending restoration (same-page nav or already restored).
+      let savedScrollBehavior: string | null = null
+
       router.onBeforeRouteChange = (to) => {
+        // Cancel any in-progress scroll-to-match from a previous navigation
+        cancelPendingScroll()
+        // Clear stale search query — prevents it from being consumed on the
+        // wrong page if the user navigates away before the target page loads.
+        // navigateToResult re-sets this AFTER router.go() returns.
+        pendingScrollQuery.value = null
+
         try {
           // Force scroll-behavior: auto (instant) when changing pages (path),
           // preventing the "scroll to top" animation.
           // Smooth scrolling is preserved for same-page hash/anchor changes.
           const targetUrl = new URL(to, window.location.href)
           if (targetUrl.pathname !== window.location.pathname) {
+            savedScrollBehavior =
+              document.documentElement.style.scrollBehavior
             document.documentElement.style.scrollBehavior = 'auto'
           }
-        } catch (e) {
+        } catch {
           // Fallback if URL parsing fails
         }
         originalBefore?.(to)
@@ -72,10 +91,44 @@ export default {
 
       router.onAfterRouteChanged = (to) => {
         originalAfter?.(to)
-        // Re-enable smooth scrolling shortly after navigation completes
-        setTimeout(() => {
-          document.documentElement.style.scrollBehavior = 'smooth'
-        }, 1)
+
+        const hasPendingSearch = !!pendingScrollQuery.value
+
+        // Restore scroll-behavior to its original value after navigation.
+        // Only runs when onBeforeRouteChange actually saved a value
+        // (cross-page navigations). Same-page hash changes are skipped.
+        if (savedScrollBehavior !== null) {
+          const valueToRestore = savedScrollBehavior
+          savedScrollBehavior = null
+
+          if (hasPendingSearch) {
+            // When a search scroll is pending, keep scroll-behavior as
+            // 'auto' (instant) until the scroll-to-match operation
+            // completes. scheduleScrollToMatch's onComplete callback
+            // fires when the match is found or all attempts are exhausted,
+            // so we never restore too early or rely on a fragile timeout.
+            const { query, matchContext } = pendingScrollQuery.value!
+            pendingScrollQuery.value = null
+            const hash = window.location.hash.slice(1)
+            scheduleScrollToMatch(hash, query, 150, matchContext, () => {
+              document.documentElement.style.scrollBehavior = valueToRestore
+            })
+            return
+          }
+
+          requestAnimationFrame(() => {
+            document.documentElement.style.scrollBehavior = valueToRestore
+          })
+        }
+
+        // Scroll to the exact matching text after a search-result navigation
+        // (same-page case — no scroll-behavior override was saved)
+        if (hasPendingSearch) {
+          const { query, matchContext } = pendingScrollQuery.value!
+          pendingScrollQuery.value = null
+          const hash = window.location.hash.slice(1)
+          scheduleScrollToMatch(hash, query, 150, matchContext)
+        }
       }
     }
 
