@@ -412,13 +412,21 @@ body {
 @keyframes vp-search-flash {
   0% {
     background-color: rgba(255, 213, 79, 0.25);
-    background-color: color-mix(in srgb, var(--vp-c-yellow-2, #ffd54f) 25%, transparent);
+    background-color: color-mix(
+      in srgb,
+      var(--vp-c-yellow-2, #ffd54f) 25%,
+      transparent
+    );
     outline-color: var(--vp-c-yellow-2, #ffd54f);
   }
 
   70% {
     background-color: rgba(255, 241, 118, 0.15);
-    background-color: color-mix(in srgb, var(--vp-c-yellow-3, #fff176) 15%, transparent);
+    background-color: color-mix(
+      in srgb,
+      var(--vp-c-yellow-3, #fff176) 15%,
+      transparent
+    );
     outline-color: var(--vp-c-yellow-3, #fff176);
   }
 

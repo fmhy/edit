@@ -79,8 +79,7 @@ export default {
           // Smooth scrolling is preserved for same-page hash/anchor changes.
           const targetUrl = new URL(to, window.location.href)
           if (targetUrl.pathname !== window.location.pathname) {
-            savedScrollBehavior =
-              document.documentElement.style.scrollBehavior
+            savedScrollBehavior = document.documentElement.style.scrollBehavior
             document.documentElement.style.scrollBehavior = 'auto'
           }
         } catch {
