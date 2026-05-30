@@ -395,6 +395,7 @@
 ## ▷ Multiplayer Fixes
 
 * ⭐ **[Online Fix](https://online-fix.me/)** - Online / LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Rexa Games](https://rexagames.com/)** - Online / PW: `rexagames.com` / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * ⭐ **[ZeroTier](https://www.zerotier.com/)** - LAN Multiplayer Fix / [LAN Fix](https://github.com/gomaaz/Zerotier_Gaming_Fix)
 * [Radmin](https://www.radmin-vpn.com/) - Dedicated Servers / LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - Dedicated Servers / LAN Multiplayer Fix
