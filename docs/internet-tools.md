@@ -414,7 +414,6 @@
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
-* [Meru](https://github.com/timche/meru) - Gmail Desktop Client
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
@@ -425,8 +424,9 @@
 
 * ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client
+* [Meru](https://github.com/timche/meru) - Gmail Desktop Client
 * [Outlook](https://outlook.live.com/owa/)
-* [ElectronMail](https://github.com/vladimiry/ElectronMail)
 * [eM Client](https://www.emclient.com/)
 * [RainLoop](https://www.rainloop.net/)
 * [Roundcube](https://roundcube.net/)
