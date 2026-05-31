@@ -65,13 +65,75 @@ export default {
       // null = no pending restoration (same-page nav or already restored).
       let savedScrollBehavior: string | null = null
 
+      const scrollHijacker = {
+        originalScrollTo: null as typeof window.scrollTo | null,
+        originalScrollIntoView: null as
+          | typeof Element.prototype.scrollIntoView
+          | null,
+
+        hijack() {
+          if (!this.originalScrollTo) {
+            this.originalScrollTo = window.scrollTo
+            window.scrollTo = () => {}
+          }
+          if (!this.originalScrollIntoView) {
+            this.originalScrollIntoView = Element.prototype.scrollIntoView
+            Element.prototype.scrollIntoView = function () {}
+          }
+        },
+
+        restore() {
+          if (this.originalScrollTo) {
+            window.scrollTo = this.originalScrollTo
+            this.originalScrollTo = null
+          }
+          if (this.originalScrollIntoView) {
+            Element.prototype.scrollIntoView = this.originalScrollIntoView
+            this.originalScrollIntoView = null
+          }
+        }
+      }
+
       router.onBeforeRouteChange = (to) => {
         // Cancel any in-progress scroll-to-match from a previous navigation
         cancelPendingScroll()
-        // Clear stale search query — prevents it from being consumed on the
-        // wrong page if the user navigates away before the target page loads.
-        // navigateToResult re-sets this AFTER router.go() returns.
-        pendingScrollQuery.value = null
+
+        // Restore scroll functions if they were left hijacked from a failed/cancelled previous navigation
+        scrollHijacker.restore()
+
+        // A search navigation is only the one whose destination matches the
+        // pending query's recorded path. Any other navigation (e.g. a sidebar
+        // link clicked while the search target is still loading) must clear the
+        // stale query so it is never consumed on the wrong page.
+        const normalizePath = (p: string) =>
+          p
+            .replace(/\.html$/, '')
+            .replace(/\/index$/, '')
+            .replace(/\/$/, '')
+            .toLowerCase() || '/'
+
+        let isSearchNav = false
+        const pending = pendingScrollQuery.value
+        if (pending) {
+          try {
+            isSearchNav =
+              normalizePath(new URL(to, window.location.href).pathname) ===
+              normalizePath(new URL(pending.path, window.location.href).pathname)
+          } catch {
+            // If URL parsing fails, assume this is the search nav rather than
+            // dropping the query and silently breaking scroll-to-match.
+            isSearchNav = true
+          }
+        }
+
+        // Hijack scroll functions early if this is the search navigation to
+        // block VitePress's default route-change scroll to heading or top.
+        if (isSearchNav) {
+          scrollHijacker.hijack()
+        } else {
+          // Clear any stale query left over from a superseded navigation.
+          pendingScrollQuery.value = null
+        }
 
         try {
           // Force scroll-behavior: auto (instant) when changing pages (path),
@@ -89,9 +151,18 @@ export default {
       }
 
       router.onAfterRouteChanged = (to) => {
-        originalAfter?.(to)
-
         const hasPendingSearch = !!pendingScrollQuery.value
+
+        try {
+          originalAfter?.(to)
+        } finally {
+          // Restore scroll functions after originalAfter has finished running,
+          // but ONLY if this is not a search navigation. If it IS a search navigation,
+          // we defer restoration until our custom search scroll runs or completes.
+          if (!hasPendingSearch) {
+            scrollHijacker.restore()
+          }
+        }
 
         // Restore scroll-behavior to its original value after navigation.
         // Only runs when onBeforeRouteChange actually saved a value
@@ -109,9 +180,16 @@ export default {
             const { query, matchContext } = pendingScrollQuery.value!
             pendingScrollQuery.value = null
             const hash = window.location.hash.slice(1)
-            scheduleScrollToMatch(hash, query, 150, matchContext, () => {
-              document.documentElement.style.scrollBehavior = valueToRestore
-            })
+            scheduleScrollToMatch(
+              hash,
+              query,
+              16,
+              matchContext,
+              () => {
+                document.documentElement.style.scrollBehavior = valueToRestore
+              },
+              () => scrollHijacker.restore()
+            )
             return
           }
 
@@ -126,7 +204,9 @@ export default {
           const { query, matchContext } = pendingScrollQuery.value!
           pendingScrollQuery.value = null
           const hash = window.location.hash.slice(1)
-          scheduleScrollToMatch(hash, query, 150, matchContext)
+          scheduleScrollToMatch(hash, query, 16, matchContext, undefined, () =>
+            scrollHijacker.restore()
+          )
         }
       }
     }

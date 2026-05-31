@@ -9,6 +9,12 @@ import { ref } from 'vue'
 export const pendingScrollQuery = ref<{
   query: string
   matchContext: string | null
+  /**
+   * Destination path (without hash) of the search navigation. The router hook
+   * compares this against the actual navigation target so a stale query from
+   * an aborted/superseded navigation is never consumed on the wrong page.
+   */
+  path: string
 } | null>(null)
 
 // Active scroll operation ID — incremented on every new schedule call
@@ -248,6 +254,9 @@ function doScrollAndHighlight(el: Element): void {
   )
 }
 
+// Callback to restore scroll functions, registered by index.ts when hijacking.
+let activeBeforeScroll: (() => void) | null = null
+
 /**
  * Cancel any in-progress scroll-to-match operation. Call this before starting
  * a new one or when the user navigates away.
@@ -261,6 +270,10 @@ export function cancelPendingScroll(): void {
   if (highlightTimeout) {
     clearTimeout(highlightTimeout)
     highlightTimeout = null
+  }
+  if (activeBeforeScroll) {
+    activeBeforeScroll()
+    activeBeforeScroll = null
   }
   if (typeof document !== 'undefined') {
     document.documentElement.classList.remove('vp-search-scrolling')
@@ -278,16 +291,23 @@ export function cancelPendingScroll(): void {
  * @param onComplete   Optional callback fired when the scroll completes (or
  *                     all attempts are exhausted). Used by the router to
  *                     defer scroll-behavior restoration until the scroll is done.
+ * @param onBeforeScroll Optional callback fired right before the first scroll attempt.
+ *                       Used to restore hijacked scroll functions.
  */
 export function scheduleScrollToMatch(
   hash: string,
   query: string,
-  initialDelay = 150,
+  initialDelay = 16,
   matchContext: string | null = null,
-  onComplete?: () => void
+  onComplete?: () => void,
+  onBeforeScroll?: () => void
 ): void {
   // Cancel any previous scroll operation
   cancelPendingScroll()
+
+  if (onBeforeScroll) {
+    activeBeforeScroll = onBeforeScroll
+  }
 
   // Lock the navbar in place during the scroll operation to prevent layout shifts
   if (typeof document !== 'undefined') {
@@ -307,6 +327,10 @@ export function scheduleScrollToMatch(
   function complete() {
     if (!completed) {
       completed = true
+      if (activeBeforeScroll) {
+        activeBeforeScroll()
+        activeBeforeScroll = null
+      }
       // Always fire onComplete — even when stale — so deferred restoration
       // (e.g. scroll-behavior in the router hook) is never skipped.
       onComplete?.()
@@ -322,6 +346,11 @@ export function scheduleScrollToMatch(
     if (isStale()) {
       complete() // ensure callback fires even when cancelled
       return true
+    }
+
+    if (activeBeforeScroll) {
+      activeBeforeScroll()
+      activeBeforeScroll = null
     }
 
     let sectionEl: HTMLElement | null = null

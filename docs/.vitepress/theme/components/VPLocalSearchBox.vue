@@ -1469,13 +1469,12 @@ function navigateToResult(id: string, matchContext: string | null = null) {
     }
   }
 
-  // Cross-page navigation: close modal, start navigation, then store query.
-  // router.go() synchronously fires onBeforeRouteChange (which clears
-  // pendingScrollQuery to guard against stale values). We re-set it AFTER
-  // router.go() returns so it survives for onAfterRouteChanged to consume.
+  // Cross-page navigation: store query (with destination path so the router
+  // hook can reject it if a different navigation supersedes this one), close
+  // modal, start navigation.
+  pendingScrollQuery.value = { query, matchContext, path }
   close()
   router.go(id)
-  pendingScrollQuery.value = { query, matchContext }
 }
 
 function resetSearch() {
