@@ -26,6 +26,22 @@ function isIgnored(file) {
   )
 }
 
+function readAllDocs(dir, ignoredFiles, ignoredDirs) {
+  let content = ''
+  const entries = fs.readdirSync(dir, { withFileTypes: true })
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name).replace(/\\/g, '/')
+    if (entry.isDirectory()) {
+      if (!ignoredDirs.some((d) => fullPath.startsWith(d.replace(/\/$/, '')))) {
+        content += readAllDocs(fullPath, ignoredFiles, ignoredDirs)
+      }
+    } else if (entry.name.endsWith('.md') && !ignoredFiles.includes(fullPath)) {
+      content += fs.readFileSync(fullPath, 'utf-8') + '\n'
+    }
+  }
+  return content
+}
+
 function generateRemovedSites() {
   console.log(`Generating recently removed sites from the last ${DAYS} days...`)
   console.log(`Current working directory: ${process.cwd()}`)
@@ -102,10 +118,7 @@ function generateRemovedSites() {
   const removedSites = []
 
   // Get current state of all valid wiki docs to check if a URL still exists somewhere
-  const findCommand = `find docs -name "*.md" ${IGNORED_DIRS.map((d) => `! -path "${d}*"`).join(' ')} ${IGNORED_FILES.map((f) => `! -path "${f}"`).join(' ')}`
-  const allCurrentDocs = execSync(`${findCommand} | xargs cat`, {
-    maxBuffer: 100 * 1024 * 1024
-  }).toString()
+  const allCurrentDocs = readAllDocs('docs', IGNORED_FILES, IGNORED_DIRS)
 
   for (const commit of commits) {
     const lines = commit.split('\n')

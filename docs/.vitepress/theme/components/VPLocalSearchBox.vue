@@ -1,5 +1,5 @@
 <script lang="ts">
-import { ref, h } from 'vue'
+import { h, ref } from 'vue'
 
 const RESULTS_PAGE_SIZE = 16
 const MAX_RESULTS_IN_MEMORY = 200
@@ -18,6 +18,7 @@ const globalExcerptCache = new Map<string, Map<string, string>>()
 // Persisted results state across mount/unmount of the modal
 const globalLastQuery = ref('')
 const globalLastFuzzy = ref(false)
+const globalLastUrlSearch = ref(false)
 const globalLastDetailed = ref(false)
 const globalResults = ref<any[]>([])
 const globalAllResults = ref<any[]>([])
@@ -96,6 +97,7 @@ interface Result {
   title: string
   titles: string[]
   text?: string
+  urlMatched?: boolean
 }
 
 interface BoostFlags {
@@ -122,9 +124,11 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+// Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
+const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
 const customMetadata = shallowRef<
-  Record<string, { l?: string[]; s?: string[] }>
+  Record<string, { l?: string[]; s?: string[]; u?: string[] }>
 >({})
 
 const globalLinksData = computed(() => {
@@ -185,6 +189,46 @@ function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
     }
   }
   return out
+}
+
+function normalizeUrlSearchValue(value: string) {
+  let decoded = value.trim()
+  try {
+    decoded = decodeURI(decoded)
+  } catch {
+    // Keep the raw value if it is not a valid encoded URI.
+  }
+  return decoded
+    .replace(INVISIBLE_CHARS_RE, '')
+    .replace(/\s+/g, '')
+    .toLowerCase()
+}
+
+function urlSearchVariants(value: string) {
+  const normalized = normalizeUrlSearchValue(value)
+  const withoutProtocol = normalized.replace(/^[a-z][a-z0-9+.-]*:\/\//, '')
+  const withoutWww = withoutProtocol.replace(/^www\./, '')
+  const compact = withoutWww.replace(/[^a-z0-9]/g, '')
+  return [
+    ...new Set(
+      [normalized, withoutProtocol, withoutWww, compact].filter(Boolean)
+    )
+  ]
+}
+
+function urlMatchesQuery(url: string, query: string) {
+  const normalizedQuery = normalizeUrlSearchValue(query)
+  if (normalizedQuery.length < 3) return false
+
+  const urlVariants = urlSearchVariants(url)
+  const queryVariants = urlSearchVariants(query)
+  return urlVariants.some((urlValue) =>
+    queryVariants.some(
+      (queryValue) =>
+        queryValue &&
+        (urlValue.includes(queryValue) || queryValue.includes(urlValue))
+    )
+  )
 }
 
 const searchIndex = computedAsync(async () => {
@@ -265,6 +309,7 @@ function matchesGlobalState() {
     inBrowser &&
     filterText.value === globalLastQuery.value &&
     isFuzzySearch.value === globalLastFuzzy.value &&
+    isUrlSearch.value === globalLastUrlSearch.value &&
     showDetailedList.value === globalLastDetailed.value
   )
 }
@@ -303,11 +348,7 @@ const recentSearches = useLocalStorage<string[]>(
 const shouldResetScroll = ref(false)
 
 const autoSuggestions = computed(() => {
-  if (
-    !filterText.value ||
-    results.value.length > 0 ||
-    !searchIndex.value
-  )
+  if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
 
   const query = filterText.value.trim()
@@ -350,7 +391,7 @@ const autoSuggestions = computed(() => {
   }
 })
 
-watch([filterText, isFuzzySearch], () => {
+watch([filterText, isFuzzySearch, isUrlSearch], () => {
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
   shouldResetScroll.value = true
@@ -391,12 +432,33 @@ function findPageTitle(items: SidebarItem[], path: string): string | null {
   return null
 }
 
+function findUrlMatches(index: MiniSearch<Result>, query: string) {
+  const matches: (SearchResult & Result)[] = []
+  for (const [id, meta] of Object.entries(customMetadata.value)) {
+    if (!meta.u?.some((url) => urlMatchesQuery(url, query))) continue
+
+    const storedFields = index.getStoredFields(id) as Result | undefined
+    if (!storedFields) continue
+
+    matches.push({
+      id,
+      score: 1,
+      terms: [query],
+      queryTerms: [query],
+      match: {},
+      ...storedFields,
+      urlMatched: true
+    })
+  }
+  return matches
+}
+
 /**
  * Main search handler - debounced to avoid excessive re-renders while typing.
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 watch(
-  [filterText, isFuzzySearch, showDetailedList, searchIndex],
+  [filterText, isFuzzySearch, isUrlSearch, showDetailedList, searchIndex],
   () => {
     isSearching.value = !matchesGlobalState() && !!filterText.value
   },
@@ -425,6 +487,7 @@ debouncedWatch(
       searchIndex.value,
       filterText.value,
       isFuzzySearch.value,
+      isUrlSearch.value,
       showDetailedList.value
     ] as const,
   async ([index, filterTextValue], old, onCleanup) => {
@@ -516,9 +579,28 @@ debouncedWatch(
     // Search and retrieve all matches (up to 200 max in memory)
     const rawResults = index.search(query, searchOptions) as (SearchResult &
       Result)[]
+    const urlResults = isUrlSearch.value
+      ? findUrlMatches(index, filterTextValue)
+      : []
+    const mergedResultsById = new Map<string, SearchResult & Result>()
+    for (const result of rawResults) {
+      mergedResultsById.set(result.id, result)
+    }
+    for (const result of urlResults) {
+      const existing = mergedResultsById.get(result.id)
+      if (existing) {
+        existing.score += result.score
+        existing.urlMatched = true
+      } else {
+        mergedResultsById.set(result.id, result)
+      }
+    }
 
     const sidebarItems = Array.isArray(sidebar) ? sidebar : []
-    const currentResults: (SearchResult & Result)[] = rawResults
+    const currentResults: (SearchResult & Result)[] = [
+      ...mergedResultsById.values()
+    ]
+      .sort((a, b) => b.score - a.score)
       .slice(0, MAX_RESULTS_IN_MEMORY)
       .map((r) => {
         const [id] = r.id.split('#')
@@ -625,6 +707,7 @@ debouncedWatch(
     globalAllResults.value = boostedResults
     globalLastQuery.value = filterTextValue
     globalLastFuzzy.value = isFuzzySearch.value
+    globalLastUrlSearch.value = isUrlSearch.value
     globalLastDetailed.value = showDetailedList.value
     globalUsedSubstringExpansion.value = usedSubstringExpansion.value
   },
@@ -766,6 +849,30 @@ watch(
 
     if (isFuzzySearch.value) {
       mergeNearbyMarks()
+    }
+
+    // URL matches match on a link's href, which mark.js can't highlight because
+    // the query text isn't in the visible link text. Highlight the specific
+    // link(s) in the excerpt whose href matched the query.
+    if (isUrlSearch.value) {
+      for (const r of finalResults) {
+        if (!r.urlMatched) continue
+        const item = resultsEl.value?.querySelector(
+          `[data-id="${CSS.escape(r.id)}"]`
+        )
+        if (!item) continue
+        const anchors =
+          item.querySelectorAll<HTMLAnchorElement>('.excerpt a[href]')
+        for (const anchor of anchors) {
+          const href = anchor.getAttribute('href') ?? ''
+          if (!urlMatchesQuery(href, filterText.value)) continue
+          if (anchor.querySelector('mark[data-markjs="true"]')) continue
+          const mark = document.createElement('mark')
+          mark.setAttribute('data-markjs', 'true')
+          mark.append(...anchor.childNodes)
+          anchor.appendChild(mark)
+        }
+      }
     }
 
     const excerpts = Array.from(
@@ -1073,6 +1180,7 @@ function filterResults(
   return results.filter((r) => {
     if (clean(r.title).includes(phrase)) return true
     if (r.titles.some((t) => clean(t).includes(phrase))) return true
+    if (r.urlMatched) return true
     if (!r.text) return true // Keep optimistically if text is not fetched yet
     return clean(r.text).includes(phrase)
   })
@@ -1349,6 +1457,8 @@ const customTitles = {
   nextMatch: 'Next match',
   fuzzyOn: 'Switch to Exact Search',
   fuzzyOff: 'Switch to Fuzzy Search',
+  urlOn: 'Disable URL Search',
+  urlOff: 'Enable URL Search',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches'
 }
@@ -1450,6 +1560,10 @@ function toggleFuzzySearch() {
   isFuzzySearch.value = !isFuzzySearch.value
 }
 
+function toggleUrlSearch() {
+  isUrlSearch.value = !isUrlSearch.value
+}
+
 function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
   const groups: HTMLElement[][] = []
   if (marks.length === 0) return groups
@@ -1542,7 +1656,10 @@ function isSamePageComparison(destPath: string) {
       .replace(/\/index$/, '')
       .replace(/\/$/, '')
       .toLowerCase()
-    if (base !== '/' && cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))) {
+    if (
+      base !== '/' &&
+      cleaned.startsWith(base.toLowerCase().replace(/\/$/, ''))
+    ) {
       cleaned = cleaned.slice(base.toLowerCase().replace(/\/$/, '').length)
     }
     return cleaned || '/'
@@ -1695,6 +1812,20 @@ function fastScrollTo(targetY: number, duration = 150) {
                       ? 'Fuzzy Search Active'
                       : 'Exact Search Active'
                   }}
+                </span>
+              </button>
+
+              <button
+                class="toggle-url-button"
+                type="button"
+                :class="{ 'url-active': isUrlSearch }"
+                :aria-pressed="isUrlSearch"
+                :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
+                @click="toggleUrlSearch"
+              >
+                <span class="url-icon">@</span>
+                <span class="visually-hidden">
+                  {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
                 </span>
               </button>
 
@@ -2138,7 +2269,8 @@ function fastScrollTo(targetY: number, duration = 150) {
 
 .search-actions button:not([disabled]):hover,
 .toggle-layout-button.detailed-list,
-.toggle-fuzzy-button.fuzzy-active {
+.toggle-fuzzy-button.fuzzy-active,
+.toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
 }
 
@@ -2685,6 +2817,34 @@ svg {
 }
 
 .toggle-fuzzy-button.fuzzy-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+/* Custom Feature: URL search toggle button styling */
+.toggle-url-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-url-button .url-icon {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.toggle-url-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
 }
