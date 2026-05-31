@@ -686,7 +686,7 @@
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
-* [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
+* [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
 * [r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit

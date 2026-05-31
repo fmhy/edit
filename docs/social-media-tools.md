@@ -271,7 +271,7 @@
 * [tdl](https://docs.iyear.me/tdl/) - File Download / Upload Tool / [GitHub](https://github.com/iyear/tdl)
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
-* [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
+* [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [⁠Quicksbot](https://t.me/quicksbot), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
 * [GdriveXbot](https://t.me/TheGdriveXBot) or [google-drive-telegram-bot](https://github.com/viperadnan-git/) - Google Drive Upload Bots
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
@@ -306,7 +306,7 @@
 
 * ↪️ **[YouTube Ad + Sponsorblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)**
 * ⭐ **[PocketTube](https://pockettube.io/)** or [Kadium](https://kadium.kasper.space/) - Subscription Managers
-* ⭐ **[LocalTube Manager](https://localtubemanager.pages.dev/)** - Subscribe, Like Videos, Make Playlists without Account / [GitHub](https://github.com/abhishekY495/localtube-manager)
+* ⭐ **[LocalTube Manager](https://localtubemanager.pages.dev/)** - Subscribe, Like Videos, Make Playlists Locally without Account / [GitHub](https://github.com/abhishekY495/localtube-manager)
 * [Youtube-shorts block](https://github.com/doma-itachi/Youtube-shorts-block) or [Shorts Deflector](https://evenevan.github.io/shorts-deflector/) / [GitHub](https://github.com/evenevan/shorts-deflector) - Play Shorts In The Normal Desktop Interface
 * [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/) or [Hide YT Shorts Filter List](https://github.com/gijsdev/ublock-hide-yt-shorts) - Hide YouTube Shorts
 * [YouTube Wrapped](https://videorecap.viewodyssey.com/) - Personal YouTube Rewind

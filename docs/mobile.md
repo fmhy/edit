@@ -88,7 +88,7 @@
 * ⭐ **[Aurora Store](https://auroraoss.com/)** - Google Play Store Alt / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aurora-note.md)
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKToy](https://www.apktoy.com/)
-* [APKPure](https://apkpure.net/)
+* [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list) / [Telegram](https://t.me/materialyouapps)
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
@@ -176,7 +176,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠piko (Instagram)](https://t.me/pikopatches), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
+* [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat

@@ -381,7 +381,6 @@
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* [QQDL](https://tidal.qqdl.site/) - Tidal / FLAC
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse) / [GitHub](https://github.com/anandprtp/Antra)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [EzConv](https://ezconv.cc/) - YouTube / 256kb

@@ -979,12 +979,6 @@
 
 ***
 
-# ► Malay / Bahasa Melayu
-
-* [Lowyat](https://forum.lowyat.net/) - Tech Forum
-
-***
-
 # ► Persian / فارسی
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
@@ -1840,6 +1834,7 @@
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
 * [vaizdopamokos](https://vaizdopamokos.lt/) - Lithuanian Educational Videos
+* [Lowyat](https://forum.lowyat.net/) - Malay / Tech Forum
 * [Paper](https://paper.naya.com.np/) - Nepali / Text Tools
 * [NRK TV](https://tv.nrk.no/) - Norwegian / Stream / Movies / TV / Documentaries / Sub / 1080p
 * [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Norwegian / Books / Journals / Magazines / Maps / Music Sheets

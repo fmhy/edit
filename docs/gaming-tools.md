@@ -43,6 +43,7 @@
 * [CSDb](https://csdb.dk/) or [GB64](https://gb64.com/index.php) - Commodore 64 Resources
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources / Translators
 * [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠Translumo](https://github.com/ramjke/Translumo) - Game Live Translators
+* [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
 
@@ -683,7 +684,7 @@
 
 ## ▷ Launchers
 
-* ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/ElyPrismLauncher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, Mac, Linux
+* ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, Mac, Linux
 * [SkLauncher](https://skmedix.pl/) - User-Friendly Launcher / [Ad Bypass](https://greasyfork.org/en/scripts/563188) / Windows, Mac, Linux
 * [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher / Windows, Mac, Linux

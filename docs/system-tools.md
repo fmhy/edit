@@ -25,6 +25,7 @@
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Process Monitor
 * [Why Is This Running?](https://github.com/pranshuparmar/witr) - Process Tracing / Debugging
+* [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
 * [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
@@ -70,7 +71,7 @@
 ## ▷ Package Managers
 
 * ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
-* ⭐ **[UniGetUI](https://github.com/Devolutions/UniGetUI)** - GUI for Popular Package Managers / [GitHub](https://github.com/marticliment/UniGetUI)
+* ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
@@ -111,6 +112,7 @@
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell
+* [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [Mintty](https://mintty.github.io/) - Cygwin Terminal Emulator

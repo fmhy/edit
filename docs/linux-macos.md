@@ -567,7 +567,7 @@
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
 * [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma 
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
+* [varietywalls](https://github.com/varietywalls/variety), [⁠Waywallen](https://github.com/waywallen/waywallen) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
 * [⁠tint](https://github.com/ashish0kumar/tint) - Recolor Wallpapers for System Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control

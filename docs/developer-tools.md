@@ -145,7 +145,7 @@
 * [Baserow](https://baserow.io/) - Database Manager / Requires Sign-Up / [GitLab](https://gitlab.com/baserow/baserow)
 * [NocoDB](https://github.com/nocodb/nocodb) - Database Manager / Requires Sign-Up
 * [Sqlable](https://sqlable.com/) - SQL Tools
-* [Grafana](https://grafana.com/) - Self-Hosted Dev Data Dashboard
+* [Grafana](https://grafana.com/) - Self-Hosted Dev Data Dashboard / [GitHub](https://github.com/grafana/grafana)
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [ChartDB](https://chartdb.io/) - Database Visualization / [GitHub](https://github.com/chartdb/chartdb)
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases

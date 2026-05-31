@@ -116,11 +116,11 @@
 
 ## ▷ Indie Games
 
+* 🌐 **[Indie Rentry](https://rentry.org/hhtxv7ud)** - Indie Games List
 * ↪️ **[Indie Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_indie_browser_games)**
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)** - Indie Games / [Discord](https://discord.gg/qDaYeXPsRK)
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - Indie Game Repacker ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
-* [Indie Rentry](https://rentry.org/hhtxv7ud) - Indie Games
 * [Killed By A Pixel](https://frankforce.com/all-games/) - Indie Games
 * [Gamdie](https://gamdie.com/) - Indie Games / [Discord](https://discord.gg/cDKH3R4nR2)
 * [DigiPen](https://games.digipen.edu/) - Indie Games

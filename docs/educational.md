@@ -475,6 +475,7 @@
 * [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization
 * [Space.com](https://www.space.com/) - Space News
 * [⁠Russian Space Web](https://russianspaceweb.com/) - Russian Space Program News / History
+* [⁠Mental Landscape](http://mentallandscape.com/) - Soviet Space Exploration Archive / [X](https://x.com/DonaldPMitchell)
 * [Encyclopedia Astronautica](http://www.astronautix.com/) - Space Encyclopedia
 * [NASA+](https://plus.nasa.gov/) - Official NASA Streaming Service
 * [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books

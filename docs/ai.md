@@ -20,7 +20,7 @@
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [Meta AI](https://www.meta.ai/) - Muse Spark / Meta Sign-Up / Unlimited
 * [⁠Ernie](https://ernie.baidu.com/) - Ernie 5.1 Thinking / 5.1 Instant
-* [ChatGPT](https://chatgpt.com/) - GPT-5.5 Instant / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
+* [ChatGPT](https://chatgpt.com/) - GPT-5.5 Instant / GPT-5.4 Mini Thinking (use /think) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)

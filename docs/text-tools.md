@@ -214,7 +214,7 @@
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / Windows / [GitHub](https://github.com/FrozenAssassine/Fastedit)
 * [Kompad](https://github.com/hudy9x/kompad) - Text Editor / Web Based
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / Windows, Mac, Linux / [Package Manager](https://packagecontrol.io/)
-* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, Mac, Linux
+* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, Mac, Linux / [GitHub](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, Mac, Linux
 * [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor / Windows, Mac, Linux
 
@@ -619,6 +619,7 @@
 * [Text-Generator](https://text-generator.app/)
 * [BoldTextGenerator](https://boldtextgenerator.org/)
 * [TextEditor](https://texteditor.com/)
+* [CuteFontCopy](https://cutefontcopy.com/)
 * [FontGenerator.design](https://fontgenerator.design/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
 * [FontGenerator.cc](https://fontgenerator.cc/)
