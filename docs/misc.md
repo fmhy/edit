@@ -715,7 +715,7 @@
 * [Workout.cool](https://workout.cool/) or [Workout.lol](https://workout.lol/) - Custom Workout Plans
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
-* [BuffBook](https://buffbook.chitilivorno.workers.dev/) - Strength Training Booklet / [GitHub](https://github.com/classy-giraffe/BuffBook)
+* [BuffBook](https://buffbook.org/) - Strength Training Booklet / [GitHub](https://github.com/classy-giraffe/BuffBook)
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [Impakt](https://www.impakt.com/) - AI Fitness Coach / Social Platform
