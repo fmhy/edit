@@ -40,6 +40,11 @@ const SCROLL_THRESHOLD = 12
 watch(y, (newY, oldY) => {
   if (!inBrowser) return
 
+  // If a search scroll-to-match operation is active, lock the navbar state
+  if (document.documentElement.classList.contains('vp-search-scrolling')) {
+    return
+  }
+
   // If mobile Table of Contents dropdown is open, do not hide the nav bar.
   // NOTE: This selector depends on VitePress internal DOM structure; update if VitePress changes class names.
   if (document.querySelector('.VPLocalNavOutlineDropdown .items')) {

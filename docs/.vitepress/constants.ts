@@ -46,7 +46,7 @@ if (typeof originalToJSON === 'function') {
 
 function getDocId(file: string) {
   const srcDir = path.resolve(__dirname, '..')
-  let relFile = path.relative(srcDir, file).replace(/\\/g, '/')
+  const relFile = path.relative(srcDir, file).replace(/\\/g, '/')
   let id = '/' + relFile
   id = id.replace(/(^|\/)index\.md$/, '$1')
   id = id.replace(/\.md$/, '')
@@ -241,7 +241,7 @@ export const search: DefaultTheme.Config['search'] = {
       options: {
         tokenize: (text: string) =>
           text
-            .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
+            .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
           // biome-ignore lint/style/noParameterAssign: h
