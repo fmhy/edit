@@ -3,7 +3,7 @@
   "packageManager": "pnpm@10.12.2+sha256.07b2396c6c99a93b75b5f9ce22be9285c3b2533c49fec51b349d44798cf56b82",
   "type": "module",
   "engines": {
-    "node": ">=25.2.1"
+    "node": "^22.13.0 || >=24"
   },
   "scripts": {
     "api:build": "nitropack build",
@@ -15,7 +15,8 @@
     "docs:build": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress build docs/",
     "docs:dev": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress dev docs/",
     "docs:preview": "vitepress preview docs/",
-    "format": "prettier -w --cache --check .",
+    "format": "prettier -w --cache .",
+    "format:check": "prettier --cache --check .",
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
     "lint": "eslint .",
     "lint:md": "node scripts/lint-markdown.js || true",
@@ -23,7 +24,7 @@
     "prepare": "simple-git-hooks"
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm format && pnpm lint && pnpm lint:md"
+    "pre-commit": "pnpm format:check && pnpm lint && pnpm lint:md"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.23",
