@@ -589,6 +589,7 @@
 * 🌐 **[BoardGameGeek](https://boardgamegeek.com/)**, **[RPGGeek](https://rpggeek.com/)**, **[⁠EntertainMe](https://www.entertainme.fun/)**, **[Online Board Games](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view)** or **[Kallax](https://kallax.io/)** - Board Game / TTRPG Databases
 * 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
+* ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
 * ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 * [⁠BoardGameplay](https://boardgameplay.com/) - Online Board Games / [Discord](https://discord.gg/EC5ZvQa7M5)
 * [FlyOrDie](https://www.flyordie.com/) - Online Board Games
@@ -658,25 +659,6 @@
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-
-***
-
-## ▷  Go / Baduk / Weiqi
-
-* 🌐 **[Go Magic: How to Play Go](https://gomagic.org/how-to-play-go-rules/)** - Beginner Go Tutorial
-* 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** – Reddit community for Go / Baduk / Weiqi
-* ⭐ **[Online Go Server (OGS)](https://online-go.com/)** – Modern Online Go Platform / [GitHub](https://github.com/online-go)
-* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
-* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Elegant Go Board & SGF Editor 
-* [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
-* [KataGo Training](https://katagotraining.org/) – Open-source neural network Go AI
-* [The Interactive Way To Go](https://playgo.to/en) – Interactive beginner tutorial 
-* [Josekipedia](https://www.josekipedia.com/) – Dictionary for corner openings
-* [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro game pattern search engine
-* [GoProblems](https://goproblems.com/) – Tactical puzzle database
-* [GoKibitz](https://gokibitz.com/) – Game reviews and community feedback
-* [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
-* [Igowin](https://smart-games.com/igowin.html) – 9x9 desktop Go AI for beginners
 
 ***
 
