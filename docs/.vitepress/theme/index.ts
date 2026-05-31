@@ -79,8 +79,15 @@ export default {
           // Smooth scrolling is preserved for same-page hash/anchor changes.
           const targetUrl = new URL(to, window.location.href)
           if (targetUrl.pathname !== window.location.pathname) {
-            savedScrollBehavior =
-              document.documentElement.style.scrollBehavior
+            // Capture the ORIGINAL behavior only once. If a prior overlapping
+            // cross-page navigation already forced 'auto' and hasn't restored
+            // yet (savedScrollBehavior still set), don't overwrite it with the
+            // forced 'auto' — otherwise the eventual restore would pin the page
+            // to 'auto' permanently and break smooth TOC/anchor scrolling.
+            if (savedScrollBehavior === null) {
+              savedScrollBehavior =
+                document.documentElement.style.scrollBehavior
+            }
             document.documentElement.style.scrollBehavior = 'auto'
           }
         } catch {
@@ -92,6 +99,12 @@ export default {
       router.onAfterRouteChanged = (to) => {
         originalAfter?.(to)
 
+        // NOTE: VitePress performs its own scroll-to-hash inside the router's
+        // loadPage() (in a nextTick), NOT in this hook, so we cannot suppress
+        // the heading scroll from here. The "heading-first" jump is instead
+        // neutralized by forcing scroll-behavior:'auto' in onBeforeRouteChange,
+        // which makes both VitePress's heading scroll and our match scroll
+        // instant (so they read as a single jump to the final position).
         const hasPendingSearch = !!pendingScrollQuery.value
 
         // Restore scroll-behavior to its original value after navigation.
@@ -110,7 +123,7 @@ export default {
             const { query, matchContext } = pendingScrollQuery.value!
             pendingScrollQuery.value = null
             const hash = window.location.hash.slice(1)
-            scheduleScrollToMatch(hash, query, 150, matchContext, () => {
+            scheduleScrollToMatch(hash, query, 0, matchContext, () => {
               document.documentElement.style.scrollBehavior = valueToRestore
             })
             return
@@ -127,7 +140,7 @@ export default {
           const { query, matchContext } = pendingScrollQuery.value!
           pendingScrollQuery.value = null
           const hash = window.location.hash.slice(1)
-          scheduleScrollToMatch(hash, query, 150, matchContext)
+          scheduleScrollToMatch(hash, query, 0, matchContext)
         }
       }
     }

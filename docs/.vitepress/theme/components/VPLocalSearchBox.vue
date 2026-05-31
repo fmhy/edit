@@ -1445,18 +1445,24 @@ function navigateToResult(id: string, matchContext: string | null = null) {
   // Cancel any previous scroll-to-match operation
   cancelPendingScroll()
 
-  if (decodedHash && isSamePageComparison(path)) {
-    const targetEl = document.getElementById(decodedHash)
+  if (isSamePageComparison(path)) {
+    // Same-page navigation: the DOM is already rendered, so resolve the
+    // heading synchronously. We handle this branch even when decodedHash is
+    // empty or the heading element is missing — falling through to
+    // router.go(id) for a same-path URL is a no-op and would scroll nowhere.
+    close()
+    const targetEl = decodedHash ? document.getElementById(decodedHash) : null
     if (targetEl) {
-      close()
       window.history.pushState(null, '', `#${hash}`)
-      // Single scroll directly to the matching element (no two-step scroll
-      // to heading first — that caused jerky animation). For same-page,
-      // the DOM is already rendered, so use a short delay for the modal
-      // close transition to start.
-      scheduleScrollToMatch(hash, query, 50, matchContext)
-      return
+      // Single scroll directly to the matching element (no two-step scroll to
+      // heading first — that caused jerky animation).
+      scheduleScrollToMatch(hash, query, 0, matchContext)
+    } else {
+      // No resolvable heading — scan the whole document for the match by
+      // passing an empty hash (scrollToMatchInSection then scans all .vp-doc).
+      scheduleScrollToMatch('', query, 0, matchContext)
     }
+    return
   }
 
   // Cross-page navigation: close modal, start navigation, then store query.
@@ -1589,7 +1595,6 @@ function isSamePageComparison(destPath: string) {
   const dest = clean(destPath) || '/'
   return current === dest
 }
-
 </script>
 
 <template>

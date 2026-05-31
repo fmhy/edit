@@ -30,6 +30,18 @@ let activeObserver: MutationObserver | null = null
 // or when the scroll operation is cancelled.
 let highlightTimeout: ReturnType<typeof setTimeout> | null = null
 
+// Pending polling/observer timers for the in-flight scroll operation.
+// All are cleared by cancelPendingScroll so rapid re-navigation never leaks
+// timers or lets a stale callback act on a newer operation.
+let pollTimeout: ReturnType<typeof setTimeout> | null = null
+let safetyTimeout: ReturnType<typeof setTimeout> | null = null
+let observerDebounceTimer: ReturnType<typeof setTimeout> | null = null
+
+// onComplete callback of the in-flight operation. Held at module scope so
+// cancelPendingScroll can fire it exactly once when an operation is cancelled,
+// guaranteeing the router never stays stuck with scroll-behavior:'auto'.
+let pendingComplete: (() => void) | null = null
+
 /**
  * After navigating to a section heading, scroll down to the first element
  * whose text content matches (any word of) the search query.
@@ -226,29 +238,30 @@ function doScrollAndHighlight(el: Element): void {
   const navHeight = navEl ? navEl.clientHeight : 64
   const htmlEl = el as HTMLElement
 
-  // Calculate scroll-margin-top so scrollIntoView({ block: 'start' }) places
-  // the element at 33% of the viewport height (but never above the navbar).
+  // scroll-margin-top makes scrollIntoView({ block: 'start' }) place the
+  // element desiredOffset px below the viewport top — i.e. at ~33%.
   const desiredOffset = Math.max(
     navHeight + 24,
     Math.floor(window.innerHeight * 0.33)
   )
-  const prevScrollMargin = htmlEl.style.scrollMarginTop
-  htmlEl.style.scrollMarginTop = `${desiredOffset}px`
+  const prevScrollMargin = htmlEl.style.getPropertyValue('scroll-margin-top')
+  htmlEl.style.setProperty('scroll-margin-top', `${desiredOffset}px`)
 
-  // Force instant scroll — override any CSS smooth scroll
-  const docEl = document.documentElement
-  const prevBehavior = docEl.style.scrollBehavior
-  docEl.style.scrollBehavior = 'auto'
+  // 'instant' bypasses CSS scroll-behavior entirely, so we never need to
+  // touch document.documentElement.style.scrollBehavior here. The previous
+  // implementation saved/restored scrollBehavior in a double-rAF, which
+  // fired AFTER onComplete had already restored it — permanently locking the
+  // page into scrollBehavior:'auto' and breaking smooth TOC/anchor scrolling.
+  el.scrollIntoView({ block: 'start', behavior: 'instant' as ScrollBehavior })
 
-  el.scrollIntoView({ block: 'start', behavior: 'auto' })
-
-  // Restore scroll-margin-top and scroll-behavior after the browser has
-  // fully processed the scroll. Double rAF ensures the layout/paint cycle
-  // is complete before we remove the temporary styles.
+  // Restore scroll-margin-top after the scroll is committed.
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
-      htmlEl.style.scrollMarginTop = prevScrollMargin
-      docEl.style.scrollBehavior = prevBehavior
+      if (prevScrollMargin) {
+        htmlEl.style.setProperty('scroll-margin-top', prevScrollMargin)
+      } else {
+        htmlEl.style.removeProperty('scroll-margin-top')
+      }
     })
   })
 
@@ -274,6 +287,33 @@ export function cancelPendingScroll(): void {
     clearTimeout(highlightTimeout)
     highlightTimeout = null
   }
+  if (pollTimeout) {
+    clearTimeout(pollTimeout)
+    pollTimeout = null
+  }
+  if (safetyTimeout) {
+    clearTimeout(safetyTimeout)
+    safetyTimeout = null
+  }
+  if (observerDebounceTimer) {
+    clearTimeout(observerDebounceTimer)
+    observerDebounceTimer = null
+  }
+  // Remove any leftover highlight from an interrupted scroll so a cancelled
+  // navigation never leaves a stale outline on the page.
+  if (typeof document !== 'undefined') {
+    document
+      .querySelector('.vp-search-highlight-target')
+      ?.classList.remove('vp-search-highlight-target')
+  }
+  // Fire the in-flight completion callback exactly once. Without this, a
+  // cancelled cross-page scroll would leave document scroll-behavior pinned to
+  // 'auto' (the caller restores it in onComplete), breaking smooth scrolling
+  // site-wide. complete() is idempotent, so this is safe even if it later
+  // fires again from a stale callback.
+  const complete = pendingComplete
+  pendingComplete = null
+  complete?.()
 }
 
 /**
@@ -282,7 +322,8 @@ export function cancelPendingScroll(): void {
  *
  * @param hash         The URL hash (without #) identifying the section heading
  * @param query        The search query text to find within the section
- * @param initialDelay Extra delay (ms) before the first attempt. Defaults to 150.
+ * @param initialDelay Extra delay (ms) before the first attempt. Defaults to 0
+ *                     (first attempt on the next animation frame).
  * @param matchContext Optional text content identifying the specific match
  * @param onComplete   Optional callback fired when the scroll completes (or
  *                     all attempts are exhausted). Used by the router to
@@ -291,7 +332,7 @@ export function cancelPendingScroll(): void {
 export function scheduleScrollToMatch(
   hash: string,
   query: string,
-  initialDelay = 150,
+  initialDelay = 0,
   matchContext: string | null = null,
   onComplete?: () => void
 ): void {
@@ -311,9 +352,12 @@ export function scheduleScrollToMatch(
   function complete() {
     if (!completed) {
       completed = true
+      if (pendingComplete === complete) pendingComplete = null
       onComplete?.()
     }
   }
+  // Expose this operation's completer so cancelPendingScroll can fire it.
+  pendingComplete = complete
 
   function tryScroll(): boolean {
     if (isStale()) {
@@ -357,7 +401,7 @@ export function scheduleScrollToMatch(
     if (found) return
 
     if (attempts < maxAttempts) {
-      setTimeout(poll, intervalMs)
+      pollTimeout = setTimeout(poll, intervalMs)
     } else {
       // All polling attempts exhausted — fall back to MutationObserver.
       startObserver()
@@ -376,42 +420,52 @@ export function scheduleScrollToMatch(
       return
     }
 
-    let debounceTimer: ReturnType<typeof setTimeout> | null = null
-
-    activeObserver = new MutationObserver(() => {
+    // Local handle to THIS observer so stale callbacks only ever disconnect
+    // their own observer, never a newer navigation's observer that has since
+    // replaced the shared activeObserver.
+    const myObserver = new MutationObserver(() => {
       if (isStale()) {
-        activeObserver?.disconnect()
-        activeObserver = null
+        if (activeObserver === myObserver) activeObserver = null
+        myObserver.disconnect()
         complete()
         return
       }
       // Debounce: batch rapid mutations into a single tryScroll call
-      if (debounceTimer) clearTimeout(debounceTimer)
-      debounceTimer = setTimeout(() => {
-        debounceTimer = null
+      if (observerDebounceTimer) clearTimeout(observerDebounceTimer)
+      observerDebounceTimer = setTimeout(() => {
+        observerDebounceTimer = null
+        if (isStale()) return
         const found = tryScroll()
-        if (found) {
-          activeObserver?.disconnect()
+        if (found && activeObserver === myObserver) {
+          myObserver.disconnect()
           activeObserver = null
+          if (safetyTimeout) {
+            clearTimeout(safetyTimeout)
+            safetyTimeout = null
+          }
         }
       }, 50)
     })
+    activeObserver = myObserver
 
-    activeObserver.observe(contentRoot, {
+    myObserver.observe(contentRoot, {
       childList: true,
       subtree: true
     })
 
     // Safety: disconnect observer after 5 seconds to prevent leaks
     const observerScrollId = scrollId
-    setTimeout(() => {
-      if (activeObserver && observerScrollId === activeScrollId) {
-        activeObserver.disconnect()
+    safetyTimeout = setTimeout(() => {
+      if (
+        activeObserver === myObserver &&
+        observerScrollId === activeScrollId
+      ) {
+        myObserver.disconnect()
         activeObserver = null
       }
-      if (debounceTimer) {
-        clearTimeout(debounceTimer)
-        debounceTimer = null
+      if (observerDebounceTimer) {
+        clearTimeout(observerDebounceTimer)
+        observerDebounceTimer = null
       }
       complete()
     }, 5000)
@@ -423,7 +477,7 @@ export function scheduleScrollToMatch(
       complete()
       return
     }
-    setTimeout(poll, initialDelay)
+    pollTimeout = setTimeout(poll, initialDelay)
   })
 }
 
