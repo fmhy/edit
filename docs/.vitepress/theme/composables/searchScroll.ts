@@ -1,10 +1,3 @@
-/**
- *  Copyright (c) 2025 taskylizard. Apache License 2.0.
- *
- *  Shared state and utilities for scrolling to the exact matching text
- *  within a section after navigating from a search result.
- */
-
 import { ref } from 'vue'
 
 /**
@@ -220,34 +213,29 @@ function doScrollAndHighlight(el: Element): void {
     highlightTimeout = null
   }
 
-  // Position the match at ~33% from the top of the viewport for comfortable
-  // reading context (the user can see what's above the match).
-  const navEl = document.querySelector('.VPNavBar')
-  const navHeight = navEl ? navEl.clientHeight : 64
-  const htmlEl = el as HTMLElement
+  const navHeight = getNavbarHeight()
 
-  // Calculate scroll-margin-top so scrollIntoView({ block: 'start' }) places
-  // the element at 33% of the viewport height (but never above the navbar).
-  const desiredOffset = Math.max(
-    navHeight + 24,
-    Math.floor(window.innerHeight * 0.33)
-  )
-  const prevScrollMargin = htmlEl.style.scrollMarginTop
-  htmlEl.style.scrollMarginTop = `${desiredOffset}px`
+  // Place the match at 18% of the remaining viewport height below the navbar
+  const viewportHeight =
+    typeof window !== 'undefined' ? window.innerHeight : 800
+  const remainingHeight = Math.max(200, viewportHeight - navHeight)
+  const desiredOffset = navHeight + Math.floor(remainingHeight * 0.18)
 
-  // Force instant scroll — override any CSS smooth scroll
+  // Calculate the target scroll position relative to the document
+  const rect = el.getBoundingClientRect()
+  const targetY = Math.max(0, rect.top + window.scrollY - desiredOffset)
+
+  // Force instant scroll by overriding any active smooth scroll behavior in documentElement
   const docEl = document.documentElement
   const prevBehavior = docEl.style.scrollBehavior
   docEl.style.scrollBehavior = 'auto'
-
-  el.scrollIntoView({ block: 'start', behavior: 'auto' })
-
-  // Restore scroll-margin-top and scroll-behavior after the browser has
-  // fully processed the scroll. Double rAF ensures the layout/paint cycle
-  // is complete before we remove the temporary styles.
+  window.scrollTo({
+    top: targetY,
+    behavior: 'auto'
+  })
+  // Restore original scroll behavior after layout/paint processes the instant scroll
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
-      htmlEl.style.scrollMarginTop = prevScrollMargin
       docEl.style.scrollBehavior = prevBehavior
     })
   })
@@ -274,6 +262,9 @@ export function cancelPendingScroll(): void {
     clearTimeout(highlightTimeout)
     highlightTimeout = null
   }
+  if (typeof document !== 'undefined') {
+    document.documentElement.classList.remove('vp-search-scrolling')
+  }
 }
 
 /**
@@ -298,6 +289,11 @@ export function scheduleScrollToMatch(
   // Cancel any previous scroll operation
   cancelPendingScroll()
 
+  // Lock the navbar in place during the scroll operation to prevent layout shifts
+  if (typeof document !== 'undefined') {
+    document.documentElement.classList.add('vp-search-scrolling')
+  }
+
   const scrollId = activeScrollId
   let attempts = 0
   const maxAttempts = 15
@@ -311,7 +307,14 @@ export function scheduleScrollToMatch(
   function complete() {
     if (!completed) {
       completed = true
+      // Always fire onComplete — even when stale — so deferred restoration
+      // (e.g. scroll-behavior in the router hook) is never skipped.
       onComplete?.()
+      // Only clear the lock if this op is still the active one; a stale op
+      // must not remove the class belonging to a newer scroll operation.
+      if (!isStale() && typeof document !== 'undefined') {
+        document.documentElement.classList.remove('vp-search-scrolling')
+      }
     }
   }
 
@@ -341,7 +344,8 @@ export function scheduleScrollToMatch(
         activeObserver.disconnect()
         activeObserver = null
       }
-      complete()
+      // Defer completion to let the browser process the scroll event before unlocking the navbar
+      setTimeout(complete, 100)
     }
     return found
   }
@@ -430,4 +434,36 @@ export function scheduleScrollToMatch(
 function getHeadingLevel(el: Element): number {
   const match = /^h(\d)$/i.exec(el.tagName)
   return match ? parseInt(match[1], 10) : 0
+}
+
+function getNavbarHeight(): number {
+  if (typeof window === 'undefined') return 64
+  let navHeight = 64
+  const navHeightVar = getComputedStyle(document.documentElement)
+    .getPropertyValue('--vp-nav-height')
+    .trim()
+  if (navHeightVar) {
+    const parsed = parseInt(navHeightVar, 10)
+    if (!isNaN(parsed) && parsed > 0) {
+      navHeight = parsed
+    }
+  } else {
+    const navEl = document.querySelector('.VPNavBar')
+    if (navEl && navEl.clientHeight > 0) {
+      navHeight = navEl.clientHeight
+    }
+  }
+
+  // Account for mobile sub-navigation bar (.VPLocalNav) if visible and stacked below main navbar
+  if (window.innerWidth < 960) {
+    const localNavEl = document.querySelector('.VPLocalNav')
+    if (localNavEl) {
+      const rect = localNavEl.getBoundingClientRect()
+      if (rect.height > 0) {
+        navHeight += rect.height
+      }
+    }
+  }
+
+  return navHeight
 }

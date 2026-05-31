@@ -522,3 +522,9 @@ body,
 .vp-doc .v-popper {
   vertical-align: -0.2em;
 }
+
+/* Prevent navbar collapsing/uncollapsing and disable transitions during search scroll operations */
+html.vp-search-scrolling .VPNav {
+  transform: none !important;
+  transition: none !important;
+}

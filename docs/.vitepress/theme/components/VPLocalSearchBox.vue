@@ -1433,6 +1433,15 @@ function handleResultClick(e: MouseEvent, id: string) {
 }
 
 function navigateToResult(id: string, matchContext: string | null = null) {
+  // Dismiss mobile keyboard immediately by blurring the active input.
+  // This triggers a viewport resize so we calculate the correct scroll position.
+  if (
+    typeof document !== 'undefined' &&
+    document.activeElement instanceof HTMLElement
+  ) {
+    document.activeElement.blur()
+  }
+
   const [path, hash] = id.split('#')
   const query = filterText.value
   let decodedHash: string | null = null
@@ -1450,11 +1459,12 @@ function navigateToResult(id: string, matchContext: string | null = null) {
     if (targetEl) {
       close()
       window.history.pushState(null, '', `#${hash}`)
-      // Single scroll directly to the matching element (no two-step scroll
-      // to heading first — that caused jerky animation). For same-page,
-      // the DOM is already rendered, so use a short delay for the modal
-      // close transition to start.
-      scheduleScrollToMatch(hash, query, 50, matchContext)
+      // Single scroll directly to the matching element. For same-page,
+      // use a longer delay on mobile so the virtual keyboard can dismiss
+      // and the viewport height can settle before scrolling.
+      const isMobile = typeof window !== 'undefined' && window.innerWidth < 768
+      const delay = isMobile ? 300 : 80
+      scheduleScrollToMatch(hash, query, delay, matchContext)
       return
     }
   }
@@ -1589,7 +1599,6 @@ function isSamePageComparison(destPath: string) {
   const dest = clean(destPath) || '/'
   return current === dest
 }
-
 </script>
 
 <template>
