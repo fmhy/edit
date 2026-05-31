@@ -406,7 +406,33 @@ body {
   border-radius: 4px;
   outline: 2px solid var(--vp-c-yellow-2, #ffd54f);
   outline-offset: 2px;
-  animation: vp-search-flash 2s ease-out forwards;
+  /* Solid resting state so the highlight is visible even when the fade
+   * animation is suppressed (e.g. reduced-motion userstyles that force
+   * animation-duration to ~0, which would otherwise jump straight to the
+   * transparent end-state). JS removes the class after 2s regardless. */
+  background-color: rgba(255, 213, 79, 0.22);
+  background-color: color-mix(
+    in srgb,
+    var(--vp-c-yellow-2, #ffd54f) 22%,
+    transparent
+  );
+}
+
+/* The fade-out is a progressive enhancement, only for users who haven't
+ * asked to reduce motion. The base rule above remains the source of truth
+ * for visibility. */
+@media (prefers-reduced-motion: no-preference) {
+  .vp-search-highlight-target {
+    animation: vp-search-flash 2s ease-out forwards;
+  }
+}
+
+/* High-contrast / forced-colors mode strips author background and outline
+ * colors; pin the outline to a system color so the match is still marked. */
+@media (forced-colors: active) {
+  .vp-search-highlight-target {
+    outline-color: Highlight;
+  }
 }
 
 @keyframes vp-search-flash {

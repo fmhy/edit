@@ -118,7 +118,9 @@ export default {
           try {
             isSearchNav =
               normalizePath(new URL(to, window.location.href).pathname) ===
-              normalizePath(new URL(pending.path, window.location.href).pathname)
+              normalizePath(
+                new URL(pending.path, window.location.href).pathname
+              )
           } catch {
             // If URL parsing fails, assume this is the search nav rather than
             // dropping the query and silently breaking scroll-to-match.
