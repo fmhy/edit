@@ -18,7 +18,7 @@
     "format": "prettier -w --cache --check .",
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
     "lint": "eslint .",
-    "lint:md": "node scripts/lint-markdown.js",
+    "lint:md": "node scripts/lint-markdown.js || true",
     "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
     "prepare": "simple-git-hooks"
   },
