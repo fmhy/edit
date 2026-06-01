@@ -64,10 +64,9 @@
 
 ## ▷ Content Removers
 
-* ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/) or [HAMA](https://www.hama.app/) - Object Removers
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, [Inpaint](https://theinpaint.com/) or [HAMA](https://www.hama.app/) - Object Removers
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
-* [Ripolas Background Remover](https://ripolas.org/background-remover/) - Background Remover / Non-AI
 * [Change BG](https://www.change-bg.org/) - Background Remover
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
 * [remove.bg](https://www.remove.bg/) - Background Remover / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
@@ -87,7 +86,6 @@
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Hosted
 * [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
-* [Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling

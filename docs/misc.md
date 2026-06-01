@@ -1256,7 +1256,6 @@
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
-* [Disroot](https://disroot.org/en/#services) - Text / Social Media
 * [Private.coffee](https://private.coffee/services.html) - Text / Code 
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [delphitools](https://delphi.tools/), [2](https://tools.rmv.fyi/) - Social Media / Text / Image

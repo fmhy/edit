@@ -113,6 +113,7 @@
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers
+* [⁠Proton Meet](https://proton.me/meet) - Video Chat
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
 * [Videolink2me](https://videolink2me.com/) - Video Chat
 * [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / [GitHub](https://github.com/jitsi/jitsi-meet)
@@ -839,7 +840,7 @@
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
 * ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** - Website Downloader
-* ⭐ **[Kiwix](https://get.kiwix.org/en/solutions/applications/download-options/)** / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) / [Subreddit](https://www.reddit.com/r/Kiwix/) / [GitHub](https://github.com/kiwix/) or [DownloadNet (dn)](https://github.com/DO-SAY-GO/dn) - Offline Website Readers
+* ⭐ **[Kiwix](https://get.kiwix.org/en/solutions/applications/download-options/)** / [Library](https://browse.library.kiwix.org/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) / [Subreddit](https://www.reddit.com/r/Kiwix/) / [GitHub](https://github.com/kiwix/) or [DownloadNet (dn)](https://github.com/DO-SAY-GO/dn) - Offline Website Readers
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
 * [Tubeup](https://github.com/bibanon/tubeup) - Multi-VOD Service to IA Uploader
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
