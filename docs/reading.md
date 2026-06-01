@@ -30,7 +30,7 @@
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [BooksMania](https://t.me/booksmania) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
-* [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending 
+* [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -420,7 +420,7 @@
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
+* [MangaK](https://mangak.io/home)
 * [MangaBall](https://mangaball.net/)
 * [Mangapill](https://mangapill.com/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
@@ -675,7 +675,7 @@
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
 * [BASE](https://www.base-search.net/) - Academic Papers Search Engine
-* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine 
+* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine
 * [Share OSF](https://share.osf.io/) - Academic Papers Search Engine
 * [Scinapse](https://scinapse.io/) - Academic Papers Search Engine / [Pro Script](https://rentry.co/scinapsebypass)
 * [Semantic Scholar](https://www.semanticscholar.org/) - Academic Papers Search Engine
@@ -696,7 +696,7 @@
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
-* [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search 
+* [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search
 * [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Requires Sign-Up
@@ -724,13 +724,13 @@
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals / [Search](https://www.pubmedisearch.com/)
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
-* [⁠JMIR Publications](https://jmirpublications.com/) - Health / Medicine Journals 
+* [⁠JMIR Publications](https://jmirpublications.com/) - Health / Medicine Journals
 * [⁠PubMed Central](https://pmc.ncbi.nlm.nih.gov/) - Biomedical / Life Science Journals
 * [medRxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [bioRvix](https://www.biorxiv.org/) - Biology Preprints
 * [Bioline](https://www.bioline.org.br/) - Bioscience Journals
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
-* [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments 
+* [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments
 * [Catalyzex](https://www.catalyzex.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [Censored Planet](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.com/) - Find Connected Academic Papers
@@ -909,16 +909,16 @@
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
-* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools 
+* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
+* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 * [⁠Midloop](https://midloop.net/) - Book Release Date Tracker / [Discord](https://discord.gg/AvUxR59Yv5)
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
-* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
+* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
 
 ***
 
