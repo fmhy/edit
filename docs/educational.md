@@ -936,7 +936,7 @@
 * [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro Game Pattern Search Engine
 * [GoProblems](https://goproblems.com/) – Tactical Puzzle Database
 * [GoKibitz](https://gokibitz.com/) – Game Reviews and Community Feedback
-* [Baduk.club] https://baduk.club/map/) - Map of Go clubs and Players
+* [Baduk.club](https://baduk.club/map/) - Map of Go clubs and Players
 * [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
 * [Igowin](https://smart-games.com/igowin.html) – 9x9 Desktop Go AI for Beginners
 
@@ -1601,7 +1601,7 @@
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
-* [JEE Books](https://t.me/+iHmGydsEO343ODk1) or [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) / [Telegram](https://telegram.me/jeebookspdf) - JEE Books Archives
+* [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
@@ -1716,7 +1716,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
-* [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
+* [Kalker](https://kalker.xyz/), [⁠SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [⁠Numla](https://numla.app/) / [GitHub](https://github.com/davidesantangelo/numla) or [Math Notepad](https://mathnotepad.com/) - Live Calculative Notepads

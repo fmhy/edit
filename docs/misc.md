@@ -409,7 +409,6 @@
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
-* [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
 * [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
 * [carto.tchoo](https://carto.tchoo.net/) - French Live Train Map
 * [⁠MiniLondon3D](https://www.minilondon3d.xyz/) - Real-time 3D map of the London Underground 

@@ -155,7 +155,7 @@
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
-* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
+* ⭐ **[Milkie](https://milkie.cc)** / [Invite Required](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter

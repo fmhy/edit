@@ -196,7 +196,7 @@
 * [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
 * [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
-* [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/), [PixelartGenerator](https://pixelartgenerator.app/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
+* [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
@@ -477,7 +477,7 @@
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
-* [reshot](https://www.reshot.com/), [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
+* [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
@@ -709,10 +709,9 @@
 ***
 
 * ⭐ **[ImageToText](https://www.imagetotext.info/)** - Online OCR
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [⁠NormCap](https://dynobo.github.io/normcap/), / [GitHub](https://github.com/dynobo/normcap), [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [TextShot](https://github.com/ianzhao05/textshot), [⁠NormCap](https://dynobo.github.io/normcap/), / [GitHub](https://github.com/dynobo/normcap), [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/blob/main/README_en.md) / [Alt Engines](https://github.com/hiroi-sora/Umi-OCR_plugins/)
+, [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
-* [TextShot](https://github.com/ianzhao05/textshot) - Cross-Platform OCR
-* [ImageScanOCR](https://github.com/ttop32/ImageScanOCR) - Windows OCR Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
@@ -894,7 +893,8 @@
 * [⁠PentaxForums Reviews](https://www.pentaxforums.com/reviews/all/) - Camera Gear Reviews
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
-* [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, Mac, Linux
+* [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) / [X](https://x.com/Blackmagic_News)
+, [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, Mac, Linux
 * [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator

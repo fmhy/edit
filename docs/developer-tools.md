@@ -746,7 +746,7 @@
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
-* [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
+* [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) or [The Website Specification](https://specification.website/) / [GitHub](https://github.com/jdevalk/specification.website) - Website Design Checklists
 * [Dagu](https://dagu.cloud/) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
 * [cURL](https://curl.se/) or [xh](https://github.com/ducaale/xh) - HTTP Clients / Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](https://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
@@ -822,7 +822,6 @@
 * [8b](https://8b.com/) - Simple Online Website Builder
 * [Potion](https://potion.so/) - Notion Website Builder
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
-* [ProjectVisBug](https://visbug.web.app) - Webpage Editor
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
 ***

@@ -29,7 +29,6 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[Cimaleek](https://cimaleek.ws/)** - Movies / TV
 * ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabLionz](https://arlionztv.ink/) - Movies / TV / Sub / 1080p
@@ -554,7 +553,6 @@
 * [Cineby](https://www.cineby.gd/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
-* [Cine](https://cine.to/) - Movies / TV / Dub / 720p
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
 * [megakino3](https://megakino3.tv/) - Movies / TV / Anime
@@ -1792,7 +1790,6 @@
 * ⭐ **[Thoát Porn Luận](https://thu-tram.github.io/tpl/)** - Porn Quitting Guide / EasyPeasy Translation
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
-* [GacSach](https://gacsach.org/) - Books
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua

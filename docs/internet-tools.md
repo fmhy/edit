@@ -763,7 +763,6 @@
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Linkclump Plus](https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm) - Select, Copy or Open Multiple Links at Once / [GitHub](https://github.com/from-es/linkclump-plus)
 * [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup
-* [CrxMouse](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking

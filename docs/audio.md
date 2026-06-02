@@ -41,7 +41,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [BeatBoss](https://beatboss-web.thevolecitor.qzz.io/) - Browser Music / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [Mixupload](https://mixupload.com/) - Browser Music
-* [zvu4no](https://zvu4no.org/) or [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.vercel.app/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
 * [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.vercel.app/) - Recreates MTV Experience from Different Eras
 * [The 120 Minutes Archive](https://120minutes.org/) - MTV's 120 Minutes Archive
@@ -439,7 +439,6 @@
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
-* [Lossless-FLAC](https://lossless-flac.com/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) - FLAC
 * [⁠Music and Books](https://musicsandbooks.org/) - MP3 / FLAC
@@ -469,7 +468,6 @@
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
-* [Saavn Web](https://saavn-web-ui.vercel.app/) - MP3 / [GitHub](https://github.com/wiz64/saavn-web-ui)
 * [CannaPower](https://canna-power.to) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
@@ -597,7 +595,7 @@
 * [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [KDramaOST](https://kdramaost.com/en/) - KDrama Soundtracks
-* [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [VGMdb](https://vgmdb.net/), [JMAX](https://discord.gg/hCw8VqJV8J), [OSAnime](https://osanime.com/) or [Anime Sharing](https://koe.anime-sharing.com/) - Anime Soundtracks
+* [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [VGMdb](https://vgmdb.net/), [JMAX](https://discord.gg/hCw8VqJV8J) or [OSAnime](https://osanime.com/) - Anime Soundtracks
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music
 * [AMV](https://www.animemusicvideos.org/) - Anime Music Videos
 * [Doujin Cafe (Discord)](https://discord.com/invite/doujincafe) or [DoujinStyle](https://doujinstyle.com/) / [Discord](https://discord.com/invite/z2QDFdA) - Doujin Music

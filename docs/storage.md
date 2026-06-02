@@ -160,7 +160,6 @@
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List
-* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
 * [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
 * [Index ⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List
@@ -459,7 +458,7 @@
 
 * [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
 * [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [Tackling TS](https://exploringjs.com/ts/book/index.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
 * [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
 
