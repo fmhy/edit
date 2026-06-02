@@ -1703,17 +1703,17 @@
 
 * [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
 
-## ▷ Torrenting
+## ▷ Torrenting / Торрентінг
 
 * [Mazepa](https://mazepa.to/) - Video / Audio / Books
 * [Toloka](https://toloka.to/) - Torrent Tracker
 * [utog](https://utog.org/uzhm/) - Ukrainian Sign Language Dictionary
 
-## ▷ Reading
+## ▷ Reading / Читання
 
 * [manga.in](https://manga.in.ua/) - Manga
 
-## ▷ Streaming
+## ▷ Streaming / Стрімінг
 
 * [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Telegram](https://t.me/uaserialchannel)
 * [UAKino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
