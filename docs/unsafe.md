@@ -84,7 +84,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * Avira - Owned by Gen Digital
-* LD Cloud / LDPlayer / LD Shop - Got caught [tracking peoples keystrokes](https://redd.it/1tcrr3p) / [2](https://x.com/NTE_WL/status/2054627592054153273) on payment screens.
 * Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots. 
 * CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
