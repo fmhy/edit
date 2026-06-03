@@ -704,7 +704,6 @@
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
-* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 
 ***
 
