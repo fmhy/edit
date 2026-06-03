@@ -148,6 +148,7 @@ export default defineConfig({
           try {
             var today = new Date();
             if (today.getMonth() === 5) {
+              document.documentElement.classList.add('june');
               function applyJuneTheme() {
                 var links = document.querySelectorAll("link[rel*='icon']");
                 links.forEach(function(link) {
@@ -162,6 +163,12 @@ export default defineConfig({
                 logos.forEach(function(img) {
                   if (img.getAttribute('src') !== '/june_icon.webp') {
                     img.setAttribute('src', '/june_icon.webp');
+                  }
+                });
+                var hero = document.querySelectorAll("img[src*='test.png']");
+                hero.forEach(function(img) {
+                  if (img.getAttribute('src') !== '/test.svg') {
+                    img.setAttribute('src', '/test.svg');
                   }
                 });
               }
