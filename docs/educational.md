@@ -693,6 +693,7 @@
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
+* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
@@ -703,6 +704,7 @@
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
+* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 
 ***
 
@@ -966,6 +968,7 @@
 * [⁠Rebrickable](https://rebrickable.com/) - LEGO Collection Manager / Build Ideas
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool
 
 ***

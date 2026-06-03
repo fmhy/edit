@@ -355,7 +355,7 @@
 
 * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
-* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
+* [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) / [Mobile](https://github.com/Promises/LibriSync) - Audible DRM Remover / Manager
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [Multi-Platform Client](https://github.com/Vito0912/abs_flutter) / [Mobile](https://github.com/advplyr/audiobookshelf-app), [2](https://github.com/GrakovNe/lissen-android/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
@@ -419,7 +419,7 @@
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
+* [MangaK](https://mangak.io/)
 * [MangaBall](https://mangaball.net/)
 * [Mangapill](https://mangapill.com/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
@@ -673,7 +673,7 @@
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
-* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine 
+* [Neliti](https://www.neliti.com/) - Academic Papers Search Engine
 * [Share OSF](https://share.osf.io/) - Academic Papers Search Engine
 * [Scinapse](https://scinapse.io/) - Academic Papers Search Engine / [Pro Script](https://rentry.co/scinapsebypass)
 * [Semantic Scholar](https://www.semanticscholar.org/) - Academic Papers Search Engine
@@ -692,6 +692,7 @@
 * [Springer](https://www.springer.com/) - Research Papers
 * [Biomed Central](https://www.biomedcentral.com/) - Research Papers
 * [Zenodo](https://zenodo.org/) - Research Papers
+* [OA.mg](https://oa.mg/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
 * [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search 

@@ -12,19 +12,15 @@
 * ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ⭐ **[SortMyList](https://sortmylist.com/)**, **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
-* ⭐ **[Goblin.tools](https://goblin.tools/Formalizer/)** - Transform Text with Spiciness Levels
-* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
+* [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [Paperless-ngx](https://docs.paperless-ngx.com) / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [SmartDoc](https://killytoronto.github.io/textanalyzer/) - Document Analyzer
-* [Diffr](https://loilo.github.io/diffr/), [Diffchecker](https://www.diffchecker.com/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/), [OnlineTextCompare](https://onlinetextcompare.com/), [CompareText](https://www.comparetext.io/) or [DiffNow](https://www.diffnow.com/) - Compare Text
+* [Diffr](https://loilo.github.io/diffr/) / [GitHub](https://github.com/loilo/diffr), [TextCompare](https://www.textcompare.org/), [OnlineTextCompare](https://onlinetextcompare.com/) or [CompareText](https://www.comparetext.io/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text from Any Window
 * [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery 
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
-* [BeefText](https://beeftext.org/) - Text Substitution Tool
-* [⁠Asciify](https://asciify.dev/) - ASCII Character Reference
 * [Scanner](https://simon-knuth.github.io/scanner/index) / [GitHub](https://github.com/simon-knuth/scanner) or [NAPS2](https://www.naps2.com/) - Scanner Apps
-* [Calligrapher.ai](https://www.calligrapher.ai/), [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [texttohandwriting](https://texttohandwriting.com/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converters
-* [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
+* [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [texttohandwriting](https://texttohandwriting.com/) - Text to Handwriting Converters
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
 

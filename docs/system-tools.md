@@ -44,7 +44,7 @@
 * ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [Customizable Skin](https://github.com/bonzibudd/Fluent-Metro) or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
+* ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts

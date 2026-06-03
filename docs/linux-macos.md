@@ -412,6 +412,7 @@
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
 * [HowtoForge](https://www.howtoforge.com/) / [GitHub](https://github.com/lollipopkit/flutter_server_box) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [serverbox](https://cdn.lpkt.cn/serverbox/), [⁠Termix](https://github.com/Termix-SSH/Termix) / [Discord](https://discord.gg/jVQGdvHDrf), [EasyPanel](https://easypanel.io/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/), [CasaOS](https://casaos.zimaspace.com/) / [GitHub](https://github.com/IceWhaleTech/CasaOS) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Managers / Status
+* [Exo](https://github.com/exo-explore/exo/) - Run AI Clusters / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠LXD UI](https://github.com/canonical/lxd-ui) - Linux Container + Virtual Machine Manager
 * [Proxmox](https://www.proxmox.com/) - Self-Hosted Server Tools / Virtual Environment
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script

@@ -111,6 +111,7 @@
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
+* [SlimeVR](https://docs.slimevr.dev/) - DIY VR Full-Body Tracking System / Guides / [Discord](https://discord.gg/SlimeVR) / [GitHub](https://github.com/SlimeVR)
 
 ***
 
@@ -563,6 +564,7 @@
 * [Three Letters Game](https://threelettersgame.com/) - Daily Word Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [⁠Word Salad](https://wordsalad.online/) - Daily Word Puzzle
 * [Squaredle](https://squaredle.app/) - Daily Word Puzzle / [Discord](https://discord.com/invite/aredl)
 * [⁠Glyph](https://glyph.today/) - Daily Word Puzzle
 * [⁠OneLook Games](https://onelook.com/games) - Word Games
@@ -575,6 +577,7 @@
 * [Word500](https://word500.com/) - Wordle + Mastermind
 * [Wordly](https://wordly.org/) - Wordle Clone
 * [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
+* [⁠Crosswordle](https://crosswordle.com/) - Crossword-Style Wordle 
 * [Sqword](https://www.sqword.com/) - Deck-Based Wordle
 * [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
 * [WordMaze](https://wordmaze.click/) - Maze Style Wordle
@@ -749,7 +752,7 @@
 * [⁠Play Games](https://www.play-games.com/) - Browser Game Aggregator
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
 * [⁠Gameflare](https://www.gameflare.com/) - Browser Game Aggregator
-* [Friv](https://www.friv.com/) - Browser Game Aggregator
+* [Friv](https://www.friv.com/) - Browser Game Aggregator / [Old Site](https://www.friv.com/old/)
 * [⁠GamePuma](https://gamepuma.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
 * [⁠Agame](https://www.agame.com/) - Browser Game Aggregator
@@ -831,6 +834,7 @@
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Golf Party](https://golfparty.io/) - Multiplayer Mini Golf Game
+* [Billiards Pool Game](https://billiards.tailuge.workers.dev/) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games

@@ -176,7 +176,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [InstaEclipse](https://github.com/ReSo7200/InstaEclipse) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
+* [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [Purrfect](https://github.com/curious-freak/Purrfect) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -285,6 +285,7 @@
 * [Flickboard](https://codeberg.org/natkr/flickboard) - Keyboard
 * [KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - AI Keyboard
 * [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
+* [⁠Outspoke](https://github.com/minburg/outspoke) - AI Voice Keyboard
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Remap Keys / [Docs](https://docs.keymapper.club/) / [Discord](https://discord.com/invite/jutQhBeKpb)
 
 ***
@@ -813,6 +814,7 @@
 * [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [Sirin](https://play.google.com/store/apps/details?id=com.sirin.android) - Audiobook Player
 * [PlayBook](https://github.com/Goodwy/PlayBook) - Audiobook Player
+* [⁠LibriSync](https://github.com/Promises/LibriSync) - Audible DRM Remover / Manager 
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [Legado MD3](https://github.com/HapeLee/legado-with-MD3/releases) - Ebook Reader
 * [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) - Ebook Reader
@@ -851,7 +853,7 @@
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)** or [⁠Seal+](https://github.com/MaheshTechnicals/Sealplus) - Multi-Site Audio Downloader
 * ⭐ **[ytdlnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
-* ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlists / Converts from Spotify / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
+* ⭐ **[SpotiFLAC-Mobile](https://spotiflac.zarz.moe/)** - Multi-Site Audio Downloader / Playlists / Converts from Spotify / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) / [GitHub](https://github.com/spotiflacapp/SpotiFLAC-Mobile)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
 * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
 * ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
@@ -920,10 +922,10 @@
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* [⁠ArchiveTune](https://github.com/koiverse/ArchiveTune) - YouTube Music Player
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
 * [⁠Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music Player / Spotify Integration
-* [SimpMusic](https://simpmusic.org/) - YouTube Music Player / [Discord](https://discord.com/invite/Rq5tWVM9Hg) / [GitHub](https://github.com/maxrave-dev/SimpMusic)
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player
 * [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
 

@@ -160,11 +160,14 @@
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List
+* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
 * [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
 * [Index ⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List
 * [UDL](https://udl.pages.dev/) - Unrated Demons List
 * [IDL](https://insanedemonlist.com/) - Insane Demon List
+* [MDL](https://mediumdemonslist.pages.dev/) - Medium Demon List / [Discord](https://discord.gg/CwjaCCZvsX)
+* [EDL](https://easydemonlist.pages.dev/) - Easy Demon List / [Discord](https://discord.gg/XGN69bmuQh)
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
@@ -337,7 +340,7 @@
 ## Presentation Tools
 
 * [Slides](https://maaslalani.com/slides/) - Terminal-Based Presentation Tool / [GitHub](https://github.com/maaslalani/slides)
-* [⁠Z.ai](https://chat.z.ai/) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
+* [⁠Z.ai](https://chat.z.ai/), [Presentation](https://presenton.ai/) / [GitHub](https://github.com/presenton/presenton) or [PPTX](https://github.com/AmNotAGoose/PPTX-Presentation-Generator) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
 * [Slidev](https://sli.dev/) - Markdown Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)

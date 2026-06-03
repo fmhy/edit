@@ -7,6 +7,7 @@
 # ► Video Tools
 
 * 🌐 **[Digital Video Intro](https://github.com/leandromoreira/digital_video_introduction)** - Digital Video Guides / Resources
+* ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools)**
 * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
 * [Kast](https://kast.gg/) or [Screen Share Party](https://ba.net/screen/) - Online Screen Share
@@ -157,6 +158,7 @@
 * [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) or [⁠StreamRecorder](https://streamrecorder.io/) - Live Stream Recorder
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
+* [⁠Moblin](https://github.com/eerimoq/moblin) - IRL Live Streaming App / iOS
 * [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast), [OwnCast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
@@ -261,6 +263,7 @@
 * [MPV WebM](https://github.com/ekisu/mpv-webm) - WebM Tool
 * [Play With MPV](https://greasyfork.org/en/scripts/416271) or [ff2mpv](https://github.com/woodruffw/ff2mpv) - Open Videos with MPV
 * [MPV WebTorrent Hook](https://github.com/noctuid/mpv-webtorrent-hook) - Torrent Streaming
+* [⁠mpv-autosub](https://github.com/davidde/mpv-autosub) - Subtitle Auto Downloader
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
@@ -491,7 +494,6 @@
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 * ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) / [Discord](https://discord.gg/9KPvQ4H)
-* ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
 * [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools

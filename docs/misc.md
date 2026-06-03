@@ -135,7 +135,6 @@
 * [⁠LocalHarvest](https://www.localharvest.org/), [⁠Local Picks](https://localpicks.org/) or [⁠USDA Local Food Portal](https://www.usdalocalfoodportal.com/) - Find Local Farms / Farmers' Markets (US only)
 * [⁠Produce Converter](https://www.howmuchisin.com/produce_converters) - Produce Converter / Calculator
 * [DoesItGoBad.com](https://www.doesitgobad.com/) - Food Storage Tips
-* [Heard.](https://heardnyc.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [⁠Cook Well](https://www.cookwell.com/) - Cooking Lessons / Science
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
@@ -222,7 +221,6 @@
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
 * [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord]( https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
-* [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
@@ -563,6 +561,7 @@
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [⁠NCS](https://www.newscaststudio.com/) - Television Broadcast Network News
+* [⁠Podnews](https://podnews.net/) - Podcast News 
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [POTUS Tracker](https://potustracker.us/) or [GovData](https://www.govactionlist.com/) - Government Executive Orders, Location & more
@@ -658,7 +657,7 @@
 
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
-* ⭐ **[Medito](https://github.com/meditohq/medito-app)** - Meditation App
+* ⭐ **[Medito](https://github.com/meditohq/medito-app)** or [⁠Plum Village](https://plumvillage.app/) - Meditation Apps
 * ⭐ **[Breath Ball](https://breathball.com/)** - Guided Breathing Practice App
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
@@ -1189,6 +1188,7 @@
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 
 ***
@@ -1229,7 +1229,6 @@
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
 * [colnect](https://colnect.com/en) - Manage Personal Collections
-* [Diffchecker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://timelinize.com/) - Create Personal Digital Timeline
