@@ -139,6 +139,44 @@ export default defineConfig({
           } catch (e) {}
         })();
         `
+    ],
+    [
+      'script',
+      {},
+      `
+        (function() {
+          try {
+            var today = new Date();
+            if (today.getMonth() === 5) {
+              function applyJuneTheme() {
+                var links = document.querySelectorAll("link[rel*='icon']");
+                links.forEach(function(link) {
+                  if (link.getAttribute('href') !== '/june_icon.webp') {
+                    link.setAttribute('href', '/june_icon.webp');
+                    if (link.hasAttribute('type')) {
+                      link.setAttribute('type', 'image/webp');
+                    }
+                  }
+                });
+                var logos = document.querySelectorAll("img.logo, img[src*='fmhy.ico']");
+                logos.forEach(function(img) {
+                  if (img.getAttribute('src') !== '/june_icon.webp') {
+                    img.setAttribute('src', '/june_icon.webp');
+                  }
+                });
+              }
+              applyJuneTheme();
+              var observer = new MutationObserver(applyJuneTheme);
+              observer.observe(document.documentElement, {
+                childList: true,
+                subtree: true,
+                attributes: true,
+                attributeFilter: ['href', 'type', 'src']
+              });
+            }
+          } catch (e) {}
+        })();
+        `
     ]
   ],
   transformHead: async (context) => generateMeta(context, meta.hostname),
