@@ -22,7 +22,7 @@ defineProps<{
     <div class="p-6">
       <img
         :src="desktop"
-        :alt="title"
+        :alt="`${title} wallpaper preview`"
         class="aspect-[3/2] rounded-md object-cover"
         width="1080"
         height="1920"

@@ -117,8 +117,8 @@ export default defineEventHandler(async (event) => {
     },
     body: JSON.stringify({
       username: 'Feedback',
-      avatar_url:
-        'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
+      // Self-hosted so the avatar can't break if a third-party host changes it.
+      avatar_url: 'https://fmhy.net/pwa_icon.png',
       embeds: [
         {
           color: 3447003,

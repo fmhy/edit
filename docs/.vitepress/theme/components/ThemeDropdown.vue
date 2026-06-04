@@ -123,6 +123,7 @@ onUnmounted(() => {
         type="button"
         class="theme-dropdown-toggle"
         :title="currentChoice.label"
+        :aria-label="`Theme: ${currentChoice.label}`"
       >
         <ClientOnly>
           <Transition name="fade" mode="out-in">
