@@ -958,6 +958,7 @@
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://asoftmurmur.com/) - Mix Ambient Sounds
+* [Moodist for Android](https://github.com/TheJYU/moodist-android) - Simple Ambient Sound Mixer
 * [HealthyMinds](https://hminnovations.org/meditation-app) - Meditation
 * [Serenity](https://github.com/YajanaRao/Serenity) - Meditation / Sleep Sounds
 * [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
