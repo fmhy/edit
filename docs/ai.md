@@ -473,7 +473,6 @@
 * [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) or [Practical Deep Learning](https://course.fast.ai/) - Machine / Deep Learning Courses
-* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [⁠Unsloth](https://unsloth.ai/docs/new/studio) - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA

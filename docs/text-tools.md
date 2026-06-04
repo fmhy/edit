@@ -60,7 +60,7 @@
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
 * [itty.bitty](https://itty.bitty.site/) - Site / Pastebin
-* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
+* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
 

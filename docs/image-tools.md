@@ -645,7 +645,7 @@
 ## ▷ Image Compressors
 
 * ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter
 * ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
 * [optimize.photos](https://optimize.photos/) - Batch Compressor
 * [CompressImage](https://compressimage.io/) - Batch Compressor

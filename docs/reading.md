@@ -16,8 +16,6 @@
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Download / Use Adblocker / [Telegram](https://t.me/ebookhunterorg)
-* [eBookBB](https://ebookbb.in/) - Books / Download
-* [iBookPile](https://ibookpile.in/) - Books / Download
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books
