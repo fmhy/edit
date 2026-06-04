@@ -165,12 +165,6 @@ export default defineConfig({
                     img.setAttribute('src', '/june_icon.webp');
                   }
                 });
-                var hero = document.querySelectorAll("img[src*='test.png']");
-                hero.forEach(function(img) {
-                  if (img.getAttribute('src') !== '/test.svg') {
-                    img.setAttribute('src', '/test.svg');
-                  }
-                });
               }
               applyJuneTheme();
               var observer = new MutationObserver(applyJuneTheme);

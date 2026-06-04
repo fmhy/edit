@@ -204,16 +204,6 @@ body {
 }
 
 html.june {
-  --vp-home-hero-image-background-image: linear-gradient(
-    120deg,
-    #ff6763,
-    #feb044,
-    #fcfd96,
-    #9ee09e,
-    #9ec1ce,
-    #cc99c8
-  ) !important;
-
   --vp-home-hero-name-background: linear-gradient(
     120deg,
     #ff6763,
@@ -223,29 +213,6 @@ html.june {
     #9ec1ce,
     #cc99c8
   ) !important;
-
-  .VPImage.image-src {
-    max-width: 150px !important;
-    max-height: 150px !important;
-  }
-}
-
-@media (min-width: 640px) {
-  html.june {
-    .VPImage.image-src {
-      max-width: 180px !important;
-      max-height: 180px !important;
-    }
-  }
-}
-
-@media (min-width: 960px) {
-  html.june {
-    .VPImage.image-src {
-      max-width: 200px !important;
-      max-height: 200px !important;
-    }
-  }
 }
 
 .base64 {
