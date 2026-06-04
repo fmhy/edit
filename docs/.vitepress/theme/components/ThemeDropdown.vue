@@ -57,6 +57,9 @@ let cleanupFlyout: (() => void) | null = null
 
 // Logic to override the parent VPFlyout behavior to be click-based
 const setupParentFlyoutOverride = () => {
+  // Tear down any previous setup so listeners don't accumulate on re-runs.
+  if (cleanupFlyout) cleanupFlyout()
+
   if (!wrapperRef.value) return
 
   const flyout = wrapperRef.value.closest('.VPFlyout')

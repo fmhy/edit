@@ -30,6 +30,16 @@ export class ThemeHandler {
     theme: null
   })
   private amoledEnabled = ref(false)
+  private prefersDarkMql: MediaQueryList | null = null
+  // Arrow field gives a stable, bound reference we can later remove.
+  private handleSystemThemeChange = (e: MediaQueryListEvent) => {
+    if (!localStorage.getItem(STORAGE_KEY_MODE)) {
+      this.state.value.currentMode = e.matches ? 'dark' : 'light'
+      this.applyTheme()
+    } else {
+      this.applyTheme()
+    }
+  }
 
   constructor() {
     this.initializeTheme()
@@ -66,17 +76,23 @@ export class ThemeHandler {
 
     this.applyTheme()
 
-    // Listen for system theme changes (only if user hasn't set a preference)
-    window
-      .matchMedia('(prefers-color-scheme: dark)')
-      .addEventListener('change', (e) => {
-        if (!localStorage.getItem(STORAGE_KEY_MODE)) {
-          this.state.value.currentMode = e.matches ? 'dark' : 'light'
-          this.applyTheme()
-        } else {
-          this.applyTheme()
-        }
-      })
+    // Listen for system theme changes (only if user hasn't set a preference).
+    // Remove any prior listener first so repeated init calls don't stack.
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = window.matchMedia('(prefers-color-scheme: dark)')
+    this.prefersDarkMql.addEventListener('change', this.handleSystemThemeChange)
+  }
+
+  /** Remove the system theme-change listener. */
+  public destroy() {
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = null
   }
 
   public applyTheme() {
