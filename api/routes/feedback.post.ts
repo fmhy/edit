@@ -19,7 +19,55 @@ import {
   getFeedbackOption
 } from '../../docs/.vitepress/types/Feedback'
 
+const MAX_BODY_BYTES = 4096
+
+// `node:net` isn't available in the Workers runtime, so validate with a regex.
+const IPV4 = /^(\d{1,3}\.){3}\d{1,3}$/
+const IPV6 = /^[0-9a-fA-F:]+$/
+function isValidIP(ip: string): boolean {
+  return IPV4.test(ip) || (ip.includes(':') && IPV6.test(ip))
+}
+
+/**
+ * Resolve the client IP for rate limiting. Prefers `cf-connecting-ip` (set by
+ * Cloudflare and not spoofable by the client). Falls back to the last hop of
+ * `x-forwarded-for` (closest to our edge), then the socket address. Returns
+ * `undefined` if nothing validates as an IP.
+ */
+function resolveClientIP(
+  event: Parameters<typeof getHeader>[0]
+): string | undefined {
+  const cf = getHeader(event, 'cf-connecting-ip')
+  if (cf && isValidIP(cf)) return cf
+
+  const xff = getHeader(event, 'x-forwarded-for')
+  if (xff) {
+    const parts = xff.split(',').map((p) => p.trim())
+    const last = parts[parts.length - 1]
+    if (last && isValidIP(last)) return last
+  }
+
+  const remote = event.node.req.socket.remoteAddress
+  return remote && isValidIP(remote) ? remote : undefined
+}
+
+/** Neutralize Discord-specific markup before embedding user content. */
+function sanitizeForDiscord(input: string): string {
+  return input
+    .replace(/@(everyone|here)/gi, '[at]$1')
+    .replace(/```/g, "'''")
+    .slice(0, 1000)
+}
+
 export default defineEventHandler(async (event) => {
+  const contentLength = Number(getHeader(event, 'content-length') ?? '0')
+  if (contentLength > MAX_BODY_BYTES) {
+    throw createError({
+      statusCode: 413,
+      statusMessage: 'Payload Too Large'
+    })
+  }
+
   const { message, page, type, heading } = await readValidatedBody(
     event,
     FeedbackSchema.parseAsync
@@ -35,7 +83,7 @@ export default defineEventHandler(async (event) => {
     },
     {
       name: 'Message',
-      value: message,
+      value: sanitizeForDiscord(message),
       inline: false
     }
   ]
@@ -43,15 +91,12 @@ export default defineEventHandler(async (event) => {
   if (heading) {
     fields.unshift({
       name: 'Section',
-      value: heading,
+      value: sanitizeForDiscord(heading),
       inline: true
     })
   }
 
-  const clientIP =
-    getHeader(event, 'cf-connecting-ip') ||
-    getHeader(event, 'x-forwarded-for') ||
-    event.node.req.socket.remoteAddress
+  const clientIP = resolveClientIP(event)
 
   const cf = event.context.cloudflare
   if (clientIP && cf?.env?.RATE_LIMITER) {
@@ -85,8 +130,12 @@ export default defineEventHandler(async (event) => {
   })
 
   if (!response.ok) {
+    const body = await response.text().catch(() => 'Could not read body')
+    console.error(
+      `Discord webhook failed: ${response.status} ${response.statusText} - ${body}`
+    )
     throw createError({
-      statusCode: response.status,
+      statusCode: 502,
       statusMessage: 'Failed to send feedback to Discord'
     })
   }

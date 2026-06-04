@@ -17,9 +17,20 @@
 import z from 'zod'
 
 export const FeedbackSchema = z.object({
-  message: z.string().min(5).max(1000),
+  message: z
+    .string()
+    .min(5)
+    .max(1000)
+    .refine(
+      (s) => !/<script|javascript:|on\w+=/i.test(s),
+      'Message contains prohibited content'
+    ),
   type: z.enum(['suggestion', 'appreciation', 'other']),
-  page: z.string().min(3).max(25),
+  page: z
+    .string()
+    .min(3)
+    .max(25)
+    .regex(/^[a-zA-Z0-9\-/]+$/, 'Invalid page path'),
   // For heading based feedback
   heading: z.string().min(3).max(99).optional()
 })
