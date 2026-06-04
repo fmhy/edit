@@ -32,6 +32,7 @@
     "@vueuse/core": "^14.3.0",
     "@vueuse/integrations": "^14.3.0",
     "consola": "^3.4.2",
+    "dompurify": "^3.4.8",
     "feed": "^5.2.1",
     "itty-fetcher": "^1.0.10",
     "mark.js": "^8.11.1",

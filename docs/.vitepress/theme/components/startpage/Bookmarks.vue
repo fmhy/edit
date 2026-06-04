@@ -11,6 +11,7 @@ import {
 } from 'reka-ui'
 import { useRouter } from 'vitepress'
 import { onMounted, onUnmounted, ref, watch } from 'vue'
+import { sanitizeSvg } from '../../composables/sanitize'
 
 const router = useRouter()
 
@@ -521,7 +522,7 @@ onUnmounted(() => {
               <div
                 v-if="bookmark.customSvg"
                 class="shrink-0 w-4 h-4"
-                v-html="bookmark.customSvg"
+                v-html="sanitizeSvg(bookmark.customSvg)"
               />
               <!-- Regular Icon -->
               <i
