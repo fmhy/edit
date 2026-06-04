@@ -290,6 +290,7 @@
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
 * [Formula Timer](https://formula-timer.com/livetiming) or [F1 Dash](https://f1-dash.com/) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
 * [⁠Futez](https://www.futez.com.br/) - Rate / Review Football Matches
+* [Calendario Ciclismo](https://calendariociclismo.app/en/) - Cycling TV Schedule / Calendar
 
 ***
 
@@ -694,6 +695,7 @@
 * [r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
 * [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
+* [⁠OpenPrescribing](https://openprescribing.net/) - Track NHS Prescription Trends & Spending
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information

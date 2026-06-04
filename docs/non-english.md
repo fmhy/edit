@@ -140,7 +140,6 @@
 * 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * 🌐 **[RecTG](https://github.com/jackhawks/rectg)** - Chinese Telegram Groups / Bots
-* [ixigua.com](https://www.ixigua.com/) - Chinese Alternative to YouTube and TikTok
 * [Linux Do](https://linux.do/) - AI, Tech and Linux Forum
 * [⁠Arch Linux Concise Guide](https://arch.icekylin.online/) or [⁠ArchlinuxCN](https://archlinuxcn.org/) - Arch Linux Guides
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
@@ -155,7 +154,7 @@
 * [CatoCR](https://catocr.com/) - Image to Text
 * [todaiinews](https://chinese.todaiinews.com/) - Language Learning
 * [Oh.Taigi](https://oh.taigi.info/) - Learn Taiwanese
-* [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Android Client](https://github.com/czy0729/Bangumi)
+* [Bangumi](https://bangumi.tv/), [2](https://chii.in/) - Media Database / [Mobile Client](https://github.com/czy0729/Bangumi)
 * [TopHub](https://tophub.today/), [Rebang](https://rebang.today/) or [Chinadaily](https://cn.chinadaily.com.cn/) - News
 * [IT Home](https://www.ithome.com/) - Tech News
 * [jialezi](https://blog.jialezi.net/) - Tech Tutorials
@@ -223,7 +222,7 @@
 
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
-* ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
+* ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
 * [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
@@ -246,6 +245,7 @@
 * [Myself-BBS](https://myself-bbs.com/) - Anime / Sub / 1080p
 * [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
 * [bimiacg](https://www.bimiacg14.net/) - Anime / Sub / 1080p
+* [ixigua.com](https://www.ixigua.com/) - YouTube and TikTok Alt
 * [music.163](https://music.163.com/) - Music
 * [5nd](http://www.5nd.com/) - Music
 * [MissEvan](https://www.missevan.com/) - Music / Podcasts / Audio Comics
@@ -794,7 +794,6 @@
 * [idlixku](https://idlix.net/) - Movies / TV
 * [klikxxi](https://klikxxi.art/), [2](https://www.klikxxi.com/) - Movies / TV
 * [MyNimeku](https://www.mynimeku.com/) - Anime / Sub / 1080p
-* [Anoboye](https://anoboye.com/) - Anime / Donghua / Sub
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music
 

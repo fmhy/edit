@@ -843,6 +843,7 @@
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Required Sign-Up
 * [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game / [Discord](https://discord.com/invite/FKEzJSf)
+* [⁠Wizard Arena Online](https://wizardarenaonline.com/) - Multiplayer Survivors-Style Game
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
 * [Really Boring Website](https://really.boring.website/) - Online Scattergories
 * [Gpop.io](https://gpop.io/) - Rhythm Game

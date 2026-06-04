@@ -107,7 +107,7 @@
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
-* [psmux](https://psmux.pages.dev/) - Terminal Multiplexer (Tmux for Windows) / [GitHub](https://github.com/psmux/psmux)
+* [psmux](https://psmux.pages.dev/) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) - Terminal Multiplexers (Tmux for Windows)
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
