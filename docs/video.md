@@ -26,7 +26,7 @@
 * ⭐ **[Vyla](https://vyla.pages.dev/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [dulo.tv](https://dulo.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/sXySzk87aA)
 * [MovieBite](https://moviebite.cc/) - Movies / TV / Anime / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
-* [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RKX7JpcY7g)
+* [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VjHhPyuZX)
 * [CineBolt](https://cinebolt.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/7ZbCzMPt6f)
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * [Flixtrz](https://flixtrz.com/) - Movies / TV / Anime / Auto-Next
@@ -41,6 +41,7 @@
 * [All You Can Watch](https://allyoucanwatch.net/) - Movies / TV / Anime / [Telegram](https://t.me/allyoucanwatchh) / [Discord](https://discord.gg/allyoucanwatch)
 * [Chillflix](https://chillflix.to/) - Movies / TV / Anime
 * [GaiaFlix](https://gaiaflix.live/) - Movies / TV / Anime / [Discord](https://discord.gg/XyMuMpnvF4)
+* [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime 
 * [Smashystream](https://flix.smashystream.xyz/), [2](https://smashystream.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl)
 * [VidPlay](https://vidplay.to/) - Movies / TV / Anime
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
@@ -51,7 +52,7 @@
 
 ## ▷ P-Stream Forks
 
-* **Note** - Sites that fork the original P-Stream / movie-web projects. You can add extra sources to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
+* **Note** - Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
 
 ***
 
@@ -157,6 +158,7 @@
 * [Streamr](https://streamr.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/tYFjXqx6Wf)
 * [Cubeflix](https://cubeflix.org/discover), [2](https://cubeflix.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/Rj54xaWxR7)
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
+* [AmberFlix](https://www.amberflix.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/Q7Nq6GHfxQ)
 * [Pawflix](https://pawflix.foo.ng/) - Movies / TV / Anime / [Discord](https://discord.gg/pXnv7ha5XP)
 * [zmov](https://plexmovies.online/) - Movies / TV / Anime / [GitHub](https://github.com/coen-h/zmov)
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
@@ -171,6 +173,7 @@
 * [StreamGoblin](https://streamgoblin.com/) - Movies / TV / Anime
 * [WatchOrbit](https://watchorbit.me/) - Movies / TV / Anime
 * [DuaFile](https://download.duafile.com/), [2](https://duafile.net/) - Movies / TV / Anime
+* [MultiShows](https://multishows.top/) - Movies / TV / Anime / [Telegram](https://t.me/multishowsfun)
 * [Warflix](https://warflix.nl/), [2](https://warflix.im/), [3](https://warflix.cv/) - Movies / TV / Anime / [Discord](https://discord.gg/33yA574vvd) / [Telegram](https://t.me/warflix2)
 * [Heartive](https://heartivetv.pages.dev/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
@@ -479,6 +482,7 @@
 * [Zerostream](https://zerostream.alwaysdata.net/) - TV
 * [iShowMovies](https://ishowmovies.org/live) - TV
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
+* [Vegeta TV](http://vegetatv.duckdns.org/) - TV / Sports
 * [Global Free TV](https://www.globalfreetv.com/) - TV / [Discord](https://discord.com/invite/pPaerCghRN)
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [SquidTV](https://www.squidtv.net/) - TV
@@ -736,6 +740,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime
+* [MultiShows](https://multishows.top/) - Movies / TV / Anime / Use Red Download Button (Below Videos) / [Telegram](https://t.me/multishowsfun)
 * [CineBolt](https://cinebolt.net/) - Movies / TV / Anime
 * [Sinflix](https://rentry.co/FMHYB64#sinflix) - Asian Drama
 * [DramaSuki](https://rentry.co/FMHYB64#dramasuki) - Asian Drama
@@ -1135,4 +1140,4 @@
 
 ***
 
-## ▷ [Video Players / Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)
+## ▷ [Video Players / Servers / Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools)

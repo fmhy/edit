@@ -303,6 +303,8 @@
 * [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
+* [CKAN](https://github.com/KSP-CKAN/CKAN) - Kerbal Space Program Mod / Dependency Manager
+* [DMP](https://d-mp.org/) - Kerbal Space Program Multiplayer Mod
 * [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
 * [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
 * [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
@@ -695,7 +697,6 @@
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
-* [⁠Is AI Profitable Yet?](https://isaiprofitable.com/) - Track Total Amount Spent / Revenue of AI Companies
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map

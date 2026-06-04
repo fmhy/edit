@@ -562,7 +562,7 @@
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [⁠BumpMesh](https://bumpmesh.com/) - 3D Model Texture Editor 
-* [Armorpaint](https://armorpaint.org/) - 3D Painting
+* [Armorpaint](https://armorpaint.org/) - 3D Painting / [GitHub](https://github.com/armory3d/armorpaint)
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
 
@@ -662,7 +662,7 @@
 
 ## ▷ Image Optimization
 
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [RIOT](https://riot-optimizer.com/) - Image Optimization
 * [YOGA](https://yoga.flozz.org/) - Image Optimization
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
