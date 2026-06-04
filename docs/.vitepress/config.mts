@@ -146,8 +146,10 @@ export default defineConfig({
     try {
       await generateImages(context)
       await generateFeed(context)
-    } finally {
-      consola.success('Success!')
+      consola.success('Build hooks completed successfully.')
+    } catch (error) {
+      consola.error('Build hook failed:', error)
+      throw error
     }
   },
   vite: {
