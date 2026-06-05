@@ -98,7 +98,7 @@ export default defineEventHandler(async (event) => {
 
   const clientIP = resolveClientIP(event)
 
-  const cf = event.context.cloudflare
+  const cf = event.context.cloudflare as any
   if (clientIP && cf?.env?.RATE_LIMITER) {
     const key = `feedback:${clientIP}`
     const { success } = await cf.env.RATE_LIMITER.limit({ key })
