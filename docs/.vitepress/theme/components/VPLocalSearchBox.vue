@@ -2397,13 +2397,21 @@ function isSamePageComparison(destPath: string) {
 }
 
 /* Highlight styles - default state */
-.titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
   margin: 0 -2px;
+  transition: background-color 0.2s;
+}
+
+.titles :deep(mark) {
+  background-color: var(--vp-local-search-highlight-bg);
+  color: var(--vp-local-search-highlight-text);
+  border-radius: 2px;
+  padding: 0;
+  margin: 0;
   transition: background-color 0.2s;
 }
 
