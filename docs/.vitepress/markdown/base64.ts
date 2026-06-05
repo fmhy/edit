@@ -14,6 +14,8 @@
  *  limitations under the License.
  */
 
+/** UNUSED SINCE BASE64.MD WAS REMOVED OFF THE WIKI */
+
 import type { MarkdownRenderer } from 'vitepress'
 
 // FIXME: tasky: possibly write less horror jank?
