@@ -118,7 +118,7 @@ export default defineEventHandler(async (event) => {
     body: JSON.stringify({
       username: 'Feedback',
       // Self-hosted so the avatar can't break if a third-party host changes it.
-      avatar_url: 'https://fmhy.net/pwa_icon.png',
+      avatar_url: 'https://fmhy.net/feedback-avatar.jpg',
       embeds: [
         {
           color: 3447003,
