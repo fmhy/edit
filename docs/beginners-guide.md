@@ -48,7 +48,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.sc/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
+* **Streaming: [Cineby](https://www.cineby.sc/) / [NEPU](https://nepu.to/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.space/) / [StreamSports99](https://streamsports99.ru)**
