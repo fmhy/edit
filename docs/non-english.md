@@ -710,6 +710,10 @@
 * ⭐ **[⁠Animelok](https://animelok.online/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
 * ⭐ **[Anime World India](https://watchanimeworld.net/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
+* [AnimePlay](https://animeplay.icu/) - Anime / Sub / Dub / Multi-Language / 1080p
+* [sub.animeplay.icu](https://sub.animeplay.icu/) - English Sub & Dub Anime
+* [dub.animeplay.icu](https://dub.animeplay.icu/) - Hindi / Tamil / Telugu Dub Anime
+* [save.animeplay.icu](https://save.animeplay.icu/) - Anime Downloads
 * [TamilMV](https://www.1tamilmv.farm/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p / VPN Required
 * [saicord](https://saicord.com/hi/) - Movies / TV 
