@@ -523,7 +523,7 @@
 * ⭐ **[WatchSports](https://watchsports.to/)** - Stream Aggregator
 * ⭐ **[BINTV](https://bintv.net/)** - Stream Aggregator / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.gg/fMU4hpDjPg)
 * ⭐ **[DaddyLive](https://dlhd.pk/)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
-* ⭐ **[SportsBite](https://sportsbite.online/))** - Stream Aggregator / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
+* ⭐ **[SportsBite](https://sportsbite.online/)** - Stream Aggregator / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
 * ⭐ **[TimStreams](https://timstreams.net/)** - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * [SportDB](https://hoofoot.ru/) - Stream Aggregator
