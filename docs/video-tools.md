@@ -242,7 +242,7 @@
 * [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Player
 * [CyTube](https://cytu.be/) - Online Player
-* [⁠CinevoSync](https://sync.cinevo.site/) - Online Player
+* [⁠CinevoSync](https://sync.cinevo.us/) - Online Player
 * [VideoTogether](https://2gether.video/en-us/) - App
 * [baked.live](https://baked.live/) - Online Player
 * [Rave.io](https://rave.io/) - Online Extension
