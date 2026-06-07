@@ -139,7 +139,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://web.archive.org/web/20260420175200/https://claraiscute.neocities.org/Guides/private-trackers/)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://clarasguide.valeena.workers.dev/Guides/private-trackers/)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * [OpenSignup](https://opensignup.xyz/) / [Telegram](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion

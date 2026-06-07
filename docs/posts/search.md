@@ -53,7 +53,7 @@ Search the Markdown manually (Ctrl+F)
 
 ---
 
-### [Dupe Checker](https://github.com/fmhy/dupe-checker)
+### [Dupe Checker](https://link-checker-215e95.gitlab.io/) / [Python](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
 

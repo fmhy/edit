@@ -585,7 +585,7 @@
 
 ***
 
-## ▷ Bluesky Tools
+# ► Bluesky Tools
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
 * ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
