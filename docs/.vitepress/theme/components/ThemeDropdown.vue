@@ -1,11 +1,24 @@
 <script setup lang="ts">
 import type { DisplayMode } from '../themes/types'
-import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { useData } from 'vitepress'
+import { computed, inject, onMounted, onUnmounted, ref } from 'vue'
 import { useTheme } from '../themes/themeHandler'
+import { revealThemeChange } from '../themes/themeTransition'
 
 const { mode, amoledEnabled, setAppearance } = useTheme()
 
+// VitePress runs VueUse's `useDark` whenever `appearance` is enabled in config,
+// and that re-applies the `.dark` class from its own storage key on every load.
+// Keep its `isDark` in step with our handler so (a) consumers like Tag.vue read
+// the right mode and (b) VueUse never fights our class on the next page load.
+const { isDark } = useData()
+
+const closeScreen = inject('close-screen', null) as (() => void) | null
+
 const wrapperRef = ref<HTMLElement | null>(null)
+const dropdownRef = ref<{
+  hide: (options?: { skipDelay?: boolean }) => void
+} | null>(null)
 const shown = ref(false)
 
 interface ModeChoice {
@@ -37,12 +50,37 @@ const currentChoice = computed(() => {
   )
 })
 
-const selectMode = (choice: ModeChoice) => {
-  if (choice.isAmoled) {
-    setAppearance('dark', true)
-  } else {
-    setAppearance(choice.mode, false)
+const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
+  event?.stopPropagation()
+
+  // Close every dropdown surface up front. `skipDelay` makes floating-vue
+  // commit the hide synchronously rather than on its delayed timer, so the
+  // popover is genuinely closed before the view transition snapshots the page
+  // (otherwise it is only CSS-hidden during the reveal and pops back when the
+  // transition restores the live DOM at the end).
+  dropdownRef.value?.hide({ skipDelay: true })
+  shown.value = false
+  wrapperRef.value?.closest('.VPFlyout')?.classList.remove('open')
+  closeScreen?.()
+
+  if (isActiveChoice(choice)) {
+    return
   }
+
+  await revealThemeChange(event, choice.mode === 'dark', () => {
+    if (choice.isAmoled) {
+      setAppearance('dark', true)
+    } else {
+      setAppearance(choice.mode, false)
+    }
+    // Mirror into VitePress's appearance state (same value our handler just set,
+    // so it's idempotent) so it persists and never reverts the class on reload.
+    isDark.value = choice.mode === 'dark'
+  })
+
+  // The view transition restores the live DOM when it finishes; re-assert the
+  // close so floating-vue can never leave the popover re-shown afterwards.
+  dropdownRef.value?.hide({ skipDelay: true })
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
@@ -54,6 +92,7 @@ const isActiveChoice = (choice: ModeChoice) => {
 }
 
 let cleanupFlyout: (() => void) | null = null
+let parentOverrideTimeout: ReturnType<typeof setTimeout> | null = null
 
 // Logic to override the parent VPFlyout behavior to be click-based
 const setupParentFlyoutOverride = () => {
@@ -97,10 +136,13 @@ const setupParentFlyoutOverride = () => {
 
 onMounted(() => {
   // defer slightly to ensuring DOM is ready
-  setTimeout(setupParentFlyoutOverride, 100)
+  parentOverrideTimeout = setTimeout(setupParentFlyoutOverride, 100)
 })
 
 onUnmounted(() => {
+  if (parentOverrideTimeout) {
+    clearTimeout(parentOverrideTimeout)
+  }
   if (cleanupFlyout) {
     cleanupFlyout()
   }
@@ -110,6 +152,7 @@ onUnmounted(() => {
 <template>
   <div ref="wrapperRef" class="theme-dropdown-wrapper">
     <VDropdown
+      ref="dropdownRef"
       v-model:shown="shown"
       class="theme-dropdown"
       theme="theme-selector"
@@ -126,12 +169,12 @@ onUnmounted(() => {
         :aria-label="`Theme: ${currentChoice.label}`"
       >
         <ClientOnly>
-          <Transition name="fade" mode="out-in">
-            <div
-              :key="currentChoice.label"
-              :class="[currentChoice.icon, 'text-xl']"
-            />
-          </Transition>
+          <!-- Swap the icon instantly (no out-in fade): during a theme change
+               the navbar is frozen in the view-transition snapshot, and an
+               out-in gap would freeze an empty icon for the whole reveal. A
+               plain class swap keeps the new icon in the snapshot so it changes
+               as the reveal wipes across. -->
+          <div :class="[currentChoice.icon, 'text-xl']" />
         </ClientOnly>
       </button>
 
@@ -143,7 +186,7 @@ onUnmounted(() => {
             v-close-popper
             class="theme-dropdown-item"
             :class="{ active: isActiveChoice(choice) }"
-            @click="selectMode(choice)"
+            @click="selectMode(choice, $event)"
           >
             <Transition name="fade" mode="out-in">
               <div :key="choice.label" :class="[choice.icon, 'text-lg']" />

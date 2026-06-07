@@ -1,51 +1,9 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { nextTick, onMounted, onUnmounted, provide, ref } from 'vue'
+import { onMounted, onUnmounted, ref } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
-import { useTheme } from './themes/themeHandler'
-
-const { isDark } = useData()
-const { setMode } = useTheme()
-
-const enableTransitions = () =>
-  'startViewTransition' in document &&
-  window.matchMedia('(prefers-reduced-motion: no-preference)').matches
-
-provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
-  if (!enableTransitions()) {
-    isDark.value = !isDark.value
-    // Sync with theme handler
-    setMode(isDark.value ? 'dark' : 'light')
-    return
-  }
-
-  const clipPath = [
-    `circle(0px at ${x}px ${y}px)`,
-    `circle(${Math.hypot(
-      Math.max(x, innerWidth - x),
-      Math.max(y, innerHeight - y)
-    )}px at ${x}px ${y}px)`
-  ]
-
-  await document.startViewTransition(async () => {
-    isDark.value = !isDark.value
-    // Sync with theme handler
-    setMode(isDark.value ? 'dark' : 'light')
-    await nextTick()
-  }).ready
-
-  document.documentElement.animate(
-    { clipPath: isDark.value ? clipPath.reverse() : clipPath },
-    {
-      duration: 300,
-      easing: 'ease-in',
-      pseudoElement: `::view-transition-${isDark.value ? 'old' : 'new'}(root)`
-    }
-  )
-})
 
 const { Layout } = DefaultTheme
 const showBase64Dialog = ref(false)
@@ -156,12 +114,17 @@ onUnmounted(() => {
 </template>
 
 <style>
+/* The reveal is driven entirely by the JS clip-path animation in
+   revealThemeChange, so disable the default crossfade on both snapshots. */
 ::view-transition-old(root),
 ::view-transition-new(root) {
   animation: none;
   mix-blend-mode: normal;
 }
 
+/* Layer the snapshots so the one being clipped sits on top:
+   - switching to light, the new (light) layer grows on top;
+   - switching to dark (.dark), the old (light) layer shrinks on top. */
 ::view-transition-old(root),
 .dark::view-transition-new(root) {
   z-index: 1;
@@ -172,11 +135,10 @@ onUnmounted(() => {
   z-index: 9999;
 }
 
-.VPSwitchAppearance {
-  width: 22px !important;
-}
-
-.VPSwitchAppearance .check {
-  transform: none !important;
+/* When transitioning to light mode (not .dark), initialize the new snapshot
+   as fully clipped (circle(0px)) to prevent it flashing fully visible
+   before the JS animation runs. */
+html:not(.dark)::view-transition-new(root) {
+  clip-path: circle(0px);
 }
 </style>
