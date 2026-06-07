@@ -721,6 +721,7 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Requires Sign-Up
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [Edudu](https://www.edudu.org/) - Free Educational Games
 
 ***
 
@@ -771,6 +772,7 @@
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
+* [Edudu](https://www.edudu.org/) - Free Educational Games
 
 ***
 
