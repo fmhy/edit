@@ -666,8 +666,8 @@
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm with QR Code Control
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
-* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [June](https://github.com/DenserMeerkat/June), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner / Journal Apps
-* [Daily You](https://github.com/Demizo/Daily_You) - Daily Journal / Picture / Mood tracker
+* [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner / Journal Apps
+* [Daily You](https://github.com/Demizo/Daily_You) or [June](https://github.com/DenserMeerkat/June) - Daily Journal / Picture / Mood tracker
 * [FamilyWall](https://www.familywall.com/) - Family Organization Planner
 * [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
 * [Chrono](https://github.com/vicolo-dev/chrono) - Clock / Alarm
