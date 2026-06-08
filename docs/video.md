@@ -79,12 +79,12 @@
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
 * ⭐ **[WatchFlix](https://watchflix.to/)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[MovieBox](https://themoviebox.org/), [2](https://movieboxonline.net), [3](https://123movie.app), [4](https://netnaija.film)**, [5](https://moviebox.pk), [6](https://moviebox.ph), [7](https://movieboxapp.in/) - Movies / TV / Anime
-* ⭐ **[CineStream](https://cinestream.kje.us/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/2cG7pyvq38)
-* ⭐ **[ApexMovies](https://apexmovies.net/)** - Movies / TV / Anime
-* ⭐ **[Streamo](https://streamo.pro/)** - Movies / TV / Anime / Auto-Next / Invite Code: `LAUNCH2026`
-* ⭐ **[CinemaCity](https://cinemacity.cc/)** - Movies / TV / Anime / Requires Sign-Up
-* ⭐ **[RidoMovies](https://ridomovies.is/)** - Movies / TV
+* ⭐ **[MovieBox](https://themoviebox.org/), [2](https://movieboxonline.net), [3](https://123movie.app), [4](https://netnaija.film)** - Movies / TV / Anime
+* [CineStream](https://cinestream.kje.us/) - Movies / TV / Anime / [Discord](https://discord.com/invite/2cG7pyvq38)
+* [ApexMovies](https://apexmovies.net/) - Movies / TV / Anime
+* [Streamo](https://streamo.pro/) - Movies / TV / Anime / Auto-Next / Invite Code: `LAUNCH2026`
+* [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
+* [RidoMovies](https://ridomovies.is/) - Movies / TV
 * [AZMovies](https://azmovies.to/) - Movies / TV / Anime / Some 3rd Party Hosts
 * [OnionPlay](https://onionplay.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/RjJgF755Pa)
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
