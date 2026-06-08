@@ -1020,7 +1020,7 @@
 * [⁠AniGuessr](https://aniguessr.com/) - Anime Guessing Game
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Song Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
-* [⁠Toon Tone](https://toontone.games/) - Cartoon Character Color Tone Guessing Game
+* [⁠Toon Tone](https://toontone.io/) or [2](https://toontone.games/) - Cartoon Character Color Tone Guessing Game
 * [Play Football](https://playfootball.games/) - Football Quizzes / Trivia
 * [The Wiki Game](https://www.thewikigame.com/) or [WikiRacer](https://wikiracer.io/) - Wikipedia Exploration Games / [Automation Tool](https://www.sixdegreesofwikipedia.com/), [2](https://gitlab.com/johanbluecreek/wikiracer)
 * [⁠FactorDay](https://factorday.com/) - Daily Wikipedia-Based Trivia / Crosswords
