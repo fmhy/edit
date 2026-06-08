@@ -389,7 +389,6 @@
 * https://search.mdosch.de/
 * https://www.gruble.de/
 * https://search.datenkrake.ch/
-* https://searx.ox2.fr/
 * https://searx.tuxcloud.net/
 * https://seek.fyi/
 

@@ -591,9 +591,10 @@
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
-* [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki
+* [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
+* [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki (1880-1920)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
-* [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archive of Lesser-Known Aircraft
+* [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft 
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
 * [U-boat Archive](https://uboatarchive.net/) - WW2 Battle of the Atlantic Historical Archive / [X](https://x.com/uboatarchive)
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline

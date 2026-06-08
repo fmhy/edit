@@ -568,7 +568,7 @@
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [POTUS Tracker](https://potustracker.us/) or [GovData](https://www.govactionlist.com/) - Government Executive Orders, Location & more
-* [FlightSaftey](https://asn.flightsafety.org/), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
+* [Aviation Safety Network](https://aviation-safety.net/) / [X](https://x.com/flightsafety), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
 * [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
@@ -1227,7 +1227,6 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
-* [⁠EWG Tap Water Database](https://www.ewg.org/tapwater/) - US Drinking Water Quality Database
 * [Wheel Decide](https://wheeldecide.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
@@ -1253,6 +1252,7 @@
 * 🌐 **[Mr Free Tools](https://mrfreetools.com/)** - Find Free Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
+* [⁠Ou0.cc](https://ou0.cc/) - Text / Social Media / Code / Multimedia
 * [ZeroKit](https://zerokit-dun.vercel.app/) - Text / Image / Social Media / Code
 * [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
@@ -1264,14 +1264,13 @@
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
 * [uFreeTools](https://www.ufreetools.com/en/) - Text / Code
-* [ToolYatri](https://toolyatri.com/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
 * [Online Tools](https://onlinetools.com/) - File-Specific Tools
 * [a.tools](https://www.a.tools/) - Text / Image / Code / Cryptography
 * [RakkoTools](https://en.rakko.tools/) - Text / Code / Image
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
-* [KodyTools](https://www.kodytools.com/) or [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
+* [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion

@@ -262,7 +262,7 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), **[⁠HizSearch](https://hizsearch.pages.dev/)**, [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
+* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)**, **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
@@ -369,6 +369,7 @@
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
+* [Kurzlinks](https://kurzlinks.de/) - `kurzlinks.de/fgt6`
 * [s.id](https://home.s.id/) - `s.id/EQBsg`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
 * [tny.lv](https://tny.lv/) - `tny.lv/QYg05`
@@ -619,6 +620,10 @@
 ***
 
 ## ▷ Firefox Tools
+
+* **Note** - Note that Firefox includes a free built-in VPN.
+
+***
 
 * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
 * ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)

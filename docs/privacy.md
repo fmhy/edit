@@ -435,7 +435,7 @@
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/torrenting/)** - Bind VPN to Torrent Client to Avoid ISP Letters
 * [⁠WireSock](https://wiresock.net/) or [⁠Tunnl](https://tunnl.to/) - WireGuard Split Tunneling Clients
-* [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / Android / [Windows](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)
+* [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / Android / [Desktop](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)
 * [VPN Hotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot / Rooted Android
 * [Gluetun](https://github.com/qdm12/gluetun) - VPN using Docker
 
@@ -495,6 +495,7 @@
 ## ▷ Anti Censorship
 
 * ↪️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
+* ⭐ **[⁠Project Atlas](https://project-atlas-dbb.pages.dev/)** - Censorship Bypass Guide
 * ⭐ **[⁠Net4people](https://github.com/net4people/bbs/issues)** - Worldwide Censorship Circumvention Discussion
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tools 
@@ -520,7 +521,6 @@
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
-* [Delusionz](https://delusionz.xyz/) / [Discord](https://discord.com/invite/Dpj8C8SAmH)
 * [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
 * [Proxyium](https://proxyium.com/)
 * [Startpage](https://www.startpage.com/) - Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)

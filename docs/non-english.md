@@ -261,7 +261,7 @@
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
-* [ixdzs](https://ixdzs8.tw/) - Fiction
+* [ixdzs](https://ixdzs.tw/) - Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
 * [haodoo](https://haodoo.org/) - Fiction
@@ -591,7 +591,7 @@
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
-* [tenies](https://tenies.gr/) - Movies / TV / Anime
+* [tenies](https://www.tenies.site/) - Movies / TV / Anime
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
@@ -675,7 +675,7 @@
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K 
 * ⭐ **[HDHub4u](https://hdhub4u.glass)** - Movies / TV / 1080p
 * ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / 1080p / [Discord](https://discord.com/invite/Py5KKx28Bx)
-* ⭐ **[MoviesMod](https://moviesmod.blue/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[MoviesMod](https://moviesmod.army/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
@@ -720,7 +720,6 @@
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies
 * [tamilbulb](https://tamilbulb.cc/) - Tamil Movies
 * [tamilblasters](https://www.1tamilblasters.luxe/) - Movies / TV / Anime
-* [tamilpirates](https://tamilpirates.icu/) - Tamil & Indian languages Movies / TV / Dub / 1080p / 720p / VPN Required
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [Cineby](https://www.cineby.at/) - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
@@ -829,7 +828,6 @@
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
 * [StreamingCommunity](https://streamingcommunityz.ninja/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29)
 * [CB01](https://cb01uno.world/) - Movies / TV / Dub / 1080p / [Status](https://cineblog01.red/) / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
-* [CasaCinema](https://casacinema.lat/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
 * [RaiPlay](https://www.raiplay.it/) - Live TV / Movies / TV / Dub / Requires Italian VPN / Sign-Up Unlocks Channel History
@@ -893,9 +891,9 @@
 
 ## ▷ Reading / 読書
 
-* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/) - List of Raw Manga Sites
+* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
-* [DLRaw](https://dlraw.ac/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
+* [DLRaw](https://dlraw.app/), [2](https://manga-zip.tv/), [3](https://manga-zip.is/), [4](https://ww0.13dl.app/), [5](https://ww13.manga-zip.app/) - Manga
 * [Raw-Zip](https://raw-zip.com/) - Manga
 * [MangaZone](https://www.manga-zone.org/) - Manga
 * [RawCans](https://raw-cans.net/) - Manga
@@ -917,7 +915,6 @@
 * [rawfree](https://rawfree.to/) - Manga
 * [rawkuma](https://rawkuma.net/) - Manga
 * [raw1001](https://raw1001.net/) - Manga
-* [gomuraw](https://gomuraw.com/) - Manga / Some NSFW
 * [mangakoma01](https://mangakoma01.net/) - Manga
 * [mangakoma](https://mangakoma.net/) - Manga
 * [rawfree](https://rawfree.me/) - Manga
@@ -1038,10 +1035,8 @@
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * [Virpe](https://virpe.cc/) - Movies / TV
 * [Vestroiakr](https://vestroiakr.blogspot.com/) - Movies / TV / Anime
-* [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
 * [Zaluknij](https://zaluknij.cc/) - Movies / TV / Anime
 * [wizja](https://wizja.cc/) - Movies / TV / Anime
-* [ogladaj](https://ogladaj.cc/) - Movies / TV / Anime
 * [filmyonline](https://filmyonline.cc/) - Movies / TV / Anime
 * [ninateka](https://ninateka.pl/) - Movies
 * [Bajeczki24](https://bajeczki24.pl/) - Movies / TV
@@ -1123,7 +1118,6 @@
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
 * [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* [megatuga](https://megatuga.io/) - Movies / TV / Anime
 * [redecanais](https://redecanais.ooo/) - Movies / TV / Anime
 * [goyabu](https://goyabu.to/) - Anime / Sub
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
@@ -1371,7 +1365,6 @@
 * [Maxima Library](https://maxima-library.com/) - Books
 * [rulit](https://www.rulit.me/) - Books
 * [bookscafe](https://bookscafe.net/) - Books / Some NSFW
-* [Litgu.ru](https://litgu.ru/) - Books
 * [freedomist](https://t.me/freedomist_6ks_bot) - Books / Telegram Bot
 * [MirKnig.sur](https://mirknig.su/) - Books / Fiction / Nonfiction
 * [Litgu.ru](https://litgu.ru/) - Books / Audiobooks
@@ -1506,7 +1499,6 @@
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
-* [La Movie](https://la.movie/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [cineplus](https://www.cineplus.lat) - Movies / TV
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)

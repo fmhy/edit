@@ -849,6 +849,7 @@
 * [SongGuesser](https://songguesser.com/) - Identify Songs via Keyboard Taps / Melody
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
 * [AHA Music](https://www.aha-music.com/identify-songs-music-recognition-online) - Chrome Extension / Web
+* [u/auddbot](https://www.reddit.com/user/auddbot) - Reddit Identification Bot (tag u/auddbot) / [GitHub](https://github.com/AudDMusic/RedditBot)
 
 ***
 
