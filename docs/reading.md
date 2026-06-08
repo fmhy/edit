@@ -971,7 +971,7 @@
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager & Reader / Windows, Mac, Linux
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter / App
 * ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer), [dotepub](https://dotepub.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
-* [⁠Scribd DL](https://github.com/rkwyu/scribd-dl), [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
+* [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
 * [Ebook-Online-Convert](https://ebook.online-convert.com/) - Multi-Format Converter / Online
 * [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Online / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
