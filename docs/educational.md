@@ -267,6 +267,7 @@
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
+* [⁠Datasheet4U](https://datasheet4u.com/) - Electronic Components Datasheet
 * [Electronics Tutorials](https://www.electronics-tutorials.ws/) or [Instrumentacion](http://instrumentacion.qi.fcen.uba.ar/libro.html) - Electronic Guides
 * [⁠Hacker Fab](https://docs.hackerfab.org/) - Semiconductor Documentation / Research
 * [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)

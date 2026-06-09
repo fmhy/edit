@@ -118,6 +118,7 @@
 * [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
+* [⁠KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Split Multiple Keyboards into 4 Unique Virtual Xbox 360 Controllers
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls

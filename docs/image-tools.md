@@ -337,7 +337,6 @@
 
 * 🌐 **[Free Design Assets](https://github.com/noahelhadedy/400-free-design-resources)** - Design Asset Site Index
 * [Gumroad](https://gumroad.com/) / Enter $0 / Some NSFW
-* [Freeject](https://www.freeject.net/)
 * [⁠Salvaged](https://salvaged.nu/)
 * [Cg_peers Archive](https://t.me/Cgpeers_archive)
 * [PNGTree](https://pngtree.com/)

@@ -129,6 +129,7 @@
 * 🌐 **[Dolici](https://dolici.com/)** - Top Restaurant List
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy) or [Listonic](https://new.app.listonic.com/en) - Grocery / Pantry Managers
+* ⭐ **[Too Good To Go](https://www.toogoodtogo.com/)** - Surplus Food Marketplace
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -146,7 +147,6 @@
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
-* [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
@@ -1651,6 +1651,7 @@
 * [EarthCam](https://www.earthcam.com/)
 * [WebcamExplore](https://www.webcamexplore.com/)
 * [BalticLiveCam](https://balticlivecam.com/)
+* [EarthCamTv](https://www.earthcamtv.com/)
 * [Camscape](https://www.camscape.com/)
 * [Worldviewstream](https://worldviewstream.com/)
 * [CamStreamer](https://camstreamer.com/live)

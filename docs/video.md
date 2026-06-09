@@ -76,7 +76,6 @@
 ***
 
 * ⭐ **[Movish](https://movish.net/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FsbU2BQcjQ)
-* ⭐ **[Streamo](https://streamo.pro/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[WatchFlix](https://watchflix.to/)** - Movies / TV / Anime / Auto-Next
@@ -461,9 +460,9 @@
 * ⭐ **[StreamSports99](https://streamsports99.su/live-tv)** - TV / Sports / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
 * ⭐ **[Famelack](https://famelack.com/)** - TV / Sports
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/tv.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
-* ⭐ **[SportsBite TV](https://sportsbite.online/channels)**, [2](https://sportsbite.lol/channels), [3](https://sportsbite.xyz/channels) - TV / Sports / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
+* ⭐ **[SportsBite TV](https://sportsbite.lol/channels)**, [2](https://sportsbite.xyz/channels) - TV / Sports / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[DaddyLive TV](https://dlhd.pk//24-7-channels.php)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
-* ⭐ **[TVPass](https://tvpass.org/)**, [2](https://thetvapp.to/), [3](https://the-tv.app/) - TV / Sports / US Only / [Discord](https://discord.gg/4qMfKq6NMH)
+* ⭐ **[TVPass](https://the-tv.app/)** - TV / Sports / US Only / [Discord](https://discord.gg/4qMfKq6NMH)
 * [TitanTV](https://titantv.com/) - Live TV Listings / TV Schedule
 * [⁠TV Freedom](https://tvfreedom.surge.sh/), [2](https://tvalt.surge.sh/), [3](https://tvforfree.surge.sh/), [4](https://tvfree.surge.sh/), [5](https://guzes.surge.sh/), [6](https://tvfredom.surge.sh/), [7](https://tvmirror.surge.sh/) - TV / Sports / [Mirrors](https://tvhub.surge.sh/) / [.onion](http://e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion) / [Discord](https://discord.com/invite/EFKNtQvUMF)
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
@@ -491,7 +490,6 @@
 * [Global Free TV](https://www.globalfreetv.com/) - TV / [Discord](https://discord.com/invite/pPaerCghRN)
 * [vipotv](https://vipotv.com/) - TV / Sports
 * [SquidTV](https://www.squidtv.net/) - TV
-* [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [DistroTV](https://distro.tv/) - TV
 * [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Shows / [Mirrors](ttps://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
 * [Puffer](https://puffer.stanford.edu/) - San Fran TV / Requires Sign-Up
@@ -521,7 +519,7 @@
 * ⭐ **[⁠StreamFree](https://streamfree.app)** / [Mirrors](https://streamfree.link/) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * ⭐ **[StreamSports99](https://streamsports99.su)** / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
 * ⭐ **[RoxieStreams](https://roxiestreams.su/)**, [2](https://roxiestreams.info/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.com/invite/JhkVmejRmn)
-* ⭐ **[SportsBite](https://sportsbite.online/)**, [2](https://sportsbite.lol/), [3](https://sportsbite.xyz/)  - Stream Aggregator / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
+* ⭐ **[SportsBite](https://sportsbite.lol/)**, [2](https://sportsbite.xyz/)  - Stream Aggregator / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[Watch Footy](https://watchfooty.st/)** - Stream Aggregator / [Mirrors](https://wfty.link/) / [Discord](https://discord.gg/T38kUWZHtB)
 * ⭐ **[NTV](http://ntv.cx/)**, [2](https://ntvs.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntv.direct/) / [Telegram](https://t.me/ntvstream) / [Discord](https://discord.gg/uY3ud5gcpW)
 * ⭐ **[PPV.TO](https://ppv.to/)**, [2](https://ppv.is/) - Live Events / [Mirrors](https://ppv.domains/) / [Discord](https://ppv.to/discord)
@@ -857,7 +855,7 @@
 * 🌐 **[Awesome *Arr](https://ravencentric.cc/awesome-arr/)** / [GitHub](https://github.com/Ravencentric/awesome-arr) or [Locatarr](https://locatarr.github.io/) / [GitHub](https://github.com/Locatarr/locatarr.github.io) - Torrent App / Automation Tool Indexes
 * ↪️ **[Remote Torrenting Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent Remotely Without Needing VPN
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
-* ⭐ **[Stremio](https://www.stremio.com/)**, [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio)
+* ⭐ **[Stremio](https://www.stremio.com/)** / [Subreddit](https://www.reddit.com/r/Stremio/) / [GitHub](https://github.com/Stremio), [⁠Stremio Desktop](https://github.com/Zaarrg/stremio-community-v5) (full mpv) or [Stremio Kai](https://allecsc.github.io/Stremio-Kai/) / [GitHub](https://github.com/allecsc/Stremio-Kai) (full mpv) - Torrent Streaming App / [WebUI](https://web.stremio.com/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) 
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Torrent Streaming App / Stremio Addon Support / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * ⭐ **[Prowlarr](https://github.com/Prowlarr/Prowlarr)**, **[Jackett](https://github.com/Jackett/Jackett)**, [Bobarr](https://github.com/iam4x/bobarr) / [Discord](https://discord.gg/PFwM4zk), [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr), [FlexGet](https://flexget.com/), [r/softwarr](https://reddit.com/r/softwarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [Auto-Subtitles](https://www.bazarr.media/) / [GitHub](https://github.com/Radarr/Radarr)
