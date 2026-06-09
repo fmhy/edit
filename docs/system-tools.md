@@ -150,13 +150,13 @@
 
 ## ▷ Clipboard Managers
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Clipboard Manager / [GitHub](https://sabrogden.github.io/Ditto/)
-* [PasteBar](https://www.pastebar.app/) - Clipboard Manager / [GitHub](https://github.com/PasteBar/PasteBarApp)
-* [CrossPaste](https://crosspaste.com/) - Clipboard Manager / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
-* [ArsClip](https://www.joejoesoft.com/vcms/97/) - Clipboard Manager
-* [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Manager
-* [CopyQ](https://hluk.github.io/CopyQ/) / [GitHub](https://github.com/hluk/CopyQ) or [XClipper](https://kaustubhpatange.github.io/XClipper/) / [GitHub](https://github.com/KaustubhPatange/XClipper) - Clipboard Managers with Editing and Scripting Features
-* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
+* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Windows / [GitHub](https://sabrogden.github.io/Ditto/)
+* [PasteBar](https://www.pastebar.app/) - Windows, Mac / [GitHub](https://github.com/PasteBar/PasteBarApp)
+* [CrossPaste](https://crosspaste.com/) - Windows, Mac, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
+* [ArsClip](https://www.joejoesoft.com/vcms/97/) - Windows
+* [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Windows
+* [CopyQ](https://hluk.github.io/CopyQ/) / Windows, Mac, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
+* [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots / Windows
 
 ***
 
