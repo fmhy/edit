@@ -106,7 +106,7 @@
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [ConEmu](https://github.com/Maximus5/ConEmu), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
 * [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) - Terminal Multiplexers
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
@@ -130,7 +130,6 @@
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / [GitHub](https://github.com/kasmtech/KasmVNC)
-* [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) - Desktop Client
 * [⁠DWS](https://www.dwservice.net/) - Web-Based
@@ -140,8 +139,6 @@
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Web-Based
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client
-* [p2p](https://github.com/miroslavpejic85/p2p) - Portable Client
-* [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
 * [Screen-Sharing](https://share-your-screen.vercel.app/) - Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)
 * [TigerVNC](https://tigervnc.org/) - VNC Client / [GitHub](https://github.com/TigerVNC/tigervnc)
@@ -157,7 +154,7 @@
 * [CrossPaste](https://crosspaste.com/) - Clipboard Manager / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) - Clipboard Manager
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Clipboard Manager
-* [CopyQ](https://hluk.github.io/CopyQ/) / [GitHub](https://github.com/hluk/CopyQ) or [XClipper](https://kaustubhpatange.github.io/XClipper/) / [GitHub](https://github.com/KaustubhPatange/XClipper) - Clipboard Managers with Editing and Scripting Features
+* [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard Managers with Editing and Scripting Features / [GitHub](https://github.com/hluk/CopyQ)
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots
 
 ***

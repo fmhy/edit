@@ -290,6 +290,7 @@
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
 * [Formula Timer](https://formula-timer.com/livetiming) or [F1 Dash](https://f1-dash.com/) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
 * [⁠Futez](https://www.futez.com.br/) - Rate / Review Football Matches
+* [⁠PROGRID](https://www.progrid.org/) - NFL Schedule Chart 
 * [Calendario Ciclismo](https://calendariociclismo.app/en/) - Cycling TV Schedule / Calendar
 
 ***
@@ -1087,7 +1088,6 @@
 * [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
-* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
 * [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
@@ -1383,6 +1383,7 @@
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
 * [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
+* [⁠SWF Rodeo](https://swf.rodeo/) or [TheBest404](https://thebest404pageeverredux.com/) - Random SWFs
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
@@ -1746,6 +1747,7 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
+* [⁠Roastdit](https://roastdit.kadoa.com/) - Reddit Profile Roasting AI 
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
 * [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exist
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages

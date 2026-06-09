@@ -24,7 +24,7 @@
 
 ***
 
-* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
+* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Firefox](https://addons.mozilla.org/firefox/addon/ab-download-manager/) / [Chrome](https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows

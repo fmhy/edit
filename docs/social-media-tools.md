@@ -61,7 +61,7 @@
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [Useful Embed Index](https://gist.github.com/mohsreg/927bf8b2092515ee1a8ee88c3e4d2c14) - Social Media Embed Index
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
-* [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) or [InstagramEmbed](https://www.vxinstagram.com/) - Fix Instagram Embeds
+* [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/), [⁠Axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) or [InstagramEmbed](https://www.vxinstagram.com/) - Fix Instagram Embeds
 * [⁠fxTikTok](https://github.com/okdargy/fxTikTok) - Fix TikTok Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self-Host for Privacy / [Discord](https://discordpackage.com/discord)
 * [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [⁠DiscTimestamps](https://disctimestamps.com/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/) or [discord-timestamps](https://r.3v.fi/discord-timestamps/) - Discord Timestamp Generators
@@ -362,6 +362,7 @@
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend

@@ -609,13 +609,8 @@
 * [VsyncTester](https://vsynctester.com/) - Browser VSYNC Test / Firefox Broken
 * [Gemini Portal](https://geminiprotocol.net/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
-* [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
-* [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
-* [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
-* [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based/Firefox Hidden Settings
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
-* [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
 ***
 
@@ -638,6 +633,18 @@
 * [r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
+
+***
+
+## ▷ Chromium Tools
+
+* ↪️ **[Chromium Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
+* [Chromium Drift](https://chromium-drift.pages.dev/) - Compare Alt Chromium Browser Versions to Main Stable Releases / [GitHub](https://github.com/ShivanKaul/chromium-drift)
+* [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based Hidden Settings
+* [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
+* [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
+* [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Themes
+* [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
 ***
 

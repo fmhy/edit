@@ -78,7 +78,7 @@
 # ► Special Interest
 
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
+* 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Open Source Games](https://github.com/bobeff/open-source-games), [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * [Playtester](https://playtester.io/) / [Discord](https://discord.gg/A5yzKNP7FE) or [Alpha Beta Gamer](https://alphabetagamer.com/) / [Discord](https://discord.gg/3Gtqp9BDeY) - Play Games in Alpha / Beta Testing
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
@@ -1039,7 +1039,7 @@
 * [⁠WildGuesser](https://wildguesser.com/) or [Metazooa](https://metazooa.com/) - Animal Guessing Games
 * [Pufferdle](https://pufferdle.com/) - Fish Guessing Game
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Guessing Game
-* [⁠Dialed](https://dialed.gg/) - Color Memory Game 
+* [⁠Dialed](https://dialed.gg/) - Color Memory Game
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/), [WhatTheHex](https://yizzle.com/whatthehex/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [⁠MCdle](https://www.mcdle.net/) or [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Guessing Games
@@ -1090,15 +1090,16 @@
 ## ▷ GeoGuessr
 
 * ⭐ **[Plonk It](https://www.plonkit.net/)** / [Discord](https://discord.gg/plonk-it-854419081813164042), **[Regionguessing](https://docs.google.com/spreadsheets/d/1UNvkoY-LaktF75nU_cP7-wVRAEvH3fSqVZet20HqxXA)**, [GeoTips](https://geotips.net/) / [Discord](https://discord.gg/svhWzU7FMa), [GeoHints](https://geohints.com/) / [Discord](https://discord.gg/bCZ8Bg2vUd), [⁠GeoMetas](https://www.geometas.com/) or [Top Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) - GeoGuessr Guides / Tips
-* ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr / Requires Sign-Up
+* ⭐ **[Geotastic](https://geotastic.net/)** - Multiplayer GeoGuessr Alt / Requires Sign-Up
 * ⭐ **[Globle](https://globle-game.com/)** - Country Hot-or-Cold Guessing Game / [Discord](https://discord.gg/Xpyy8dCr9g)
 * [LearnableMeta](https://learnablemeta.com/) / [Discord](https://discord.gg/AcXEWznYZe) or [helloquiz](https://helloquiz.app/) / [Discord](https://discord.gg/td7bN9HKhX) - Geoguessr Practice Maps
 * [Emily's GeoGuessr Tools](https://geo.emily.bz/) - GeoGuessr Tools
-* [Geohub](https://www.geohub.gg/) - Free GeoGuessr Alt / Requires Google API
-* [GuessWhereYouAre](https://guesswhereyouare.com/) - Free GeoGuessr Alt w/ Multiplayer
-* [OpenGuessr](https://openguessr.com/) - Free GeoGuessr Alt w/ Multiplayer
-* [WorldGuessr](https://www.worldguessr.com/) - Free GeoGuessr Alt
-* [FreeGuessr](https://freeguessr.com/) - Free GeoGuessr Alt
+* [Geohub](https://www.geohub.gg/) - GeoGuessr Alt / Requires Google API
+* [⁠GeoDuels](https://geoduels.io/) - Multiplayer GeoGuessr Alt
+* [GuessWhereYouAre](https://guesswhereyouare.com/) - Multiplayer GeoGuessr Alt
+* [OpenGuessr](https://openguessr.com/) - Multiplayer GeoGuessr Alt
+* [WorldGuessr](https://www.worldguessr.com/) - GeoGuessr Alt
+* [FreeGuessr](https://freeguessr.com/) - GeoGuessr Alt
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
 * [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
 * [⁠TVGuessr](https://www.tvguessr.garden/) - Guess Countries by TV Channels

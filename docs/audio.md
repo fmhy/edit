@@ -227,6 +227,7 @@
 * ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
+* [⁠ScrobbleRadio](https://scrobblerad.io/) - Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Online Radio Directory
 * [My Radio](https://junguler.github.io/m3u-player-web/) - Online Radio Directory
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
@@ -641,7 +642,7 @@
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [Drop Watch](https://drop-watch.ghost.io/), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
-* [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger)
+* [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/)
 * [⁠EntertainMe](https://www.entertainme.fun/) - Ratings / Reviews
 * [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)
 * [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker

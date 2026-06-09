@@ -867,7 +867,7 @@
 
 * 🌐 **[⁠The Melee Library](https://www.meleelibrary.com/)** - Super Smash Bros. Melee Learning Resources
 * [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary
-* [⁠FAT Online](https://fullmeter.com/fatonline) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
+* [⁠FAT Online](https://fullmeter.com/fatonline), [⁠Mizuumi](https://mizuumi.wiki/) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
 * [⁠DustLoop](https://www.dustloop.com/) - Guides for Arc System Works' Games / [Discord](https://discord.com/invite/d9tgMZg)
 * [⁠Melee Calculator](https://ikneedata.com/calculator.html) - Melee Frame Data Calculator
 * [⁠DragonDown](https://dragdown.wiki/) - Wiki / Info Hub for Rivals of Aether + Smash Games / [Discord](https://discord.gg/5qnED6WkHD)

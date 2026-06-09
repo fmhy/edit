@@ -176,7 +176,8 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko), [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) or [Purrfect](https://github.com/curious-freak/Purrfect) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
+* [⁠piko (Instagram)](https://t.me/pikopatches) / [GitHub](https://github.com/crimera/piko) or [⁠Instafel](https://instafel.app/) / [GitHub](https://github.com/mamiiblt/instafel/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/instaeclipse-note.md) - Modded Instagram Clients
+* [Purrfect](https://github.com/curious-freak/Purrfect) - Modded Snapchat, Reddit & Instagram
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -204,7 +205,7 @@
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** / [Discord](https://discord.com/invite/e4v8qtkcBw) or [4PDA](https://4pda.to/forum/) - Android Discussion Forums
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/ismartcoding/plain-docs), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
-* ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), **[Shizuku Fork](https://github.com/thedjchi/Shizuku)** or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
+* ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**,  **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
@@ -920,7 +921,7 @@
 ***
 
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-* ⭐ **[⁠ArchiveTune](https://github.com/koiverse/ArchiveTune)** - YouTube Music Player
+* ⭐ **[⁠ArchiveTune](https://github.com/koiverse/ArchiveTune)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
@@ -1205,14 +1206,13 @@
 ## ▷ iOS Sideloading
 
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** - Non-Appstore Apps / Semi-Jailbreak / 14.0 - 16.6.1, 16.7 RC, 17.0 / [External Repos](https://github.com/TheResonanceTeam/TrollApps/) / [Decrypt](https://github.com/donato-fiore/TrollDecrypt) / [Guide](https://ios.cfw.guide/installing-trollstore/) / [Web App](https://theresonanceteam.github.io/trollapps-web/)
-* ⭐ **[SideStore](https://sidestore.io/)** - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
+* ⭐ **[SideStore](https://sidestore.io/)** or **[⁠iloader](https://iloader.app/)** / [GitHub](https://github.com/nab138/iloader/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Limit Bypass](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/limit-bypass-note.md)
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
 * ⭐ **[Impactor](https://impactor.claration.dev/)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above / [GitHub](https://github.com/claration/Impactor)
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone) (Lift Certificate Blacklisting)
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
 * [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 * [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing / Bypass Sidestore limits
-* [⁠iloader](https://iloader.app/) - WiFi Sideloading (Weekly Refresh) / [GitHub](https://github.com/nab138/iloader/)
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
 * [Feather](https://github.com/khcrysalis/Feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - App Signer / Fork of Feather

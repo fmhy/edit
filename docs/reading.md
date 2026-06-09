@@ -328,7 +328,7 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl), [PlayTorrio](https://playtorrio.xyz/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)are
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [PlayTorrio](https://playtorrio.xyz/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)are
 ***
 
 ## ▷ Streaming

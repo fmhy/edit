@@ -195,6 +195,7 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
 * [Graphite](https://graphite.dev/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
+* [⁠Diffshub](https://diffshub.com/) - GitHub Diff Checker
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [Nightly.link](https://nightly.link/) - GitHub Shareable Nightly Links
@@ -538,6 +539,7 @@
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
+* [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 
 ***
 

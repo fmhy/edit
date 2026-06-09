@@ -254,7 +254,7 @@
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [LibreTexts Engineering](https://eng.libretexts.org/Bookshelves) - Engineering Learning / Guides
-* [CESDB](https://www.cesdb.com/) - Engineering Software
+* [CESDB](https://www.cesdb.com/) or [LavTeam](https://lavteam.org/) - Engineering Software
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -399,6 +399,7 @@
 * [iNaturalist](https://www.inaturalist.org/) - Organism Identification
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
+* [Marine Biodiversity](https://marinebiodiversity.org.bd/) - Bangladesh Marine Species Encyclopedia
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [eBird](https://ebird.org/), [Audubon](https://www.audubon.org/) or [AllAboutBirds](https://www.allaboutbirds.org/) - Bird Species Databases / IDs
 * [⁠BirdLife DataZone](https://datazone.birdlife.org/) - Bird Conservation Information
@@ -1209,7 +1210,7 @@
 
 * ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
 * ⭐ **[ASL Dictionary](https://www.signasl.org/)**, [Anysign](https://www.anysign.app/en/dictionary), [WhatsThatSign](https://www.whatsthatsign.com/), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
-* ⭐ **[BSL Dictionary](https://www.signbsl.com/)**, [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
+* ⭐ **[BSL Dictionary](https://www.signbsl.com/)**, [SignDeaf](https://www.signdeaf.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Fingerspelling in ASL or BSL
 * [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/) - ASL / LSF / Click Dictionary
 * [SignLex](https://signlex.framer.website/) - Interactive Sign Dictionary / Learning
@@ -1229,6 +1230,7 @@
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
+* [GSL](https://www.ayelefoundation.org/gsl/) - Ghanaian Sign Language Dictionary
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
@@ -1241,6 +1243,7 @@
 
 ## ▷ Constructed Languages
 
+* 🌐 **[⁠Links from Esperanto](https://ligil.ujo.moe/)** - Esperanto Learning Sites Index
 * 🌐 **[⁠pona.la](https://pona.la/)** - Toki Pona Learning / Resources
 * 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures
 * 🌐 **[⁠Languages of Arda](https://rentry.co/languages-of-arda)** - Guide to Tolkien Languages
@@ -1732,6 +1735,7 @@
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
+* [vCalc](https://vcalc.com/) - Calculators
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator

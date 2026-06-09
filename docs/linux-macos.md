@@ -275,7 +275,7 @@
 ## ▷ Productivity / Calendars
 
 * [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
-* [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
+* [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
 * [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
 * [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 
@@ -381,6 +381,7 @@
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
+* [⁠Brave Origin](https://brave.com/origin/download-nightly/) - Lighter Version of Brave
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text-Based Browser
 * [mx moment](https://mx-moment.xyz/) - Encrypted Chat Client

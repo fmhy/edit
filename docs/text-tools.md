@@ -21,7 +21,7 @@
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) / [GitHub](https://github.com/simon-knuth/scanner) or [NAPS2](https://www.naps2.com/) - Scanner Apps
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [texttohandwriting](https://texttohandwriting.com/) - Text to Handwriting Converters
-* [DocuSeal](https://www.docuseal.com/) - Free Document Signing
+* [DocuSeal](https://www.docuseal.com/) - Free Document Signing / [GitHub](https://github.com/docusealco/docuseal)
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
 
 ***
@@ -230,7 +230,7 @@
 * [Notion](https://www.notion.com/) - Note-Taking / All Platforms + Web
 * Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
 * [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/lokus-ai/lokus)
-* [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager / Windows, Mac, Linux
+* [Trilium](https://triliumnotes.org/) - Info Manager / Windows, Mac, Linux / [GitHub](https://github.com/TriliumNext/Trilium)
 * [Mochi Cards](https://mochi.cards/) - Note-Taking / Study Tools / All Platforms
 * [Silicon](https://github.com/cu/silicon) - Note-Taking / Self-Hosted
 * [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
@@ -556,6 +556,7 @@
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [psd_fonts](https://vk.com/psd_fonts)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
+* [⁠Famous Fonts](https://famfonts.com/)
 
 ***
 
