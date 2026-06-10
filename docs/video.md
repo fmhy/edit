@@ -462,7 +462,6 @@
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/tv.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[SportsBite TV](https://sportsbite.lol/channels)**, [2](https://sportsbite.xyz/channels) - TV / Sports / [Status](https://sportsbite.sbs/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[DaddyLive TV](https://dlhd.pk//24-7-channels.php)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
-* ⭐ **[TVPass](https://the-tv.app/)** - TV / Sports / US Only / [Discord](https://discord.gg/4qMfKq6NMH)
 * [TitanTV](https://titantv.com/) - Live TV Listings / TV Schedule
 * [⁠TV Freedom](https://tvfreedom.surge.sh/), [2](https://tvalt.surge.sh/), [3](https://tvforfree.surge.sh/), [4](https://tvfree.surge.sh/), [5](https://guzes.surge.sh/), [6](https://tvfredom.surge.sh/), [7](https://tvmirror.surge.sh/) - TV / Sports / [Mirrors](https://tvhub.surge.sh/) / [.onion](http://e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion) / [Discord](https://discord.com/invite/EFKNtQvUMF)
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
@@ -540,6 +539,7 @@
 * [StreamCorner](https://streamcorner.fyi/), [2](https://streamcorner.io/), [3](https://streamcorner.site/) or [StreamNinja](https://streamninja.xyz/), [2](https://streamninja.online/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
 * [⁠Streami](https://streami.click/)
 * [xyzstreams](https://xyzstreams.shop/)
+* [TVPass](https://the-tv.app/) - US Only / [Discord](https://discord.gg/4qMfKq6NMH)
 * [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
 * [⁠FalconStreams](https://falconstreams.net/) / [Discord](https://discord.gg/FPgKwtXcYV)
 * [MainPortal66](https://mainportal66.com/)
