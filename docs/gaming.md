@@ -492,6 +492,7 @@
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](https://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
+[⁠Minecraft Apk Download](https://minecraftdownloadapk.com/) - Best Game in the world MInecraft.
 * [⁠Pips](https://www.nytimes.com/games/pips) - Daily Domino Puzzle
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [⁠Cyadonia](https://cyadonia.com/) - Puzzle Game
