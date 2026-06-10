@@ -538,6 +538,7 @@
 * [Strumyk](https://strumyk.net/), [2](https://strims24.pl/)
 * [StreamCorner](https://streamcorner.fyi/), [2](https://streamcorner.io/), [3](https://streamcorner.site/) or [StreamNinja](https://streamninja.xyz/), [2](https://streamninja.online/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
 * [⁠Streami](https://streami.click/)
+* [Streamzy](https://streamzy.pages.dev) - Streamed Mirror
 * [xyzstreams](https://xyzstreams.shop/)
 * [TVPass](https://the-tv.app/) - US Only / [Discord](https://discord.gg/4qMfKq6NMH)
 * [CricHD](https://crichd.at/), [2](https://crichd.com.co/)
