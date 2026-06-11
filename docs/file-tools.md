@@ -159,7 +159,7 @@
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
 * [Duplicati](https://www.duplicati.com/) - File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - File Backup
-* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup / [WebUI](https://github.com/karanhudia/borg-ui)
+* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup / [WebUI](https://github.com/karanhudia/borg-ui) / [GitHub](https://github.com/borgbackup/borg)
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
 
 ***

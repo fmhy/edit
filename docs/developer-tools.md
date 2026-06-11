@@ -333,7 +333,7 @@
 * [GameDev Market](https://www.gamedevmarket.net/) - Assets for Indie Developers
 * [OpenGameArt.org](https://opengameart.org/) - Game Art Community
 * [UnityFreaks](https://www.unityfreaks.com/), [AssetStore](https://assetstore.unity.com/search#cf-ec_category=3d&nf-ec_price_filter=0...0) or [GameDevUE](https://t.me/GameDevUE) - Unity & Unreal Engine Assets
-* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets
+* [SteamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets / [Automation](https://www.steamgriddb.com/boop)
 * [S2V](https://s2v.app/) - Source 2 Viewer & Decompiler / [GitHub](https://github.com/ValveResourceFormat/ValveResourceFormat)
 
 ***

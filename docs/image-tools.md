@@ -212,6 +212,7 @@
 
 * ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / Windows, Mac, Linux / [GitHub](https://github.com/ImageOptim/gifski)
 * ⭐ **[EZGif](https://ezgif.com/)**, [⁠Klipy](https://klipy.com/create/gif-maker/) or [GIFnText](https://www.gifntext.com/) - GIF Generators / Web
+* [⁠3D Gif Maker](https://www.3dgifmaker.com/) - Online GIF Tools / [Discord](https://discord.com/invite/8EF3X7jQaP)
 * [⁠PicMix](https://www.picmix.com/) - Glitter Style GIF Creator
 * [⁠MakeEmoji](https://makeemoji.com/), [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
 * [Gifsicle](http://www.lcdf.org/gifsicle/) - GIF Generator / Windows, Mac, Linux / [GitHub](https://github.com/kohler/gifsicle)
@@ -335,7 +336,7 @@
 
 ## ▷ Free Assets
 
-* 🌐 **[Free Design Assets](https://github.com/noahelhadedy/400-free-design-resources)** - Design Asset Site Index
+* 🌐 **[Free Design Assets](https://github.com/noahelhadedy/400-free-design-resources)** or **[Freesets](https://freesets.dev/)** / [GitHub](https://github.com/cosmoart/Freesets) - Design Asset Site Indexes
 * [Gumroad](https://gumroad.com/) / Enter $0 / Some NSFW
 * [⁠Salvaged](https://salvaged.nu/)
 * [Cg_peers Archive](https://t.me/Cgpeers_archive)
@@ -764,7 +765,7 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Extension](https://github.com/bjoernch/immich-companion) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [Lap](https://julyx10.github.io/lap/) / [GitHub](https://github.com/julyx10/lap)
 * [HomeGallery](https://home-gallery.org/)

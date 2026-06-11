@@ -277,58 +277,6 @@
 
 ***
 
-## ▷ Aerospace Engineering
-
-* 🌐 **[Awesome Aerospace Engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering/)** - Aerospace Engineering Learning Resources
-* 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
-* ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
-* ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
-* [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
-* [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
-* [⁠The Rocketry Forum](https://www.rocketryforum.com/) or [Ye Olde Rocket Forum](https://www.oldrocketforum.com/) - Rocketry Forums / Community
-* [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
-* [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
-* [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCoker)
-* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Guide / Info / Resources / Documentation / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
-* [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - LOX/Kerosene Liquid Rocket Info / Resources / Documentation
-* [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
-* [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
-* [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
-* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
-* [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
-* [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
-* [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
-* [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
-* [⁠V2Rocket](https://www.v2rocket.com/) - A-4 & V-2 Rocket History / Resources 
-* [openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
-* [CKAN](https://github.com/KSP-CKAN/CKAN) - Kerbal Space Program Mod / Dependency Manager
-* [Luna Mulitplayer](https://lunamultiplayer.com/) - Kerbal Space Program Multiplayer Mod / [Discord](https://discord.gg/wKVMhWQ) / [GitHub](https://github.com/LunaMultiplayer/LunaMultiplayer)
-* [⁠SatModeler](https://satmodeler.com/) - Satellite Mission Simulation Software / Signup Required
-* [⁠JetPhotos](https://www.jetphotos.com/) / [Forums](https://forums.jetphotos.com/) / [X](https://x.com/jetphotos) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
-* [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
-* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
-* [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
-* [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
-* [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
-* [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
-* [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
-* [⁠HeliStart](http://www.helistart.com/) - Helicopter Aerodynamics / Flight Mechanics Guides + History
-* [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [X](https://x.com/B737Tech) / [YouTube](https://www.youtube.com/@ChrisBrady737)
-* [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
-* [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
-* [UIUC Applied Aerodynamics Group](https://m-selig.ae.illinois.edu/ads.html) - Airfoil Coordinates / Aerodynamic Research
-* [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
-* [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
-* [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
-* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Resources, Hardware & Supply Chain Analysis / [X](https://x.com/osoraku_1997)
-* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
-* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
-* [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
-* [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet)
-* [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
-
-***
-
 ## ▷ Chemistry
 
 * 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
@@ -538,7 +486,7 @@
 
 ## ▷ Spacecraft
 
-* ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_aerospace_engineering)**
+* ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_aerospace_engineering)**
 * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
 * ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
@@ -558,10 +506,77 @@
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator / [X](https://x.com/spacex)
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
-* [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [⁠Track The Sky](https://trackthesky.com/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
+* [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [⁠Track The Sky](https://trackthesky.com/), [Find Starlink](https://findstarlink.com/), [⁠azmth](https://azmth.space/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [See A Satellite Tonight](https://james.darpinian.com/satellites/) - Satellite Viewing Schedule / Locations
 * [Spacebook](https://www.spacebook.com/) - Evaluates / Tracks Satellite Collision Risks & Maneuvers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator / [X](https://x.com/leolabs_space)
+
+***
+
+# ► Aerospace Engineering
+
+* 🌐 **[Awesome Aerospace Engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering/)** - Aerospace Engineering Learning Resources
+* 🌐 **[Awesome Flying FPV](https://github.com/Matthias84/awesome-flying-fpv)** - Remote Copter / Plane Resources
+* ↪️ **[Spacecraft Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_spacecraft)**
+* ↪️ **[Flight Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_flights)**
+* [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
+* [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
+* [⁠JetPhotos](https://www.jetphotos.com/) / [Forums](https://forums.jetphotos.com/) / [X](https://x.com/jetphotos) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
+* [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
+* [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
+* [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
+* [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
+* [⁠HeliStart](http://www.helistart.com/) - Helicopter Aerodynamics / Flight Mechanics Guides + History
+* [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [X](https://x.com/B737Tech) / [YouTube](https://www.youtube.com/@ChrisBrady737)
+* [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
+* [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
+* [UIUC Applied Aerodynamics Group](https://m-selig.ae.illinois.edu/ads.html) - Airfoil Coordinates / Aerodynamic Research
+* [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
+* [Airfoil Tools](http://airfoiltools.com/) - Airfoil Coordinates / Dat Files
+
+***
+
+## ▷ Rocketry
+
+* [⁠The Rocketry Forum](https://www.rocketryforum.com/) or [Ye Olde Rocket Forum](https://www.oldrocketforum.com/) - Rocketry Forums / Community
+* [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
+* [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
+* [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCoker)
+* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Guide / Info / Resources / Documentation / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
+* [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - LOX/Kerosene Liquid Rocket Info / Resources / Documentation
+* [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
+* [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
+* [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
+* [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Resources Wikipedia
+* [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
+* [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
+* [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
+* [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
+* [⁠V2Rocket](https://www.v2rocket.com/) - A-4 & V-2 Rocket History / Resources 
+* [openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
+
+***
+
+## ▷ Drones
+
+* [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
+* [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Resources, Hardware & Supply Chain Analysis / [X](https://x.com/osoraku_1997)
+* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
+* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
+* [⁠Langostino](https://github.com/swarm-subnet/Langostino) - Decentralized AI Drone Pilot Platform / Learning / [X](https://x.com/SwarmSubnet)
+* [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
+
+***
+
+## ▷ Simulators
+
+* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
+* [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
+* [CKAN](https://github.com/KSP-CKAN/CKAN) - Kerbal Space Program Mod / Dependency Manager
+* [Luna Mulitplayer](https://lunamultiplayer.com/) - Kerbal Space Program Multiplayer Mod / [Discord](https://discord.gg/wKVMhWQ) / [GitHub](https://github.com/LunaMultiplayer/LunaMultiplayer)
+* [⁠SatModeler](https://satmodeler.com/) - Satellite Mission Simulation Software / Signup Required
 
 ***
 
@@ -619,7 +634,7 @@
 * ⭐ **[⁠Historical Tech Tree](https://www.historicaltechtree.com/)** or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
-* [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) or [VirtualOS Museum](http://virtualosmuseum.org/) - Operating System / Software History 
+* [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History 
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
 * [The Retro Web](https://theretroweb.com/) - Computer Hardware History
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
@@ -675,6 +690,7 @@
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
+* [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [City Data](https://www.city-data.com/) - US City Data
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
@@ -695,8 +711,8 @@
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
 * [Symbols](https://www.symbols.com/) - Symbol Database
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
-* [Flags of the World](https://www.crwflags.com/fotw/flags/), [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
+* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Flags of the World](https://www.fotw.info/flags/index.html) / [2](https://www.crwflags.com/fotw/flags/), [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 
@@ -1223,11 +1239,13 @@
 * [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
 * [DeafTec](https://deaftec.org/stem-dictionary/) or [Tachyo](https://www.tachyo.org/) - STEM Sign Dictionaries / Search
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized ASL Dictionary
+* [Fingerspell](https://fingerspell.net/) - ASL Fingerspelling Practice
 * [Sign AIP](https://www.sign-aip.net/sign-aip/en/) - Sign-Language Learning Videos
 * [SignSchool](https://www.signschool.com/) - ASL Learning / Dictionary
 * [The ASL Calendar](https://discord.gg/QU6vMSYN7y) - ASL Community / Resources
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL Learning](https://asl.ms/) - ASL Learning Site
+* [ASL Discord](https://discord.gg/dH7jGejAz9) - ASL Learning Community / Resources
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
@@ -1248,6 +1266,7 @@
 * 🌐 **[⁠pona.la](https://pona.la/)** - Toki Pona Learning / Resources
 * 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures
 * 🌐 **[⁠Languages of Arda](https://rentry.co/languages-of-arda)** - Guide to Tolkien Languages
+* [⁠Esperanto12](https://esperanto12.net/) or [⁠Esperanto in 17 Minutes](https://unua.leciono.org/) - Esperanto Learning
 * [Toki Pona (.net)](https://tokipona.net/), [Toki Pona](https://tokipona.org/) / [Subreddit](https://www.reddit.com/r/tokipona/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [DuoStories Toki](https://duostories.org/tok-en) / [2](https://duostories.org/tok2-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language
 * [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning / Resources
 * [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
@@ -1675,6 +1694,7 @@
 * [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
 * [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
+* [⁠StudyKit](https://studytoolkit.vercel.app/) - Online Study Tools
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
 * [Co-STORM](https://storm.genie.stanford.edu/) or [SciArena](https://sciarena.allen.ai/) - Generate Scientific Articles
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
