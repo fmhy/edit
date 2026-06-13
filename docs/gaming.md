@@ -154,7 +154,7 @@
 * [The U-M Software Archives](https://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [DOS HAVEN](https://www.doshaven.eu/), [FreeDOSGames](https://www.freedosgames.de/) or [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
 * [⁠Commodore Software](https://commodore.software/search/) - Commodore 64 / Commodore 128 / VIC-20 Games
-* [MSX Resource Center](https://www.msx.org/) - MSX Games
+* [Minecraft Apk Download](https://minecraftdownloadapk.com/) - Minecraft Apk
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
