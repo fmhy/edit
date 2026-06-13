@@ -630,6 +630,7 @@
 ## ▷ Viewers / Downloaders
 
 * ⭐ **[Instaloader](https://instaloader.github.io/)** - CLI Downloader / [GitHub](https://github.com/instaloader/instaloader)
+* [InstaScope](https://insta-profile-viewer.pages.dev/) - Anonymous Profile Viewers / DP Downloaders / Reels Downloader
 * [FastDL](https://fastdl.app/en2) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
 * [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/) or [anonyig](https://anonyig.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
