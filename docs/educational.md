@@ -59,6 +59,7 @@
 * [Video Lectures](https://videolectures.net/) - Lectures
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
 * [Gresham College](https://www.gresham.ac.uk/) - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos)
+* [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 
 ***
@@ -1241,13 +1242,11 @@
 * [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
 * [DeafTec](https://deaftec.org/stem-dictionary/) or [Tachyo](https://www.tachyo.org/) - STEM Sign Dictionaries / Search
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized ASL Dictionary
-* [Fingerspell](https://fingerspell.net/) - ASL Fingerspelling Practice
+* [ASL Learning](https://asl.ms/), [SignSchool](https://www.signschool.com/) or [PocketSign](https://www.pocketsign.org/) - ASL Learning Sites
 * [Sign AIP](https://www.sign-aip.net/sign-aip/en/) - Sign-Language Learning Videos
-* [SignSchool](https://www.signschool.com/) - ASL Learning / Dictionary
-* [The ASL Calendar](https://discord.gg/QU6vMSYN7y) - ASL Community / Resources
+* [Fingerspell](https://fingerspell.net/) - ASL Fingerspelling Practice
+* [The ASL Calendar](https://discord.gg/QU6vMSYN7y) or [ASL Discord](https://discord.gg/dH7jGejAz9) - ASL Learning Discord Communities / Resources
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
-* [ASL Learning](https://asl.ms/) - ASL Learning Site
-* [ASL Discord](https://discord.gg/dH7jGejAz9) - ASL Learning Community / Resources
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site

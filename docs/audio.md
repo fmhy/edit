@@ -658,6 +658,9 @@
 * [⁠Six Degrees of Hip-Hop](https://www.sixdegreesofhiphop.com/) - Hip-Hop Connections Map
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
+* [⁠VocaDB](https://vocadb.net/) - Vocaloid Database / [Discord](https://discord.com/invite/3bwXQNXKCz)
+* [⁠TouhouDB](https://touhoudb.com/) - Touhou Music Database / [Discord](https://discord.com/invite/GscZYEE)
+* [⁠UtaiteDB](https://utaitedb.net/) - Utaite Music Database / [Discord](https://discord.com/invite/hEY9JDb)
 * [Talpa Search](https://www.talpasearch.com/) - Find Albums by Describing Them
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog

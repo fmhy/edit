@@ -309,7 +309,6 @@
 * [DM5](https://www.dm5.com/), [2](https://tel.1kkk.com/) - Manga / Manhua
 * [godamanga.site](https://godamh.com/) - Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
-* [tvbsmh](https://www.tvbsmh.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [colamanga](https://www.colamanga.com/) - Manga
 * [rumanhua](https://rumanhua.com/) - Manga
@@ -325,7 +324,6 @@
 * [fengchemh](https://www.fengchemh.com/) - Manga
 * [yibenmanhua](https://www.yibenmanhua.com/) - Manga
 * [dongmanmanhua](https://www.dongmanmanhua.cn/) - Manga
-* [2animx](https://www.2animx.com/) - Manga
 * [baozimh](https://baozimh.one/) - Manhua
 * [acgn.cc](https://comic.acgn.cc/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
@@ -678,7 +676,6 @@
 * ⭐ **[MoviesMod](https://moviesmod.army/)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[SD Toons](https://sdtoons.in/category/cartoon/)** - Movies / TV / Anime / 1080p / Some NSFW
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
-* ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Anime / Cartoons / Sub / Dub / 1080p
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
@@ -1269,7 +1266,6 @@
 * [rutor](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines
 * [PiratBit](https://pb.wtf/), [2](https://piratbit.top/) - Video / Audio / Books / Comics / Magazines / NSFW
 * [rustorka](https://rustorka.com/forum/index.php) - Video / Audio / Books / ROMs / Games / Magazines
-* [⁠Riper.AM ](https://riper.online/) - Video / Audio / Books
 * [Korsars](http://korsars.pro/) - Video / Audio / Books
 * [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Books / ROMs
@@ -1278,7 +1274,6 @@
 * [androidkino](https://androidkino.net/) - Movies / TV
 * [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
-* [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
 * [Animelayer](https://animelayer.ru/) - Anime
 * [kinozal](https://kinozal.tv/) - Movies
 * [bitru](https://bitru.org/) - Movies
@@ -1740,13 +1735,13 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim.org/), [2](https://tramphim.fun/), [3](https://tramphim.live/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
-* [⁠Sofaflix](https://sofaflix.site/) - Movies / TV / Anime
+* [⁠Tram Phim](https://tramphim.org/), [2](https://tramphim.pro/), [3](https://tramphim.live/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
+* [⁠Sofaflix](https://sofaflix.lat/) - Movies / TV / Anime
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
 * [rophim](https://rophim1.vip/) - Movies / TV / Anime
-* [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
+* [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
 * [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
 * [TokuVN](https://tokuvn.com/) - Tokusatsu / Sub / 480p

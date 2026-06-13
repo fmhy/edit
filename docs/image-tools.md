@@ -134,7 +134,7 @@
 
 ## ▷ Painting / Drawing
 
-* 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
+* 🔁 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
@@ -301,7 +301,6 @@
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [Innocenzi](https://avatar.innocenzi.dev/) - Round Avatar Creator
 * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon Generator
-* [Formia](https://www.formia.so/) - 2D to 3D Icon Converter
 
 ***
 

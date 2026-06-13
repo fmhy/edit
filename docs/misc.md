@@ -362,7 +362,7 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [⁠d-maps](https://www.d-maps.com/) - Free Blank Maps / Outlines / Printable
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
-* [⁠WikiMapped](https://wikimapped.mukul-mehta.in/) - 1.3M Wikipedia Articles Geolocated on Map
+* [⁠WikiMapped](https://wikimapped.mukul-mehta.in/) or [⁠Wikimap](https://wikimap.wiki/) / [GitHub](https://gitlab.com/nocylah/wikimap/) - Wikipedia Articles Geolocated on Map
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
@@ -382,7 +382,7 @@
 
 * ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [FacilMap](https://facilmap.org/), [OsmAPP](https://osmapp.org/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** or [MapComplete](https://mapcomplete.org/) / [Source](https://source.mapcomplete.org/MapComplete/MapComplete/) - Open Community Maps
 * ⭐ **[StreetComplete](https://streetcomplete.app/)** - OpenStreetMap Surveyor App / Quests / [GitHub](https://github.com/streetcomplete/streetcomplete)
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Features](https://github.com/deevroman/better-osm-org) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
@@ -781,7 +781,6 @@
 * ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
 * [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics / Map
-* [DIYHRT.Market](https://diyhrt.market/) - HRT Vendor Directory / Price Comparison & Safety Guides
 * [Gender Dysphoria Bible](https://genderdysphoria.fyi/) - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
 * [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
@@ -1606,13 +1605,12 @@
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [eieio.games](https://eieio.games/) - Experimental Games / Showcases
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
-* [EnigmaLabs](https://enigmalabs.io/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO Sighting Lists / Tracking
+* [EnigmaLabs](https://enigmalabs.io/), [⁠UFO Evidence](http://www.ufoevidence.org/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO + UAP Sighting Lists / Tracking
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
 * [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
-* [⁠Doomsday Scoreboard](https://doomsday.march1studios.com/) - Past & Predicted Apocalypse Events / Failed Prediction Scoreboard
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 * [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
 * [ConWorld](https://wiki.conworld.org/) - Constructed Worlds Wiki

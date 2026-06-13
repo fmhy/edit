@@ -313,7 +313,7 @@
 * [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
 * [Vice](https://viceclipper.framer.website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
-* [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
+* [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
 * [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
@@ -381,7 +381,7 @@
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
-* [⁠Brave Origin](https://brave.com/origin/download-nightly/) - Lighter Version of Brave
+* [⁠Brave Origin](https://brave.com/origin/) - Lighter Version of Brave
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text-Based Browser
 * [mx moment](https://mx-moment.xyz/) - Encrypted Chat Client
@@ -636,7 +636,6 @@
 * [Does It Arm?](https://doesitarm.com/) - Apple Silicon App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Client
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [macOSicons](https://macosicons.com/) - macOS App Icons

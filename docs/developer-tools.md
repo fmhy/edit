@@ -112,7 +112,7 @@
 ## ▷ Mobile Dev Tools
 
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
-* 🌐 **[UXArchive](https://uxarchive.com/)**, [Mobbin](https://mobbin.com/) or [UISources](https://uisources.com/) - Mobile UI Resources
+* 🌐 **[Mobbin](https://mobbin.com/)** or [UISources](https://uisources.com/) - Mobile UI Resources
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
@@ -416,7 +416,6 @@
 * [pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard Style Cloud IDE
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
-* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
 * [Notebooks.azure](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) - Access Jupyter Notebooks in VS Code
 * [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
@@ -497,7 +496,8 @@
 
 ## ▷ VSCode Tools
 
-* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/), [vsixhub](https://www.vsixhub.com/) or [VSCodiuim Marketplace](https://rentry.co/vscodiumguide)
+* 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/) or [vsixhub](https://www.vsixhub.com/)
+* [VSCodium Guide](https://rentry.co/vscodiumguide) - Install Microsoft Marketplace Extensions
 * [VSCode Web](https://code.visualstudio.com/docs/setup/vscode-web) - VSCode Web Version / Guide
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT

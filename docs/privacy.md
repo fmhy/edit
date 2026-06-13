@@ -186,7 +186,7 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Online Anonymity Guide / [GitHub](https://github.com/Anon-Planet/thgtoa) 
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.net/)** - Online Anonymity Guide / [GitHub](https://github.com/Anon-Planet/thgtoa) 
 * ⭐ **[The OPSEC Bible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/)** (.onion), [2](https://bible.beginnerprivacy.com/opsec/) - Online Anonymity Guide / [SimpleX Chat](http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/simplex.html)
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
