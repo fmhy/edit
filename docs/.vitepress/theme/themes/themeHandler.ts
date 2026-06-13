@@ -30,6 +30,16 @@ export class ThemeHandler {
     theme: null
   })
   private amoledEnabled = ref(false)
+  private prefersDarkMql: MediaQueryList | null = null
+  // Arrow field gives a stable, bound reference we can later remove.
+  private handleSystemThemeChange = (e: MediaQueryListEvent) => {
+    if (!localStorage.getItem(STORAGE_KEY_MODE)) {
+      this.state.value.currentMode = e.matches ? 'dark' : 'light'
+      this.applyTheme()
+    } else {
+      this.applyTheme()
+    }
+  }
 
   constructor() {
     this.initializeTheme()
@@ -66,55 +76,61 @@ export class ThemeHandler {
 
     this.applyTheme()
 
-    // Listen for system theme changes (only if user hasn't set a preference)
-    window
-      .matchMedia('(prefers-color-scheme: dark)')
-      .addEventListener('change', (e) => {
-        if (!localStorage.getItem(STORAGE_KEY_MODE)) {
-          this.state.value.currentMode = e.matches ? 'dark' : 'light'
-          this.applyTheme()
-        } else {
-          this.applyTheme()
-        }
-      })
+    // Listen for system theme changes (only if user hasn't set a preference).
+    // Remove any prior listener first so repeated init calls don't stack.
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = window.matchMedia('(prefers-color-scheme: dark)')
+    this.prefersDarkMql.addEventListener('change', this.handleSystemThemeChange)
+  }
+
+  /** Remove the system theme-change listener. */
+  public destroy() {
+    this.prefersDarkMql?.removeEventListener(
+      'change',
+      this.handleSystemThemeChange
+    )
+    this.prefersDarkMql = null
   }
 
   public applyTheme() {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
-
-    // Is this the WORST fix of all time???
     const root = document.documentElement
-    const bgColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? '#000000'
-        : currentMode === 'dark'
-          ? '#1A1A1A'
-          : '#f8fafc'
-    root.style.setProperty('--vp-c-bg', bgColor)
-    const bgAltColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? '#000000'
-        : currentMode === 'dark'
-          ? '#171717'
-          : '#eef2f5'
-    root.style.setProperty('--vp-c-bg-alt', bgAltColor)
-    const bgElvColor =
-      currentMode === 'dark' && this.amoledEnabled.value
-        ? 'rgba(0, 0, 0, 0.9)'
-        : currentMode === 'dark'
-          ? '#1a1a1acc'
-          : 'rgba(255, 255, 255, 0.8)'
-    root.style.setProperty('--vp-c-bg-elv', bgElvColor)
 
     this.applyDOMClasses(currentMode)
 
-    if (!theme) return
+    if (!theme) {
+      // Is this the WORST fix of all time???
+      const bgColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? '#000000'
+          : currentMode === 'dark'
+            ? '#1A1A1A'
+            : '#f8fafc'
+      root.style.setProperty('--vp-c-bg', bgColor)
+      const bgAltColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? '#000000'
+          : currentMode === 'dark'
+            ? '#171717'
+            : '#eef2f5'
+      root.style.setProperty('--vp-c-bg-alt', bgAltColor)
+      const bgElvColor =
+        currentMode === 'dark' && this.amoledEnabled.value
+          ? 'rgba(0, 0, 0, 0.9)'
+          : currentMode === 'dark'
+            ? '#1a1a1acc'
+            : 'rgba(255, 255, 255, 0.8)'
+      root.style.setProperty('--vp-c-bg-elv', bgElvColor)
+      this.persistInlineVars()
+      return
+    }
 
     const modeColors = theme.modes[currentMode]
-
-    this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
 
     if (theme.name === 'monochrome') {
@@ -172,13 +188,6 @@ export class ThemeHandler {
 
     const root = document.documentElement
 
-    // Clear ALL inline styles related to theming to ensure clean slate
-    // const allStyleProps = Array.from(root.style)
-    // allStyleProps.forEach(prop => {
-    //   if (prop.startsWith('--vp-')) {
-    //     root.style.removeProperty(prop)
-    //   }
-    // })
     let bgColor = colors.bg
     let bgAltColor = colors.bgAlt
     let bgElvColor = colors.bgElv

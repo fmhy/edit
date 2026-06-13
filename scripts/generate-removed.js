@@ -1,4 +1,4 @@
-import { execSync } from 'node:child_process'
+import { execFileSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
 import path from 'node:path'
@@ -26,6 +26,20 @@ function isIgnored(file) {
   )
 }
 
+function getAllDocFiles(dir) {
+  const results = []
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const child = `${dir}/${entry.name}`
+    if (entry.isDirectory()) {
+      if (IGNORED_DIRS.some((d) => `${child}/`.startsWith(d))) continue
+      results.push(...getAllDocFiles(child))
+    } else if (entry.name.endsWith('.md') && !isIgnored(child)) {
+      results.push(child)
+    }
+  }
+  return results
+}
+
 function generateRemovedSites() {
   console.log(`Generating recently removed sites from the last ${DAYS} days...`)
   console.log(`Current working directory: ${process.cwd()}`)
@@ -38,7 +52,7 @@ function generateRemovedSites() {
     return
   }
 
-  let gitDir = ''
+  let gitDirArgs = []
   // Check if it's a shallow clone (common in Cloudflare/CI)
   const isShallow =
     fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
@@ -48,7 +62,11 @@ function generateRemovedSites() {
       'Shallow clone detected. Fetching history for the last 30 days...'
     )
     try {
-      execSync(`git fetch --shallow-since="${DAYS + 1} days ago" --tags`)
+      execFileSync('git', [
+        'fetch',
+        `--shallow-since=${DAYS + 1} days ago`,
+        '--tags'
+      ])
     } catch (e) {
       console.warn(
         'Warning: Failed to unshallow repository. Results may be incomplete.'
@@ -71,10 +89,15 @@ function generateRemovedSites() {
 
       // Perform a blobless, shallow clone of just the metadata to save time/space
       // We only need the commits since 30 days ago
-      execSync(
-        `git clone --bare --filter=blob:none --shallow-since="${DAYS + 1} days ago" ${REPO_URL} ${TEMP_GIT_DIR}`
-      )
-      gitDir = `--git-dir=${TEMP_GIT_DIR}`
+      execFileSync('git', [
+        'clone',
+        '--bare',
+        '--filter=blob:none',
+        `--shallow-since=${DAYS + 1} days ago`,
+        REPO_URL,
+        TEMP_GIT_DIR
+      ])
+      gitDirArgs = [`--git-dir=${TEMP_GIT_DIR}`]
       console.log('Temporary history fetched successfully.')
     } catch (e) {
       console.warn(
@@ -86,15 +109,31 @@ function generateRemovedSites() {
 
   // Ensure the directory is marked as safe for git (common issue in Docker)
   try {
-    execSync(`git ${gitDir} config --global --add safe.directory /app`)
+    execFileSync('git', [
+      ...gitDirArgs,
+      'config',
+      '--global',
+      '--add',
+      'safe.directory',
+      '/app'
+    ])
   } catch (e) {
     // Ignore error if it fails
   }
 
   // Get git log with diffs
   // We use a custom separator to make parsing easier
-  const logOutput = execSync(
-    `git ${gitDir} log --since="${DAYS} days ago" --pretty=format:"---COMMIT---%H---MSG---%s" -p --unified=0 docs/`,
+  const logOutput = execFileSync(
+    'git',
+    [
+      ...gitDirArgs,
+      'log',
+      `--since=${DAYS} days ago`,
+      '--pretty=format:---COMMIT---%H---MSG---%s',
+      '-p',
+      '--unified=0',
+      'docs/'
+    ],
     { maxBuffer: 10 * 1024 * 1024 }
   ).toString()
 
@@ -102,10 +141,9 @@ function generateRemovedSites() {
   const removedSites = []
 
   // Get current state of all valid wiki docs to check if a URL still exists somewhere
-  const findCommand = `find docs -name "*.md" ${IGNORED_DIRS.map((d) => `! -path "${d}*"`).join(' ')} ${IGNORED_FILES.map((f) => `! -path "${f}"`).join(' ')}`
-  const allCurrentDocs = execSync(`${findCommand} | xargs cat`, {
-    maxBuffer: 100 * 1024 * 1024
-  }).toString()
+  const allCurrentDocs = getAllDocFiles('docs')
+    .map((file) => fs.readFileSync(file, 'utf-8'))
+    .join('\n')
 
   for (const commit of commits) {
     const lines = commit.split('\n')
@@ -282,9 +320,9 @@ function generateRemovedSites() {
   )
 
   // Cleanup temporary git dir
-  if (gitDir.includes('.git-temp')) {
+  if (gitDirArgs.length > 0) {
     try {
-      const tempDir = gitDir.split('=')[1]
+      const tempDir = gitDirArgs[0].split('=')[1]
       fs.rmSync(tempDir, { recursive: true, force: true })
     } catch (e) {
       // Ignore cleanup errors
