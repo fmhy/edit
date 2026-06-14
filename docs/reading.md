@@ -419,7 +419,7 @@
 * [MangaKatana](https://mangakatana.com/)
 * [MangaK](https://mangak.io/)
 * [MangaBall](https://mangaball.net/)
-* [Mangapill](https://mangapill.com/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
+* [Mangapill](https://mangapill.com/) / [GitHub](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)

@@ -87,20 +87,5 @@
     "vite-plugin-terminal": "^1.4.0",
     "vue-eslint-parser": "^10.4.0",
     "wrangler": "^4.94.0"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search",
-        "search-insights"
-      ]
-    },
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "esbuild",
-      "sharp",
-      "vue-demi",
-      "workerd"
-    ]
   }
 }

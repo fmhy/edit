@@ -5,6 +5,64 @@ import { fileURLToPath } from 'node:url'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DOCS_DIR = path.resolve(__dirname, '../docs')
 
+// Platform "icon" links: the content transformer
+// (docs/.vitepress/transformer.ts -> transformLinks) converts EXACT-text links
+// like [GitHub](url) or [Discord](url) into platform ICONS at build time. Those
+// regexes are case-sensitive, so a near-miss label ([Github], [discord]) or a
+// known synonym ([Reddit] for Subreddit, [Twitter] for X) silently fails to
+// render the icon and shows as raw text instead. Check 15 below flags these.
+//   - `canonical`: the exact label text the transformer requires.
+//   - `aliases`: common wrong synonyms that mean the same platform.
+//   - `domains`: gates the check to that platform's own host, so unrelated
+//     links are never touched (precision over recall — see Check 15).
+// Note: [Source Code] is intentionally omitted: it has no domain to gate on, so
+// a lowercase "[source code](link)" in prose can't be distinguished from an
+// intended icon link without false positives.
+const ICON_LINK_RULES = [
+  { canonical: 'GitHub', domains: ['github.com', 'github.io'] },
+  // GitLab's transformer rule additionally requires a preceding "/ " (it only
+  // appears in source-link lists); we flag any casing on gitlab.com regardless,
+  // which is correct for every real occurrence in this wiki.
+  { canonical: 'GitLab', domains: ['gitlab.com'] },
+  {
+    canonical: 'Discord',
+    domains: [
+      'discord.com',
+      'discord.gg',
+      'discordapp.com',
+      'discord.me',
+      'discord.li',
+      'dsc.gg',
+      'railgun.works'
+    ]
+  },
+  {
+    canonical: 'Telegram',
+    domains: ['t.me', 'telegram.me', 'telegram.org', 'telegram.dog']
+  },
+  { canonical: 'Subreddit', domains: ['reddit.com'], aliases: ['reddit'] },
+  {
+    canonical: 'X',
+    domains: ['x.com', 'twitter.com', 't.co'],
+    aliases: ['twitter']
+  },
+  { canonical: '.onion', domains: ['.onion'], aliases: ['onion'] }
+]
+
+// Host-aware domain match. Avoids substring traps (e.g. "max.com" must NOT match
+// "x.com"). A leading-dot domain (".onion") matches by TLD suffix; every other
+// domain matches the host exactly or as a subdomain (reddit.com, www.reddit.com).
+function matchesPlatformDomain(url, domain) {
+  const host = url
+    .toLowerCase()
+    .replace(/^https?:\/\//, '')
+    .split(/[/?#]/)[0]
+    .replace(/^[^@]*@/, '') // strip userinfo (user:pass@host)
+    .replace(/:\d+$/, '') // strip port (host:443)
+  if (domain.startsWith('.')) return host.endsWith(domain)
+  return host === domain || host.endsWith(`.${domain}`)
+}
+
 // Non-recursive scan of DOCS_DIR
 function getDocsFiles(dir) {
   const files = fs.readdirSync(dir)
@@ -514,6 +572,93 @@ files.forEach((file) => {
         // Source line (dimmed)
         console.log(`  \x1b[90m${line.trim()}\x1b[0m`)
       })
+    }
+  })
+})
+
+// Check 15: Platform icon link with the wrong text (casing / synonym)
+// Run as a dedicated pass because its scope is the set of files where the
+// build-time icon transform actually runs (docs/.vitepress/transformer.ts ->
+// transformsPlugin / transformLinks) — a wrong label is only a silent failure
+// where an icon would otherwise render. That set is deliberately DIFFERENT
+// from FILES_TO_IGNORE (which governs the text/English checks above):
+//   • beginners-guide.md and storage.md are NOT checked: the transformer
+//     early-returns for them (transformGuide / raw contents) before
+//     transformLinks, so no platform icon ever renders there.
+//   • recently-removed.md is NOT checked: it is a generated, gitignored
+//     artifact (see .gitignore). Its entries are copied from real content
+//     pages that this check already lints while they are live, so linting the
+//     generated copy is redundant, non-actionable (regenerated on build), and
+//     would make results depend on whether the file has been generated yet.
+// Scope mirrors transformsPlugin's filter: a depth-1 docs/*.md (the routed,
+// authored content pages — no content pages live in subdirectories), whose
+// basename is not in the transformer's `excluded` list and whose path is not
+// under posts/ or other/. ICON_LINK_RULES and matchesPlatformDomain are
+// defined at the top of this file.
+const ICON_TRANSFORM_SKIP = new Set([
+  'readme.md',
+  'feedback.md',
+  'index.md',
+  'sandbox.md',
+  'startpage.md',
+  'beginners-guide.md',
+  'storage.md',
+  'recently-removed.md'
+])
+
+function iconTransformApplies(normalizedPath) {
+  const base = normalizedPath.split('/').pop()
+  if (!base.endsWith('.md')) return false
+  if (normalizedPath.includes('posts') || normalizedPath.includes('other'))
+    return false
+  return !ICON_TRANSFORM_SKIP.has(base)
+}
+
+files.forEach((file) => {
+  const relativePath = path.relative(process.cwd(), file)
+  const normalizedPath = relativePath.replace(/\\/g, '/')
+  if (!iconTransformApplies(normalizedPath)) return
+
+  const iconLines = fs.readFileSync(file, 'utf-8').split('\n')
+  let inIconCodeBlock = false
+
+  iconLines.forEach((rawLine, index) => {
+    const lineNum = index + 1
+    // Strip zero-width / invisible joiner chars (same as the main loop)
+    const line = rawLine.replace(/[\u200B-\u200D\uFEFF\u2060]/g, '')
+
+    // Skip fenced code blocks so a link inside ``` is never flagged
+    if (/^\s*```/.test(line)) {
+      inIconCodeBlock = !inIconCodeBlock
+      return
+    }
+    if (inIconCodeBlock) return
+
+    // Strip inline code so a link inside backticks (e.g. `[Github](url)`) is
+    // never flagged. Precision over recall: a bad-casing label on a custom or
+    // redirect domain (e.g. [Github](https://my-mirror.io)) is a real but rare
+    // failure we intentionally skip to guarantee zero false positives — only
+    // links pointing at the platform's own host are checked.
+    const iconCleanLine = line.replace(/`[^`]+`/g, ' ')
+    const iconLinkRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
+    let iconMatch
+    while ((iconMatch = iconLinkRegex.exec(iconCleanLine)) !== null) {
+      const iconLabel = iconMatch[1].trim()
+      const iconLabelLower = iconLabel.toLowerCase()
+      const iconUrl = iconMatch[2]
+      for (const rule of ICON_LINK_RULES) {
+        const triggers = [rule.canonical.toLowerCase(), ...(rule.aliases || [])]
+        if (!triggers.includes(iconLabelLower)) continue
+        if (iconLabel === rule.canonical) continue // already correct, renders fine
+        if (!rule.domains.some((d) => matchesPlatformDomain(iconUrl, d)))
+          continue
+        hasErrors = true
+        console.log(
+          `\x1b[36m${relativePath}:${lineNum}\x1b[0m - \x1b[31mPlatform icon won't render: label "${iconLabel}" should be exactly "${rule.canonical}": ${iconUrl}\x1b[0m`
+        )
+        console.log(`  \x1b[90m${line.trim()}\x1b[0m`)
+        break
+      }
     }
   })
 })

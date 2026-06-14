@@ -19,6 +19,9 @@ declare module '*.vue' {
   export default component
 }
 
+declare module '*.css'
+declare module '*.scss'
+
 declare module 'vitepress/dist/client/theme-default/composables/nav' {
   export function useNav(): {
     isScreenOpen: import('vue').Ref<boolean>

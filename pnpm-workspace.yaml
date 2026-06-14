@@ -1,0 +1,10 @@
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - sharp
+  - vue-demi
+  - workerd
+peerDependencyRules:
+  ignoreMissing:
+    - '@algolia/client-search'
+    - search-insights
