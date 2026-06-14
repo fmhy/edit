@@ -186,7 +186,7 @@
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
 * [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
 * [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
-* [⁠PrivMeta](https://www.privmeta.com/) / [GitHub](https://github.com/DScaife/privmeta/), [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) / [GitHub](https://github.com/iAnonymous3000/metadata-remover) or [mat2](https://github.com/jvoisin/mat2) / [Web Version](https://0xacab.org/jvoisin/mat2-web) - Remove Metadata from Files
+* [⁠PrivMeta](https://www.privmeta.com/) / [GitHub](https://github.com/DScaife/privmeta/), [MetaStrip](https://metastrip.app/) / [GitHub](https://github.com/lars-1987/metastrip), [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) / [GitHub](https://github.com/iAnonymous3000/metadata-remover) or [mat2](https://github.com/jvoisin/mat2) / [Web Version](https://0xacab.org/jvoisin/mat2-web) - Remove Metadata from Files
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [WhatsLink](https://whatslink.info/) - View File Download Web Metadata
 * [Magika](https://github.com/google/magika) or [TridUI](https://github.com/JMcrafter26/TridUI) - File Type Detection Tools
