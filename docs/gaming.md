@@ -728,6 +728,7 @@
 
 ## ▷ Multi-Game Sites
 
+* ⭐ **[Flockyard](https://flockyard.pages.dev)** - Browser Game Aggregator
 * ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
 * ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
