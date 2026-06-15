@@ -288,7 +288,7 @@
 * [RefreshRateTest](https://frameratetest.com/refresh-rate-tester/) - Monitor Refresh Rate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [Scalizer](https://github.com/wonmor/Scalizer-Windows) - Auto DPI Scaling / [YouTube](https://youtu.be/f_3XWlmyat4)
-* [Display Calc](https://www.tools.rodrigopolo.com/display_calc/) - Display Distance / Dimension Calculator
+* [Display Calc](https://frameratetest.com/retina-display-calculator/) - Display Distance / Dimension Calculator
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [⁠novideo_srgb](https://github.com/ledoge/novideo_srgb) - Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation
