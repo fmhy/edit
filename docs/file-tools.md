@@ -122,7 +122,7 @@
 ## ▷ File Encryption
 
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
 * [age](https://github.com/FiloSottile/age) - File Encryptor
 * [REM](https://github.com/liriliri/rem) - File Encryptor / Rclone GUI
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
@@ -133,7 +133,7 @@
 
 ## ▷ File Sync
 
-* ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Android](https://github.com/chenxiaolong/BasicSync) / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
+* ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Android](https://github.com/researchxxl/syncthing-android), [2](https://github.com/chenxiaolong/BasicSync) / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
 * ⭐ **[FreeFileSync](https://freefilesync.org/)** - Open-Source File Sync
 * [MyPhoneExplorer](https://www.fjsoft.at/) or [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
@@ -334,6 +334,7 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
+* [0807](https://0807.st/) - 4GB / 30 Days (>500MB) / Forever (<500MB) / [.onion](http://44jv5o3dj7hgitfafkms7t66gvzswuj63icdwm2p3y4wfylgb7pohkid.onion) / [Telegram](https://t.me/filehosting0807)
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days

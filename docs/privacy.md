@@ -34,7 +34,7 @@
 * 🌐 **[FilterLists](https://filterlists.com/)** - Filter / Host List Directory
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use w/ AdGuard URL Tracking Protection
 * ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** / [2](https://gitlab.com/hagezi/mirror) - Blocklist Collection / Use Mini Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* [blacklist](https://github.com/anudeepND/blacklist) - Blocklist Collection
+* [blacklist](https://github.com/anudeepND/blacklist) - Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
 * [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines 
@@ -500,7 +500,7 @@
 * ⭐ **[⁠Project Atlas](https://project-atlas-dbb.pages.dev/)** - Censorship Bypass Guide
 * ⭐ **[⁠Net4people](https://github.com/net4people/bbs/issues)** - Worldwide Censorship Circumvention Discussion
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - Network Packet Alter Tool / Android
-* ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tools 
+* ⭐ **[zapret](https://github.com/bol-van/zapret2)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Network Packet Alter Tools 
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [GitHub](https://github.com/msasanmh/DNSveil)
 * [⁠Geph](https://geph.io/) - Anti-Censorship Proxy / [GitHub](https://github.com/geph-official)
 * [DNSTT.XYZ](https://dnstt.xyz/) / [Telegram](https://t.me/dnstt_xyz) / [GitHub](https://github.com/dnstt-xyz/dnstt_xyz_app), [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna), [SlipNet](https://github.com/anonvector/SlipNet) / [Troubleshooting](https://t.me/SlipNet_app) / [Telegram](https://t.me/slipnet_chat), [⁠WhiteDNS](https://github.com/iampedii/WhiteDNS) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass

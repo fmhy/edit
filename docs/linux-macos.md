@@ -542,7 +542,7 @@
 * 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
 * ⭐ **[i3wm](https://i3wm.org)** - Manual Tiling Window Manager / [Reference Card](https://i3wm.org/docs/refcard.html)
 * ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) or [dwm](https://dwm.suckless.org) - Dynamic Tiling Window Managers
-* ⭐ **[Hyprland](https://hypr.land/)** - Dynamic Tiling Wayland Compositor / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/)
+* ⭐ **[Hyprland](https://hypr.land/)** - Dynamic Tiling Wayland Compositor / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/) / [Test Configs](https://github.com/amarsbar/rice-cooker)
 * ⭐ **[niri](https://github.com/YaLTeR/niri)** - Scrollable-Tiling Wayland Compositor
 * ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway) or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositors
 * [Waycheck](https://gitlab.freedesktop.org/serebit/waycheck) - Lists Protocols Implemented by a Wayland Compositor
