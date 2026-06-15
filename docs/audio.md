@@ -846,6 +846,7 @@
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [AudioTag](https://audiotag.info/) / Web
 * [⁠SongFinder](https://songfinder.gg/) / Web
+* * [SongFromLink](https://songfromlink.com/) - Find the Song from a TikTok / Reels / Shorts Link / Web
 * [SoundHound](https://www.soundhound.com/soundhound) / Android, iOS
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) / Android
 * [Audire](https://github.com/alexmercerind/audire) / Android
