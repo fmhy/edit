@@ -1091,7 +1091,7 @@
 * [⁠Pokelike](https://pokelike.xyz/) - Pokémon Roguelike / [Discord](https://discord.gg/YsakfWStYq)
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
-* [PokeMMO](https://pokemmo.com/) - Massive Multiplayer Online Role-Playing Game / [Forum](https://discord.gg/MTBGxVE)
+* [PokeMMO](https://pokemmo.com/) - Massive Multiplayer Online Role-Playing Game / [Forum](https://forums.pokemmo.com/)
 
 ***
 
