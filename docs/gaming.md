@@ -912,7 +912,6 @@
 ## ▷ Platformer
 
 * ⭐ **[Bonk](https://bonk.io/)** - Multiplayer Physics Game
-
 * ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
