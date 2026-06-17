@@ -126,8 +126,8 @@
 ## ▷ Remote Desktop
 
 * ⭐ **[Parsec](https://parsec.app/)** / Windows, Mac, Linux / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
-* ⭐ **[RustDesk](https://rustdesk.com/)**   Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)**   Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[Aspia](https://aspia.org/)** / Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, Mac, Linux / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
@@ -135,7 +135,7 @@
 * [CoScreen](https://www.coscreen.co/) / Windows, Mac
 * [⁠DWS](https://www.dwservice.net/) / Windows, Mac, Linux
 * [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, Mac
-* [Remotly](https://remotly.com/) /Windows, Linux
+* [Remotly](https://remotly.com/) / Windows, Linux
 * [Bananas](https://getbananas.net/) / Windows, Mac, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
