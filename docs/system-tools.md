@@ -125,18 +125,18 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** - Windows, Mac, Linux / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
-* ⭐ **[RustDesk](https://rustdesk.com/)** - Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)** - Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[Parsec](https://parsec.app/)** / Windows, Mac, Linux / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
+* ⭐ **[RustDesk](https://rustdesk.com/)**   Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[Aspia](https://aspia.org/)**   Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, Mac, Linux / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
-* [HopToDesk](https://www.hoptodesk.com/) -  Windows, Mac, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
-* [CoScreen](https://www.coscreen.co/) - Windows, Mac
-* [⁠DWS](https://www.dwservice.net/) - Windows, Mac, Linux
+* [HopToDesk](https://www.hoptodesk.com/) / Windows, Mac, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
+* [CoScreen](https://www.coscreen.co/) / Windows, Mac
+* [⁠DWS](https://www.dwservice.net/) / Windows, Mac, Linux
 * [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, Mac
-* [Remotly](https://remotly.com/) - Windows, Linux
-* [Bananas](https://getbananas.net/) - Windows, Mac, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
+* [Remotly](https://remotly.com/) /Windows, Linux
+* [Bananas](https://getbananas.net/) / Windows, Mac, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client / Windows
@@ -151,11 +151,11 @@
 
 ## ▷ Clipboard Managers
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - Windows / [GitHub](https://sabrogden.github.io/Ditto/)
-* [PasteBar](https://www.pastebar.app/) - Windows, Mac / [GitHub](https://github.com/PasteBar/PasteBarApp)
-* [CrossPaste](https://crosspaste.com/) - Windows, Mac, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
-* [ArsClip](https://www.joejoesoft.com/vcms/97/) - Windows
-* [ClipAngel](https://sourceforge.net/projects/clip-angel/) - Windows
+* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
+* [PasteBar](https://www.pastebar.app/) / Windows, Mac / [GitHub](https://github.com/PasteBar/PasteBarApp)
+* [CrossPaste](https://crosspaste.com/) / Windows, Mac, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
+* [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
+* [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
 * [CopyQ](https://hluk.github.io/CopyQ/) / Windows, Mac, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots / Windows
 
