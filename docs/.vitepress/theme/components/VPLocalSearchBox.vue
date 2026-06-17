@@ -222,11 +222,13 @@ function urlMatchesQuery(url: string, query: string) {
 
   const urlVariants = urlSearchVariants(url)
   const queryVariants = urlSearchVariants(query)
+  // Only match when the stored URL contains the query, not the reverse. The
+  // reverse direction let a longer query that *contains* a stored URL match it
+  // (e.g. "pi-hole.net/testttttt" matched "pi-hole.net/"). Exact/full matches
+  // still work here because equal strings include each other.
   return urlVariants.some((urlValue) =>
     queryVariants.some(
-      (queryValue) =>
-        queryValue &&
-        (urlValue.includes(queryValue) || queryValue.includes(urlValue))
+      (queryValue) => queryValue && urlValue.includes(queryValue)
     )
   )
 }
@@ -695,7 +697,14 @@ debouncedWatch(
         const bv = b[key] ? 1 : 0
         if (av !== bv) return bv - av
       }
-      return b.score - a.score
+      if (b.score !== a.score) return b.score - a.score
+      // Deterministic fallback for exact score ties so equal-scored results
+      // don't reshuffle between fuzzy/exact modes (or re-renders). Compare by
+      // title, then id, for a stable order.
+      return (
+        (a.title || '').localeCompare(b.title || '') ||
+        a.id.localeCompare(b.id)
+      )
     })
 
     enableNoResults.value = true
