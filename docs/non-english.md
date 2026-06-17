@@ -1807,6 +1807,7 @@
 * [Shafilm](https://shafilm.vip/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
+* [KRDTV] (https://www.krdtv.online/) - Kurdish / TV
 * [Redzidzirdilatviju](https://www.redzidzirdilatviju.lv/) - Latvian / Documents
 * [vaizdopamokos](https://vaizdopamokos.lt/) - Lithuanian Educational Videos
 * [Lowyat](https://forum.lowyat.net/) - Malay / Tech Forum
