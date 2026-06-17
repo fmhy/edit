@@ -1006,52 +1006,68 @@ async function processExcerpts(
     if (isCanceled()) return
     const hashIndex = id.indexOf('#')
     const mapId = hashIndex === -1 ? id : id.slice(0, hashIndex)
-    let map = cache.get(mapId)
-    if (map) continue
-    map = new Map()
-    cache.set(mapId, map)
+    if (cache.has(mapId)) continue
     const comp = (mod.default ?? mod) as { render?: unknown; setup?: unknown }
-    if (comp && typeof comp === 'object' && (comp.render || comp.setup)) {
-      try {
-        const app = createApp(comp as Component)
-        app.component('VDropdown', VDropdownStub)
-        app.component('Tooltip', Tooltip)
-        app.config.warnHandler = () => {}
-        app.provide(dataSymbol, vitePressData)
-        Object.defineProperties(app.config.globalProperties, {
-          $frontmatter: {
-            get() {
-              return vitePressData.frontmatter.value
-            }
-          },
-          $params: {
-            get() {
-              return vitePressData.page.value.params
-            }
+    if (!(comp && typeof comp === 'object' && (comp.render || comp.setup))) {
+      // Failed/empty dynamic import — fetchExcerpt returns { mod: {} } on error.
+      // Do NOT cache anything here: a permanent empty Map would be served for
+      // the rest of the session (the cache.has guard above skips reprocessing),
+      // so every section of this page would show a blank excerpt. Leaving it
+      // uncached lets a later search retry the import.
+      continue
+    }
+    const map = new Map<string, string>()
+    try {
+      const app = createApp(comp as Component)
+      app.component('VDropdown', VDropdownStub)
+      app.component('Tooltip', Tooltip)
+      app.config.warnHandler = () => {}
+      app.provide(dataSymbol, vitePressData)
+      Object.defineProperties(app.config.globalProperties, {
+        $frontmatter: {
+          get() {
+            return vitePressData.frontmatter.value
           }
-        })
-        const div = document.createElement('div')
-        app.mount(div)
-        try {
-          const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
-          headings.forEach((heading) => {
-            const href = heading.querySelector('a')?.getAttribute('href')
-            const anchor = href?.startsWith('#') && href.slice(1)
-            if (!anchor) return
-            let html = ''
-            let next: Element | null = heading.nextElementSibling
-            while (next && !/^h[1-6]$/i.test(next.tagName)) {
-              html += next.outerHTML
-              next = next.nextElementSibling
-            }
-            map!.set(anchor, html)
-          })
-        } finally {
-          app.unmount()
+        },
+        $params: {
+          get() {
+            return vitePressData.page.value.params
+          }
         }
-      } catch (e) {
-        console.error('Error processing excerpt for ' + id, e)
+      })
+      const div = document.createElement('div')
+      app.mount(div)
+      try {
+        const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+        headings.forEach((heading) => {
+          const href = heading.querySelector('a')?.getAttribute('href')
+          const anchor = href?.startsWith('#') && href.slice(1)
+          if (!anchor) return
+          let html = ''
+          let next: Element | null = heading.nextElementSibling
+          while (next && !/^h[1-6]$/i.test(next.tagName)) {
+            // Skip note/infobox custom blocks so the excerpt highlights the real
+            // curated link instead of a note that merely mentions the query.
+            // Mirror the build-time strip in constants.ts (stripNoteBlocks),
+            // which removes EVERY `custom-block` except `:::details`. Matching it
+            // here keeps the preview and the index in agreement on which prose
+            // exists (otherwise a mark for never-indexed note text can't resolve).
+            const cls = next.classList
+            const isNoteBlock =
+              cls.contains('custom-block') && !cls.contains('details')
+            if (!isNoteBlock) html += next.outerHTML
+            next = next.nextElementSibling
+          }
+          map.set(anchor, html)
+        })
+      } finally {
+        app.unmount()
       }
+      // Cache only after a successful mount + walk so a transient failure never
+      // poisons the permanent cache with an empty Map.
+      cache.set(mapId, map)
+    } catch (e) {
+      console.error('Error processing excerpt for ' + id, e)
     }
   }
 }
