@@ -424,7 +424,7 @@
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, Mac, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, Mac, Linux
 * [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, Mac, Linux
-* [Outlook](https://outlook.live.com/owa/) / Windows, Mac, Linux iOS, Web
+* [Outlook](https://outlook.live.com/owa/) / Windows, Mac, Linux, iOS, Web
 * [eM Client](https://www.emclient.com/) / Windows, Mac, Linux, Android, iOS
 * [Spike](https://www.spikenow.com/) / Windows, Mac, Android, iOS, Web
 * [Canary](https://canarymail.io/) / Windows, Mac, Android, iOS
