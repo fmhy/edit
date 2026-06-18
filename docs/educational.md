@@ -105,7 +105,7 @@
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [⁠simloops](https://www.simloops.com/communities) - Educational Simulations
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
-* [Memory Toys](https://memory.toys/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
+* [Memory Toys](https://memory.toys/), [⁠Memory League](https://memoryleague.com/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [⁠Art of Memory](https://artofmemory.com/) - Memory Improvement Book, Games, and Forums
 * [Information Is Beautiful](https://informationisbeautiful.net/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [r/coolguides](https://www.reddit.com/r/coolguides/top/?screen_view_count=2&t=all) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
@@ -207,8 +207,9 @@
 * [⁠Mathematical Olympiads](https://mathematics.isodn.org/) - Mathematical Olympiads Discord Community / [Discord](https://discord.gg/KCdTTF5)
 * [Mathcha](https://www.mathcha.io/) or [Corca](https://corca.app/) - Online Math Editors
 * [SequenceDB](https://sequencedb.net/) - Sequence Machine
+* [⁠Erich's Packing Center](https://erich-friedman.github.io/packing/) - Geometric Packing Problem Archive
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
-* [⁠ProofWiki](https://proofwiki.org/) - Mathematical Proofs Encyclopedia 
+* [⁠ProofWiki](https://proofwiki.org/) - Mathematical Proofs Encyclopedia
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
 * [Calculus Made Easy](https://calculusmadeeasy.org) - Learn Calculus
@@ -428,17 +429,18 @@
 * ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Apollo (Missions) Images
 * [Apollo in Realtime](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Interactive Apollo Missions
 * [Artemis II Photo Timeline](https://artemistimeline.com/) - Artemis II Photo & Video Timeline
+* [⁠Lunaserv Global Explorer]( https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
 * [Marspedia](https://marspedia.org/) - Mars Wiki
-* [ESA](https://www.esa.int/) - European Space Agency Website
+* [ESA](https://www.esa.int/) - European Space Agency Website / [X](https://x.com/ESA_Webb)
 * [JAXA](https://global.jaxa.jp/) - Japanese Space Agency Website / [Images / Videos](https://jda.jaxa.jp/?lang=e)
 * [CSA](https://www.asc-csa.gc.ca/eng/) - Canadian Space Agency Website
 * [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization
 * [Space.com](https://www.space.com/) - Space News
-* [⁠Russian Space Web](https://russianspaceweb.com/) - Russian Space Program News / History
+* [⁠Russian Space Web](https://russianspaceweb.com/) - Russian Space Program News / History / [X](https://x.com/russianspaceweb)
 * [⁠Mental Landscape](http://mentallandscape.com/) - Soviet Space Exploration Archive / [X](https://x.com/DonaldPMitchell)
 * [Encyclopedia Astronautica](http://www.astronautix.com/) - Space Encyclopedia
 * [NASA+](https://plus.nasa.gov/) - Official NASA Streaming Service
-* [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books
+* [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) / [X](https://x.com/NASAhistory) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books
 * [⁠Ask an Astronaut](https://askanastronaut.issinrealtime.org/) - Astronaut Interview Q&A Search
 * [⁠Cosmos2025](https://cosmos2025.iap.fr/fitsmap.html), [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
@@ -477,7 +479,7 @@
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) / [GitHub](https://github.com/Stellarium/stellarium) - Virtual Stellariums
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data / [Home Page](https://worldwidetelescope.org/home/) / [GitHub](https://github.com/WorldWideTelescope)
-* [ESA Hubble](https://esahubble.org/), [SpaceTelescopeLive](https://spacetelescopelive.org/) or [HubbleSite](https://hubblesite.org/) - Hubble Telescope Images
+* [ESA Hubble](https://esahubble.org/) / [X](https://x.com/hubble_space), [SpaceTelescopeLive](https://spacetelescopelive.org/) / [X](https://x.com/spacetelelive) or [HubbleSite](https://hubblesite.org/) / [X](https://x.com/NASAHubble) - Hubble Telescope Images
 * [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) / [X](https://x.com/nasawebb) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Sites
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images / [GitHub](https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages)
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
@@ -496,7 +498,7 @@
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
 * ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
-* [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch / Space Flight Trackers
+* [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [⁠Space Notices](https://space-notices.com/), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch & Spaceflight Schedules / Trackers
 * [⁠Spaceflight Archive](https://spaceflight-archive.com/) - Rocket Launch History / Visualizations / Stats / [X](https://x.com/S_F_Archive)
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
 * [⁠HeroicRelics](http://heroicrelics.org/) - Spacecraft Technical Information Archive
@@ -504,7 +506,7 @@
 * [⁠Ringwatchers](https://ringwatchers.com/) - Starship Diagrams / Articles / Community / [X](https://x.com/ringwatchers) / [Discord](https://discord.com/invite/ringwatchers)
 * [Energia-Buran Archive](https://buranarchive.space/) - Energia-Buran Image Archive / [X](https://x.com/11K25_Energia)
 * [Andegraf Rockets](https://rockets.andegraf.com/) - Rocket Diagrams
-* [⁠Gunter's Space Page](https://space.skyrocket.de/) - Satellite Encyclopedia / Launch Database
+* [⁠Gunter's Space Page](https://space.skyrocket.de/) - Satellite Encyclopedia / Launch Database / [X](https://x.com/Skyrocket71)
 * [⁠Sven's Space Place](https://www.svengrahn.pp.se/) - Space Mission Technical Analysis
 * [Orbiter](https://www.orbiter-forum.com/) - Open Source Spaceflight Simulator / [Subreddit](https://www.reddit.com/r/Orbiter/) / [GitHub](https://github.com/orbitersim/orbiter)
 * [Sen](https://www.sen.com/) - ISS Live Feed + Video Archive / [YouTube](https://www.youtube.com/@Sen) / [X](https://x.com/sen)
@@ -527,15 +529,14 @@
 * [⁠r/AerospaceEngineering](https://www.reddit.com/r/AerospaceEngineering/) - Aerospace Engineering Community
 * [⁠AerospaceWeb](https://aerospaceweb.org/) - Aerospace Info Database / Calculators / Q&A
 * [⁠JetPhotos](https://www.jetphotos.com/) / [Forums](https://forums.jetphotos.com/) / [X](https://x.com/jetphotos) or [PlaneSpotters](https://www.planespotters.net/) - Aircraft Indexes / Images
-* [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning
-* [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators
+* [Flight Mechanics](https://www.aircraftflightmechanics.com) - Aircraft Flight Mechanics Learning / [GitHub](https://github.com/aeronauty/Aircraft-Flight-Mechanics)
+* [eCalc](https://www.ecalc.ch/) - Aerospace Engineering Calculators / [X](https://x.com/eCalc_e)
 * [⁠Av8n](https://www.av8n.com/) - Aviation Physics Textbook
 * [SmartCockpit](https://www.smartcockpit.com/) - Aircraft Systems / Technical Manuals
 * [⁠HeliStart](http://www.helistart.com/) - Helicopter Aerodynamics / Flight Mechanics Guides + History
 * [⁠V2Rocket](https://www.v2rocket.com/) - A-4 & V-2 Rocket History / Resources
 * [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [X](https://x.com/B737Tech) / [YouTube](https://www.youtube.com/@ChrisBrady737)
 * [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
-* [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
 * [UIUC Applied Aerodynamics Group](https://m-selig.ae.illinois.edu/ads.html) - Airfoil Coordinates / Aerodynamic Research
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
 * [Outerzone](https://outerzone.co.uk/) - Vintage Model Airplane Plans
@@ -558,7 +559,7 @@
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
 * [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
 * [⁠Hot Nozzle Society](https://www.hotnozzlesociety.org/) - High-Power Rocketry Guide / Community / [X](https://x.com/HotNozzleSummer) / [Discord](https://discord.gg/ryjP9bUmkY)
-* [⁠RocketPy](https://github.com/RocketPy-Team/RocketPy) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh)
+* [⁠RocketPy](https://docs.rocketpy.org/) - High-Powered Rocket Simulator / [Discord](https://discord.gg/b6xYnNh) / [GitHub](https://github.com/RocketPy-Team/RocketPy)
 * [openMotor](https://github.com/reilleya/openMotor) - Internal Ballistics Simulator
 
 ***
@@ -566,8 +567,10 @@
 ## ▷ Drones
 
 * [⁠UAVs FYI](https://www.uavs.fyi/) - Drone Information, Resources, Hardware & Supply Chain Analysis / [X](https://x.com/osoraku_1997)
-* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews
-* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews / [X](https://x.com/OscarLiang1)
+* [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
+* [⁠My Balsa & Glass Workshop](https://balsaandglass.com/Balsa_Builds.html) - RC Model Builds
+* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software / [GitHub](https://github.com/OpenDroneMap/)
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -611,11 +614,11 @@
 * [Mission US](https://www.mission-us.org/) - American History Learning Games
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
-* [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum
+* [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
-* [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki (1880-1920)
+* [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki (1880-1920) / [X](https://x.com/NavyHistorian)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft 
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
@@ -637,14 +640,14 @@
 
 ## ▷ Tech History
 
-* ⭐ **[⁠Historical Tech Tree](https://www.historicaltechtree.com/)** or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
+* ⭐ **[⁠Historical Tech Tree](https://www.historicaltechtree.com/)** / [Discord](https://discord.gg/e96JwQjUmX) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) / [Discord](https://discord.com/invite/XPz5Zm42tR) - Operating System / Software History 
 * [Old Computer Museum](https://oldcomputers.net/) - Computer History
-* [The Retro Web](https://theretroweb.com/) - Computer Hardware History
-* [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
-* [Folklore](https://www.folklore.org) or [TheAppleWiki](https://theapplewiki.com/) - Apple Computer History
+* [The Retro Web](https://theretroweb.com/) - Computer Hardware History / [Discord](https://discord.gg/HWWH7hsk2p) / [GitLab](https://gitlab.com/ultimateretro/ultimateretro)
+* [⁠HP Computer Museum](https://www.hpmuseum.net/) or [The HP 9845 Project](https://www.hp9845.net/) - HP Computer History
+* [Folklore](https://www.folklore.org) / [X](https://x.com/ComputerHistory) or [TheAppleWiki](https://theapplewiki.com/) / [Discord](https://discord.com/invite/zk2HggAw89) - Apple Computer History
 * [Crypto Museum](https://www.cryptomuseum.com/) - Cryptographic Machine History
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History
 * [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History

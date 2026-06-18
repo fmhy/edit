@@ -70,7 +70,7 @@
 
 ## ▷ Package Managers
 
-* ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
+* ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Manifest Creator](https://github.com/microsoft/winget-create) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
 * ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities

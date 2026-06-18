@@ -501,6 +501,7 @@
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [ORBIS](https://orbis.stanford.edu/) - Interactive Simulation of Roman Trade & Travel Logistics
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
+* [⁠Theban Mapping Project](https://thebanmappingproject.com/) - Theban Necropolis / Valley of the Kings Mapping Project
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
 * [ORBAT Mapper](https://orbat-mapper.app/) - Recreate Historical Battle Maps / [X](https://x.com/orbatmapper) / [GitHub](https://github.com/orbat-mapper/orbat-mapper)
 * [⁠Project ’44](https://www.project44.ca/) - World War II Historical Map / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
@@ -673,7 +674,6 @@
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
-* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
 * [⁠Pause Point](https://greasyfork.org/scripts/578391) - Add Breathing / Activity Pause Before Site Entrances
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
@@ -1666,6 +1666,7 @@
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
 * [LiveCam Croatia](https://www.livecamcroatia.com/en)
+* [⁠TrafficVision](https://trafficvision.live/) - Live Traffic Cams
 * [Project ⁠Alveus Sanctuary](https://www.alveussanctuary.org/) - 24/7 Educational Wildlife Live Streams / Conservation Project
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)

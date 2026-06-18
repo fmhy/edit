@@ -138,6 +138,7 @@
 ## ▷ Server / Bot Indexes
 
 * 🌐 **[Discord Servers](https://discord.com/servers)** - Server Index
+* 🌐 **[Disdex](https://disdex.io/)** - Server Index / [Discord](https://discord.gg/C5M7ZGHDhH)
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
 * [UnFocused](https://www.unfocused.org/) - Server Index / [Discord](https://discord.com/invite/unfocused)
 * [DISBOARD](https://disboard.org/) - Server Index
@@ -146,7 +147,6 @@
 * [DiscordServers.com](https://discordservers.com/) - Server / Bot Index
 * [Disforge](https://disforge.com/servers) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
-* [Disdex](https://disdex.io/) - Server Index
 * [Top.gg](https://top.gg/) - Bot Index
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
 * [Discord Bots](https://discord.bots.gg/) - Bot Index
@@ -669,6 +669,7 @@
 # ► Fediverse Tools
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
+* 🌐 **[⁠FediDB](https://fedidb.com/)** - Fediverse Server List / Statistics
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
 * [Nostr](https://nstart.me/), [2](https://nostr.com/) - Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics

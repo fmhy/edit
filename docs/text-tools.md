@@ -49,6 +49,7 @@
 * [⁠Codepasta](https://codepasta.app/) - Multi-Syntax / Markdown Support
 * [lesma](https://lesma.eu/) - Multi-Syntax / [GitLab](https://gitlab.com/ogarcia/lesma)
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
+* [⁠Pastefy](https://pastefy.app/) - Multi-Syntax
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pastemyst](https://paste.myst.rs/) - Multi-Syntax / [GitHub](https://github.com/codemyst/pastemyst)
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
