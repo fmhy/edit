@@ -72,6 +72,7 @@
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [overmind](https://github.com/DarthSim/overmind) - Process Managers
 * [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
+* [Domainee](https://domainee.dev/) - Custom Domains & Domain Purchasing API for SaaS
 
 ***
 
