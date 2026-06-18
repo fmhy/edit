@@ -1505,7 +1505,7 @@
 * [tele-libre](https://tele-libre.fans/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [la14hd](https://la14hd.com/) - Live Sports
-* [angulismotv](https://angulismotv-dnh.pages.dev/) - Live Sports
+* [angulismotv](https://angulismotv.pages.dev/) - Live Sports
 * [librefutboltv](https://futbollibre.gg/) - Live Football
 * [Listas-IPTV](https://rentry.co/FMHYB64#iptv-playlists) - Spanish IPTV Resources
 * [Cinecalidad](https://www.cinecalidad.ec/) - Movies / TV / Animation / Latino
