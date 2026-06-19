@@ -476,7 +476,7 @@
 * [⁠Globe TV](https://globetv.app/) - TV / Sports
 * [uFreeTV](https://ufreetv.com/) - TV
 * [TV247US](https://tv247us.vip/) - TV / Sports
-* [SportOnTV](https://sportontv.biz/) - TV / Sports / [Discord](https://discord.gg/YhQPSSMps2)
+* [SportOnTV](https://sportontv.space/) - TV / Sports / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [Heartive](https://heartivetv.pages.dev/live/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [WatchTVs](https://watchtvs.live/) - TV
