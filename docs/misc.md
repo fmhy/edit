@@ -527,6 +527,7 @@
 * [⁠Community Network Map](https://communitynets.org/content/community-network-map) - Municipal Networks Map 
 * [Starlink Coverage](https://starlink.sx/) - Starlink Coverage Map / Tracker
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
+* [Fossil Fuel Map](https://www.fossilfuelmap.com/) - Fossil Fuel Map Dependency Map
 
 ***
 
