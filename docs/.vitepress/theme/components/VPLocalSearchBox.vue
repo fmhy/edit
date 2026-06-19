@@ -1488,6 +1488,30 @@ function navigateToResult(id: string, matchContext: string | null = null) {
   router.go(id)
 }
 
+/**
+ * Custom feature: Builds the actual URL for each search result.
+ * We attach the search query and the specific match context to the URL so that 
+ * if someone right-clicks or middle-clicks to open it in a new tab, the new tab 
+ * still knows exactly where to scroll and what to highlight.
+ */
+function getResultHref(id: string, index: number): string {
+  if (typeof window === 'undefined') return id
+  try {
+    const url = new URL(id, window.location.origin)
+    const query = filterText.value
+    const matchContext = getMatchContext(index)
+    if (query) {
+      url.searchParams.set('sq', query)
+    }
+    if (matchContext) {
+      url.searchParams.set('sc', matchContext)
+    }
+    return url.pathname + url.search + url.hash
+  } catch {
+    return id
+  }
+}
+
 function resetSearch() {
   filterText.value = ''
   nextTick().then(() => focusSearchInput(false))
@@ -1760,11 +1784,13 @@ function isSamePageComparison(destPath: string) {
                 class="result-item"
                 :data-index="index"
               >
-                <div
+                <a
+                  :href="getResultHref(p.id, index)"
                   class="result"
                   :class="{
                     selected: selectedIndex === index
                   }"
+                  :aria-label="[...p.titles, p.title].join(' > ')"
                   @mouseenter="!disableMouseOver && (selectedIndex = index)"
                   @focusin="selectedIndex = index"
                   @click="handleResultClick($event, p.id)"
@@ -1781,13 +1807,11 @@ function isSamePageComparison(destPath: string) {
                         <span class="vpi-chevron-right local-search-icon" />
                       </span>
                       <span class="title main">
-                        <a
-                          :href="p.id"
+                        <span
                           class="result-link"
-                          :aria-label="[...p.titles, p.title].join(' > ')"
                         >
                           <span class="text" v-html="p.title" />
-                        </a>
+                        </span>
                       </span>
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
@@ -1828,7 +1852,7 @@ function isSamePageComparison(destPath: string) {
                       </Transition>
                     </div>
                   </div>
-                </div>
+                </a>
               </li>
               <li
                 v-if="

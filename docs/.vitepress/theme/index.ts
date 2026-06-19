@@ -57,6 +57,38 @@ export default {
     loadProgress(router)
 
     if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search)
+      const sq = params.get('sq')
+      if (sq) {
+        const sc = params.get('sc')
+        
+        // If someone opens a search result in a new tab, grab the context from the URL
+        // so we know exactly what to highlight.
+        pendingScrollQuery.value = {
+          query: sq,
+          matchContext: sc,
+          path: window.location.pathname
+        }
+        
+        // Clean up the address bar so it doesn't look messy with our query params
+        const url = new URL(window.location.href)
+        url.searchParams.delete('sq')
+        url.searchParams.delete('sc')
+        window.history.replaceState(null, '', url.toString())
+        
+        // Wait for the page to finish loading before trying to scroll and highlight
+        window.addEventListener('load', () => {
+          setTimeout(() => {
+            if (pendingScrollQuery.value) {
+              const hash = window.location.hash.slice(1)
+              const { query, matchContext } = pendingScrollQuery.value
+              pendingScrollQuery.value = null
+              scheduleScrollToMatch(hash, query, 50, matchContext)
+            }
+          }, 50)
+        })
+      }
+
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
