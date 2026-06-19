@@ -55,10 +55,10 @@
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
-* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I)
+* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
 * [Tiarap](https://doh.tiar.app/) - DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)
-* [Rethink DNS](https://rethinkdns.com/configure) - DNS Adblocking
+* [Rethink DNS](https://rethinkdns.com/configure) - DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
 * [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)
 * [AdGuard DNS](https://adguard-dns.io/) - Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)
@@ -74,10 +74,10 @@
 ## ▷ DNS Filters
 
 * ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** - Multi-Source Domain Blocklist / Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* ⭐ **[OISD](https://oisd.nl/)** - Multi-Source Domain Blocklist
+* ⭐ **[OISD](https://oisd.nl/)** - Multi-Source Domain Blocklist / [GitHub](https://github.com/sjhgvr/oisd)
 * [hBlock](https://github.com/hectorm/hblock)
 * [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
-* [Spamhaus](https://www.spamhaus.org/blocklists/)
+* [Spamhaus](https://www.spamhaus.org/blocklists/) / [X](https://x.com/spamhaus)
 * [black-mirror](https://github.com/T145/black-mirror)
 * [Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
 * [neodevhost](https://github.com/neodevpro/neodevhost)
@@ -202,7 +202,6 @@
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
 * [Beginner Privacy](https://beginnerprivacy.com/) - Beginners Privacy Guide / Checklist / [Mastodon](https://mastodon.social/@BeginnerPrivacy) / [Source Code](https://codeberg.org/BeginnerPrivacy) / [GitHub](https://github.com/beginnerprivacy/beginnerprivacy.com)
-* [AvoidTheHack](https://avoidthehack.com/) - Educational Blog / [GitHub](https://github.com/avoidthehack)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/) - Product Privacy Ratings
@@ -213,9 +212,9 @@
 
 ## ▷ Network Security
 
-* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [GitLab](https://i2pgit.org/)
-* [Freenet](https://freenet.org/) - Decentralized P2P Web
+* ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [X](https://twitter.com/SafingIO) / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
+* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
+* [Freenet](https://freenet.org/) - Decentralized P2P Web / [GitHub](https://github.com/freenet/web)
 * [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
 * [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall

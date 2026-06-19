@@ -1006,7 +1006,6 @@
 
 ## ▷ Pokemon Tools
 
-* 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Pokémon Resources
 * 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - Pokémon TCG Pocket Resources
 * ↪️ **[Pokémon Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_pokemon)**
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
@@ -1118,14 +1117,14 @@
 
 * 🌐 **[GD Colon](https://gdcolon.com/)** - GD Tools Index
 * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
-* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework
+* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework / [X](https://twitter.com/GeodeSDK) / [Discord](https://discord.com/invite/9e43WMKzhp) / [GitHub](https://github.com/geode-sdk)
 * ⭐ **[⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/)** - ⁠Geometry Dash Wiki / [Subreddit](https://www.reddit.com/r/geometrydash) / [Discord](https://discord.gg/geometrydash)
-* ⭐ **[GDDP](https://gddp.pro/)** or **[GD Demon Ladder](https://gdladder.com/)** - Practice & Improve Your Skills
+* ⭐ **[GDDP](https://gddp.pro/)** / [Discord](https://discord.gg/gddp) or **[GD Demon Ladder](https://gdladder.com/)** / [Discord](https://discord.gg/gddl) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language
+* [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language / [Discord](https://discord.gg/GwVd7K2cQY) / [GitHub](https://github.com/g-js-api/G.js)
 * [GD Docs](https://wyliemaster.github.io/gddocs/) - GD Programming Documentation
-* [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels)
+* [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
 * [3Dash](https://delugedrop.itch.io/3dash) - 3D Geometry Dash Game / [Demon List](https://3dashdl.pages.dev/#/) / [Challenge List](https://3dashdemonlist.github.io/Challenge/) / [Impossible Levels](https://3dashdemonlist.github.io/ILL/)

@@ -126,6 +126,7 @@
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
+* [⁠IPSW Diffs](https://github.com/blacktop/ipsw-diffs) - iOS Update Decompiled Diffs
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
 

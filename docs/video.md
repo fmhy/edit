@@ -37,7 +37,7 @@
 * [NomorFlix](https://nomorflix.icu/), [2](https://nomorflix.com/) - Movies / TV / Anime / Auto-Next
 * [CineBolt](https://cinebolt.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/7ZbCzMPt6f)
 * [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
-* [NetPlay](https://netplayz.live/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
+* [NetPlay](https://netplayz.top/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Smashystream](https://flix.smashystream.xyz/), [2](https://smashystream.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl)
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/ScreenScapee)
 * [Chillflix](https://chillflix.to/) - Movies / TV / Anime
@@ -62,7 +62,7 @@
 ***
 
 * ⭐ **[Aether](https://aether.bar/)**, [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
-* ⭐ **[Z-Stream](https://zstream.mov/)** - Movies / TV / Anime / Auto-Next / [Mirrors](https://rentry.co/xpstream) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
+* ⭐ **[Z-Stream](https://zstream.mov/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/mtSMCeTM2z) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 * [Basement](https://basementx.xyz/), [2](https://basementx.pro/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/bWYUqEg7Xq) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 * [StreamWatch](https://streamwatch.online/), [2](https://pstream.site/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)
 * [AfterStream](https://afterstream.org/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/thingfoil/afterstream)
@@ -163,7 +163,7 @@
 * [Way2Movies](https://way2movies.live/) - Movies / TV / Anime / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * [AmberFlix](https://www.amberflix.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/Q7Nq6GHfxQ)
 * [WatchFreeStreams](https://wfs.lol/) - Movies / TV / Anime / [Telegram](https://t.me/WatchFreeStreams)
-* [Pawflix](https://pawflix.foo.ng/) - Movies / TV / Anime / [Discord](https://discord.gg/pXnv7ha5XP)
+* [Pawflix](https://pawflix.foo.ng/) - Movies / TV / Anime / [Invite](https://discord.gg/pXnv7ha5XP)
 * [KaitoVault](https://www.kaitovault.com/) - Movies / TV / Anime
 * [M-Zone](https://www.m-zone.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/PFvCNcZCQC)
 * [CinebyTV](https://cinebytv.com) - Movies / TV / Anime
@@ -175,7 +175,7 @@
 * [WatchOrbit](https://watchorbit.me/) - Movies / TV / Anime
 * [DuaFile](https://download.duafile.com/), [2](https://duafile.net/) - Movies / TV / Anime
 * [MultiShows](https://multishows.top/) - Movies / TV / Anime / [Telegram](https://t.me/multishowsfun)
-* [Warflix](https://warflix.nl/), [2](https://warflix.im/) - Movies / TV / Anime / [Mirrors](https://warflix.cv/) / [Telegram](https://t.me/+b4rS5spUL51hYjU1) / [Discord](https://discord.gg/33yA574vvd)**
+* [Warflix](https://warflix.nl/), [2](https://warflix.im/) - Movies / TV / Anime / [Mirrors](https://warflix.cv/) / [Telegram](https://t.me/+b4rS5spUL51hYjU1) / [Discord](https://discord.gg/33yA574vvd)
 * [Heartive](https://heartivetv.pages.dev/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
 * [Moviepire](https://moviepire.org/) - Movies / TV / Anime / [Telegram](https://t.me/hdoboxapk2)
@@ -882,7 +882,7 @@
 ## ▷ Stremio Tools
 
 * 🌐 **[Stremio Addons](https://stremio-addons.net/)** / [Subreddit](https://www.reddit.com/r/StremioAddons/) / [Discord](https://discord.com/invite/zNRf6YF) or [Midnight's Addons](https://addonsfortheweebs.midnightignite.me/addons) - Stremio Addons
-* ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** / [Discord](https://discord.com/invite/9Dn9mSxW6t) / [GitHub](https://github.com/Viren070/guides), **[Bye Sudo](https://bye.undi.rest/)** or [⁠Stremio Perfect Setup](https://luckynumb3rs.github.io/stremio-perfect-setup/) / [GitHub](https://github.com/luckynumb3rs/stremio-perfect-setup) - Stremio Guides
+* ⭐ **[Viren070's Guides](https://guides.viren070.me/stremio)** / [Discord](https://discord.com/invite/9Dn9mSxW6t) / [GitHub](https://github.com/Viren070/guides), **[Bye Sudo](https://bye.undi.rest/)** or [⁠Stremio Perfect Setup](https://numb3rs.stream/) / [GitHub](https://github.com/luckynumb3rs/stremio-perfect-setup) - Stremio Guides
 * [Stremio Addon Manager](https://addon-manager.viren070.me/) - Addon Manager / [GitHub](https://github.com/pancake3000/stremio-addon-manager)
 * [⁠IbbyLabs Uptime Tracker](https://uptime.ibbylabs.dev/) - Stremio Addon Status
 * [Stremio Account Bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Easy Stremio Setup

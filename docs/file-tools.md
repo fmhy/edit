@@ -369,7 +369,7 @@
 * [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
-* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Codeberg](https://codeberg.org/Fijxu/patchy)
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Source](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever

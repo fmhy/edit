@@ -444,6 +444,7 @@
 * [⁠Ask an Astronaut](https://askanastronaut.issinrealtime.org/) - Astronaut Interview Q&A Search
 * [⁠Cosmos2025](https://cosmos2025.iap.fr/fitsmap.html), [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
+* [Solar System Scope](https://www.solarsystemscope.com/) - Solar System / Star System Simulation
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [ExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - Exoplanet Database
 * [RGV Aerial Photography](https://discord.gg/wsFxEw9g4X) - Aerial Photography Community / News / [X](https://x.com/RGVaerialphotos)
@@ -513,7 +514,7 @@
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database
 * [ISS Sim to SPACEX](https://iss-sim.spacex.com/) - ISS Docking Simulator / [X](https://x.com/spacex)
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
-* [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [⁠Track The Sky](https://trackthesky.com/), [Find Starlink](https://findstarlink.com/), [⁠azmth](https://azmth.space/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
+* [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [⁠Track The Sky](https://trackthesky.com/), [Find Starlink](https://findstarlink.com/), [Space Atlas](https://www.spaceatlas.tech/) / [X](https://x.com/ApoStructura), [⁠azmth](https://azmth.space/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [See A Satellite Tonight](https://james.darpinian.com/satellites/) - Satellite Viewing Schedule / Locations
 * [Spacebook](https://www.spacebook.com/) - Evaluates / Tracks Satellite Collision Risks & Maneuvers
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator / [X](https://x.com/leolabs_space)
@@ -590,6 +591,7 @@
 # ► History
 
 * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
+* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - Map Resources
 * ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
@@ -1119,7 +1121,7 @@
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
-* [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime / Manga
+* [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan), [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime, Manga & Light Novels
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Minato](https://minato-jf.jp/) - Japanese Courses

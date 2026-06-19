@@ -1417,6 +1417,7 @@
 * [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [Universia](https://www.universia.net) - Spanish University Search
 * [SubDivX](https://www.subdivx.com/) - Subtitles
+* [Diccionario de LESCO](https://diccionario.handsonlesco.com/) - Costa Rican Sign Language Dictionary
 
 ## ▷ Downloading / Descargar
 

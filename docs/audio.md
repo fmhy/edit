@@ -53,7 +53,7 @@
 * [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
 * [Audius](https://audius.co/) - User Made Music
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
-* [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
+* [LostMyspace](http://lostmyspace.com/) or [Mydora](https://mydora.restorativland.org/) - Lost Myspace Songs
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 
 ***
@@ -350,6 +350,7 @@
 * [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
+* [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV 
 
 ***
 

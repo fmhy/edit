@@ -204,7 +204,7 @@
 * [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
 * [⁠Fashion History Timeline](https://fashionhistory.fitnyc.edu/) or [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
-* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community / [Discord](https://discord.com/invite/fashionreps)
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
@@ -1068,7 +1068,7 @@
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
-* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community / [Discord](https://discord.com/invite/fashionreps)
 * [⁠Carryology](https://www.carryology.com/) - Baggage, Luggage and Everyday Carry Reviews
 * [Best Damn EDC](https://www.youtube.com/channel/UCK5R1BsMtGd4DtI5uGQRHIg) - Everyday Carry Reviews / [Blog](https://bestdamnedc.com/)
 * [⁠PackHacker](https://www.packhacker.com/) - Everyday Carry and Travel Gear Reviews / [YouTube](https://www.youtube.com/channel/UC_rI3y1DzDULTr-UIvshiwg)

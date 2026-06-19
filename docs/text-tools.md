@@ -23,6 +23,7 @@
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [texttohandwriting](https://texttohandwriting.com/) - Text to Handwriting Converters
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing / [GitHub](https://github.com/docusealco/docuseal)
 * [TemplateLab](https://templatelab.com/) or [FreePrintables](https://www.freeprintable.net/) - Free Document Templates
+* [Asciify](https://asciify.dev/) - ASCII Character Reference Chart
 
 ***
 
@@ -168,6 +169,7 @@
 * [Unicode Explorer](https://unicode-explorer.com/) or [Compart](https://www.compart.com/en/unicode) - Unicode Character Identification
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
+* [Asciify Unicode](https://asciify.dev/unicode)
 * [Symbol.so](https://symbol.so/)
 * [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
