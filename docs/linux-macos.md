@@ -656,7 +656,6 @@
 * [MacBB](https://macbb.org/)
 * [Antibiotic's](https://t.me/AntibioticsChannel)
 * [MacKed](https://macked.app/)
-* [TorrentMac](https://www.torrentmac.net/) - Use Adblock
 * [Macintosh Garden](https://macintoshgarden.org/) - Oldschool Software
 * [MacintoshRepository](https://www.macintoshrepository.org/) - Oldschool Software
 * [⁠OldAppleStuff](https://oldapplestuff.com/) - Oldschool Software + Apple II Software
