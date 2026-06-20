@@ -8,7 +8,7 @@
 
 # ► Software Sites
 
-* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious page [disguising itself](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to try to trick you. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin).
 
 ***
 
@@ -111,7 +111,7 @@
 
 # ► Download Sites
 
-* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious page [disguising itself](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to try to trick you. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin).
 
 ***
 

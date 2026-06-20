@@ -1217,4 +1217,4 @@
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
-* [horsicq](https://horsicq.github.io/) - File Type Identification Tools / [GitHub](https://github.com/horsicq/)
+* [horsicq](https://horsicq.github.io/) or [⁠CheckFileType](https://www.checkfiletype.com/) - File Type Identification Tools / [GitHub](https://github.com/horsicq/)

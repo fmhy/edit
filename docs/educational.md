@@ -200,7 +200,7 @@
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
-* [⁠Algebrica](https://algebrica.org/) - Mathematical Concepts Database 
+* [⁠Algebrica](https://algebrica.org/) or [⁠PlanetMath](https://planetmath.org/) - Mathematical Concept Databases 
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Matthen](https://blog.matthen.com/) - Math Animations
 * [⁠Math Discord](https://discord.gg/math) - Math Help / Community Discord
@@ -212,6 +212,7 @@
 * [⁠ProofWiki](https://proofwiki.org/) - Mathematical Proofs Encyclopedia
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
+* [Linear Algebra Done Right](https://linear.axler.net/) - Linear Algebra Book / Guide
 * [Calculus Made Easy](https://calculusmadeeasy.org) - Learn Calculus
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) or [⁠Learn Mathematics](https://donkuri.github.io/learn-mathematics/) - Mathematics Book Recommendations
@@ -581,6 +582,7 @@
 
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
+* [⁠Pheonix RC](https://www.rc-thoughts.com/phoenix-sim/) - RC Plane + Helicopter Simulator
 * [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
 * [CKAN](https://github.com/KSP-CKAN/CKAN) - Kerbal Space Program Mod / Dependency Manager
 * [Luna Mulitplayer](https://lunamultiplayer.com/) - Kerbal Space Program Multiplayer Mod / [Discord](https://discord.gg/wKVMhWQ) / [GitHub](https://github.com/LunaMultiplayer/LunaMultiplayer)

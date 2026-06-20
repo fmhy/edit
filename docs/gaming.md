@@ -4,7 +4,7 @@
 ***
 ***
 
-* **Note** - Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) to skip link shorteners. Don't forget to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking). Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+* **Note** - Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious page [disguising itself](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to try to trick you. Use [redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass) to skip link shorteners. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin).
 
 ***
 
@@ -48,7 +48,7 @@
 
 ## ▷ Game Repacks
 
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
+* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits. Always check to be sure any file you download is the one you actually clicked (matching size and name), and not a malicious page [disguising itself](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to try to trick you. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin).
 
 ***
 
@@ -144,6 +144,7 @@
 * [C.A.G.E](https://discord.gg/cage) - Abandonware / Requires Discord
 * [Rohan Kar](https://rentry.co/FMHYB64#rohan-kar) - Abandonware / Applies Mods + Fixes
 * [File Hunter](https://www.file-hunter.com/) - MSX Games
+* [⁠⁠Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Old-Games](https://www.old-games.ru/) - Abandonware
 * [Japanese PC Compendium](https://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [OldGamesDownload](https://oldgamesdownload.com/) - Abandonware

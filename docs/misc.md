@@ -289,7 +289,8 @@
 * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [The Number Wall](https://thenumberwall.com/) - Jersey Number Database
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
-* [Formula Timer](https://formula-timer.com/livetiming) or [F1 Dash](https://f1-dash.com/) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
+* [Formula Timer](https://formula-timer.com/livetiming) or [Nitrous](https://nitrous.software) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
+* [⁠FotMob](https://www.fotmob.com/) - Football Stats Platform 
 * [⁠Futez](https://www.futez.com.br/) - Rate / Review Football Matches
 * [⁠PROGRID](https://www.progrid.org/) - NFL Schedule Chart 
 * [Calendario Ciclismo](https://calendariociclismo.app/en/) - Cycling TV Schedule / Calendar
@@ -363,7 +364,7 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [⁠d-maps](https://www.d-maps.com/) - Free Blank Maps / Outlines / Printable
 * [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
-* [⁠WikiMapped](https://wikimapped.mukul-mehta.in/) or [⁠Wikimap](https://wikimap.wiki/) / [GitLab](https://gitlab.com/nocylah/wikimap/) - Wikipedia Articles Geolocated on Map
+* [⁠WikiMapped](https://wikimapped.mukul-mehta.in/), [Wiki-Map](https://wiki-map.com/) or [⁠Wikimap](https://wikimap.wiki/) / [GitLab](https://gitlab.com/nocylah/wikimap/) - Wikipedia Articles Geolocated on Map
 * [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
@@ -747,7 +748,7 @@
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
-* [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/), [Waistline](https://github.com/davidhealey/waistline) or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
+* [Waistline](https://github.com/davidhealey/waistline), [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/)  or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research / Vegan-Focused
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
