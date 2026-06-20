@@ -84,7 +84,7 @@
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[Moonflix](https://moonflix.site/)** - Movies / TV / Anime / [Telegram](https://t.me/Moonflix_official_Channel)
 * ⭐ **[WatchFlix](https://watchflix.to/)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[MovieBox](https://themoviebox.org/), [2](https://movieboxonline.net), [3](https://123movie.app), [4](https://netnaija.film)** - Movies / TV / Anime
+* ⭐ **[MovieBox](https://movieboxonline.net ), [2](https://themoviebox.org/), [3](https://123movie.app), [4](https://netnaija.film)** - Movies / TV / Anime / [Mirrors](https://moviebox.co/)
 * ⭐ **[CineStream](https://cinestream.kje.us/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/2cG7pyvq38)
 * [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
 * [Stremax](https://stremax.pages.dev/) - Movies / TV / Anime

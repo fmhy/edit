@@ -728,7 +728,7 @@
 * 🌐 **[Not Essential](https://alternatives.microcontrollers.dev/)** - List of Alternatives to Essential / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
-* [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM) or [MCPEDL](https://mcpedl.com/) or [⁠BedrockExplorer](https://www.bedrockexplorer.com/add-ons) - Bedrock Mods / Content
+* [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM) or [MCPEDL](https://mcpedl.com/) or [⁠BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
 * [MC Archive](https://mcarchive.net/) - Old Mods / [Discord](https://discord.com/invite/WuexGpP)
 * [FiberMC](https://www.fibermc.com/) - Fabric Mods Index / [Discord](https://discord.com/invite/dwh9y7D)
 * [⁠FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) - Feed The Best Wiki / [Discord](https://discord.gg/QsbEK52)
