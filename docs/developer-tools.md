@@ -1083,7 +1083,7 @@
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
-* [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB
+* [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB / [Discord](https://discord.com/invite/appwrite)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain
 * [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB / 100GB / No Custom Domain
 * [Reocities](https://www.reocities.xyz/) - 1GB / Unlimited / No Custom Domain

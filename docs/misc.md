@@ -208,7 +208,7 @@
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
-* [cholyknight](https://cholyknight.com/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) - Free Clothing Sewing Patterns
+* [cholyknight](https://cholyknight.com/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) / [Discord](https://discord.gg/freesewing-698854858052075530) - Free Clothing Sewing Patterns
 * [PinDIY](https://www.pindiy.com/) - Free Crochet / Knitting Patterns and Magazines
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 

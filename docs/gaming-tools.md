@@ -386,7 +386,7 @@
 
 # ► Multiplayer Tools
 
-* ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/)
+* ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/) / [Discord](https://discord.com/invite/distro-nucleusco-op-142649962839277568)
 * [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/FMHYB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
 * [⁠GameDate](https://www.gamedate.org/) / [Subreddit](https://www.reddit.com/r/GameDate/) or [Broop](https://broop.id/) - Game Session Scheduling / Group Finders
 * [⁠bo3.gg](https://bo3.gg/) - Track ESport Matches, Scores and Streams

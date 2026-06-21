@@ -427,7 +427,7 @@
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/), [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
+* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) / [Discord](https://discord.gg/translucenttb), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
 * [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension 
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization

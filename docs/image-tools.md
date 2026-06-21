@@ -765,7 +765,7 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Resources](https://awesome.immich.app/) / [Extension](https://github.com/bjoernch/immich-companion) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Resources](https://awesome.immich.app/) / [Extension](https://github.com/bjoernch/immich-companion) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [Lap](https://julyx10.github.io/lap/) / [GitHub](https://github.com/julyx10/lap)
 * [HomeGallery](https://home-gallery.org/)
@@ -817,7 +817,6 @@
 * [i](https://tikolu.net/i/) - 8MB / Forever
 * [IMGPile](https://imgpile.com/) - 100MB / Forever
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
-* [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB w/ Account) / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
