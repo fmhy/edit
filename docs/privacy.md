@@ -320,7 +320,7 @@
 * [Cwtch](https://docs.cwtch.im) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
 * [Delta Chat](https://delta.chat/) - Decentralized Email-Based Messenger / Windows, Mac, Linux, Android
 * [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
-* [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / iOS
+* [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / Android, iOS
 * [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
@@ -375,7 +375,7 @@
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs / [.onion](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/)
 * ⭐ **[4get](https://4get.canine.tools/)**, [2](https://4get.ca/) - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
-* [LibreY](https://ly.owo.si/) - Metasearch / [Instances](https://search.davidovski.xyz/instances.php) / [GitHub](https://github.com/Ahwxorg/librey/)
+* [LibreY](https://search.davidovski.xyz/instances.php) - Metasearch / [GitHub](https://github.com/Ahwxorg/librey/)
 * [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)

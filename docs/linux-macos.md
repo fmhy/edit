@@ -72,6 +72,7 @@
 * [LinuxTracker](https://linuxtracker.org/) - BitTorrent Distro Repo
 * [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm) - Detailed Distro Comparison Charts
 * [ArchiveOS](https://archiveos.org/) - Inactive / Open-Source OS Projects
+* [DistroSea](https://distrosea.com/) - Test Distros / Cloud Virtual Machine / Allows Browsers
 
 ***
 
@@ -181,7 +182,6 @@
 * [coreboot](https://coreboot.org/), [Heads](https://osresearch.net/) / [GitHub](https://github.com/linuxboot/heads), [⁠Canoeboot](https://canoeboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
 * [GParted](https://gparted.org/) - Partition Manager
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
-* [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa) / [GitHub](https://github.com/leaningtech/webvm)
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - macOS Virtual Machines

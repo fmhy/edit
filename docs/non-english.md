@@ -48,7 +48,6 @@
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
-* [Bein4kora](https://bein4kora.com/) - Live Football
 * [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
 * [PlayTorrio](https://playtorrio.xyz/) - Streaming Desktop App / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)

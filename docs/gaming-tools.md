@@ -203,7 +203,7 @@
 
 ***
 
-* 🌐 **[⁠MouseCTRL](https://mousectrl.com/)** or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
+* 🌐 **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
 * 🌐 **[Gamepadla](https://gamepadla.com/)** - Gamepad / Controller Latency Tests
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
 * ⭐ **[GamingSmart](https://gamingsmart.com/)**, [Sens Converter](https://kovaaks.com/kovaaks/sens-converter) or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
@@ -715,7 +715,7 @@
 * [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Launcher / UWP Only / Windows / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
 * [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Fork / Windows, Mac, Linux
 * [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / Windows, Mac, Linux / [GitHub](https://github.com/Moulberry/PandoraLauncher)
-* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / Mac / Linux
+* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / Mac / Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) or [Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
 * [⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launcher / Android
 
@@ -914,6 +914,7 @@
 * 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
 * ↪️ **[D&D Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dungeons_.26amp.3B_dragons)** - Dungeons & Dragons Guides / Tools
 * ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/), [Let's Roll](https://www.linepup.com/dice/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
+* [OCTGN](https://www.octgn.net/) / [Discord](https://discord.gg/Yn3Jrpj) / [GitHub](https://github.com/octgn/OCTGN) or [⁠Pixelborn](https://pixelborn.app/) / [Discord](https://discord.gg/pixelborn) - Virtual Multiplayer Card Game / Tabletop Apps
 * [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
 * [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
 * [Tabletopy](https://tabletopy.com/) or [Tabletop Audio](https://tabletopaudio.com/) - Immersive SFX / Music for TTRPGs

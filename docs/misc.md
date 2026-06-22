@@ -210,6 +210,10 @@
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [cholyknight](https://cholyknight.com/) or [FreeSewing](https://freesewing.eu/) / [Forum](https://forum.freesewing.eu/) / [Discord](https://discord.gg/freesewing-698854858052075530) - Free Clothing Sewing Patterns
 * [PinDIY](https://www.pindiy.com/) - Free Crochet / Knitting Patterns and Magazines
+* [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library
+* [⁠RSN Stitch Bank](https://rsnstitchbank.org/) - Embroidery Stiches / Lessons
+* [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
+* [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 
 ***
@@ -290,11 +294,11 @@
 * [⁠Sports Reference](https://www.sports-reference.com/) - Sports Stats
 * [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [The Number Wall](https://thenumberwall.com/) - Jersey Number Database
+* [⁠PROGRID](https://www.progrid.org/) - NFL Schedule Chart
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
-* [Formula Timer](https://formula-timer.com/livetiming) or [Nitrous](https://nitrous.software) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
 * [⁠FotMob](https://www.fotmob.com/) - Football Stats Platform
 * [⁠Futez](https://www.futez.com.br/) - Rate / Review Football Matches
-* [⁠PROGRID](https://www.progrid.org/) - NFL Schedule Chart 
+* [Formula Timer](https://formula-timer.com/livetiming) or [Nitrous](https://nitrous.software) / [GitHub](https://github.com/slowlydev/f1-dash) - F1 Live Stats Dashboards
 * [Calendario Ciclismo](https://calendariociclismo.app/en/) - Cycling TV Schedule / Calendar
 
 ***
@@ -373,6 +377,7 @@
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
+* [Linguistic Maps](https://muturzikin.com/countries.htm) - World Linguistic Maps
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics Map
@@ -451,7 +456,7 @@
 ## ▷ Geography Maps
 
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
-* [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) - World Terrain Height Map 
+* [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) or [Oilslick](https://mrgris.com/projects/oilslick/) - World Terrain Height / Elevation Maps
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [OCEARCH](https://www.ocearch.org/tracker/) - Shark Tracker
 * [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) or [MyShipTracking](https://www.myshiptracking.com/) - Live Ship Trackers
@@ -480,7 +485,7 @@
 * [topographic-map](https://en-gb.topographic-map.com/) - Topographic Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [USGS](https://earthquake.usgs.gov/earthquakes/map/) or [Seismic Explorer](https://seismic-explorer.concord.org/) - Earthquake Activity Maps
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 
 ***
@@ -1109,7 +1114,7 @@
 * ⭐ **[GSMArena](https://www.gsmarena.com/)** / [Guide](https://www.gsmarena.com/reviews.php3?sTag=Buyers+guide), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [⁠Antutu](https://www.antutu.com/en/ranking/rank1.htm) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
-* ⭐ **[⁠MouseCTRL](https://mousectrl.com/)** or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
+* ⭐ **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
 * [SuggestALaptop Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) - Laptop Suggestions / [Subreddit](https://www.reddit.com/r/SuggestALaptop/) / [Discord](https://discord.gg/pes68JM)
 * [Dumbphone Finder](https://joyful-bienenstitch-cb6242.netlify.app/) - Compare Dumbphones (Non-Smartphones) / Prices / [Quiz](https://joyful-bienenstitch-cb6242.netlify.app/quiz)
 * [Prepaid Compare](https://prepaidcompare.net/) - Compare Prepaid Phones / Prices 

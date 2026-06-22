@@ -400,6 +400,7 @@
 * [Dr. Link Check](https://www.drlinkcheck.com/)
 * [HTTPStatus](https://httpstatus.io/)
 * [UpDownToday](https://updowntoday.com/)
+* [⁠isUpMap](https://isupmap.com/) - Down Site Checker Map
 
 ***
 

@@ -188,6 +188,7 @@
 
 ## Internet Archive Tools
 
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
 - [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
 - [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
 - [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool

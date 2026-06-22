@@ -4,11 +4,11 @@
 ***
 ***
 
+# ► Download Games
+
 * **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
 ***
-
-# ► Download Games
 
 * 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
@@ -48,7 +48,7 @@
 
 ## ▷ Game Repacks
 
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
 
 ***
 
@@ -648,7 +648,6 @@
 * ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
 * ⭐ **[Codenames](https://codenames.game/)** - Party Card Game
 * [⁠Cardlike](https://cardlike.io/), [2](https://channa.itch.io/cardlike) - Balatro-Style Game 
-* [OCTGN](https://www.octgn.net/) - Virtual Multiplayer Card Games / Tabletop App / [Discord](https://discord.gg/Yn3Jrpj) / [GitHub](https://github.com/octgn/OCTGN)
 * [CardGames.io](https://cardgames.io/) - Multiplayer Card Games
 * [247Games](https://www.247games.com/) - Multiplayer Card Games
 * [CardzMania](https://www.cardzmania.com/) - Multiplayer Card Games
@@ -697,6 +696,7 @@
 * [PlayAnyPage](https://playanypage.com/) or [KickassApp](https://kickassapp.com/) - Turn Webpages into Games
 * [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
 * [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
+* [Rayman Legends Beatbox](https://rentry.co/FMHYB64#rmb) - Browser Rayman Legends Beatbox
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
 * [⁠Hotfix](https://www.hotfix.fun/) - WarioWare-Style 'Hot-Fix' Micro-Game

@@ -328,6 +328,7 @@
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 * [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
+* [⁠Deskflow](https://github.com/deskflow/deskflow) - Mouse  + Keyboard Sharing
 * [Is this good?](https://wiki.keyboard.gay/) - Custom Keyboard Guides
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides

@@ -12,7 +12,6 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
-* [Moosync](https://moosync.app/) - YouTube / Spotify / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client w/ Adblock
 * [Audion](https://audionplayer.com/) - Streaming / Plugin-Based / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Streaming / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
@@ -970,7 +969,7 @@
 
 ## ▷ Browser Editors / Synths
 
-* ⭐ **[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/, [⁠AudioTool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
+* ⭐ **[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/), [⁠AudioTool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
 * ⭐ **[Drumhaus](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [DrumBit](https://drumbit.app/), [Roland50.studio](https://roland50.studio/), [Acid Machine 2](https://errozero.co.uk/acid-machine/), [orDrumbox](https://www.ordrumbox.com/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [AbyssBox](https://choptop84.github.io/abyssbox-app/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox), [BeepBox](https://www.beepbox.co/) or [GoldBox](https://aurysystem.github.io/goldbox/) - Online Sequencer / BeepBox Forks
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Tracker / Sequencer

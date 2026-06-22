@@ -32,7 +32,7 @@
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
-* [Redump](http://redump.org/) - Disc Preservation Info Project
+* [Redump](https://redump.info/) - Disc Preservation Info Project
 
 ***
 

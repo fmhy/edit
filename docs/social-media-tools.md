@@ -125,10 +125,12 @@
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
+* [⁠appeal.gg](https://dashboard.appeal.gg/) - Server Ban Appeal Management Dashboard 
 * [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
 * [⁠Wispbyte](https://wispbyte.com/) - Free Discord Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth 
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot) or [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot

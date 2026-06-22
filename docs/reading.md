@@ -10,6 +10,7 @@
 * ⭐ **[Anna's Archive](https://annas-archive.gl/)**, [2](https://annas-archive.pk), [3](https://annas-archive.gd) - Books / Comics / [Mirrors](https://en.wikipedia.org/wiki/Anna's_Archive) / [Deploy Locally](https://software.annas-archive.gl/AnnaArchivist/annas-archive) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://z-library.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/), [5](https://articles.sk/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.xyz/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+* ⭐ **[Bookracy](https://bookracy.com/)** - Books
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
@@ -27,7 +28,7 @@
 * [⁠ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
-* [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending 
+* [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -67,7 +68,6 @@
 * [GrimmStories](https://www.grimmstories.com/) or [AndersenStories](https://www.andersenstories.com/) - Fairy Tales
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
 * [Hoopla](https://www.hoopladigital.com/) - Requires Library Card
-* [WorldCat](https://www.worldcat.org/), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 * [Public Domain Review](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
 * [⁠Distributed Proofreaders](https://www.pgdp.net/) - Help Digitize Public Domain Books to Ebooks
 
@@ -108,7 +108,7 @@
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
-* [⁠Grimmory](https://grimmory.org/) - Ebook Manager / Reader / Self-Hosted
+* [⁠BookOrbit](https://bookorbit.app/) or [⁠Grimmory](https://grimmory.org/) - Ebook Managers / Readers / Self-Hosted
 * [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows, Mac, Linux, Android / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
@@ -891,13 +891,13 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
-* [⁠EntertainMe](https://www.entertainme.fun/) - Book Tracking / Recommendations
+* [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
-* [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
-* [Oku](https://oku.club/) - Book Tracking
-* [BookWyrm](https://joinbookwyrm.com/) - Book Tracking / [Official Instance](https://bookwyrm.social/)
+* [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
+* [Oku](https://oku.club/) - Tracking
+* [BookWyrm](https://joinbookwyrm.com/) - Tracking / [Official Instance](https://bookwyrm.social/)
 * [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
-* [Literal](https://literal.club/) - Social Book Tracking Platform
+* [Literal](https://literal.club/) - Social Tracking Platform
 * [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
@@ -967,14 +967,14 @@
 * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter / App
 * ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer), [dotepub](https://dotepub.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
+* [WorldCat](https://www.worldcat.org/), [Libby](https://libbyapp.com/) / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
+* [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
 * [Ebook-Online-Convert](https://ebook.online-convert.com/) - Multi-Format Converter / Online
 * [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Online / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
-* [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip)
-* [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager

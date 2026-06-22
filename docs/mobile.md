@@ -89,7 +89,8 @@
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKToy](https://www.apktoy.com/)
 * [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
-* [Material-You-app-list](https://github.com/nyas1/Material-You-app-list) / [Telegram](https://t.me/materialyouapps)
+* [Material-You-app-list](https://myal.vercel.app/) / [Telegram](https://t.me/materialyouapps) / [GitHub](https://github.com/nyas1/Material-You-app-list)
+* [⁠gplaydl](https://github.com/rehmatworks/gplaydl) - Google Playstore APK Download CLI
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 
@@ -140,12 +141,12 @@
 
 ## ▷ Morphe / ReVanced Tools
 
-* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)**, [2](https://redd.it/1ta0bek) - Morphe Patch Index
+* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek) or [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) - Morphe Patch Indexes
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
+* 🌐 **[ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root)** - Morphe, RV & RVX Patch Index / [Telegram](https://t.me/fiorenmas)
 * ⭐ **[Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Pre-Built Updatable APKs
 * ⭐ **[Morphe](https://morphe.software/)** - Android App Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
-* [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Pre-Built Morphe, RV & RVX APKs / [Telegram](https://t.me/fiorenmas)
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
 * [Enhancify](https://github.com/Graywizard888/Enhancify) - TUI Wrapper
@@ -1245,7 +1246,7 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[iOS 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** or [Firefox Focus](https://www.firefox.com/en-US/mobile/focus/) - Privacy-Focused Browsers
-* ⭐ **[Onion Browser](https://onionbrowser.com/)** - Onion Browser
+* ⭐ **[Onion Browser](https://onionbrowser.com/)** - Tor-Based Browser
 * [DNSecure](https://github.com/kkebo/DNSecure) - Encrypted DNS
 * [Proton Mail](https://apps.apple.com/app/id979659905) - Encrypted Emailing Service / [Discord](https://discord.com/invite/proton)
 * [Orbot](https://apps.apple.com/us/app/orbot/id1609461599) - Tor Proxy Apps
@@ -1331,11 +1332,11 @@
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669), [⁠Eclipse](https://eclipsemusic.app/) / [Discord](https://discord.gg/sNG37F27eY) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠8SPINE](https://testflight.apple.com/join/WpRgRCDm) - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/)
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
+* [Demus](https://demus.app/) - Streaming
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / Ad-Free / [Discord](https://discord.gg/64fVZ2QdZ9)
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
-* [Demus](https://demus.app/) - Streaming
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming
 * [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
 * [Music Speed Changer](https://apps.apple.com/us/app/music-speed-changer/id1595494271) - Audio Multi-Tool / Equalizer

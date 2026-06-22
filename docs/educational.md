@@ -213,7 +213,7 @@
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
 * [Linear Algebra Done Right](https://linear.axler.net/) - Linear Algebra Book / Guide
-* [Calculus Made Easy](https://calculusmadeeasy.org) - Learn Calculus
+* [Calculus Made Easy](https://calculusmadeeasy.org) or [⁠Stitz Zeager](https://www.stitz-zeager.com/) - Learn / Practice Calculus
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) or [⁠Learn Mathematics](https://donkuri.github.io/learn-mathematics/) - Mathematics Book Recommendations
 * [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [Rink](https://rinkcalc.app/), [Frink](https://frinklang.org/fsp/frink.fsp), [OneConverter](https://oneconverter.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
@@ -701,7 +701,7 @@
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
-* [The True Size](https://thetruesize.com/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
+* [The True Size](https://thetruesize.com/), [MapFight](https://www.mapfight.xyz/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
@@ -795,10 +795,6 @@
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
-* [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library
-* [⁠RSN Stitch Bank](https://rsnstitchbank.org/) - Embroidery Stiches / Lessons
-* [Ravelry](https://ravelry.com) - Fiber Artist Tools
-* [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [ARRL](https://www.arrl.org/) - Amateur Radio Resources / Learning / [Exam Search](https://www.arrl.org/find-an-amateur-radio-license-exam-session) / [Question Pools](https://www.arrl.org/question-pools)
@@ -1038,6 +1034,7 @@
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
 * ⭐ **[Omniglot](https://omniglot.com/)** - Writing System & Language Encyclopedia
 * [⁠Lute](https://luteorg.github.io/lute-manual) - Learn a Language via Reading / [GitHub](https://github.com/LuteOrg/lute-v3)
+* [⁠Chimahon](https://github.com/sohilsayed/chimahon) - Learn Languages via Manga / Android
 * [⁠Lingotype](https://www.lingotype.app/) - Learn Languages via Typing 
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
@@ -1839,7 +1836,8 @@
 
 * 🌐 **[Wiki Portals](https://rentry.co/wikiportals)** - Wiki Portals Navigation
 * [HatNote](https://top.hatnote.com/) - Top Pages
-* [Reversepedia](https://reversepedia.org/) - Page Connections
+* [Reversepedia](https://reversepedia.org/) - Page Connections Search
+* [⁠Wikigraph](https://tobypenner.com/wikigraph/) - Page Connections Visualizer
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](https://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [⁠WikiBoard](https://www.wikiboard.org/) - Pin Board Style Browser
