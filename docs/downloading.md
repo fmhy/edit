@@ -8,7 +8,7 @@
 
 # ► Software Sites
 
-* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
 ***
 
@@ -17,10 +17,12 @@
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
+* [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Moum](https://moum.top/en/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels
@@ -109,7 +111,7 @@
 
 # ► Download Sites
 
-* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
+* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
 ***
 
@@ -196,6 +198,7 @@
 * [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
+* [⁠aninzb](https://aninzb.moe/) - Anime NZB Indexer
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [altHUB](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
@@ -228,7 +231,7 @@
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* [⁠Cocoleech](https://cocoleech.com/premium-link-generator), [⁠Downloader Zone](https://debrid.downloader.zone/) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
 * [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.org/), [2](https://pixeldrain-bypass.gamedrive.to/) - Bypass PixelDrain Link Speed Limits
 * [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium

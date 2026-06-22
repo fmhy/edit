@@ -197,6 +197,18 @@ html {
   }
 }
 
+html.june {
+  --vp-home-hero-name-background: linear-gradient(
+    120deg,
+    #ff6763,
+    #feb044,
+    #fcfd96,
+    #9ee09e,
+    #9ec1ce,
+    #cc99c8
+  ) !important;
+}
+
 .base64 {
   min-width: 100%;
   width: 0px;

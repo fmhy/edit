@@ -1042,7 +1042,18 @@ async function processExcerpts(
             let html = ''
             let next: Element | null = heading.nextElementSibling
             while (next && !/^h[1-6]$/i.test(next.tagName)) {
-              html += next.outerHTML
+              // Skip note/infobox custom blocks (:::tip/:::info/:::warning/
+              // :::danger) so the excerpt highlights the real curated link
+              // instead of a note that merely mentions the query. Mirrors the
+              // index-time strip in constants.ts so preview and ranking agree.
+              const cls = next.classList
+              const isNoteBlock =
+                cls.contains('custom-block') &&
+                (cls.contains('tip') ||
+                  cls.contains('info') ||
+                  cls.contains('warning') ||
+                  cls.contains('danger'))
+              if (!isNoteBlock) html += next.outerHTML
               next = next.nextElementSibling
             }
             map!.set(anchor, html)
@@ -2401,13 +2412,21 @@ function isSamePageComparison(destPath: string) {
 }
 
 /* Highlight styles - default state */
-.titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
   margin: 0 -2px;
+  transition: background-color 0.2s;
+}
+
+.titles :deep(mark) {
+  background-color: var(--vp-local-search-highlight-bg);
+  color: var(--vp-local-search-highlight-text);
+  border-radius: 2px;
+  padding: 0;
+  margin: 0;
   transition: background-color 0.2s;
 }
 

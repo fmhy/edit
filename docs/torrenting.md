@@ -139,7 +139,7 @@
 
 # ► Private Trackers
 
-* 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
+* 🌐 **[Private Trackers General](https://clarasguide.valeena.workers.dev/Guides/private-trackers/)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * [OpenSignup](https://opensignup.xyz/) / [Telegram](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
@@ -155,9 +155,9 @@
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
-* ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
+* ⭐ **[Milkie](https://milkie.cc)** / [Invite Required](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
-* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
+* ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m), [FossTorrents T2M](https://fosstorrents.com/t2m/) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [Port Forwarding Guide](https://wispydocs.pages.dev/torrenting/#port-forwarding)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
