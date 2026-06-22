@@ -65,17 +65,26 @@ export default defineCachedEventHandler(
       )
       .map((result) => result.value)
 
-    for (const result of results) {
-      if (result.status === 'rejected') {
-        console.error('single-page: failed to fetch a doc:', result.reason)
-      }
+    const failed = results.filter((result) => result.status === 'rejected')
+    for (const result of failed) {
+      console.error('single-page: failed to fetch a doc:', result.reason)
+    }
+
+    // Never cache a partial page: this endpoint concatenates the whole wiki, so
+    // a missing section is silent corruption. Throwing keeps the failure out of
+    // the cache (Nitro doesn't cache errors) so the next request can self-heal.
+    if (failed.length > 0) {
+      throw createError({
+        statusCode: 502,
+        statusMessage: 'Failed to fetch one or more docs'
+      })
     }
 
     body += contents.join('\n\n')
 
     appendResponseHeaders(event, {
       'content-type': 'text/markdown;charset=utf-8',
-      'cache-control': 'public, max-age=300, stale-while-revalidate=3600'
+      'cache-control': 'public, max-age=7200'
     })
     return body
   },

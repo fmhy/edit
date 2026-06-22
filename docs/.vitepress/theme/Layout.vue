@@ -1,6 +1,7 @@
 <script setup lang="ts">
+import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { onMounted, onUnmounted, ref } from 'vue'
+import { onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
@@ -36,15 +37,21 @@ const handleClick = (e: MouseEvent) => {
   }
 }
 
-const updateMobileActiveLink = () => {
+// Anchors are stable for the lifetime of a page; invalidate on route change.
+let cachedAnchors: HTMLElement[] | null = null
+let scheduledUpdate = false
+
+const runUpdateMobileActiveLink = () => {
   if (window.innerWidth >= 1280) return
 
-  const anchors = Array.from(
-    document.querySelectorAll('.VPDoc h2, .VPDoc h3, .VPDoc h4')
-  )
-  let activeId = ''
+  if (!cachedAnchors) {
+    cachedAnchors = Array.from(
+      document.querySelectorAll<HTMLElement>('.VPDoc h2, .VPDoc h3, .VPDoc h4')
+    )
+  }
 
-  for (const anchor of anchors) {
+  let activeId = ''
+  for (const anchor of cachedAnchors) {
     if (anchor.getBoundingClientRect().top < 120) {
       activeId = anchor.id
     } else {
@@ -61,32 +68,41 @@ const updateMobileActiveLink = () => {
   })
 }
 
-let tocObserver: MutationObserver | null = null
+// rAF-throttle so rapid scroll events collapse into one update per frame
+// and DOM reads happen in the same phase as paint (no layout thrash).
+const scheduleMobileLinkUpdate = () => {
+  if (scheduledUpdate) return
+  scheduledUpdate = true
+  requestAnimationFrame(() => {
+    scheduledUpdate = false
+    runUpdateMobileActiveLink()
+  })
+}
+
+// Clicking the local-nav button opens the TOC dropdown; rAF defers the
+// update until Vue has mounted the new items.
+const handleAnyClick = () => requestAnimationFrame(scheduleMobileLinkUpdate)
+
+const route = useRoute()
+watch(
+  () => route.path,
+  () => {
+    cachedAnchors = null
+    scheduleMobileLinkUpdate()
+  }
+)
 
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
-  window.addEventListener('scroll', updateMobileActiveLink, { passive: true })
-  // Run once on mount to set initial state
-  updateMobileActiveLink()
-
-  // Refresh highlight as soon as the TOC menu is opened/added to DOM
-  tocObserver = new MutationObserver((mutations) => {
-    for (const mutation of mutations) {
-      if (mutation.addedNodes.length) {
-        const hasTOC = document.querySelector(
-          '.VPLocalNavOutlineDropdown .items'
-        )
-        if (hasTOC) updateMobileActiveLink()
-      }
-    }
-  })
-  tocObserver.observe(document.body, { childList: true, subtree: true })
+  window.addEventListener('scroll', scheduleMobileLinkUpdate, { passive: true })
+  window.addEventListener('click', handleAnyClick, { passive: true })
+  scheduleMobileLinkUpdate()
 })
 
 onUnmounted(() => {
   window.removeEventListener('click', handleClick, { capture: true })
-  window.removeEventListener('scroll', updateMobileActiveLink)
-  if (tocObserver) tocObserver.disconnect()
+  window.removeEventListener('scroll', scheduleMobileLinkUpdate)
+  window.removeEventListener('click', handleAnyClick)
 })
 </script>
 

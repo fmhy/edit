@@ -86,7 +86,12 @@ export class ThemeHandler {
     this.prefersDarkMql.addEventListener('change', this.handleSystemThemeChange)
   }
 
-  /** Remove the system theme-change listener. */
+  /**
+   * Remove the system theme-change listener.
+   * NOTE: currently dead code — the handler is a process-lifetime singleton
+   * (see `useThemeHandler`) and is never torn down. Kept for completeness / in
+   * case the handler is ever scoped to a shorter lifecycle.
+   */
   public destroy() {
     this.prefersDarkMql?.removeEventListener(
       'change',
