@@ -628,3 +628,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [FontGenOnline](https://fontgenonline.com/)
