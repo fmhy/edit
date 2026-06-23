@@ -17,7 +17,7 @@
 import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
-import { excluded } from './shared'
+import { excluded, stripSchemeAndWww } from './shared'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
@@ -47,9 +47,6 @@ const URL_SHORTENER_HOSTS = new Set([
   'rebrand.ly',
   'shorte.st'
 ])
-
-const stripUrlSchemeAndWww = (value: string) =>
-  value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
 
 // l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
 // u = link hrefs for URL search.
@@ -110,7 +107,7 @@ function extractLinkMetadata(html: string) {
     // matches without re-normalizing every URL on each keystroke. Drop the
     // query/hash (opaque ?id=, #wiki_…) and cap the length to keep the index
     // small at tens-of-thousands-of-URLs scale.
-    const hostPath = stripUrlSchemeAndWww(normalized).split(/[?#]/)[0]
+    const hostPath = stripSchemeAndWww(normalized).split(/[?#]/)[0]
     const host = hostPath.split('/')[0]
     if (!host || URL_SHORTENER_HOSTS.has(host)) return ''
     return hostPath.length > 80 ? hostPath.slice(0, 80) : hostPath

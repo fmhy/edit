@@ -64,7 +64,7 @@ import {
   watch,
   watchEffect
 } from 'vue'
-import { sidebar } from '../../shared'
+import { sidebar, stripSchemeAndWww } from '../../shared'
 import Tooltip from './Tooltip.vue'
 
 defineEmits<{
@@ -285,12 +285,6 @@ const URL_SHARED_DOMAINS = new Set([
 const MAX_URL_MATCHES_PER_DOMAIN = 8
 const MAX_URL_MATCHES_TOTAL = 60
 
-// Strip the scheme and a leading "www." so "https://www.pi-hole.net/x" and
-// "pi-hole.net/x" compare the same way.
-function stripSchemeAndWww(value: string) {
-  return value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
-}
-
 // Punctuation-insensitive form so "pihole" matches "pi-hole".
 function compactUrlValue(value: string) {
   return value.replace(/[^a-z0-9]/g, '')
@@ -409,19 +403,34 @@ const urlIndex = computed<UrlRecord[]>(() => {
   return records
 })
 
-// Match a pre-parsed record against the query. Mirrors urlMatchesNormalizedUrl
-// exactly, but reads the precomputed host parts instead of re-deriving them.
-function recordMatches(rec: UrlRecord, urlQuery: UrlQuery) {
+// How strongly a haystack matches a needle: 3 = exact, 2 = prefix, 1 = substring,
+// 0 = no match. Lets findUrlMatches keep the most relevant matches when a cap
+// forces a cut, instead of dropping by arbitrary index order.
+function matchStrength(haystack: string, needle: string) {
+  if (haystack === needle) return 3
+  if (haystack.startsWith(needle)) return 2
+  if (haystack.includes(needle)) return 1
+  return 0
+}
+
+// Rank a pre-parsed record against the query (0 = no match). Mirrors
+// urlMatchesNormalizedUrl's matching, but reads the precomputed host parts
+// instead of re-deriving them, and returns a strength instead of a boolean.
+function recordMatchRank(rec: UrlRecord, urlQuery: UrlQuery) {
   if (urlQuery.mode === 'path') {
-    return rec.hostPath.includes(urlQuery.needle)
+    return matchStrength(rec.hostPath, urlQuery.needle)
   }
-  if (rec.isShared) return false
+  if (rec.isShared) return 0
   const haystacks = urlQuery.matchFullHost
     ? [rec.host, rec.compactHost]
     : [rec.label, rec.compactLabel]
-  return urlQuery.needles.some((needle) =>
-    haystacks.some((haystack) => haystack.includes(needle))
-  )
+  let best = 0
+  for (const needle of urlQuery.needles) {
+    for (const haystack of haystacks) {
+      best = Math.max(best, matchStrength(haystack, needle))
+    }
+  }
+  return best
 }
 
 const searchIndex = computedAsync(async () => {
@@ -630,17 +639,33 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
   const urlQuery = buildUrlQuery(query)
   if (!urlQuery) return matches
 
+  // Gather one candidate per entry first, keeping the best-ranked matching URL
+  // for that entry. One entry can own several URLs; mirror the old `meta.u.find`
+  // by counting each entry at most once.
+  const candidates = new Map<string, UrlRecord & { rank: number }>()
+  for (const rec of urlIndex.value) {
+    const rank = recordMatchRank(rec, urlQuery)
+    if (rank === 0) continue
+    const existing = candidates.get(rec.id)
+    if (!existing || rank > existing.rank) {
+      candidates.set(rec.id, { ...rec, rank })
+    }
+  }
+
+  // Sort by relevance before applying the ceilings, so when a cap forces a cut
+  // we drop the *least* relevant matches: curated/starred entries first, then
+  // by match strength (exact > prefix > substring). Within-cap order doesn't
+  // matter — the merged result set is re-sorted globally by tier/score later.
+  const ranked = [...candidates.values()].sort((a, b) => {
+    const aStarred = customMetadata.value[a.id]?.s?.length ? 1 : 0
+    const bStarred = customMetadata.value[b.id]?.s?.length ? 1 : 0
+    return bStarred - aStarred || b.rank - a.rank
+  })
+
   // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
   // can flood the result list, even past the matching heuristics.
   const perDomain = new Map<string, number>()
-  // One entry can own several URLs; mirror the old `meta.u.find` by taking the
-  // first matching URL per entry and counting that entry at most once.
-  const seenIds = new Set<string>()
-  for (const rec of urlIndex.value) {
-    if (seenIds.has(rec.id)) continue
-    if (!recordMatches(rec, urlQuery)) continue
-    seenIds.add(rec.id)
-
+  for (const rec of ranked) {
     const seen = perDomain.get(rec.registrable) ?? 0
     if (seen >= MAX_URL_MATCHES_PER_DOMAIN) continue
 

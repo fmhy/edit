@@ -39,6 +39,12 @@ export const excluded = [
   'startpage.md'
 ]
 
+// Strip the URL scheme and a leading "www." so "https://www.pi-hole.net/x" and
+// "pi-hole.net/x" compare the same way. Shared by the build-time index
+// (constants.ts) and the client search box so they normalize identically.
+export const stripSchemeAndWww = (value: string) =>
+  value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
+
 const safeEnv = (key: string) =>
   typeof process !== 'undefined' ? process.env?.[key] : undefined
 
