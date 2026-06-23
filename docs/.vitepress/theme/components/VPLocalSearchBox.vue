@@ -210,14 +210,43 @@ function normalizeUrlSearchValue(value: string) {
 // while "vercel"/"itch"/"com" don't leak-match every site on the platform.
 const URL_HOST_SUFFIXES = new Set([
   // multi-part TLDs
-  'co.uk', 'org.uk', 'ac.uk', 'gov.uk', 'com.au', 'com.br', 'com.mx',
-  'co.jp', 'co.in', 'co.nz', 'co.za', 'co.kr',
+  'co.uk',
+  'org.uk',
+  'ac.uk',
+  'gov.uk',
+  'com.au',
+  'com.br',
+  'com.mx',
+  'co.jp',
+  'co.in',
+  'co.nz',
+  'co.za',
+  'co.kr',
   // subdomain-as-product hosting platforms
-  'github.io', 'gitlab.io', 'pages.dev', 'vercel.app', 'netlify.app',
-  'web.app', 'firebaseapp.com', 'surge.sh', 'neocities.org', 'itch.io',
-  'blogspot.com', 'wordpress.com', 'js.org', 'readthedocs.io', 'notion.site',
-  'sourceforge.io', 'glitch.me', 'repl.co', 'fandom.com', 'gitbook.io',
-  'substack.com', 'ghost.io', 'pythonanywhere.com', 'herokuapp.com'
+  'github.io',
+  'gitlab.io',
+  'pages.dev',
+  'vercel.app',
+  'netlify.app',
+  'web.app',
+  'firebaseapp.com',
+  'surge.sh',
+  'neocities.org',
+  'itch.io',
+  'blogspot.com',
+  'wordpress.com',
+  'js.org',
+  'readthedocs.io',
+  'notion.site',
+  'sourceforge.io',
+  'glitch.me',
+  'repl.co',
+  'fandom.com',
+  'gitbook.io',
+  'substack.com',
+  'ghost.io',
+  'pythonanywhere.com',
+  'herokuapp.com'
 ])
 
 // Ubiquitous shared platforms where the *domain* is not the entry's identity
@@ -225,12 +254,29 @@ const URL_HOST_SUFFIXES = new Set([
 // these so "github"/"discord"/"reddit" don't flood; they remain reachable via
 // an explicit path query ("github.com/yt-dlp") and via normal title/text search.
 const URL_SHARED_DOMAINS = new Set([
-  'github.com', 'gitlab.com', 'codeberg.org', 'bitbucket.org',
-  'sourceforge.net', 'greasyfork.org', 'reddit.com', 'discord.com',
-  'x.com', 'twitter.com', 'youtube.com', 'facebook.com', 'instagram.com',
-  'medium.com', 'archive.org', 'play.google.com', 'apps.apple.com',
-  'chromewebstore.google.com', 'addons.mozilla.org', 'docs.google.com',
-  'drive.google.com', 'sites.google.com', 'cse.google.com',
+  'github.com',
+  'gitlab.com',
+  'codeberg.org',
+  'bitbucket.org',
+  'sourceforge.net',
+  'greasyfork.org',
+  'reddit.com',
+  'discord.com',
+  'x.com',
+  'twitter.com',
+  'youtube.com',
+  'facebook.com',
+  'instagram.com',
+  'medium.com',
+  'archive.org',
+  'play.google.com',
+  'apps.apple.com',
+  'chromewebstore.google.com',
+  'addons.mozilla.org',
+  'docs.google.com',
+  'drive.google.com',
+  'sites.google.com',
+  'cse.google.com',
   'support.google.com'
 ])
 
@@ -808,8 +854,7 @@ debouncedWatch(
       // don't reshuffle between fuzzy/exact modes (or re-renders). Compare by
       // title, then id, for a stable order.
       return (
-        (a.title || '').localeCompare(b.title || '') ||
-        a.id.localeCompare(b.id)
+        (a.title || '').localeCompare(b.title || '') || a.id.localeCompare(b.id)
       )
     })
 

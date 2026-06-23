@@ -30,9 +30,22 @@ const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
 // nobody searches and the domain is shared, so URL-search entries for them are
 // pure noise and index weight \u2014 drop them from the metadata entirely.
 const URL_SHORTENER_HOSTS = new Set([
-  'discord.gg', 't.me', 'redd.it', 'youtu.be', 'bit.ly', 'tinyurl.com',
-  't.co', 'goo.gl', 'is.gd', 'cutt.ly', 'shorturl.at', 'rb.gy', 'ouo.io',
-  'adf.ly', 'rebrand.ly', 'shorte.st'
+  'discord.gg',
+  't.me',
+  'redd.it',
+  'youtu.be',
+  'bit.ly',
+  'tinyurl.com',
+  't.co',
+  'goo.gl',
+  'is.gd',
+  'cutt.ly',
+  'shorturl.at',
+  'rb.gy',
+  'ouo.io',
+  'adf.ly',
+  'rebrand.ly',
+  'shorte.st'
 ])
 
 const stripUrlSchemeAndWww = (value: string) =>
