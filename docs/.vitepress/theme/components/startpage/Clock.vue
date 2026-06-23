@@ -8,6 +8,7 @@
 import { onMounted, onUnmounted, ref } from 'vue'
 
 const time = ref<Date | null>(null)
+let interval: ReturnType<typeof setInterval> | null = null
 
 function updateTime() {
   time.value = new Date()
@@ -15,8 +16,11 @@ function updateTime() {
 
 onMounted(() => {
   updateTime()
-  const interval = setInterval(updateTime, 1000)
-  onUnmounted(() => clearInterval(interval))
+  interval = setInterval(updateTime, 1000)
+})
+
+onUnmounted(() => {
+  if (interval) clearInterval(interval)
 })
 
 const timeString = computed(() => {

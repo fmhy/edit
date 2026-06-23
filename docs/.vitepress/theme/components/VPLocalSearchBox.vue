@@ -64,7 +64,13 @@ import {
   watch,
   watchEffect
 } from 'vue'
-import { sidebar } from '../../shared'
+import { sidebar, stripSchemeAndWww } from '../../shared'
+import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
+import {
+  cancelPendingScroll,
+  pendingScrollQuery,
+  scheduleScrollToMatch
+} from '../composables/searchScroll'
 import Tooltip from './Tooltip.vue'
 
 defineEmits<{
@@ -106,7 +112,9 @@ interface BoostFlags {
   hasStarredPrefix: boolean
   hasPrefix: boolean
   hasStarredWord: boolean
+  hasStarredUrl: boolean
   hasLinkWord: boolean
+  hasLinkUrl: boolean
 }
 
 const vitePressData = useData()
@@ -204,33 +212,265 @@ function normalizeUrlSearchValue(value: string) {
     .toLowerCase()
 }
 
-function urlSearchVariants(value: string) {
-  const normalized = normalizeUrlSearchValue(value)
-  const withoutProtocol = normalized.replace(/^[a-z][a-z0-9+.-]*:\/\//, '')
-  const withoutWww = withoutProtocol.replace(/^www\./, '')
-  const compact = withoutWww.replace(/[^a-z0-9]/g, '')
-  return [
-    ...new Set(
-      [normalized, withoutProtocol, withoutWww, compact].filter(Boolean)
-    )
-  ]
+// Known multi-part public suffixes and subdomain-hosting platforms. For these
+// the registrable *label* is the part left of the suffix, so "silentaperture"
+// resolves silentaperture.gitlab.io and "example" resolves example.co.uk —
+// while "vercel"/"itch"/"com" don't leak-match every site on the platform.
+const URL_HOST_SUFFIXES = new Set([
+  // multi-part TLDs
+  'co.uk',
+  'org.uk',
+  'ac.uk',
+  'gov.uk',
+  'com.au',
+  'com.br',
+  'com.mx',
+  'co.jp',
+  'co.in',
+  'co.nz',
+  'co.za',
+  'co.kr',
+  // subdomain-as-product hosting platforms
+  'github.io',
+  'gitlab.io',
+  'pages.dev',
+  'workers.dev',
+  'vercel.app',
+  'netlify.app',
+  'web.app',
+  'firebaseapp.com',
+  'surge.sh',
+  'neocities.org',
+  'itch.io',
+  'blogspot.com',
+  'wordpress.com',
+  'js.org',
+  'readthedocs.io',
+  'notion.site',
+  'sourceforge.io',
+  'glitch.me',
+  'repl.co',
+  'fandom.com',
+  'gitbook.io',
+  'substack.com',
+  'ghost.io',
+  'pythonanywhere.com',
+  'herokuapp.com'
+])
+
+// Ubiquitous shared platforms where the *domain* is not the entry's identity
+// (github.com appears ~10k times in the wiki). Domain-mode URL search skips
+// these so "github"/"discord"/"reddit" don't flood; they remain reachable via
+// an explicit path query ("github.com/yt-dlp") and via normal title/text search.
+const URL_SHARED_DOMAINS = new Set([
+  'github.com',
+  'gitlab.com',
+  'codeberg.org',
+  'bitbucket.org',
+  'sourceforge.net',
+  'greasyfork.org',
+  'reddit.com',
+  'discord.com',
+  'x.com',
+  'twitter.com',
+  'youtube.com',
+  'facebook.com',
+  'instagram.com',
+  'medium.com',
+  'archive.org',
+  'play.google.com',
+  'apps.apple.com',
+  'chromewebstore.google.com',
+  'addons.mozilla.org',
+  'docs.google.com',
+  'drive.google.com',
+  'sites.google.com',
+  'cse.google.com',
+  'support.google.com'
+])
+
+// Per-domain and total ceilings on URL-only matches, so no single domain (or a
+// broad query) can ever flood the result list regardless of the heuristics.
+const MAX_URL_MATCHES_PER_DOMAIN = 8
+const MAX_URL_MATCHES_TOTAL = 60
+
+// Below this length a bare query only matches a label by prefix/exact, never a
+// mid-label substring: "wco" should hit "wcofun" but not "showcode". Longer
+// needles keep substring matching so intentional fragments still work.
+const MIN_SUBSTRING_NEEDLE_LENGTH = 4
+
+// Punctuation-insensitive form so "pihole" matches "pi-hole".
+function compactUrlValue(value: string) {
+  return value.replace(/[^a-z0-9]/g, '')
 }
 
-function urlMatchesQuery(url: string, query: string) {
-  const normalizedQuery = normalizeUrlSearchValue(query)
-  if (normalizedQuery.length < 3) return false
+// Resolve a host to its registrable label (the meaningful name) and registrable
+// domain, honoring the multi-part / hosting suffixes above.
+function urlRegistrable(host: string): { label: string; registrable: string } {
+  const labels = host.split('.')
+  for (let i = 0; i < labels.length - 1; i++) {
+    if (URL_HOST_SUFFIXES.has(labels.slice(i + 1).join('.'))) {
+      return { label: labels[i], registrable: labels.slice(i).join('.') }
+    }
+  }
+  return {
+    label: labels[labels.length - 2] ?? labels[0],
+    registrable: labels.slice(-2).join('.')
+  }
+}
 
-  const urlVariants = urlSearchVariants(url)
-  const queryVariants = urlSearchVariants(query)
-  // Only match when the stored URL contains the query, not the reverse. The
-  // reverse direction let a longer query that *contains* a stored URL match it
-  // (e.g. "pi-hole.net/testttttt" matched "pi-hole.net/"). Exact/full matches
-  // still work here because equal strings include each other.
-  return urlVariants.some((urlValue) =>
-    queryVariants.some(
-      (queryValue) => queryValue && urlValue.includes(queryValue)
+interface UrlQuery {
+  // 'path' → the user typed a "/" so we match host + path directly.
+  // 'domain' → match against the domain only.
+  mode: 'path' | 'domain'
+  // path mode: the host+path needle (e.g. "github.com/yt-dlp").
+  needle: string
+  // domain mode: query forms tested against the domain (raw + compacted).
+  needles: string[]
+  // domain mode: match the full host (query had a TLD, e.g. "pi-hole.net")
+  // rather than the registrable label.
+  matchFullHost: boolean
+  // The user typed a scheme ("https://") or leading "www." — a literal
+  // start-of-URL signal, so anchor to the host start (prefix) instead of
+  // matching the needle anywhere inside the label. Keeps "https://wco" off
+  // "showcode.app" (where "wco" sits mid-label) while still hitting "wcofun".
+  anchored: boolean
+}
+
+// Parse the query once so it can be tested against many stored URLs cheaply.
+// Returns null when the query is too short to be a meaningful URL match.
+function buildUrlQuery(query: string): UrlQuery | null {
+  const normalized = normalizeUrlSearchValue(query)
+  if (normalized.length < 3) return null
+
+  // A typed scheme or leading "www." anchors the match to the host start.
+  const anchored =
+    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
+  const stripped = stripSchemeAndWww(normalized)
+  // A "/" means the user typed a path, so match against host + path directly.
+  if (stripped.includes('/')) {
+    return {
+      mode: 'path',
+      needle: stripped,
+      needles: [],
+      matchFullHost: false,
+      anchored
+    }
+  }
+  // A "." means the user typed a domain with its TLD (pi-hole.net) → match the
+  // full host. Otherwise it's a bare word → match the registrable label.
+  return {
+    mode: 'domain',
+    needle: '',
+    needles: [
+      ...new Set([stripped, compactUrlValue(stripped)].filter(Boolean))
+    ],
+    matchFullHost: stripped.includes('.'),
+    anchored
+  }
+}
+
+// `normalizedUrl` is expected already normalized + scheme/www-stripped (the form
+// stored in the index). Callers passing a raw href must normalize first.
+function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
+  const hostPath = stripSchemeAndWww(normalizedUrl)
+  if (urlQuery.mode === 'path') {
+    return hostPath.includes(urlQuery.needle)
+  }
+  const host = hostPath.split(/[/?#]/)[0]
+  const { label, registrable } = urlRegistrable(host)
+  // Skip ubiquitous shared platforms in domain mode (see URL_SHARED_DOMAINS).
+  if (URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)) {
+    return false
+  }
+  const target = urlQuery.matchFullHost ? host : label
+  const haystacks = [target, compactUrlValue(target)]
+  return urlQuery.needles.some((needle) => {
+    // Mirror recordMatchRank: anchored queries and short needles match by
+    // prefix only, longer needles also match a mid-label substring.
+    const prefixOnly =
+      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH
+    return haystacks.some((haystack) =>
+      prefixOnly ? haystack.startsWith(needle) : haystack.includes(needle)
     )
-  )
+  })
+}
+
+// A stored URL with its host parts parsed once at index-build time so the hot
+// search path never re-strips/-splits the same URL on every keystroke.
+interface UrlRecord {
+  id: string
+  hostPath: string // host + path (e.g. "github.com/yt-dlp")
+  host: string // host only (e.g. "github.com")
+  label: string // registrable label (e.g. "pi-hole")
+  registrable: string // registrable domain (e.g. "pi-hole.net")
+  compactHost: string // punctuation-stripped host
+  compactLabel: string // punctuation-stripped label
+  isShared: boolean // host/registrable is a suppressed shared platform
+}
+
+// Flatten customMetadata into one parsed record per stored URL. Recomputed only
+// when the metadata changes (locale switch / HMR), not per search, so the parse
+// cost is paid once instead of on every keystroke (see findUrlMatches).
+const urlIndex = computed<UrlRecord[]>(() => {
+  const records: UrlRecord[] = []
+  for (const id in customMetadata.value) {
+    const urls = customMetadata.value[id].u
+    if (!urls) continue
+    for (const url of urls) {
+      // Stored URLs are already normalized + scheme/www-stripped at build time.
+      const hostPath = stripSchemeAndWww(url)
+      const host = hostPath.split(/[/?#]/)[0]
+      const { label, registrable } = urlRegistrable(host)
+      records.push({
+        id,
+        hostPath,
+        host,
+        label,
+        registrable,
+        compactHost: compactUrlValue(host),
+        compactLabel: compactUrlValue(label),
+        isShared:
+          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)
+      })
+    }
+  }
+  return records
+})
+
+// How strongly a haystack matches a needle: 3 = exact, 2 = prefix, 1 = substring,
+// 0 = no match. Lets findUrlMatches keep the most relevant matches when a cap
+// forces a cut, instead of dropping by arbitrary index order.
+function matchStrength(haystack: string, needle: string) {
+  if (haystack === needle) return 3
+  if (haystack.startsWith(needle)) return 2
+  if (haystack.includes(needle)) return 1
+  return 0
+}
+
+// Rank a pre-parsed record against the query (0 = no match). Mirrors
+// urlMatchesNormalizedUrl's matching, but reads the precomputed host parts
+// instead of re-deriving them, and returns a strength instead of a boolean.
+function recordMatchRank(rec: UrlRecord, urlQuery: UrlQuery) {
+  if (urlQuery.mode === 'path') {
+    return matchStrength(rec.hostPath, urlQuery.needle)
+  }
+  if (rec.isShared) return 0
+  const haystacks = urlQuery.matchFullHost
+    ? [rec.host, rec.compactHost]
+    : [rec.label, rec.compactLabel]
+  let best = 0
+  for (const needle of urlQuery.needles) {
+    // Anchored queries (typed scheme / www.) and short needles only accept
+    // exact/prefix matches (strength >= 2), never a mid-label substring.
+    const minStrength =
+      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH ? 2 : 1
+    for (const haystack of haystacks) {
+      const s = matchStrength(haystack, needle)
+      if (s >= minStrength) best = Math.max(best, s)
+    }
+  }
+  return best
 }
 
 const searchIndex = computedAsync(async () => {
@@ -436,14 +676,45 @@ function findPageTitle(items: SidebarItem[], path: string): string | null {
 
 function findUrlMatches(index: MiniSearch<Result>, query: string) {
   const matches: (SearchResult & Result)[] = []
-  for (const [id, meta] of Object.entries(customMetadata.value)) {
-    if (!meta.u?.some((url) => urlMatchesQuery(url, query))) continue
+  const urlQuery = buildUrlQuery(query)
+  if (!urlQuery) return matches
 
-    const storedFields = index.getStoredFields(id) as Result | undefined
+  // Gather one candidate per entry first, keeping the best-ranked matching URL
+  // for that entry. One entry can own several URLs; mirror the old `meta.u.find`
+  // by counting each entry at most once.
+  const candidates = new Map<string, UrlRecord & { rank: number }>()
+  for (const rec of urlIndex.value) {
+    const rank = recordMatchRank(rec, urlQuery)
+    if (rank === 0) continue
+    const existing = candidates.get(rec.id)
+    if (!existing || rank > existing.rank) {
+      candidates.set(rec.id, { ...rec, rank })
+    }
+  }
+
+  // Sort by relevance before applying the ceilings, so when a cap forces a cut
+  // we drop the *least* relevant matches: curated/starred entries first, then
+  // by match strength (exact > prefix > substring). Within-cap order doesn't
+  // matter — the merged result set is re-sorted globally by tier/score later.
+  const ranked = [...candidates.values()].sort((a, b) => {
+    const aStarred = customMetadata.value[a.id]?.s?.length ? 1 : 0
+    const bStarred = customMetadata.value[b.id]?.s?.length ? 1 : 0
+    return bStarred - aStarred || b.rank - a.rank
+  })
+
+  // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
+  // can flood the result list, even past the matching heuristics.
+  const perDomain = new Map<string, number>()
+  for (const rec of ranked) {
+    const seen = perDomain.get(rec.registrable) ?? 0
+    if (seen >= MAX_URL_MATCHES_PER_DOMAIN) continue
+
+    const storedFields = index.getStoredFields(rec.id) as Result | undefined
     if (!storedFields) continue
 
+    perDomain.set(rec.registrable, seen + 1)
     matches.push({
-      id,
+      id: rec.id,
       score: 1,
       terms: [query],
       queryTerms: [query],
@@ -451,6 +722,7 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
       ...storedFields,
       urlMatched: true
     })
+    if (matches.length >= MAX_URL_MATCHES_TOTAL) break
   }
   return matches
 }
@@ -623,8 +895,10 @@ debouncedWatch(
     //   3. starredPrefix \u2013 query is a prefix of a starred-bold hyperlink
     //   4. prefix        \u2013 query is a prefix of any hyperlink
     //   5. starredWord   \u2013 a query term is a word inside a starred hyperlink
-    //   6. linkWord      \u2013 a query term is a word inside any hyperlink
-    //   7. raw score (title/text match, etc.)
+    //   6. starredUrl    \u2013 a starred entry matched only on a link's URL
+    //   7. linkWord      \u2013 a query term is a word inside any hyperlink
+    //   8. linkUrl       \u2013 a non-starred entry matched only on a link's URL
+    //   9. raw score (title/text match, etc.)
     // Bold-without-star is treated as a regular link (no special tier).
     // "Prefix"/"exact" compare the full query against the whole hyperlink text,
     // not against individual tokens. Strip zero-width characters from the
@@ -671,6 +945,15 @@ debouncedWatch(
       processPhrases(meta?.s, true)
       processPhrases(meta?.l, false)
 
+      // URL matches hit the href, not the visible link text, so the phrase
+      // tiers above never fire for them. Give them their own tier keyed off
+      // whether the entry is starred, so a starred-link URL match interleaves
+      // with the other curated results instead of sinking to the bottom on raw
+      // score alone.
+      const isStarred = !!meta?.s?.length
+      const hasStarredUrl = !!r.urlMatched && isStarred
+      const hasLinkUrl = !!r.urlMatched && !isStarred
+
       return {
         ...r,
         hasStarredExact,
@@ -678,7 +961,9 @@ debouncedWatch(
         hasStarredPrefix,
         hasPrefix,
         hasStarredWord,
-        hasLinkWord
+        hasStarredUrl,
+        hasLinkWord,
+        hasLinkUrl
       }
     })
 
@@ -688,7 +973,9 @@ debouncedWatch(
       'hasStarredPrefix',
       'hasPrefix',
       'hasStarredWord',
-      'hasLinkWord'
+      'hasStarredUrl',
+      'hasLinkWord',
+      'hasLinkUrl'
     ]
 
     boostedResults.sort((a, b) => {
@@ -702,8 +989,7 @@ debouncedWatch(
       // don't reshuffle between fuzzy/exact modes (or re-renders). Compare by
       // title, then id, for a stable order.
       return (
-        (a.title || '').localeCompare(b.title || '') ||
-        a.id.localeCompare(b.id)
+        (a.title || '').localeCompare(b.title || '') || a.id.localeCompare(b.id)
       )
     })
 
@@ -864,8 +1150,9 @@ watch(
     // the query text isn't in the visible link text. Highlight the specific
     // link(s) in the excerpt whose href matched the query.
     if (isUrlSearch.value) {
+      const urlQuery = buildUrlQuery(filterText.value)
       for (const r of finalResults) {
-        if (!r.urlMatched) continue
+        if (!r.urlMatched || !urlQuery) continue
         const item = resultsEl.value?.querySelector(
           `[data-id="${CSS.escape(r.id)}"]`
         )
@@ -874,7 +1161,8 @@ watch(
           item.querySelectorAll<HTMLAnchorElement>('.excerpt a[href]')
         for (const anchor of anchors) {
           const href = anchor.getAttribute('href') ?? ''
-          if (!urlMatchesQuery(href, filterText.value)) continue
+          if (!urlMatchesNormalizedUrl(normalizeUrlSearchValue(href), urlQuery))
+            continue
           if (anchor.querySelector('mark[data-markjs="true"]')) continue
           const mark = document.createElement('mark')
           mark.setAttribute('data-markjs', 'true')
@@ -1156,7 +1444,18 @@ async function processExcerpts(
             let html = ''
             let next: Element | null = heading.nextElementSibling
             while (next && !/^h[1-6]$/i.test(next.tagName)) {
-              html += next.outerHTML
+              // Skip note/infobox custom blocks (:::tip/:::info/:::warning/
+              // :::danger) so the excerpt highlights the real curated link
+              // instead of a note that merely mentions the query. Mirrors the
+              // index-time strip in constants.ts so preview and ranking agree.
+              const cls = next.classList
+              const isNoteBlock =
+                cls.contains('custom-block') &&
+                (cls.contains('tip') ||
+                  cls.contains('info') ||
+                  cls.contains('warning') ||
+                  cls.contains('danger'))
+              if (!isNoteBlock) html += next.outerHTML
               next = next.nextElementSibling
             }
             map!.set(anchor, html)
@@ -1364,8 +1663,9 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     addRecentSearch(filterText.value)
-    router.go(selectedPackage.id)
-    close()
+    const idx = results.value.indexOf(selectedPackage)
+    const matchCtx = idx >= 0 ? getMatchContext(idx) : null
+    navigateToResult(selectedPackage.id, matchCtx)
   }
 })
 
@@ -1517,6 +1817,25 @@ function clearAllRecentSearches() {
   nextTick().then(() => focusSearchInput(false))
 }
 
+/**
+ * Extract the text content of the element containing the currently active
+ * match highlight in the search excerpt. This identifies the SPECIFIC item
+ * the user was looking at (e.g., "SpotifyPublic" vs "EeveeSpotifyRevived")
+ * so we scroll to the right one on the page.
+ */
+function getMatchContext(resultIndex: number): string | null {
+  const marks = resultMarks.value.get(resultIndex)
+  const curr = currentMarkIndex.value.get(resultIndex) ?? 0
+  if (!marks || !marks[curr] || marks[curr].length === 0) return null
+
+  const mark = marks[curr][0]
+  // Find the closest content container (same selectors used on the actual page)
+  const container = mark.closest('li, p, td, dd, blockquote')
+  if (!container) return null
+
+  return container.textContent?.trim() || null
+}
+
 function handleResultClick(e: MouseEvent, id: string) {
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) {
     return
@@ -1524,32 +1843,55 @@ function handleResultClick(e: MouseEvent, id: string) {
   e.preventDefault()
   addRecentSearch(filterText.value)
 
+  // Find which result index was clicked to get the match context
+  const index = results.value.findIndex((r) => r.id === id)
+  const matchContext = index >= 0 ? getMatchContext(index) : null
+  navigateToResult(id, matchContext)
+}
+
+function navigateToResult(id: string, matchContext: string | null = null) {
+  // Dismiss mobile keyboard immediately by blurring the active input.
+  // This triggers a viewport resize so we calculate the correct scroll position.
+  if (
+    typeof document !== 'undefined' &&
+    document.activeElement instanceof HTMLElement
+  ) {
+    document.activeElement.blur()
+  }
+
   const [path, hash] = id.split('#')
+  const query = filterText.value
   let decodedHash: string | null = null
   try {
     decodedHash = hash ? decodeURIComponent(hash) : null
   } catch {
     /* malformed URI */
   }
+
+  // Cancel any previous scroll-to-match operation
+  cancelPendingScroll()
+
   if (decodedHash && isSamePageComparison(path)) {
     const targetEl = document.getElementById(decodedHash)
     if (targetEl) {
       close()
-      const navEl = document.querySelector('.VPNavBar')
-      const navHeight = navEl ? navEl.clientHeight : 64
-      const targetY = Math.max(
-        0,
-        targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
-      )
-
-      fastScrollTo(targetY, 300)
       window.history.pushState(null, '', `#${hash}`)
+      // Single scroll directly to the matching element. For same-page,
+      // use a longer delay on mobile so the virtual keyboard can dismiss
+      // and the viewport height can settle before scrolling.
+      const isMobile = typeof window !== 'undefined' && window.innerWidth < 768
+      const delay = isMobile ? 300 : 80
+      scheduleScrollToMatch(hash, query, delay, matchContext)
       return
     }
   }
 
-  router.go(id)
+  // Cross-page navigation: store query (with destination path so the router
+  // hook can reject it if a different navigation supersedes this one), close
+  // modal, start navigation.
+  pendingScrollQuery.value = { query, matchContext, path }
   close()
+  router.go(id)
 }
 
 function resetSearch() {
@@ -1677,42 +2019,6 @@ function isSamePageComparison(destPath: string) {
   const dest = clean(destPath) || '/'
   return current === dest
 }
-
-let activeScrollRAF = 0
-let savedScrollBehavior = ''
-
-function fastScrollTo(targetY: number, duration = 150) {
-  if (typeof window === 'undefined') return
-  const htmlEl = document.documentElement
-
-  if (!activeScrollRAF) {
-    savedScrollBehavior = htmlEl.style.scrollBehavior
-    htmlEl.style.scrollBehavior = 'auto'
-  } else {
-    cancelAnimationFrame(activeScrollRAF)
-  }
-
-  const startY = window.scrollY
-  const difference = targetY - startY
-  const startTime = performance.now()
-
-  function step(currentTime: number) {
-    const elapsed = currentTime - startTime
-    const progress = Math.min(elapsed / duration, 1)
-    const ease = 1 - Math.pow(1 - progress, 3)
-
-    window.scrollTo(0, startY + difference * ease)
-
-    if (progress < 1) {
-      activeScrollRAF = requestAnimationFrame(step)
-    } else {
-      htmlEl.style.scrollBehavior = savedScrollBehavior
-      activeScrollRAF = 0
-    }
-  }
-
-  activeScrollRAF = requestAnimationFrame(step)
-}
 </script>
 
 <template>
@@ -1832,7 +2138,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                 :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
                 @click="toggleUrlSearch"
               >
-                <span class="url-icon">@</span>
+                <span class="url-icon i-lucide:link" />
                 <span class="visually-hidden">
                   {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
                 </span>
@@ -1895,7 +2201,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                         :key="titleIndex"
                         class="title"
                       >
-                        <span class="text" v-html="t" />
+                        <span class="text" v-html="sanitizeSearchHtml(t)" />
                         <span class="vpi-chevron-right local-search-icon" />
                       </span>
                       <span class="title main">
@@ -1904,13 +2210,16 @@ function fastScrollTo(targetY: number, duration = 150) {
                           class="result-link"
                           :aria-label="[...p.titles, p.title].join(' > ')"
                         >
-                          <span class="text" v-html="p.title" />
+                          <span
+                            class="text"
+                            v-html="sanitizeSearchHtml(p.title)"
+                          />
                         </a>
                       </span>
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
                       <div v-if="p.text" class="excerpt" inert>
-                        <div class="vp-doc" v-html="p.text" />
+                        <div class="vp-doc" v-html="sanitizeRichHtml(p.text)" />
                       </div>
 
                       <div class="excerpt-gradient-bottom" />
@@ -2527,13 +2836,21 @@ function fastScrollTo(targetY: number, duration = 150) {
 }
 
 /* Highlight styles - default state */
-.titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
   margin: 0 -2px;
+  transition: background-color 0.2s;
+}
+
+.titles :deep(mark) {
+  background-color: var(--vp-local-search-highlight-bg);
+  color: var(--vp-local-search-highlight-text);
+  border-radius: 2px;
+  padding: 0;
+  margin: 0;
   transition: background-color 0.2s;
 }
 
@@ -2844,9 +3161,8 @@ svg {
 }
 
 .toggle-url-button .url-icon {
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 1;
+  width: 18px;
+  height: 18px;
 }
 
 .toggle-url-button:hover {

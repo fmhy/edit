@@ -39,13 +39,23 @@ export const excluded = [
   'startpage.md'
 ]
 
+// Strip the URL scheme and a leading "www." so "https://www.pi-hole.net/x" and
+// "pi-hole.net/x" compare the same way. Shared by the build-time index
+// (constants.ts) and the client search box so they normalize identically.
+export const stripSchemeAndWww = (value: string) =>
+  value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
+
 const safeEnv = (key: string) =>
   typeof process !== 'undefined' ? process.env?.[key] : undefined
 
-if (safeEnv('FMHY_BUILD_NSFW') === 'false') {
+// Treat the common falsy spellings as "off", not just the exact string 'false'.
+const isFalsy = (val?: string) =>
+  ['false', '0', 'no', 'off'].includes((val ?? '').trim().toLowerCase())
+
+if (isFalsy(safeEnv('FMHY_BUILD_NSFW'))) {
   meta.build.nsfw = false
 }
-if (safeEnv('FMHY_BUILD_API') === 'false') {
+if (isFalsy(safeEnv('FMHY_BUILD_API'))) {
   meta.build.api = false
 }
 
@@ -87,7 +97,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '❓ FAQs', link: '/other/FAQ' },
       { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
-      { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
+      { text: '🚀 Startpage', link: '/startpage' },
       { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
       {
         text: '💡 Site Hunting',
