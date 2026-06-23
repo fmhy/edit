@@ -26,6 +26,18 @@ export * from './shared'
 
 const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
 
+// Pure URL shorteners / opaque invite & paste hosts. Their path is a random id
+// nobody searches and the domain is shared, so URL-search entries for them are
+// pure noise and index weight \u2014 drop them from the metadata entirely.
+const URL_SHORTENER_HOSTS = new Set([
+  'discord.gg', 't.me', 'redd.it', 'youtu.be', 'bit.ly', 'tinyurl.com',
+  't.co', 'goo.gl', 'is.gd', 'cutt.ly', 'shorturl.at', 'rb.gy', 'ouo.io',
+  'adf.ly', 'rebrand.ly', 'shorte.st'
+])
+
+const stripUrlSchemeAndWww = (value: string) =>
+  value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
+
 // l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
 // u = link hrefs for URL search.
 // Bold-without-star is just an index label, no special ranking – folded into l.
@@ -77,7 +89,18 @@ function extractLinkMetadata(html: string) {
     } catch {
       // Keep the raw href if it is not a valid encoded URI.
     }
-    return stripInvisible(decoded).replace(/\s+/g, '').trim().toLowerCase()
+    const normalized = stripInvisible(decoded)
+      .replace(/\s+/g, '')
+      .trim()
+      .toLowerCase()
+    // Store a normalized, scheme/www-stripped "host[/path]" form so the client
+    // matches without re-normalizing every URL on each keystroke. Drop the
+    // query/hash (opaque ?id=, #wiki_…) and cap the length to keep the index
+    // small at tens-of-thousands-of-URLs scale.
+    const hostPath = stripUrlSchemeAndWww(normalized).split(/[?#]/)[0]
+    const host = hostPath.split('/')[0]
+    if (!host || URL_SHORTENER_HOSTS.has(host)) return ''
+    return hostPath.length > 80 ? hostPath.slice(0, 80) : hostPath
   }
   const isSearchableUrl = (href: string) =>
     /^[a-z][a-z0-9+.-]*:\/\//i.test(href) || /^www\./i.test(href)

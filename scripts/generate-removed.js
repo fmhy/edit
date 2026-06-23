@@ -1,7 +1,6 @@
 import { execSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
-import path from 'node:path'
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
@@ -26,20 +25,18 @@ function isIgnored(file) {
   )
 }
 
-function readAllDocs(dir, ignoredFiles, ignoredDirs) {
-  let content = ''
-  const entries = fs.readdirSync(dir, { withFileTypes: true })
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name).replace(/\\/g, '/')
+function getAllDocFiles(dir) {
+  const results = []
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const child = `${dir}/${entry.name}`
     if (entry.isDirectory()) {
-      if (!ignoredDirs.some((d) => fullPath.startsWith(d.replace(/\/$/, '')))) {
-        content += readAllDocs(fullPath, ignoredFiles, ignoredDirs)
-      }
-    } else if (entry.name.endsWith('.md') && !ignoredFiles.includes(fullPath)) {
-      content += fs.readFileSync(fullPath, 'utf-8') + '\n'
+      if (IGNORED_DIRS.some((d) => `${child}/`.startsWith(d))) continue
+      results.push(...getAllDocFiles(child))
+    } else if (entry.name.endsWith('.md') && !isIgnored(child)) {
+      results.push(child)
     }
   }
-  return content
+  return results
 }
 
 function generateRemovedSites() {
@@ -118,7 +115,9 @@ function generateRemovedSites() {
   const removedSites = []
 
   // Get current state of all valid wiki docs to check if a URL still exists somewhere
-  const allCurrentDocs = readAllDocs('docs', IGNORED_FILES, IGNORED_DIRS)
+  const allCurrentDocs = getAllDocFiles('docs')
+    .map((file) => fs.readFileSync(file, 'utf-8'))
+    .join('\n')
 
   for (const commit of commits) {
     const lines = commit.split('\n')

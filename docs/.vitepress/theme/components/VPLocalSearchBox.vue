@@ -204,32 +204,120 @@ function normalizeUrlSearchValue(value: string) {
     .toLowerCase()
 }
 
-function urlSearchVariants(value: string) {
-  const normalized = normalizeUrlSearchValue(value)
-  const withoutProtocol = normalized.replace(/^[a-z][a-z0-9+.-]*:\/\//, '')
-  const withoutWww = withoutProtocol.replace(/^www\./, '')
-  const compact = withoutWww.replace(/[^a-z0-9]/g, '')
-  return [
-    ...new Set(
-      [normalized, withoutProtocol, withoutWww, compact].filter(Boolean)
-    )
-  ]
+// Known multi-part public suffixes and subdomain-hosting platforms. For these
+// the registrable *label* is the part left of the suffix, so "silentaperture"
+// resolves silentaperture.gitlab.io and "example" resolves example.co.uk —
+// while "vercel"/"itch"/"com" don't leak-match every site on the platform.
+const URL_HOST_SUFFIXES = new Set([
+  // multi-part TLDs
+  'co.uk', 'org.uk', 'ac.uk', 'gov.uk', 'com.au', 'com.br', 'com.mx',
+  'co.jp', 'co.in', 'co.nz', 'co.za', 'co.kr',
+  // subdomain-as-product hosting platforms
+  'github.io', 'gitlab.io', 'pages.dev', 'vercel.app', 'netlify.app',
+  'web.app', 'firebaseapp.com', 'surge.sh', 'neocities.org', 'itch.io',
+  'blogspot.com', 'wordpress.com', 'js.org', 'readthedocs.io', 'notion.site',
+  'sourceforge.io', 'glitch.me', 'repl.co', 'fandom.com', 'gitbook.io',
+  'substack.com', 'ghost.io', 'pythonanywhere.com', 'herokuapp.com'
+])
+
+// Ubiquitous shared platforms where the *domain* is not the entry's identity
+// (github.com appears ~10k times in the wiki). Domain-mode URL search skips
+// these so "github"/"discord"/"reddit" don't flood; they remain reachable via
+// an explicit path query ("github.com/yt-dlp") and via normal title/text search.
+const URL_SHARED_DOMAINS = new Set([
+  'github.com', 'gitlab.com', 'codeberg.org', 'bitbucket.org',
+  'sourceforge.net', 'greasyfork.org', 'reddit.com', 'discord.com',
+  'x.com', 'twitter.com', 'youtube.com', 'facebook.com', 'instagram.com',
+  'medium.com', 'archive.org', 'play.google.com', 'apps.apple.com',
+  'chromewebstore.google.com', 'addons.mozilla.org', 'docs.google.com',
+  'drive.google.com', 'sites.google.com', 'cse.google.com',
+  'support.google.com'
+])
+
+// Per-domain and total ceilings on URL-only matches, so no single domain (or a
+// broad query) can ever flood the result list regardless of the heuristics.
+const MAX_URL_MATCHES_PER_DOMAIN = 8
+const MAX_URL_MATCHES_TOTAL = 60
+
+// Strip the scheme and a leading "www." so "https://www.pi-hole.net/x" and
+// "pi-hole.net/x" compare the same way.
+function stripSchemeAndWww(value: string) {
+  return value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
 }
 
-function urlMatchesQuery(url: string, query: string) {
-  const normalizedQuery = normalizeUrlSearchValue(query)
-  if (normalizedQuery.length < 3) return false
+// Punctuation-insensitive form so "pihole" matches "pi-hole".
+function compactUrlValue(value: string) {
+  return value.replace(/[^a-z0-9]/g, '')
+}
 
-  const urlVariants = urlSearchVariants(url)
-  const queryVariants = urlSearchVariants(query)
-  // Only match when the stored URL contains the query, not the reverse. The
-  // reverse direction let a longer query that *contains* a stored URL match it
-  // (e.g. "pi-hole.net/testttttt" matched "pi-hole.net/"). Exact/full matches
-  // still work here because equal strings include each other.
-  return urlVariants.some((urlValue) =>
-    queryVariants.some(
-      (queryValue) => queryValue && urlValue.includes(queryValue)
-    )
+// Resolve a host to its registrable label (the meaningful name) and registrable
+// domain, honoring the multi-part / hosting suffixes above.
+function urlRegistrable(host: string): { label: string; registrable: string } {
+  const labels = host.split('.')
+  for (let i = 0; i < labels.length - 1; i++) {
+    if (URL_HOST_SUFFIXES.has(labels.slice(i + 1).join('.'))) {
+      return { label: labels[i], registrable: labels.slice(i).join('.') }
+    }
+  }
+  return {
+    label: labels[labels.length - 2] ?? labels[0],
+    registrable: labels.slice(-2).join('.')
+  }
+}
+
+interface UrlQuery {
+  // 'path' → the user typed a "/" so we match host + path directly.
+  // 'domain' → match against the domain only.
+  mode: 'path' | 'domain'
+  // path mode: the host+path needle (e.g. "github.com/yt-dlp").
+  needle: string
+  // domain mode: query forms tested against the domain (raw + compacted).
+  needles: string[]
+  // domain mode: match the full host (query had a TLD, e.g. "pi-hole.net")
+  // rather than the registrable label.
+  matchFullHost: boolean
+}
+
+// Parse the query once so it can be tested against many stored URLs cheaply.
+// Returns null when the query is too short to be a meaningful URL match.
+function buildUrlQuery(query: string): UrlQuery | null {
+  const normalized = normalizeUrlSearchValue(query)
+  if (normalized.length < 3) return null
+
+  const stripped = stripSchemeAndWww(normalized)
+  // A "/" means the user typed a path, so match against host + path directly.
+  if (stripped.includes('/')) {
+    return { mode: 'path', needle: stripped, needles: [], matchFullHost: false }
+  }
+  // A "." means the user typed a domain with its TLD (pi-hole.net) → match the
+  // full host. Otherwise it's a bare word → match the registrable label.
+  return {
+    mode: 'domain',
+    needle: '',
+    needles: [
+      ...new Set([stripped, compactUrlValue(stripped)].filter(Boolean))
+    ],
+    matchFullHost: stripped.includes('.')
+  }
+}
+
+// `normalizedUrl` is expected already normalized + scheme/www-stripped (the form
+// stored in the index). Callers passing a raw href must normalize first.
+function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
+  const hostPath = stripSchemeAndWww(normalizedUrl)
+  if (urlQuery.mode === 'path') {
+    return hostPath.includes(urlQuery.needle)
+  }
+  const host = hostPath.split(/[/?#]/)[0]
+  const { label, registrable } = urlRegistrable(host)
+  // Skip ubiquitous shared platforms in domain mode (see URL_SHARED_DOMAINS).
+  if (URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)) {
+    return false
+  }
+  const target = urlQuery.matchFullHost ? host : label
+  const haystacks = [target, compactUrlValue(target)]
+  return urlQuery.needles.some((needle) =>
+    haystacks.some((haystack) => haystack.includes(needle))
   )
 }
 
@@ -436,12 +524,29 @@ function findPageTitle(items: SidebarItem[], path: string): string | null {
 
 function findUrlMatches(index: MiniSearch<Result>, query: string) {
   const matches: (SearchResult & Result)[] = []
+  const urlQuery = buildUrlQuery(query)
+  if (!urlQuery) return matches
+
+  // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
+  // can flood the result list, even past the matching heuristics.
+  const perDomain = new Map<string, number>()
   for (const [id, meta] of Object.entries(customMetadata.value)) {
-    if (!meta.u?.some((url) => urlMatchesQuery(url, query))) continue
+    // Stored URLs are already normalized + scheme/www-stripped at build time,
+    // so no per-URL normalization is needed here on the hot search path.
+    const matchedUrl = meta.u?.find((url) =>
+      urlMatchesNormalizedUrl(url, urlQuery)
+    )
+    if (!matchedUrl) continue
+
+    const host = stripSchemeAndWww(matchedUrl).split(/[/?#]/)[0]
+    const { registrable } = urlRegistrable(host)
+    const seen = perDomain.get(registrable) ?? 0
+    if (seen >= MAX_URL_MATCHES_PER_DOMAIN) continue
 
     const storedFields = index.getStoredFields(id) as Result | undefined
     if (!storedFields) continue
 
+    perDomain.set(registrable, seen + 1)
     matches.push({
       id,
       score: 1,
@@ -451,6 +556,7 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
       ...storedFields,
       urlMatched: true
     })
+    if (matches.length >= MAX_URL_MATCHES_TOTAL) break
   }
   return matches
 }
@@ -864,8 +970,9 @@ watch(
     // the query text isn't in the visible link text. Highlight the specific
     // link(s) in the excerpt whose href matched the query.
     if (isUrlSearch.value) {
+      const urlQuery = buildUrlQuery(filterText.value)
       for (const r of finalResults) {
-        if (!r.urlMatched) continue
+        if (!r.urlMatched || !urlQuery) continue
         const item = resultsEl.value?.querySelector(
           `[data-id="${CSS.escape(r.id)}"]`
         )
@@ -874,7 +981,8 @@ watch(
           item.querySelectorAll<HTMLAnchorElement>('.excerpt a[href]')
         for (const anchor of anchors) {
           const href = anchor.getAttribute('href') ?? ''
-          if (!urlMatchesQuery(href, filterText.value)) continue
+          if (!urlMatchesNormalizedUrl(normalizeUrlSearchValue(href), urlQuery))
+            continue
           if (anchor.querySelector('mark[data-markjs="true"]')) continue
           const mark = document.createElement('mark')
           mark.setAttribute('data-markjs', 'true')
