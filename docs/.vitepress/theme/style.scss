@@ -2,12 +2,6 @@ html {
   scrollbar-gutter: stable;
 }
 
-body {
-  transition:
-    background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1),
-    color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
-}
-
 :root {
   scroll-behavior: smooth;
   /* Colors: Brand */
@@ -565,4 +559,32 @@ body,
 html.vp-search-scrolling .VPNav {
   transform: none !important;
   transition: none !important;
+}
+
+body,
+.Layout,
+.VPNav,
+.VPNavBar,
+.VPLocalNav,
+.VPSidebar,
+.VPContent,
+.VPFooter {
+  transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html.theme-view-transition,
+html.theme-view-transition * {
+  transition: none !important;
+}
+
+/* Keep transient overlays — the mobile nav screen and the theme-selector
+ * dropdown popper — out of the view-transition snapshots so they never appear
+ * inside the radial reveal (and so the dropdown hides instantly on click).
+ * Scope to `.v-popper__popper` so only the teleported popover is hidden:
+ * floating-vue also stamps `.v-popper--theme-theme-selector` onto the trigger
+ * wrapper around the navbar toggle button, and hiding that would blank out the
+ * sun/moon icon for the whole reveal. */
+html.theme-view-transition .VPNavScreen,
+html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
+  display: none !important;
 }

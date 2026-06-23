@@ -19,7 +19,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          fetch-depth: 1
+          # Full history so generate-removed.js can read git log for the
+          # "recently removed" page.
+          fetch-depth: 0
       - uses: pnpm/action-setup@v6
       - name: Setup Node
         uses: actions/setup-node@v6

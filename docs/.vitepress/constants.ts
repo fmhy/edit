@@ -298,7 +298,6 @@ export const search: DefaultTheme.Config['search'] = {
             .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
-          // biome-ignore lint/style/noParameterAssign: h
           term = term
             .trim()
             .toLowerCase()

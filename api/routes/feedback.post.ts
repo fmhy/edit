@@ -19,6 +19,11 @@ import {
   getFeedbackOption
 } from '../../docs/.vitepress/types/Feedback'
 
+/** Escape triple backticks so user input can't break the embed's code-block formatting. */
+function sanitizeForDiscord(input: string): string {
+  return input.replace(/```/g, "'''")
+}
+
 export default defineEventHandler(async (event) => {
   const { message, page, type, heading } = await readValidatedBody(
     event,
@@ -35,7 +40,7 @@ export default defineEventHandler(async (event) => {
     },
     {
       name: 'Message',
-      value: message,
+      value: sanitizeForDiscord(message),
       inline: false
     }
   ]
@@ -43,7 +48,7 @@ export default defineEventHandler(async (event) => {
   if (heading) {
     fields.unshift({
       name: 'Section',
-      value: heading,
+      value: sanitizeForDiscord(heading),
       inline: true
     })
   }
@@ -53,7 +58,7 @@ export default defineEventHandler(async (event) => {
     getHeader(event, 'x-forwarded-for') ||
     event.node.req.socket.remoteAddress
 
-  const cf = event.context.cloudflare
+  const cf = event.context.cloudflare as any
   if (clientIP && cf?.env?.RATE_LIMITER) {
     const key = `feedback:${clientIP}`
     const { success } = await cf.env.RATE_LIMITER.limit({ key })
@@ -72,8 +77,8 @@ export default defineEventHandler(async (event) => {
     },
     body: JSON.stringify({
       username: 'Feedback',
-      avatar_url:
-        'https://i.kym-cdn.com/entries/icons/facebook/000/043/403/cover3.jpg',
+      // Self-hosted so the avatar can't break if a third-party host changes it.
+      avatar_url: 'https://fmhy.net/feedback-avatar.jpg',
       embeds: [
         {
           color: 3447003,
@@ -85,8 +90,12 @@ export default defineEventHandler(async (event) => {
   })
 
   if (!response.ok) {
+    const body = await response.text().catch(() => 'Could not read body')
+    console.error(
+      `Discord webhook failed: ${response.status} ${response.statusText} - ${body}`
+    )
     throw createError({
-      statusCode: response.status,
+      statusCode: 502,
       statusMessage: 'Failed to send feedback to Discord'
     })
   }

@@ -81,8 +81,11 @@ function platformClass() {
   ].join(' ')
 }
 
+let handleKeyDown: ((e: KeyboardEvent) => void) | null = null
+let handleKeyUp: ((e: KeyboardEvent) => void) | null = null
+
 onMounted(() => {
-  const handleKeyDown = (e: KeyboardEvent) => {
+  handleKeyDown = (e: KeyboardEvent) => {
     const active = document.activeElement
     const isSearchFocused = inputRef.value === active
 
@@ -120,17 +123,17 @@ onMounted(() => {
     if (e.altKey) showShortcuts.value = true
   }
 
-  const handleKeyUp = (e: KeyboardEvent) => {
+  handleKeyUp = (e: KeyboardEvent) => {
     if (!e.altKey) showShortcuts.value = false
   }
 
   window.addEventListener('keydown', handleKeyDown)
   window.addEventListener('keyup', handleKeyUp)
+})
 
-  onUnmounted(() => {
-    window.removeEventListener('keydown', handleKeyDown)
-    window.removeEventListener('keyup', handleKeyUp)
-  })
+onUnmounted(() => {
+  if (handleKeyDown) window.removeEventListener('keydown', handleKeyDown)
+  if (handleKeyUp) window.removeEventListener('keyup', handleKeyUp)
 })
 </script>
 

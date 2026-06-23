@@ -64,6 +64,7 @@ import {
   watchEffect
 } from 'vue'
 import { sidebar } from '../../shared'
+import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
 import {
   cancelPendingScroll,
   pendingScrollQuery,
@@ -1777,7 +1778,7 @@ function isSamePageComparison(destPath: string) {
                         :key="titleIndex"
                         class="title"
                       >
-                        <span class="text" v-html="t" />
+                        <span class="text" v-html="sanitizeSearchHtml(t)" />
                         <span class="vpi-chevron-right local-search-icon" />
                       </span>
                       <span class="title main">
@@ -1786,13 +1787,16 @@ function isSamePageComparison(destPath: string) {
                           class="result-link"
                           :aria-label="[...p.titles, p.title].join(' > ')"
                         >
-                          <span class="text" v-html="p.title" />
+                          <span
+                            class="text"
+                            v-html="sanitizeSearchHtml(p.title)"
+                          />
                         </a>
                       </span>
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
                       <div v-if="p.text" class="excerpt" inert>
-                        <div class="vp-doc" v-html="p.text" />
+                        <div class="vp-doc" v-html="sanitizeRichHtml(p.text)" />
                       </div>
 
                       <div class="excerpt-gradient-bottom" />
