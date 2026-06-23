@@ -367,6 +367,63 @@ function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
   )
 }
 
+// A stored URL with its host parts parsed once at index-build time so the hot
+// search path never re-strips/-splits the same URL on every keystroke.
+interface UrlRecord {
+  id: string
+  hostPath: string // host + path (e.g. "github.com/yt-dlp")
+  host: string // host only (e.g. "github.com")
+  label: string // registrable label (e.g. "pi-hole")
+  registrable: string // registrable domain (e.g. "pi-hole.net")
+  compactHost: string // punctuation-stripped host
+  compactLabel: string // punctuation-stripped label
+  isShared: boolean // host/registrable is a suppressed shared platform
+}
+
+// Flatten customMetadata into one parsed record per stored URL. Recomputed only
+// when the metadata changes (locale switch / HMR), not per search, so the parse
+// cost is paid once instead of on every keystroke (see findUrlMatches).
+const urlIndex = computed<UrlRecord[]>(() => {
+  const records: UrlRecord[] = []
+  for (const id in customMetadata.value) {
+    const urls = customMetadata.value[id].u
+    if (!urls) continue
+    for (const url of urls) {
+      // Stored URLs are already normalized + scheme/www-stripped at build time.
+      const hostPath = stripSchemeAndWww(url)
+      const host = hostPath.split(/[/?#]/)[0]
+      const { label, registrable } = urlRegistrable(host)
+      records.push({
+        id,
+        hostPath,
+        host,
+        label,
+        registrable,
+        compactHost: compactUrlValue(host),
+        compactLabel: compactUrlValue(label),
+        isShared:
+          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)
+      })
+    }
+  }
+  return records
+})
+
+// Match a pre-parsed record against the query. Mirrors urlMatchesNormalizedUrl
+// exactly, but reads the precomputed host parts instead of re-deriving them.
+function recordMatches(rec: UrlRecord, urlQuery: UrlQuery) {
+  if (urlQuery.mode === 'path') {
+    return rec.hostPath.includes(urlQuery.needle)
+  }
+  if (rec.isShared) return false
+  const haystacks = urlQuery.matchFullHost
+    ? [rec.host, rec.compactHost]
+    : [rec.label, rec.compactLabel]
+  return urlQuery.needles.some((needle) =>
+    haystacks.some((haystack) => haystack.includes(needle))
+  )
+}
+
 const searchIndex = computedAsync(async () => {
   const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
   if (!rawIndex) return null
@@ -576,25 +633,23 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
   // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
   // can flood the result list, even past the matching heuristics.
   const perDomain = new Map<string, number>()
-  for (const [id, meta] of Object.entries(customMetadata.value)) {
-    // Stored URLs are already normalized + scheme/www-stripped at build time,
-    // so no per-URL normalization is needed here on the hot search path.
-    const matchedUrl = meta.u?.find((url) =>
-      urlMatchesNormalizedUrl(url, urlQuery)
-    )
-    if (!matchedUrl) continue
+  // One entry can own several URLs; mirror the old `meta.u.find` by taking the
+  // first matching URL per entry and counting that entry at most once.
+  const seenIds = new Set<string>()
+  for (const rec of urlIndex.value) {
+    if (seenIds.has(rec.id)) continue
+    if (!recordMatches(rec, urlQuery)) continue
+    seenIds.add(rec.id)
 
-    const host = stripSchemeAndWww(matchedUrl).split(/[/?#]/)[0]
-    const { registrable } = urlRegistrable(host)
-    const seen = perDomain.get(registrable) ?? 0
+    const seen = perDomain.get(rec.registrable) ?? 0
     if (seen >= MAX_URL_MATCHES_PER_DOMAIN) continue
 
-    const storedFields = index.getStoredFields(id) as Result | undefined
+    const storedFields = index.getStoredFields(rec.id) as Result | undefined
     if (!storedFields) continue
 
-    perDomain.set(registrable, seen + 1)
+    perDomain.set(rec.registrable, seen + 1)
     matches.push({
-      id,
+      id: rec.id,
       score: 1,
       terms: [query],
       queryTerms: [query],
@@ -1985,7 +2040,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                 :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
                 @click="toggleUrlSearch"
               >
-                <span class="url-icon">@</span>
+                <span class="url-icon i-lucide:link" />
                 <span class="visually-hidden">
                   {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
                 </span>
@@ -2997,9 +3052,8 @@ svg {
 }
 
 .toggle-url-button .url-icon {
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 1;
+  width: 18px;
+  height: 18px;
 }
 
 .toggle-url-button:hover {
