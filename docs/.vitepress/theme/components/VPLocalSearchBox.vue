@@ -112,7 +112,9 @@ interface BoostFlags {
   hasStarredPrefix: boolean
   hasPrefix: boolean
   hasStarredWord: boolean
+  hasStarredUrl: boolean
   hasLinkWord: boolean
+  hasLinkUrl: boolean
 }
 
 const vitePressData = useData()
@@ -861,8 +863,10 @@ debouncedWatch(
     //   3. starredPrefix \u2013 query is a prefix of a starred-bold hyperlink
     //   4. prefix        \u2013 query is a prefix of any hyperlink
     //   5. starredWord   \u2013 a query term is a word inside a starred hyperlink
-    //   6. linkWord      \u2013 a query term is a word inside any hyperlink
-    //   7. raw score (title/text match, etc.)
+    //   6. starredUrl    \u2013 a starred entry matched only on a link's URL
+    //   7. linkWord      \u2013 a query term is a word inside any hyperlink
+    //   8. linkUrl       \u2013 a non-starred entry matched only on a link's URL
+    //   9. raw score (title/text match, etc.)
     // Bold-without-star is treated as a regular link (no special tier).
     // "Prefix"/"exact" compare the full query against the whole hyperlink text,
     // not against individual tokens. Strip zero-width characters from the
@@ -909,6 +913,15 @@ debouncedWatch(
       processPhrases(meta?.s, true)
       processPhrases(meta?.l, false)
 
+      // URL matches hit the href, not the visible link text, so the phrase
+      // tiers above never fire for them. Give them their own tier keyed off
+      // whether the entry is starred, so a starred-link URL match interleaves
+      // with the other curated results instead of sinking to the bottom on raw
+      // score alone.
+      const isStarred = !!meta?.s?.length
+      const hasStarredUrl = !!r.urlMatched && isStarred
+      const hasLinkUrl = !!r.urlMatched && !isStarred
+
       return {
         ...r,
         hasStarredExact,
@@ -916,7 +929,9 @@ debouncedWatch(
         hasStarredPrefix,
         hasPrefix,
         hasStarredWord,
-        hasLinkWord
+        hasStarredUrl,
+        hasLinkWord,
+        hasLinkUrl
       }
     })
 
@@ -926,7 +941,9 @@ debouncedWatch(
       'hasStarredPrefix',
       'hasPrefix',
       'hasStarredWord',
-      'hasLinkWord'
+      'hasStarredUrl',
+      'hasLinkWord',
+      'hasLinkUrl'
     ]
 
     boostedResults.sort((a, b) => {
