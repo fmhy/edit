@@ -234,6 +234,7 @@ const URL_HOST_SUFFIXES = new Set([
   'github.io',
   'gitlab.io',
   'pages.dev',
+  'workers.dev',
   'vercel.app',
   'netlify.app',
   'web.app',
@@ -293,6 +294,11 @@ const URL_SHARED_DOMAINS = new Set([
 const MAX_URL_MATCHES_PER_DOMAIN = 8
 const MAX_URL_MATCHES_TOTAL = 60
 
+// Below this length a bare query only matches a label by prefix/exact, never a
+// mid-label substring: "wco" should hit "wcofun" but not "showcode". Longer
+// needles keep substring matching so intentional fragments still work.
+const MIN_SUBSTRING_NEEDLE_LENGTH = 4
+
 // Punctuation-insensitive form so "pihole" matches "pi-hole".
 function compactUrlValue(value: string) {
   return value.replace(/[^a-z0-9]/g, '')
@@ -324,6 +330,11 @@ interface UrlQuery {
   // domain mode: match the full host (query had a TLD, e.g. "pi-hole.net")
   // rather than the registrable label.
   matchFullHost: boolean
+  // The user typed a scheme ("https://") or leading "www." — a literal
+  // start-of-URL signal, so anchor to the host start (prefix) instead of
+  // matching the needle anywhere inside the label. Keeps "https://wco" off
+  // "showcode.app" (where "wco" sits mid-label) while still hitting "wcofun".
+  anchored: boolean
 }
 
 // Parse the query once so it can be tested against many stored URLs cheaply.
@@ -332,10 +343,19 @@ function buildUrlQuery(query: string): UrlQuery | null {
   const normalized = normalizeUrlSearchValue(query)
   if (normalized.length < 3) return null
 
+  // A typed scheme or leading "www." anchors the match to the host start.
+  const anchored =
+    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
   const stripped = stripSchemeAndWww(normalized)
   // A "/" means the user typed a path, so match against host + path directly.
   if (stripped.includes('/')) {
-    return { mode: 'path', needle: stripped, needles: [], matchFullHost: false }
+    return {
+      mode: 'path',
+      needle: stripped,
+      needles: [],
+      matchFullHost: false,
+      anchored
+    }
   }
   // A "." means the user typed a domain with its TLD (pi-hole.net) → match the
   // full host. Otherwise it's a bare word → match the registrable label.
@@ -345,7 +365,8 @@ function buildUrlQuery(query: string): UrlQuery | null {
     needles: [
       ...new Set([stripped, compactUrlValue(stripped)].filter(Boolean))
     ],
-    matchFullHost: stripped.includes('.')
+    matchFullHost: stripped.includes('.'),
+    anchored
   }
 }
 
@@ -364,9 +385,15 @@ function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
   }
   const target = urlQuery.matchFullHost ? host : label
   const haystacks = [target, compactUrlValue(target)]
-  return urlQuery.needles.some((needle) =>
-    haystacks.some((haystack) => haystack.includes(needle))
-  )
+  return urlQuery.needles.some((needle) => {
+    // Mirror recordMatchRank: anchored queries and short needles match by
+    // prefix only, longer needles also match a mid-label substring.
+    const prefixOnly =
+      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH
+    return haystacks.some((haystack) =>
+      prefixOnly ? haystack.startsWith(needle) : haystack.includes(needle)
+    )
+  })
 }
 
 // A stored URL with its host parts parsed once at index-build time so the hot
@@ -434,8 +461,13 @@ function recordMatchRank(rec: UrlRecord, urlQuery: UrlQuery) {
     : [rec.label, rec.compactLabel]
   let best = 0
   for (const needle of urlQuery.needles) {
+    // Anchored queries (typed scheme / www.) and short needles only accept
+    // exact/prefix matches (strength >= 2), never a mid-label substring.
+    const minStrength =
+      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH ? 2 : 1
     for (const haystack of haystacks) {
-      best = Math.max(best, matchStrength(haystack, needle))
+      const s = matchStrength(haystack, needle)
+      if (s >= minStrength) best = Math.max(best, s)
     }
   }
   return best
