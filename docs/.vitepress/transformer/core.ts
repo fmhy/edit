@@ -38,7 +38,10 @@ export const transformer = (text: string) => {
 
           transforms.forEach(({ name, find, replace }) => {
             consola.debug(`Transforming ${name} with ${find}`)
-            target.text = target.text.replace(find, replace as any)
+            target.text =
+              typeof replace === 'function'
+                ? target.text.replace(find, replace)
+                : target.text.replace(find, replace)
           })
 
           // @ts-expect-error - Proxy is not typed

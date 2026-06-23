@@ -1,4 +1,4 @@
-import { execSync } from 'node:child_process'
+import { execFileSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
 
@@ -51,7 +51,7 @@ function generateRemovedSites() {
     return
   }
 
-  let gitDir = ''
+  let gitDirArgs = []
   // Check if it's a shallow clone (common in Cloudflare/CI)
   const isShallow =
     fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
@@ -61,7 +61,11 @@ function generateRemovedSites() {
       'Shallow clone detected. Fetching history for the last 30 days...'
     )
     try {
-      execSync(`git fetch --shallow-since="${DAYS + 1} days ago" --tags`)
+      execFileSync('git', [
+        'fetch',
+        `--shallow-since=${DAYS + 1} days ago`,
+        '--tags'
+      ])
     } catch (e) {
       console.warn(
         'Warning: Failed to unshallow repository. Results may be incomplete.'
@@ -84,10 +88,15 @@ function generateRemovedSites() {
 
       // Perform a blobless, shallow clone of just the metadata to save time/space
       // We only need the commits since 30 days ago
-      execSync(
-        `git clone --bare --filter=blob:none --shallow-since="${DAYS + 1} days ago" ${REPO_URL} ${TEMP_GIT_DIR}`
-      )
-      gitDir = `--git-dir=${TEMP_GIT_DIR}`
+      execFileSync('git', [
+        'clone',
+        '--bare',
+        '--filter=blob:none',
+        `--shallow-since=${DAYS + 1} days ago`,
+        REPO_URL,
+        TEMP_GIT_DIR
+      ])
+      gitDirArgs = [`--git-dir=${TEMP_GIT_DIR}`]
       console.log('Temporary history fetched successfully.')
     } catch (e) {
       console.warn(
@@ -99,15 +108,31 @@ function generateRemovedSites() {
 
   // Ensure the directory is marked as safe for git (common issue in Docker)
   try {
-    execSync(`git ${gitDir} config --global --add safe.directory /app`)
+    execFileSync('git', [
+      ...gitDirArgs,
+      'config',
+      '--global',
+      '--add',
+      'safe.directory',
+      '/app'
+    ])
   } catch (e) {
     // Ignore error if it fails
   }
 
   // Get git log with diffs
   // We use a custom separator to make parsing easier
-  const logOutput = execSync(
-    `git ${gitDir} log --since="${DAYS} days ago" --pretty=format:"---COMMIT---%H---MSG---%s" -p --unified=0 docs/`,
+  const logOutput = execFileSync(
+    'git',
+    [
+      ...gitDirArgs,
+      'log',
+      `--since=${DAYS} days ago`,
+      '--pretty=format:---COMMIT---%H---MSG---%s',
+      '-p',
+      '--unified=0',
+      'docs/'
+    ],
     { maxBuffer: 10 * 1024 * 1024 }
   ).toString()
 
@@ -294,9 +319,9 @@ function generateRemovedSites() {
   )
 
   // Cleanup temporary git dir
-  if (gitDir.includes('.git-temp')) {
+  if (gitDirArgs.length > 0) {
     try {
-      const tempDir = gitDir.split('=')[1]
+      const tempDir = gitDirArgs[0].split('=')[1]
       fs.rmSync(tempDir, { recursive: true, force: true })
     } catch (e) {
       // Ignore cleanup errors

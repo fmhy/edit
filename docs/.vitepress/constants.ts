@@ -181,6 +181,52 @@ function extractLinkMetadata(html: string) {
   }
 }
 
+// Remove note/infobox custom blocks from the search HTML, depth-counting <div>
+// tags so a block is fully removed even when it nests other <div>s (code fences
+// render as <div class="language-*">, wrapped components add their own). A flat
+// non-greedy regex would stop at the first inner </div> and leak the note prose.
+// Matches any admonition/infobox custom-block opener — :::tip/:::info/:::warning
+// /:::danger AND GitHub-style alerts (> [!NOTE] etc.) which render with extra
+// classes like `info custom-block github-alert`. Excludes `:::details` (kept
+// searchable; it renders as a <details> tag anyway, so this is belt-and-braces).
+// The trailing [ "] ensures we match the `custom-block` class token whether it is
+// followed by more classes (a space) or the closing quote, but never the
+// `custom-block-title` label.
+const NOTE_BLOCK_OPEN_RE = /<div class="(?!details )[a-z-]+ custom-block[ "]/i
+const DIV_TAG_RE = /<div\b[^>]*?(\/?)>|<\/div>/gi
+function stripNoteBlocks(html: string): string {
+  let out = ''
+  let cursor = 0 // start of the not-yet-emitted slice
+  let depth = 0 // nesting depth of open <div>s
+  let noteDepth = -1 // depth at which the active note block opened (-1 = none)
+  let match: RegExpExecArray | null
+  DIV_TAG_RE.lastIndex = 0
+  while ((match = DIV_TAG_RE.exec(html)) !== null) {
+    const isClose = match[0].startsWith('</')
+    const isSelfClosing = !isClose && match[1] === '/'
+    if (isClose) {
+      depth--
+      if (noteDepth !== -1 && depth === noteDepth) {
+        // matching close for the active note block: drop everything inside it
+        cursor = DIV_TAG_RE.lastIndex
+        noteDepth = -1
+      }
+    } else if (!isSelfClosing) {
+      if (noteDepth === -1 && NOTE_BLOCK_OPEN_RE.test(match[0])) {
+        out += html.slice(cursor, match.index) // flush text before the note
+        noteDepth = depth
+      }
+      depth++
+    }
+  }
+  // Emit the trailing slice only when not inside an unterminated note block;
+  // otherwise malformed/unbalanced HTML (a note <div> that never closes) would
+  // re-emit the note prose we meant to drop. VitePress output is balanced, so
+  // this is defensive only.
+  if (noteDepth === -1) out += html.slice(cursor)
+  return out
+}
+
 export const search: DefaultTheme.Config['search'] = {
   options: {
     _render(src, env, md) {
@@ -231,6 +277,14 @@ export const search: DefaultTheme.Config['search'] = {
       let html = md.render(contents, env)
       // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
       html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')
+      // Strip note/infobox custom blocks (:::tip/:::info/:::warning/:::danger,
+      // also produced by **Note**/**Warning**/!!!note) so their prose doesn't get
+      // indexed. Otherwise a note mentioning e.g. "uBlock Origin" outranks (and
+      // hijacks the excerpt of) the real curated link. Runs before
+      // _splitIntoSections so links living only inside a note aren't registered
+      // as curated either. Nesting-aware so a note containing a code fence or
+      // wrapped component (which render as nested <div>s) is still fully removed.
+      html = stripNoteBlocks(html)
       return html
     },
     miniSearch: {
@@ -308,7 +362,6 @@ export const search: DefaultTheme.Config['search'] = {
             .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
             .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
         processTerm: (term: string, fieldName?: string): any => {
-          // biome-ignore lint/style/noParameterAssign: h
           term = term
             .trim()
             .toLowerCase()

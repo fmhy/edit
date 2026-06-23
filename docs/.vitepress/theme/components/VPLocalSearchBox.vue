@@ -65,6 +65,12 @@ import {
   watchEffect
 } from 'vue'
 import { sidebar, stripSchemeAndWww } from '../../shared'
+import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
+import {
+  cancelPendingScroll,
+  pendingScrollQuery,
+  scheduleScrollToMatch
+} from '../composables/searchScroll'
 import Tooltip from './Tooltip.vue'
 
 defineEmits<{
@@ -1389,7 +1395,18 @@ async function processExcerpts(
             let html = ''
             let next: Element | null = heading.nextElementSibling
             while (next && !/^h[1-6]$/i.test(next.tagName)) {
-              html += next.outerHTML
+              // Skip note/infobox custom blocks (:::tip/:::info/:::warning/
+              // :::danger) so the excerpt highlights the real curated link
+              // instead of a note that merely mentions the query. Mirrors the
+              // index-time strip in constants.ts so preview and ranking agree.
+              const cls = next.classList
+              const isNoteBlock =
+                cls.contains('custom-block') &&
+                (cls.contains('tip') ||
+                  cls.contains('info') ||
+                  cls.contains('warning') ||
+                  cls.contains('danger'))
+              if (!isNoteBlock) html += next.outerHTML
               next = next.nextElementSibling
             }
             map!.set(anchor, html)
@@ -1597,8 +1614,9 @@ onKeyStroke('Enter', (e) => {
 
   if (selectedPackage) {
     addRecentSearch(filterText.value)
-    router.go(selectedPackage.id)
-    close()
+    const idx = results.value.indexOf(selectedPackage)
+    const matchCtx = idx >= 0 ? getMatchContext(idx) : null
+    navigateToResult(selectedPackage.id, matchCtx)
   }
 })
 
@@ -1750,6 +1768,25 @@ function clearAllRecentSearches() {
   nextTick().then(() => focusSearchInput(false))
 }
 
+/**
+ * Extract the text content of the element containing the currently active
+ * match highlight in the search excerpt. This identifies the SPECIFIC item
+ * the user was looking at (e.g., "SpotifyPublic" vs "EeveeSpotifyRevived")
+ * so we scroll to the right one on the page.
+ */
+function getMatchContext(resultIndex: number): string | null {
+  const marks = resultMarks.value.get(resultIndex)
+  const curr = currentMarkIndex.value.get(resultIndex) ?? 0
+  if (!marks || !marks[curr] || marks[curr].length === 0) return null
+
+  const mark = marks[curr][0]
+  // Find the closest content container (same selectors used on the actual page)
+  const container = mark.closest('li, p, td, dd, blockquote')
+  if (!container) return null
+
+  return container.textContent?.trim() || null
+}
+
 function handleResultClick(e: MouseEvent, id: string) {
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) {
     return
@@ -1757,32 +1794,55 @@ function handleResultClick(e: MouseEvent, id: string) {
   e.preventDefault()
   addRecentSearch(filterText.value)
 
+  // Find which result index was clicked to get the match context
+  const index = results.value.findIndex((r) => r.id === id)
+  const matchContext = index >= 0 ? getMatchContext(index) : null
+  navigateToResult(id, matchContext)
+}
+
+function navigateToResult(id: string, matchContext: string | null = null) {
+  // Dismiss mobile keyboard immediately by blurring the active input.
+  // This triggers a viewport resize so we calculate the correct scroll position.
+  if (
+    typeof document !== 'undefined' &&
+    document.activeElement instanceof HTMLElement
+  ) {
+    document.activeElement.blur()
+  }
+
   const [path, hash] = id.split('#')
+  const query = filterText.value
   let decodedHash: string | null = null
   try {
     decodedHash = hash ? decodeURIComponent(hash) : null
   } catch {
     /* malformed URI */
   }
+
+  // Cancel any previous scroll-to-match operation
+  cancelPendingScroll()
+
   if (decodedHash && isSamePageComparison(path)) {
     const targetEl = document.getElementById(decodedHash)
     if (targetEl) {
       close()
-      const navEl = document.querySelector('.VPNavBar')
-      const navHeight = navEl ? navEl.clientHeight : 64
-      const targetY = Math.max(
-        0,
-        targetEl.getBoundingClientRect().top + window.scrollY - navHeight - 16
-      )
-
-      fastScrollTo(targetY, 300)
       window.history.pushState(null, '', `#${hash}`)
+      // Single scroll directly to the matching element. For same-page,
+      // use a longer delay on mobile so the virtual keyboard can dismiss
+      // and the viewport height can settle before scrolling.
+      const isMobile = typeof window !== 'undefined' && window.innerWidth < 768
+      const delay = isMobile ? 300 : 80
+      scheduleScrollToMatch(hash, query, delay, matchContext)
       return
     }
   }
 
-  router.go(id)
+  // Cross-page navigation: store query (with destination path so the router
+  // hook can reject it if a different navigation supersedes this one), close
+  // modal, start navigation.
+  pendingScrollQuery.value = { query, matchContext, path }
   close()
+  router.go(id)
 }
 
 function resetSearch() {
@@ -1909,42 +1969,6 @@ function isSamePageComparison(destPath: string) {
   const current = clean(window.location.pathname) || '/'
   const dest = clean(destPath) || '/'
   return current === dest
-}
-
-let activeScrollRAF = 0
-let savedScrollBehavior = ''
-
-function fastScrollTo(targetY: number, duration = 150) {
-  if (typeof window === 'undefined') return
-  const htmlEl = document.documentElement
-
-  if (!activeScrollRAF) {
-    savedScrollBehavior = htmlEl.style.scrollBehavior
-    htmlEl.style.scrollBehavior = 'auto'
-  } else {
-    cancelAnimationFrame(activeScrollRAF)
-  }
-
-  const startY = window.scrollY
-  const difference = targetY - startY
-  const startTime = performance.now()
-
-  function step(currentTime: number) {
-    const elapsed = currentTime - startTime
-    const progress = Math.min(elapsed / duration, 1)
-    const ease = 1 - Math.pow(1 - progress, 3)
-
-    window.scrollTo(0, startY + difference * ease)
-
-    if (progress < 1) {
-      activeScrollRAF = requestAnimationFrame(step)
-    } else {
-      htmlEl.style.scrollBehavior = savedScrollBehavior
-      activeScrollRAF = 0
-    }
-  }
-
-  activeScrollRAF = requestAnimationFrame(step)
 }
 </script>
 
@@ -2128,7 +2152,7 @@ function fastScrollTo(targetY: number, duration = 150) {
                         :key="titleIndex"
                         class="title"
                       >
-                        <span class="text" v-html="t" />
+                        <span class="text" v-html="sanitizeSearchHtml(t)" />
                         <span class="vpi-chevron-right local-search-icon" />
                       </span>
                       <span class="title main">
@@ -2137,13 +2161,16 @@ function fastScrollTo(targetY: number, duration = 150) {
                           class="result-link"
                           :aria-label="[...p.titles, p.title].join(' > ')"
                         >
-                          <span class="text" v-html="p.title" />
+                          <span
+                            class="text"
+                            v-html="sanitizeSearchHtml(p.title)"
+                          />
                         </a>
                       </span>
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
                       <div v-if="p.text" class="excerpt" inert>
-                        <div class="vp-doc" v-html="p.text" />
+                        <div class="vp-doc" v-html="sanitizeRichHtml(p.text)" />
                       </div>
 
                       <div class="excerpt-gradient-bottom" />
@@ -2760,13 +2787,21 @@ function fastScrollTo(targetY: number, duration = 150) {
 }
 
 /* Highlight styles - default state */
-.titles :deep(mark),
 .excerpt :deep(mark) {
   background-color: var(--vp-local-search-highlight-bg);
   color: var(--vp-local-search-highlight-text);
   border-radius: 2px;
   padding: 0 2px;
   margin: 0 -2px;
+  transition: background-color 0.2s;
+}
+
+.titles :deep(mark) {
+  background-color: var(--vp-local-search-highlight-bg);
+  color: var(--vp-local-search-highlight-text);
+  border-radius: 2px;
+  padding: 0;
+  margin: 0;
   transition: background-color 0.2s;
 }
 

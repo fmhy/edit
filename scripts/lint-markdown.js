@@ -19,7 +19,9 @@ function getDocsFiles(dir) {
   return mdFiles
 }
 
-const files = getDocsFiles(DOCS_DIR)
+const args = process.argv.slice(2)
+const files =
+  args.length > 0 ? args.map((f) => path.resolve(f)) : getDocsFiles(DOCS_DIR)
 let hasErrors = false
 
 console.log('🔍 Scanning markdown files for formatting issues...\n')

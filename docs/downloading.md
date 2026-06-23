@@ -4,94 +4,11 @@
 ***
 ***
 
-# ► Download Directories
-
-* **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
-
-***
-
-* 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
-* ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/) / [GitHub](https://github.com/MCOfficer/odcrawler-discovery) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, Mac, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/sldl)
-* [eMule](https://www.emule-project.com/) - File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)
-* [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
-* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
-* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
-* [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
-* [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
-* [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
-* [Defacto2](https://defacto2.net/) - Scene / Sub-Scene Database
-
-***
-
-# ► Download Sites
-
-* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners.
-
-***
-
-* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
-* ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communties
-* [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
-* [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
-* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
-* [WorldSRC](https://www.worldsrc.net/) - Video / Audio
-* [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
-* [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
-* [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
-* [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Requires Sign-Up
-* [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
-* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
-* [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
-* [Merlin Warez](https://merlinwz.com/) - Audio / Books / Audiobooks / Comics / Magazines
-* [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
-* [WarezLoad](https://warezload.net/index.php) - Audio / Books
-* [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
-* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
-* [downTURK](https://www.downturk.net/) - Audio / Books
-* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
-
-***
-
-## ▷ Search Sites
-
-* **Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
-
-***
-
-* ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
-* ⭐ **[4Shared](https://www.4shared.com/)**
-* [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
-* [Linktury](https://www.ddlspot.com/)
-* [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
-* [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
-* [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
-
-***
-
-## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
-
-***
-
-## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
-
-***
-
-## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
-
-***
-
-## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
-
-***
-
-## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)
-
 ***
 
 # ► Software Sites
 
-* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation or run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+* **Note** - Always scan downloaded software with **[VirusTotal](https://www.virustotal.com/gui/)** before installation and run it in a sandboxed environment like **[Triage](https://tria.ge/)** to prevent system compromise. Note that any apps with fake names are generally not worth using. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
 ***
 
@@ -100,10 +17,12 @@
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [AIOWares](https://www.aiowares.com/) - Software Forum
+* [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Moum](https://moum.top/en/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels
@@ -170,15 +89,88 @@
 
 ***
 
-## ▷ IRC Tools
+# ► Download Directories
 
-* 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
-* 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
-* [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, Mac, Linux
-* [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
-* [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web
-* [Libera](https://libera.chat/), [tilde](https://tilde.chat/), [AnonOps](https://anonops.com/) or [Rizon](https://rizon.net/) - IRC Networks
+* **Note** - Some Open Directories track IP addresses. Always use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) or [Tor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy) when accessing these resources.
+
+***
+
+* 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
+* ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/) / [GitHub](https://github.com/MCOfficer/odcrawler-discovery) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, Mac, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/sldl)
+* [eMule](https://www.emule-project.com/) - File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)
+* [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
+* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
+* [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
+* [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
+* [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
+* [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
+* [Defacto2](https://defacto2.net/) - Scene / Sub-Scene Database
+
+***
+
+# ► Download Sites
+
+* **Note** - General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip link shorteners. Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+
+***
+
+* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+* ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communties
+* [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
+* [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
+* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
+* [WorldSRC](https://www.worldsrc.net/) - Video / Audio
+* [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
+* [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
+* [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
+* [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Requires Sign-Up
+* [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
+* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
+* [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
+* [Merlin Warez](https://merlinwz.com/) - Audio / Books / Audiobooks / Comics / Magazines
+* [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
+* [WarezLoad](https://warezload.net/index.php) - Audio / Books
+* [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
+* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
+* [downTURK](https://www.downturk.net/) - Audio / Books
+* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
+
+***
+
+## ▷ Search Sites
+
+* **Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
+
+***
+
+* ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
+* ⭐ **[4Shared](https://www.4shared.com/)**
+* [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
+* [Linktury](https://www.ddlspot.com/)
+* [MediafireTrend](https://mediafiretrend.com/) - Mediafire Search
+* [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
+* [SunXDCC](https://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
+
+***
+
+## ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
+
+***
+
+## ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading)
+
+***
+
+## ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading)
+
+***
+
+## ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+
+***
+
+## ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)
 
 ***
 
@@ -206,6 +198,7 @@
 * [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
+* [⁠aninzb](https://aninzb.moe/) - Anime NZB Indexer
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [altHUB](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
@@ -238,11 +231,23 @@
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* [⁠Cocoleech](https://cocoleech.com/premium-link-generator), [⁠Downloader Zone](https://debrid.downloader.zone/) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
+* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
 * [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.org/), [2](https://pixeldrain-bypass.gamedrive.to/) - Bypass PixelDrain Link Speed Limits
 * [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/), [⁠Debrid Vault](https://debridvault.elfhosted.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers / Cloud Managers
+
+***
+
+# ► IRC Tools
+
+* 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
+* 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
+* [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
+* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, Mac, Linux
+* [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
+* [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web
+* [Libera](https://libera.chat/), [tilde](https://tilde.chat/), [AnonOps](https://anonops.com/) or [Rizon](https://rizon.net/) - IRC Networks
 
 ***
 
