@@ -190,6 +190,7 @@
 * [PyDPainter](https://pydpainter.org/) - Bitmap Graphics Editor / Windows, Mac, Linux / [GitHub](https://github.com/mriale/PyDPainter)
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, Mac
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
+* [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, Mac, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)
 * [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor

@@ -1105,6 +1105,7 @@
 * [Jumpinto](https://rentry.co/FMHYB64#jumpinto) or [IELTS69](https://www.ielts69.com/) - Cambridge English Practice Tests
 * [⁠IELTS Liz](https://ieltsliz.com/) - IELTS Test Preparation
 * [yell0wsuit](https://yell0wsuit.page/english.html) or [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Word Learning Site
+* [⁠English Phrasal Verbs](https://little-brother.github.io/english-phrasal-verbs/) - English Phrasal Verb Practice
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
@@ -1612,6 +1613,7 @@
 * [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [AllFreeDumps](https://www.allfreedumps.com/) or [⁠PDF Tube](https://pdf.tube/) - Exam Papers / Study
+* [⁠Mojza](https://mojza.org/) - Exam Study Notes
 * [⁠Get Sum Math](https://www.getsummath.com/) - GED Prep / Practice
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool

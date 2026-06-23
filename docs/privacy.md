@@ -445,7 +445,7 @@
 # ► Proxy
 
 * [Psiphon](https://psiphon.ca/) - Hybrid Proxy VPN App
-* [Lantern](https://lantern.io/) - Proxy App / Slowed Past 250MB / [GitHub](https://github.com/getlantern/lantern)
+* [Lantern](https://lantern.io/) - Proxy App / [GitHub](https://github.com/getlantern/lantern)
 * [FreeSocks](https://freesocks.org/) - Shadowsocks App / [GitHub](https://github.com/unredacted/freesocks-control-plane)
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
