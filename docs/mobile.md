@@ -206,7 +206,7 @@
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer-Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
 * ⭐ **[XDA](https://xdaforums.com/)** / [Discord](https://discord.com/invite/e4v8qtkcBw) or [4PDA](https://4pda.to/forum/) - Android Discussion Forums
-* ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [WebUI](https://80bee.com/) / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/ismartcoding/plain-docs), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
+* ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [WebUI](https://80bee.com/) / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/plainhub/plain-app), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
 * [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
@@ -590,7 +590,7 @@
 * ⭐ **[Material Files](https://github.com/zhanghai/MaterialFiles)** - File Manager
 * ⭐ **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager)** - File Manager
 * ⭐ **[ZArchiver](https://zdevs.ru/en/)** - File Manager / Archiver
-* ⭐ **[Pairdrop](https://pairdrop.net/)** / [GitHub](https://github.com/fm-sys/snapdrop-android) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - File Sharing 
+* ⭐ **[Pairdrop](https://pairdrop.net/)** / [GitHub](https://github.com/fm-sys/snapdrop-android), [Bada](https://github.com/kyujin-cho/Bada) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - File Sharing 
 * ⭐ **[Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)**, [Total Commander](https://www.ghisler.com/ce.htm), [File Navigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) / [GitHub](https://github.com/w2sv/FileNavigator) or [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Managers / Explorers
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
@@ -876,7 +876,7 @@
 * [⁠QobuzDownloaderX-Mobile](https://github.com/JemPH/QobuzDownloaderX-Mobile) - Qobuz Audio Downloader
 * [NewPipe](https://newpipe.net/) - Multi-Platform Streaming / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
-* [Echo](https://echomusicdocs.vercel.app/) - Multi-Platform Streaming / [Nightly](https://github.com/itsmechinmoy/echo-nightly/) / [Discord](https://discord.com/invite/J3WvbBUU8Z) / [Github](https://github.com/brahmkshatriya/echo)
+* [Echo](https://echomusicdocs.vercel.app/) - Multi-Platform Streaming / [Discord](https://discord.com/invite/J3WvbBUU8Z) / [Github](https://github.com/brahmkshatriya/echo)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Multi-Platform Streaming / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [⁠Eclipse](https://eclipsemusic.app/) - Multi-Platform Streaming / [Discord](https://discord.gg/sNG37F27eY)
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
@@ -1383,7 +1383,7 @@
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
 * [⁠Web Video Cast](https://apps.apple.com/app/web-video-cast-browser-to-tv/id1400866497) - Browser Video to TV Casting App
-* [Eclipse](https://github.com/Soupy-dev/Eclipse) - Movies / TV / Anime / Extension-Based / [Test Flight](https://testflight.apple.com/join/FDXvrxVg)
+* [Eclipse](https://github.com/Soupy-dev/Eclipse) - Movies / TV / Anime / Extension-Based / [Test Flight](https://testflight.apple.com/join/FDXvrxVg) / [Discord](https://discord.gg/UjHgGaEbn)
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Pluto](https://apps.apple.com/app/id751712884) - Movies / TV
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
@@ -1412,6 +1412,7 @@
 
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube App
+* [⁠YTPlusM](https://github.com/Mark02-2012/YTPlusM) - Modded YouTube App
 * [⁠YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA) - YouTube IPA Builder 
 * [⁠ProTube](https://apps.apple.com/app/protube-block-ads-on-video/id6748081431) - YouTube App
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps

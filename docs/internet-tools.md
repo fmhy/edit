@@ -101,28 +101,38 @@
 * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
-* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
-* ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up
-* ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [⁠Prose](https://prose.org/), [⁠Fluux](https://github.com/processone/fluux-messenger/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
-* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
-* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
-* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/)
-* [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - General Chat Apps
-* [Twist](https://twist.com/) - Collaboration Chat Manager
-* [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
-* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root
-* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
-* [Guildbit](https://guildbit.com/) - Voice Chat Servers
-* [⁠Proton Meet](https://proton.me/meet) - Video Chat
-* [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
-* [Videolink2me](https://videolink2me.com/) - Video Chat
-* [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / [GitHub](https://github.com/jitsi/jitsi-meet)
-* [Briefing](https://brie.fi/ng) - Video Chat
-* [Talky](https://talky.io/) - Video Chat
-* [GoTeam](https://goteam.video/) - Video Chat
-* [⁠Linkello](https://call.linkello.com/) - Video Chat
-* [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics
+* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
+* ⭐ **[Mumble](https://www.mumble.info/)**- Voice Chat / Windows, Mac
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
+* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, Mac, Linux
+* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
+* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
+* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
+* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
+* [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
+* [Jam](https://jam.systems/) - Voice Chat / Web
+* [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
+* [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
+* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
+* [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
+* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, Mac, Linux
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
+* [Guildbit](https://guildbit.com/) - Voice Chat Servers / Web
+* [⁠Proton Meet](https://proton.me/meet) - Video Chat / All Platforms
+* [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / Web / [GitHub](https://github.com/miroslavpejic85/mirotalk)
+* [Videolink2me](https://videolink2me.com/) - Video Chat / Web
+* [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / Android, iOS / [GitHub](https://github.com/jitsi/jitsi-meet)
+* [Briefing](https://brie.fi/ng) - Video Chat / Web
+* [Talky](https://talky.io/) - Video Chat / Web
+* [GoTeam](https://goteam.video/) - Video Chat / Web
+* [⁠Linkello](https://call.linkello.com/) - Video Chat / Web
+* [CoyIM](https://coy.im/) - XMPP Client / Windows, Mac, Linux
+* [⁠Prose](https://prose.org/) - XMPP Client / Windows, Mac, Web
+* [⁠Fluux](https://github.com/processone/fluux-messenger/) - XMPP Client / Windows, Mac, Linux, Web
+* [Profanity](https://profanity-im.github.io/) - XMPP Client / Windows, Mac, Linux, Android / [GitHub](https://github.com/profanity-im/profanity)
+* [xabber](https://www.xabber.com/) - XMPP Client / Android, Web
+* [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics / Web
 
 ***
 

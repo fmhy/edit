@@ -680,6 +680,7 @@
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.farm/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
+* [TheMoviesBoss](http://themoviesboss.fans/) - Movies / TV
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [MoviesKai](https://movieskai.top/) - Movies / TV / Sub / Dub / 1080p
@@ -1503,6 +1504,7 @@
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
+* [Pluto Spanish](https://pluto.tv/) - ree w/ Ads
 * [tele-libre](https://tele-libre.fans/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [angulismotv](https://angulismotv.pages.dev) - Live Sports
@@ -1524,12 +1526,12 @@
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / LATAM Only
-* [AtresPlayer](https://www.atresplayer.com/) - Live TV / Movies / TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
 * [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
 * [Cinemargentino](https://www.cinemargentino.com/) - Movies / Documentaries
-* [CCLM](https://www.cclm.cl/cineteca-online) or [Platfo Filmo](https://filmo.platfo.es/pages/home) - Spanish Film Archives
+* [Platfo Filmo](https://filmo.platfo.es/pages/home) - Spanish Film Archives
+* [CCLM](https://www.cclm.cl/cineteca-online) - Chilean Film Archives
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries / [Remove Watermark](https://pastebin.com/e77cHmgm), [2](https://github.com/acridsoul/Clear-Mark)
@@ -1580,6 +1582,7 @@
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [novenadimension](https://foro.novenadimension.com/) - Comics / Downloads
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Text Adventure / Telegram
+* [Librosgratis](https://librosgratis.dev/) - Programming Books / [GitHub](https://github.com/midudev/libros-programacion-gratis)
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals

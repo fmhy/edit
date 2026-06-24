@@ -142,6 +142,7 @@
 * [DuckDB](https://duckdb.org/) - Database Manager
 * [Qdrant](https://qdrant.tech/) - Database Manager
 * [Gel](https://www.geldata.com/) - Database Manager
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database Manager / [GitHub](https://github.com/beekeeper-studio/beekeeper-studio)
 * [AirTable](https://airtable.com/) - Database Manager / Requires Sign-Up
 * [Baserow](https://baserow.io/) - Database Manager / Requires Sign-Up / [GitLab](https://gitlab.com/baserow/baserow)
 * [NocoDB](https://github.com/nocodb/nocodb) - Database Manager / Requires Sign-Up
@@ -274,6 +275,7 @@
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, [Shizuku](https://shizuku.rikka.app/) / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
+* [⁠FreeTheAI](https://freetheai.xyz/) - AI API Gateway
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services

@@ -45,7 +45,7 @@
 ## ▷ Archiving / Compression
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver
+* ⭐ **[NanaZip](https://nanazip.org/)** / [GitHub](https://github.com/M2Team/NanaZip) or **[7-Zip](https://www.7-zip.org/)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver / [GitHub](https://github.com/peazip/PeaZip/)
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums

@@ -117,6 +117,7 @@
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
 * [Rethink DNS](https://rethinkdns.com/configure)
 * [⁠Tiarap](https://tiar.app/)
+* [HaGeZi DNS](https://github.com/hagezi/dns-servers)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
@@ -386,6 +387,7 @@
 * https://monocles.de/
 * https://searx.oloke.xyz/
 * https://searxng.canine.tools/
+* https://searloc.org/
 * https://search.2b9t.xyz/
 * https://search.mdosch.de/
 * https://www.gruble.de/

@@ -15,7 +15,7 @@
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
 * [1337x](https://1337x.to/home/), [2](https://x1337x.cc/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
-* 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
+* 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Steam Store Hover](https://greasyfork.org/scripts/533774) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.fun/) - Video / Audio / Books
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
@@ -39,7 +39,7 @@
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/)
-* [Torrents-CSV](https://torrents-csv.com/)
+* [Torrents-CSV](https://torrents-csv.com/) / [Source](https://codeberg.org/heretic/torrents-csv-server)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [snowfl](https://snowfl.com/)
@@ -79,7 +79,7 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, Mac, Linux
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, Mac, Linux
 * ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
