@@ -114,7 +114,7 @@
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
 * [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) / Windows, Mac, Linux
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
-* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux 
+* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
 * [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, Mac, Linux
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
