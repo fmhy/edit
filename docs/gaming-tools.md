@@ -113,7 +113,7 @@
 * [⁠DriftGuard](https://driftguard.app/) - Test / Calibrate Controller Drift 
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [⁠PadCrafter](https://www.padcrafter.com/) - Controller Scheme Builder 
-* [Gamepad-Tester](https://hardwaretester.com/gamepad) or [Controller Tester](https://controllertest.io/) - Online Controller Testers
+* [Gamepad-Tester](https://hardwaretester.com/gamepad), [Controller Tester](https://controllertest.io/) or [Controller Tester](https://controllertester.co/) - Online Controller Testers
 * [DualSense Tester](https://ds.daidr.me/) - Web ⁠DualSense Tester / [GitHub](https://github.com/daidr/dualsense-tester)
 * [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
