@@ -108,7 +108,7 @@
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
-* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows 
+* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
 * [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
 * [Jam](https://jam.systems/) - Voice Chat / Web
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
