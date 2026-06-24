@@ -17,7 +17,7 @@
 import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
-import { excluded, stripSchemeAndWww } from './shared'
+import { excluded, normalizeSearchUrl } from './shared'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
@@ -103,12 +103,9 @@ function extractLinkMetadata(html: string) {
       .replace(/\s+/g, '')
       .trim()
       .toLowerCase()
-    // Store a normalized, scheme/www-stripped "host[/path]" form so the client
-    // matches without re-normalizing every URL on each keystroke. Drop the
-    // query/hash (opaque ?id=, #wiki_…) and cap the length to keep the index
-    // small at tens-of-thousands-of-URLs scale.
-    const hostPath = stripSchemeAndWww(normalized).split(/[?#]/)[0]
-    const host = hostPath.split('/')[0]
+    // Store the same normalized URL form the client builds from user queries.
+    const hostPath = normalizeSearchUrl(normalized)
+    const host = hostPath.split(/[/?#]/)[0]
     if (!host || URL_SHORTENER_HOSTS.has(host)) return ''
     return hostPath.length > 80 ? hostPath.slice(0, 80) : hostPath
   }

@@ -63,7 +63,7 @@ import {
   watch,
   watchEffect
 } from 'vue'
-import { sidebar, stripSchemeAndWww } from '../../shared'
+import { normalizeSearchUrl, sidebar, stripSchemeAndWww } from '../../shared'
 import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
 import {
   cancelPendingScroll,
@@ -350,7 +350,7 @@ function buildUrlQuery(query: string): UrlQuery | null {
   // A typed scheme or leading "www." anchors the match to the host start.
   const anchored =
     /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
-  const stripped = stripSchemeAndWww(normalized).split(/[?#]/)[0]
+  const stripped = normalizeSearchUrl(normalized)
   // A "/" means the user typed a path, so match against host + path directly.
   if (stripped.includes('/')) {
     return {
@@ -385,10 +385,10 @@ function looksLikeUrlQuery(query: string) {
   )
 }
 
-// `normalizedUrl` is expected already normalized + scheme/www-stripped (the form
-// stored in the index). Callers passing a raw href must normalize first.
+// `normalizedUrl` may be a raw href or the stored normalized form; normalize it
+// here so query params are encoded the same way as build-time URL metadata.
 function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
-  const hostPath = stripSchemeAndWww(normalizedUrl)
+  const hostPath = normalizeSearchUrl(normalizedUrl)
   if (urlQuery.mode === 'path') {
     return hostPath.includes(urlQuery.needle)
   }
@@ -873,10 +873,13 @@ watchDebounced(
           : false
     }
 
-    // Search and retrieve all matches (up to 200 max in memory)
-    const rawResults = index.search(query, searchOptions) as (SearchResult &
-      Result)[]
-    const searchUrls = isUrlSearch.value || looksLikeUrlQuery(filterTextValue)
+    const queryLooksLikeUrl = looksLikeUrlQuery(filterTextValue)
+    // Pasted URLs should search URLs only. Running the normal text index too
+    // turns URL punctuation into generic terms and leaks unrelated results.
+    const rawResults = queryLooksLikeUrl
+      ? []
+      : (index.search(query, searchOptions) as (SearchResult & Result)[])
+    const searchUrls = isUrlSearch.value || queryLooksLikeUrl
     const urlResults = searchUrls ? findUrlMatches(index, filterTextValue) : []
     const mergedResultsById = new Map<string, SearchResult & Result>()
     for (const result of rawResults) {
