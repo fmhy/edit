@@ -974,16 +974,15 @@
 * 🌐 **[Go Magic: How to Play Go](https://gomagic.org/how-to-play-go-rules/)** - Beginner Go Tutorial
 * 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** – Reddit community for Go / Baduk / Weiqi
 * ⭐ **[Online Go Server (OGS)](https://online-go.com/)** – Modern Online Go Platform / [GitHub](https://github.com/online-go)
-* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
-* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Elegant Go Board & SGF Editor 
-* [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
+* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia
+* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Elegant Go Board & SGF Editor / [GitHub](https://github.com/SabakiHQ/Sabaki)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
-* [KataGo Training](https://katagotraining.org/) – Open-Source Neural Network Go AI
-* [The Interactive Way To Go](https://playgo.to/en) – Interactive Beginner Tutorial 
+* [KataGo Training](https://katagotraining.org/) – Open-Source Neural Network Go AI / [GitHub](https://github.com/lightvector/KataGo)
+* [The Interactive Way To Go](https://playgo.to/en) – Interactive Beginner Tutorial
 * [Josekipedia](https://www.josekipedia.com/) – Dictionary for Corner Openings
 * [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro Game Pattern Search Engine
 * [GoProblems](https://goproblems.com/) – Tactical Puzzle Database
-* [GoKibitz](https://gokibitz.com/) – Game Reviews and Community Feedback
+* [GoKibitz](https://gokibitz.com/) – Game Reviews and Community Feedback / [GitHub](https://github.com/neagle/gokibitz)
 * [Baduk.club](https://baduk.club/map/) - Map of Go clubs and Players
 * [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
 * [Igowin](https://smart-games.com/igowin.html) – 9x9 Desktop Go AI for Beginners
