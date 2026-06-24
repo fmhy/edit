@@ -7,7 +7,6 @@ const MAX_SUBSTRING_TERMS = 100
 const MAX_RECENT_SEARCHES = 20
 const MAX_SUGGESTIONS = 3
 const SEARCH_DEBOUNCE_MS = 350
-const FUZZY_THRESHOLD = 0.2
 const MIN_CANDIDATE_POOL = 32
 const MARK_MERGE_DISTANCE_PX = 20
 const MARK_SAME_LINE_THRESHOLD_PX = 5
@@ -31,18 +30,18 @@ const globalMayHaveMore = ref(false)
 </script>
 
 <script lang="ts" setup>
-import type { SearchResult } from 'minisearch'
+import type { Query, SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
-  debouncedWatch,
   onKeyStroke,
   useEventListener,
   useLocalStorage,
   useScrollLock,
-  useSessionStorage
+  useSessionStorage,
+  watchDebounced
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
 import Mark from 'mark.js/src/vanilla.js'
@@ -64,7 +63,7 @@ import {
   watch,
   watchEffect
 } from 'vue'
-import { sidebar, stripSchemeAndWww } from '../../shared'
+import { normalizeSearchUrl, sidebar, stripSchemeAndWww } from '../../shared'
 import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
 import {
   cancelPendingScroll,
@@ -104,6 +103,7 @@ interface Result {
   titles: string[]
   text?: string
   urlMatched?: boolean
+  urlMatchedStarred?: boolean
 }
 
 interface BoostFlags {
@@ -136,7 +136,7 @@ const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
 const customMetadata = shallowRef<
-  Record<string, { l?: string[]; s?: string[]; u?: string[] }>
+  Record<string, { l?: string[]; s?: string[]; u?: string[]; su?: string[] }>
 >({})
 
 const globalLinksData = computed(() => {
@@ -299,6 +299,11 @@ const MAX_URL_MATCHES_TOTAL = 60
 // needles keep substring matching so intentional fragments still work.
 const MIN_SUBSTRING_NEEDLE_LENGTH = 4
 
+function fuzzyTolerance(term: string) {
+  if (term.length < 5) return false
+  return term.length < 9 ? 1 : 2
+}
+
 // Punctuation-insensitive form so "pihole" matches "pi-hole".
 function compactUrlValue(value: string) {
   return value.replace(/[^a-z0-9]/g, '')
@@ -346,7 +351,7 @@ function buildUrlQuery(query: string): UrlQuery | null {
   // A typed scheme or leading "www." anchors the match to the host start.
   const anchored =
     /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
-  const stripped = stripSchemeAndWww(normalized)
+  const stripped = normalizeSearchUrl(normalized)
   // A "/" means the user typed a path, so match against host + path directly.
   if (stripped.includes('/')) {
     return {
@@ -370,10 +375,21 @@ function buildUrlQuery(query: string): UrlQuery | null {
   }
 }
 
-// `normalizedUrl` is expected already normalized + scheme/www-stripped (the form
-// stored in the index). Callers passing a raw href must normalize first.
+function looksLikeUrlQuery(query: string) {
+  const normalized = normalizeUrlSearchValue(query)
+  const stripped = stripSchemeAndWww(normalized)
+  return (
+    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) ||
+    normalized.startsWith('www.') ||
+    stripped.includes('.') ||
+    stripped.includes('/')
+  )
+}
+
+// `normalizedUrl` may be a raw href or the stored normalized form; normalize it
+// here so query params are encoded the same way as build-time URL metadata.
 function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
-  const hostPath = stripSchemeAndWww(normalizedUrl)
+  const hostPath = normalizeSearchUrl(normalizedUrl)
   if (urlQuery.mode === 'path') {
     return hostPath.includes(urlQuery.needle)
   }
@@ -407,6 +423,7 @@ interface UrlRecord {
   compactHost: string // punctuation-stripped host
   compactLabel: string // punctuation-stripped label
   isShared: boolean // host/registrable is a suppressed shared platform
+  starred: boolean // URL came from a starred list item
 }
 
 // Flatten customMetadata into one parsed record per stored URL. Recomputed only
@@ -417,6 +434,7 @@ const urlIndex = computed<UrlRecord[]>(() => {
   for (const id in customMetadata.value) {
     const urls = customMetadata.value[id].u
     if (!urls) continue
+    const starredUrls = new Set(customMetadata.value[id].su ?? [])
     for (const url of urls) {
       // Stored URLs are already normalized + scheme/www-stripped at build time.
       const hostPath = stripSchemeAndWww(url)
@@ -431,7 +449,8 @@ const urlIndex = computed<UrlRecord[]>(() => {
         compactHost: compactUrlValue(host),
         compactLabel: compactUrlValue(label),
         isShared:
-          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)
+          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable),
+        starred: starredUrls.has(url)
       })
     }
   }
@@ -515,6 +534,14 @@ const disableQueryPersistence = computed(() => {
 const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
+
+// URL matching also kicks in automatically when the query *looks* like a URL even with the manual toggle off.
+const urlSearchAuto = computed(
+  () =>
+    !isUrlSearch.value &&
+    !!filterText.value &&
+    looksLikeUrlQuery(filterText.value)
+)
 
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
@@ -687,7 +714,11 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
     const rank = recordMatchRank(rec, urlQuery)
     if (rank === 0) continue
     const existing = candidates.get(rec.id)
-    if (!existing || rank > existing.rank) {
+    if (
+      !existing ||
+      rank > existing.rank ||
+      (rank === existing.rank && rec.starred)
+    ) {
       candidates.set(rec.id, { ...rec, rank })
     }
   }
@@ -697,9 +728,7 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
   // by match strength (exact > prefix > substring). Within-cap order doesn't
   // matter — the merged result set is re-sorted globally by tier/score later.
   const ranked = [...candidates.values()].sort((a, b) => {
-    const aStarred = customMetadata.value[a.id]?.s?.length ? 1 : 0
-    const bStarred = customMetadata.value[b.id]?.s?.length ? 1 : 0
-    return bStarred - aStarred || b.rank - a.rank
+    return Number(b.starred) - Number(a.starred) || b.rank - a.rank
   })
 
   // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
@@ -720,7 +749,8 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
       queryTerms: [query],
       match: {},
       ...storedFields,
-      urlMatched: true
+      urlMatched: true,
+      urlMatchedStarred: rec.starred
     })
     if (matches.length >= MAX_URL_MATCHES_TOTAL) break
   }
@@ -755,7 +785,7 @@ watch(
 )
 
 // 1. Debounced Search watcher: Only runs the index query and gets the raw matching results list
-debouncedWatch(
+watchDebounced(
   () =>
     [
       searchIndex.value,
@@ -791,7 +821,7 @@ debouncedWatch(
       return
     }
 
-    let query: string | object = filterTextValue
+    let query: Query = filterTextValue
     usedSubstringExpansion.value = false
 
     if (isFuzzySearch.value) {
@@ -804,12 +834,12 @@ debouncedWatch(
             {
               queries: parts,
               combineWith: 'AND',
-              fuzzy: FUZZY_THRESHOLD
+              fuzzy: fuzzyTolerance
             },
             {
               queries: [dashed],
               combineWith: 'AND',
-              fuzzy: FUZZY_THRESHOLD
+              fuzzy: fuzzyTolerance
             }
           ]
         }
@@ -843,19 +873,21 @@ debouncedWatch(
 
     // fuzzy only matters for string queries; structured queries carry their own per-clause fuzzy
     const searchOptions = {
-      combineWith: 'AND',
+      combineWith: 'AND' as const,
       fuzzy:
         isFuzzySearch.value && typeof query === 'string'
-          ? FUZZY_THRESHOLD
+          ? fuzzyTolerance
           : false
     }
 
-    // Search and retrieve all matches (up to 200 max in memory)
-    const rawResults = index.search(query, searchOptions) as (SearchResult &
-      Result)[]
-    const urlResults = isUrlSearch.value
-      ? findUrlMatches(index, filterTextValue)
-      : []
+    const queryLooksLikeUrl = looksLikeUrlQuery(filterTextValue)
+    // Pasted URLs should search URLs only. Running the normal text index too
+    // turns URL punctuation into generic terms and leaks unrelated results.
+    const rawResults = queryLooksLikeUrl
+      ? []
+      : (index.search(query, searchOptions) as (SearchResult & Result)[])
+    const searchUrls = isUrlSearch.value || queryLooksLikeUrl
+    const urlResults = searchUrls ? findUrlMatches(index, filterTextValue) : []
     const mergedResultsById = new Map<string, SearchResult & Result>()
     for (const result of rawResults) {
       mergedResultsById.set(result.id, result)
@@ -865,6 +897,8 @@ debouncedWatch(
       if (existing) {
         existing.score += result.score
         existing.urlMatched = true
+        existing.urlMatchedStarred =
+          existing.urlMatchedStarred || result.urlMatchedStarred
       } else {
         mergedResultsById.set(result.id, result)
       }
@@ -950,9 +984,8 @@ debouncedWatch(
       // whether the entry is starred, so a starred-link URL match interleaves
       // with the other curated results instead of sinking to the bottom on raw
       // score alone.
-      const isStarred = !!meta?.s?.length
-      const hasStarredUrl = !!r.urlMatched && isStarred
-      const hasLinkUrl = !!r.urlMatched && !isStarred
+      const hasStarredUrl = !!r.urlMatchedStarred
+      const hasLinkUrl = !!r.urlMatched && !hasStarredUrl
 
       return {
         ...r,
@@ -1149,7 +1182,7 @@ watch(
     // URL matches match on a link's href, which mark.js can't highlight because
     // the query text isn't in the visible link text. Highlight the specific
     // link(s) in the excerpt whose href matched the query.
-    if (isUrlSearch.value) {
+    if (finalResults.some((r) => r.urlMatched)) {
       const urlQuery = buildUrlQuery(filterText.value)
       for (const r of finalResults) {
         if (!r.urlMatched || !urlQuery) continue
@@ -1388,11 +1421,6 @@ interface ComponentModule {
   setup?: unknown
 }
 
-interface VitePressData {
-  frontmatter: Ref<Record<string, unknown>>
-  page: Ref<{ params?: unknown }>
-}
-
 const VDropdownStub = {
   name: 'VDropdown',
   render(this: any) {
@@ -1402,7 +1430,7 @@ const VDropdownStub = {
 
 async function processExcerpts(
   mods: { id: string; mod: ComponentModule }[],
-  vitePressData: VitePressData,
+  vitePressData: ReturnType<typeof useData>,
   isCanceled: () => boolean
 ) {
   for (const { id, mod } of mods) {
@@ -1766,8 +1794,9 @@ const customTitles = {
   nextMatch: 'Next match',
   fuzzyOn: 'Switch to Exact Search',
   fuzzyOff: 'Switch to Fuzzy Search',
-  urlOn: 'Disable URL Search',
-  urlOff: 'Enable URL Search',
+  urlOn: 'Only search names and text',
+  urlOff: 'Search link URLs too',
+  urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches'
 }
@@ -1997,6 +2026,17 @@ function onMouseMove(e: MouseEvent) {
   }
 }
 
+// When the results list (or an item within it) holds focus — e.g. after arrow
+// navigation — a printable keystroke would otherwise be lost. Redirect it back
+// to the search input so the user can keep typing; focusing synchronously in
+// keydown lets the character land in the input.
+function onResultsKeydown(e: KeyboardEvent) {
+  if (e.ctrlKey || e.metaKey || e.altKey) return
+  if (e.key.length !== 1) return // ignore non-printable keys (arrows, Enter, …)
+  if (document.activeElement === searchInput.value) return
+  focusSearchInput(false)
+}
+
 function isSamePageComparison(destPath: string) {
   if (!destPath) return true
   const base = vitePressData.site?.value?.base || '/'
@@ -2083,7 +2123,7 @@ function isSamePageComparison(destPath: string) {
               autocorrect="off"
               class="search-input"
               enterkeyhint="go"
-              maxlength="64"
+              maxlength="256"
               :placeholder="buttonText"
               spellcheck="false"
               type="search"
@@ -2107,6 +2147,13 @@ function isSamePageComparison(destPath: string) {
                 @click="toggleDetailedList"
               >
                 <span class="vpi-layout-list local-search-icon" />
+                <span class="visually-hidden">
+                  {{
+                    showDetailedList
+                      ? 'Detailed list active'
+                      : 'Detailed list off'
+                  }}
+                </span>
               </button>
 
               <button
@@ -2133,14 +2180,29 @@ function isSamePageComparison(destPath: string) {
               <button
                 class="toggle-url-button"
                 type="button"
-                :class="{ 'url-active': isUrlSearch }"
+                :class="{
+                  'url-active': isUrlSearch,
+                  'url-auto': urlSearchAuto
+                }"
                 :aria-pressed="isUrlSearch"
-                :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
+                :title="
+                  isUrlSearch
+                    ? customTitles.urlOn
+                    : urlSearchAuto
+                      ? customTitles.urlAuto
+                      : customTitles.urlOff
+                "
                 @click="toggleUrlSearch"
               >
                 <span class="url-icon i-lucide:link" />
                 <span class="visually-hidden">
-                  {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
+                  {{
+                    isUrlSearch
+                      ? 'URL Search Active'
+                      : urlSearchAuto
+                        ? 'URL Search Auto-Active'
+                        : 'URL Search Off'
+                  }}
                 </span>
               </button>
 
@@ -2164,6 +2226,7 @@ function isSamePageComparison(destPath: string) {
             class="results"
             tabindex="-1"
             @mousemove="onMouseMove"
+            @keydown="onResultsKeydown"
           >
             <TransitionGroup name="result-list">
               <li
@@ -3172,6 +3235,11 @@ svg {
 .toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-button.url-auto:not(.url-active) {
+  color: var(--vp-c-brand-1);
+  opacity: 0.6;
 }
 
 .result-list-enter-active,

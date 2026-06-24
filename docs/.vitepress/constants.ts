@@ -17,7 +17,7 @@
 import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
-import { excluded, stripSchemeAndWww } from './shared'
+import { excluded, normalizeSearchUrl } from './shared'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
@@ -49,11 +49,11 @@ const URL_SHORTENER_HOSTS = new Set([
 ])
 
 // l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
-// u = link hrefs for URL search.
+// u = link hrefs for URL search, su = hrefs from starred list items.
 // Bold-without-star is just an index label, no special ranking – folded into l.
 const globalLinkMetadata: Record<
   string,
-  { l: string[]; s: string[]; u: string[] }
+  { l: string[]; s: string[]; u: string[]; su: string[] }
 > = {}
 
 // Inject customMetadata into the serialized MiniSearch index so the client
@@ -85,6 +85,7 @@ function extractLinkMetadata(html: string) {
   const links = new Set<string>()
   const starredBoldLinks = new Set<string>()
   const urls = new Set<string>()
+  const starredUrls = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
   // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
   // occasionally U+200B) inside link text as a visual workaround; leaving them
@@ -103,12 +104,9 @@ function extractLinkMetadata(html: string) {
       .replace(/\s+/g, '')
       .trim()
       .toLowerCase()
-    // Store a normalized, scheme/www-stripped "host[/path]" form so the client
-    // matches without re-normalizing every URL on each keystroke. Drop the
-    // query/hash (opaque ?id=, #wiki_…) and cap the length to keep the index
-    // small at tens-of-thousands-of-URLs scale.
-    const hostPath = stripSchemeAndWww(normalized).split(/[?#]/)[0]
-    const host = hostPath.split('/')[0]
+    // Store the same normalized URL form the client builds from user queries.
+    const hostPath = normalizeSearchUrl(normalized)
+    const host = hostPath.split(/[/?#]/)[0]
     if (!host || URL_SHORTENER_HOSTS.has(host)) return ''
     return hostPath.length > 80 ? hostPath.slice(0, 80) : hostPath
   }
@@ -145,6 +143,7 @@ function extractLinkMetadata(html: string) {
     const href = extractHref(match[0])
     const cleanedUrl = isSearchableUrl(href) ? cleanUrl(href) : ''
     if (cleanedUrl) urls.add(cleanedUrl)
+    if (cleanedUrl && isStarred(match.index)) starredUrls.add(cleanedUrl)
 
     const innerHtml = match[1]
     const cleaned = cleanText(innerHtml)
@@ -177,7 +176,8 @@ function extractLinkMetadata(html: string) {
   return {
     links: Array.from(links),
     starredBoldLinks: Array.from(starredBoldLinks),
-    urls: Array.from(urls)
+    urls: Array.from(urls),
+    starredUrls: Array.from(starredUrls)
   }
 }
 
@@ -325,16 +325,19 @@ export const search: DefaultTheme.Config['search'] = {
 
           const sectionId = anchor ? `${fileId}#${anchor}` : fileId
 
-          const { links, starredBoldLinks, urls } = extractLinkMetadata(content)
+          const { links, starredBoldLinks, urls, starredUrls } =
+            extractLinkMetadata(content)
           if (
             links.length > 0 ||
             starredBoldLinks.length > 0 ||
-            urls.length > 0
+            urls.length > 0 ||
+            starredUrls.length > 0
           ) {
             globalLinkMetadata[sectionId] = {
               l: links,
               s: starredBoldLinks,
-              u: urls
+              u: urls,
+              su: starredUrls
             }
           }
 
