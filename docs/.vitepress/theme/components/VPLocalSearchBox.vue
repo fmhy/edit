@@ -30,18 +30,18 @@ const globalMayHaveMore = ref(false)
 </script>
 
 <script lang="ts" setup>
-import type { SearchResult } from 'minisearch'
+import type { Query, SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
-  debouncedWatch,
   onKeyStroke,
   useEventListener,
   useLocalStorage,
   useScrollLock,
-  useSessionStorage
+  useSessionStorage,
+  watchDebounced
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
 import Mark from 'mark.js/src/vanilla.js'
@@ -778,7 +778,7 @@ watch(
 )
 
 // 1. Debounced Search watcher: Only runs the index query and gets the raw matching results list
-debouncedWatch(
+watchDebounced(
   () =>
     [
       searchIndex.value,
@@ -814,7 +814,7 @@ debouncedWatch(
       return
     }
 
-    let query: string | object = filterTextValue
+    let query: Query = filterTextValue
     usedSubstringExpansion.value = false
 
     if (isFuzzySearch.value) {
@@ -866,7 +866,7 @@ debouncedWatch(
 
     // fuzzy only matters for string queries; structured queries carry their own per-clause fuzzy
     const searchOptions = {
-      combineWith: 'AND',
+      combineWith: 'AND' as const,
       fuzzy:
         isFuzzySearch.value && typeof query === 'string'
           ? fuzzyTolerance
@@ -1410,11 +1410,6 @@ interface ComponentModule {
   setup?: unknown
 }
 
-interface VitePressData {
-  frontmatter: Ref<Record<string, unknown>>
-  page: Ref<{ params?: unknown }>
-}
-
 const VDropdownStub = {
   name: 'VDropdown',
   render(this: any) {
@@ -1424,7 +1419,7 @@ const VDropdownStub = {
 
 async function processExcerpts(
   mods: { id: string; mod: ComponentModule }[],
-  vitePressData: VitePressData,
+  vitePressData: ReturnType<typeof useData>,
   isCanceled: () => boolean
 ) {
   for (const { id, mod } of mods) {
