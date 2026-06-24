@@ -1780,8 +1780,8 @@ const customTitles = {
   nextMatch: 'Next match',
   fuzzyOn: 'Switch to Exact Search',
   fuzzyOff: 'Switch to Fuzzy Search',
-  urlOn: 'Disable URL Search',
-  urlOff: 'Enable URL Search',
+  urlOn: 'Only search names and text',
+  urlOff: 'Search link URLs too',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches'
 }
