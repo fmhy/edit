@@ -531,6 +531,14 @@ const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
 
+// URL matching also kicks in automatically when the query *looks* like a URL even with the manual toggle off.
+const urlSearchAuto = computed(
+  () =>
+    !isUrlSearch.value &&
+    !!filterText.value &&
+    looksLikeUrlQuery(filterText.value)
+)
+
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
   theme.value.search?.provider === 'local' &&
@@ -1782,6 +1790,7 @@ const customTitles = {
   fuzzyOff: 'Switch to Fuzzy Search',
   urlOn: 'Only search names and text',
   urlOff: 'Search link URLs too',
+  urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches'
 }
@@ -2011,6 +2020,17 @@ function onMouseMove(e: MouseEvent) {
   }
 }
 
+// When the results list (or an item within it) holds focus — e.g. after arrow
+// navigation — a printable keystroke would otherwise be lost. Redirect it back
+// to the search input so the user can keep typing; focusing synchronously in
+// keydown lets the character land in the input.
+function onResultsKeydown(e: KeyboardEvent) {
+  if (e.ctrlKey || e.metaKey || e.altKey) return
+  if (e.key.length !== 1) return // ignore non-printable keys (arrows, Enter, …)
+  if (document.activeElement === searchInput.value) return
+  focusSearchInput(false)
+}
+
 function isSamePageComparison(destPath: string) {
   if (!destPath) return true
   const base = vitePressData.site?.value?.base || '/'
@@ -2097,7 +2117,7 @@ function isSamePageComparison(destPath: string) {
               autocorrect="off"
               class="search-input"
               enterkeyhint="go"
-              maxlength="64"
+              maxlength="256"
               :placeholder="buttonText"
               spellcheck="false"
               type="search"
@@ -2121,6 +2141,13 @@ function isSamePageComparison(destPath: string) {
                 @click="toggleDetailedList"
               >
                 <span class="vpi-layout-list local-search-icon" />
+                <span class="visually-hidden">
+                  {{
+                    showDetailedList
+                      ? 'Detailed list active'
+                      : 'Detailed list off'
+                  }}
+                </span>
               </button>
 
               <button
@@ -2147,14 +2174,29 @@ function isSamePageComparison(destPath: string) {
               <button
                 class="toggle-url-button"
                 type="button"
-                :class="{ 'url-active': isUrlSearch }"
+                :class="{
+                  'url-active': isUrlSearch,
+                  'url-auto': urlSearchAuto
+                }"
                 :aria-pressed="isUrlSearch"
-                :title="isUrlSearch ? customTitles.urlOn : customTitles.urlOff"
+                :title="
+                  isUrlSearch
+                    ? customTitles.urlOn
+                    : urlSearchAuto
+                      ? customTitles.urlAuto
+                      : customTitles.urlOff
+                "
                 @click="toggleUrlSearch"
               >
                 <span class="url-icon i-lucide:link" />
                 <span class="visually-hidden">
-                  {{ isUrlSearch ? 'URL Search Active' : 'URL Search Off' }}
+                  {{
+                    isUrlSearch
+                      ? 'URL Search Active'
+                      : urlSearchAuto
+                        ? 'URL Search Auto-Active'
+                        : 'URL Search Off'
+                  }}
                 </span>
               </button>
 
@@ -2178,6 +2220,7 @@ function isSamePageComparison(destPath: string) {
             class="results"
             tabindex="-1"
             @mousemove="onMouseMove"
+            @keydown="onResultsKeydown"
           >
             <TransitionGroup name="result-list">
               <li
@@ -3186,6 +3229,11 @@ svg {
 .toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+.toggle-url-button.url-auto:not(.url-active) {
+  color: var(--vp-c-brand-1);
+  opacity: 0.6;
 }
 
 .result-list-enter-active,
