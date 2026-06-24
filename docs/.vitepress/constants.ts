@@ -49,11 +49,11 @@ const URL_SHORTENER_HOSTS = new Set([
 ])
 
 // l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
-// u = link hrefs for URL search.
+// u = link hrefs for URL search, su = hrefs from starred list items.
 // Bold-without-star is just an index label, no special ranking – folded into l.
 const globalLinkMetadata: Record<
   string,
-  { l: string[]; s: string[]; u: string[] }
+  { l: string[]; s: string[]; u: string[]; su: string[] }
 > = {}
 
 // Inject customMetadata into the serialized MiniSearch index so the client
@@ -85,6 +85,7 @@ function extractLinkMetadata(html: string) {
   const links = new Set<string>()
   const starredBoldLinks = new Set<string>()
   const urls = new Set<string>()
+  const starredUrls = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
   // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
   // occasionally U+200B) inside link text as a visual workaround; leaving them
@@ -142,6 +143,7 @@ function extractLinkMetadata(html: string) {
     const href = extractHref(match[0])
     const cleanedUrl = isSearchableUrl(href) ? cleanUrl(href) : ''
     if (cleanedUrl) urls.add(cleanedUrl)
+    if (cleanedUrl && isStarred(match.index)) starredUrls.add(cleanedUrl)
 
     const innerHtml = match[1]
     const cleaned = cleanText(innerHtml)
@@ -174,7 +176,8 @@ function extractLinkMetadata(html: string) {
   return {
     links: Array.from(links),
     starredBoldLinks: Array.from(starredBoldLinks),
-    urls: Array.from(urls)
+    urls: Array.from(urls),
+    starredUrls: Array.from(starredUrls)
   }
 }
 
@@ -322,16 +325,19 @@ export const search: DefaultTheme.Config['search'] = {
 
           const sectionId = anchor ? `${fileId}#${anchor}` : fileId
 
-          const { links, starredBoldLinks, urls } = extractLinkMetadata(content)
+          const { links, starredBoldLinks, urls, starredUrls } =
+            extractLinkMetadata(content)
           if (
             links.length > 0 ||
             starredBoldLinks.length > 0 ||
-            urls.length > 0
+            urls.length > 0 ||
+            starredUrls.length > 0
           ) {
             globalLinkMetadata[sectionId] = {
               l: links,
               s: starredBoldLinks,
-              u: urls
+              u: urls,
+              su: starredUrls
             }
           }
 

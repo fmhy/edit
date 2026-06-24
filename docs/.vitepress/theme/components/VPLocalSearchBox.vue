@@ -103,6 +103,7 @@ interface Result {
   titles: string[]
   text?: string
   urlMatched?: boolean
+  urlMatchedStarred?: boolean
 }
 
 interface BoostFlags {
@@ -135,7 +136,7 @@ const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
 const customMetadata = shallowRef<
-  Record<string, { l?: string[]; s?: string[]; u?: string[] }>
+  Record<string, { l?: string[]; s?: string[]; u?: string[]; su?: string[] }>
 >({})
 
 const globalLinksData = computed(() => {
@@ -422,6 +423,7 @@ interface UrlRecord {
   compactHost: string // punctuation-stripped host
   compactLabel: string // punctuation-stripped label
   isShared: boolean // host/registrable is a suppressed shared platform
+  starred: boolean // URL came from a starred list item
 }
 
 // Flatten customMetadata into one parsed record per stored URL. Recomputed only
@@ -432,6 +434,7 @@ const urlIndex = computed<UrlRecord[]>(() => {
   for (const id in customMetadata.value) {
     const urls = customMetadata.value[id].u
     if (!urls) continue
+    const starredUrls = new Set(customMetadata.value[id].su ?? [])
     for (const url of urls) {
       // Stored URLs are already normalized + scheme/www-stripped at build time.
       const hostPath = stripSchemeAndWww(url)
@@ -446,7 +449,8 @@ const urlIndex = computed<UrlRecord[]>(() => {
         compactHost: compactUrlValue(host),
         compactLabel: compactUrlValue(label),
         isShared:
-          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)
+          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable),
+        starred: starredUrls.has(url)
       })
     }
   }
@@ -710,7 +714,11 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
     const rank = recordMatchRank(rec, urlQuery)
     if (rank === 0) continue
     const existing = candidates.get(rec.id)
-    if (!existing || rank > existing.rank) {
+    if (
+      !existing ||
+      rank > existing.rank ||
+      (rank === existing.rank && rec.starred)
+    ) {
       candidates.set(rec.id, { ...rec, rank })
     }
   }
@@ -720,9 +728,7 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
   // by match strength (exact > prefix > substring). Within-cap order doesn't
   // matter — the merged result set is re-sorted globally by tier/score later.
   const ranked = [...candidates.values()].sort((a, b) => {
-    const aStarred = customMetadata.value[a.id]?.s?.length ? 1 : 0
-    const bStarred = customMetadata.value[b.id]?.s?.length ? 1 : 0
-    return bStarred - aStarred || b.rank - a.rank
+    return Number(b.starred) - Number(a.starred) || b.rank - a.rank
   })
 
   // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
@@ -743,7 +749,8 @@ function findUrlMatches(index: MiniSearch<Result>, query: string) {
       queryTerms: [query],
       match: {},
       ...storedFields,
-      urlMatched: true
+      urlMatched: true,
+      urlMatchedStarred: rec.starred
     })
     if (matches.length >= MAX_URL_MATCHES_TOTAL) break
   }
@@ -890,6 +897,8 @@ watchDebounced(
       if (existing) {
         existing.score += result.score
         existing.urlMatched = true
+        existing.urlMatchedStarred =
+          existing.urlMatchedStarred || result.urlMatchedStarred
       } else {
         mergedResultsById.set(result.id, result)
       }
@@ -975,9 +984,8 @@ watchDebounced(
       // whether the entry is starred, so a starred-link URL match interleaves
       // with the other curated results instead of sinking to the bottom on raw
       // score alone.
-      const isStarred = !!meta?.s?.length
-      const hasStarredUrl = !!r.urlMatched && isStarred
-      const hasLinkUrl = !!r.urlMatched && !isStarred
+      const hasStarredUrl = !!r.urlMatchedStarred
+      const hasLinkUrl = !!r.urlMatched && !hasStarredUrl
 
       return {
         ...r,
