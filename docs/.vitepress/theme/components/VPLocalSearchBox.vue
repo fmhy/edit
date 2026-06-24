@@ -350,7 +350,7 @@ function buildUrlQuery(query: string): UrlQuery | null {
   // A typed scheme or leading "www." anchors the match to the host start.
   const anchored =
     /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
-  const stripped = stripSchemeAndWww(normalized)
+  const stripped = stripSchemeAndWww(normalized).split(/[?#]/)[0]
   // A "/" means the user typed a path, so match against host + path directly.
   if (stripped.includes('/')) {
     return {
