@@ -7,7 +7,6 @@ const MAX_SUBSTRING_TERMS = 100
 const MAX_RECENT_SEARCHES = 20
 const MAX_SUGGESTIONS = 3
 const SEARCH_DEBOUNCE_MS = 350
-const FUZZY_THRESHOLD = 0.2
 const MIN_CANDIDATE_POOL = 32
 const MARK_MERGE_DISTANCE_PX = 20
 const MARK_SAME_LINE_THRESHOLD_PX = 5
@@ -299,6 +298,11 @@ const MAX_URL_MATCHES_TOTAL = 60
 // needles keep substring matching so intentional fragments still work.
 const MIN_SUBSTRING_NEEDLE_LENGTH = 4
 
+function fuzzyTolerance(term: string) {
+  if (term.length < 5) return false
+  return term.length < 9 ? 1 : 2
+}
+
 // Punctuation-insensitive form so "pihole" matches "pi-hole".
 function compactUrlValue(value: string) {
   return value.replace(/[^a-z0-9]/g, '')
@@ -368,6 +372,17 @@ function buildUrlQuery(query: string): UrlQuery | null {
     matchFullHost: stripped.includes('.'),
     anchored
   }
+}
+
+function looksLikeUrlQuery(query: string) {
+  const normalized = normalizeUrlSearchValue(query)
+  const stripped = stripSchemeAndWww(normalized)
+  return (
+    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) ||
+    normalized.startsWith('www.') ||
+    stripped.includes('.') ||
+    stripped.includes('/')
+  )
 }
 
 // `normalizedUrl` is expected already normalized + scheme/www-stripped (the form
@@ -804,12 +819,12 @@ debouncedWatch(
             {
               queries: parts,
               combineWith: 'AND',
-              fuzzy: FUZZY_THRESHOLD
+              fuzzy: fuzzyTolerance
             },
             {
               queries: [dashed],
               combineWith: 'AND',
-              fuzzy: FUZZY_THRESHOLD
+              fuzzy: fuzzyTolerance
             }
           ]
         }
@@ -846,16 +861,15 @@ debouncedWatch(
       combineWith: 'AND',
       fuzzy:
         isFuzzySearch.value && typeof query === 'string'
-          ? FUZZY_THRESHOLD
+          ? fuzzyTolerance
           : false
     }
 
     // Search and retrieve all matches (up to 200 max in memory)
     const rawResults = index.search(query, searchOptions) as (SearchResult &
       Result)[]
-    const urlResults = isUrlSearch.value
-      ? findUrlMatches(index, filterTextValue)
-      : []
+    const searchUrls = isUrlSearch.value || looksLikeUrlQuery(filterTextValue)
+    const urlResults = searchUrls ? findUrlMatches(index, filterTextValue) : []
     const mergedResultsById = new Map<string, SearchResult & Result>()
     for (const result of rawResults) {
       mergedResultsById.set(result.id, result)
@@ -1149,7 +1163,7 @@ watch(
     // URL matches match on a link's href, which mark.js can't highlight because
     // the query text isn't in the visible link text. Highlight the specific
     // link(s) in the excerpt whose href matched the query.
-    if (isUrlSearch.value) {
+    if (finalResults.some((r) => r.urlMatched)) {
       const urlQuery = buildUrlQuery(filterText.value)
       for (const r of finalResults) {
         if (!r.urlMatched || !urlQuery) continue
