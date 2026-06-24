@@ -112,7 +112,7 @@
 * [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
 * [Jam](https://jam.systems/) - Voice Chat / Web
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
-* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) / Windows, Mac, Linux
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
 * [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
 * [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
