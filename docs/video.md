@@ -75,7 +75,6 @@
 * [StreamWatch](https://streamwatch.online/), [2](https://pstream.site/), [3](https://streamwatch.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)
 * [AfterStream](https://afterstream.org/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/thingfoil/afterstream)
 * [IceFY](https://icefy.top/) - Movies / TV / Anime / Auto-Next
-* [F-Stream](https://fstream.app/), [2](https://cinepro.fstream.app/) - Movies / TV / Anime / Auto-Next
 * [Vidflix](https://vidflix.site/) - Movies / TV / Anime / Auto-Next
 * [P-Play](https://play.onlinetz.app/) - Movies / TV / Anime / Auto-Next
 
