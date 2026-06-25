@@ -13,7 +13,7 @@
 ***
 
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)** - Adobe Software Alternative Index
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Satvrn](https://rentry.co/FMHYB64#satvrn) - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** - Editing Software
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)

@@ -19,7 +19,6 @@
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Meta AI](https://www.meta.ai/) - Muse Spark / Meta Sign-Up / Unlimited
-* [⁠Ernie](https://ernie.baidu.com/) - Ernie 5.1 Thinking / 5.1 Instant
 * [ChatGPT](https://chatgpt.com/) - GPT-5.5 Instant / GPT-5.4 Mini Thinking (use `/think`) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
@@ -34,7 +33,6 @@
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam-105b / Sarvam-30b / Unlimited / Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B
 * [⁠Hy3-preview](https://huggingface.co/spaces/tencent/Hy3-preview) - ⁠Hy3-preview / Unlimited
-* [Reka](https://www.reka.ai/) - Reka Flash 3.1 / Sign-Up / [Discord](https://discord.gg/jtjNSD52mf)
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Sign-Up
 * [⁠Inception Chat](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
@@ -206,7 +204,7 @@
 * [Meta AI](https://www.meta.ai/) - Generating + Editing / Unlimited / Meta Sign-Up
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) or [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
-* [⁠Ernie](https://ernie.baidu.com/) or [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
+* [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [⁠ChatGPT Image](https://chatgpt.com/images/) - GPT Image 2 / 8 Daily / Sign-Up
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell

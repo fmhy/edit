@@ -16,7 +16,6 @@
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
-* [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Download / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/ebookhunterorg)
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books
@@ -52,6 +51,7 @@
 * [Manybooks](https://manybooks.net/)
 * [JustFreeBooks](https://www.justfreebooks.info/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
+* [The Literature Network](https://www.online-literature.com/)
 * [DPLA](https://dp.la/)
 * [Fadedpage](https://www.fadedpage.com/)
 * [E-Book Mecca](https://ebook-mecca.com/)
@@ -144,7 +144,6 @@
 * [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html)
 * [Ebook Reader](https://reader.ttsu.app/manage)
 * [foliate-js](https://github.com/johnfactotum/foliate-js)
-* [Minimal Reader](https://www.minimalreader.xyz/)
 * [Litera Reader](https://litera-reader.com/)
 * [Speeedy](https://speeedy.pages.dev/) / [GitHub](https://github.com/sami-29/speeedy), [Spreeder](https://www.spreeder.com/app.php?intro=1), [Speed Reader](https://speed-reader.com/), [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [⁠ogma](https://github.com/0hAodha/ogma) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools / Note These Are Not Good for Comprehension
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
@@ -318,7 +317,6 @@
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobook.net/)
-* [DigitalBook](https://www.digitalbook.io/)
 * [Librivox](https://librivox.org/)
 * [Book Radio](https://bookradio.vercel.app/)
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
@@ -549,6 +547,7 @@
 * [Wikibooks](https://wikibooks.org/) - Open-Content Textbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
+* [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks 
 
 ***
 
@@ -783,7 +782,7 @@
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
 * [Marine Corps Pubs](https://www.marines.mil/News/Publications/MCPEL/), [Air Force Pubs](https://www.e-publishing.af.mil/product-index/), [Army Pubs](https://armypubs.army.mil/) or [LiberatedManuals](https://www.liberatedmanuals.com/) - Military Documents / Manuals
 * [NASA NTRS](https://ntrs.nasa.gov/collections/pubspace) or [STI](https://sti.nasa.gov/) - NASA Documents
-* [CourtListerner](https://www.courtlistener.com/), [USA Courts](https://pacer.uscourts.gov/) or [Case.law](https://case.law/) - Court Documents
+* [CourtListerner](https://www.courtlistener.com/) / [Unlock Docs](https://free.law/recap/), [USA Courts](https://pacer.uscourts.gov/) or [Case.law](https://case.law/) - Court Documents
 * [Oyez](https://www.oyez.org/) - Supreme Court Case Summaries / Transcripts
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents

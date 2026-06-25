@@ -14,9 +14,9 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / Achievements / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
-* ⭐ **[AstralGames](https://astral-games.xyz/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/38bRNmKB4v)
+* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Mirrors](https://rentry.co/ucxyz)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
@@ -25,9 +25,9 @@
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
 * ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/Games/)**, [2](https://virgil-search.pages.dev/Games/) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
+* [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [Rexa Games](https://rexagames.com/) - Download / Pre-Installed / Multiplayer / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [scene cat](https://rentry.co/FMHYB64#scene-cat) - Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [GOG Games](https://gog-games.to/) - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
@@ -155,7 +155,6 @@
 * [⁠Commodore Software](https://commodore.software/search/) - Commodore 64 / Commodore 128 / VIC-20 Games
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
-* [World of Spectrum](https://worldofspectrum.org/) - Sinclair ZX Spectrum Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
 * [GamesNostalgia](https://gamesnostalgia.com/) - Commodore 64 Games
 * [whdload](https://www.whdload.de/) - Amiga Games
@@ -565,6 +564,7 @@
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
 * [⁠PlausibleGame](https://plausiblegame.com/) - Daily Word Game
+* [⁠Blockle](https://blockle.au/) - Daily Word Game
 * [⁠Word Nerd](https://wordnerd.co/) - Daily Word Game
 * [Three Letters Game](https://threelettersgame.com/) - Daily Word Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
@@ -833,6 +833,7 @@
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
 * [⁠Splatoon.io](https://splatoon.io/) - ⁠Splatoon Style Game
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
+* [Golf Party](https://golfparty.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini Golf Games
 * [Slither.io](http://slither.com/io) - Grow the Longest Worm
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game / [Discord](https://discord.gg/t3GZmuQndv)
 * [Sigmally](https://one.sigmally.com/) / [Discord](https://discord.com/invite/4j4Rc4dQTP) or [agar.io](https://agar.io/) - Become the Biggest Circle
@@ -840,7 +841,6 @@
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
-* [Golf Party](https://golfparty.io/) - Multiplayer Mini Golf Game
 * [Billiards Pool Game](https://billiards.tailuge.workers.dev/) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games

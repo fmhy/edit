@@ -40,7 +40,6 @@
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
-*  [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
@@ -611,7 +610,6 @@
 * [FB.Zone](https://fb.zone/) - Color Themes for Facebook
 * [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
-* [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tlorien/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
 
 ***

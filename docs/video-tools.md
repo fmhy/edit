@@ -254,6 +254,7 @@
 * 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
 * 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+* [Flower's MPV Config](https://github.com/flowerey/flower-mpv-config) - Automated MPV Configs
 * [ModernZ](https://github.com/Samillion/ModernZ), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
@@ -408,12 +409,11 @@
 
 ## ▷ Video Editors
 
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
-* [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
 * [OpenShot](https://www.openshot.org/) - Video Editor / Windows, Mac, Linux
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, Mac
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor

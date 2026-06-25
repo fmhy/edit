@@ -48,8 +48,9 @@
 * [LinuxQuestions](https://www.linuxquestions.org/questions/) - Linux Q&A Forum
 * [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
 * [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
-* [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
+* [Arch Linux Community](https://discord.gg/3m6dbPR) - Arch Discord Server
+* [Debian Community](https://discord.gg/debian) or [r/debian](https://www.reddit.com/r/debian/) - Debian Discord Server + Subreddit / [Fluxer](https://fluxer.gg/debian)
 * [Linux.org](https://linux.org/) - Linux Forum / Invite Required for Account
 * [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
 * [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
@@ -296,6 +297,7 @@
 * [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Linux Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
+* [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Windows Games on Linux
@@ -337,6 +339,7 @@
 ## ▷ Adblock / Privacy
 
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+* ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
@@ -742,9 +745,10 @@
 
 * 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
 * ↪️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
+* ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard), [1Blocker](https://1blocker.com/), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard), [1Blocker](https://1blocker.com/), [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
