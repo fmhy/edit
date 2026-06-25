@@ -27,6 +27,7 @@ const globalCurrentMarkIndex = ref<Map<number, number>>(new Map())
 const globalResultLimit = ref(RESULTS_PAGE_SIZE)
 const globalUsedSubstringExpansion = ref(false)
 const globalMayHaveMore = ref(false)
+const globalIsAnon = ref(false)
 </script>
 
 <script lang="ts" setup>
@@ -128,6 +129,8 @@ const { localeIndex, theme } = vitePressData
  * Persisted in localStorage for user preference across sessions.
  */
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
+
+const isAnon = globalIsAnon
 
 const customMetadata = shallowRef<
   Record<string, { l?: string[]; s?: string[] }>
@@ -1259,7 +1262,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    addRecentSearch(filterText.value)
+    if (!isAnon.value) addRecentSearch(filterText.value)
     const idx = results.value.indexOf(selectedPackage)
     const matchCtx = idx >= 0 ? getMatchContext(idx) : null
     navigateToResult(selectedPackage.id, matchCtx)
@@ -1436,7 +1439,7 @@ function handleResultClick(e: MouseEvent, id: string) {
     return
   }
   e.preventDefault()
-  addRecentSearch(filterText.value)
+  if (!isAnon.value) addRecentSearch(filterText.value)
 
   // Find which result index was clicked to get the match context
   const index = results.value.findIndex((r) => r.id === id)
@@ -1722,6 +1725,25 @@ function isSamePageComparison(destPath: string) {
               </button>
 
               <button
+                class="toggle-anon-button"
+                type="button"
+                :class="{ 'anon-active': isAnon }"
+                :aria-pressed="isAnon"
+                :title="
+                  isAnon
+                    ? 'Anon mode active - searches not saved'
+                    : 'Anon mode off - searches will be saved'
+                "
+                @click="isAnon = !isAnon"
+              >
+                <span
+                  v-if="isAnon"
+                  class="i-lucide:eye-off local-search-icon"
+                />
+                <span v-else class="i-lucide:eye local-search-icon" />
+              </button>
+
+              <button
                 class="clear-button"
                 type="reset"
                 :disabled="disableReset"
@@ -1865,34 +1887,46 @@ function isSamePageComparison(destPath: string) {
                 </div>
               </li>
               <li
-                v-if="!filterText && recentSearches.length"
-                key="recent-searches"
-                class="recent-searches"
+                v-if="!filterText && (isAnon || recentSearches.length)"
+                key="idle-panel"
               >
-                <div class="recent-header">
-                  <span class="recent-label">Recent</span>
-                  <button class="clear-all-btn" @click="clearAllRecentSearches">
-                    Clear all
-                  </button>
-                </div>
-                <div class="recent-items">
-                  <div
-                    v-for="s in recentSearches"
-                    :key="s"
-                    class="recent-item-wrapper"
-                  >
-                    <button class="recent-item" @click="applySuggestion(s)">
-                      {{ s }}
-                    </button>
-                    <button
-                      class="recent-delete-btn"
-                      title="Remove search"
-                      @click.stop.prevent="removeRecentSearch(s)"
-                    >
-                      <span class="vpi-delete delete-icon-mini" />
-                    </button>
+                <Transition mode="out-in" name="idle-panel">
+                  <div v-if="isAnon" key="anon" class="anon-placeholder">
+                    <span class="i-lucide:eye-off local-search-icon" />
+                    <span class="anon-placeholder-text">
+                      Anon mode — searches won't be saved
+                    </span>
                   </div>
-                </div>
+                  <div v-else key="recent" class="recent-searches">
+                    <div class="recent-header">
+                      <span class="recent-label">Recent</span>
+                      <button
+                        class="clear-all-btn"
+                        @click="clearAllRecentSearches"
+                      >
+                        Clear all
+                      </button>
+                    </div>
+                    <div class="recent-items">
+                      <div
+                        v-for="s in recentSearches"
+                        :key="s"
+                        class="recent-item-wrapper"
+                      >
+                        <button class="recent-item" @click="applySuggestion(s)">
+                          {{ s }}
+                        </button>
+                        <button
+                          class="recent-delete-btn"
+                          title="Remove search"
+                          @click.stop.prevent="removeRecentSearch(s)"
+                        >
+                          <span class="vpi-delete delete-icon-mini" />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </Transition>
               </li>
               <li
                 v-if="
@@ -2721,6 +2755,51 @@ svg {
 .toggle-fuzzy-button.fuzzy-active {
   color: var(--vp-c-brand-1);
   background: var(--vp-c-bg-soft);
+}
+
+/* Anon mode toggle button */
+.toggle-anon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-anon-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-anon-button.anon-active {
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-anon-button .local-search-icon,
+.anon-placeholder .local-search-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.anon-placeholder {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+.idle-panel-enter-active,
+.idle-panel-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.idle-panel-enter-from,
+.idle-panel-leave-to {
+  opacity: 0;
 }
 
 .result-list-enter-active,
