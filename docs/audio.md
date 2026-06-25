@@ -399,7 +399,7 @@
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
 * [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse)
-* [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 160kb Free / 320kb Premium / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
+* [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 128kb Free / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
 * [SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify
