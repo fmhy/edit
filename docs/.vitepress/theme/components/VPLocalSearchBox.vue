@@ -691,9 +691,7 @@ watch(
       if (canceled) return
 
       const mapped = candidates.map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = cache.get(id)
-        const text = map?.get(anchor) ?? ''
+        const text = lookupExcerptText(r.id)
         return mapResult(r, text)
       })
 
@@ -720,9 +718,7 @@ watch(
       if (canceled) return
 
       const mapped = sliced.map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = showDetailedListValue ? cache.get(id) : undefined
-        const text = map?.get(anchor) ?? ''
+        const text = showDetailedListValue ? lookupExcerptText(r.id) : ''
         return mapResult(r, text)
       })
 
@@ -967,6 +963,50 @@ function prevMatch(index: number) {
   }
 }
 
+function normalizeSectionAnchor(anchor: string): string {
+  try {
+    return decodeURIComponent(anchor)
+  } catch {
+    return anchor
+  }
+}
+
+function splitResultId(id: string): { pageId: string; anchor?: string } {
+  const hashIndex = id.indexOf('#')
+  if (hashIndex === -1) return { pageId: id }
+  return {
+    pageId: id.slice(0, hashIndex),
+    anchor: normalizeSectionAnchor(id.slice(hashIndex + 1))
+  }
+}
+
+function findExcerptInMap(
+  map: Map<string, string>,
+  anchor: string
+): string | undefined {
+  const direct = map.get(anchor)
+  if (direct) return direct
+
+  const prefix = anchor + '-'
+  for (const [key, html] of map) {
+    if (key.startsWith(prefix)) return html
+  }
+  return undefined
+}
+
+function lookupExcerptText(resultId: string): string {
+  const { pageId, anchor } = splitResultId(resultId)
+  const map = cache.get(pageId)
+  if (!map || !anchor) return ''
+
+  const hit = findExcerptInMap(map, anchor)
+  if (hit) return hit
+
+  const hashIndex = resultId.indexOf('#')
+  const rawAnchor = hashIndex === -1 ? undefined : resultId.slice(hashIndex + 1)
+  return rawAnchor ? (findExcerptInMap(map, rawAnchor) ?? '') : ''
+}
+
 async function fetchExcerpt(id: string) {
   const hashIndex = id.indexOf('#')
   const cleanId = hashIndex === -1 ? id : id.slice(0, hashIndex)
@@ -1037,8 +1077,16 @@ async function processExcerpts(
           const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
           headings.forEach((heading) => {
             const href = heading.querySelector('a')?.getAttribute('href')
-            const anchor = href?.startsWith('#') && href.slice(1)
-            if (!anchor) return
+            const hrefAnchor = href?.startsWith('#')
+              ? normalizeSectionAnchor(href.slice(1))
+              : undefined
+            const idAnchor = heading.id
+              ? normalizeSectionAnchor(heading.id)
+              : undefined
+            const aliases = new Set<string>()
+            if (hrefAnchor) aliases.add(hrefAnchor)
+            if (idAnchor) aliases.add(idAnchor)
+            if (aliases.size === 0) return
             let html = ''
             let next: Element | null = heading.nextElementSibling
             while (next && !/^h[1-6]$/i.test(next.tagName)) {
@@ -1056,7 +1104,7 @@ async function processExcerpts(
               if (!isNoteBlock) html += next.outerHTML
               next = next.nextElementSibling
             }
-            map!.set(anchor, html)
+            for (const alias of aliases) map!.set(alias, html)
           })
         } finally {
           app.unmount()
