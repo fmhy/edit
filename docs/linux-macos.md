@@ -277,7 +277,7 @@
 
 * [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
 * [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/), [calcurse](calcurse.org) or [dLine](https://github.com/jazz-it/dline) - Calendars
 * [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 
 ***
