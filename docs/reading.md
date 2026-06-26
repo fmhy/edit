@@ -202,7 +202,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Site Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/novel)**, [2](https://everythingmoe.org/section/novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[⁠NovelFire](https://novelfire.net/)** - Online Reading
+* ⭐ **[⁠NovelFire](https://novelfire.net/)** or [NovelPhoenix](https://novelphoenix.com/) - Online Reading
 * ⭐ **[NovelCool](https://www.novelcool.com/)** - Online Reading
 * ⭐ **[WuxiaClick](https://wuxia.click/)** - Online Reading
 * [LNORI](https://lnori.com/) - Online Reading
@@ -662,7 +662,7 @@
 * ⭐ **[SciLit](https://www.scilit.com/)** - Research Papers / Publications
 * ⭐ **[Zotero](https://www.zotero.org/)** or **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) - Research Managers
 * [ScholarKey](https://addons.mozilla.org/firefox/addon/scholarkey/) / [Script](https://greasyfork.org/scripts/582149) / [GitHub](https://github.com/ezraiiiiiiiiiiii/ScholarKey/) or [Scientific Doc Bypass](https://greasyfork.org/en/scripts/35521) - Add Open-Access Links to Academic Paper Sites
-* [Lumina](https://www.lumina.sh/) - AI Research Paper Search
+* [Lumina](https://www.lumina.sh/) or [Sophon](https://sophon.at/papers) - AI Research Paper Search
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
