@@ -131,6 +131,7 @@
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
+* [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot

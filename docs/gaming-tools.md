@@ -21,6 +21,7 @@
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [⁠Greenlight](https://github.com/unknownskl/greenlight) - Improved xCloud Client / Xbox Cloud Gaming
 * [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [X](https://x.com/redphx) / [Telegram](https://t.me/betterxcloud) / [GitHub](https://github.com/redphx/better-xcloud)
+* [Ghost Hunter Pro](https://github.com/MarchTheDev/GhostHunterPro-GUI) - Removes Leftover Game Files
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [⁠Lets Play Index](https://www.letsplayindex.com/) - Index of Lets Plays / Longplays
 * [⁠TASVideos](https://tasvideos.org/) - TAS Video Community / Resources / [Emulator Resources](https://tasvideos.org/EmulatorResources) / [Game Resources](https://tasvideos.org/GameResources)
