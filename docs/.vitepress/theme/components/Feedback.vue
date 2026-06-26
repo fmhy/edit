@@ -115,7 +115,8 @@ async function handleSubmit() {
       success.value = true
     }
   } catch (err) {
-    error.value = err
+    error.value =
+      err instanceof Error ? err.message : 'An unexpected error occurred'
   } finally {
     loading.value = false
   }

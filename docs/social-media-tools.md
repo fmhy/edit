@@ -12,11 +12,11 @@
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[SocialBlade](https://socialblade.com/)** - Social Media Stats
 * ⭐ **[LiveCounts](https://livecounts.io/)** - Live Social Media Stats
-* ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/browser_extension), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
+* ⭐ **[LibRedirect](https://github.com/libredirect/browser_extension)**, [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Pinless](https://pinterest.bunk.im/), [2](https://pinterest.fsky.io/) / [Instances](https://instances.bunk.im/) / [.onion](http://pinvnrvjzyxdglrfcf75bhqyftmr3c4gvt6lwhe6khwv2zy2yo4htlqd.onion/) / [GitHub](https://github.com/bunk-im/pinless) or [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends / Viewers
 * [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
-* [⁠StoryLooker](https://storylooker.com/) - Snapchat Frontend / Viewer
+* [⁠StoryLooker](https://storylooker.com/) or [Snoopchat](https://snoopchat.co/) - Snapchat Frontends / Viewers
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
@@ -37,7 +37,6 @@
 ***
 
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
-* ⭐ **[⁠Discord Embed Fixer](https://fixembed.site/)**, [npf.is](https://discord.nfp.is/) or [stolen.shoes](https://stolen.shoes/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
@@ -74,13 +73,14 @@
 * ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins](https://vencord.dev/plugins)
 * ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
-* [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
+* [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
 * [Dorion](https://spikehd.github.io/projects/dorion/) - Lightweight Discord Client / [GitHub](https://github.com/SpikeHD/Dorion)
+* [⁠Concord](https://github.com/chojs23/concord) - Discord TUI
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
 
@@ -99,7 +99,7 @@
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Improved Default Discord Avatars
 * [Pfps.gg](https://pfps.gg/) - Find Discord Avatars
 * [USRBG](https://github.com/Discord-Custom-Covers/usrbg) - Custom Discord Profile Backgrounds / [Discord](https://discord.gg/r59DjpaDHD)
-* [Emoji List](https://discords.com/emoji-list), [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis / GIFs
+* [Emoji List](https://discords.com/emoji-list), [Slackmoji](https://github.com/seanprashad/slackmoji), [Discadia (Emojis)](https://discadia.com/emojis/) or [emoji.gg](https://emoji.gg/) - Discord Emojis / GIFs
 * [Discord-Emoji-Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Emoji Downloader
 * [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
 * [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons / Emojis
@@ -124,11 +124,14 @@
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
+* [⁠appeal.gg](https://dashboard.appeal.gg/) - Server Ban Appeal Management Dashboard 
 * [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
 * [⁠Wispbyte](https://wispbyte.com/) - Free Discord Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth 
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot) or [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
+* [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot
@@ -138,6 +141,7 @@
 ## ▷ Server / Bot Indexes
 
 * 🌐 **[Discord Servers](https://discord.com/servers)** - Server Index
+* 🌐 **[Disdex](https://disdex.io/)** - Server Index / [Discord](https://discord.gg/C5M7ZGHDhH)
 * 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
 * [UnFocused](https://www.unfocused.org/) - Server Index / [Discord](https://discord.com/invite/unfocused)
 * [DISBOARD](https://disboard.org/) - Server Index
@@ -146,7 +150,6 @@
 * [DiscordServers.com](https://discordservers.com/) - Server / Bot Index
 * [Disforge](https://disforge.com/servers) - Server / Bot Index
 * [Open Source Projects](https://discord.com/open-source) - Server / Bot Index
-* [Disdex](https://disdex.io/) - Server Index
 * [Top.gg](https://top.gg/) - Bot Index
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
 * [Discord Bots](https://discord.bots.gg/) - Bot Index
@@ -336,7 +339,6 @@
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
-* [Fast Forward YT Shorts](https://greasyfork.org/en/scripts/466438) - Add Seek Hotkeys to Shorts
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
@@ -409,7 +411,7 @@
 * 🌐 **[YT-DL GUI Index](https://www.reddit.com/r/youtubedl/wiki/info-guis)** - List of YouTube Downloader GUIs
 * ↪️ **[Multi-Site Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** 
 * ⭐ **[Parabolic](https://github.com/NickvisionApps/Parabolic)**, [Tartube](https://tartube.sourceforge.io/) / [GitHub](https://github.com/axcore/tartube/), [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [Easy Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer), [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) or [Vividl](https://github.com/Bluegrams/Vividl) - YT-DLP GUIs
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
+* ⭐ **[JDownloader](https://jdownloader.org/)** - YouTube Downloader App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
@@ -431,9 +433,10 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)** - Search Engine
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Subs, Captions & Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) - Clip / Phrase Search Engines
-* [⁠LikeSearch](https://likesearch.kaustlabs.com/) - Search Your Liked YouTube Videos 
+* [YT Non Biased Searcher](https://kvnaust.github.io/YouTube-NonBiasedVideoSearcher) - Algorithm-Free YouTube Search / Improved Sorting
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
+* [⁠LikeSearch](https://likesearch.kaustlabs.com/) - Search Your Liked YouTube Videos
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
@@ -608,7 +611,6 @@
 * [FB.Zone](https://fb.zone/) - Color Themes for Facebook
 * [Remove FBclid](https://chromewebstore.google.com/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ Query Parameters in URLs
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
-* [Lookup ID](https://lookup-id.com/) - Find Facebook ID
 * [Unlike-Everything](https://github.com/tlorien/Unlike-Everything-on-Facebook) - Remove All Facebook Likes
 
 ***
@@ -670,6 +672,7 @@
 # ► Fediverse Tools
 
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
+* 🌐 **[⁠FediDB](https://fedidb.com/)** - Fediverse Server List / Statistics
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
 * [Nostr](https://nstart.me/), [2](https://nostr.com/) - Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics

@@ -32,7 +32,7 @@
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
-* [Redump](http://redump.org/) - Disc Preservation Info Project
+* [Redump](https://redump.info/) - Disc Preservation Info Project
 
 ***
 
@@ -95,7 +95,7 @@
 * ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake) / [GitHub](https://github.com/HandBrake/HandBrake)
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools) / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
-* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux / [Codeberg](https://codeberg.org/mbunkus/mkvtoolnix)
+* ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux / [Source](https://codeberg.org/mbunkus/mkvtoolnix)
 * ⭐ **[Basics to the Art of Remuxing](https://clarasguide.valeena.workers.dev/Guides/remuxing/)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos / Windows, Linux
@@ -254,6 +254,7 @@
 * 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
 * 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+* [Flower's MPV Config](https://github.com/flowerey/flower-mpv-config) - Automated MPV Configs
 * [ModernZ](https://github.com/Samillion/ModernZ), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
@@ -382,6 +383,7 @@
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online
 * [⁠dltkk](https://dltkk.to/) - Multi-Site / Online
+* [⁠imov.life](https://imov.life/), [2](https://vdwn.cloud/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
@@ -407,12 +409,11 @@
 
 ## ▷ Video Editors
 
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, Mac, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, Mac, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, Mac, Linux / [GitHub](https://github.com/mltframework/shotcut)
-* [Satvrn](https://rentry.co/FMHYB64#satvrn) - Video Editors / Plugins
 * [OpenShot](https://www.openshot.org/) - Video Editor / Windows, Mac, Linux
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, Mac
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
@@ -455,7 +456,7 @@
 
 ## ▷ Effects / Enhancements
 
-* ⭐ **[Efecto](https://efecto.app/)**, [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
+* [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" or "UniFab" on LR
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
@@ -491,7 +492,7 @@
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 * ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) / [Discord](https://discord.gg/9KPvQ4H)
-* [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
+* [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [Discord](https://discord.com/invite/tooll3-823853172619083816) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [⁠Su3yaki](https://kasuga.itch.io/su3yaki) - Create 3D Turntable Animations
@@ -510,7 +511,7 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.mattbas.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
-* [LibreSprite](https://libresprite.github.io/) / [GitHub](https://github.com/LibreSprite/LibreSprite), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
+* [LibreSprite](https://libresprite.github.io/) / [GitHub](https://github.com/LibreSprite/LibreSprite), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [fizzy](https://fizzyed.it/) / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings

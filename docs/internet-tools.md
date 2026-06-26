@@ -80,6 +80,7 @@
 * [⁠WonderLink](https://en.wonderlink.de/) - Unlimited / Custom URLs
 * [BioSites](https://biosites.com/) - Unlimited / Custom URLs
 * [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
+* [⁠Lnk.Bio](https://lnk.bio/) - Unlimited / Custom URLs
 * [⁠Haunt.gg](https://haunt.gg/) - 25 Links / [Discord](https://discord.gg/hauntbio)
 
 ***
@@ -101,28 +102,38 @@
 * ↪️ **[Privacy-Focused Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
-* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
-* ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up
-* ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [⁠Prose](https://prose.org/), [⁠Fluux](https://github.com/processone/fluux-messenger/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
-* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
-* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
-* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/)
-* [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - General Chat Apps
-* [Twist](https://twist.com/) - Collaboration Chat Manager
-* [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
-* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root
-* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
-* [Guildbit](https://guildbit.com/) - Voice Chat Servers
-* [⁠Proton Meet](https://proton.me/meet) - Video Chat
-* [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
-* [Videolink2me](https://videolink2me.com/) - Video Chat
-* [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / [GitHub](https://github.com/jitsi/jitsi-meet)
-* [Briefing](https://brie.fi/ng) - Video Chat
-* [Talky](https://talky.io/) - Video Chat
-* [GoTeam](https://goteam.video/) - Video Chat
-* [⁠Linkello](https://call.linkello.com/) - Video Chat
-* [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics
+* ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
+* ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, Mac
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
+* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, Mac, Linux
+* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
+* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
+* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
+* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
+* [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
+* [Jam](https://jam.systems/) - Voice Chat / Web
+* [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
+* [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
+* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
+* [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
+* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, Mac, Linux
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
+* [Guildbit](https://guildbit.com/) - Voice Chat Servers / Web
+* [⁠Proton Meet](https://proton.me/meet) - Video Chat / All Platforms
+* [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / Web / [GitHub](https://github.com/miroslavpejic85/mirotalk)
+* [Videolink2me](https://videolink2me.com/) - Video Chat / Web
+* [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / Android, iOS / [GitHub](https://github.com/jitsi/jitsi-meet)
+* [Briefing](https://brie.fi/ng) - Video Chat / Web
+* [Talky](https://talky.io/) - Video Chat / Web
+* [GoTeam](https://goteam.video/) - Video Chat / Web
+* [⁠Linkello](https://call.linkello.com/) - Video Chat / Web
+* [CoyIM](https://coy.im/) - XMPP Client / Windows, Mac, Linux
+* [⁠Prose](https://prose.org/) - XMPP Client / Windows, Mac, Web
+* [⁠Fluux](https://github.com/processone/fluux-messenger/) - XMPP Client / Windows, Mac, Linux, Web
+* [Profanity](https://profanity-im.github.io/) - XMPP Client / Windows, Mac, Linux, Android / [GitHub](https://github.com/profanity-im/profanity)
+* [xabber](https://www.xabber.com/) - XMPP Client / Android, Web
+* [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics / Web
 
 ***
 
@@ -262,7 +273,7 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)**, **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
+* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/Games/)** / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
@@ -339,7 +350,6 @@
 * [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
-* [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 
 ***
@@ -401,6 +411,7 @@
 * [Dr. Link Check](https://www.drlinkcheck.com/)
 * [HTTPStatus](https://httpstatus.io/)
 * [UpDownToday](https://updowntoday.com/)
+* [⁠isUpMap](https://isupmap.com/) - Down Site Checker Map
 
 ***
 
@@ -421,17 +432,17 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** or **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
-* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / [GitHub](https://github.com/Foundry376/Mailspring)
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client
-* [Meru](https://github.com/timche/meru) - Gmail Desktop Client
-* [Outlook](https://outlook.live.com/owa/)
-* [eM Client](https://www.emclient.com/)
-* [RainLoop](https://www.rainloop.net/)
-* [Roundcube](https://roundcube.net/)
-* [Spike](https://www.spikenow.com/)
-* [Canary](https://canarymail.io/)
-* [Twobird](https://www.twobird.com/)
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** / Windows, Mac, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, Mac, Linux, Android
+* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, Mac, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, Mac, Linux
+* [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, Mac, Linux
+* [Outlook](https://outlook.live.com/owa/) / Windows, Mac, Linux, iOS, Web
+* [eM Client](https://www.emclient.com/) / Windows, Mac, Linux, Android, iOS
+* [Spike](https://www.spikenow.com/) / Windows, Mac, Android, iOS, Web
+* [Canary](https://canarymail.io/) / Windows, Mac, Android, iOS
+* [Twobird](https://www.twobird.com/) / Windows, Mac, Android, iOS
+* [Roundcube](https://roundcube.net/) / Web
 
 ***
 
@@ -449,7 +460,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://www.emailgenerator.org) or [etempmail](https://eTempMail.com/) - .Edu Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -486,7 +497,7 @@
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
 * [MintEmail.com](https://www.mintemail.com/) or [tempail.com](https://tempail.com/) - 1 Hour / 1 Hour / 1 Domain
 * [Mohmal](https://www.mohmal.com/en) - 45 Mins / 45 Mins / 1 Domain
-* [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutemail.com](https://10minutemail.com/) or [Linshi Email](https://www.linshi-email.com/en) - 10 Minute Lifespan Emails
+* [⁠MuellMail](https://muellmail.com/en), [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutemail.com](https://10minutemail.com/) or [Linshi Email](https://www.linshi-email.com/en) - 10 Minute Lifespan Emails
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [AnonymMail.net](https://anonymmail.net/) or [Mail.td](https://mail.td/) - 5 Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
@@ -555,7 +566,7 @@
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)** / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
+* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/), [3](https://weboasis.pages.dev/), [4](https://parrotdevelopers.github.io/WebOasis/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 * [r/startpages](https://www.reddit.com/r/startpages/)
 * [8bitdash](https://www.8bitdash.com/)
@@ -625,7 +636,7 @@
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker / [GitHub](https://github.com/mozilla/releases_insights)
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
-* [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager
+* [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager / [Discord](https://discord.com/invite/sine-1377068283693629592)
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md) - Firefox Hidden Settings
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
@@ -922,6 +933,7 @@
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
 * [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
+* [⁠OSINT BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE) - General Index
 * [OSINT Tool Explorer](https://kilaz.net/) - General Index
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index

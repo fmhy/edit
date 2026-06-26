@@ -34,6 +34,14 @@ import { headers } from '../transformer/constants'
 
 const titles = Object.keys(headers).map((key) => headers[key].title)
 
+// Escape a value for safe interpolation into a double-quoted HTML attribute.
+const escapeAttr = (str: string): string =>
+  str
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+
 export const headersPlugin = (md: MarkdownRenderer) => {
   // Add the Feedback component in the heading, before the link.
   //
@@ -79,6 +87,6 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     const heading = meta.feedback.heading || ''
     if (!heading) return result
 
-    return `<Feedback heading="${heading}" />${result}`
+    return `<Feedback heading="${escapeAttr(heading)}" />${result}`
   }
 }

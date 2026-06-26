@@ -22,7 +22,7 @@
 
 ## ▷ Editing Software
 
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Satvrn](https://rentry.co/FMHYB64#satvrn) - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** - Editing Software
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
 * ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
@@ -97,7 +97,7 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[Mosh](https://moshpro.app/)**, **[Efecto](https://efecto.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
+* ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Photo Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
@@ -190,13 +190,14 @@
 * [PyDPainter](https://pydpainter.org/) - Bitmap Graphics Editor / Windows, Mac, Linux / [GitHub](https://github.com/mriale/PyDPainter)
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, Mac
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
+* [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, Mac, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)
 * [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor
 * [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
 * [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
-* [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
+* [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Art Village](https://pixelartvillage.org/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
@@ -234,6 +235,7 @@
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
+* [⁠Undertale Text Gen](https://undertaletextboxgenerator.online/) - ⁠Undertale Text Box Generator / [Discord](https://discord.com/invite/3EzQmbGz6h)
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
@@ -528,7 +530,7 @@
 * [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
 * [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
 * [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
-* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable) - NASA 3D Models
+* [NASA 3D Resources](https://science.nasa.gov/3d-resources/) - NASA 3D Models
 * [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
@@ -546,13 +548,14 @@
 ## ▷ 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
-* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Communities](https://www.blender.org/community/) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Minecraft Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - Generate 3D Objects Based on Text / Image Prompts
 * [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
 * [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
+* [⁠Dust3D](https://dust3d.org/) -  Cross-Platform 3D Modeling App  / [GitHub](https://github.com/huxingyi/dust3d)
 * [Bforartists](https://www.bforartists.de/) - Cross-Platform 3D Modeling App / [Discord](https://discord.com/invite/yKuR77v) / [GitHub](https://github.com/Bforartists/Bforartists)
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
 * [MakeHuman](https://static.makehumancommunity.org/) - 3D Humanoid Modeler
@@ -570,7 +573,6 @@
 
 ## ▷ 3D Modeling Tools
 
-* ⭐ **[Efecto](https://efecto.app/)** - 3D Model Visual Effects
 * [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [⁠Kiri:Moto](https://grid.space/kiri/) - Web-Based 3D Model Slicer 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -602,6 +604,8 @@
 * ⭐ **[⁠Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/)** - CAD App
 * ⭐ **[Onshape](https://www.onshape.com/en/products/free)** - CAD Modeling with Real-time Collaboration
 * [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
+* [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
+* [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
 * [FreeCAD](https://www.freecad.org/) - Parametric CAD Modeling / [GitHub](https://github.com/FreeCAD/FreeCAD)
 * [⁠Chili3d](https://chili3d.com/) - Web-Based CAD App / [GitHub](https://github.com/xiangechen/chili3d)
 * [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-Platform CSG CAD Modeling
@@ -764,7 +768,7 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Resources](https://awesome.immich.app/) / [Extension](https://github.com/bjoernch/immich-companion) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [GitHub](https://github.com/immich-app/immich)
+* [Immich](https://immich.app/) / [Resources](https://awesome.immich.app/) / [Extension](https://github.com/bjoernch/immich-companion) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
 * [Damselfly](https://github.com/Webreaper/Damselfly)
 * [Lap](https://julyx10.github.io/lap/) / [GitHub](https://github.com/julyx10/lap)
 * [HomeGallery](https://home-gallery.org/)
@@ -802,7 +806,6 @@
 * [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
-* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
 
@@ -817,7 +820,6 @@
 * [i](https://tikolu.net/i/) - 8MB / Forever
 * [IMGPile](https://imgpile.com/) - 100MB / Forever
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
-* [pic.maxiol](https://pic.maxiol.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB w/ Account) / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
