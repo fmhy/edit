@@ -4,6 +4,7 @@ import DefaultTheme from 'vitepress/theme'
 import { onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
+import DocLinkBookmarks from './components/DocLinkBookmarks.vue'
 import Sidebar from './components/SidebarCard.vue'
 
 const { Layout } = DefaultTheme
@@ -127,6 +128,7 @@ onUnmounted(() => {
     :url="formattedUrl"
     @close="showBase64Dialog = false"
   />
+  <DocLinkBookmarks />
 </template>
 
 <style>

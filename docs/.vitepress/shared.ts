@@ -36,7 +36,8 @@ export const excluded = [
   'feedback.md',
   'index.md',
   'sandbox.md',
-  'startpage.md'
+  'startpage.md',
+  'my-list.md'
 ]
 
 const safeEnv = (key: string) =>
@@ -112,6 +113,10 @@ export const nav: DefaultTheme.NavItem[] = [
 ]
 
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
+  {
+    text: '<span class="i-twemoji:bookmark"></span> My List',
+    link: '/my-list'
+  },
   {
     text: '<span class="i-twemoji:books"></span> Beginners Guide',
     link: '/beginners-guide'

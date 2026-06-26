@@ -130,6 +130,80 @@ html {
   }
 }
 
+.fmhy-link-wrap {
+  position: relative;
+  display: inline;
+  white-space: inherit;
+}
+
+.fmhy-bookmark-tooltip {
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 50%;
+  z-index: 10;
+  transform: translateX(-50%);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition:
+    opacity 0.15s ease,
+    visibility 0.15s ease;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -0.5rem;
+    right: -0.5rem;
+    top: 100%;
+    height: 0.75rem;
+  }
+}
+
+@media (hover: hover) {
+  .fmhy-link-wrap:hover .fmhy-bookmark-tooltip,
+  .fmhy-bookmark-tooltip:hover {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+}
+
+.link-bookmark-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.55rem;
+  border: 2px solid var(--vp-c-divider);
+  border-radius: 0.5rem;
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-2);
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  box-shadow: var(--vp-shadow-2);
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease,
+    background-color 0.15s ease;
+}
+
+.link-bookmark-btn:hover,
+.link-bookmark-btn:focus-visible {
+  color: var(--vp-c-brand-1);
+  border-color: color-mix(in srgb, var(--vp-c-brand-1) 35%, var(--vp-c-divider));
+  background-color: color-mix(in srgb, var(--vp-c-brand-1) 6%, var(--vp-c-bg-alt));
+}
+
+.link-bookmark-btn.is-saved {
+  color: var(--vp-c-brand-1);
+}
+
+.fmhy-saved-page {
+  padding-bottom: 2rem;
+}
+
 .vp-doc .custom-block a {
   text-decoration: underline;
   text-underline-offset: 4px;
