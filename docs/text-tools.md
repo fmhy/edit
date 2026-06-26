@@ -484,6 +484,7 @@
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [⁠TikZ Editor](https://tikz.dev/editor/) - LaTeX TikZ Diagram Editor / [GitHub](https://github.com/DominikPeters/tikz-editor)
 * [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
 * [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
 
