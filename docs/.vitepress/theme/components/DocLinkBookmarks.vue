@@ -41,6 +41,50 @@ function syncAllButtons() {
     })
 }
 
+function bookmarkFromLi(link: HTMLAnchorElement, li: HTMLLIElement) {
+  const url = normalizeBookmarkUrl(resolveLinkHref(link))
+  const page = normalizePagePath(route.path, site.value.base)
+  const row = extractRowFromLi(li)
+  const saved = toggle({
+    url,
+    page,
+    html: row.html,
+    classes: row.classes
+  })
+
+  if (saved) rememberPageRow(page, site.value.base, url, row)
+
+  li.querySelectorAll<HTMLButtonElement>('.link-bookmark-btn').forEach(
+    (button) => syncButtonState(button, url)
+  )
+}
+
+function createBookmarkButton(
+  link: HTMLAnchorElement,
+  li: HTMLLIElement,
+  href: string,
+  inline = false
+) {
+  const button = document.createElement('button')
+  button.type = 'button'
+  button.className = inline
+    ? 'link-bookmark-btn link-bookmark-btn--inline'
+    : 'link-bookmark-btn'
+  button.dataset.url = href
+  button.innerHTML = inline
+    ? '<span class="link-bookmark-icon" aria-hidden="true"></span>'
+    : '<span class="link-bookmark-icon" aria-hidden="true"></span><span class="link-bookmark-label">Bookmark</span>'
+
+  button.addEventListener('click', (event) => {
+    event.preventDefault()
+    event.stopPropagation()
+    bookmarkFromLi(link, li)
+  })
+
+  syncButtonState(button, href)
+  return button
+}
+
 function createTooltip(
   link: HTMLAnchorElement,
   li: HTMLLIElement,
@@ -49,38 +93,24 @@ function createTooltip(
   const tooltip = document.createElement('span')
   tooltip.className = 'fmhy-bookmark-tooltip'
   tooltip.setAttribute('role', 'tooltip')
-
-  const button = document.createElement('button')
-  button.type = 'button'
-  button.className = 'link-bookmark-btn'
-  button.dataset.url = href
-  button.innerHTML =
-    '<span class="link-bookmark-icon i-lucide:bookmark shrink-0 w-3.5 h-3.5" aria-hidden="true"></span><span class="link-bookmark-label">Bookmark</span>'
-
-  button.addEventListener('click', (event) => {
-    event.preventDefault()
-    event.stopPropagation()
-
-    const url = normalizeBookmarkUrl(resolveLinkHref(link))
-    const page = normalizePagePath(route.path, site.value.base)
-    const row = extractRowFromLi(li)
-    const saved = toggle({
-      url,
-      page,
-      html: row.html,
-      classes: row.classes
-    })
-
-    if (saved) rememberPageRow(page, site.value.base, url, row)
-    syncButtonState(button, url)
-  })
-
-  tooltip.appendChild(button)
-  syncButtonState(button, href)
+  tooltip.appendChild(createBookmarkButton(link, li, href))
   return tooltip
 }
 
+function createInlineBookmark(
+  link: HTMLAnchorElement,
+  li: HTMLLIElement,
+  href: string
+) {
+  const wrap = document.createElement('span')
+  wrap.className = 'fmhy-bookmark-inline'
+  wrap.append(' / ')
+  wrap.appendChild(createBookmarkButton(link, li, href, true))
+  return wrap
+}
+
 function unwrapEnhancedLinks(root: ParentNode) {
+  root.querySelectorAll('.fmhy-bookmark-inline').forEach((el) => el.remove())
   root.querySelectorAll('.fmhy-link-wrap').forEach((wrap) => {
     const parent = wrap.parentNode
     if (!parent) return
@@ -93,15 +123,21 @@ function unwrapEnhancedLinks(root: ParentNode) {
 }
 
 function enhanceLink(link: HTMLAnchorElement, li: HTMLLIElement) {
-  const href = link.href
+  const href = normalizeBookmarkUrl(resolveLinkHref(link))
   if (!href) return
 
-  const wrap = document.createElement('span')
-  wrap.className = 'fmhy-link-wrap'
+  if (!link.closest('.fmhy-link-wrap')) {
+    const wrap = document.createElement('span')
+    wrap.className = 'fmhy-link-wrap'
 
-  link.parentNode?.insertBefore(wrap, link)
-  wrap.appendChild(link)
-  wrap.appendChild(createTooltip(link, li, href))
+    link.parentNode?.insertBefore(wrap, link)
+    wrap.appendChild(link)
+    wrap.appendChild(createTooltip(link, li, href))
+  }
+
+  if (!li.querySelector('.fmhy-bookmark-inline')) {
+    li.appendChild(createInlineBookmark(link, li, href))
+  }
 }
 
 function enhanceLinks() {

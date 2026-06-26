@@ -78,7 +78,9 @@ export function getMainLink(li: HTMLLIElement) {
 export function captureRowHtml(li: HTMLLIElement): string {
   const clone = li.cloneNode(true) as HTMLLIElement
 
-  clone.querySelectorAll('.fmhy-bookmark-tooltip').forEach((el) => el.remove())
+  clone
+    .querySelectorAll('.fmhy-bookmark-tooltip, .fmhy-bookmark-inline')
+    .forEach((el) => el.remove())
   clone.querySelectorAll('.fmhy-link-wrap').forEach((wrap) => {
     const parent = wrap.parentNode
     if (!parent) return

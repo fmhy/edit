@@ -200,6 +200,66 @@ html {
   color: var(--vp-c-brand-1);
 }
 
+.link-bookmark-icon {
+  display: inline-block;
+  flex-shrink: 0;
+  width: 0.85rem;
+  height: 0.85rem;
+  background-color: currentColor;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z'/%3E%3C/svg%3E")
+    center / contain no-repeat;
+}
+
+.link-bookmark-btn.is-saved .link-bookmark-icon {
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='black' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z'/%3E%3C/svg%3E")
+    center / contain no-repeat;
+}
+
+.link-bookmark-btn--inline .link-bookmark-icon {
+  width: 1.3em;
+  height: 1.3em;
+}
+
+.fmhy-bookmark-inline {
+  display: none;
+}
+
+@media (hover: none) {
+  .fmhy-bookmark-tooltip {
+    display: none !important;
+  }
+
+  .fmhy-bookmark-inline {
+    display: inline;
+    white-space: nowrap;
+  }
+
+  .link-bookmark-btn--inline {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    color: var(--vp-c-text-3);
+    vertical-align: -0.24em;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1;
+  }
+
+  .link-bookmark-btn--inline.is-saved {
+    color: var(--vp-c-brand-1);
+  }
+
+  .link-bookmark-btn--inline:active {
+    color: var(--vp-c-brand-1);
+  }
+}
+
 .fmhy-saved-page {
   padding-bottom: 2rem;
 }
