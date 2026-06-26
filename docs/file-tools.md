@@ -338,6 +338,7 @@
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
+* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever

@@ -457,6 +457,7 @@
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.cloud/) - Movies / TV / Anime / Use Adblocker
+* [OpenFlix](https://openflix.lol/) - Movies / TV / Anime
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
@@ -1496,7 +1497,6 @@
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
-* [cineplus](https://www.cineplus.lat) - Movies / TV
 * [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.net/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/Gx27YMK73d)
