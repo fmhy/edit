@@ -977,7 +977,7 @@
 * [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - SVG Path Editor
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - SVG Wave Generators
 * [Blobmaker](https://www.blobmaker.app/) - SVG Blob Generator
-* [AutoTracer](https://www.autotracer.org/) or [⁠vtracer](https://www.visioncortex.org/vtracer/) / [GitHub](https://github.com/visioncortex/vtracer) - Image Vectorizers / Autotracers
+* [AutoTracer](https://www.autotracer.org/), [⁠Vectorize Image](https://vectorize-image.app/) or [⁠vtracer](https://www.visioncortex.org/vtracer/) / [GitHub](https://github.com/visioncortex/vtracer) - Image Vectorizers / Autotracers
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 
 ***

@@ -252,7 +252,7 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Requires Sign-Up / Windows, Mac, Linux / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+* ⭐ **[Stirling](https://stirling.com/)** / Requires Sign-Up / Windows, Mac, Linux / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 * ⭐ **[PDF24](https://www.pdf24.org/)** / Web-Based / Windows
 * [⁠PDF4QT](https://jakubmelka.github.io/) / Windows, Linux / [GitHub](https://github.com/JakubMelka/PDF4QT)
 * [Foxit](https://www.foxit.com/pdf-reader/) / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
@@ -338,6 +338,7 @@
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
+* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
@@ -420,6 +421,7 @@
 * [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / [Client](https://github.com/SamSchott/maestral)
 * [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
+* [VoidDrive](https://voiddrive.org/) - 30GB / Forever / ~$4.99 (1TB Basic)
 * [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)
 * [pCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
 * [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)

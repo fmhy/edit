@@ -566,7 +566,7 @@
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
+* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/), [3](https://weboasis.pages.dev/), [4](https://parrotdevelopers.github.io/WebOasis/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 * [r/startpages](https://www.reddit.com/r/startpages/)
 * [8bitdash](https://www.8bitdash.com/)
@@ -933,6 +933,7 @@
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection) - General Index
 * [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all) - General Index
 * [OSINT All](https://start.me/p/0PwOGl/osint-all) - General Index
+* [⁠OSINT BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE) - General Index
 * [OSINT Tool Explorer](https://kilaz.net/) - General Index
 * [OSINT Resources](https://start.me/p/1kAP0b/osint-resources) - General Index
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index

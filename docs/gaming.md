@@ -841,7 +841,7 @@
 * [Powerline.io](https://powerline.io/) - Multiplayer Snake
 * [mope.io](https://mope.io/) - Become the Biggest Animal / [Discord](https://discord.com/invite/nQAVB9c)
 * [TagPro](https://koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
-* [Billiards Pool Game](https://billiards.tailuge.workers.dev/) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
+* [Billiards Pool Game](https://billiards.tailuge.workers.dev/lobby) - Multiplayer 3D Billiards & Pool / [GitHub](https://github.com/tailuge/billiards)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
@@ -1024,7 +1024,7 @@
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
 * [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/) / [TV](https://actorle.tv/), [Kino.wtf](https://www.kino.wtf/), [Flickle](https://flickle.app/), [⁠Flickle](https://www.flickle.co/) or [Framed](https://framed.wtf/) - Movie / TV Guessing Games
-* [Cinenerdle](https://www.cinenerdle.app/) or [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzles
+* [Cinenerdle](https://www.cinenerdle.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle
 * [⁠AniGuessr](https://aniguessr.com/) - Anime Guessing Game
