@@ -59,6 +59,7 @@
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 * [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime 
 * [VidPlay](https://vidplay.to/) - Movies / TV / Anime
+* [Vidflix](https://vidflix.site/) - Movies / TV / Anime / Sports
 * [Nextbox](https://nextbox.uno/) - Movies / TV / Anime / [Telegram](https://t.me/nextbox_uno) / [Discord](https://discord.gg/UHYrFbvu4z)
 * [PlayTorrio](https://playtorrio.xyz/) - Streaming Desktop App / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [mov-cli](https://mov-cli.github.io/) - Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
@@ -77,7 +78,6 @@
 * [StreamWatch](https://streamwatch.online/), [2](https://pstream.site/), [3](https://streamwatch.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/5eWu9Vz6tQ) / [GitHub](https://github.com/steveyout/streamwatch)
 * [AfterStream](https://afterstream.org/) - Movies / TV / Anime / Auto-Next / [GitHub](https://github.com/thingfoil/afterstream)
 * [IceFY](https://icefy.top/) - Movies / TV / Anime / Auto-Next
-* [Vidflix](https://vidflix.site/) - Movies / TV / Anime / Auto-Next
 * [P-Play](https://play.onlinetz.app/) - Movies / TV / Anime / Auto-Next
 
 ***
