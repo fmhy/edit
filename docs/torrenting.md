@@ -107,13 +107,13 @@
 
 * 🌐 **[qBit Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
 * 🌐 **[qBit Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
-* 🌐 **[qBit WebUIs](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs)** - WebUI Index
+* 🌐 **[qBit WebUIs](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs)** - Alt WebUI Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
-* [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
+* [⁠qui](https://getqui.com/) / [GitHub](https://github.com/autobrr/qui), [VueTorrent](https://github.com/VueTorrent/VueTorrent) / [Demo](https://vuetorrent.github.io/demo/#/) or [iOS Style](https://github.com/ntoporcov/iQbit) - Alt WebUIs
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
-* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
+* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) / Linux - Docker Builds
+* [Color Themes](https://github.com/MahdiMirzadeh/qbittorrent), [Dracula](https://draculatheme.com/qbittorrent), [Catppuccin](https://github.com/catppuccin/qbittorrent) or [Nord](https://github.com/Zabooby/qbittorrent-config) - Client Themes
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
 ***
