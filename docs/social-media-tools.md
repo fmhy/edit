@@ -18,7 +18,7 @@
 * [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
 * [⁠StoryLooker](https://storylooker.com/) or [Snoopchat](https://snoopchat.co/) - Snapchat Frontends / Viewers
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
-* [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
+* [TikTok Stalker](https://tiktok.einzzcookie.org/) - TikTok User Monitor, Video Viewer, Video Downloader, User Tracker, Sharing Faker / [Discord](https://discord.com/invite/dk8jKCWXSW)
 * [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
