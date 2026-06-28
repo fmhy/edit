@@ -259,13 +259,13 @@
 
 * ⭐ **[69xinshu](https://www.69shuba.com/)** - Fiction
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine
+* [tuoverse](https://tuoverse.com/) - Fiction
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction
 * [AutumnWindBookstore](https://www.qiufengshuwu.com/) - Fiction
 * [ixdzs](https://ixdzs.tw/) - Fiction
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
 * [haodoo](https://haodoo.org/) - Fiction
-* [tuotuoshu](https://tuotuoshu.com/) - Fiction
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
@@ -415,7 +415,6 @@
 
 # ► French / Français
 
-* 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / Check Comments / [Subreddit](https://reddit.com/r/FrancePirate/)
 * ⭐ **[Dealabs](https://www.dealabs.com/)** - Track Deals / Freebies
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Tseret](https://tseret.com/) - Game Guides
@@ -456,7 +455,7 @@
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
-* [Movix](https://movix.cloud/) - Movies / TV / Anime / Use Adblocker
+* [Movix](https://movix.chat/) - Movies / TV / Anime / Use Adblocker / [Status](https://movix.online/)
 * [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
@@ -690,7 +689,6 @@
 * [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
 * [MoviesFlix](https://themoviesflix.onl/) - Movies / TV / Anime / [Telegram](https://telegram.dog/TheMoviesflix_Official)
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
-* [isaiDub](https://rentry.co/FMHYB64#isaidub) - Movies / TV / 720p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
