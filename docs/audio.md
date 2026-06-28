@@ -398,7 +398,7 @@
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse)
+* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 128kb Free / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
@@ -577,7 +577,7 @@
 * [Free Music Archive](https://freemusicarchive.org/) - Curated Library
 * [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library / CC0 License
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
-* [Fugue](https://icons8.com/music) - Music for Creators
+* [Fugue](https://icons8.com/music) or [Free to Use](https://freetouse.com/music) - Music for Creators
 * [Chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
 * [⁠DOVA-SYNDROME](https://dova-s.jp/en/) - Royalty-Free Library
 * [tunetank](https://tunetank.com/) - Music for Videos
@@ -596,6 +596,7 @@
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks
 * [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
+* [⁠Adtunes](https://adtunes.com/) - Commercial / Trailer Media Soundtrack Community
 * [KDramaOST](https://kdramaost.com/en/) - KDrama Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [OSAnime](https://osanime.com/), [VGMdb](https://vgmdb.net/), [JMAX](https://discord.gg/hCw8VqJV8J) or [OSAnime](https://osanime.com/) - Anime Soundtracks
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music
@@ -878,6 +879,7 @@
 * [FB2K-SyncedLyrics](https://rentry.co/FB2K-SyncedLyrics) - Foobar2000 Synced Lyrics
 * [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.boidu.dev/) / [GitHub](https://github.com/better-lyrics/composer) - Synced Lyrics Editor
 * [X-Minus](https://x-minus.pro/), [⁠Croonify](https://croonify.com/) or [LRCMaker.com](https://lrcmaker.com/) - Create / Find Karaoke Songs
+* [synced+](https://mono-o-o.github.io/synced-plus/) - Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)⁠
 * [⁠Kara.moe](https://kara.moe/) - Anime Theme Song Videos / Download / Karaoke
 
 ***

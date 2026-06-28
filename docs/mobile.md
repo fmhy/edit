@@ -71,6 +71,7 @@
 * [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS App Installer / [Telegram](https://t.me/neo_android_store)
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - FOSS Apps / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) / [GitLab](https://gitlab.com/IzzyOnDroid/repo)
 * [You Apps](https://you-apps.net/) - FOSS Apps / [GitHub](https://github.com/you-apps)
+* [⁠Komi Store](https://github.com/kurikomi-labs/komi-store) - Git Repo Mobile App
 * [GrapheneOS Apps](https://github.com/GrapheneOS/AppStore) - Work on Non-GrapheneOS Devices / [Discuss](https://discuss.grapheneos.org/)
 
 ***
@@ -143,7 +144,7 @@
 
 * 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek) or [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) - Morphe Patch Indexes
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
-* ⭐ **[Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)** - Pre-Built Updatable APKs
+* ⭐ **[Morphe / ReVanced Obtainium Guide](https://wispydocs.pages.dev/morphe-piko-obtainium/)** - Pre-Built Updatable APKs
 * ⭐ **[Morphe](https://morphe.software/)** - Android App Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
 * [FiorenMas Pre-Built](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Every Patched App / [Telegram](https://t.me/fiorenmas)
@@ -179,7 +180,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
-* [Purrfect](https://t.me/purrfect_tg) - Modded Snapchat, Reddit & Instagram / [Source](https://www.purrfectgit.com/r/particle-box/purrfect)
+* [Purrfect](https://t.me/purrfect_tg) - Modded Snapchat, Reddit & Instagram / [Source Code](https://www.purrfectgit.com/r/particle-box/purrfect)
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [Launch Chat](https://github.com/vinaygopinath/launch-chat), [WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number-Free WhatsApp Chat
@@ -217,7 +218,6 @@
 * [Device Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw), [Athena](https://github.com/SebaUbuntu/Athena), [DevCheck](https://devcheck.app/) or [SysLog](https://github.com/Tortel/SysLog) - Device Info / Monitors
 * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) (root) - Task Manager for Android
 * [Swappa](https://swappa.com/imei) / [Subreddit](https://reddit.com/r/swappa) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
-* [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
 * [Fire Toolbox](https://xdaforums.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 
@@ -240,7 +240,7 @@
 
 * ⭐ **[r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
 * ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
-* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** - Minimal Wallpapers / [GitHub](https://github.com/not-ayan/wallwidgy)
+* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** - Minimal Wallpapers / [App](https://github.com/not-ayan/Wallwidgy_Android/) / [GitHub](https://github.com/not-ayan/wallwidgy)
 * [RBoard](https://xdaforums.com/t/app-rboard-theme-manager.4331445/) (root) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) (requires shizuku)- Theme Managers
 * [PixelXpert](https://github.com/siavash79/PixelXpert) (root), [⁠Iconify](https://github.com/Mahmud0808/Iconify), [⁠Essentials](https://github.com/sameerasw/essentials) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
@@ -250,7 +250,6 @@
 * [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers / Some NSFW
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Wallpapers
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
-* [Wallwidgy](https://github.com/not-ayan/Wallwidgy_Android/) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [r/Amoledbackgrounds](https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Wallpapers ⁠
@@ -316,7 +315,7 @@
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
-* [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Call Recorder / **Check Local Call Recording Laws**
+* [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui), [⁠ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Call Recorder / **Check Local Call Recording Laws**
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Prepaid SIM Cards](https://prepaid-data-sim-card.fandom.com/wiki/Prepaid_SIM_with_data) - Prepaid Data SIM Card Wiki
@@ -416,7 +415,7 @@
 * ⭐ **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** or [Goodwy Gallery](https://github.com/Goodwy/Gallery) - Photo / Video Gallery
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
 * [⁠Photoo](https://github.com/xigua222/photoo/blob/main/README_EN.md) - Photo Organizer / Gallery
-* [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
+* [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
 * [ReFra](https://github.com/IacobIonut01/ReFra) - Photo / Video Gallery
 * [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
 * [Ente](https://ente.com/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
@@ -891,6 +890,7 @@
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers / Spectrograms
 * [Musekit](https://github.com/Kwasow/Musekit) or [Tack](https://github.com/patzly/tack-android) - Tuning Fork / Metronome
 * [Ad Silence](https://github.com/aghontpi/ad-silence) - Mutes Ads on Music Platforms
+* [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 
 ***
 
@@ -926,7 +926,7 @@
 
 ***
 
-* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
+* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[⁠ArchiveTune](https://archivetune.koiiverse.cloud/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/koiverse/ArchiveTune)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
@@ -1065,7 +1065,7 @@
 
 ## ▷ Android YouTube Apps
 
-* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/revanced-morphe-obtainium/) / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
+* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes
@@ -1090,7 +1090,7 @@
 * ⭐ **[PairVPN Hotspot](https://pairvpn.com/hotspot)** - Create Mobile Hotspots
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** or [Iriun](https://iriun.com/) - Use iOS Device as Webcam
 * [iTorrent](https://github.com/XITRIX/iTorrent) / [AltStore](https://therealfoxster.github.io/altsource-viewer/view/?source=https://xitrix.github.io/iTorrent/AltStore.json) or [PikaTorrent](https://www.pikatorrent.com/) / [GitHub](https://github.com/G-Ray/pikatorrent) - Torrent Clients 
-* [⁠iDescriptor](https://github.com/iDescriptor/iDescriptor) - iDevice (iPhone/iPad) Management Tool
+* [⁠iDescriptor](https://idescriptor.github.io/) - iDevice (iPhone/iPad) Management Tool / [GitHub](https://github.com/iDescriptor/iDescriptor)
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [⁠CAPlayground](https://caplayground.vercel.app/) - Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / [GitHub](https://github.com/CAPlayground/CAPlayground)
@@ -1168,6 +1168,7 @@
 * [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X)
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
 * [Odyssey](https://theodyssey.dev/) - 13.0-13.7 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-odyssey/)
+* [Amethyst](https://github.com/staturnzz/amethyst/) - 12.0-13.0 Semi-Untethered / [Guide](https://ios.cfw.guide/installing-amethyst/)
 * [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.8 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-chimera/)
 * [unc0ver](https://github.com/pwn20wndstuff/Undecimus) - 11.0-14.8 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-unc0ver/)
 * [Electra](https://coolstar.org/electra/) - 11.0-11.4.1 Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-electra/)
@@ -1202,7 +1203,7 @@
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://getsileo.app/) or [Zebra](https://getzbra.com/) - iOS Package Managers
 * [iOS Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
-* [Nugget](https://github.com/leminlimez/Nugget) - iOS Tweaks Tool / [Discord](https://discord.gg/cowabunga)
+* [Nugget](https://github.com/leminlimez/Nugget) / [Discord](https://discord.gg/cowabunga) or [Lara](https://github.com/rooootdev/lara) - iOS Tweak Tools
 * [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [OneJailbreak](https://onejailbreak.com/) or [iDownload](https://www.idownloadblog.com/tag/jailbreak/) - Jailbreak News
@@ -1343,6 +1344,7 @@
 * [Music Speed Changer](https://apps.apple.com/us/app/music-speed-changer/id1595494271) - Audio Multi-Tool / Equalizer
 * [⁠ByeTunes](https://github.com/EduAlexxis/ByeTunes) - Bypass iTunes + Directs Add Music / Ringtones
 * [stats.fm](https://stats.fm/) - Spotify Listening Stats
+* [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 
 ***
 

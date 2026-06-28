@@ -20,6 +20,7 @@
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
+* [⁠grapper](https://grapper.gab.net.eu.org/) - Vine Video Archive / Username Required 
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
@@ -252,7 +253,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
 
 ***
 
@@ -404,6 +405,7 @@
 * [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
 * [YT Playlist Length](https://ytplaylist-len.sharats.dev/) / [2](https://ytplaylist-length.codingdeft.com/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
 * [YouTubePlaylistMerge](https://rentry.org/YouTubePlaylistMerge) - Playlist Merge Guide
+* [⁠YouTube Auto-Pause Bypass](https://greasyfork.org/en/scripts/568818) - Prevents YouTube Playlist Auto-Pausing 
 
 ***
 
@@ -516,7 +518,7 @@
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontend / Viewer
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
-* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
+* [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch ), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.lucidnet.app/) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * Alternate Player for Twitch.tv - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/) / [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open

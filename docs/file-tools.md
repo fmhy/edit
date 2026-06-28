@@ -278,7 +278,7 @@
 * ⭐ **[LocalSend](https://localsend.org/)** - Local / All Platforms / [Web Version](https://web.localsend.org/) / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
 * ⭐ **[Blip](https://blip.net/)** - Hybrid / Turn "Searchable by Name" Off in Settings / Windows, Mac, Android, iOS
 * [Photon](https://photondev.netlify.app/) - Local / Windows, Mac, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
-* [KDE Connect](https://kdeconnect.kde.org/) - Local / All Platforms / [Source](https://kdeconnect.kde.org/get-involved.html)
+* [KDE Connect](https://kdeconnect.kde.org/) - Local / All Platforms / [Source Code](https://kdeconnect.kde.org/get-involved.html)
 * [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Local / Windows, Linux, Android
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
@@ -371,7 +371,7 @@
 * [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / **Use uBlock**
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
-* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Source](https://codeberg.org/Fijxu/patchy)
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever

@@ -15,13 +15,13 @@
 * ⭐ **[r/CrackWatch](https://www.reddit.com/r/CrackWatch/)**, [r/RepackWorld](https://reddit.com/r/RepackWorld), [⁠IsItCracked](https://isitcracked.com/), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Scene Release Trackers
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)**, [2](https://hl2b.com/) - Find Average Game Lengths / [Discord](https://discord.gg/v5F26Dk)
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
-* ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes / [Source](https://madebyjase.com/game-pauser/source/)
+* ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes / [Source Code](https://madebyjase.com/game-pauser/source/)
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [⁠Greenlight](https://github.com/unknownskl/greenlight) - Improved xCloud Client / Xbox Cloud Gaming
 * [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [X](https://x.com/redphx) / [Telegram](https://t.me/betterxcloud) / [GitHub](https://github.com/redphx/better-xcloud)
-* [Ghost Hunter Pro](https://github.com/MarchTheDev/GhostHunterPro-GUI) - Removes Leftover Game Files
+* [Ghost Hunter Pro](https://github.com/MarchTheDev/GhostHunterPro) - Removes Leftover Game Files
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [⁠Lets Play Index](https://www.letsplayindex.com/) - Index of Lets Plays / Longplays
 * [⁠TASVideos](https://tasvideos.org/) - TAS Video Community / Resources / [Emulator Resources](https://tasvideos.org/EmulatorResources) / [Game Resources](https://tasvideos.org/GameResources)
@@ -576,7 +576,7 @@
 * [⁠PSX Place](https://www.psx-place.com/) - Playstation Homebrew Forums
 * [PSDevWiki](https://www.psdevwiki.com/) - Playstation Dev / Homebrew Wiki
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) / [GitHub](https://github.com/streetpea/chiaki-ng) or [RemotePlay](https://remoteplay.dl.playstation.net/remoteplay/lang/gb/) - Playstation Remote Play Clients
-* [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) - PS5 Homebrew Subreddit
+* [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) or [r/PS5_Jailbreak](https://www.reddit.com/r/PS5_Jailbreak/) - PS5 Homebrew Subreddits
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [⁠OrbisPatches](https://orbispatches.com/) or [ProsperoPatches](https://www.prosperopatches.com/) - PS4 / PS5 Game Updates / [Discord](https://discord.com/invite/2ApmZKs)
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
@@ -671,6 +671,7 @@
 * [MCSManager](https://mcsmanager.com/) - Server Manager / [GitHub](https://github.com/MCSManager/MCSManager)
 * [Fork](https://www.fork.gg/) - Server Manager / [GitHub](https://github.com/ForkGG)
 * [SquidServers](https://squidservers.com/) - Server Manager / Easy Setup / [Discord](https://discord.gg/Y8QtmK2exk) / [GitHub](https://github.com/squidservers)
+* [⁠MCJars](https://mcjars.app/) - Server Jar Archive
 * [⁠GrimAC](https://modrinth.com/plugin/grimac) - Free Server Anti-Cheat / [GitHub](https://github.com/GrimAnticheat/Grim)
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers / [Discord](https://discord.com/invite/HvQugYx) / [GitHub](https://github.com/minekube/connect-java)
 * [ViaVersion](https://viaversion.com/) - Allow Connections from Older Versions / [Discord](https://discord.gg/viaversion) / [GitHub](https://github.com/viaversion)
@@ -745,6 +746,7 @@
 * 🌐 **[Modrinth](https://modrinth.com/)** - Minecraft Mods / [Redirector](https://github.com/devBoi76/modrinthify) / [Discord](https://discord.com/invite/EUHuJHt) / [GitHub](https://github.com/modrinth/code)
 * 🌐 **[CurseForge](https://www.curseforge.com/minecraft)** - Minecraft Mods / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
 * [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) / [GitHub](https://github.com/FabricMC), [NeoForged](https://neoforged.net/) / [X](https://x.com/NeoForged_MC) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/neoforged), [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/MinecraftForge/MinecraftForge), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [GitHub](https://github.com/QuiltMC) - Mod Loaders
+* [⁠Minecraft Guides](https://www.minecraft-guides.com/) - Mod Guides
 * [ViaFabricPlus](https://modrinth.com/mod/viafabricplus), [2](https://www.curseforge.com/minecraft/mc-mods/viafabricplus) - Fabric Mod for Joining All Versions / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion/ViaFabricPlus?tab=readme-ov-file)
 * [WorldEdit](https://enginehub.org/worldedit) / [BE](https://github.com/SIsilicon/WorldEdit-BE), [Toolchest](https://bedrocktoolchest.com/) (bedrock) or [Axiom](https://modrinth.com/mod/axiom), [2](https://axiom.moulberry.com/) / [Discord](https://discord.com/invite/axiomtool) - Building Tools / World Editors
 * Worldedit Tools - [Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
@@ -773,9 +775,9 @@
 
 ## ▷ Maps / World Tools
 
-* 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
-* [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) / [Discord](https://discord.com/invite/TCmvrPyA9x) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
-* [MCSeedMap](https://mcseedmap.net/), [MineAtlas](http://mineatlas.com/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Minecraft Seed Map Viewers
+* 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Map Tools
+* [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) / [Discord](https://discord.com/invite/TCmvrPyA9x) or [WorldPainter](https://www.worldpainter.net/) - Map Editors / Viewers
+* [MCSeedMap](https://mcseedmap.net/), [MineAtlas](http://mineatlas.com/), [Seeds.gg](https://www.seeds.gg/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Seed Map Viewers
 * [MapVerse](https://mapverse.net/) - Download / Play Minecraft Map Servers / [Discord](https://discord.gg/xFgTJtebgp)
 * [MinecraftMaps](https://www.minecraftmaps.com/), [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
@@ -786,7 +788,7 @@
 * [⁠je2be-web](https://je2be.app/) - Minecraft File Converter / [GitHub](https://github.com/kbinani/je2be-web)
 * [Chunker](https://oss.chunker.app/) - Java / Bedrock Format Converter
 * [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
-* [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
+* [Amidst](https://github.com/toolbox4minecraft/amidst) - World Overview Display Tool
 * [⁠Custom Worlds](https://superflat.crackedmagnet.com/) - Bedrock Custom Superflat / Single Biome World Generator
 
 ***
@@ -824,7 +826,7 @@
 * [MinecraftCapes](https://minecraftcapes.net/) / [Discord](https://discord.com/invite/jqRU9SN) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [⁠Minetrim](https://minetrim.com/) - Minecraft Armor Trim Generator
 * [Minecraft Heads](https://minecraft-heads.com/) - Custom Minecraft Heads / [Discord](https://discord.com/invite/K7yxDD2HP3)
-* [PVPRP](https://pvprp.com/) - PVP Texture Packs / [Bypass Youtube Requirement](https://greasyfork.org/en/scripts/467663) / [X](https://twitter.com/PVPRPacks) / [Discord](https://discord.gg/pvprp)
+* [PVPRP](https://pvprp.com/) / [Bypass YT Requirement](https://greasyfork.org/en/scripts/467663) / [X](https://twitter.com/PVPRPacks) / [Discord](https://discord.gg/pvprp) or [⁠PacksMC](https://packsmc.com/) - PVP Texture Packs
 * [⁠ConvertMCPack](https://convertmcpack.net/) - Texture Pack Version Converter
 
 ***

@@ -129,7 +129,6 @@
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / [Guide](https://wikia.schneedc.com/bot-creation/intro) / [Resources](https://clarasguide.valeena.workers.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Agnai](https://agnai.chat/)** - Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW / [Discord](https://discord.com/invite/DAn38sA8Qj)
 * ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Unlimited (Model-Ares) / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
-* ⭐ **[Chub](https://chub.ai/)** - Roleplaying Chatbots / Sign-Up / Some NSFW / [Subreddit](https://www.reddit.com/r/Chub_AI/) / [Discord](https://discord.gg/chubai) / [GitHub](https://github.com/CharHubAI)
 * [HammerAI](https://www.hammerai.com/characters) - Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / [Local](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [Subreddit](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom) 
 * [Miku](https://docs.miku.gg/) / [Live Demo](https://bots.miku.gg/) / Open-Source / Roleplaying / Some NSFW / [Discord](https://discord.gg/3XPdpUdGgV)
 * [4thWall AI](https://beta.4wall.ai/) / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai) or [WyvernChat](https://app.wyvern.chat/) - Roleplaying Chatbots / No Sign-Up

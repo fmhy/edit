@@ -139,7 +139,7 @@
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
-* [360Cities](https://www.360cities.net/), [Zhijianshang](https://www.zhijianshang.com/), [⁠Tas360](https://tas360.au/explore) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
+* [360Cities](https://www.360cities.net/), [⁠Tas360](https://tas360.au/explore) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 * [National Palace Museum](https://tech2.npm.edu.tw/720vr/enHome.html) - National Palace Museum Virtual Tours
 * [The Bayeux Tapestry](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/explore-online/) - Bayeux Tapestry 3D Digitization
@@ -261,6 +261,7 @@
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
 * [Tinkercad](https://www.tinkercad.com/) - Educational CAD Modeling
 * [LibreTexts Engineering](https://eng.libretexts.org/Bookshelves) - Engineering Learning / Guides
+* [⁠Lunchbox Sessions](https://www.lunchboxsessions.com/) - Interactive Mechanical / Electric Engineering Tutorials
 * [CESDB](https://www.cesdb.com/) or [LavTeam](https://lavteam.org/) - Engineering Software
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
@@ -686,43 +687,47 @@
 
 ***
 
+## ▷ World Data
+
+* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
+* [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - World Data Visualizations
+* [EverySecond](https://everysecond.io/) - Visualize Per Second World Data
+* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
+* [NationsEncyclopedia](https://www.nationsencyclopedia.com/) or [⁠CityPopulation](https://citypopulation.de/) - Location / Population Data
+* [City Data](https://www.city-data.com/) - US City Data
+* [Rulers.org](https://rulers.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
+* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
+* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
+* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
+* [Climate Data](https://climate-data.org/), [Climate.us](https://www.climate.us/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
+* [ExtremeWeatherWatch](https://www.extremeweatherwatch.com/) - Extreme Weather Data / Tracking
+* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
+
+***
+
 ## ▷ Geography / Sociology
 
 * 🌐 **[Soar](https://soaratlas.com/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
-* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
-* ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/) or [Seterra](https://www.seterra.com/#quizzes) - Geography Quiz Sites
 * [Teuteuf](https://teuteuf.fr/) - Country Guessing Games
-* [OEC Games](https://oec.world/en/games) - Trade Data Games
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/), [MapFight](https://www.mapfight.xyz/) or [True Size of Countries](https://truesizeofcountries.com/) - Compare Country Size
-* [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
-* [City Data](https://www.city-data.com/) - US City Data
-* [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
 * [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
+* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [LGA World Database](https://database.ilga.org/) - LGBT Legal Rights Map / Policy Tracking
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
-* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
-* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
-* [Rulers.org](https://rulers.org/) - World Heads Of State & Government Database
-* [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
-* [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
-* [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
-* [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
-* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
-* [ExtremeWeatherWatch](https://www.extremeweatherwatch.com/) - Extreme Weather Data / Tracking
-* [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
-* [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) - Mountain Visualization & Info
-* [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 * [WorldLicensePlates](http://www.worldlicenseplates.com/) - World License Plate Index
 * [Symbols](https://www.symbols.com/) - Symbol Database
 
@@ -732,11 +737,11 @@
 
 * ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)** / [2](https://www.crwflags.com/fotw/flags/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/), [FlagLog](https://www.flaglog.com/) or [Flaglookup](https://flaglookup.com/) - Flag Databases
 * ⭐ **[FAME](https://zeljko-heimer-fame.from.hr/descr/index.html)** - Flag / Coat of Arms Database
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
-* [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
-* [r/vexillology Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/) - Flag Meanings Database
+* [r/vexillology](https://www.reddit.com/r/vexillology//) - Vexillology / Flag Subreddit / [Flag Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/)
+* [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
-* [Vexilogy Discord](https://discord.gg/vex) - Vexilogy / Flag Discord Community
+* [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
+* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
 
 ***
 
@@ -746,7 +751,8 @@
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
-* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [OEC Games](https://oec.world/en/games) - Trade Data Games
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
@@ -985,7 +991,8 @@
 * 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** – Reddit community for Go / Baduk / Weiqi
 * ⭐ **[Online Go Server (OGS)](https://online-go.com/)** – Modern Online Go Platform / [GitHub](https://github.com/online-go)
 * ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
-* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Elegant Go Board & SGF Editor 
+* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Go Board & SGF Editor
+* [⁠Kaya](https://kayago.app/) - Go (Baduk/Weiqi) Board Analysis Tool / [GitHub](https://github.com/kaya-go/kaya)
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
 * [KataGo Training](https://katagotraining.org/) – Open-Source Neural Network Go AI
@@ -1291,7 +1298,7 @@
 * 🌐 **[Lojban.io](https://lojban.io/)** - Lojban Learning Resources / Focused on Logical Grammatical Structures
 * 🌐 **[⁠Languages of Arda](https://rentry.co/languages-of-arda)** - Guide to Tolkien Languages
 * [⁠Esperanto12](https://esperanto12.net/) or [⁠Esperanto in 17 Minutes](https://unua.leciono.org/) - Esperanto Learning
-* [Toki Pona (.net)](https://tokipona.net/), [Toki Pona](https://tokipona.org/) / [Subreddit](https://www.reddit.com/r/tokipona/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [DuoStories Toki](https://duostories.org/tok-en) / [2](https://duostories.org/tok2-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language
+* [Toki Pona (.net)](https://tokipona.net/), [Toki Pona](https://tokipona.org/) / [Subreddit](https://www.reddit.com/r/tokipona/), [⁠mun!](https://mun.la/), [⁠lipu sona mi pi toki pona](https://lipu-sona.comforttiger.space/en/), [lipu sona pona](https://lipu-sona.pona.la/), [⁠Jan Lope Toki Pona](https://jan-lope.github.io/Toki_Pona_lessons_English/), [DuoStories Toki](https://duostories.org/tok-en) / [2](https://duostories.org/tok2-en) or [Wasona](https://wasona.com/) / [GitHub](https://github.com/wasona/wasona) - Toki Pona Learning Sites / Minimal Language
 * [⁠ma pona pi toki pona](https://discord.com/invite/mapona) (discord) - Toki Pona Community / Learning / Resources
 * [⁠sona pona](https://sona.pona.la/) - Toki Pona Wiki / Minimal Language
 * [Toki Pona Dictionary](https://commons.wikimedia.org/wiki/File:Toki_Pona_Dictionary.pdf), [⁠nimi.li](https://nimi.li/) / [GitHub](https://github.com/cubedhuang/nimi.li) or [Linku](https://linku.la/) / [GitHub](https://github.com/lipu-linku/sona) / [Audio](https://mylittlewordland.com/course/351477/toki-pona-jan-lentan-s-course-with-audio) - Toki Pona Dictionaries
@@ -1495,7 +1502,7 @@
 * 🌐 **[⁠Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)** - Data Analysis Resources 
 * 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
 * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
-* ⭐ **[⁠The Borr Project](https://borr.dev/data-science/)** / [Discord](https://discord.gg/uR2QS36pdH) or **[OSSU Data Science](https://github.com/ossu/data-science)** / [Discord](https://discord.gg/wuytwK5s9h) - Data Science Roadmaps 
+* ⭐ **[OSSU Data Science](https://github.com/ossu/data-science)** - Data Science Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Visualization.info](https://visualization.info/) - Learn About Data Visualization

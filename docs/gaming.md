@@ -61,7 +61,7 @@
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
 * [⁠Vanya Games](https://vanya-games.site/) - Download
 * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)** 
-* [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
+* [VHSTaPE](https://vhstaperepacks.com/) or [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Elamigos](https://elamigos.site/) - Download
 
@@ -814,6 +814,7 @@
 * [Truffled](https://truffled.lol/g) - Browser Games / Ports 
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
+* [⁠Catclass](https://catclass.net/g) - Browser Games / [Discord](https://discord.com/invite/8bf7D7Tw5U)
 
 ***
 

@@ -37,7 +37,7 @@
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/)
-* [Torrents-CSV](https://torrents-csv.com/) / [Source](https://codeberg.org/heretic/torrents-csv-server)
+* [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [snowfl](https://snowfl.com/)

@@ -237,7 +237,7 @@
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, Mac, Linux
 * [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/vnotex/vnote)
-* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / Windows, Mac, Linux, Android / [Discord](https://discord.gg/V7HYtShrB7) / [Source](https://codeberg.org/ArkHost/HelixNotes)
+* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / Windows, Mac, Linux, Android / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
 * [Tiddly](https://tiddlywiki.com/) - Info Manager / Windows, Mac, Linux / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Org-roam](https://www.orgroam.com/) - Info Manager / Self-Hosted / [GitHub](https://github.com/org-roam/org-roam)
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / Windows / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
@@ -477,7 +477,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/), [⁠TeXPage](https://www.texpage.com/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide

@@ -48,7 +48,6 @@
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
-* [koraa-live](https://www.koraa-live.com/) - Live Football
 * [al-fann](https://www.al-fann.net/) - Music
 * [PlayTorrio](https://playtorrio.xyz/) - Streaming Desktop App / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 
@@ -682,7 +681,9 @@
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [TheMoviesBoss](http://themoviesboss.fans/) - Movies / TV
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
+* [KMMovies](https://kmmovies.life/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
+* [MoviesLeech](https://moviesleech.bar/) - Movies / TV / Sub
 * [MoviesKai](https://movieskai.top/) - Movies / TV / Sub / Dub / 1080p
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
@@ -725,6 +726,7 @@
 * [1Tube](https://www.1tube.org/) - Movies / TV / Anime / 4K / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [HydraHD](https://hydrahd.com/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Anime Joker](https://animejoker.com/) - Movies / TV / Anime
+* [Screenscape](https://screenscape.me/) - Movies / TV / Anime
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [1tamilyogi](https://1tamilyogi.me//), [2](https://1tamilyogi.ro/) - Movies / TV
 * [5movierulz](https://www.5movierulz.markets/) - Movies / TV / Anime
@@ -747,6 +749,7 @@
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.vercel.app/) - Music
+* [Swayam Central](https://swayam.gov.in/) - Free Courses
 * [GateSmashers](https://www.youtube.com/@GateSmashers) - Gate Preparation / Educational
 
 ## ▷ Reading
@@ -1542,7 +1545,6 @@
 * [jkanimeflv](https://jkanimeflv.com/) - Anime / Sub
 * [veranimes](https://wwv.veranimes.net/) - Anime
 * [animeav1](https://animeav1.com/) - Anime
-* [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub
 * [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
 * [estrenosanime](https://estrenosanime.net/) - Anime
 * [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub

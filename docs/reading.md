@@ -10,7 +10,7 @@
 * ⭐ **[Anna's Archive](https://annas-archive.gl/)**, [2](https://annas-archive.pk), [3](https://annas-archive.gd) - Books / Comics / [Mirrors](https://en.wikipedia.org/wiki/Anna's_Archive) / [Deploy Locally](https://software.annas-archive.gl/AnnaArchivist/annas-archive) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://z-library.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/), [5](https://articles.sk/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.xyz/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-* ⭐ **[Bookracy](https://bookracy.com/)** - Books / Comics / Manga
+* ⭐ **[Bookracy](https://bookracy.com/)** - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
@@ -358,6 +358,7 @@
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.net/)
+* [Mapple](https://mapplee.com/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
 * [CozyAudiobooks](https://cozyaudiobooks.com/category/) / Some NSFW

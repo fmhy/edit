@@ -18,7 +18,7 @@
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) or  - Find Random Small / Indie Sites
 * [Dan's Guides](https://rentry.co/danxyz7) - List of Guides by Dan
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
-* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
+* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [FckSignups](https://fcksignups.com/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
 * [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
@@ -394,7 +394,7 @@
 
 * ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [FacilMap](https://facilmap.org/), [OsmAPP](https://osmapp.org/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** or [MapComplete](https://mapcomplete.org/) / [Source](https://source.mapcomplete.org/MapComplete/MapComplete/) - Open Community Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** or [MapComplete](https://mapcomplete.org/) / [Source Code](https://source.mapcomplete.org/MapComplete/MapComplete/) - Open Community Maps
 * ⭐ **[StreetComplete](https://streetcomplete.app/)** - OpenStreetMap Surveyor App / Quests / [GitHub](https://github.com/streetcomplete/streetcomplete)
 * ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Features](https://github.com/deevroman/better-osm-org) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
@@ -1391,6 +1391,7 @@
 
 ## ▷ Image / Video
 
+* ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_search)**
 * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_image_creation)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
