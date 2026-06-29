@@ -1148,6 +1148,7 @@
 * [Roblox Tools](https://thecsdev.com/tool/roblox-tools/) - Roblox Assets Downloader 
 * [Dripzels](https://dripzels.com/) or [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+* [Delta Executor](https://delta-executor.click/) - Powerful Roblox Script Executor
 
 ***
 
