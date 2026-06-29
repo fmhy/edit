@@ -719,6 +719,7 @@
 * ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting OCR
 * [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
+* [Parsify](https://parsify.dev/) - Free, privacy-first, on-device browser OCR
 * [i2ocr](https://www.i2ocr.com/) - Online OCR
 * [GLM-OCR](https://ocr.z.ai/) - Online OCR
 * [OCR.SPACE](https://ocr.space/) - Online OCR
