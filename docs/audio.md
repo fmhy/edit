@@ -232,6 +232,7 @@
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiolise](https://radiolise.com/) - Online Radio Player / Directory
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
+* [TVAtlas Radio](https://tvatlas.app/radio) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
 * [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [⁠Vijay's Radio Vibes](https://vijaysradiovibes.pages.dev/) - Random Radio Stations
@@ -249,6 +250,7 @@
 * [⁠WFMU](https://wfmu.org/) - Independent Internet Radio
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
 * [Radiooooo](https://app.radiooooo.com/) - Radio / Time Machine
+* [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio 
 * [Tilderadio](https://tilderadio.org/) - Community Radio
 * [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio

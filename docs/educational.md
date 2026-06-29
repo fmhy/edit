@@ -995,7 +995,7 @@
 * [⁠Kaya](https://kayago.app/) - Go (Baduk/Weiqi) Board Analysis Tool / [GitHub](https://github.com/kaya-go/kaya)
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
-* [KataGo Training](https://katagotraining.org/) – Open-Source Neural Network Go AI
+* [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) – Open-Source Neural Network Go AI
 * [The Interactive Way To Go](https://playgo.to/en) – Interactive Beginner Tutorial 
 * [Josekipedia](https://www.josekipedia.com/) – Dictionary for Corner Openings
 * [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro Game Pattern Search Engine

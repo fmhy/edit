@@ -240,6 +240,7 @@
 * [OpenTogetherTube](https://opentogethertube.com/) or [TurtleTV](https://turtletv.app/) - Online Player
 * [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Player
+* [Mzelo](https://mzelo.com/) - Online Player
 * [CyTube](https://cytu.be/) - Online Player
 * [⁠CinevoSync](https://sync.cinevo.us/) - Online Player
 * [VideoTogether](https://2gether.video/en-us/) - App
