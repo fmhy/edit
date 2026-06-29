@@ -620,22 +620,14 @@
 
 ***
 
-## ▷ IPTV Tools
+# ► IPTV Tools
 
 * 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
 * 🌐 **[IPTV Playlists](https://rentry.co/FMHYB64#iptv-playlists)** - List of Playlists
-* ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
-* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player
-* [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / [Docs](https://tbeezy.github.io/ynotvdoc/)
-* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit 
+* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
-* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
-* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
-* [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
-* [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
-* [IPTV Player](https://iptv-player.me/) - IPTV Web Player
-* [⁠NextPVR](https://www.nextpvr.com/) - M3U-Based DVR 
+* [PlaylistEditorTV](https://codeberg.org/Isayso/PlaylistEditorTV) - IPTV Playlist Editor
+* [⁠NextPVR](https://www.nextpvr.com/) - M3U-Based DVR
 * [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
 * [IPTV Community](https://iptv.community/) - IPTV Forum
 * [CaberNetwork](https://github.com/cabernetwork/cabernet/) - IPTV Manager
@@ -643,6 +635,18 @@
 * [M3U4U](https://m3u4u.com/) - M3U Editor
 * [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/blob/main/README.en.md) / [GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) or [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - ⁠M3U8 Download Tools
 * [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
+
+***
+
+## ▷ IPTV Players
+* ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
+* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, Mac, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, Mac, Linux
+* [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / Windows / [Docs](https://tbeezy.github.io/ynotvdoc/)
+* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Web Player
+* [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
+* [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
+* [IPTV Player](https://iptv-player.me/) - IPTV Web Player
 
 ***
 
