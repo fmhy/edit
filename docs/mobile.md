@@ -23,6 +23,7 @@
 * [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Telegram](https://t.me/liteapks) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md) 
 * [Modyolo](https://modyolo.com/) / [Telegram](https://t.me/modyolo_official) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md)
 * [⁠LeeAPK](https://leeapk.com/)
+* [JennyCraft⁠](https://jennycraft.net/)
 * [Nsane Forums](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/) / [Subreddit](https://www.reddit.com/r/SbennyOfficial/)
 * [APKSum](https://www.apksum.com/)
