@@ -210,11 +210,16 @@ export const search: DefaultTheme.Config['search'] = {
         ''
       )
 
-      // I do this as env.frontmatter is not available until I call `md.render`
-      if (contents.includes('Beginners Guide'))
-        contents = transformGuide(contents)
+      const isPostOrOther =
+        relativePath.includes('posts') || relativePath.includes('other')
 
-      contents = transform(contents)
+      if (!isPostOrOther) {
+        // I do this as env.frontmatter is not available until I call `md.render`
+        if (contents.includes('Beginners Guide'))
+          contents = transformGuide(contents)
+
+        contents = transform(contents)
+      }
       let html = md.render(contents, env)
       // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
       html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')

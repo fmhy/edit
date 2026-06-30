@@ -18,7 +18,6 @@
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Steam Store Hover](https://greasyfork.org/scripts/533774) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.fun/) - Video / Audio / Books
-* [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [⁠Torr9](https://torr9.net/) - Video / Audio / Books
 * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -35,11 +34,10 @@
 * ⭐ **[Knaben](https://knaben.org/)**
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
-* [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/)
-* [Torrents-CSV](https://torrents-csv.com/) / [Source](https://codeberg.org/heretic/torrents-csv-server)
+* [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
 * [snowfl](https://snowfl.com/)
@@ -107,13 +105,13 @@
 
 * 🌐 **[qBit Plugins](https://github.com/qbittorrent/search-plugins)** - Plugins Index
 * 🌐 **[qBit Themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes)** - Themes Index
-* 🌐 **[qBit WebUIs](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs)** - WebUI Index
+* 🌐 **[qBit WebUIs](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-alternate-WebUIs)** - Alt WebUI Index
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
-* [⁠qui](https://github.com/autobrr/qui) or [VueTorrent](https://github.com/VueTorrent/VueTorrent) - Web Clients / WebUIs
+* [⁠qui](https://getqui.com/) / [GitHub](https://github.com/autobrr/qui), [VueTorrent](https://github.com/VueTorrent/VueTorrent) / [Demo](https://vuetorrent.github.io/demo/#/) or [iQbit](https://github.com/ntoporcov/iQbit) - Alt WebUIs
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
-* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
+* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) / Linux - Docker Builds
+* [qBit Color Themes](https://github.com/MahdiMirzadeh/qbittorrent), [Dracula](https://draculatheme.com/qbittorrent), [Catppuccin](https://github.com/catppuccin/qbittorrent) or [Nord](https://github.com/Zabooby/qbittorrent-config) - Client Themes
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
 ***
