@@ -305,6 +305,7 @@
 * [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
 * [⁠Anime Silo](https://animesilo.cc/) - Sub / Dub / [Discord](https://discord.gg/5myNNCqx8)
 * [Kawaii Anime](https://kawaii-anime.com/) - Sub / Dub
+* [AniNami](https://aninami.site/) - Sub / Dub / [Discord](https://discord.gg/J2V2skvMBk)
 * [⁠Luna](https://luna-stream.me/) - Sub / Dub
 * [AnimeDex](https://animedex.fun/) - Sub / Dub / [Discord](https://discord.gg/animedex)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
