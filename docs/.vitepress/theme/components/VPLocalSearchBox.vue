@@ -691,9 +691,7 @@ watch(
       if (canceled) return
 
       const mapped = candidates.map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = cache.get(id)
-        const text = map?.get(anchor) ?? ''
+        const text = lookupExcerptText(r.id)
         return mapResult(r, text)
       })
 
@@ -720,9 +718,7 @@ watch(
       if (canceled) return
 
       const mapped = sliced.map((r) => {
-        const [id, anchor] = r.id.split('#')
-        const map = showDetailedListValue ? cache.get(id) : undefined
-        const text = map?.get(anchor) ?? ''
+        const text = showDetailedListValue ? lookupExcerptText(r.id) : ''
         return mapResult(r, text)
       })
 
@@ -967,6 +963,31 @@ function prevMatch(index: number) {
   }
 }
 
+function lookupExcerptText(resultId: string): string {
+  const hashIndex = resultId.indexOf('#')
+  if (hashIndex === -1) return ''
+  const pageId = resultId.slice(0, hashIndex)
+  const map = cache.get(pageId)
+  if (!map) return ''
+  const anchor = resultId.slice(hashIndex + 1)
+  const direct = map.get(anchor)
+  if (direct) return direct
+  // The search index (constants.ts) and the excerpt DOM derive heading slugs
+  // from two separate render passes that can disagree: e.g. an emoji in a
+  // heading is dropped from the index slug ("stars-added") but baked into the
+  // mounted component's slug ("stars-added-⭐"). Recover by matching the index
+  // anchor as a prefix of a DOM key — but only when exactly one key matches, so
+  // an ambiguous prefix never silently returns a sibling section's excerpt.
+  const prefix = anchor + '-'
+  let found: string | null = null
+  for (const [key, html] of map) {
+    if (!key.startsWith(prefix)) continue
+    if (found !== null) return ''
+    found = html
+  }
+  return found ?? ''
+}
+
 async function fetchExcerpt(id: string) {
   const hashIndex = id.indexOf('#')
   const cleanId = hashIndex === -1 ? id : id.slice(0, hashIndex)
@@ -1007,10 +1028,8 @@ async function processExcerpts(
     if (isCanceled()) return
     const hashIndex = id.indexOf('#')
     const mapId = hashIndex === -1 ? id : id.slice(0, hashIndex)
-    let map = cache.get(mapId)
-    if (map) continue
-    map = new Map()
-    cache.set(mapId, map)
+    if (cache.has(mapId)) continue
+    const map = new Map<string, string>()
     const comp = (mod.default ?? mod) as { render?: unknown; setup?: unknown }
     if (comp && typeof comp === 'object' && (comp.render || comp.setup)) {
       try {
@@ -1036,8 +1055,13 @@ async function processExcerpts(
         try {
           const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
           headings.forEach((heading) => {
+            // VitePress sets the heading's id and its anchor href to the same
+            // slug, so one key suffices; fall back to id if the anchor link is
+            // missing for any reason.
             const href = heading.querySelector('a')?.getAttribute('href')
-            const anchor = href?.startsWith('#') && href.slice(1)
+            const anchor = href?.startsWith('#')
+              ? href.slice(1)
+              : (heading.getAttribute('id') ?? undefined)
             if (!anchor) return
             let html = ''
             let next: Element | null = heading.nextElementSibling
@@ -1056,8 +1080,9 @@ async function processExcerpts(
               if (!isNoteBlock) html += next.outerHTML
               next = next.nextElementSibling
             }
-            map!.set(anchor, html)
+            map.set(anchor, html)
           })
+          cache.set(mapId, map)
         } finally {
           app.unmount()
         }
