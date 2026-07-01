@@ -2,4 +2,4 @@
 
 Do NOT install in a dark location, you will bootloop.
 
-Source: https://ios.cfw.guide/installing-pangu7/?tab=windows
+Instructions for fixing the issue (using Windows): https://ios.cfw.guide/installing-pangu7/
