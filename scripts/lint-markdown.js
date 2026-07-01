@@ -208,8 +208,7 @@ files.forEach((file) => {
     if (
       !FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some((ignoredFile) =>
         path.normalize(file).endsWith(path.normalize(ignoredFile))
-      ) &&
-      !normalizedPath.includes('.vitepress/notes/')
+      )
     ) {
       const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
       let match
