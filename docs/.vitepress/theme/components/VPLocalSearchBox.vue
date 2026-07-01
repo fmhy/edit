@@ -2455,10 +2455,10 @@ function isSamePageComparison(destPath: string) {
   transition: background-color 0.2s;
 }
 
-/* Custom Feature: Currently focused highlight (during navigation) */
+/* Currently focused search highlight */
 .excerpt :deep(mark.current) {
-  background-color: var(--vp-c-yellow-3);
-  color: #000;
+  background-color: var(--vp-focus-highlight-bg);
+  color: black;
   font-weight: bold;
 }
 
