@@ -272,7 +272,7 @@ const transformLinks = (text: string): string =>
       },
       {
         name: 'Source Code',
-        find: /\[Source Code?\]\(([^\)]*?)\)/gm,
+        find: /\[Source Code\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'Source Code\'" alt="Source Code" class="i-gravity-ui:code" /></a>'
       },
