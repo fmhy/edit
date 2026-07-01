@@ -325,6 +325,7 @@
 * [⁠Trustroots](https://www.trustroots.org/) - Traveler Hospitality Community
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [⁠EntryConditions](https://entryconditions.com/) - Passport Requirements Database
+* [MyBestSim](https://mybestsim.com/) - Compare eSIM for travel 
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 * [⁠StationView](https://stationview.app/) - Live UK Train Schedule / Tracker
 
