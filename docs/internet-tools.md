@@ -427,6 +427,7 @@
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
+* [Mail Genie](https://mailgenie.io/) - Clean your inbox by unsubscribing from newsletters and marketing emails
 
 ***
 
