@@ -188,6 +188,8 @@
 * 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 * 🌐 **[Math and Science Lectures](https://github.com/Developer-Y/math-science-video-lectures)** - Index of Math + Science Video Courses
 * ↪️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
+* 🌐 **[ExamToolKitHub](https://examtoolkithub.com) - Free calculators for marks needed, percentage, GPA, and study time planning.
+* 🌐 **[Gradecalchub](https://gradecalchub.com.com) - Free calculators for GPA, CGPA, Grades.   
 * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
