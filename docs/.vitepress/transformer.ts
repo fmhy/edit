@@ -254,49 +254,49 @@ const transformLinks = (text: string): string =>
     .transform('Links to Icons', [
       {
         name: 'Discord',
-        find: /\[Discord\]\(([^\)]*?)\)/gim,
+        find: /\[Discord\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'Discord\'" alt="Discord" class="i-carbon:logo-discord" /></a>'
       },
       {
         name: 'GitHub',
-        find: /\[GitHub\]\(([^\)]*?)\)/gim,
+        find: /\[GitHub\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'GitHub\'" alt="GitHub" class="i-carbon:logo-github" /></a>'
       },
       {
         name: 'GitLab',
-        find: /(?<=\/ )\[GitLab\]\(([^\)]*?)\)/gim,
+        find: /(?<=\/ )\[GitLab\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'GitLab\'" alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
       {
         name: 'Source Code',
-        find: /\[Source(?: Code)?\]\(([^\)]*?)\)/gim,
+        find: /\[Source Code?\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'Source Code\'" alt="Source Code" class="i-gravity-ui:code" /></a>'
       },
       {
         name: 'Telegram',
-        find: /\[Telegram\]\(([^\)]*?)\)/gim,
+        find: /\[Telegram\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'Telegram\'" alt="Telegram" class="i-mdi:telegram" /></a>'
       },
       {
         name: 'Subreddit',
-        find: /\[(?:Sub)?reddit\]\(([^\)]*?)\)/gim,
+        find: /\[Subreddit\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'Reddit\'" alt="Reddit" class="i-mdi:reddit" /></a>'
       },
       {
         name: 'X',
-        find: /\[X\]\(([^\)]*?)\)/gim,
+        find: /\[X\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'X\'" alt="X" class="i-carbon:logo-x" /></a>'
       },
       {
         name: 'Tor',
-        find: /\[.onion\]\(([^\)]*?)\)/gim,
+        find: /\[.onion\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><div v-tooltip="\'.onion\'" alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
       },
