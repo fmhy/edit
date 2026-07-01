@@ -1079,7 +1079,7 @@
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
 * [Purevideo](https://majusss.github.io/) - Streaming App / Android / [GitHub](https://github.com/majusss/purevideo)
 * [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
-* [Naikamu](https://github.com/FezMLG/Naikamu) - Anime Streaming App / Android, iOS
+* [Naikamu](https://github.com/FezMLG/Naikamu) - Anime Streaming App / [Altstore](https://api.altstore.io/source/api.naikamu.com/api/store?app=com.tltcode.naikamu) / Android, iOS
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 
 ## ▷ Reading / Czytanie
