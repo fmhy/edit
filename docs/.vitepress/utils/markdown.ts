@@ -33,7 +33,11 @@ export function replaceNoteLink(md: MarkdownRenderer) {
         })
 
         const rendered = md.render(content)
-        const props = title ? `title="${title.replace(/"/g, '&quot;')}"` : ''
+        const linkText =
+          children[i + 1]?.type === 'text' ? children[i + 1].content : ''
+        const iconProp = linkText === 'Warning' ? 'icon="/warning.svg"' : ''
+        const props =
+          `${title ? `title="${title.replace(/"/g, '&quot;')}"` : ''} ${iconProp}`.trim()
         const footer = `<div class="mt-2 text-right opacity-50 text-xs"><a class="tooltip-source-link" href="${href}">Source</a></div>`
         tooltip.content = `<Tooltip ${props}>${rendered}${footer}</Tooltip>`
 

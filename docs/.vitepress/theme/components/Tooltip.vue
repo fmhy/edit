@@ -60,6 +60,13 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
 }
 .v-popper {
   display: inline-flex !important;
+
+  & div[style*='note'] {
+    background-color: var(--vp-c-text-1);
+  }
+  & div[style*='warning'] {
+    background-color: #ffbf00;
+  }
 }
 
 .v-popper--theme-dropdown .v-popper__inner {
