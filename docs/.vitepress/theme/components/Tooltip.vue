@@ -62,7 +62,7 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
   display: inline-flex !important;
 
   & div[style*='note'] {
-    background-color: var(--vp-c-text-1);
+    background-color: var(--vp-c-brand-soft);
   }
   & div[style*='warning'] {
     background-color: #ffbf00;
