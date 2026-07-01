@@ -903,7 +903,7 @@
 
 # ► Tracking / Database
 
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)

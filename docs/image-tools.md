@@ -138,9 +138,10 @@
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
-* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/), [DrawPile](https://drawpile.net/) or [malmal](https://malmal.io/) - Collaborative Drawing
+* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.io/) - Collaborative Drawing / Web
+* [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, Mac, Linux, Android, Web
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
-* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
+* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
 * [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, Mac, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -148,7 +149,7 @@
 * [KRESKA.art](https://kreska.art/) - Browser Painting / Drawing / Web
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
 * [AutoDraw](https://www.autodraw.com/) - AI Drawing Tool / Web
-* [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool
+* [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool / Web
 * [VectorPaint](https://vectorpaint.yaks.co.nz/) - Vector Editor / Painting / Web
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.art) - Vector Editor / Web / [Subreddit](https://www.reddit.com/r/graphite/) / [Discord](https://discord.com/invite/uMjBz5N68W) / [GitHub](https://github.com/GraphiteEditor/Graphite)
@@ -170,7 +171,7 @@
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / Web / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid-Based Drawings / Web / [GitHub](https://github.com/maxwellito/minimator/)
-* [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
+* [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids / Web
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) - Animate Drawings
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 
@@ -181,8 +182,8 @@
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
 * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
-* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / [Guide](https://youtu.be/Z4Enx-Nb43E)
-* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor
+* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / Windows, Mac, Linux / [Guide](https://youtu.be/Z4Enx-Nb43E)
+* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, Mac
 * ⭐ **[Piskel](https://www.piskelapp.com/)** - Pixel Art Editor / Web
 * [rx](https://rx.cloudhead.io/) - Pixel Art Editor / Mac, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
 * [PixiEditor](https://pixieditor.net/) - Pixel Art Editor / Windows, Mac, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -193,19 +194,19 @@
 * [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, Mac, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)
-* [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor
-* [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
-* [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
-* [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
+* [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor / Windows
+* [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor / Windows
+* [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor / Windows, Mac, Linux, Android
+* [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor / Windows, Mac, Linux, Android
 * [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Art Village](https://pixelartvillage.org/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
-* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
+* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
-* [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet
-* [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
-* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers
+* [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet / Web
+* [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / Web / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers / Web
 
 ***
 
@@ -215,7 +216,7 @@
 * ⭐ **[EZGif](https://ezgif.com/)**, [⁠Klipy](https://klipy.com/create/gif-maker/) or [GIFnText](https://www.gifntext.com/) - GIF Generators / Web
 * [⁠3D Gif Maker](https://www.3dgifmaker.com/) - Online GIF Tools / [Discord](https://discord.com/invite/8EF3X7jQaP)
 * [⁠PicMix](https://www.picmix.com/) - Glitter Style GIF Creator
-* [⁠MakeEmoji](https://makeemoji.com/), [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
+* [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
 * [Gifsicle](http://www.lcdf.org/gifsicle/) - GIF Generator / Windows, Mac, Linux / [GitHub](https://github.com/kohler/gifsicle)
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter

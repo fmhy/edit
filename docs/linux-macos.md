@@ -617,7 +617,7 @@
 * [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader
 * [ss64 macOS](https://ss64.com/mac/) - macOS Bash Commands
 * [Left on Read](https://leftonread.me/) - iMessage Client
-* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [CodexBar](https://codexbar.app/) - Menu Bar AI Limit Tracker / [GitHub](https://github.com/steipete/CodexBar)
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://yuzono.github.io/)

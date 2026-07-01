@@ -38,7 +38,7 @@
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * [Overlook](https://overlook.cx/) - Movies / TV / Anime / [Discord](https://discord.com/invite/rbe9DJNuhH)
 * [Movish](https://movish.net/) or [LatestMovies](https://latestmovies.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FsbU2BQcjQ)
-* [Chillflix.lol](https://chillflix.lol/) - Movies / TV / Anime / Auto-Next
+* [Chillflix](https://chillflix.lol/) - Movies / TV / Anime / Auto-Next
 * [Flixtrz](https://flixtrz.com/) - Movies / TV / Anime / Auto-Next
 * [NomorFlix](https://nomorflix.icu/), [2](https://nomorflix.com/) - Movies / TV / Anime / Auto-Next
 * [CineBolt](https://cinebolt.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/7ZbCzMPt6f)
@@ -46,6 +46,7 @@
 * [FRAME](https://frameweb.pages.dev/) or [SanuFlix](https://sanuflix2.pages.dev/) - Movies / TV / Anime / Auto-Next
 * [CinePro](https://cinepro.fstream.app/), [SMovies](https://smovies.co/), [2](https://ww1-fmovies.com/) or [CineFlix](https://cineflix.fstream.app/) - Movies / TV / Anime
 * [All You Can Watch](https://allyoucanwatch.net/) - Movies / TV / Anime / [Telegram](https://t.me/allyoucanwatchh) / [Discord](https://discord.gg/allyoucanwatch)
+* [Nelvix](https://nelvix.xyz/) - Movies / TV / Anime / Auto-Next
 * [NetPlay](https://netplayz.top/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Smashystream](https://flix.smashystream.xyz/), [2](https://smashystream.xyz/) or [AnyEmbed](https://anyembed.xyz/) - Movies / TV / Anime / [Telegram](https://telegram.me/+vekZX4KtMPtiYmRl)
 * [Moovie](https://moovie.fun/) - Movies / TV / Anime
@@ -144,7 +145,6 @@
 * [Flyflix](https://flyflix.net/) - Movies / TV / Anime / [Discord](https://discord.gg/sssvheMsVT)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
 * [FluxTV](https://fluxtv.cc/), [2](https://fluxtv.co.uk/), [3](https://fluxtv.qzz.io/) - Movies / TV / Anime / [Status](https://rentry.co/fluxtv) / [Discord](https://discord.gg/xyB8MHGV)
-* [Nelvix](https://nelvix.xyz/) - Movies / TV / Anime
 * [CineVibe](https://cinevibe.to/) or [VibeMax](https://vibemax.to/) - Movies / TV / Anime
 * [LunaStream](https://lunastream.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/3kpj8SuMy5)
 * [Flixvo](https://flixvo.live/), [2](https://flixvo.fun/) - Movies / TV / Anime
@@ -307,6 +307,7 @@
 * [Kawaii Anime](https://kawaii-anime.com/) - Sub / Dub
 * [AniNami](https://aninami.site/) - Sub / Dub / [Discord](https://discord.gg/J2V2skvMBk)
 * [⁠Luna](https://luna-stream.me/) - Sub / Dub
+* [AniSnatch](https://anisnatch.top/), [2](https://anisnatch.p1y.top/) - Sub / Dub / [Telegram](https://t.me/anisnatch) / [Discord](https://discord.com/invite/3zrNYqeT4e)
 * [AnimeDex](https://animedex.fun/) - Sub / Dub / [Discord](https://discord.gg/animedex)
 * [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / [Discord](https://discord.gg/AfMau96ppt)
@@ -566,7 +567,7 @@
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
 * [BuffStream](https://app.buffstream.io/)
 * [FawaNews](http://www.fawanews.sc/)
-* [CrackStreams.ms](https://crackstreams.ms/) / [Telegram](https://t.me/+s6ROvhLw2Hw0Mjg0)
+* [CrackStreams.ms](https://crackstreams.mx/) / [Telegram](https://t.me/+s6ROvhLw2Hw0Mjg0)
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
 * [Pitsport](https://pitsport.live/) - Motorsports
@@ -627,25 +628,30 @@
 
 * 🌐 **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** - IPTV Resources
 * 🌐 **[IPTV Playlists](https://rentry.co/FMHYB64#iptv-playlists)** - List of Playlists
-* ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
-* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player
-* [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / [Docs](https://tbeezy.github.io/ynotvdoc/)
-* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit 
+* [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
-* [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) - IPTV Player
-* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Player
-* [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
-* [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
-* [IPTV Player](https://iptv-player.me/) - IPTV Web Player
-* [⁠NextPVR](https://www.nextpvr.com/) - M3U-Based DVR 
+* [PlaylistEditorTV](https://codeberg.org/Isayso/PlaylistEditorTV) - IPTV Playlist Editor
+* [⁠NextPVR](https://www.nextpvr.com/) - M3U-Based DVR
 * [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - Generate Playlists
 * [IPTV Community](https://iptv.community/) - IPTV Forum
-* [CaberNetwork](https://github.com/cabernetwork/cabernet/) - IPTV Manager
+* [CaberNetwork](https://cabernetwork.github.io/) - IPTV Manager
 * [SipTV Converter](https://siptv.eu/converter/) - M3U to TXT
 * [M3U4U](https://m3u4u.com/) - M3U Editor
 * [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/blob/main/README.en.md) / [GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) or [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - ⁠M3U8 Download Tools
 * [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
+
+***
+
+## ▷ IPTV Players
+
+* ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
+* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, Mac, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, Mac, Linux
+* [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / Windows / [Docs](https://tbeezy.github.io/ynotvdoc/)
+* [LivePush](https://livepush.io/hls-player/index.html) - IPTV Web Player
+* [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
+* [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
+* [IPTV Player](https://iptv-player.me/) - IPTV Web Player
 
 ***
 
