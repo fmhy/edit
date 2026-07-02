@@ -1018,7 +1018,7 @@
 
 # ► Polish / Polski
 
-* [Poland.gg]( https://poland.gg/) - Data & Statistics
+* [Poland.gg](https://poland.gg/) - Data & Statistics
 * [JakDojade](https://jakdojade.pl/) - Public Transport Map
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
