@@ -272,7 +272,7 @@
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [TVARK](https://tvark.org/) or [Daily Commercials](https://dailycommercials.com/) - Commercial / TV Promo Archives
 * [MovieCommentaries](https://www.youtube.com/@moviecommentaries) - Movie / TV Director Commentaries
-* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
+* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (Sign-Up), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
 
 ***

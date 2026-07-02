@@ -896,7 +896,7 @@
 * [Sutta Central](https://suttacentral.net/) - Esoterica / Buddhism
 * [Dhamma Talks](https://www.dhammatalks.org/) - Esoterica / Buddhism
 * [Sri Granth](https://www.srigranth.org/) - Guru Granth Sahib Translation
-* [Sikh National Archives](https://www.sikhnationalarchives.com/) or [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Login Required
+* [Sikh National Archives](https://www.sikhnationalarchives.com/) or [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Sign-Up
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Esoterica / Jainism
 
 ***

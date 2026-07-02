@@ -297,7 +297,7 @@
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
 * ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
-* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Linux Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Linux Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
@@ -729,7 +729,7 @@
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games / Requires Sign-Up
 * ⭐ **[AppsTorrent](https://appstorrent.ru/games/)** - Mac Games / Downloads (not torrents)
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
-* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Mac Games / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Mac Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
