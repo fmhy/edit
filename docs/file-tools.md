@@ -309,8 +309,8 @@
 * [Surge](https://getsurge.io/) - P2P App / Windows, macOS / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) - Web / [GitHub](https://github.com/ToffeeShare)
 * [⁠Station307](https://www.station307.com/) - Web
-* [new.space](https://new.space/) - Web, iOS
-* [WebWormhole](https://webwormhole.io/) - [Chrome](https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webwormhole/) / Web, Windows, macOS, Linux / [GitHub](https://github.com/saljam/webwormhole)
+* [new.space](https://new.space/) - iOS, Web
+* [WebWormhole](https://webwormhole.io/) - [Chrome](https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webwormhole/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/saljam/webwormhole)
 * [⁠Clip Fish](https://clip.fish/) - Web / [GitHub](https://github.com/clip-fish/web)
 
 ***
