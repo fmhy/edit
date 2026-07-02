@@ -210,7 +210,8 @@ files.forEach((file) => {
         path.normalize(file).endsWith(path.normalize(ignoredFile))
       )
     ) {
-      const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
+      const linkRegex =
+        /(?<!^\* \*\*(?:Note|Warning).+?)\[([^\]]+)\]\(([^)]+)\)/g
       let match
       while ((match = linkRegex.exec(line)) !== null) {
         const index = match.index
@@ -298,8 +299,6 @@ files.forEach((file) => {
           'up',
           'we',
           'optionally',
-          'this',
-          'info',
           // OS / platform / browser qualifiers that commonly precede [Guide], [GitHub], etc.
           'linux',
           'mac',
