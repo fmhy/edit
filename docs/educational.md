@@ -994,7 +994,6 @@
 * ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
 * ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Go Board & SGF Editor
 * [⁠Kaya](https://kayago.app/) - Go (Baduk/Weiqi) Board Analysis Tool / [GitHub](https://github.com/kaya-go/kaya)
-* [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
 * [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) – Open-Source Neural Network Go AI
 * [The Interactive Way To Go](https://playgo.to/en) – Interactive Beginner Tutorial 
@@ -1671,7 +1670,7 @@
 ## ▷ JEE / NEET
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)** - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)** or [Pirate Wallah](https://rentry.co/FMHYB64#pwallah) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs

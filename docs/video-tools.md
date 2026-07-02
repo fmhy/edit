@@ -47,7 +47,7 @@
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
-* ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days After Last View (w/ Account)
+* ⭐ **[Send.now](https://send.now/)** - Unlimited / 15 Days After Last View (w/ Account)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days / [Telegram](https://t.me/FEXNETWORK)
@@ -296,7 +296,6 @@
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer / [Discord](https://discord.com/invite/EbfftZ5Dd4)
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
-* [Plex](https://www.plex.tv/) or [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
@@ -308,6 +307,7 @@
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server / [Discord](https://discord.com/invite/E6Apw3aFaA)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
+* [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)

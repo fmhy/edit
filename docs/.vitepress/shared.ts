@@ -39,6 +39,42 @@ export const excluded = [
   'startpage.md'
 ]
 
+// Strip the URL scheme and a leading "www." so "https://www.pi-hole.net/x" and
+// "pi-hole.net/x" compare the same way. Shared by the build-time index
+// (constants.ts) and the client search box so they normalize identically.
+export const stripSchemeAndWww = (value: string) =>
+  value.replace(/^[a-z][a-z0-9+.-]*:\/\//, '').replace(/^www\./, '')
+
+const TRACKING_QUERY_PARAMS = new Set([
+  'fbclid',
+  'gclid',
+  'gbraid',
+  'mc_cid',
+  'mc_eid',
+  'wbraid'
+])
+
+export function normalizeSearchUrl(value: string) {
+  const stripped = stripSchemeAndWww(value)
+  const hashIndex = stripped.indexOf('#')
+  const withoutHash = hashIndex === -1 ? stripped : stripped.slice(0, hashIndex)
+  const hash = hashIndex === -1 ? '' : stripped.slice(hashIndex + 1)
+  const queryIndex = withoutHash.indexOf('?')
+
+  if (queryIndex === -1) return hash ? `${withoutHash}#${hash}` : withoutHash
+
+  const hostPath = withoutHash.slice(0, queryIndex)
+  const params = new URLSearchParams(withoutHash.slice(queryIndex + 1))
+  for (const key of [...params.keys()]) {
+    if (key.startsWith('utm_') || TRACKING_QUERY_PARAMS.has(key)) {
+      params.delete(key)
+    }
+  }
+
+  const query = params.toString()
+  return `${hostPath}${query ? `?${query}` : ''}${hash ? `#${hash}` : ''}`
+}
+
 const safeEnv = (key: string) =>
   typeof process !== 'undefined' ? process.env?.[key] : undefined
 
