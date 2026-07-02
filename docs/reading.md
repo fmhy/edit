@@ -128,6 +128,7 @@
 * [DjVuLibre](https://djvu.sourceforge.net/) - DjVu Reader / Windows
 * [Bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
+* [Epub Reader Online](https://www.epubreaderpro.com) - Read & Listen Ebooks Online
 
 ***
 
