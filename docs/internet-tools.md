@@ -41,7 +41,7 @@
 ## ▷ Password Managers
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, Mac, Linux
+* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, Mac, Linux / [Github](https://github.com/keepassxreboot/keepassxc)
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / All Platforms / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 * ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms
 * ⭐ **[KeePass](https://keepass.info/)** / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/) / Windows
@@ -103,9 +103,9 @@
 * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
 * ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
-* ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, Mac
+* ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, Mac / [GitHub](https://github.com/mumble-voip/mumble)
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
-* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, Mac, Linux
+* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, Mac, Linux / [Source Code](https://dev.gajim.org/gajim/gajim)
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
@@ -460,7 +460,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains

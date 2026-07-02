@@ -247,6 +247,7 @@
 * [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
 * [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web
 * [Libera](https://libera.chat/), [tilde](https://tilde.chat/), [AnonOps](https://anonops.com/) or [Rizon](https://rizon.net/) - IRC Networks
+* [⁠UnrealIRCd](https://www.unrealircd.org/) - IRC Server 
 
 ***
 

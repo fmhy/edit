@@ -249,6 +249,7 @@ export default defineConfig({
         registerType: 'autoUpdate',
         workbox: {
           // Precache only the app shell; images and pages go through runtimeCaching below.
+          maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
           globPatterns: ['**/*.{js,css,woff2}'],
           globIgnores: ['**/*localSearchIndex*.js'],
           runtimeCaching: [

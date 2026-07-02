@@ -153,7 +153,7 @@
 
 ***
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* ⭐ **[⁠GeminiGen AI](https://geminigen.ai/app/video-gen)** - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Login required / [Discord](https://discord.gg/vJnYe86T8F)
+* ⭐ **[⁠Snapgen AI](https://geminigen.ai/app/video-gen/)** - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Login required / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / Google Sign-Up / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs)
 * [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 2 (10 Fast, Unlimited Slow- Per Day) / Image to Video / Sign-Up
 * [Arena](https://arena.ai/?chat-modality=video), [2](https://canaryarena.ai/video) - 2 Daily / Sign-Up / Random Models / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)

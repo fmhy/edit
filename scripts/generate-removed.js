@@ -1,7 +1,6 @@
 import { execFileSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
-import path from 'node:path'
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
