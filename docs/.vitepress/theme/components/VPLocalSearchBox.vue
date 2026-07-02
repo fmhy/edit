@@ -2165,25 +2165,6 @@ function isSamePageComparison(destPath: string) {
               />
 
               <button
-                v-if="!disableDetailedView"
-                class="toggle-layout-button"
-                type="button"
-                :class="{ 'detailed-list': showDetailedList }"
-                :aria-pressed="showDetailedList"
-                :title="translate('modal.displayDetails')"
-                @click="toggleDetailedList"
-              >
-                <span class="vpi-layout-list local-search-icon" />
-                <span class="visually-hidden">
-                  {{
-                    showDetailedList
-                      ? 'Detailed list active'
-                      : 'Detailed list off'
-                  }}
-                </span>
-              </button>
-
-              <button
                 class="toggle-fuzzy-button"
                 type="button"
                 :class="{ 'fuzzy-active': isFuzzySearch }"
