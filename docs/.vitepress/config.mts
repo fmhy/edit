@@ -149,7 +149,7 @@ export default defineConfig({
             var today = new Date();
             if (today.getMonth() === 5) {
               document.documentElement.classList.add('june');
-              function applyJuneTheme() {
+              function applyJuneFavicon() {
                 var links = document.querySelectorAll("link[rel*='icon']");
                 links.forEach(function(link) {
                   if (link.getAttribute('href') !== '/june_icon.webp') {
@@ -159,6 +159,8 @@ export default defineConfig({
                     }
                   }
                 });
+              }
+              function applyJuneLogo() {
                 var logos = document.querySelectorAll("img.logo, img[src*='fmhy.ico']");
                 logos.forEach(function(img) {
                   if (img.getAttribute('src') !== '/june_icon.webp') {
@@ -166,14 +168,16 @@ export default defineConfig({
                   }
                 });
               }
-              applyJuneTheme();
-              var observer = new MutationObserver(applyJuneTheme);
-              observer.observe(document.documentElement, {
+              applyJuneFavicon();
+              applyJuneLogo();
+              // Favicons live in <head>; scope the observer there instead of the whole document.
+              new MutationObserver(applyJuneFavicon).observe(document.head, {
                 childList: true,
-                subtree: true,
                 attributes: true,
-                attributeFilter: ['href', 'type', 'src']
+                attributeFilter: ['href', 'type']
               });
+              // The nav logo isn't in <head>; re-apply it on route changes (see theme/index.ts).
+              window.__fmhyApplyJuneLogo = applyJuneLogo;
             }
           } catch (e) {}
         })();

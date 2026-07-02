@@ -155,6 +155,11 @@ export default {
       router.onAfterRouteChanged = (to) => {
         const hasPendingSearch = !!pendingScrollQuery.value
 
+        // Re-apply the June nav logo swap after navigation (see config.mts).
+        ;(
+          window as unknown as { __fmhyApplyJuneLogo?: () => void }
+        ).__fmhyApplyJuneLogo?.()
+
         try {
           originalAfter?.(to)
         } finally {
