@@ -427,8 +427,7 @@ html.june {
    * animation-duration to ~0, which would otherwise jump straight to the
    * transparent end-state). JS removes the class after 2s regardless. */
 
-  background-color: hsla(0, 0%, 80%, 0.6);
-  background-color: color-mix(in srgb, var(--vp-scroll-match-bg, hsl(0, 0%, 88%)) 22%, transparent);
+  background-color: var(--vp-scroll-match-bg);
 }
 
 /* The fade-out is a progressive enhancement, only for users who haven't
