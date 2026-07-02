@@ -17,8 +17,7 @@ const groupedPosts = computed(() => {
   const groups: Record<string, Post[]> = {}
 
   for (const post of postArray) {
-    const dateNum = post.date || Date.now()
-    const year = new Date(dateNum).getFullYear().toString()
+    const year = String(post.date).slice(0, 4)
 
     if (!groups[year]) groups[year] = []
     groups[year].push(post)
@@ -41,7 +40,8 @@ const formatDate = (timestamp: string | number): string => {
   if (!timestamp) return ''
   return new Date(timestamp).toLocaleDateString('en-US', {
     month: 'short',
-    day: '2-digit'
+    day: '2-digit',
+    timeZone: 'UTC'
   })
 }
 </script>
