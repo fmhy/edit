@@ -1175,6 +1175,10 @@
 
 ## ▷ Games
 
+* **Warning** - Avoid unauthorized grey-market key resellers. There are several risks that come with buying keys from these kinds of sites, so it's best to only buy from official and/or authorized retailers. You can find more info [here](https://www.reddit.com/r/Steam/wiki/dangersofkeyresellers/).
+
+***
+
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
 * ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multi-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discord.com/invite/C3K4bBh)

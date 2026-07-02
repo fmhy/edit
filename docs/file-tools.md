@@ -431,7 +431,7 @@
 * [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$3.66 for 3TB
 * [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 (1-100TB Flexible)
 * [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 (3TB Business)
-* [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)
+* [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / [Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
 * [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6

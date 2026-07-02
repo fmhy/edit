@@ -299,6 +299,7 @@ files.forEach((file) => {
           'we',
           'optionally',
           'this',
+          'info',
           // OS / platform / browser qualifiers that commonly precede [Guide], [GitHub], etc.
           'linux',
           'mac',
