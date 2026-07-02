@@ -709,7 +709,7 @@
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
-* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.imgur.com/FDx8jKa.png), [2](https://files.catbox.moe/v7hy49.png)
+* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png)
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres

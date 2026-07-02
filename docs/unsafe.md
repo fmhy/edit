@@ -16,10 +16,10 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BBRepacks - Caught with malware
 * Seyter / Qoob - Caught with malware, tried to [switch names](https://clarasguide.valeena.workers.dev/Announcements/qoob/)
 * Wifi4Games - Caught with malware
-* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting demoted on 1337x for malware
+* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://postimg.cc/gallery/2ZV80cM), click hijack ads, and getting demoted on 1337x for malware
 * GameFabrique - IGG uploads + [adware installers](https://clarasguide.valeena.workers.dev/Announcements/gamefabrique_adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
-* game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
+* game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://files.catbox.moe/77bbaf.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://files.catbox.moe/5fzw8n.png)
 
 ***
 
@@ -52,8 +52,8 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * P30Download - Uploaded version of malwarebytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1). 
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
-* Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
-* Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
+* Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://i.ibb.co/d6xR69k/image.png), [2](https://files.catbox.moe/uadabv.png), has filecr logo under theirs on some apps.
+* Appnee - Not very careful with uploads, has multiple [unsafe activators](https://files.catbox.moe/6tvieu.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [DDoS attacks](https://github.com/fmhy/edit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
@@ -72,7 +72,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
-* [Fake 1337x Sites](https://i.ibb.co/2YHqHmVW/image.png) / [2](https://i.imgur.com/gFZjaVh.png)
+* [Fake 1337x Sites](https://i.ibb.co/2YHqHmVW/image.png) / [2](https://files.catbox.moe/tij2aq.png)
 
 ***
 
@@ -87,7 +87,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots. 
 * CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
-* BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
+* BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) and [spying](https://files.catbox.moe/ta18cp.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated

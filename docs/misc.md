@@ -15,7 +15,7 @@
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
-* [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) or  - Find Random Small / Indie Sites
+* [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [Dan's Guides](https://rentry.co/danxyz7) - List of Guides by Dan
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [FckSignups](https://fcksignups.com/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
@@ -157,7 +157,7 @@
 ## ▷ Recipes
 
 * 🌐 **[TheGreatestCookbooks](https://thegreatestbooks.org/v/grid/the-greatest/cookbooks/books)** - Expert Recommended Cookbooks
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/ ) / [GitHub](https://github.com/julianpoy/recipesage), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/) / [GitHub](https://github.com/julianpoy/recipesage), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
@@ -731,7 +731,7 @@
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
-* ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/gEfyf0q.jpeg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg) - Zoomable Exercise Diagram
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg)** - Zoomable Exercise Diagram
 * ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [FitNotes](https://www.fitnotesapp.com/), [⁠Strong App](https://www.strong.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) or [⁠Muscle & Strength](https://www.muscleandstrength.com/exercises) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
@@ -764,7 +764,7 @@
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
-* [Waistline](https://github.com/davidhealey/waistline), [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/)  or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
+* [Waistline](https://github.com/davidhealey/waistline), [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/) or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research / Vegan-Focused
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -1707,7 +1707,7 @@
 * 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
 * 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
 * ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
+* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
