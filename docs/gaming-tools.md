@@ -212,6 +212,7 @@
 * ⭐ **[Speedrun](https://www.speedrun.com/)** - Speedrunning Streams, Leaderboards, Resources, etc.
 * [Steam Guides](https://steamcommunity.com/guides), [GameGuides](https://www.gamerguides.com/), [DotGG](https://dotgg.gg/), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [Samurai Gamers](https://samurai-gamers.com/), [UHS Hints](https://www.uhs-hints.com/) or [Kirklands](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Game Guides
 * [Voltaic](https://voltaic.gg/) - Aim Benchmark & Guides
+* [⁠x76 Strafe Aim Guide](https://x76.gg/wiki/strafe-aim-guide/) - Strafe Aim Guide
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [⁠Onboard Memory Manager](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) - Modify Logitech G Mouse Memory
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
