@@ -474,7 +474,7 @@
 * [ILMIV](https://ilmiv.com/) or [kidraz](https://www.kidraz.com/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
 * [flemmix](https://flemmix.fast/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/)
-* [cinelibre](https://cinelibre.fr/ ) - Free w/ Ads Aggregator
+* [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
 * [Play RTS](https://www.rts.ch/play/tv) - Free w/ Ads
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Sign-Up
