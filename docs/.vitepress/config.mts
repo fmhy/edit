@@ -43,7 +43,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/test.png' }],
+    ['link', { rel: 'icon', href: '/fmhy.ico' }],
     [
       'link',
       {
@@ -55,9 +55,7 @@ export default defineConfig({
     ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'icon', href: '/pwa_icon.png', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/pwa_icon.png' }],
-    ['link', { rel: 'mask-icon', href: '/pwa_icon.png', color: '#000000ff' }],
+    ['link', { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',
@@ -295,36 +293,8 @@ export default defineConfig({
             }
           ]
         },
-        manifest: {
-          name: 'FMHY - freemediaheckyeah',
-          short_name: 'FMHY',
-          description: 'The largest collection of free stuff on the internet!',
-          theme_color: '#000000ff',
-          background_color: '#000000ff',
-          display: 'standalone',
-          orientation: 'portrait',
-          scope: '/',
-          start_url: '/',
-          icons: [
-            {
-              src: '/fmhy.ico',
-              sizes: '16x16',
-              type: 'image/x-icon'
-            },
-            {
-              src: '/pwa_icon.png',
-              sizes: '192x192',
-              type: 'image/png',
-              purpose: 'any maskable'
-            },
-            {
-              src: '/pwa_icon.png',
-              sizes: '512x512',
-              type: 'image/png',
-              purpose: 'any maskable'
-            }
-          ]
-        }
+        // Use docs/public/manifest.json (linked in head) instead of a generated one.
+        manifest: false
       }),
       transformsPlugin(),
       {
