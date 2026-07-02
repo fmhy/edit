@@ -772,7 +772,7 @@
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
-* [Vyla](https://vyla.pages.dev/), [2](https://vyla.qzz.io/)  - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
+* [Vyla](https://vyla.pages.dev/), [2](https://vyla.qzz.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [Cineby](https://cineby.at/), [2](https://www.cineplay.to/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C2zGTdUbHE)
 * [FlickyStream](https://flickystream.su/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
