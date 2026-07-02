@@ -1803,7 +1803,7 @@
 * ⭐ **[OneLook](https://onelook.com/)** - Multi-Source Dictionary / Thesaurus Search
 * ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Multi-Language Dictionary / Thesaurus / Etymology
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus / Etymology
-* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, Mac, Linux
+* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, macOS, Linux
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries

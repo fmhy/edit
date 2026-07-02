@@ -979,7 +979,7 @@
 ## ▷ Collaboration Platforms
 
 * ⭐ **[NextCloud](https://nextcloud.com/)** - Collaboration Platform / File Sharing / [GitHub](https://github.com/nextcloud)
-* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Teams Client / Windows, Mac, Linux
+* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Teams Client / Windows, macOS, Linux
 * [Atlassian](https://www.atlassian.com/) - Collaboration Platform
 * [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive)
 * [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform / [GitHub](https://github.com/mattermost/mattermost)

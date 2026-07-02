@@ -104,25 +104,25 @@
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
-* [Sioyek](https://sioyek.info/) - PDF / Windows, Mac, Linux
+* [Sioyek](https://sioyek.info/) - PDF / Windows, macOS, Linux
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * [⁠BookOrbit](https://bookorbit.app/) or [⁠Grimmory](https://grimmory.org/) - Ebook Managers / Readers / Self-Hosted
-* [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows, Mac, Linux, Android / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
-* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, Mac, Android, iOS
-* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, Mac
+* [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows, macOS, Linux, Android / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, macOS, Android, iOS
+* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, macOS
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
-* [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / Windows, Mac, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)
-* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, Mac, Linux
-* [Librum](https://librumreader.com) - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
-* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, Mac, Linux
-* [Okular](https://okular.kde.org/) - PDF / Windows, Mac, Linux
+* [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / Windows, macOS, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)
+* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, macOS, Linux
+* [Librum](https://librumreader.com) - Ebook Reader / Windows, macOS, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
+* [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, macOS, Linux
+* [Okular](https://okular.kde.org/) - PDF / Windows, macOS, Linux
 * [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows
 * [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
 * [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
 * [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
 * [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
-* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / Mac, iOS
+* [Yomu](https://www.yomu-reader.com/) - Ebook Reader / macOS, iOS
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / Windows
 * [DjVuLibre](https://djvu.sourceforge.net/) - DjVu Reader / Windows
@@ -364,7 +364,7 @@
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
-* [PlayTorrio](https://playtorrio.xyz/) - Audiobook App / Windows, Mac, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [PlayTorrio](https://playtorrio.xyz/) - Audiobook App / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
 ***

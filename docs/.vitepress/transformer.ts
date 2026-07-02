@@ -308,10 +308,10 @@ const transformLinks = (text: string): string =>
           ' <div v-tooltip="\'Windows\'" alt="Windows" class="i-qlementine-icons:windows-24" /> '
       },
       {
-        name: 'Mac',
-        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Mac(?=,|[ \t]\/|$)/gm,
+        name: 'macOS',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)(?:Mac|macOS)(?=,|[ \t]\/|$)/gm,
         replace:
-          ' <div v-tooltip="\'Mac\'" alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
+          ' <div v-tooltip="\'macOS\'" alt="macOS" class="i-qlementine-icons:mac-fill-16" /> '
       },
       {
         name: 'Linux',

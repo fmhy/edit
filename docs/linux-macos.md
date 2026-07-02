@@ -854,7 +854,7 @@
 
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [⁠ShichiZip](https://github.com/idawnlight/ShichiZip), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/en/) - File Archivers
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
-* [OpenMTP](https://openmtp.ganeshrvel.com/) - Mac / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
+* [OpenMTP](https://openmtp.ganeshrvel.com/) - macOS / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)

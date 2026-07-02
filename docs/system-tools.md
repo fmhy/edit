@@ -109,7 +109,7 @@
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
 * [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) - Terminal Multiplexers
-* [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, Mac, Linux
+* [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, macOS, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Nushell](https://www.nushell.sh/) - Alt Shell
@@ -125,18 +125,18 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** / Windows, Mac, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
-* ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)** / Windows, Mac, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, Mac, Linux / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
-* [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / Windows, Mac, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
+* ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
+* ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
+* ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
+* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
-* [HopToDesk](https://www.hoptodesk.com/) / Windows, Mac, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
-* [CoScreen](https://www.coscreen.co/) / Windows, Mac
-* [⁠DWS](https://www.dwservice.net/) / Windows, Mac, Linux
-* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, Mac
+* [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
+* [CoScreen](https://www.coscreen.co/) / Windows, macOS
+* [⁠DWS](https://www.dwservice.net/) / Windows, macOS, Linux
+* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, macOS
 * [Remotly](https://remotly.com/) / Windows, Linux
-* [Bananas](https://getbananas.net/) / Windows, Mac, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
+* [Bananas](https://getbananas.net/) / Windows, macOS, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
 * [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client / Windows
@@ -152,11 +152,11 @@
 ## ▷ Clipboard Managers
 
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
-* [PasteBar](https://www.pastebar.app/) / Windows, Mac / [GitHub](https://github.com/PasteBar/PasteBarApp)
-* [CrossPaste](https://crosspaste.com/) / Windows, Mac, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
+* [PasteBar](https://www.pastebar.app/) / Windows, macOS / [GitHub](https://github.com/PasteBar/PasteBarApp)
+* [CrossPaste](https://crosspaste.com/) / Windows, macOS, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
-* [CopyQ](https://hluk.github.io/CopyQ/) / Windows, Mac, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
+* [CopyQ](https://hluk.github.io/CopyQ/) / Windows, macOS, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features
 * [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots) - Extend Clipboard by 10 Memory Slots / Windows
 
 ***
@@ -235,13 +235,13 @@
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, macOS, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
-* [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, Mac, Linux
+* [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, macOS, Linux
 * [Task Manager DeLuxe](https://www.mitec.cz/tmx.html), [⁠TaskSlinger](https://taskslinger.net/), [⁠AppControl](https://www.appcontrol.com/) / [Discord](https://discord.gg/txdQZtW8AV) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor / Windows
 * [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers / Windows
-* [bottom](https://bottom.pages.dev) / [GitHub](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors / Windows, Mac, Linux
+* [bottom](https://bottom.pages.dev) / [GitHub](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors / Windows, macOS, Linux
 
 ***
 

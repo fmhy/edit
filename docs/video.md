@@ -645,8 +645,8 @@
 ## ▷ IPTV Players
 
 * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
-* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, Mac, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, Mac, Linux
+* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, macOS, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, macOS, Linux
 * [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / Windows / [Docs](https://tbeezy.github.io/ynotvdoc/)
 * [LivePush](https://livepush.io/hls-player/index.html) - IPTV Web Player
 * [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
