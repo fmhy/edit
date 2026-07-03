@@ -41,18 +41,18 @@
 ## ▷ Password Managers
 
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, Mac, Linux
+* ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, macOS, Linux / [Github](https://github.com/keepassxreboot/keepassxc)
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / All Platforms / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 * ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms
 * ⭐ **[KeePass](https://keepass.info/)** / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/) / Windows
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)** or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
-* ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / Mac, iOS
+* ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / macOS, iOS
 * [AuthPass](https://authpass.app/) / All Platforms
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
 * [LessPass](https://lesspass.com/) / Stateless Password Manager / Android, iOS, Web
-* [KeeWeb](https://keeweb.info/) / Windows, Mac, Linux, Web / [GitHub](https://github.com/keeweb/keeweb)
+* [KeeWeb](https://keeweb.info/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
-* [Strongbox](https://strongboxsafe.com/) / Mac, iOS
+* [Strongbox](https://strongboxsafe.com/) / macOS, iOS
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
 * [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux / [GitHub](https://github.com/gopasspw/gopass)
 
@@ -103,21 +103,21 @@
 * ↪️ **[IRC Clients / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
 * ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat), [2](https://github.com/revoltchat/awesome-revolt)
-* ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, Mac
+* ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, macOS / [GitHub](https://github.com/mumble-voip/mumble)
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
-* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, Mac, Linux
-* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
+* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [Source Code](https://dev.gajim.org/gajim/gajim)
+* [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
-* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
+* [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, macOS, Linux, Web
 * [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
-* [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
+* [WeeChat](https://weechat.org/) - Chat App / macOS, Linux
 * [Jam](https://jam.systems/) - Voice Chat / Web
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
-* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, macOS, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
-* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
-* [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
-* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, Mac, Linux
+* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, macOS, Linux
+* [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, macOS
+* [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, macOS, Linux
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers / Web
 * [⁠Proton Meet](https://proton.me/meet) - Video Chat / All Platforms
@@ -128,10 +128,10 @@
 * [Talky](https://talky.io/) - Video Chat / Web
 * [GoTeam](https://goteam.video/) - Video Chat / Web
 * [⁠Linkello](https://call.linkello.com/) - Video Chat / Web
-* [CoyIM](https://coy.im/) - XMPP Client / Windows, Mac, Linux
-* [⁠Prose](https://prose.org/) - XMPP Client / Windows, Mac, Web
-* [⁠Fluux](https://github.com/processone/fluux-messenger/) - XMPP Client / Windows, Mac, Linux, Web
-* [Profanity](https://profanity-im.github.io/) - XMPP Client / Windows, Mac, Linux, Android / [GitHub](https://github.com/profanity-im/profanity)
+* [CoyIM](https://coy.im/) - XMPP Client / Windows, macOS, Linux
+* [⁠Prose](https://prose.org/) - XMPP Client / Windows, macOS, Web
+* [⁠Fluux](https://github.com/processone/fluux-messenger/) - XMPP Client / Windows, macOS, Linux, Web
+* [Profanity](https://profanity-im.github.io/) - XMPP Client / Windows, macOS, Linux, Android / [GitHub](https://github.com/profanity-im/profanity)
 * [xabber](https://www.xabber.com/) - XMPP Client / Android, Web
 * [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics / Web
 
@@ -432,16 +432,16 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, Mac, Linux
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, Mac, Linux, Android / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md)
-* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, Mac, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, Mac, Linux
-* [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, Mac, Linux
-* [Outlook](https://outlook.live.com/owa/) / Windows, Mac, Linux, iOS, Web
-* [eM Client](https://www.emclient.com/) / Windows, Mac, Linux, Android, iOS
-* [Spike](https://www.spikenow.com/) / Windows, Mac, Android, iOS, Web
-* [Canary](https://canarymail.io/) / Windows, Mac, Android, iOS
-* [Twobird](https://www.twobird.com/) / Windows, Mac, Android, iOS
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, macOS, Linux
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md)
+* ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
+* [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, macOS, Linux
+* [Outlook](https://outlook.live.com/owa/) / Windows, macOS, Linux, iOS, Web
+* [eM Client](https://www.emclient.com/) / Windows, macOS, Linux, Android, iOS
+* [Spike](https://www.spikenow.com/) / Windows, macOS, Android, iOS, Web
+* [Canary](https://canarymail.io/) / Windows, macOS, Android, iOS
+* [Twobird](https://www.twobird.com/) / Windows, macOS, Android, iOS
 * [Roundcube](https://roundcube.net/) / Web
 
 ***
@@ -460,7 +460,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email) or [etempmail](https://eTempMail.com/) - .Edu Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
