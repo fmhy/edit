@@ -1823,7 +1823,9 @@ const customTitles = {
   urlOff: 'Search link URLs too',
   urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
   searching: 'Searching...',
-  cycleMatches: 'to cycle matches'
+  cycleMatches: 'to cycle matches',
+  detailedViewOn: 'Detailed view',
+  detailedViewOff: 'Compact view'
 }
 
 // Back
@@ -2163,25 +2165,6 @@ function isSamePageComparison(destPath: string) {
               />
 
               <button
-                v-if="!disableDetailedView"
-                class="toggle-layout-button"
-                type="button"
-                :class="{ 'detailed-list': showDetailedList }"
-                :aria-pressed="showDetailedList"
-                :title="translate('modal.displayDetails')"
-                @click="toggleDetailedList"
-              >
-                <span class="vpi-layout-list local-search-icon" />
-                <span class="visually-hidden">
-                  {{
-                    showDetailedList
-                      ? 'Detailed list active'
-                      : 'Detailed list off'
-                  }}
-                </span>
-              </button>
-
-              <button
                 class="toggle-fuzzy-button"
                 type="button"
                 :class="{ 'fuzzy-active': isFuzzySearch }"
@@ -2243,6 +2226,31 @@ function isSamePageComparison(destPath: string) {
             </div>
           </form>
 
+          <div v-if="filterText" class="results-header">
+            <span v-if="results.length" class="results-info-text">
+              Showing {{ results.length }} of {{ totalResultsCount
+              }}{{ mayHaveMore ? '+' : '' }} matches
+            </span>
+            <button
+              v-if="!disableDetailedView"
+              class="toggle-layout-button"
+              type="button"
+              :class="{ 'detailed-list': showDetailedList }"
+              :aria-pressed="showDetailedList"
+              :title="translate('modal.displayDetails')"
+              @click="toggleDetailedList"
+            >
+              <span class="vpi-layout-list toggle-layout-icon" />
+              <span class="toggle-layout-label">
+                {{
+                  showDetailedList
+                    ? customTitles.detailedViewOn
+                    : customTitles.detailedViewOff
+                }}
+              </span>
+            </button>
+          </div>
+
           <ul
             :id="results?.length ? 'localsearch-list' : undefined"
             ref="resultsEl"
@@ -2254,14 +2262,6 @@ function isSamePageComparison(destPath: string) {
             @keydown="onResultsKeydown"
           >
             <TransitionGroup name="result-list">
-              <li
-                v-if="filterText && results.length"
-                key="results-info"
-                class="results-info"
-              >
-                Showing {{ results.length }} of {{ totalResultsCount
-                }}{{ mayHaveMore ? '+' : '' }} matches
-              </li>
               <li
                 v-for="(p, index) in results"
                 :id="'localsearch-item-' + index"
@@ -2492,7 +2492,7 @@ function isSamePageComparison(destPath: string) {
   margin: 64px auto;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 12px;
   background: var(--vp-local-search-bg);
   width: min(100vw - 60px, 900px);
   height: min-content;
@@ -2724,7 +2724,6 @@ function isSamePageComparison(destPath: string) {
   min-height: 0;
   outline: none;
   gap: 6px;
-  padding-block-start: 4px;
   overflow-x: hidden;
   overflow-y: auto;
   overscroll-behavior: contain;
@@ -3172,13 +3171,67 @@ svg {
   border: 0;
 }
 
-.results-info {
+.results-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  margin-top: -4px;
+  padding: 4px 4px 10px;
+  border-bottom: 1px dashed var(--vp-c-divider);
+}
+
+.results-info-text {
+  flex: 1;
+  min-width: 0;
   font-size: 0.75rem;
   color: var(--vp-c-text-3);
-  padding: 6px 12px;
-  border-bottom: 1px dashed var(--vp-c-divider);
-  margin-top: -12px;
-  margin-bottom: 4px;
+  padding-left: 8px;
+}
+
+.toggle-layout-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  margin-left: auto;
+  height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  font-size: 0.75rem;
+  color: var(--vp-c-text-2);
+  background-color: var(--vp-local-search-bg);
+  transition:
+    color 0.2s,
+    background-color 0.2s,
+    border-color 0.2s;
+}
+
+.toggle-layout-icon {
+  display: block;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.toggle-layout-label {
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.toggle-layout-button:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+.toggle-layout-button.detailed-list {
+  color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg-soft);
+  border-color: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 35%,
+    var(--vp-c-divider)
+  );
 }
 
 .show-more-item {
