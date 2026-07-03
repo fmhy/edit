@@ -402,7 +402,7 @@
 * [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
 * [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Case Index
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
-* [DeployedMedicine](https://deployedmedicine.com/) (signup) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
+* [DeployedMedicine](https://deployedmedicine.com/) (Sign-Up) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
@@ -430,7 +430,7 @@
 * ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Apollo (Missions) Images
 * [Apollo in Realtime](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Interactive Apollo Missions
 * [Artemis II Photo Timeline](https://artemistimeline.com/) - Artemis II Photo & Video Timeline
-* [⁠Lunaserv Global Explorer]( https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
+* [⁠Lunaserv Global Explorer](https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
 * [Marspedia](https://marspedia.org/) - Mars Wiki
 * [ESA](https://www.esa.int/) - European Space Agency Website / [X](https://x.com/ESA_Webb)
 * [JAXA](https://global.jaxa.jp/) - Japanese Space Agency Website / [Images / Videos](https://jda.jaxa.jp/?lang=e)
@@ -1286,7 +1286,7 @@
 * [Signs](https://signs-ai.com/) - ASL Learning AI
 * [SignWriting](https://www.signwriting.org/) - Sutton SignWriting System Learning + Resources
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
-* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
+* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (Sign-Up), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [DMDb](https://deafmovie.org/) or [Sign on Screen](https://signonscreen.com/all-films/) - Deaf Movie Databases / Sign Language Films / Deaf Actors
 
 ***
@@ -1803,7 +1803,7 @@
 * ⭐ **[OneLook](https://onelook.com/)** - Multi-Source Dictionary / Thesaurus Search
 * ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Multi-Language Dictionary / Thesaurus / Etymology
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus / Etymology
-* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, Mac, Linux
+* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, macOS, Linux
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries

@@ -282,11 +282,11 @@
 * [⁠Proton Authenticator](https://proton.me/authenticator) - 2FA / All Platforms / [Discord](https://discord.com/invite/proton) / [GitHub](https://github.com/orgs/protonpass/repositories)
 * [Mauth](https://github.com/X1nto/Mauth) - 2FA / Android
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - 2FA / Android
-* [KeePassXC](https://keepassxc.org/) - 2FA / Local / Windows, Mac, Linux / [Resources](https://github.com/lgg/awesome-keepass) / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Video](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
-* [AuthMe](https://authme.levminer.com/) - 2FA / Windows, Mac, Linux / [GitHub](https://github.com/Levminer/authme)
+* [KeePassXC](https://keepassxc.org/) - 2FA / Local / Windows, macOS, Linux / [Resources](https://github.com/lgg/awesome-keepass) / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Video](https://youtu.be/ckWPHaQwft8) / [GitHub](https://github.com/keepassxreboot/keepassxc)
+* [AuthMe](https://authme.levminer.com/) - 2FA / Windows, macOS, Linux / [GitHub](https://github.com/Levminer/authme)
 * [Yubioath](https://developers.yubico.com/yubioath-flutter/) - 2FA / YubiKey Support / Windows, Android / [X](https://x.com/yubico) / [GitHub](https://github.com/Yubico/yubioath-flutter)
 * [OTPClient](https://github.com/paolostivanin/OTPClient) - 2FA / Linux
-* [Sentinel](https://getsentinel.io/) - 2FA / Mac, Android, iOS
+* [Sentinel](https://getsentinel.io/) - 2FA / macOS, Android, iOS
 * [OTP Auth](https://apps.apple.com/app/otp-auth/id659877384) - 2FA / iOS
 * [Tofu](https://www.tofuauth.com/) - 2FA / iOS / [GitHub](https://github.com/iKenndac/Tofu)
 * [Authenticator](https://authenticator.cc/) - 2FA Browser Extension / [GitHub](https://github.com/Authenticator-Extension/Authenticator)
@@ -316,9 +316,9 @@
 * [Cabal](https://cabal.chat/) - P2P / Serverless All Platforms / [GitHub](https://github.com/cabal-club)
 * [Linphone](https://www.linphone.org/) - All Platforms / [GitLab](https://gitlab.linphone.org/explore/projects)
 * [Berty](https://berty.tech/) / Android, iOS / [GitHub](https://github.com/berty/berty)
-* [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, Mac, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
-* [Cwtch](https://docs.cwtch.im) / Windows, Mac, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
-* [Delta Chat](https://delta.chat/) - Decentralized Email-Based Messenger / Windows, Mac, Linux, Android
+* [Ricochet Refresh](https://www.ricochetrefresh.net/) / Windows, macOS, Linux / [GitHub](https://github.com/blueprint-freespeech/ricochet-refresh)
+* [Cwtch](https://docs.cwtch.im) / Windows, macOS, Linux, Android / [GitLab](https://git.openprivacy.ca/cwtch.im/cwtch)
+* [Delta Chat](https://delta.chat/) - Decentralized Email-Based Messenger / Windows, macOS, Linux, Android
 * [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / Android, iOS
 * [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
@@ -474,22 +474,22 @@
 
 ## ▷ Proxy Clients
 
-* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, Mac, Linux
+* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, macOS, Linux
 * ⭐ **[NekoBox](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
-* [v2rayNG](https://github.com/2dust/v2rayNG) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2]( https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
+* [v2rayNG](https://github.com/2dust/v2rayNG) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2](https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
 * [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / All Platforms / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Discord](https://discord.com/invite/JfrKFScw6N) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
-* [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / Mac, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
-* [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / Windows, Mac, Linux / [GitHub](https://github.com/throneproj/Throne)
+* [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / macOS, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
+* [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / Windows, macOS, Linux / [GitHub](https://github.com/throneproj/Throne)
 * [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) / Android or [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) / iOS - Proxy Client
-* [ClashVerge](https://www.clashverge.dev/) - Proxy Client / Windows, Mac, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
-* [Streisand](https://streisand.pages.dev/) - Proxy Client / Mac, iOS
-* [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, Mac, Linux, Android
+* [ClashVerge](https://www.clashverge.dev/) - Proxy Client / Windows, macOS, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
+* [Streisand](https://streisand.pages.dev/) - Proxy Client / macOS, iOS
+* [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, macOS, Linux, Android
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
 * [⁠Exclave](https://github.com/dyhkwong/Exclave) - Proxy Client / Android
-* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, Mac, Android
-* [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, Mac, Linux
+* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, macOS, Android
+* [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, macOS, Linux
 
 ***
 

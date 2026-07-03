@@ -16,7 +16,7 @@
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
-* [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) or  - Find Random Small / Indie Sites
+* [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [Dan's Guides](https://rentry.co/danxyz7) - List of Guides by Dan
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [FckSignups](https://fcksignups.com/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
@@ -158,7 +158,7 @@
 ## ▷ Recipes
 
 * 🌐 **[TheGreatestCookbooks](https://thegreatestbooks.org/v/grid/the-greatest/cookbooks/books)** - Expert Recommended Cookbooks
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/ ) / [GitHub](https://github.com/julianpoy/recipesage), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/) / [GitHub](https://github.com/julianpoy/recipesage), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
@@ -228,7 +228,7 @@
 * ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/Andre0512/hOn) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
 * ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
 * [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord]( https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
+* [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord](https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
@@ -766,7 +766,7 @@
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
-* [Waistline](https://github.com/davidhealey/waistline), [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/)  or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
+* [Waistline](https://github.com/davidhealey/waistline), [Energize](https://codeberg.org/epinez/Energize/), [Cronometer](https://cronometer.com/) or [Nutritionix](https://www.nutritionix.com/) - Nutrition Tracking Apps
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research / Vegan-Focused
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -981,7 +981,7 @@
 ## ▷ Collaboration Platforms
 
 * ⭐ **[NextCloud](https://nextcloud.com/)** - Collaboration Platform / File Sharing / [GitHub](https://github.com/nextcloud)
-* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Teams Client / Windows, Mac, Linux
+* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Teams Client / Windows, macOS, Linux
 * [Atlassian](https://www.atlassian.com/) - Collaboration Platform
 * [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive)
 * [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform / [GitHub](https://github.com/mattermost/mattermost)

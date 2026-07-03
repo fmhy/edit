@@ -12,9 +12,9 @@
 
 * 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
-* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Signup / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+* ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)**, [2](https://csrin.org/) - Download / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (signup) / Pre-Installed / Achievements / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up) / Pre-Installed / Achievements / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/38bRNmKB4v)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Mirrors](https://rentry.co/ucxyz)
@@ -667,7 +667,7 @@
 * [Secret Hitler](https://secret-hitler.online/) - Online Secret Hitler Game / [Ruleset](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) / [GitHub](https://github.com/ShrimpCryptid/Secret-Hitler-Online/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sh-note.md) 
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [⁠Classic Klondike Solitaire](https://classicklondikesolitaire.com/free-solitaire-games), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
-* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
+* [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, macOS, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 
@@ -854,7 +854,7 @@
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
-* [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Required Sign-Up
+* [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Requires Sign-Up
 * [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game / [Discord](https://discord.com/invite/FKEzJSf)
 * [⁠Wizard Arena Online](https://wizardarenaonline.com/) - Multiplayer Survivors-Style Game
 * [Moo Moo](https://moomoo.io/) - Multiplayer Survival Game
@@ -1043,7 +1043,7 @@
 * [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
 * [⁠Distrodle](https://distro.fedesito.me/) - Linux Distro Guessing Game 
 * [More or Less](https://moreorless.io/) - More or Less Guessing
-* [Muzify](https://muzify.com/) (signup), [Musicle](https://musicle.app/), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
+* [Muzify](https://muzify.com/) (Sign-Up), [Musicle](https://musicle.app/), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
 * [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [⁠Musicle](https://musicle.fun/) - Daily Music Connections Game
 * [⁠CluesBySam](https://cluesbysam.com/) - Clue Style Guessing Game

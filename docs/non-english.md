@@ -473,7 +473,7 @@
 * [ILMIV](https://ilmiv.com/), [neobam](https://neobam.com/) or [kidraz](https://www.kidraz.com/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
 * [flemmix](https://flemmix.fast/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
-* [cinelibre](https://cinelibre.fr/ ) - Free w/ Ads Aggregator
+* [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
 * [Play RTS](https://www.rts.ch/play/tv) - Free w/ Ads
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [ICI Tou.tv](https://ici.tou.tv/) - Canada Public Broadcaster / Movies / TV / Docs / Cartoons / Requires Sign-Up
@@ -1022,7 +1022,7 @@
 
 # ► Polish / Polski
 
-* [Poland.gg]( https://poland.gg/) - Data & Statistics
+* [Poland.gg](https://poland.gg/) - Data & Statistics
 * [JakDojade](https://jakdojade.pl/) - Public Transport Map
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles

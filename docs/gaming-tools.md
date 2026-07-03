@@ -63,9 +63,9 @@
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher / Linux
 * [⁠TwintailLauncher](https://twintaillauncher.app/) - Game Launcher / Mod Engine for F2P Anime Games / Windows, Linux / [GitHub](https://github.com/TwintailTeam/TwintailLauncher)
 * [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Johncena141 Game Launcher / Linux
-* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / Windows, Mac, Linux / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
+* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / Windows, macOS, Linux / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
 * [⁠Starward](https://github.com/Scighost/Starward) - HoYoverse Game Launcher / Windows
-* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / Windows, Mac, Linux / [GitHub](https://github.com/Phalcode/gamevault-app)
+* [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu) / Windows, macOS, Linux / [GitHub](https://github.com/Phalcode/gamevault-app)
 
 ***
 
@@ -692,16 +692,16 @@
 
 ## ▷ Launchers
 
-* ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, Mac, Linux
-* [SkLauncher](https://skmedix.pl/) - User-Friendly Launcher / [Ad Bypass](https://greasyfork.org/en/scripts/563188) / Windows, Mac, Linux
+* ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
+* [SkLauncher](https://skmedix.pl/) - User-Friendly Launcher / [Ad Bypass](https://greasyfork.org/en/scripts/563188) / Windows, macOS, Linux
 * [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [⁠Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.gg/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Mobile / Android
-* [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher / Windows, Mac, Linux
-* [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions / Windows, Mac, Linux
-* [HMCL](https://hmcl.huangyuhui.net/) - Launcher / Windows, Mac, Linux / [GitHub](https://github.com/HMCL-dev/HMCL)
-* [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Launcher / Prism Launcher Fork w/ Alt Offline Support / Windows, Mac, Linux
-* [X Minecraft Launcher](https://xmcl.app/) - Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/W5XVwYY7GQ)
-* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / Use VPN or Disable JavaScript / Windows, Mac, Linux
-* [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
+* [⁠AstralRinth](https://git.astralium.su/didirus/AstralRinth) - User-friendly Launcher / Windows, macOS, Linux
+* [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) or [LegacyFix](https://github.com/betacraftuk/legacyfix) - Patch / Fix Legacy Versions / Windows, macOS, Linux
+* [HMCL](https://hmcl.huangyuhui.net/) - Launcher / Windows, macOS, Linux / [GitHub](https://github.com/HMCL-dev/HMCL)
+* [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Launcher / Prism Launcher Fork w/ Alt Offline Support / Windows, macOS, Linux
+* [X Minecraft Launcher](https://xmcl.app/) - Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/W5XVwYY7GQ)
+* [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / Use VPN or Disable JavaScript / Windows, macOS, Linux
+* [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
 * [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Minecraft Legacy Console Edition / [Discord](https://discord.gg/Q9V9mQkHBU)
 
 ***
@@ -713,14 +713,14 @@
 ***
 
 * 🌐 **[Minecraft Launcher Comparisons](https://mc-launcher.tayou.org/)** - Minecraft Launcher Comparison Chart / [GitHub](https://github.com/TayouVR/MinecraftLauncherComparison)
-* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, Mac, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
-* [ATLauncher](https://atlauncher.com/) - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/B7TrrzH)
-* [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / Windows, Mac, Linux / [Discord](https://discord.com/invite/technic)
+* ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* [ATLauncher](https://atlauncher.com/) - Modpack Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/B7TrrzH)
+* [Technic Launcher](https://www.technicpack.net/) - Modpack Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/technic)
 * [⁠LeviLauncher](https://levilauncher.levimc.org/) - Bedrock Launcher w/ GDK Support / Windows / [GitHub](https://github.com/LiteLDev/LeviLauncher)
 * [Bedrock Launcher](https://bedrocklauncher.github.io/) - Bedrock Launcher / UWP Only / Windows / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher)
-* [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Fork / Windows, Mac, Linux
-* [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / Windows, Mac, Linux / [GitHub](https://github.com/Moulberry/PandoraLauncher)
-* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / Mac / Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
+* [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Fork / Windows, macOS, Linux
+* [⁠PandoraLauncher](https://pandora.moulberry.com/) - Launcher / Windows, macOS, Linux / [GitHub](https://github.com/Moulberry/PandoraLauncher)
+* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS / Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) or [Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - Mobile Launcher / Android, iOS / [Discord](https://discord.gg/5ptqkyZxEy)
 * [⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launcher / Android
 

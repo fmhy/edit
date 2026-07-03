@@ -75,7 +75,7 @@
 ## ▷ YouTube Music Tools
 
 * [Themesong](https://themesong.app/) or [BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancement Extensions
-* [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter / Windows, Mac, Linux
+* [YT Music Deleter](https://github.com/apastel/ytmusic-deleter) - Library Manager / Deleter / Windows, macOS, Linux
 * [YouLy+](https://github.com/ibratabian17/YouLyPlus) or [Better Lyrics](https://better-lyrics.boidu.dev/) / [Uploader](https://darkforcefreefire.github.io/unison-web/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/better-lyrics/better-lyrics) - Improved Lyrics Browser Extensions
 * [Spot Transfer](https://spot-transfer.vercel.app/), [Spotify2YoutubeMusic](https://github.com/mahdi-y/Spotify2YoutubeMusic) or [spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) / [2](https://github.com/sigma67/spotify_to_ytmusic) - Spotify Playlist Importers
 * [YT Upload Clear](https://rentry.co/tv4uo) - Script to Clear Uploaded Songs
@@ -764,30 +764,30 @@
 * ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android
 * ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons) / Windows
-* [Astra](https://astramusic.dev/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/boof2015/astra)
-* [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, Mac, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
+* [Astra](https://astramusic.dev/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/boof2015/astra)
+* [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
-* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, Mac, Linux, Android / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
+* [Audion](https://audionplayer.com/) - Feature-Rich Audio Player / Windows, macOS, Linux, Android / [Plugins](https://www.audionplayer.com/plugins) / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
-* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, Mac, Linux / [GitHub](https://github.com/clangen/musikcube)
-* [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / Mac, Linux
+* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, macOS, Linux / [GitHub](https://github.com/clangen/musikcube)
+* [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / macOS, Linux
 * [XMPlay](https://www.un4seen.com/xmplay.html) - Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers
-* [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, Mac, Linux
+* [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
-* [Snowify](https://snowify.cc/) - Audio Player / Windows, Mac, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
-* [Museeks](https://museeks.io/) - Simple Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/martpie/museeks)
-* [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
-* [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
-* [Exaile](https://exaile.org/) - Audio Player / Windows, Mac, Linux / [GitHub](https://github.com/exaile/exaile)
-* [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, Mac, Linux
-* [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, Mac, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)
+* [Snowify](https://snowify.cc/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
+* [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
+* [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
+* [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
+* [Exaile](https://exaile.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/exaile/exaile)
+* [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, macOS, Linux
+* [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, macOS, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)
 * [Swing](https://swingmx.com/) - Self-Hosted Browser Music Player / Windows, Linux / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
 * [Nora](https://noramusic.netlify.app/) - Audio Player / [Discord](https://discord.gg/c5rGKnBs4y) / [GitHub](https://github.com/Sandakan/Nora)
-* [Dopamine](https://github.com/digimezzo/dopamine) - Simple Audio Player / Windows, Mac, Linux
-* [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player / Windows, Mac, Linux / [Discord](https://discord.gg/FVKpcMDy5f)
-* [Aonsoku](https://github.com/victoralvesf/aonsoku) - Navidrome / Subsonic Player / Windows, Mac, Linux
+* [Dopamine](https://github.com/digimezzo/dopamine) - Simple Audio Player / Windows, macOS, Linux
+* [Feishin](https://github.com/jeffvli/feishin) - Jellyfin / Navidrome / Subsonic Player / Windows, macOS, Linux / [Discord](https://discord.gg/FVKpcMDy5f)
+* [Aonsoku](https://github.com/victoralvesf/aonsoku) - Navidrome / Subsonic Player / Windows, macOS, Linux
 * [LedFx](https://docs.ledfx.app/en/stable/) - LED Music Sync / Windows / [Discord](https://discord.gg/xyyHEquZKQ) / [GitHub](https://github.com/ledfx/ledfx)
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices / [Wiki](https://www.rockbox.org/wiki/) / [Themes](https://themes.rockbox.org/)
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info
@@ -948,7 +948,7 @@
 ## ▷ Audio Editors
 
 * ⭐ **[Tenacity](https://tenacityaudio.org/)** / [Source Code](https://codeberg.org/tenacityteam/tenacity), [Audacity](https://www.audacityteam.org/) / [Discord](https://discord.com/invite/audacity) / [GitHub](https://github.com/audacity/audacity) or [ocenaudio](https://www.ocenaudio.com/) - Audio Editors
-* ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
+* ⭐ **[FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)** (search) / [Guide](https://www.image-line.com/learn) / [2](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual) / [3](https://support.image-line.com/action/knowledgebase), **[Reaper](https://www.reaper.fm/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/reaper-note.md)**, [KiraStudio](https://kirastudio.org/) / [GitHub](https://github.com/BleuBleu/KiraStudioPublic), [Zrythm](https://www.zrythm.org/en/index.html) / [GitLab](https://gitlab.zrythm.org/zrythm/zrythm), [Waveform](https://www.tracktion.com/products/waveform-free) or [LMMS](https://lmms.io/) / [Discord](https://discord.com/invite/PruNxpG) / [GitHub](https://github.com/LMMS) - Digital Audio Workstations
 * ⭐ **[OpenMPT](https://openmpt.org/)** / [Source Code](https://source.openmpt.org/) / [GitHub](https://github.com/OpenMPT/openmpt/), [Schism Tracker](https://schismtracker.org/) / [GitHub](https://github.com/schismtracker/schismtracker), [Furnace](https://tildearrow.org/furnace/) / [Discord](https://discord.gg/QhA26dXD23) / [GitHub](https://github.com/tildearrow/furnace), [16-Bits](https://16-bits.org/) / [GitHub](https://github.com/8bitbubsy?tab=repositories) or [MilkyTracker](https://milkytracker.org/) / [GitHub](https://github.com/milkytracker/MilkyTracker) - Music Trackers
 * [Team V.R releases](https://rentry.co/FMHYB64#team-vr), [G-MEH](https://g-meh.com/) / [Discord](https://discord.com/invite/g-meh) or [AudioZ](https://audioz.download/) / [Forum](https://audiosex.pro/) - Audio Editor Indexes
 * [Ossia](https://ossia.io/) - Intermedia Sequencer / [GitHub](https://github.com/ossia/score)

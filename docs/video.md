@@ -144,7 +144,7 @@
 * [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.ru/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [321Movies](https://321movies.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/5CETfHBD7R)
 * [Moonflix](https://moonflix.site/) - Movies / TV / Anime / [Telegram](https://t.me/Moonflix_official_Channel)
-* [Redflix](https://redflix.co/), [2]( https://redflix.club/) or [CineHub](https://cinehub.one/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
+* [Redflix](https://redflix.co/), [2](https://redflix.club/) or [CineHub](https://cinehub.one/) - Movies / TV / Anime / [Discord](https://discord.gg/wp5SkSWHW5)
 * [Flyflix](https://flyflix.net/) - Movies / TV / Anime / [Discord](https://discord.gg/sssvheMsVT)
 * [1PrimeShows](https://1primeshow.online/) - Movies / TV / Anime / [Discord](https://discord.gg/7JKJSbnHqf)
 * [FluxTV](https://fluxtv.cc/), [2](https://fluxtv.co.uk/), [3](https://fluxtv.qzz.io/) - Movies / TV / Anime / [Status](https://rentry.co/fluxtv) / [Discord](https://discord.gg/xyB8MHGV)
@@ -275,7 +275,7 @@
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [TVARK](https://tvark.org/) or [Daily Commercials](https://dailycommercials.com/) - Commercial / TV Promo Archives
 * [MovieCommentaries](https://www.youtube.com/@moviecommentaries) - Movie / TV Director Commentaries
-* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
+* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (Sign-Up), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
 
 ***
@@ -650,8 +650,8 @@
 ## ▷ IPTV Players
 
 * ↪️ **[Android IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_live_tv)**
-* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, Mac, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
-* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, Mac, Linux
+* ⭐ **[IPTVNator](https://4gray.github.io/iptvnator/)** - IPTV Player / Windows, macOS, Linux / [Telegram](https://t.me/iptvnator) / [GitHub](https://github.com/4gray/iptvnator)
+* ⭐ **[Open TV](https://github.com/fredolx/open-tv)** - IPTV Player / Windows, macOS, Linux
 * [ynoTV](https://github.com/tbeezy/ynotv/) - IPTV Player / Windows / [Docs](https://tbeezy.github.io/ynotvdoc/)
 * [LivePush](https://livepush.io/hls-player/index.html) - IPTV Web Player
 * [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
@@ -777,7 +777,7 @@
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
-* [Vyla](https://vyla.pages.dev/), [2](https://vyla.qzz.io/)  - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
+* [Vyla](https://vyla.pages.dev/), [2](https://vyla.qzz.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [Cineby](https://cineby.at/), [2](https://www.cineplay.to/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C2zGTdUbHE)
 * [FlickyStream](https://flickystream.su/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
