@@ -1164,7 +1164,7 @@
 
 ## ▷ Web Security
 
-* [LibreCaptcha](https://github.com/librecaptcha/lc-core), [Cap](https://trycap.dev/) / [GitHub](https://github.com/tiagozip/cap), [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) or [mCaptcha](https://mcaptcha.org/) - Bot Protection / Captchas
+* [LibreCaptcha](https://github.com/librecaptcha/lc-core), [Cap](https://trycap.dev/) / [GitHub](https://github.com/tiagozip/cap), [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) or [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) - Bot Protection / Captchas
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider

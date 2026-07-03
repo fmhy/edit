@@ -17,6 +17,7 @@
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Streaming / Plugin-Based / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [PlayTorrio](https://playtorrio.xyz/) - Streaming / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
+* [WAVE](https://waveapp.pages.dev/) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/NuclearPlayer/nuclear-xrd)
@@ -334,7 +335,7 @@
 * 🌐 **[Awesome Spotify Stats](https://github.com/hugo9655/awesome-spotify-stats)** - Listening Statistics Index
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Ad-Free Spotify Patchers / [Telegram](https://t.me/SpotxCommunity)
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Notes](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
 * [Lofi](https://www.lofi.rocks/) - Mini Spotify Player Widget / [GitHub](https://github.com/dvx/lofi)
 * [Trikatuka](https://trikatuka.aknakn.eu/) - Migrate Spotify Data to New Accounts
@@ -425,6 +426,7 @@
 * [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Apple / YouTube / FLAC / 25 Daily
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3
 * [⁠Antra Lossless](https://t.me/antralossless_bot) - Apple Music / Amazon Music / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
+* [⁠alac_collab_bot](https://t.me/alac_collab_bot) - Apple Music / ALAC / Atmos / AAC / 20 Daily / [Telegram](https://t.me/apple_music_bot_alac)
 * [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [GlomaticoPinkMusicBot](https://t.me/GlomaticoPinkMusicBot) - Apple Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [GlomaticoBlueMusicBot](https://t.me/GlomaticoBlueMusicBot) - Amazon Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
@@ -709,7 +711,7 @@
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
-* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.imgur.com/FDx8jKa.png), [2](https://files.catbox.moe/v7hy49.png)
+* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
@@ -746,6 +748,7 @@
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
 * ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
+* [Xconvert](https://www.xconvert.com/audio-tools) or [FreeConvert](https://www.freeconvert.com/audio-converter) - Online Audio Converters
 * [⁠Hydrogenaudio Knowledgebase](https://wiki.hydrogenaudio.org/) - Audio Technology Wiki / Guides
 * [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 * [Phiola](https://github.com/stsaz/phiola), [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Apps / Sites

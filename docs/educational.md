@@ -395,7 +395,7 @@
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) - Histology Guides
 * [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
-* [Antibiotics Summary](https://i.imgur.com/rADmmfy.jpeg), [2](https://files.catbox.moe/l7r3n5.jpeg) - Antibiotics Summary Image
+* [Antibiotics Summary](https://i.ibb.co/j9ksM3S9/l7r3n5.jpg), [2](https://files.catbox.moe/l7r3n5.jpeg), [3](https://i.imgur.com/rADmmfy.jpeg) - Antibiotics Summary Image
 * [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review) or [Litfl](https://litfl.com/ecg-library/) - ECG Information
 * [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
 * [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice / Learning
@@ -1143,6 +1143,7 @@
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Minato](https://minato-jf.jp/) - Japanese Courses
+* [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
@@ -1178,7 +1179,7 @@
 ## ▷ Chinese
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
-* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
+* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App

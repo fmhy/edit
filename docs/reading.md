@@ -245,6 +245,7 @@
 * [NovelGo](https://novelgo.id) - Online Reading
 * [Armaell's Library](https://armaell-library.net/) - Downloads
 * [Baka-Tsuki](https://www.baka-tsuki.org) - Online Reading
+* [NovelArchive](https://novelarchive.cc/) - Online Reading
 * [WuxiaWorld.com](https://www.wuxiaworld.com/) - Online Reading
 * [⁠WuxiaDreams](https://wuxiadreams.com/) - Online Reading
 * [AsianHobbyist](https://www.asianhobbyist.com/) - Online Reading
@@ -559,8 +560,8 @@
 
 ## ▷ Textbooks
 
-* ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Open-Source Textbooks
+* ↪️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
 * [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
@@ -942,6 +943,7 @@
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - Comic Rating Aggregator ⁠
+* ⭐ **[MangaBaka](https://mangabaka.org/)** - Manga Database / [Discord](https://mangabaka.org/discord)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit

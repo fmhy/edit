@@ -432,7 +432,7 @@
 
 ## ▷ Email Clients
 
-* ⭐ **[Betterbird](https://www.betterbird.eu/)** / Windows, macOS, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
+* ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, macOS, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
@@ -859,7 +859,7 @@
 * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
 * ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
-* ⭐ **[MarkDownload](https://github.com/deathau/markdownload)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
+* ⭐ **[MarkSnip](https://github.com/DhruvParikh1/MarkSnip)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** - Website Downloader / [GitHub](https://github.com/xroche/httrack)
 * ⭐ **[Kiwix](https://get.kiwix.org/en/solutions/applications/download-options/)** / [Library](https://browse.library.kiwix.org/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) / [Subreddit](https://www.reddit.com/r/Kiwix/) / [GitHub](https://github.com/kiwix/) or [DownloadNet (dn)](https://github.com/DO-SAY-GO/dn) - Offline Website Readers
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool

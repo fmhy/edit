@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [Disroot](https://disroot.org/en/#services), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [Vern](https://vern.cc/eng/services), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Farside](https://farside.link/)** / [2](https://cf.farside.link/), [Disroot](https://disroot.org/en/#services), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [4d2](https://4d2.org/), [Vern](https://vern.cc/eng/services), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)** 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -221,7 +221,7 @@
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
-* [redarcs](https://the-eye.eu/redarcs/) - Reddit Post Archive Tools / [Note](https://www.reddit.com/r/stupidpol/comments/13aaacn/psa_reddit_killed_pushshift_all_reddit_threads/)
+* [redarcs](https://the-eye.eu/redarcs/) - Reddit Pushshift Archives
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper

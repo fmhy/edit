@@ -39,7 +39,7 @@
 * [Reloaded Steam](https://reloadedsteam.com/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/XqMpBdVWvK)
 * [SteamGG](https://steamgg.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE)
 * [World of PC Games](https://worldofpcgames.com/), [⁠The Dark Games](https://the-dark-games.com/) or [GetFreeGames](https://getfreegames.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
-* [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads / [Hash Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/freegogpcgames-note.md)
+* [⁠GOG Archive](https://gog.squid.wtf/) or [FreeGOGPCGames](https://freegogpcgames.com/) / [Hash Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/freegogpcgames-note.md) - Torrent / GOG Games Re-Uploads 
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
@@ -837,6 +837,7 @@
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
+* [Windage](https://windage.online/) or [Scorch2000](http://www.scorch2000.com/) - Multiplayer Artillery Battle Games / Scorched Earth Remakes
 * [⁠Splatoon.io](https://splatoon.io/) - ⁠Splatoon Style Game
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Golf Party](https://golfparty.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini Golf Games

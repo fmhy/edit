@@ -433,7 +433,7 @@
 * ⭐ **[MacroDroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Subreddit](https://www.reddit.com/r/macrodroid/), [Tasker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Automate](https://llamalab.com/automate/) / [Subreddit](https://www.reddit.com/r/AutomateUser/) - Android Automation
 * ⭐ **[Unified Remote](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
 * ⭐ **[Gadgetbridge](https://gadgetbridge.org/)** - Gadget Manager / [Supported Devices](https://gadgetbridge.org/gadgets/) / [Source Code](https://codeberg.org/Freeyourgadget/Gadgetbridge)
-* [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) or [fooView](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - Multi-Tool Apps
+* [⁠Life Tool](https://play.google.com/store/apps/details?id=com.bryanf.tool), [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) or [fooView](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - Multi-Tool Apps
 * [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
 * [Inverse AI](https://play.google.com/store/apps/details?id=com.inverseai.video_converter) - Video Converter / Compressor
 * [⁠Compressor](https://github.com/JoshAtticus/Compressor) - Video Compressor
@@ -933,6 +933,7 @@
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
+* [WAVE](https://waveapp.pages.dev/) - YouTube Music Player
 * [⁠Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music Player / Spotify Integration
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player
 * [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
@@ -1338,6 +1339,7 @@
 * [Demus](https://demus.app/) - Streaming
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / Ad-Free / [Discord](https://discord.gg/64fVZ2QdZ9)
+* [WAVE](https://waveapp.pages.dev/) - YouTube Music / Ad-Free
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming

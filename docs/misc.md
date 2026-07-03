@@ -733,7 +733,7 @@
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
 * ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
-* ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/gEfyf0q.jpeg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg) - Zoomable Exercise Diagram
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg)**, [2](https://i.ibb.co/b5TpBHqm/g-Efyf0q.jpg), [3](https://i.imgur.com/gEfyf0q.jpeg) - Zoomable Exercise Diagram
 * ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [⁠Hybrid Calisthenics](https://www.hybridcalisthenics.com/app), [FitNotes](https://www.fitnotesapp.com/), [⁠Strong App](https://www.strong.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) or [⁠Muscle & Strength](https://www.muscleandstrength.com/exercises) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
@@ -1379,7 +1379,7 @@
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
-* [Discourse](https://discover.discourse.com/) - Specialty Forum
+* [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
 * [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gaming Forums
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum

@@ -24,7 +24,7 @@
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
-* [Claude](https://claude.ai/) - Claude Sonnet 4.6 / Require Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
+* [Claude](https://claude.ai/) - Claude Sonnet 4.6 / Requires Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax-M3 / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral (console)](https://console.mistral.ai/home) - Mistral Large 3 / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B (Think) / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)
@@ -45,8 +45,8 @@
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - Gemini 3.5 Flash / Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [Pollinations Chat](https://pollinations.ai/play), [2](https://ai-studio.puter.site/index.html), [3](https://hey-hi.space/unified) - DeepSeek V4 Pro / GLM-5.1 / GPT-5.5 / Grok 4.3 / Multiple Models / [Limits and Models](https://enter.pollinations.ai/sign-in##models) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
 * [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
-* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.1 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited
-* [⁠Together.ai](https://chat.together.ai/) - GLM-5.1 / Kimi K2.6 / Deepseek-V4 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5.2 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited
+* [⁠Together.ai](https://chat.together.ai/) - GLM-5.2 / Kimi K2.6 / Deepseek-V4 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up
 * [Cerebras Chat](https://chat.cerebras.ai/) - GLM-4.7 / Qwen3-235B / Qwen3 235B Instruct / Multiple Models / Sign-Up
 * [Groq](https://console.groq.com/playground) - GPT-OSS-120B / Llama 3.3 70B / Multiple Models / Sign-Up / [Limits](https://console.groq.com/docs/rate-limits) / [Discord](https://discord.com/invite/e6cj7aA4Ts)
@@ -202,12 +202,12 @@
 * [⁠ZonerAI](https://zonerai.com/en/image-editor) - Editing (Sign-Up) + Generating (No Sign-Up) / Unlimited
 * [Meta AI](https://www.meta.ai/) - Generating + Editing / Unlimited / Meta Sign-Up
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/) or [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
+* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/), [ImageFree](https://imagefree.net/), [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
 * [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
 * [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
 * [⁠ChatGPT Image](https://chatgpt.com/images/) - GPT Image 2 / 8 Daily / Sign-Up
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
-* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone / US Select CA
+* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
 * [imgsys](https://imgsys.org/) - Compare Generators / Unlimited / No Direct Mode
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators

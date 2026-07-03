@@ -66,7 +66,7 @@
 ***
 
 * 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index w/ News + Rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
-* ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) - Quiz-Based Distro Selector / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
+* ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser) or [⁠Distro Fighter](https://distrofighter.com/) - Quiz-Based Distro Selectors
 * [distro.moe](https://distro.moe/) - Random Distro Finder
 * [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
 * [OpenSourceFeed](https://www.opensourcefeed.org/) - Open-Source Distros
@@ -242,7 +242,7 @@
 * [Fooyin](https://www.fooyin.org/) - Audio Player / [GitHub](https://github.com/fooyin/fooyin)
 * [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
-* [AudioTube](https://invent.kde.org/multimedia/audiotube), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
+* [AudioTube](https://invent.kde.org/multimedia/audiotube), [WAVE](https://waveapp.pages.dev/), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
 * [cliamp](https://www.cliamp.stream/) / [GitHub](https://github.com/bjarneo/cliamp), [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
 * [⁠Sonosano](https://sonosano.krshh.com/) - Self-Hosted P2P Lossless Music Player / [GitHub](https://github.com/KRSHH/Sonosano)
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
@@ -446,7 +446,7 @@
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
-* [The Filesystem Hierarchy Standard](https://i.imgur.com/0vfM4dm.png), [2](https://files.catbox.moe/2390ha.png) - Linux Filesystem Chart
+* [The Filesystem Hierarchy Standard](https://i.ibb.co/Mx53xj3R/image.png)), [2](https://files.catbox.moe/2390ha.png), [3](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers / Compression
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
@@ -683,7 +683,7 @@
 * [AnymeX](https://anymex.vercel.app/) - Anime Streaming App / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
-* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders / [Cap GitHub](https://github.com/CapSoftware/Cap)
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
 * [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS
 
 ***
@@ -699,7 +699,7 @@
 * [Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player
 * [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
 * [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
-* [⁠Kaset](https://github.com/sozercan/kaset/) - YouTube Music Client
+* [⁠Kaset](https://github.com/sozercan/kaset/) or [WAVE](https://waveapp.pages.dev/) - YouTube Music Clients
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) - Audio Equalizer
@@ -792,7 +792,7 @@
 
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Directory
-* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/) / [Albert GitHub](https://github.com/albertlauncher/albert)
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
 * [NoxPlayer](https://www.bignox.com/), [MuMuPlayer](https://www.mumuplayer.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS

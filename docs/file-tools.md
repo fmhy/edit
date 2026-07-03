@@ -127,6 +127,7 @@
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
+* [⁠VERNAM](https://vernam.app/) - Browser File Encryptor / [GitHub](https://github.com/LifetimeLabsDev/VERNAM)
 
 ***
 
