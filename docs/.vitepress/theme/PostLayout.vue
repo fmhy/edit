@@ -9,7 +9,8 @@ const formatDate = (raw: string): string => {
   const date = new Date(raw)
   return date.toLocaleDateString('en-US', {
     month: 'short',
-    day: 'numeric'
+    day: 'numeric',
+    timeZone: 'UTC'
   })
 }
 
