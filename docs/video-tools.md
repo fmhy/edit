@@ -377,14 +377,14 @@
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * [Video DownloadHelper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
-* [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
+* [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
+* [AMP4](https://amp4.cc/) - Multi-Site / Online
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 * [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online
 * [⁠dltkk](https://dltkk.to/) - Multi-Site / Online
-* [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
@@ -395,6 +395,7 @@
 * [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
+* [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide
 
 ***
 
@@ -416,6 +417,7 @@
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, macOS, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/mltframework/shotcut)
 * [OpenShot](https://www.openshot.org/) - Video Editor / Windows, macOS, Linux
+* [Keyflame](https://rentry.co/FMHYB64#keyflame) - Video Editors / Plugins
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, macOS
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor

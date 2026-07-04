@@ -569,6 +569,7 @@
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
 * [⁠PlausibleGame](https://plausiblegame.com/) - Daily Word Game
 * [⁠Blockle](https://blockle.au/) - Daily Word Game
+* [⁠Lettered](https://lettered.io/) - Daily Word Game
 * [⁠Word Nerd](https://wordnerd.co/) - Daily Word Game
 * [Three Letters Game](https://threelettersgame.com/) - Daily Word Game
 * [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
@@ -987,6 +988,7 @@
 * [War.app](https://war.app/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
+* [⁠Prince Chazz](https://princechazz.com/) - Chess-Style Rouguelite
 
 ***
 
@@ -1030,7 +1032,8 @@
 * [Amountle](https://www.amountle.dev/) - Daily Estimation Game
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
-* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/) / [TV](https://actorle.tv/), [Kino.wtf](https://www.kino.wtf/), [Flickle](https://flickle.app/), [⁠Flickle](https://www.flickle.co/) or [Framed](https://framed.wtf/) - Movie / TV Guessing Games
+* [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/) / [TV](https://actorle.tv/), [Kino.wtf](https://www.kino.wtf/), [Flickle](https://flickle.app/), [⁠Flickle](https://www.flickle.co/) or [Framed](https://framed.wtf/) - Movie / TV Guessing 
+* [⁠Letterrankd](https://www.letterrankd.com/) - Letterboxd Ratings Guessing Game
 * [Cinenerdle](https://www.cinenerdle.app/) - Movie Puzzles
 * [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 * [Scenewise](https://scenewise.io/) - Movie Scene Order Puzzle

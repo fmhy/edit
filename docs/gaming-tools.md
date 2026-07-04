@@ -643,7 +643,6 @@
 * [MC Utils](https://mcutils.com/) / [Discord](https://discord.com/invite/HvPARrr55x) or [⁠MCTools](https://mc-tools.net/) - Web-Based Minecraft Toolkits
 * [Minecraft Forum](https://www.minecraftforum.net/) - Minecraft Community / Support / [Discord](https://discord.com/invite/wGrQNKX)
 * [DigiMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides / Tools
-* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Omniarchive](https://omniarchive.uk/) - Lost Developmental Versions Archive / [Discord](https://discord.com/invite/udX5PRKayw)
 * [SkyCrypt](https://sky.shiiyu.moe/) - Hypixel SkyBlock Stats / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCryptv2)
@@ -762,9 +761,10 @@
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community / [Discord](https://discord.com/invite/moddedmc)
 * [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Discord](https://discord.gg/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit)
 * [CraftPresence](https://modrinth.com/mod/craftpresence) / [GitLab](https://gitlab.com/CDAGaming/CraftPresence) or [Phase's Discord RPC](https://modrinth.com/mod/phases-discord-rich-presence) / [GitHub](https://github.com/ThePhaseCat/phases-discord-rich-presence) - Discord RPC for Java Edition
-* [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition / [GitHub](https://github.com/isXander/Controlify)
+* [Controlify](https://modrinth.com/mod/controlify) - Add Controller Support to Java Edition / Split-Screen Support / [GitHub](https://github.com/isXander/Controlify)
 * [No Telemetry](https://modrinth.com/mod/no-telemetry), [2](https://www.curseforge.com/minecraft/mc-mods/no-telemetry) - Disable Telemetry Data / [GitHub](https://github.com/kb-1000/no-telemetry?tab=readme-ov-file)
 * [SimpleVoicechat](https://modrinth.com/plugin/simple-voice-chat) - Feature-Rich Voice Chat Mod / [Discord](https://discord.gg/4dH2zwTmyX) / [GitHub](https://github.com/henkelmax/simple-voice-chat)
+* [ViveCraft](https://www.vivecraft.org/) - VR Minecraft Mod / [Discord](https://discord.com/invite/2x3QCk8qa9) / [GitHub](https://github.com/Vivecraft/VivecraftMod)
 * [ReplayMod](https://replaymod.com/) / [Discord](https://discord.com/invite/5GR7RSb) / [GitHub](https://github.com/ReplayMod/ReplayMod) or [FlashBack](https://modrinth.com/mod/flashback) / [Discord](https://discord.com/invite/mAYDZ9c7rD) / [GitHub](https://github.com/Moulberry/Flashback?tab=readme-ov-file) - Record Game Sessions
 * [Craftify](https://modrinth.com/mod/craftify) - Display / Control Playing Music from Streaming Services / [GitHub](https://github.com/ThatGravyBoat/Craftify)
 * [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial Vanilla Tweaks Port to Bedrock Edition / [Discord](https://discord.com/invite/xq9JpJ3) / [GitHub](https://github.com/bedrocktweaks)
@@ -869,6 +869,7 @@
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 * [RuneForge](https://runeforge.dev/) - Custom LoL Skins / [Discord](https://discord.com/invite/runeforge)
+* [⁠Rose](https://github.com/Alban1911/Rose) - LoL Skin Manager / Unlocker
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
 
@@ -908,7 +909,7 @@
 * [Seelie.me](https://seelie.me/) - Genshin / Star Rail Planner
 * [Genshin Center](https://genshin-center.com/) - Genshin Planner
 * [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/) - Genshin Impact Calculator / Artifact Optimizer
-* [Genshin Helper Doc](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview?pru=AAABdXYM80o*xMxXJdNbCCZ-v9FLVh6EXg) - Genshin Builds Guide
+* [Genshin Builds](https://genshin-impact-helper-team.github.io/genshin-builds/en/) - Genshin Builds Guide
 * [Grasscutter](https://grasscutter.io/) - Private Genshin Impact Servers / [Discord](https://discord.gg/T5vZU6UyeG)
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
@@ -981,7 +982,6 @@
 
 # ► Game Specific
 
-* 🌐 **[Among Us Modding](https://markbox.cc/amongusmodding)** - ⁠Among Us Resources / Guide
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** or **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - Animal Crossing: New Horizons Resources / Guides
 * 🌐 **[osu! Game Resources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) or **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)** - Osu! Resources
@@ -1184,7 +1184,7 @@
 ## ▷ Undertale / Deltarune Tools
 
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
-* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases / [Discord](https://discord.com/invite/zp2q7UFuWh)
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue), [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump

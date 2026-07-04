@@ -887,6 +887,7 @@
 
 ## ▷ Dharmic
 
+* [Wisdom Library](https://www.wisdomlib.org/) - Dharmic Texts Archive
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
 * [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) or [Dharmik](https://github.com/shub39/Dharmik) - Bhagavad Gita Apps
@@ -930,6 +931,7 @@
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
+* [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them

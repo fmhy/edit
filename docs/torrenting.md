@@ -110,7 +110,7 @@
 * [⁠qui](https://getqui.com/) / [GitHub](https://github.com/autobrr/qui), [VueTorrent](https://github.com/VueTorrent/VueTorrent) / [Demo](https://vuetorrent.github.io/demo/#/) or [iQbit](https://github.com/ntoporcov/iQbit) - Alt WebUIs
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) / Linux - Docker Builds
+* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) (linux) - Docker Builds
 * [qBit Color Themes](https://github.com/MahdiMirzadeh/qbittorrent), [Dracula](https://draculatheme.com/qbittorrent), [Catppuccin](https://github.com/catppuccin/qbittorrent) or [Nord](https://github.com/Zabooby/qbittorrent-config) - Client Themes
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
