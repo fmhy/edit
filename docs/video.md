@@ -191,6 +191,7 @@
 * [Heartive](https://heartivetv.pages.dev/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
 * [Moviepire](https://moviepire.org/) - Movies / TV / Anime / [Telegram](https://t.me/hdoboxapk2)
+* [Movieflix](https://movieflix.live/) - Movies / TV / Anime
 
 ***
 
