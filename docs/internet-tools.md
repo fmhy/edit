@@ -339,10 +339,10 @@
 ***
 
 ## ▷ Redirect Bypass
-
-* ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
+* ⭐ **[AIO Bypass](https://addons.mozilla.org/en-US/firefox/addon/aio-bypass/)** - Bypass Link Shorteners / Firefox Extension
 * ⭐ **[Evade](https://skipped.lol/evade/evade.user.js)** - Ad-Links Bypasser / [Site](https://skipped.lol/)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
+* [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=3.0)
 * [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
