@@ -660,7 +660,6 @@
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips), [Modern CSS](https://moderncss.dev/) or [CSS Reference](https://cssreference.io/) - CSS Guides
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
-* [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [Buttons.cool](https://www.buttons.cool/) - Copy CSS Buttons
@@ -821,7 +820,6 @@
 * [Vvveb](https://www.vvveb.com/), [Universe](https://onuniverse.com/), [Google Sites](https://sites.google.com/), [GrapeDrop](https://grapedrop.com/) or [Odoo](https://www.odoo.com/app/website) - Drag & Drop Website Builders
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
 * [8b](https://8b.com/) - Simple Online Website Builder
-* [Potion](https://potion.so/) - Notion Website Builder
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
