@@ -7,14 +7,21 @@
 # every task to completion so a failure in one doesn't SIGKILL the others.
 CHECK_CMD="${PRE_COMMIT_CHECK_CMD:-pnpm lint-staged --quiet --continue-on-error}"
 
-if sh -c "$CHECK_CMD"; then
+# Capture output so that on failure we can lead with a clear summary line.
+output=$(sh -c "$CHECK_CMD" 2>&1)
+status=$?
+
+if [ "$status" -eq 0 ]; then
   exit 0
 fi
 
+echo "⚠️  Pre-commit checks failed - commit blocked (details below)."
 echo ""
-echo "⚠️  Pre-commit checks failed (see the output above)."
-echo "   Note: the markdown linter uses heuristics and can occasionally flag"
-echo "   false positives."
+[ -n "$output" ] && printf '%s\n\n' "$output"
+echo "   • Formatting (Prettier)? Auto-fix it and re-stage, then commit again:"
+echo "         pnpm format"
+echo "   • The markdown linter is heuristic and can occasionally flag false"
+echo "     positives."
 echo ""
 
 # Check for TTY
