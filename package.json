@@ -24,7 +24,7 @@
     "prepare": "simple-git-hooks"
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
+    "pre-commit": "sh scripts/pre-commit.sh"
   },
   "lint-staged": {
     "*.{js,ts,vue,json}": [

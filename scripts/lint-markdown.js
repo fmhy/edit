@@ -24,6 +24,12 @@ const files =
   args.length > 0 ? args.map((f) => path.resolve(f)) : getDocsFiles(DOCS_DIR)
 let hasErrors = false
 
+// Only emit ANSI colors when writing to an interactive terminal
+const useColor =
+  !process.env.NO_COLOR &&
+  (Boolean(process.env.FORCE_COLOR) || Boolean(process.stdout.isTTY))
+const color = (code, text) => (useColor ? `\x1b[${code}m${text}\x1b[0m` : text)
+
 console.log('🔍 Scanning markdown files for formatting issues...\n')
 
 files.forEach((file) => {
@@ -82,6 +88,9 @@ files.forEach((file) => {
       currentHeader = line
     }
     let errors = []
+    // Record an error, optionally with the offending substring of `line` so the
+    // reporter can underline exactly where the problem is.
+    const addError = (message, match) => errors.push({ message, match })
 
     // Check 1: Starred links must be bolded
     // Pattern: * ⭐ [Link] -> Bad
@@ -92,20 +101,25 @@ files.forEach((file) => {
       // Check if the text immediately following "⭐ " starts with "**"
       // We look for the star, then optional spaces, then ensure "**" follows.
       if (!/⭐\s*\*\*/.test(line)) {
-        errors.push('Starred item not bolded (expected * ⭐ **Link**)')
+        addError('Starred item not bolded (expected * ⭐ **Link**)', '⭐')
       }
     }
 
     // Check 2: Space between ] (
-    if (/\]\s+\(http/.test(line)) {
-      errors.push('Space between bracket and parenthesis in link')
+    const bracketParenMatch = line.match(/\]\s+\(http/)
+    if (bracketParenMatch) {
+      addError(
+        'Space between bracket and parenthesis in link',
+        bracketParenMatch[0]
+      )
     }
 
     // Check 3: Missing closing bracket ]
     // Pattern: [Text(http...
     // We look for [ followed by (http without ] in between.
-    if (/\[[^\]]*\(http/.test(line)) {
-      errors.push('Possible missing closing bracket "]"')
+    const missingBracketMatch = line.match(/\[[^\]]*\(http/)
+    if (missingBracketMatch) {
+      addError('Possible missing closing bracket "]"', missingBracketMatch[0])
     }
 
     // Check 4: Missing closing parenthesis )
@@ -114,8 +128,9 @@ files.forEach((file) => {
     // regex: \]\(http[^)]*($|\s) matches "](http://url" at EOL or "](http://url "
     const missingParenMatch = line.match(/\]\((http[^)]+?)($|\s)/)
     if (missingParenMatch) {
-      errors.push(
-        `Possible broken link (missing closing parenthesis or trailing space): ${missingParenMatch[1]}`
+      addError(
+        `Possible broken link (missing closing parenthesis or trailing space): ${missingParenMatch[1]}`,
+        missingParenMatch[1]
       )
     }
 
@@ -123,11 +138,15 @@ files.forEach((file) => {
     // specific pattern: ](url))
     // This is often valid if inside parenthesis: (See [Link](url))
     // We only flag if parentheses are UNBALANCED in the line.
-    if (/\]\([^)]+\)\)/.test(line)) {
+    const doubleParenMatch = line.match(/\]\([^)]+\)\)/)
+    if (doubleParenMatch) {
       const openParens = (line.match(/\(/g) || []).length
       const closeParens = (line.match(/\)/g) || []).length
       if (closeParens > openParens) {
-        errors.push('Double closing parenthesis in link (Unbalanced)')
+        addError(
+          'Double closing parenthesis in link (Unbalanced)',
+          doubleParenMatch[0]
+        )
       }
     }
 
@@ -135,8 +154,9 @@ files.forEach((file) => {
     // We want to avoid double spaces in the text, but ignore leading indentation.
     // We trim start of line to ignore indentation, then check for "  ".
     const trimmedLine = line.trimStart()
-    if (trimmedLine.includes('  ')) {
-      errors.push('Double space detected')
+    const doubleSpaceMatch = trimmedLine.match(/ {2,}/)
+    if (doubleSpaceMatch) {
+      addError('Double space detected', doubleSpaceMatch[0])
     }
 
     // Check 7: Broken Bold Syntax
@@ -151,8 +171,9 @@ files.forEach((file) => {
         if (i + 1 < parts.length) {
           const text = parts[i]
           if (text.length > 0 && (/^\s/.test(text) || /\s$/.test(text))) {
-            errors.push(
-              `Broken bold syntax (leading/trailing space) in "**${text}**"`
+            addError(
+              `Broken bold syntax (leading/trailing space) in "**${text}**"`,
+              `**${text}**`
             )
           }
         }
@@ -183,8 +204,9 @@ files.forEach((file) => {
         // Ignore paths (e.g. /bin), subreddits (/r/foo), or compound words (Word/Word)
         if (wordAfter.includes('/')) continue
 
-        errors.push(
-          `Missing space after slash (e.g. "Word /Word"): "${match[0]}"`
+        addError(
+          `Missing space after slash (e.g. "Word /Word"): "${match[0]}"`,
+          `/${wordAfter}`
         )
         break
       }
@@ -201,15 +223,20 @@ files.forEach((file) => {
         // Allow common abbreviations: w/, r/, u/, c/
         if (/^(w|r|u|c)$/i.test(wordBefore)) continue
 
-        errors.push(
-          `Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`
+        addError(
+          `Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`,
+          `${wordBefore}/`
         )
         break
       }
 
       // C. Double slash separated by spaces: "/ /"
-      if (/\/\s+\//.test(lineForChecks)) {
-        errors.push('Double slash with spaces detected (e.g. "/ /")')
+      const doubleSlashMatch = lineForChecks.match(/\/\s+\//)
+      if (doubleSlashMatch) {
+        addError(
+          'Double slash with spaces detected (e.g. "/ /")',
+          doubleSlashMatch[0]
+        )
       }
     }
 
@@ -331,8 +358,9 @@ files.forEach((file) => {
         )
         if (wordRegex.test(trimmedPreceding)) continue
 
-        errors.push(
-          `Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`
+        addError(
+          `Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`,
+          match[0]
         )
       }
     }
@@ -369,7 +397,7 @@ files.forEach((file) => {
 
           const checkDesc = desc.toLowerCase()
           if (seenDescriptions.has(checkDesc)) {
-            errors.push(`Duplicate description detected: "${desc}"`)
+            addError(`Duplicate description detected: "${desc}"`, desc)
           } else {
             seenDescriptions.add(checkDesc)
           }
@@ -421,8 +449,9 @@ files.forEach((file) => {
           if (!check.domains.some((d) => url.includes(d))) {
             // Allow some custom domains/redirects if they contain the keyword in the URL path
             if (!url.includes(check.key)) {
-              errors.push(
-                `Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`
+              addError(
+                `Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`,
+                lm[0]
               )
             }
           }
@@ -432,8 +461,9 @@ files.forEach((file) => {
       // Special check for "r/" prefix (e.g. [r/OpenAI]) - ONLY if it's the full label
       if (/^r\/[a-zA-Z0-9_]+$/.test(trimmedLabel)) {
         if (!url.includes('reddit.com')) {
-          errors.push(
-            `Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`
+          addError(
+            `Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`,
+            lm[0]
           )
         }
       }
@@ -445,8 +475,9 @@ files.forEach((file) => {
         !url.includes('twitter.com') &&
         !url.includes('t.co')
       ) {
-        errors.push(
-          `Link label mismatch: Label "X" points to non-X/Twitter domain: ${lm[2]}`
+        addError(
+          `Link label mismatch: Label "X" points to non-X/Twitter domain: ${lm[2]}`,
+          lm[0]
         )
       }
     }
@@ -465,7 +496,10 @@ files.forEach((file) => {
         const word = repeatedWordMatch[1].toLowerCase()
         // Allow specific repeated words
         if (!['puyo', 'duran', 'agar', 'hocus'].includes(word)) {
-          errors.push(`Repeated word detected: "${repeatedWordMatch[0]}"`)
+          addError(
+            `Repeated word detected: "${repeatedWordMatch[0]}"`,
+            repeatedWordMatch[0]
+          )
         }
       }
 
@@ -489,8 +523,12 @@ files.forEach((file) => {
       }
       for (const [typo, correction] of Object.entries(commonTypos)) {
         const typoRegex = new RegExp(`\\b${typo}\\b`, 'i')
-        if (typoRegex.test(lineCleaned)) {
-          errors.push(`Possible typo: "${typo}" (should be "${correction}")`)
+        const typoMatch = lineCleaned.match(typoRegex)
+        if (typoMatch) {
+          addError(
+            `Possible typo: "${typo}" (should be "${correction}")`,
+            typoMatch[0]
+          )
         }
       }
 
@@ -503,8 +541,9 @@ files.forEach((file) => {
         const startsWithConsonantSound =
           word === 'one' || word === 'once' || word.startsWith('eu')
         if (!startsWithConsonantSound) {
-          errors.push(
-            `Incorrect article "a" usage: "${aAnMatch[0]}" (should be "an")`
+          addError(
+            `Incorrect article "a" usage: "${aAnMatch[0]}" (should be "an")`,
+            aAnMatch[0]
           )
         }
       }
@@ -520,8 +559,9 @@ files.forEach((file) => {
         // letter with a vowel-sounding name (f/h/l/m/n/r/s/x) + a digit takes "an".
         const isLetterName = /^[fhlmnrsx]\d/i.test(word)
         if (!isAcronym && !isSilentH && !isLetterName) {
-          errors.push(
-            `Incorrect article "an" usage: "${anAMatch[0]}" (should be "a")`
+          addError(
+            `Incorrect article "an" usage: "${anAMatch[0]}" (should be "a")`,
+            anAMatch[0]
           )
         }
       }
@@ -529,13 +569,22 @@ files.forEach((file) => {
 
     if (errors.length > 0) {
       hasErrors = true
-      errors.forEach((err) => {
+      const trimmed = line.trim()
+      errors.forEach(({ message, match }) => {
         // file:line - Error (in red/cyan)
         console.log(
-          `\x1b[36m${relativePath}:${lineNum}\x1b[0m - \x1b[31m${err}\x1b[0m`
+          `${color(36, `${relativePath}:${lineNum}`)} - ${color(31, message)}`
         )
         // Source line (dimmed)
-        console.log(`  \x1b[90m${line.trim()}\x1b[0m`)
+        console.log(`  ${color(90, trimmed)}`)
+        // Underline the offending span with carets (compiler-style), aligned
+        // under the 2-space-indented source line above. Works with or without
+        // color, which matters for captured logs (VS Code, CI) that show plain text.
+        const idx = match ? trimmed.indexOf(match) : -1
+        if (idx !== -1) {
+          const caret = ' '.repeat(2 + idx) + '^'.repeat(match.length || 1)
+          console.log(color(31, caret))
+        }
       })
     }
   })
