@@ -27,6 +27,15 @@ let hasErrors = false
 console.log('🔍 Scanning markdown files for formatting issues...\n')
 
 files.forEach((file) => {
+  // Skip anything that isn't a readable regular file
+  let stat
+  try {
+    stat = fs.statSync(file)
+  } catch {
+    return
+  }
+  if (!stat.isFile()) return
+
   const content = fs.readFileSync(file, 'utf-8')
   const lines = content.split('\n')
   const relativePath = path.relative(process.cwd(), file)
@@ -42,7 +51,12 @@ files.forEach((file) => {
     'docs/startpage.md'
   ]
 
+  // Folders to completely ignore from all checks (any depth beneath them)
+  const FOLDERS_TO_IGNORE = ['docs/posts/', 'docs/other/', 'docs/public/']
+
   if (FILES_TO_IGNORE.includes(normalizedPath)) return
+  if (FOLDERS_TO_IGNORE.some((folder) => normalizedPath.includes(folder)))
+    return
 
   // Files to ignore for english-specific checks (Typos, A/An, Repeated Words)
   const FILES_TO_IGNORE_ENGLISH_CHECKS = ['docs/non-english.md']
@@ -368,7 +382,6 @@ files.forEach((file) => {
     const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
     let lm
     while ((lm = linkMatchRegex.exec(line)) !== null) {
-      const label = lm[1].toLowerCase()
       const url = lm[2].toLowerCase()
 
       const checks = [
@@ -485,20 +498,28 @@ files.forEach((file) => {
       const aAnMatch = line.match(/\b(a)\s+([aeio]\w+)/i)
       if (aAnMatch) {
         const word = aAnMatch[2].toLowerCase()
-        if (word !== 'one') {
+        // Vowel-letter words that start with a consonant SOUND correctly take "a":
+        // "one"/"once" (w-sound) and "eu-" words like euro/European (y-sound).
+        const startsWithConsonantSound =
+          word === 'one' || word === 'once' || word.startsWith('eu')
+        if (!startsWithConsonantSound) {
           errors.push(
             `Incorrect article "a" usage: "${aAnMatch[0]}" (should be "an")`
           )
         }
       }
 
-      const anAMatch = line.match(
-        /\b(an)\s+([bcdfVkLmMnNpPqQrRsStTvVwWxXyYzZ]\w+)/i
-      )
+      const anAMatch = line.match(/\b(an)\s+([bcdfghjklmnpqrstvwxyz]\w+)/i)
       if (anAMatch) {
         const word = anAMatch[2]
         const isAcronym = /^[A-Z0-9]+$/.test(word)
-        if (!isAcronym) {
+        // Words starting with a silent "h" correctly take "an" (an hour, an honest
+        // review). Match on stems so inflections are covered (honest/honesty/honorable).
+        const isSilentH = /^(hour|honest|hono[u]?r|heir|homage)/i.test(word)
+        // Letter-name formats like "m3u"/"h1" are read letter-by-letter; a consonant
+        // letter with a vowel-sounding name (f/h/l/m/n/r/s/x) + a digit takes "an".
+        const isLetterName = /^[fhlmnrsx]\d/i.test(word)
+        if (!isAcronym && !isSilentH && !isLetterName) {
           errors.push(
             `Incorrect article "an" usage: "${anAMatch[0]}" (should be "a")`
           )
