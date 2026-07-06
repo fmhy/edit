@@ -551,6 +551,7 @@
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
 * [Crossword Labs](https://crosswordlabs.com/), [Exet](https://viresh-ratnakar.github.io/exet.html), [Crosserville](https://www.crosserville.com/), [Puzzlemaker](https://puzzlemaker.discoveryeducation.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Creators / Editors
+* [⁠Kakuro Puzzle](https://kakuro-puzzle.online/) - Kakuro / Number Crosswords
 
 ***
 
