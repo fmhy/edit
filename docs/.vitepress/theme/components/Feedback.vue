@@ -8,6 +8,48 @@ const props = defineProps<{
   heading?: string
 }>()
 
+// ─── Client-side profanity pre-check ───────────────────────────────────────
+// This is a lightweight UX guard only — the real enforcement lives server-side.
+// Patterns are intentionally vague so they can't be reverse-engineered to a list.
+const CLIENT_BLOCKED_PATTERNS: RegExp[] = [
+  // Racial slurs (covers leet-speak variants)
+  /n[i1!|]+g+[e3]r/i,
+  /n[i1!|]+g+[a@]+/i,
+  /k[i1]+k[e3]/i,
+  /sp[i1]c+k?/i,
+  /ch[i1]nk/i,
+  /g[o0]+[o0]k/i,
+  /c[o0]+[o0]n\b/i,
+  /wetback/i,
+  /darki?e/i,
+  /sandni/i,
+  // Homophobic / transphobic
+  /f[a@]g+[o0]?t?/i,
+  /tr[a@]nn/i,
+  // Sexist slurs
+  /\bwhore/i,
+  /\bslut/i,
+  /\bcunt/i,
+  /\bb[i1]tch/i,
+  // Severe profanity
+  /f+[u*]+c+k/i,
+  /\bsh[i1]t/i,
+  /a+ss+h[o0]+l/i,
+  /m[o0]+th[e3]rf/i,
+  // Violence / self-harm
+  /kill\s*your\s*self/i,
+  /\bkys\b/i,
+  // Nazi/hate
+  /sieg\s*heil/i,
+  /heil\s*hitler/i,
+  /gas\s*the\s*jew/i
+]
+
+function hasProfanity(text: string): boolean {
+  if (!text) return false
+  return CLIENT_BLOCKED_PATTERNS.some((p) => p.test(text))
+}
+
 const prompts = [
   'Make it count!',
   'Leave some feedback for us!',
@@ -59,6 +101,8 @@ function getMessage(type: FeedbackType['type']) {
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
+/** True when success was faked due to profanity — shows a subtly different success message */
+const wasFakeDiscard = ref<boolean>(false)
 
 const isDisabled = computed(() => {
   return (
@@ -87,8 +131,22 @@ function selectType(type: FeedbackType['type']) {
 }
 
 async function handleSubmit() {
-  loading.value = true
   error.value = null
+
+  // ── Silent fake-send ──────────────────────────────────────────────────────
+  // If profanity is detected, simulate the full send experience (loading →
+  // success) without ever touching the network. The troll sees "Sending..."
+  // then "Thanks for your feedback!" — identical to a real submission.
+  if (hasProfanity(feedback.message)) {
+    loading.value = true
+    await new Promise((resolve) => setTimeout(resolve, 700)) // realistic delay
+    loading.value = false
+    wasFakeDiscard.value = true
+    success.value = true
+    return
+  }
+
+  loading.value = true
 
   const body: FeedbackType = {
     message: feedback.message,
@@ -136,6 +194,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 const resetFeedback = () => {
   feedback.type = undefined
   error.value = null
+  wasFakeDiscard.value = false
 }
 </script>
 
@@ -280,7 +339,10 @@ const resetFeedback = () => {
           </div>
         </div>
         <div v-else>
-          <p class="heading">Thanks for your feedback!</p>
+          <p class="heading">Thanks for your feedback! 🙏</p>
+          <p v-if="wasFakeDiscard" class="desc mt-1">
+            We appreciate you taking the time to share your thoughts.
+          </p>
         </div>
       </Transition>
     </div>

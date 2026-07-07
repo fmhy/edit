@@ -1,57 +1,278 @@
 # FMHY Feedback Blocklist
-# One word/pattern per line. Lines starting with # are ignored.
-# These are checked server-side; toxic feedback is silently discarded
-# and never reaches Discord.
+# One word/phrase per line. Lines starting with # are comments (ignored).
+# These are checked server-side before sending to Discord.
+# Toxic feedback is silently discarded — the sender still sees "Sent".
+# Generated from: https://github.com/dsojevic/profanity-list + manual curation
+# Last updated: 2026-07-08
 
-# Racial slurs
+# ─────────────────────────────────────────────
+# RACIAL SLURS
+# ─────────────────────────────────────────────
 nigger
+niggers
 nigga
+niggas
+niggah
+niggaz
 n1gger
 n1gga
-faggot
-fag
-faggit
-fagg0t
-tranny
-spic
-sp1c
-chink
-ch1nk
+n1gg3r
+nig
+nigs
+negro
+negros
 kike
+kikes
 k1ke
-coon
-c00n
-wetback
+k1kes
+spic
+spics
+sp1c
+sp1cs
+spick
+chink
+chinks
+ch1nk
 gook
-kaffir
+gooks
+wetback
+wetbacks
+coon
+coons
+c00n
+c00ns
+beaner
+beaners
+zipperhead
+towelhead
+sandnigger
+sandn1gger
+camel jockey
 darkie
+darkies
+jigaboo
+porch monkey
+sambo
+tar baby
+cracker
+honky
+redneck racist
+white trash
+jungle bunny
+cotton picker
+nig nog
+nignogs
+knigger
 
-# Gender/sexist slurs
+# ─────────────────────────────────────────────
+# HOMOPHOBIC / TRANSPHOBIC SLURS
+# ─────────────────────────────────────────────
+faggot
+faggots
+fagg0t
+fagg0ts
+faggit
+faggits
+fag
+fags
+f4g
+f4gg0t
+queer (slur context)
+dyke
+dykes
+tranny
+trannies
+tr4nny
+shemale
+shemales
+he-she
+ladyboy
+transfag
+lezbo
+lezbos
+lesbo
+lesbos
+homo
+homos
+h0mo
+sodomite
+sodomites
+poofter
+poof
+butt pirate
+fudge packer
+
+# ─────────────────────────────────────────────
+# SEXIST / MISOGYNISTIC SLURS
+# ─────────────────────────────────────────────
 bitch
+bitches
 b1tch
+b1tches
 betch
 whore
+whores
 slut
+sluts
 slutt
 cunt
+cunts
 c0nt
+c0nts
+skank
+skanks
+thot
+twat
+twats
+hoe (slur)
+hoes
+skeezer
 
-# General insults
+# ─────────────────────────────────────────────
+# ABLEIST SLURS
+# ─────────────────────────────────────────────
 retard
+retards
 r3tard
 retarded
-dumbass
-dumb@ss
+retarted
+spaz
+spazz
+mongoloid
+moron (slur)
+imbecile (slur)
+idiot (slur context)
 
-# Severe profanity
+# ─────────────────────────────────────────────
+# SEVERE PROFANITY
+# ─────────────────────────────────────────────
 fuck
+fucks
+fucked
+fucker
+fuckers
+fucking
 fck
 fuk
 phuck
+f u c k
+f*ck
+fvck
+f@ck
+wtf
+stfu
+motherfucker
+motherfuckers
+motherfucking
+mf
+mfker
+shit
+shits
+shitting
 sh1t
+$hit
+sht
+shithole
+shitholes
+ass
+asses
 asshole
+assholes
 a$$hole
+a$$
+@ss
+@$$
+arsehole
+arseholes
+bastard
+bastards
+b@stard
+son of a bitch
+sob
+dick
+dicks
+d1ck
+cock
+cocks
+c0ck
+penis (explicit)
+pussy (slur)
+p*ssy
+prick
+pricks
+jackass
+jackasses
+dumbass
+dumb@ss
+dumbasses
+dipshit
+dipshits
+fuckwit
+fuckwits
+wanker
+wankers
+tosser
+tossers
+bullshit
+bulls**t
+bs (explicit)
+piss
+pissed
+pissing
+pissoff
+goddamn
+goddammit
+goddam
+crap (mild — optional)
+hell (mild — optional)
+damn (mild — optional)
 
-# Homophobic slurs
-dyke
-lezbo
+# ─────────────────────────────────────────────
+# ANTISEMITIC / RELIGIOUS HATE
+# ─────────────────────────────────────────────
+kike
+hebe
+heeb
+yid
+yids
+hymie
+hymies
+rabbi slur
+
+# ─────────────────────────────────────────────
+# NAZI / WHITE SUPREMACIST TERMINOLOGY
+# ─────────────────────────────────────────────
+sieg heil
+heil hitler
+14 words
+1488
+88 (nazi context)
+white power
+white supremacy
+white genocide
+race war
+zyklon
+gas the jews
+
+# ─────────────────────────────────────────────
+# ADDITIONAL OFFENSIVE TERMS
+# ─────────────────────────────────────────────
+kill yourself
+kys
+go kill yourself
+kms (kill myself)
+rape
+raping
+rapist
+rapists
+pedophile
+pedophiles
+pedo
+pedo (slur)
+molest
+molester
+child abuse
+cp (explicit)
+gore
+snuff
+necro
