@@ -642,7 +642,7 @@
 * [Magit!](https://magit.vc/) - Git Text-Based UI
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
-* [Does It Arm?](https://doesitarm.com/) or [Does It Mac](https://doesitmac.com/) - Apple Silicon App Compatibility Charts
+* [Does It Arm?](https://doesitarm.com/) - Apple Silicon App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation

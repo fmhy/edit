@@ -914,6 +914,7 @@
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
 * [r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
 * [MTurk](https://www.mturk.com/) - Online Task Work
+* [⁠Volunteers Base](https://volunteersbase.com/) - Volunteer Work Exchange / Work for Stay Network
 * [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
@@ -1026,7 +1027,6 @@
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Educational Trading Ebooks
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
@@ -1151,7 +1151,7 @@
 * [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
-* [Scarbir](https://www.scarbir.com/), [Squiglink](https://squig.link/), [IEMGazette](https://4ciemg.github.io/IEMGazette/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
+* [Scarbir](https://www.scarbir.com/), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://consoomer-guide.pages.dev/) / [2](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
@@ -1167,7 +1167,7 @@
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
-* [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
+* [Camera Decision](https://cameradecision.com/), [⁠DPReview](https://www.dpreview.com/products/compare/cameras) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 * [⁠PentaxForums Reviews](https://www.pentaxforums.com/reviews/all/) - Camera Gear Reviews
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews 
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
@@ -1374,6 +1374,7 @@
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [bugs](https://nobodyhere.com/bugs/) or [Posting.Cool](https://posting.cool/) - Random Topic Forums
 * [⁠Perfectly Imperfect](https://www.pi.fyi/) or [⁠Bliish](https://bliish.com/) - Oldschool Internet Style Social Media Sites
+* [⁠CozyTalk](https://cozy.talk/) - Minimalist Retro-Style Chat / Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
@@ -1420,6 +1421,7 @@
 * [⁠Flipnote Studio Scratch](https://turbowarp.org/382497241) - Web-based Flipnote Studio
 * [Sudomemo](https://www.sudomemo.net/), [Flipnote Archive](https://archive.sudomemo.net/) or [Kaeru Gallery](https://gallery.kaeru.world/) - DS Flipnote Studio Galleries
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
+* [Floor796](https://floor796.com/) - Ever-Expanding Animated Scene
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [ThisPersonNotExist](https://thispersonnotexist.org/), [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
@@ -1477,7 +1479,6 @@
 * [Mirage Gallery](https://www.miragegallery.ai/) - AI Art Gallery
 * [Gondola List](https://gondola.nabein.me/list) - Gondola Meme Archive
 * [Matchbox Dan](https://matchbox-dan.com/) - Matchbox Car Picture Archive
-* [Floor796](https://floor796.com/) - Ever-Expanding Animated Scene
 * [Zoomquilt](https://www.zoomquilt.org/) / [2](https://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](https://arkadia.xyz/) - Infinite Zooming Paintings
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
 * [YourNameInLandsat](https://science.nasa.gov/specials/your-name-in-landsat/) - Spell Anything via Satellite Images

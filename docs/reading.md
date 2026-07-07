@@ -255,6 +255,7 @@
 * [FreeWebNovel](https://freewebnovel.com/) - Web Novels
 * [WebNovel.com](https://www.webnovel.com/) - Web Novels
 * [Royal Road](https://www.royalroad.com/) - Web Novels
+* [⁠Creative Novels](https://creativenovels.com/) - Web Novels
 * [Scribblehub](https://www.scribblehub.com/) - Web Novels
 * [Novels.pl](https://www.novels.pl/) - Novels / Audio Recordings
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
@@ -385,7 +386,6 @@
 
 ## ▷ Comics
 
-* ⭐ **[ReadComicOnline](https://rcostation.xyz/)**
 * ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
@@ -906,7 +906,7 @@
 # ► Tracking / Database
 
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
-* ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
+* ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
@@ -945,7 +945,7 @@
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - Comic Rating Aggregator ⁠
-* ⭐ **[MangaBaka](https://mangabaka.org/)** - Manga Database / [Discord](https://mangabaka.org/discord)
+* ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels Recommendations / [Discord](https://mangabaka.org/discord)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
@@ -956,8 +956,9 @@
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
 * [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
-* [Shepherd](https://shepherd.com/) - Book Recommendations
+* [Book DNA](https://bookdna.com/) - Book Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
+* [⁠Uncovered](https://uncovered.ink/) - Book Sample / Recommendation Tool
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations

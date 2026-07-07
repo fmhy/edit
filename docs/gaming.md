@@ -186,7 +186,7 @@
 * [⁠Cut the Rope Home](https://ctrhome.github.io/) - Cut the Rope Game + Mod Archive
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
-* [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
+* [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun Mayhem](https://pixelgunmayhem.net/) / [Discord](https://discord.gg/edfRwZrJFD) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
 * [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II PC Ports / [Discord](https://discord.gg/GfX3pmC)
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 
@@ -248,6 +248,7 @@
 ## ▷ Revival Projects
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
+* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvments
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
@@ -551,6 +552,7 @@
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
 * [Crossword Labs](https://crosswordlabs.com/), [Exet](https://viresh-ratnakar.github.io/exet.html), [Crosserville](https://www.crosserville.com/), [Puzzlemaker](https://puzzlemaker.discoveryeducation.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Creators / Editors
+* [⁠Kakuro Puzzle](https://kakuro-puzzle.online/) - Kakuro / Number Crosswords
 
 ***
 

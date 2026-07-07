@@ -241,7 +241,7 @@
 * ⭐ **[r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
 * ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
 * ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** - Minimal Wallpapers / [App](https://github.com/not-ayan/Wallwidgy_Android/) / [GitHub](https://github.com/not-ayan/wallwidgy)
-* [RBoard](https://xdaforums.com/t/app-rboard-theme-manager.4331445/) (root) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3) or [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) (requires shizuku)- Theme Managers
+* [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Theme Manager / Requires Shizuku
 * [PixelXpert](https://github.com/siavash79/PixelXpert) (root), [⁠Iconify](https://github.com/Mahmud0808/Iconify), [⁠Essentials](https://github.com/sameerasw/essentials) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Change Wallpaper Depending on System Theme
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers / Live Wallpapers
@@ -417,7 +417,7 @@
 * [⁠Photoo](https://github.com/xigua222/photoo/blob/main/README_EN.md) - Photo Organizer / Gallery
 * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Easy Install](https://wispydocs.pages.dev/morphe-piko-obtainium/)
 * [ReFra](https://github.com/IacobIonut01/ReFra) - Photo / Video Gallery
-* [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
+* [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
 * [Ente](https://ente.com/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
 * [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
 * [UhuruPhotos](https://uhuru.photos) - Photo / Video Gallery / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android)
@@ -594,6 +594,7 @@
 * [Total Commander](https://www.ghisler.com/ce.htm) - File Manager
 * [File Navigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) - File Manager / [GitHub](https://github.com/w2sv/FileNavigator)
 * [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Manager
+* [File Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
 * [Google Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) - File Manager
 * [⁠Cedinia](https://github.com/qarmin/czkawka/blob/master/cedinia/README.md) - Duplicate File Cleanup
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
@@ -1297,6 +1298,7 @@
 * [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
 * [MelonsIPAs](https://t.me/melonipas) - Tweaked Apps
 * [⁠Cie's IPAs](https://t.me/ciesIPAs) - Tweaked Apps
+* [⁠Jayden’s IPAs](https://t.me/compiledipas) - Tweaked Apps
 * [⁠Sa1y0miii](https://t.me/Sa1y0miii) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps / Games & Game Ports
 * [TDMBest](https://t.me/tdmbest_ipas) - Game Ports

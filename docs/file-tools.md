@@ -90,7 +90,7 @@
 * [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
-* [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [GitHub](https://github.com/sxyazi/yazi)
+* [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi) or [superfile](https://superfile.netlify.app/) / [GitHub](https://github.com/yorukot/superfile) - Terminal File Managers
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
@@ -101,7 +101,6 @@
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [eza](https://eza.rocks/) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
-* [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
 
 ***
@@ -329,9 +328,9 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.org/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [0807](https://0807.st/) - 20GB / Forever / [.onion](http://44jv5o3dj7hgitfafkms7t66gvzswuj63icdwm2p3y4wfylgb7pohkid.onion) / [Telegram](https://t.me/filehosting0807)
+* [0807](https://0807.st/) - 10GB / Forever
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
@@ -481,6 +480,6 @@
 
 * ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - Download Quota Bypass / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/megabasterd-note.md)
 * ⭐ **[MEGA Account Generators](https://rentry.co/FMHYB64#mega-gen)** - Account Gen / Unlimited Upload Size / [Fix](https://rentry.co/mega_account_generator)
-* [⁠Fetchrr](https://fetchrr.io/) - MEGA Link Direct Downloader
+* [Clonr](https://clonr.co/) - MEGA Link Direct Downloader
 * [MEGA Desktop](https://mega.io/desktop) - Official GUI App / [GitHub](https://github.com/meganz/MEGAsync)
 * [MEGA CMD](https://mega.io/cmd) - Official CLI App / [GitHub](https://github.com/meganz/MEGAcmd)
