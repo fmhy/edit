@@ -594,6 +594,7 @@
 * [Total Commander](https://www.ghisler.com/ce.htm) - File Manager
 * [File Navigator](https://play.google.com/store/apps/details?id=com.w2sv.filenavigator) - File Manager / [GitHub](https://github.com/w2sv/FileNavigator)
 * [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) - File Manager
+* [File Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - File Manager
 * [Google Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) - File Manager
 * [⁠Cedinia](https://github.com/qarmin/czkawka/blob/master/cedinia/README.md) - Duplicate File Cleanup
 * [Aria2App](https://github.com/devgianlu/Aria2App) - Download Manager Controller
@@ -1297,6 +1298,7 @@
 * [iOSAppsFree](https://t.me/iOSAppsFree) - Tweaked Apps
 * [MelonsIPAs](https://t.me/melonipas) - Tweaked Apps
 * [⁠Cie's IPAs](https://t.me/ciesIPAs) - Tweaked Apps
+* [⁠Jayden’s IPAs](https://t.me/compiledipas) - Tweaked Apps
 * [⁠Sa1y0miii](https://t.me/Sa1y0miii) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps / Games & Game Ports
 * [TDMBest](https://t.me/tdmbest_ipas) - Game Ports

@@ -123,6 +123,7 @@
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
+* [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***
