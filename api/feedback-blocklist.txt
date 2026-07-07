@@ -1,0 +1,57 @@
+# FMHY Feedback Blocklist
+# One word/pattern per line. Lines starting with # are ignored.
+# These are checked server-side; toxic feedback is silently discarded
+# and never reaches Discord.
+
+# Racial slurs
+nigger
+nigga
+n1gger
+n1gga
+faggot
+fag
+faggit
+fagg0t
+tranny
+spic
+sp1c
+chink
+ch1nk
+kike
+k1ke
+coon
+c00n
+wetback
+gook
+kaffir
+darkie
+
+# Gender/sexist slurs
+bitch
+b1tch
+betch
+whore
+slut
+slutt
+cunt
+c0nt
+
+# General insults
+retard
+r3tard
+retarded
+dumbass
+dumb@ss
+
+# Severe profanity
+fuck
+fck
+fuk
+phuck
+sh1t
+asshole
+a$$hole
+
+# Homophobic slurs
+dyke
+lezbo

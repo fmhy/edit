@@ -19,6 +19,36 @@ import {
   getFeedbackOption
 } from '../../docs/.vitepress/types/Feedback'
 
+// --- Toxic content blocker ---
+// Regex patterns for slurs, insults, and severe profanity.
+// Kept inline because Cloudflare Workers have no fs access at runtime.
+const BLOCKED_PATTERNS: RegExp[] = [
+  /n[i1]g{2}[ae]r?|nagger/i,
+  /fagg?[o0]t|fag[^o]|fag$/i,
+  /tranny|tranz/i,
+  /sp[i1]c/i,
+  /ch[i1]nk/i,
+  /k[i1]ke/i,
+  /c[o0]{2}n/i,
+  /wetback/i,
+  /gook/i,
+  /kaffir/i,
+  /b[i1]tch|betch/i,
+  /wh[o0]re/i,
+  /sl[u0]t/i,
+  /c[u0]nt/i,
+  /r[e3]t[a@]rd/i,
+  /dumb[\s\-_]*ass/i,
+  /f[u0][cg]k|phuck|fck/i,
+  /asshole|a\$\$hole/i,
+  /dyke|lezbo/i,
+]
+
+function containsToxicContent(text: string): boolean {
+  if (!text) return false
+  return BLOCKED_PATTERNS.some((pattern) => pattern.test(text))
+}
+
 /** Escape triple backticks so user input can't break the embed's code-block formatting. */
 function sanitizeForDiscord(input: string): string {
   return input.replace(/```/g, "'''")
@@ -29,6 +59,13 @@ export default defineEventHandler(async (event) => {
     event,
     FeedbackSchema.parseAsync
   )
+
+  // --- Silently discard toxic feedback ---
+  // Return success so the sender thinks it went through.
+  if (containsToxicContent(message) || (heading && containsToxicContent(heading))) {
+    console.warn(`[feedback-blocker] Toxic feedback discarded (IP: ${getHeader(event, 'cf-connecting-ip') || 'unknown'})`)
+    return { status: 'ok' }
+  }
   const env = useRuntimeConfig(event)
 
   const pageURL = `https://fmhy.net${page}`
