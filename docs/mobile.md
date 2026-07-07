@@ -953,6 +953,7 @@
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
 * [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player) - Podcast / Radio App
 * [TuneIn](https://play.google.com/store/apps/details?id=tunein.player) - Podcast / Radio App
+* [TuneOut](https://github.com/Tune-Out/Tune-Out) - Radio App / Sideloaded
 * [PodAura](https://github.com/SkyD666/PodAura) - Podcast Player
 * [Snipd](https://www.snipd.com/) - Podcast Player
 * [Escapepod](https://codeberg.org/y20k/escapepod) - Podcast Player
@@ -1370,6 +1371,7 @@
 * [Overcast](https://overcast.fm/) - Podcasts
 * [IHeartRadio](https://apps.apple.com/app/id290638154), [MixCloud](https://apps.apple.com/app/id401206431) or [TuneIn](https://apps.apple.com/app/id418987775) - Podcasts / Radio
 * [Radio Garden](https://apps.apple.com/app/radio-garden-live/id1339670993) - Radio App
+* [TuneOut](https://github.com/Tune-Out/Tune-Out) - Radio App / Sideloaded
 
 ***
 
