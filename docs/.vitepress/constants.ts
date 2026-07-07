@@ -17,16 +17,44 @@
 import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
-import { excluded } from './shared'
+import { excluded, normalizeSearchUrl } from './shared'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
 
 export * from './shared'
 
-// l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks).
+const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
+
+// Pure URL shorteners / opaque invite & paste hosts. Their path is a random id
+// nobody searches and the domain is shared, so URL-search entries for them are
+// pure noise and index weight \u2014 drop them from the metadata entirely.
+const URL_SHORTENER_HOSTS = new Set([
+  'discord.gg',
+  't.me',
+  'redd.it',
+  'youtu.be',
+  'bit.ly',
+  'tinyurl.com',
+  't.co',
+  'goo.gl',
+  'is.gd',
+  'cutt.ly',
+  'shorturl.at',
+  'rb.gy',
+  'ouo.io',
+  'adf.ly',
+  'rebrand.ly',
+  'shorte.st'
+])
+
+// l = regular (or bold-only) hyperlinks, s = bold + starred (curated picks),
+// u = link hrefs for URL search, su = hrefs from starred list items.
 // Bold-without-star is just an index label, no special ranking – folded into l.
-const globalLinkMetadata: Record<string, { l: string[]; s: string[] }> = {}
+const globalLinkMetadata: Record<
+  string,
+  { l: string[]; s: string[]; u: string[]; su: string[] }
+> = {}
 
 // Inject customMetadata into the serialized MiniSearch index so the client
 // can read it back via MiniSearch.loadJS.  This patches the prototype because
@@ -56,14 +84,38 @@ function getDocId(file: string) {
 function extractLinkMetadata(html: string) {
   const links = new Set<string>()
   const starredBoldLinks = new Set<string>()
+  const urls = new Set<string>()
+  const starredUrls = new Set<string>()
   const stripTags = (str: string) => str.replace(/<[^>]*>/g, ' ')
   // Strip zero-width / word-joiner chars. The FMHY wiki sprinkles U+2060 (and
   // occasionally U+200B) inside link text as a visual workaround; leaving them
   // in metadata phrases breaks exact/prefix tier matching at search time.
-  const stripInvisible = (str: string) =>
-    str.replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
+  const stripInvisible = (str: string) => str.replace(INVISIBLE_CHARS_RE, '')
   const cleanText = (text: string) =>
     stripInvisible(stripTags(text)).replace(/\s+/g, ' ').trim().toLowerCase()
+  const cleanUrl = (href: string) => {
+    let decoded = href
+    try {
+      decoded = decodeURI(href)
+    } catch {
+      // Keep the raw href if it is not a valid encoded URI.
+    }
+    const normalized = stripInvisible(decoded)
+      .replace(/\s+/g, '')
+      .trim()
+      .toLowerCase()
+    // Store the same normalized URL form the client builds from user queries.
+    const hostPath = normalizeSearchUrl(normalized)
+    const host = hostPath.split(/[/?#]/)[0]
+    if (!host || URL_SHORTENER_HOSTS.has(host)) return ''
+    return hostPath.length > 80 ? hostPath.slice(0, 80) : hostPath
+  }
+  const isSearchableUrl = (href: string) =>
+    /^[a-z][a-z0-9+.-]*:\/\//i.test(href) || /^www\./i.test(href)
+  const extractHref = (tag: string) => {
+    const hrefMatch = tag.match(/\bhref=(["'])(.*?)\1/i)
+    return hrefMatch?.[2] ?? ''
+  }
 
   const isStarred = (index: number) => {
     // `<li ` and `<li>` rather than `<li` so we don't catch `<link>` / `<line>`.
@@ -88,6 +140,11 @@ function extractLinkMetadata(html: string) {
   const aTagRegex = /<a\b[^>]*>([\s\S]*?)<\/a>/gi
   let match: RegExpExecArray | null
   while ((match = aTagRegex.exec(html)) !== null) {
+    const href = extractHref(match[0])
+    const cleanedUrl = isSearchableUrl(href) ? cleanUrl(href) : ''
+    if (cleanedUrl) urls.add(cleanedUrl)
+    if (cleanedUrl && isStarred(match.index)) starredUrls.add(cleanedUrl)
+
     const innerHtml = match[1]
     const cleaned = cleanText(innerHtml)
     if (!cleaned) continue
@@ -118,7 +175,9 @@ function extractLinkMetadata(html: string) {
 
   return {
     links: Array.from(links),
-    starredBoldLinks: Array.from(starredBoldLinks)
+    starredBoldLinks: Array.from(starredBoldLinks),
+    urls: Array.from(urls),
+    starredUrls: Array.from(starredUrls)
   }
 }
 
@@ -210,11 +269,16 @@ export const search: DefaultTheme.Config['search'] = {
         ''
       )
 
-      // I do this as env.frontmatter is not available until I call `md.render`
-      if (contents.includes('Beginners Guide'))
-        contents = transformGuide(contents)
+      const isPostOrOther =
+        relativePath.includes('posts') || relativePath.includes('other')
 
-      contents = transform(contents)
+      if (!isPostOrOther) {
+        // I do this as env.frontmatter is not available until I call `md.render`
+        if (contents.includes('Beginners Guide'))
+          contents = transformGuide(contents)
+
+        contents = transform(contents)
+      }
       let html = md.render(contents, env)
       // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
       html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')
@@ -266,11 +330,19 @@ export const search: DefaultTheme.Config['search'] = {
 
           const sectionId = anchor ? `${fileId}#${anchor}` : fileId
 
-          const { links, starredBoldLinks } = extractLinkMetadata(content)
-          if (links.length > 0 || starredBoldLinks.length > 0) {
+          const { links, starredBoldLinks, urls, starredUrls } =
+            extractLinkMetadata(content)
+          if (
+            links.length > 0 ||
+            starredBoldLinks.length > 0 ||
+            urls.length > 0 ||
+            starredUrls.length > 0
+          ) {
             globalLinkMetadata[sectionId] = {
               l: links,
-              s: starredBoldLinks
+              s: starredBoldLinks,
+              u: urls,
+              su: starredUrls
             }
           }
 

@@ -49,6 +49,10 @@ html {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
 }
 
 .dark {
@@ -84,6 +88,10 @@ html {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, white);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
 }
 
 .monochrome {
@@ -406,22 +414,20 @@ html.june {
   color: inherit;
 }
 
+
 /* Search result scroll-to-match highlight flash.
  * Uses outline + background instead of padding to avoid layout shift. */
 .vp-search-highlight-target {
   border-radius: 4px;
-  outline: 2px solid var(--vp-c-yellow-2, #ffd54f);
+  outline: 2px solid var(--vp-scroll-match-bg);
   outline-offset: 2px;
+
   /* Solid resting state so the highlight is visible even when the fade
    * animation is suppressed (e.g. reduced-motion userstyles that force
    * animation-duration to ~0, which would otherwise jump straight to the
    * transparent end-state). JS removes the class after 2s regardless. */
-  background-color: rgba(255, 213, 79, 0.22);
-  background-color: color-mix(
-    in srgb,
-    var(--vp-c-yellow-2, #ffd54f) 22%,
-    transparent
-  );
+
+  background-color: var(--vp-scroll-match-bg);
 }
 
 /* The fade-out is a progressive enhancement, only for users who haven't
@@ -443,23 +449,13 @@ html.june {
 
 @keyframes vp-search-flash {
   0% {
-    background-color: rgba(255, 213, 79, 0.25);
-    background-color: color-mix(
-      in srgb,
-      var(--vp-c-yellow-2, #ffd54f) 25%,
-      transparent
-    );
-    outline-color: var(--vp-c-yellow-2, #ffd54f);
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
   }
 
   70% {
-    background-color: rgba(255, 241, 118, 0.15);
-    background-color: color-mix(
-      in srgb,
-      var(--vp-c-yellow-3, #fff176) 15%,
-      transparent
-    );
-    outline-color: var(--vp-c-yellow-3, #fff176);
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
   }
 
   100% {

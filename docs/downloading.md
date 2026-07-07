@@ -13,7 +13,7 @@
 ***
 
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)** - Adobe Software Alternative Index
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/Software/)**, [2](https://virgil-search.pages.dev/Software/) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/)
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -26,7 +26,6 @@
 * [Moum](https://moum.top/en/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/) - Oldschool Software
 * [Libreware](https://t.me/Libreware) - Telegram Channels
-* [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
 * [ZXPInstaller](https://zxpinstaller.com/) - Adobe Extension Installer
 
@@ -97,10 +96,10 @@
 
 * 🌐 **[r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/) / [GitHub](https://github.com/MCOfficer/odcrawler-discovery) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, Mac, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/sldl)
+* ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, macOS, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/sldl)
 * [eMule](https://www.emule-project.com/) - File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
-* [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
+* [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
 * [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
@@ -187,7 +186,7 @@
 * 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers/)** - Indexer List
 * [r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZB Meta search
-* [SceneNZBs](https://scenenzbs.com) - Multinational Indexer
+* [Treasure Maps](https://treasure-maps.com/) - Multinational Indexer
 * [NzbPlanet](https://nzbplanet.net/)
 * [Orion](https://orionoid.com/)
 * [binsearch](https://binsearch.info/)
@@ -211,13 +210,12 @@
 * 🌐 **[r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * 🌐 **[Usenet Provider Deals](https://usenet.rexum.space/deals)**
 * [Usenet Providers Map](https://usenet.rexum.space/tree)
-* [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
 
 ***
 
 ## ▷ Downloaders
 
-* ⭐ **[sabnzbd](https://sabnzbd.org/)** / Windows, Mac, Linux / [Grabber](https://github.com/lem6ns/sabgrab)
+* ⭐ **[sabnzbd](https://sabnzbd.org/)** / Windows, macOS, Linux / [Grabber](https://github.com/lem6ns/sabgrab)
 * ⭐ **[NZBUnity](https://github.com/tumblfeed/nzbunity)** - Send NZBs to Client / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/) / [Chrome](https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb)
 * [NZBGet](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [⁠magicNZB](https://magicnzb.com/) - 30 Day Trial (reset w/ temp mail) 
@@ -231,7 +229,7 @@
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* [⁠Cocoleech](https://cocoleech.com/premium-link-generator) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
+* [⁠Debridr](https://debridr.com/) or [⁠MixDebrid](https://mixdebrid.com/) (use shortlink bypass) - Bypass Premium Link Limits
 * [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.org/), [2](https://pixeldrain-bypass.gamedrive.to/) - Bypass PixelDrain Link Speed Limits
 * [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
@@ -244,10 +242,11 @@
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
 * [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
-* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, Mac, Linux
+* [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, macOS, Linux
 * [Konversation](https://konversation.kde.org/) - IRC Client / Windows, Linux / [GitHub](https://github.com/KDE/konversation)
 * [Convos](https://convos.chat/) / [GitHub](https://github.com/convos-chat/convos/) or [TheLounge](https://thelounge.chat/) / [GitHub](https://github.com/thelounge) - Self-hosted IRC Client / Web
 * [Libera](https://libera.chat/), [tilde](https://tilde.chat/), [AnonOps](https://anonops.com/) or [Rizon](https://rizon.net/) - IRC Networks
+* [⁠UnrealIRCd](https://www.unrealircd.org/) - IRC Server 
 
 ***
 

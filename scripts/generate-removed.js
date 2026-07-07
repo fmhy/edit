@@ -1,7 +1,6 @@
 import { execFileSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
-import path from 'node:path'
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
@@ -107,18 +106,21 @@ function generateRemovedSites() {
     }
   }
 
-  // Ensure the directory is marked as safe for git (common issue in Docker)
-  try {
-    execFileSync('git', [
-      ...gitDirArgs,
-      'config',
-      '--global',
-      '--add',
-      'safe.directory',
-      '/app'
-    ])
-  } catch (e) {
-    // Ignore error if it fails
+  // Mark /app safe for git (Docker UID mismatch). Only inside the container,
+  // not on every local build, to avoid polluting the global gitconfig.
+  if (process.cwd() === '/app') {
+    try {
+      execFileSync('git', [
+        ...gitDirArgs,
+        'config',
+        '--global',
+        '--add',
+        'safe.directory',
+        '/app'
+      ])
+    } catch (e) {
+      // Ignore error if it fails
+    }
   }
 
   // Get git log with diffs

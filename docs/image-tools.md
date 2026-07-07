@@ -22,17 +22,17 @@
 
 ## ▷ Editing Software
 
-* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** - Editing Software
+* ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
-* ⭐ **[GIMP](https://www.gimp.org/)** / Windows, Mac, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / Windows, Mac, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
-* [⁠Affinity](https://www.affinity.studio/) or [⁠AffinityOnLinux](https://github.com/ryzendew/Linux-Affinity-Installer) / Windows, Mac, Linux / [No Login Method](https://rentry.co/FMHYB64#affinity)
-* [LazPaint](https://lazpaint.github.io/) / Windows, Mac, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
+* ⭐ **[GIMP](https://www.gimp.org/)** / Windows, macOS, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
+* ⭐ **[ImageMagick](https://imagemagick.org/)** / Windows, macOS, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
+* [⁠Affinity](https://www.affinity.studio/) or [⁠AffinityOnLinux](https://github.com/ryzendew/Linux-Affinity-Installer) / Windows, macOS, Linux / [No Login Method](https://rentry.co/FMHYB64#affinity)
+* [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
-* [⁠RapidRAW](https://www.getrapidraw.com/) / Windows, Mac, Linux / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW)
+* [⁠RapidRAW](https://www.getrapidraw.com/) / Windows, macOS, Linux / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW)
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Gimel Studio](https://gimelstudio.com/) / Windows / [GitHub](https://github.com/GimelStudio/GimelStudio)
-* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, Mac, Linux
+* [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
 * [IOPaint](https://github.com/Sanster/IOPaint) - AI Image Multitool Editor
   
 ***
@@ -135,20 +135,21 @@
 ## ▷ Painting / Drawing
 
 * 🔁 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
-* ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, Mac, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
+* ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, macOS, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
-* ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, Mac, Linux / [GitHub](https://github.com/PintaProject/Pinta)
-* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/), [DrawPile](https://drawpile.net/) or [malmal](https://malmal.io/) - Collaborative Drawing
+* ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, macOS, Linux / [GitHub](https://github.com/PintaProject/Pinta)
+* [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.io/) - Collaborative Drawing / Web
+* [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, macOS, Linux, Android, Web
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
-* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
-* [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
-* [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
-* [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, Mac, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
+* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
+* [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, macOS, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
+* [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, macOS
+* [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
 * [SumoPaint](https://sumopaint.com/) - Browser Painting / Web
 * [KRESKA.art](https://kreska.art/) - Browser Painting / Drawing / Web
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
 * [AutoDraw](https://www.autodraw.com/) - AI Drawing Tool / Web
-* [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool
+* [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool / Web
 * [VectorPaint](https://vectorpaint.yaks.co.nz/) - Vector Editor / Painting / Web
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
 * [Graphite](https://graphite.art) - Vector Editor / Web / [Subreddit](https://www.reddit.com/r/graphite/) / [Discord](https://discord.com/invite/uMjBz5N68W) / [GitHub](https://github.com/GraphiteEditor/Graphite)
@@ -163,14 +164,14 @@
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching / Web
 * [Ok! So](https://okso.app/) - Drawing / Sketching / Web
 * [Kleki](https://kleki.com/) - Drawing / Sketching / Web
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Windows, Mac, Android, iOS
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Windows, macOS, Android, iOS
 * [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows, iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching / Windows, Android, iOS
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool / Web
-* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
+* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, macOS, Linux
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / Web / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid-Based Drawings / Web / [GitHub](https://github.com/maxwellito/minimator/)
-* [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
+* [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids / Web
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) - Animate Drawings
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 
@@ -181,47 +182,47 @@
 * 🌐 **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index
 * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
-* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / [Guide](https://youtu.be/Z4Enx-Nb43E)
-* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor
+* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / Windows, macOS, Linux / [Guide](https://youtu.be/Z4Enx-Nb43E)
+* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, macOS
 * ⭐ **[Piskel](https://www.piskelapp.com/)** - Pixel Art Editor / Web
-* [rx](https://rx.cloudhead.io/) - Pixel Art Editor / Mac, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
-* [PixiEditor](https://pixieditor.net/) - Pixel Art Editor / Windows, Mac, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
-* [CSprite](https://csprite.github.io/) - Pixel Art Editor / Windows, Mac, Linux / [GitHub](https://github.com/csprite/csprite)
-* [PyDPainter](https://pydpainter.org/) - Bitmap Graphics Editor / Windows, Mac, Linux / [GitHub](https://github.com/mriale/PyDPainter)
-* [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, Mac
+* [rx](https://rx.cloudhead.io/) - Pixel Art Editor / macOS, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
+* [PixiEditor](https://pixieditor.net/) - Pixel Art Editor / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
+* [CSprite](https://csprite.github.io/) - Pixel Art Editor / Windows, macOS, Linux / [GitHub](https://github.com/csprite/csprite)
+* [PyDPainter](https://pydpainter.org/) - Bitmap Graphics Editor / Windows, macOS, Linux / [GitHub](https://github.com/mriale/PyDPainter)
+* [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, macOS
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
-* [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, Mac, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
+* [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, macOS, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)
-* [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor
-* [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor
-* [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor
-* [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor
+* [GraphicsGale](https://graphicsgale.com/us/) - Pixel Art Editor / Windows
+* [JPixel](https://pixelfromhell.itch.io/jpixel) - Pixel Art Editor / Windows
+* [⁠KPix](https://github.com/krush62/KPix) - Pixel Art Editor / Windows, macOS, Linux, Android
+* [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor / Windows, macOS, Linux, Android
 * [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Art Village](https://pixelartvillage.org/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
-* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / [GitHub](https://github.com/ZackGphom/GLORP/)
-* [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, Mac, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
+* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
+* [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, macOS, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
-* [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, Mac, Linux, Android
-* [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet
-* [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
-* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers
+* [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, macOS, Linux, Android
+* [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet / Web
+* [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / Web / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers / Web
 
 ***
 
 ## ▷ GIF Tools
 
-* ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / Windows, Mac, Linux / [GitHub](https://github.com/ImageOptim/gifski)
+* ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / Windows, macOS, Linux / [GitHub](https://github.com/ImageOptim/gifski)
 * ⭐ **[EZGif](https://ezgif.com/)**, [⁠Klipy](https://klipy.com/create/gif-maker/) or [GIFnText](https://www.gifntext.com/) - GIF Generators / Web
 * [⁠3D Gif Maker](https://www.3dgifmaker.com/) - Online GIF Tools / [Discord](https://discord.com/invite/8EF3X7jQaP)
 * [⁠PicMix](https://www.picmix.com/) - Glitter Style GIF Creator
-* [⁠MakeEmoji](https://makeemoji.com/), [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
-* [Gifsicle](http://www.lcdf.org/gifsicle/) - GIF Generator / Windows, Mac, Linux / [GitHub](https://github.com/kohler/gifsicle)
+* [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
+* [Gifsicle](http://www.lcdf.org/gifsicle/) - GIF Generator / Windows, macOS, Linux / [GitHub](https://github.com/kohler/gifsicle)
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter
 * [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
-* [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, Mac, Linux / [GitHub](https://github.com/justinfrankel/licecap)
+* [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, macOS, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
 * [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges / [GitHub](https://github.com/piconaut/blinkies.cafe)
 
@@ -273,14 +274,15 @@
 ## ▷ Design Apps
 
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
-* [Canva](https://www.canva.com/) - Design App / Windows, Mac, Web / [Invites](https://rentry.co/FMHYB64#canva)
-* [lunacy](https://icons8.com/lunacy) - Design App / Windows, Mac, Linux
+* [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Invites](https://rentry.co/FMHYB64#canva)
+* [lunacy](https://icons8.com/lunacy) - Design App / Windows, macOS, Linux
 * [VistaCreate](https://create.vista.com/) - Design App / Web
 * [Penpot](https://penpot.app/) - Design App & Prototyping Platform / [GitHub](https://github.com/penpot/penpot)
 * [blush](https://blush.design/) - Illustration Design / Web
 * [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design / Web
 * [Pixelied](https://pixelied.com/) - Online Design Tool / Web
 * [⁠Antlii](https://antlii.work/) - Online Design Generators
+* [⁠Dirty Little Zine](https://dirtylittlezine.com/) - Printable Zine Creator
 
 ***
 
@@ -554,8 +556,8 @@
 * [Goo Engine](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
 * [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [HuggingFace](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) - AI 3D Model Generators
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons
-* [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
-* [⁠Dust3D](https://dust3d.org/) -  Cross-Platform 3D Modeling App  / [GitHub](https://github.com/huxingyi/dust3d)
+* [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App / [GitHub](https://github.com/dgud/wings)
+* [⁠Dust3D](https://dust3d.org/) - Cross-Platform 3D Modeling App / [GitHub](https://github.com/huxingyi/dust3d)
 * [Bforartists](https://www.bforartists.de/) - Cross-Platform 3D Modeling App / [Discord](https://discord.com/invite/yKuR77v) / [GitHub](https://github.com/Bforartists/Bforartists)
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
 * [MakeHuman](https://static.makehumancommunity.org/) - 3D Humanoid Modeler
@@ -573,7 +575,7 @@
 
 ## ▷ 3D Modeling Tools
 
-* [Embossify](https://www.embossify.com/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
+* [Embossify](https://www.embossify.com/), [⁠Image to 3D](https://image-to-3d.ai/) or [Tripo3D](https://www.tripo3d.ai/app/home) - Image to 3D Model Converters
 * [⁠Kiri:Moto](https://grid.space/kiri/) - Web-Based 3D Model Slicer 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
@@ -666,7 +668,7 @@
 
 ## ▷ Image Optimization
 
-* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
+* ⭐ **[ImageMagick](https://imagemagick.org/)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [RIOT](https://riot-optimizer.com/) - Image Optimization
 * [YOGA](https://yoga.flozz.org/) - Image Optimization
 * [ImageFoo](https://imagefoo.com/) - Image Optimization
@@ -693,7 +695,7 @@
 
 ## ▷ Image Resizing
 
-* [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
+* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer 
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
 * [⁠Pro Image Tool](https://proimagetool.com/)
 * [Simple Image Resizer](https://www.simpleimageresizer.com/)
@@ -805,6 +807,7 @@
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
+* [⁠Google Photos Deduper](https://github.com/mtalcott/google-photos-deduper) - Google Photos Duplicate Remover 
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
 
 ***
@@ -836,12 +839,12 @@
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** - Screenshot & Screen Recorder Tool / Windows / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
-* ⭐ **[Flameshot](https://flameshot.org/)** / Windows, Mac, Linux / [GitHub](https://github.com/flameshot-org/flameshot)
+* ⭐ **[Flameshot](https://flameshot.org/)** / Windows, macOS, Linux / [GitHub](https://github.com/flameshot-org/flameshot)
 * ⭐ **[Zipline](https://zipline.diced.sh/)** - Self-Hosted ShareX Server / [GitHub](https://github.com/diced/zipline)
-* [Greenshot](https://getgreenshot.org/) / Windows, Mac / [GitHub](https://github.com/greenshot/greenshot)
-* [KSnip](https://github.com/ksnip/ksnip) / Windows, Mac, Linux
+* [Greenshot](https://getgreenshot.org/) / Windows, macOS / [GitHub](https://github.com/greenshot/greenshot)
+* [KSnip](https://github.com/ksnip/ksnip) / Windows, macOS, Linux
 * [FuseBase Capture](https://thefusebase.com/screenshot) - Chrome-based Extension
-* [PixpinApp](https://pixpin.cn/) / Windows, Mac
+* [PixpinApp](https://pixpin.cn/) / Windows, macOS
 * [ScreenshotX](https://screenshotx.com/) / Windows
 * [⁠Pilko](https://pilko.studio/) - Video Frame Capture Tool
 * [VideoToJPG](https://videotojpg.com/) - Video Frame Extraction / [Discord](https://discord.com/invite/PjJUPzrkRM)
@@ -891,19 +894,19 @@
 
 * ↪️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
 * [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
-* [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
+* [Camera Decision](https://cameradecision.com/), [⁠DPReview](https://www.dpreview.com/products/compare/cameras) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 * [⁠PentaxForums Reviews](https://www.pentaxforums.com/reviews/all/) - Camera Gear Reviews
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) / [X](https://x.com/Blackmagic_News)
-, [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, Mac, Linux
+, [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee) or [⁠LightZone](https://github.com/ktgw0316/LightZone) - RAW Photo Editors / Windows, macOS, Linux
 * [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC)
 * [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
 * [fSpy](https://fspy.io/) - Still Image Camera Matching
-* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
+* [Image Comparison](https://www.dpreview.com/reviews/image-comparison/fullscreen) - Camera Image Quality Comparison
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 
 ***

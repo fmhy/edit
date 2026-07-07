@@ -29,26 +29,24 @@
 
 ## ▷ Pastebins
 
+* ⭐ **[PrivateBin](https://privatebin.net/)**, [Paste.to](https://paste.to/), [NoteBin](https://notebin.de/), [TxtBin](https://txtbin.org/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
-* ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
-* ⭐ **[PrivateBin](https://privatebin.net/)**, [NoteBin](https://notebin.de/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Source Code](https://git.0x8e.net/t/fluffle)
+* ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle)
+* ⭐ **[Yasosu](https://yaso.su/)** - Multi-Syntax / Markdown Support / Custom URLs / [Telegram](https://t.me/yaso_updates)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [Text.is](https://text.is/) - Markdown Support
-* [Yasosu](https://yaso.su/) - Multi-Syntax / Markdown Support / [Telegram](https://t.me/yaso_updates)
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
-* [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
-* [Pastee](https://pastee.dev/) - Multi-Syntax / Markdown Support
-* [Paste.to](https://paste.to/) - Markdown Support
-* [TxtBin](https://txtbin.org/) - Markdown Support
-* [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [Paste](https://paste.boxlabs.uk/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/boxlabss/PASTE) 
 * [⁠Codepasta](https://codepasta.app/) - Multi-Syntax / Markdown Support
 * [lesma](https://lesma.eu/) - Multi-Syntax / [GitLab](https://gitlab.com/ogarcia/lesma)
+* [Pastee](https://pastee.dev/) - Multi-Syntax
+* [pst.moe](https://pst.moe/) - Multi-Syntax
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax
+* [pastes.dev](https://pastes.dev/) - Multi-Syntax / [GitHub](https://github.com/lucko/paste)
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
 * [⁠Pastefy](https://pastefy.app/) - Multi-Syntax
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
@@ -57,7 +55,7 @@
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
-* [txt.fyi](https://txt.fyi/) - Markdown Pastebin
+* [txt.fyi](https://txt.fyi/) - Plain Text
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
@@ -206,15 +204,15 @@
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / Windows / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / Windows, Mac, Linux
-* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / Windows, Mac, Linux / [GitHub](https://github.com/evpo/EncryptPad)
+* [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad & Code Editor / Windows, macOS, Linux
+* [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / Windows, macOS, Linux / [GitHub](https://github.com/evpo/EncryptPad)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor / Windows / [GitHub](https://github.com/0x7c13/Notepads)
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / Windows / [GitHub](https://github.com/FrozenAssassine/Fastedit)
 * [Kompad](https://github.com/hudy9x/kompad) - Text Editor / Web Based
-* [Sublime Text](https://www.sublimetext.com/) - Text Editor / Windows, Mac, Linux / [Package Manager](https://packagecontrol.io/)
-* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, Mac, Linux / [GitHub](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
-* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, Mac, Linux
-* [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor / Windows, Mac, Linux
+* [Sublime Text](https://www.sublimetext.com/) - Text Editor / Windows, macOS, Linux / [Package Manager](https://packagecontrol.io/)
+* [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, macOS, Linux / [GitHub](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
+* [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, macOS, Linux
+* [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor / Windows, macOS, Linux
 
 ***
 
@@ -231,22 +229,22 @@
 * [AFFiNE](https://affine.pro/) - Note-Taking / All Platforms + Web / [GitHub](https://github.com/toeverything/AFFiNE) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/affine-note.md)
 * [Notion](https://www.notion.com/) - Note-Taking / All Platforms + Web
 * Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
-* [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/lokus-ai/lokus)
-* [Trilium](https://triliumnotes.org/) - Info Manager / Windows, Mac, Linux / [GitHub](https://github.com/TriliumNext/Trilium)
+* [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/lokus-ai/lokus)
+* [Trilium](https://triliumnotes.org/) - Info Manager / Windows, macOS, Linux / [GitHub](https://github.com/TriliumNext/Trilium)
 * [Mochi Cards](https://mochi.cards/) - Note-Taking / Study Tools / All Platforms
 * [Silicon](https://github.com/cu/silicon) - Note-Taking / Self-Hosted
-* [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
+* [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
-* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, Mac, Linux
-* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/vnotex/vnote)
-* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / Windows, Mac, Linux, Android / [Discord](https://discord.gg/V7HYtShrB7) / [Source](https://codeberg.org/ArkHost/HelixNotes)
-* [Tiddly](https://tiddlywiki.com/) - Info Manager / Windows, Mac, Linux / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+* [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux
+* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/vnotex/vnote)
+* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / Windows, macOS, Linux, Android / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
+* [Tiddly](https://tiddlywiki.com/) - Info Manager / Windows, macOS, Linux / [Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 * [Org-roam](https://www.orgroam.com/) - Info Manager / Self-Hosted / [GitHub](https://github.com/org-roam/org-roam)
 * [Desklamp](https://desklamp.io/) - Reading / Note-Taking / Highlighting Tool / Windows / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Memos](https://usememos.com/) - Note-Taking / Self-Hosted / [Discord](https://discord.gg/tfPJa4UmAv) / [GitHub](https://github.com/usememos/memos)
 * [Papers.IM](https://papers.im/) - Note-Taking / Web
 * [Joplin](https://joplinapp.org/) - Note-Taking / All Platforms / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB) / [Discord](https://discord.com/invite/d2HMPwE) / [GitHub](https://github.com/laurent22/joplin)
-* [MicroPad](https://getmicropad.com/) - Note-Taking / Windows, Mac, Linux / [Web](https://web.getmicropad.com/)
+* [MicroPad](https://getmicropad.com/) - Note-Taking / Windows, macOS, Linux / [Web](https://web.getmicropad.com/)
 * [DocMost](https://docmost.com/) - Note-Taking / Self-Hosted / [GitHub](https://github.com/docmost/docmost)
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking / E2EE / Windows
 * [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - Note-Taking / E2EE / Windows, Android / [GitHub](https://github.com/martinstoeckli/SilentNotes)
@@ -255,7 +253,7 @@
 * [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / All Platforms / [Web](https://app.standardnotes.com/) / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
-* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / Windows, Mac, Linux / [GitHub](https://github.com/xournalpp/xournalpp)
+* [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / Windows, macOS, Linux / [GitHub](https://github.com/xournalpp/xournalpp)
 * [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 
 ***
@@ -375,13 +373,16 @@
 * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
-* ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
+* ⭐ **[NovelWriter](https://novelwriter.io/)** - Novel Editor
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
 * [⁠Heavyweight](https://heavyweight.cc/) - Generate Important-Looking Letters 
-* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Visual Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
-* [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
-* [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
+* [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
+* [RenPy](https://www.renpy.org/) - Novel Editor / [GitHub](https://github.com/renpy/renpy)
+* [Fortelling](https://www.fortelling.app/) - Novel Editor
+* [Novelist](https://beta.novelist.app) - Novel Editor
+* [Bibisco](https://bibisco.com/) - Novel Editor
+* [Writality](https://www.writality.com/) - Novel Editor
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
@@ -479,7 +480,7 @@
 ## ▷ LaTeX Tools
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
-* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
+* ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/), [⁠TeXPage](https://www.texpage.com/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
