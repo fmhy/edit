@@ -22,7 +22,7 @@ try {
   console.warn('[feedback-filter] Failed to load profanity list', e)
 }
 
-function buildRegex(items: any[]): RegExp | null {
+function buildRegex(items: any[], flags: string): RegExp | null {
   if (!items.length) return null
   const parts = items.map((p) => {
     return p.match
@@ -34,13 +34,19 @@ function buildRegex(items: any[]): RegExp | null {
       .join('|')
   })
   // We use word boundaries (\b) to prevent partial-match false positives
-  return new RegExp(`\\b(?:${parts.join('|')})\\b`, 'gi')
+  return new RegExp(`\\b(?:${parts.join('|')})\\b`, flags)
 }
 
-// Severity 3 and 4 -> Blocked completely
-const BLOCK_REGEX = buildRegex(profanityList.filter((p) => p.severity >= 3))
-// Severity 1 and 2 -> Censored with ****
-const CENSOR_REGEX = buildRegex(profanityList.filter((p) => p.severity < 3))
+// Severity 3 and 4 -> Blocked completely (no 'g' flag to prevent stateful .test() bugs)
+const BLOCK_REGEX = buildRegex(
+  profanityList.filter((p) => p.severity >= 3),
+  'i'
+)
+// Severity 1 and 2 -> Censored with **** ('g' flag required to replace all instances)
+const CENSOR_REGEX = buildRegex(
+  profanityList.filter((p) => p.severity < 3),
+  'gi'
+)
 
 // ─────────────────────────────────────────────────────────────────────────────
 // DISCORD HELPERS
