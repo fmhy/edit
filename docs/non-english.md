@@ -573,7 +573,7 @@
 * [Haschcon](https://haschcon.com/) - Movies / 720p
 * [ardmediathek](https://www.ardmediathek.de/) - Public Broadcast
 * [zdf](https://www.zdf.de/) - Public Broadcast
-* [Burning Series](https://bs.to/) - TV / Dub / 720p
+* [Burning Series](https://burningseries.ac/), [2](https://burningseries.cx/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Anime-Base](https://anime-base.net/) - Anime / Dub / 1080p / [Improvement Extension](https://berni-92.github.io/anime-base-autoplayer/) / [Discord](https://discord.gg/sj6mDujvMD)
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Status](https://aniworld.domains/) / [Discord](https://discord.com/invite/xTkw6292Uj)
