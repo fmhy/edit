@@ -101,8 +101,6 @@ function getMessage(type: FeedbackType['type']) {
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
-/** True when success was faked due to profanity — shows a subtly different success message */
-const wasFakeDiscard = ref<boolean>(false)
 
 const isDisabled = computed(() => {
   return (
@@ -133,16 +131,14 @@ function selectType(type: FeedbackType['type']) {
 async function handleSubmit() {
   error.value = null
 
-  // ── Silent fake-send ──────────────────────────────────────────────────────
-  // If profanity is detected, simulate the full send experience (loading →
-  // success) without ever touching the network. The troll sees "Sending..."
-  // then "Thanks for your feedback!" — identical to a real submission.
+  // ── Fake error for toxic messages ─────────────────────────────────────────
+  // Profanity detected: simulate a failed send (loading → error) so it looks
+  // like a real server-side failure. Nothing is ever sent to Discord.
   if (hasProfanity(feedback.message)) {
     loading.value = true
-    await new Promise((resolve) => setTimeout(resolve, 700)) // realistic delay
+    await new Promise((resolve) => setTimeout(resolve, 750)) // realistic delay
     loading.value = false
-    wasFakeDiscard.value = true
-    success.value = true
+    error.value = 'Failed to send feedback. Please try again.'
     return
   }
 
@@ -194,7 +190,6 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 const resetFeedback = () => {
   feedback.type = undefined
   error.value = null
-  wasFakeDiscard.value = false
 }
 </script>
 
@@ -339,10 +334,7 @@ const resetFeedback = () => {
           </div>
         </div>
         <div v-else>
-          <p class="heading">Thanks for your feedback! 🙏</p>
-          <p v-if="wasFakeDiscard" class="desc mt-1">
-            We appreciate you taking the time to share your thoughts.
-          </p>
+          <p class="heading">Thanks for your feedback!</p>
         </div>
       </Transition>
     </div>
