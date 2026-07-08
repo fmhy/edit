@@ -294,6 +294,7 @@
 * [Display Calc](https://www.tools.rodrigopolo.com/DisplayCalc/) - Display Distance / Dimension Calculator
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
+* [⁠ICC Profiles Guide](https://gist.github.com/Overimagine1/c0e5ebe60838e7dd0417549ea7aae260) - Guide for Finding ICC Profiles
 * [⁠novideo_srgb](https://github.com/ledoge/novideo_srgb) - Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
