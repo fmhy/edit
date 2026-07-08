@@ -1,196 +1,46 @@
 /**
- *  Copyright (c) 2026 ManuJL. Apache License 2.0.
+ *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
  *  feedback.post.ts — Feedback ingestion endpoint with profanity/toxicity filtering.
- *
- *  Architecture:
- *    1. Blocklist layer   — exact-match words from feedback-blocklist.txt (loaded at startup)
- *    2. Regex layer       — pattern matching for common leet-speak & obfuscation variants
- *    3. Normalisation     — strip zero-width chars, homoglyphs, repeated chars, separators
- *
- *  Toxic messages are silently discarded; the caller still receives { status: 'ok' }
- *  to prevent trolls from knowing their messages are blocked.
- *
- *  Performance notes:
- *    - Blocklist is loaded ONCE at module initialisation (not per-request).
- *    - Regex patterns are compiled ONCE at module initialisation.
- *    - All checks run in <1 ms on typical feedback lengths.
  */
 
+import { createRequire } from 'module'
 import {
   FeedbackSchema,
   getFeedbackOption
 } from '../../docs/.vitepress/types/Feedback'
 
-import { readFileSync } from 'fs'
-import { resolve } from 'path'
-
 // ─────────────────────────────────────────────────────────────────────────────
-// BLOCKLIST — loaded once at startup
+// PROFANITY FILTERING
 // ─────────────────────────────────────────────────────────────────────────────
 
-let _blocklist: string[] = []
-
-/**
- * Load words from feedback-blocklist.txt into memory.
- * Each non-empty, non-comment line becomes a blocked term.
- */
-function loadBlocklist(): void {
-  // Try several possible paths (dev vs Cloudflare Worker bundle)
-  const candidates = [
-    resolve('./feedback-blocklist.txt'),
-    resolve('./api/feedback-blocklist.txt'),
-    new URL('../../feedback-blocklist.txt', import.meta.url).pathname
-  ]
-
-  for (const candidate of candidates) {
-    try {
-      const content = readFileSync(candidate, 'utf-8')
-      _blocklist = content
-        .split('\n')
-        .map((line) => line.trim().toLowerCase())
-        .filter((line) => line.length > 0 && !line.startsWith('#'))
-      console.info(
-        `[feedback-filter] Loaded ${_blocklist.length} blocked terms from ${candidate}`
-      )
-      return
-    } catch {
-      // Try next candidate
-    }
-  }
-
-  // Non-fatal: log a warning but keep running
-  console.warn(
-    '[feedback-filter] feedback-blocklist.txt not found — blocklist filtering disabled'
-  )
+const require = createRequire(import.meta.url)
+let profanityList: any[] = []
+try {
+  profanityList = require('@dsojevic/profanity-list/en.json')
+} catch (e) {
+  console.warn('[feedback-filter] Failed to load profanity list', e)
 }
 
-loadBlocklist()
-
-// ─────────────────────────────────────────────────────────────────────────────
-// REGEX LAYER — hardcoded patterns for common obfuscation / leet-speak
-// These act as a second defense in case a word isn't in the blocklist.
-// ─────────────────────────────────────────────────────────────────────────────
-
-/**
- * Core patterns built with permissive separators between letters so users
- * can't bypass with spaces, dots, dashes, underscores, or zero-width chars.
- *
- * The SEP character class allows: space, dash, dot, underscore, asterisk,
- * at-sign, zero-width joiner (U+200D), soft hyphen (U+00AD).
- */
-const SEP = '[\\s\\-._*@\u200d\u00ad]*'
-
-const CORE_PATTERNS: RegExp[] = [
-  // Racial slurs
-  new RegExp(`n${SEP}[i1!|]+${SEP}g${SEP}g${SEP}[e3]+${SEP}r`, 'i'),
-  new RegExp(`n${SEP}[i1!|]+${SEP}g${SEP}g${SEP}[a@]+`, 'i'),
-  new RegExp(`f${SEP}[a@]+${SEP}g${SEP}g${SEP}[o0]+${SEP}t`, 'i'),
-  new RegExp(`f${SEP}[a@]+${SEP}g${SEP}g${SEP}[i1]+t`, 'i'),
-  new RegExp(`k${SEP}[i1]+${SEP}k${SEP}[e3]+`, 'i'),
-  new RegExp(`sp${SEP}[i1]+${SEP}c+k?`, 'i'),
-  new RegExp(`ch${SEP}[i1]+${SEP}nk`, 'i'),
-  new RegExp(`g${SEP}[o0]+${SEP}[o0]+k`, 'i'),
-  new RegExp(`c${SEP}[o0]+${SEP}[o0]+n`, 'i'),
-  new RegExp(`w${SEP}[e3]+${SEP}t${SEP}b${SEP}[a@]+ck`, 'i'),
-
-  // Severe profanity
-  new RegExp(`f${SEP}[u*]+${SEP}c${SEP}k`, 'i'),
-  new RegExp(`sh${SEP}[i1!]+${SEP}t`, 'i'),
-  new RegExp(`[a@]${SEP}s${SEP}s${SEP}h${SEP}[o0]+${SEP}l${SEP}[e3]+`, 'i'),
-  new RegExp(`b${SEP}[i1!]+${SEP}t${SEP}ch`, 'i'),
-  new RegExp(`c${SEP}[u*]+${SEP}n${SEP}t`, 'i'),
-  new RegExp(`d${SEP}[i1!]+${SEP}ck`, 'i'),
-  new RegExp(`c${SEP}[o0]+${SEP}ck`, 'i'),
-
-  // Homophobic
-  new RegExp(`f${SEP}[a@]+${SEP}g(?:g${SEP}[o0]+t)?`, 'i'),
-  new RegExp(`tr${SEP}[a@]+nn${SEP}[y]+`, 'i'),
-
-  // Violence / self-harm (exact phrases)
-  /kill\s+your\s*self/i,
-  /\bkys\b/i,
-  /\bkms\b/i,
-
-  // Nazi / hate symbols
-  /sieg\s*heil/i,
-  /heil\s*hitler/i,
-  /\b1488\b/,
-  /white\s+power/i,
-  /gas\s+the\s+jews/i
-]
-
-// ─────────────────────────────────────────────────────────────────────────────
-// NORMALISATION HELPERS
-// ─────────────────────────────────────────────────────────────────────────────
-
-/** Common homoglyph / leet-speak substitutions */
-const HOMOGLYPHS: [RegExp, string][] = [
-  [/[àáâãäåāă]/gi, 'a'],
-  [/[èéêëēĕ]/gi, 'e'],
-  [/[ìíîïīĭ]/gi, 'i'],
-  [/[òóôõöōŏ]/gi, 'o'],
-  [/[ùúûüūŭ]/gi, 'u'],
-  [/[ýÿ]/gi, 'y'],
-  [/[ñ]/gi, 'n'],
-  [/[@]/g, 'a'],
-  [/[3]/g, 'e'],
-  [/[1!|]/g, 'i'],
-  [/[0]/g, 'o'],
-  [/[$]/g, 's'],
-  [/[+]/g, 't'],
-  // Zero-width / invisible chars
-  [/[\u200b\u200c\u200d\u00ad\u2060\ufeff]/g, '']
-]
-
-/** Collapse repeated characters (e.g. "fuuuuck" → "fuck") */
-const REPEATED_CHARS = /(.)\1{2,}/g
-
-/**
- * Normalise a string to defeat common obfuscation tricks:
- *  - homoglyphs (@ → a, 3 → e, 0 → o …)
- *  - invisible / zero-width characters
- *  - repeated characters (fuuuuck → fuck)
- */
-function normalise(text: string): string {
-  let s = text
-  for (const [pattern, replacement] of HOMOGLYPHS) {
-    s = s.replace(pattern, replacement)
-  }
-  return s.replace(REPEATED_CHARS, '$1$1')
+function buildRegex(items: any[]): RegExp | null {
+  if (!items.length) return null
+  const parts = items.map((p) => {
+    return p.match
+      .split('|')
+      .map((m: string) => {
+        // Escape regex chars except * (which we turn into +)
+        return m.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '+')
+      })
+      .join('|')
+  })
+  // We use word boundaries (\b) to prevent partial-match false positives
+  return new RegExp(`\\b(?:${parts.join('|')})\\b`, 'gi')
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// MAIN TOXICITY CHECK
-// ─────────────────────────────────────────────────────────────────────────────
-
-/**
- * Returns true if `text` contains any blocked term from the blocklist OR
- * matches any of the compiled regex patterns.
- *
- * Both the original and normalised forms are checked so that neither
- * exact nor obfuscated inputs slip through.
- */
-function containsToxicContent(text: string): boolean {
-  if (!text) return false
-
-  const lower = text.toLowerCase()
-  const norm = normalise(lower)
-
-  // 1. Blocklist exact-word check (both original and normalised)
-  if (_blocklist.length > 0) {
-    for (const term of _blocklist) {
-      if (lower.includes(term) || norm.includes(term)) return true
-    }
-  }
-
-  // 2. Regex pattern layer (both original and normalised)
-  for (const pattern of CORE_PATTERNS) {
-    if (pattern.test(lower) || pattern.test(norm)) return true
-  }
-
-  return false
-}
+// Severity 3 and 4 -> Blocked completely
+const BLOCK_REGEX = buildRegex(profanityList.filter((p) => p.severity >= 3))
+// Severity 1 and 2 -> Censored with ****
+const CENSOR_REGEX = buildRegex(profanityList.filter((p) => p.severity < 3))
 
 // ─────────────────────────────────────────────────────────────────────────────
 // DISCORD HELPERS
@@ -212,23 +62,33 @@ export default defineEventHandler(async (event) => {
   )
 
   // ── Toxicity gate ──────────────────────────────────────────────────────────
-  // Check the message and optional heading. If either contains toxic content,
-  // silently return { status: 'ok' } without forwarding to Discord.
-  // The sender has NO indication that their message was dropped.
-  const isToxic =
-    containsToxicContent(message) ||
-    (heading != null && containsToxicContent(heading))
-
-  if (isToxic) {
+  // 1. Block highly toxic messages (Severity 3/4)
+  if (
+    BLOCK_REGEX &&
+    (BLOCK_REGEX.test(message) ||
+      (heading != null && BLOCK_REGEX.test(heading)))
+  ) {
     const ip =
       getHeader(event, 'cf-connecting-ip') ||
       getHeader(event, 'x-forwarded-for') ||
       'unknown'
     console.warn(
-      `[feedback-filter] Toxic message silently discarded — IP: ${ip} | page: ${page}`
+      `[feedback-filter] Toxic message blocked — IP: ${ip} | page: ${page}`
     )
-    // Return the same shape as a successful submission to fool the sender.
-    return { status: 'ok' }
+    throw createError({
+      statusCode: 400,
+      message: 'Failed to send feedback. Please try again.'
+    })
+  }
+
+  // 2. Censor mild profanity (Severity 1/2)
+  let finalMessage = message
+  let finalHeading = heading
+  if (CENSOR_REGEX) {
+    finalMessage = message.replace(CENSOR_REGEX, '****')
+    if (finalHeading != null) {
+      finalHeading = finalHeading.replace(CENSOR_REGEX, '****')
+    }
   }
 
   // ── Rate limiting ──────────────────────────────────────────────────────────
@@ -253,15 +113,15 @@ export default defineEventHandler(async (event) => {
     { name: 'Page', value: `[${page}](${pageURL})`, inline: true },
     {
       name: 'Message',
-      value: sanitizeForDiscord(message),
+      value: sanitizeForDiscord(finalMessage),
       inline: false
     }
   ]
 
-  if (heading) {
+  if (finalHeading) {
     fields.unshift({
       name: 'Section',
-      value: sanitizeForDiscord(heading),
+      value: sanitizeForDiscord(finalHeading),
       inline: true
     })
   }
@@ -287,7 +147,9 @@ export default defineEventHandler(async (event) => {
 
   if (!response.ok) {
     const body = await response.text().catch(() => 'Unknown error')
-    console.error(`[feedback] Discord webhook failed: ${response.status} — ${body}`)
+    console.error(
+      `[feedback] Discord webhook failed: ${response.status} — ${body}`
+    )
     throw createError({
       statusCode: 502,
       statusMessage: 'Failed to send feedback'

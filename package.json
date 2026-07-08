@@ -36,6 +36,7 @@
     ]
   },
   "dependencies": {
+    "@dsojevic/profanity-list": "^1.0.0",
     "@headlessui/vue": "^1.7.23",
     "@resvg/resvg-js": "^2.6.2",
     "@vueuse/core": "^14.3.0",
