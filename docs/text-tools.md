@@ -618,6 +618,7 @@
 * ⭐ **[Messletters](https://www.messletters.com/)**
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
+*  ❣ **[FontGen.in](https://fontgen.in)**
 * [Cool Fonts Online](https://coolfont.org/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
