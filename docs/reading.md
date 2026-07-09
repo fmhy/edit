@@ -385,7 +385,7 @@
 ## ▷ Comics
 
 * ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
-* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
+* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Bulk Downloader](https://github.com/moistfella/comic-book-downloader)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Webcomics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)

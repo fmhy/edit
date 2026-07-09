@@ -539,7 +539,7 @@
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
-* [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents more Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 
 ***
