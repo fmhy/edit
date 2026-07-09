@@ -14,7 +14,7 @@
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)**, [2](https://forum.mobilism.me/viewforum.php?f=398) - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Signup Required / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [App](https://github.com/slartus/4pdaClient-plus) / [Telegram](https://t.me/real4pda) / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
-* ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods) / [Discord](https://discord.gg/wruVz7nAe)
+* ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods)
 * ⭐ **[PlatinMods](https://platinmods.com/)** / Requires Sign-Up
 * ⭐ **[PDALife](https://pdalife.com/)**, [2](https://pdalife.ru/) / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[AN1](https://an1.com/)** / [Telegram](https://t.me/android1com)
@@ -863,7 +863,7 @@
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)** or [⁠Seal+](https://github.com/MaheshTechnicals/Sealplus) - Multi-Site Audio Downloader
-* ⭐ **[ytdlnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
+* ⭐ **[YTDLnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * ⭐ **[SpotiFLAC-Mobile](https://spotiflac.zarz.moe/)** - Multi-Site Audio Downloader / Playlists / Converts from Spotify / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) / [GitHub](https://github.com/spotiflacapp/SpotiFLAC-Mobile)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
 * ⭐ **[Poweramp Equalizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) / [Forum](https://forum.powerampapp.com/), **[RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)** / [Guide](https://rentry.co/rootlessjamesdsp-guide), [FlowEQ](https://play.google.com/store/apps/details?id=com.floweq.equalizer), [⁠Echo Equalizer](https://play.google.com/store/apps/details?id=com.hapibits.soundlift), [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizers
@@ -1076,7 +1076,7 @@
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes
-* ⭐ **[ytdlnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / Peertube / media.ccc.de / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube

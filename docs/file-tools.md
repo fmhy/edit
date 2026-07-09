@@ -182,7 +182,7 @@
 * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
-* [⁠HashCheck](https://github.com/idrassi/HashCheck) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier 
+* [⁠HashCheck](https://github.com/idrassi/HashCheck), [HashGuard](https://github.com/MarchTheDev/HashGuard) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
 * [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
 * [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
@@ -337,6 +337,7 @@
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
+* [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days (After Last Download) (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
@@ -346,19 +347,21 @@
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download / **Use uBlock**
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
-* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Sign-Up
+* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [⁠UploadHive](https://uploadhive.com/) - Unlimited / 50 Days After Last Download / **Use uBlock**
-* [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Sign-Up
+* [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)
+* [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
-* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Sign-Up
+* [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Signup
+* [⁠Transfr](https://www.transfr.me/) - 100GB / 7 Days
 * [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / Unlimited / 1 Year
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
@@ -377,7 +380,7 @@
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever
-* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up / **Use uBlock**
+* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Signup / **Use uBlock**
 * [Filegoat](https://filego.at/) - 5GB / 90 Days After Last View
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
@@ -403,7 +406,6 @@
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email
 * [MultiUp.io](https://multiup.io/) (use uBlock) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
-* [DataNodes](https://datanodes.to/) - Webmasters Only File Host / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 * [⁠Pearcrypt](https://pearcrypt.lol/) - File Link Containers / [Discord](https://discord.com/invite/QrrryWKA6X)
 

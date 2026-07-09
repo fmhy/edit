@@ -705,7 +705,7 @@
 * [X Minecraft Launcher](https://xmcl.app/) - Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/W5XVwYY7GQ)
 * [Legacy Launcher](https://llaun.ch/en) - Minimal Launcher / Use VPN or Disable JavaScript / Windows, macOS, Linux
 * [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) - Lightweight Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/)
-* [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Minecraft Legacy Console Edition / [Discord](https://discord.gg/Q9V9mQkHBU)
+* [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Minecraft Legacy Console Edition
 
 ***
 

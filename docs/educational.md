@@ -1402,6 +1402,7 @@
 * [⁠Genepy](https://genepy.org/) - Interactive Python Guide
 * [Learn-Python](https://github.com/trekhleb/learn-python) - Python Playground / Cheatsheet
 * [CS50](https://cs50.harvard.edu/python/) - Python Course
+* [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Learn C](https://www.learn-c.org/) - C Tutorials
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) / [GitHub](https://github.com/isocpp/CppCoreGuidelines) or [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips 
 * [Learn C++](https://www.learncpp.com/) or [StudyPlan](https://www.studyplan.dev/) - C++ Lessons / Tutorials

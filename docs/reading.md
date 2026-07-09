@@ -109,6 +109,7 @@
 * [⁠BookOrbit](https://bookorbit.app/) or [⁠Grimmory](https://grimmory.org/) - Ebook Managers / Readers / Self-Hosted
 * [PlayTorrio](https://playtorrio.xyz/) - Ebook Reader / Windows, macOS, Linux, Android / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, macOS, Android, iOS
+* [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, macOS
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
 * [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / Windows, macOS, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)
 * [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, macOS, Linux
@@ -937,14 +938,13 @@
 
 ***
 
-## ▷ Curated Recommendations
+# ► Curated Recommendations
+
+## ▷ Book Recommendations
 
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
-* ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - Comic Rating Aggregator ⁠
-* ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels Recommendations / [Discord](https://mangabaka.org/discord)
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
@@ -967,18 +967,31 @@
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
-* [ComicBookCanon](https://www.comicbookcanon.com/) - Comics / Manga Top Lists
+
+***
+
+## ▷ Comic Recommendations
+
+* ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - Comic Rating Aggregator ⁠
+* ⭐ **[Comic Book Reading Orders](https://comicbookreadingorders.com/)** - Comic Book Reading Orders
 * [r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
+* [ComicBookCanon](https://www.comicbookcanon.com/) - Comics Top Lists
 * [r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
-* [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
-* [Nevix](https://nevix.com/) - Manga / Social Media
+
+***
+
+## ▷ Manga Recommendations
+
+* ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels Recommendations / [Discord](https://mangabaka.org/discord)
+* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
-* [Spin.moe](https://spin.moe/) - Find Random Manga
-* [Anime-Planet](https://anime-planet.com/) - Manga
-* [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
+* [Anime-Planet](https://anime-planet.com/) - Manga
+* [Nevix](https://nevix.com/) - Manga / Social Media
+* [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
+* [Spin.moe](https://spin.moe/) - Find Random Manga
 
 ***
 
