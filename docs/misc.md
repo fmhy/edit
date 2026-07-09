@@ -1253,7 +1253,7 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
-* [Wheel Decide](https://wheeldecide.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [Wheel Decide](https://wheeldecide.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [TheSpinnerWheel](https://thespinnerwheel.com/), [Wheel of Names](https://wheelofnames.com/) or [SpinTheWheel.Net](https://spinthewheel.net/) - Wheel Randomizers
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
