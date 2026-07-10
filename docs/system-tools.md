@@ -34,7 +34,8 @@
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
-* [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* [ASUS G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* [⁠PreySense](https://github.com/hammadzaigham/PreySense) - Armoury Crate Replacement for Acer Predator Laptops
 
 ***
 
