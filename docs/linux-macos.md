@@ -67,7 +67,6 @@
 
 * 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index w/ News + Rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
 * ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser) or [⁠Distro Fighter](https://distrofighter.com/) - Quiz-Based Distro Selectors
-* [distro.moe](https://distro.moe/) - Random Distro Finder
 * [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
 * [OpenSourceFeed](https://www.opensourcefeed.org/) - Open-Source Distros
 * [OS.click](https://os.click/en) - Fast Distro Downloads
