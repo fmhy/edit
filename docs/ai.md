@@ -385,6 +385,7 @@
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [⁠WhichLLM](https://github.com/Andyyyy64/whichllm) - LLM Performance Comparison Tool
 * [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
+* [FigureGPT](https://figuregpt.ai) - Generate Publication-Ready Scientific Figures from Research Papers
 
 ***
 
