@@ -419,6 +419,7 @@
 * [ALPR Watch](https://alprwatch.org/) or [DeFlock](https://deflock.me/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates
+* [Transitous](https://api.transitous.org/) - European Transport Map with Live Positions
 
 ***
 
@@ -431,6 +432,7 @@
 * [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
+* [German Infrastructure Map](https://geoviewer.deutschebahn.com/maps/#/context/ISR/275618) - German Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
 * [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
 * [carto.tchoo](https://carto.tchoo.net/) - French Live Train Map
