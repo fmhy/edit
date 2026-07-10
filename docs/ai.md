@@ -182,6 +182,7 @@
 * ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) or **[Gemini](https://gemini.google.com/)** / [Discord](https://discord.com/invite/gemini) - Nano Banana 2 / 20 Per Day / Google Login / [Remove Watermarks](https://banana.ovo.re/), [2](https://greasyfork.org/en/scripts/559574) / [Add Features](https://github.com/Nagi-ovo/gemini-voyager)
 * ⭐ **[⁠Hunyuan Image Generation](https://aistudio.tencent.com/chat/HunyuanDefault?modelId=Hunyuan-Image-3.0-Instruct)** - Generating / Editing / 3D / Sign-Up / Unlimited
 * [⁠GeminiGen AI](https://geminigen.ai/app/imagen) - Nano Banana Pro / Nano Banana 2 / GPT IMAGE 2 / Sign-Up / [Discord](https://discord.com/invite/vJnYe86T8F)
+* [IVJ](https://ivj.ai) - Nano Banana Pro / Nano Banana 2 / GPT Image 1.5 / Seedream / Flux / Sign-Up
 * [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
 * [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-Up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR) 
