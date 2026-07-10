@@ -759,6 +759,7 @@
 * [⁠Flockyard](https://flockyard.pages.dev/) - Browser Game Aggregator
 * [Snokido](https://www.snokido.com/) - Browser Game Aggregator
 * [FreeGames](https://freegames.org/) - Browser Game Aggregator
+* [FreeGamesOnline](https://www.freegamesonline.com/) - Browser Game Aggregator / In-House Original Games
 * [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
 * [Web Games](https://webgames.me/) - Browser Game Aggregator
 * [Yandex Games](https://yandex.com/games/) - Browser Game Aggregator
