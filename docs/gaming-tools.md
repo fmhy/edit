@@ -656,7 +656,7 @@
 * [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search / [Discord](https://discord.com/invite/ccleaf)
 * [Textcraft](https://textcraft.net/) - Minecraft Text & Logo Generator
 * [Blockmatic](https://blockmatic.trafficlunar.net/) - Minecraft Pixel Art Editor / [GitHub](https://github.com/trafficlunar/blockmatic)
-* [PixelStacker](https://taylorlove.info/pixelstacker/), [MinecraftArt](https://minecraftart.org/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Import images to Minecraft Art
+* [PixelStacker](https://taylorlove.info/pixelstacker/), [MinecraftArt](https://minecraftart.org/), [Minecraft Pixel Art](https://minecraft-pixel-art.com/) or [BlockMosaic](https://mcimagetool.com) - Import images to Minecraft Art
 * [HueBlocks](https://1280px.github.io/hueblocks/) - Minecraft Block Gradient Generator / [GitHub](https://github.com/1280px/hueblocks)
 * [Block Palettes](https://www.blockpalettes.com/) or [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) - Block Color Palettes
 * [⁠Minemev](https://minemev.com/), [MCBuild](https://mcbuild.org/) or [CreateMod](https://createmod.com/) - Minecraft Build / Farm Schematics
