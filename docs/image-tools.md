@@ -134,7 +134,7 @@
 
 ## ▷ Painting / Drawing
 
-* 🔁 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
+* ↪️ **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, macOS, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, macOS, Linux / [GitHub](https://github.com/PintaProject/Pinta)
@@ -581,6 +581,7 @@
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
+* [⁠STL-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail Generator for 3D Model Files
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking / [GitHub](https://github.com/alicevision)
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
@@ -736,9 +737,9 @@
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 * ⭐ **[FastStone](https://www.faststone.org/index.htm)**
-* ⭐ **[qView](https://interversehq.com/qview/)**
+* ⭐ **[qView](https://interversehq.com/qview/)** / [GitHub](https://github.com/jurplel/qView)
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
-* ⭐ **[Digikam](https://www.digikam.org/)**
+* ⭐ **[Digikam](https://www.digikam.org/)** / [Source Code](https://invent.kde.org/graphics/digikam)
 * ⭐ **[ImageGlass](https://imageglass.org/)** / [GitHub](https://github.com/d2phap/ImageGlass)
 * [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)

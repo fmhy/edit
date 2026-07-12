@@ -382,7 +382,7 @@
 * [Fortelling](https://www.fortelling.app/) - Novel Editor
 * [Novelist](https://beta.novelist.app) - Novel Editor
 * [Bibisco](https://bibisco.com/) - Novel Editor
-* [Writality](https://www.writality.com/) - Novel Editor
+* [Writality](https://www.writality.com/) - Novel Editor / [Discord](https://discord.gg/SFQvne7re)
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts

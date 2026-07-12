@@ -462,7 +462,7 @@
 
 * [yablom](https://yablom.com/) - Movies / TV / Anime
 * [OpenFlix](https://openflix.lol/) - Movies / TV / Anime
-* [French Stream](https://fs09.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
+* [French Stream](https://french-stream.one/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
@@ -1825,7 +1825,6 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
-* [SignWiki](http://signwiki.org/) - Sign Language Wiki Index / Multi Language
 * [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV

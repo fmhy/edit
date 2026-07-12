@@ -107,6 +107,10 @@
 
 ## ▷ Controller Tools
 
+* **Note** - Many third party PC controllers can be switched between Xinput and Direct input mode by holding home/menu/analog/mode button. It can fix compatibility issues in some cases.
+
+***
+
 * ⭐ **[DS4Windows](https://github.com/schmaldeo/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-controller-support.md)
 * [x360ce](https://www.x360ce.com/) - DS4 / 360 Controller Emulator / [GitHub](https://github.com/x360ce/x360ce)
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -307,7 +311,7 @@
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
 * ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** - Steam Multi-Tool / Manifest Tool
-* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
+* [Steam Link](https://store.steampowered.com/remoteplay#anywhere) - Stream Steam Library to TV / Devices
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [⁠SyncNon-SteamGames](https://github.com/IGnGr/SyncNon-SteamGames) - Automatically Add Non-Steam Games + Fetch Images 

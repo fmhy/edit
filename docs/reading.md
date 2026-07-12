@@ -18,6 +18,7 @@
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
+* [BDeBooks](https://bdebooks.com/en/) - Books / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
@@ -252,6 +253,7 @@
 * [Ocean of EPUB](https://oceanofepub.net/) - Downloads
 * [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram / Downloads
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
+* [⁠NovelYra](https://novelyra.com/) - Light Novels + Web Novels
 * [FreeWebNovel](https://freewebnovel.com/) - Web Novels
 * [WebNovel.com](https://www.webnovel.com/) - Web Novels
 * [Royal Road](https://www.royalroad.com/) - Web Novels
@@ -904,16 +906,11 @@
 
 ***
 
-# ► Tracking / Database
+# ► Book Tracking / Databases
 
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
-* ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels w/ Tracking & Database / [Discord](https://mangabaka.org/discord)
-* ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
@@ -923,7 +920,6 @@
 * [Literal](https://literal.club/) - Social Tracking Platform
 * [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
-* [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
@@ -932,11 +928,27 @@
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
-* [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
 * [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
+
+***
+
+## ▷ Comic Tracking / Databases
+
+* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
+* [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
+* [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
+
+***
+
+## ▷ Manga Tracking / Databases
+
+* ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels w/ Tracking & Database / [Discord](https://mangabaka.org/discord)
+* ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
+* [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
 
 ***
 
@@ -944,9 +956,10 @@
 
 ## ▷ Book Recommendations
 
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
-* ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
+* [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations

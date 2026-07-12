@@ -67,7 +67,6 @@
 
 * 🌐 **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - Distro Index w/ News + Rankings / [Advanced Search](https://distrowatch.com/search.php#advanced)
 * ⭐ **[DistroChooser](https://distrochooser.de/)** / [Beta](https://beta.distrochooser.de/) / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser) or [⁠Distro Fighter](https://distrofighter.com/) - Quiz-Based Distro Selectors
-* [distro.moe](https://distro.moe/) - Random Distro Finder
 * [Linux Live Kit](https://www.linux-live.org/) - Create Live Distros from Installed Systems
 * [OpenSourceFeed](https://www.opensourcefeed.org/) - Open-Source Distros
 * [OS.click](https://os.click/en) - Fast Distro Downloads
@@ -607,7 +606,7 @@
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [Linux for T2](https://t2linux.org/) - Install Linux on Apple T2 Devices / [GitHub](https://github.com/t2linux)
-* [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows on Mac
+* [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
 * [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
 * [PlayCover](https://playcover.io/) - Run iOS Apps on Apple Silicon Macs / [GitHub](https://github.com/PlayCover/PlayCover)
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
@@ -728,7 +727,7 @@
 
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Mac Games / Requires Sign-Up
 * ⭐ **[AppsTorrent](https://appstorrent.ru/games/)** - Mac Games / Downloads (not torrents)
-* ⭐ **[CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows on Mac
+* ⭐ **[CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)** (search) - Run Windows Games on Mac
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** or [Mac Gaming DB](https://macgamingdb.app/) - Mac Game Fixes / Compatibility / [Discord](https://discord.gg/28CAAr6SpB)
 * [CS.RIN.RU](https://cs.rin.ru/forum), [2](https://csrin.org/) - Mac Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games

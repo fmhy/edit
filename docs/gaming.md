@@ -58,6 +58,7 @@
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYB64#gnarly)** - Download / PW: `gnarly`
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [Glitchify Repacks](https://glitchify.org/) - Download / ROM Repacks
+* [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - Download ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
 * [⁠Vanya Games](https://vanya-games.site/) - Download
@@ -122,7 +123,6 @@
 * ↪️ **[Indie Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_indie_browser_games)**
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)** - Indie Games / [Discord](https://discord.gg/qDaYeXPsRK)
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
-* [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - Indie Game Repacker ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
 * [Killed By A Pixel](https://frankforce.com/all-games/) - Indie Games
 * [Gamdie](https://gamdie.com/) - Indie Games / [Discord](https://discord.gg/cDKH3R4nR2)
 * [DigiPen](https://games.digipen.edu/) - Indie Games
@@ -780,6 +780,7 @@
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Game Aggregator
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [UB66](https://ub66.vercel.app/) - Browser Game Aggregator / Gmail Design
+* [⁠Playlin](https://playlin.io/) or [⁠Listdle](https://listdle.com/) - Daily Game Aggregators
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
@@ -824,6 +825,7 @@
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠Catclass](https://catclass.net/g) - Browser Games / [Discord](https://discord.com/invite/8bf7D7Tw5U)
+* [mizu](https://www.mizumath.com/) - Browser Games
 
 ***
 

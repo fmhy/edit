@@ -617,6 +617,7 @@
 * [The 16-bit Audiophile Project](https://16bap.theclassicgamer.net/) - Retro Game Soundtracks / FLAC
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
 * [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
+* [Cirrus Retro](https://cirrusretro.com/) - Retro Game Soundtracks / Web
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYB64#hcs-forum) - Game Soundtracks
@@ -658,7 +659,7 @@
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists Between Services
 * [TheIndieRockPlaylist](https://www.theindierockplaylist.com/) - Indie Rock Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Database
-* [ ⁠Nu-Metal Preservation](https://nu-metal-preservation.com/) - Nu-Metal Band Database
+* [⁠Nu-Metal Preservation](https://nu-metal-preservation.com/) - Nu-Metal Band Database
 * [⁠Six Degrees of Hip-Hop](https://www.sixdegreesofhiphop.com/) - Hip-Hop Connections Map
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive

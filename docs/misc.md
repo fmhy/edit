@@ -480,6 +480,7 @@
 * [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
 * [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
+* [Language Map](https://languagemap.vercel.app/) - Language Locations Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
 * [⁠NYC Tree Map](https://tree-map.nycgovparks.org/) or [London Tree Map](https://apps.london.gov.uk/public-realm-trees/) - City Tree Maps

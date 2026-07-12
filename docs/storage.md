@@ -190,7 +190,7 @@
 
 ## Internet Archive Tools
 
-* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
 - [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
 - [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
 - [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
@@ -358,7 +358,7 @@
 
 ### Slideshare Downloaders
 
-[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/), [Regem Downloader](https://regem.in/slideshare-downloader/)
+[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/)
 
 ***
 
