@@ -164,6 +164,7 @@
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Monitor / Log System Activity
 * [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
+* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [⁠TuxManager](https://github.com/benapetr/TuxManager) - Task Manager
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
