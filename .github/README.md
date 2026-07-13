@@ -21,7 +21,7 @@
 
 We invite you to contribute and help improve the wiki! 💙
 
-Here are a few ways you can get involved:
+Here are a few ways you can get involved:~
 
 * Anyone can suggest changes or corrections to the wiki. Please read our [contribution guide](https://fmhy.net/other/contributing) before trying to add or remove anything.
 * If you're adding a new site, please [search](https://fmhy.net/single-page.md) / [2](https://api.fmhy.net/single-page) (`Ctrl + F`) first to make sure we don't already have it.
