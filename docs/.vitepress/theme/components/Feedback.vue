@@ -3,6 +3,10 @@ import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
 import { computed, onUnmounted, reactive, ref } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
+import {
+  getRateLimitCooldown,
+  recordSubmission
+} from '../composables/rateLimit'
 import { sanitizeRichHtml } from '../composables/sanitize'
 
 const props = defineProps<{
@@ -184,6 +188,12 @@ function selectType(type: FeedbackType['type']) {
 }
 
 async function handleSubmit() {
+  const cooldown = getRateLimitCooldown()
+  if (cooldown > 0) {
+    error.value = `Too Many Requests. Try again in ${cooldown}s.`
+    return
+  }
+
   loading.value = true
   error.value = null
 
@@ -198,6 +208,8 @@ async function handleSubmit() {
     ...(props.heading && { heading: props.heading }),
     ...(feedback.contact && { contact: feedback.contact })
   }
+
+  recordSubmission()
 
   try {
     const response = await fetch('https://api.fmhy.net/feedback', {
