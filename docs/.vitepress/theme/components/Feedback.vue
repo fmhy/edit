@@ -75,6 +75,19 @@ const highlightStyle = reactive({
 })
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
 
+const BLOCK_SELECTOR = 'p, li, td, th, h1, h2, h3, h4, h5, h6'
+const NON_CONTENT_SELECTOR =
+  '.feedback-widget, button, a, input, textarea, select'
+
+const isSelectableTarget = (target: HTMLElement) =>
+  !!target.closest('.vp-doc') && !target.closest(NON_CONTENT_SELECTOR)
+
+const extractBlockContent = (blockElement: HTMLElement) => {
+  const clone = blockElement.cloneNode(true) as HTMLElement
+  clone.querySelectorAll('.feedback-widget').forEach((el) => el.remove())
+  return { text: clone.textContent?.trim() ?? '', html: clone.innerHTML }
+}
+
 const startSelectingLine = () => {
   isSelectingLine.value = true
   document.body.style.cursor = 'crosshair'
@@ -95,13 +108,11 @@ const stopSelectingLine = () => {
 const handleMouseOver = (event: MouseEvent) => {
   if (!isSelectingLine.value) return
   const target = event.target as HTMLElement
-  if (target.closest('.feedback-card')) {
+  if (!isSelectableTarget(target)) {
     highlightStyle.display = 'none'
     return
   }
-  const blockElement = target.closest(
-    'p, li, td, th, h1, h2, h3, h4, h5, h6'
-  ) as HTMLElement
+  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
   if (blockElement) {
     const rect = blockElement.getBoundingClientRect()
     highlightStyle.display = 'block'
@@ -117,19 +128,20 @@ const handleMouseOver = (event: MouseEvent) => {
 const handlePageClick = (event: MouseEvent) => {
   if (!isSelectingLine.value) return
   const target = event.target as HTMLElement
-  if (target.closest('.feedback-card')) return
+  if (!isSelectableTarget(target)) {
+    stopSelectingLine()
+    return
+  }
   event.preventDefault()
   event.stopPropagation()
   event.stopImmediatePropagation()
 
-  const blockElement = target.closest(
-    'p, li, td, th, h1, h2, h3, h4, h5, h6'
-  ) as HTMLElement
+  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
   if (blockElement) {
-    const text = blockElement.innerText.trim()
+    const { text, html } = extractBlockContent(blockElement)
     if (text) {
       feedback.selectedLine = text
-      feedback.selectedLineHtml = blockElement.innerHTML
+      feedback.selectedLineHtml = html
     }
   }
   stopSelectingLine()
@@ -246,7 +258,10 @@ const helpfulDescription = props.heading
 
 const prompt = computed(() => getPrompt())
 const message = computed(() => getMessage(feedback.type!))
-const toggleCard = () => (isCardShown.value = !isCardShown.value)
+const toggleCard = () => {
+  isCardShown.value = !isCardShown.value
+  if (!isCardShown.value) stopSelectingLine()
+}
 const goBackToOptions = () => {
   feedback.type = undefined
   error.value = null
@@ -268,7 +283,7 @@ const resetFeedback = () => {
 <template>
   <template v-if="props.heading">
     <button
-      class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+      class="feedback-widget bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
       @click="toggleCard()"
     >
       <span
@@ -278,7 +293,7 @@ const resetFeedback = () => {
   </template>
   <template v-else>
     <div
-      class="mt-2 p-4 border-2 border-solid bg-$vp-c-bg-alt border-$vp-c-divider rounded-xl col-span-3 transition-colors duration-250"
+      class="feedback-widget mt-2 p-4 border-2 border-solid bg-$vp-c-bg-alt border-$vp-c-divider rounded-xl col-span-3 transition-colors duration-250"
     >
       <div class="flex items-start md:items-center gap-3">
         <div class="pt-1 md:pt-0">
@@ -319,7 +334,7 @@ const resetFeedback = () => {
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+      class="feedback-widget feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
     >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
