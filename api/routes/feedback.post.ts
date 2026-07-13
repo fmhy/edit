@@ -88,6 +88,10 @@ async function translateWithWorkersAI(
   return { lang, translated }
 }
 
+function sanitizeTranslationLang(lang: string): string {
+  return /^[a-zA-Z-]{2,10}$/.test(lang) ? lang : '?'
+}
+
 const TRANSLATION_FAILURE_KV_KEY = 'feedback:translation-failure-notified'
 const TRANSLATION_FAILURE_NOTIFY_INTERVAL_SECONDS = 12 * 60 * 60
 
@@ -147,6 +151,22 @@ export default defineEventHandler(async (event) => {
 
   const cf = event.context.cloudflare as any
 
+  const clientIP =
+    getHeader(event, 'cf-connecting-ip') ||
+    getHeader(event, 'x-forwarded-for') ||
+    event.node.req.socket.remoteAddress
+
+  if (clientIP && cf?.env?.RATE_LIMITER) {
+    const key = `feedback:${clientIP}`
+    const { success } = await cf.env.RATE_LIMITER.limit({ key })
+    if (!success) {
+      throw createError({
+        statusCode: 429,
+        statusMessage: 'Too Many Requests'
+      })
+    }
+  }
+
   // Attempt to translate non-English feedback
   let translation: Translation | null = null
   let translationFailed = false
@@ -162,7 +182,7 @@ export default defineEventHandler(async (event) => {
 
   if (isTranslated(message, translation)) {
     fields.push({
-      name: `Translated (${translation.lang})`,
+      name: `Translated (${sanitizeTranslationLang(translation.lang)})`,
       value: sanitizeForDiscord(translation.translated),
       inline: false
     })
@@ -175,22 +195,6 @@ export default defineEventHandler(async (event) => {
       value: 'Automatic translation errored for this message.',
       inline: false
     })
-  }
-
-  const clientIP =
-    getHeader(event, 'cf-connecting-ip') ||
-    getHeader(event, 'x-forwarded-for') ||
-    event.node.req.socket.remoteAddress
-
-  if (clientIP && cf?.env?.RATE_LIMITER) {
-    const key = `feedback:${clientIP}`
-    const { success } = await cf.env.RATE_LIMITER.limit({ key })
-    if (!success) {
-      throw createError({
-        statusCode: 429,
-        statusMessage: 'Too Many Requests'
-      })
-    }
   }
 
   const colors: Record<string, number> = {

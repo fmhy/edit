@@ -3,6 +3,7 @@ import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
 import { computed, onUnmounted, reactive, ref } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
+import { sanitizeRichHtml } from '../composables/sanitize'
 
 const props = defineProps<{
   heading?: string
@@ -234,14 +235,18 @@ const helpfulDescription = props.heading
 const prompt = computed(() => getPrompt())
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => (isCardShown.value = !isCardShown.value)
-const resetFeedback = () => {
+const goBackToOptions = () => {
   feedback.type = undefined
   error.value = null
+  stopSelectingLine()
+}
+
+const resetFeedback = () => {
+  goBackToOptions()
   success.value = false
   feedback.message = ''
   feedback.selectedLine = undefined
   feedback.selectedLineHtml = undefined
-  stopSelectingLine()
   if (textareaRef.value) {
     textareaRef.value.style.height = '100px'
   }
@@ -327,7 +332,7 @@ const resetFeedback = () => {
               <button
                 class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary inline-flex h-7 w-7 items-center justify-center rounded-md border-2 border-solid transition-all duration-300"
                 title="Back to options"
-                @click="resetFeedback()"
+                @click="goBackToOptions()"
               >
                 <span class="i-lucide:arrow-left w-4 h-4"></span>
               </button>
@@ -364,7 +369,10 @@ const resetFeedback = () => {
             <div
               class="flex-grow italic line-clamp-3 pointer-events-none vp-doc feedback-quote"
               style="margin: 0"
-              v-html="feedback.selectedLineHtml || feedback.selectedLine"
+              v-html="
+                sanitizeRichHtml(feedback.selectedLineHtml) ||
+                feedback.selectedLine
+              "
             ></div>
             <button
               class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-red-400"
