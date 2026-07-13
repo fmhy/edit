@@ -101,7 +101,7 @@ async function handleSubmit() {
   }
 
   try {
-    const response = await fetch('https://api.fmhy.net/feedback', {
+    const response = await fetch('http://192.168.1.30:3000/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

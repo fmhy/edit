@@ -61,6 +61,45 @@ export default defineEventHandler(async (event) => {
     })
   }
 
+  // Attempt to translate non-English feedback
+  try {
+    const translateParams = new URLSearchParams()
+    translateParams.append('q', message)
+
+    const translateRes = await fetch(
+      'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t',
+      {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        body: translateParams.toString()
+      }
+    )
+
+    if (translateRes.ok) {
+      const data = await translateRes.json()
+      const detectedLang = data[2]
+      const confidence = data[6]
+
+      if (detectedLang && detectedLang !== 'en' && confidence > 0.5) {
+        const translatedText = data[0].map((x: any) => x[0]).join('')
+
+        if (
+          translatedText.toLowerCase().trim() !== message.toLowerCase().trim()
+        ) {
+          fields.push({
+            name: `Translated (${detectedLang})`,
+            value: sanitizeForDiscord(translatedText),
+            inline: false
+          })
+        }
+      }
+    }
+  } catch (err) {
+    console.error('Translation failed:', err)
+  }
+
   const clientIP =
     getHeader(event, 'cf-connecting-ip') ||
     getHeader(event, 'x-forwarded-for') ||
