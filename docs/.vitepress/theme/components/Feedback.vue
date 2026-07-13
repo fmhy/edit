@@ -217,7 +217,16 @@ const resetFeedback = () => {
         <div v-else-if="feedback.type && !success">
           <div>
             <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
-            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+            <div class="flex items-center gap-3 mt-1">
+              <button
+                class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary inline-flex h-7 w-7 items-center justify-center rounded-md border-2 border-solid transition-all duration-300"
+                @click="resetFeedback()"
+                title="Back to options"
+              >
+                <span class="i-lucide:arrow-left w-4 h-4"></span>
+              </button>
+              <span>{{ getFeedbackOption(feedback.type!)?.label }}</span>
+            </div>
           </div>
           <p class="heading" v-text="message"></p>
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
@@ -249,14 +258,7 @@ const resetFeedback = () => {
           <div class="mt-4 mb-1 text-sm font-semibold text-$vp-c-text-1">
             Contact Info (Optional)
           </div>
-          <input
-            v-model="feedback.contact"
-            type="text"
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="(ex. Discord: username)"
-            @input="error = null"
-          />
-          <p class="desc mb-2 mt-2">
+          <p class="desc mb-3">
             Add your Discord handle if you would like a response, or if we need
             more information from you, otherwise join our
             <a
@@ -266,13 +268,14 @@ const resetFeedback = () => {
               Discord.
             </a>
           </p>
-          <div class="flex flex-row gap-2">
-            <button
-              class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="resetFeedback()"
-            >
-              <span class="i-lucide:panel-left-close">close</span>
-            </button>
+          <input
+            v-model="feedback.contact"
+            type="text"
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            placeholder="(ex. Discord: username)"
+            @input="error = null"
+          />
+          <div class="flex flex-row gap-2 mt-4">
             <button
               type="submit"
               class="btn btn-primary"
@@ -292,8 +295,17 @@ const resetFeedback = () => {
             </button>
           </div>
         </div>
-        <div v-else>
-          <p class="heading">Thanks for your feedback!</p>
+        <div v-else class="text-center py-4">
+          <p class="heading mb-4">Thanks for your feedback!</p>
+          <button
+            class="btn btn-primary"
+            @click="
+              resetFeedback()
+              success = false
+            "
+          >
+            Send Another Message
+          </button>
         </div>
       </Transition>
     </div>
