@@ -73,10 +73,12 @@ const router = useRouter()
 const feedback = reactive<{
   message: string
   page: string
+  contact?: string
   type?: FeedbackType['type']
 }>({
   page: router.route.path,
-  message: ''
+  message: '',
+  contact: ''
 })
 
 const selectedOption = ref(feedbackOptions[0])
@@ -94,7 +96,8 @@ async function handleSubmit() {
     message: feedback.message,
     type: feedback.type!,
     page: feedback.page,
-    ...(props.heading && { heading: props.heading })
+    ...(props.heading && { heading: props.heading }),
+    ...(feedback.contact && { contact: feedback.contact })
   }
 
   try {
@@ -243,7 +246,17 @@ const resetFeedback = () => {
             placeholder="What a lovely wiki!"
             @input="error = null"
           />
-          <p class="desc mb-2">
+          <div class="mt-4 mb-1 text-sm font-semibold text-$vp-c-text-1">
+            Contact Info (Optional)
+          </div>
+          <input
+            v-model="feedback.contact"
+            type="text"
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            placeholder="(ex. Discord: username)"
+            @input="error = null"
+          />
+          <p class="desc mb-2 mt-2">
             Add your Discord handle if you would like a response, or if we need
             more information from you, otherwise join our
             <a

@@ -25,7 +25,7 @@ function sanitizeForDiscord(input: string): string {
 }
 
 export default defineEventHandler(async (event) => {
-  const { message, page, type, heading } = await readValidatedBody(
+  const { message, page, type, heading, contact } = await readValidatedBody(
     event,
     FeedbackSchema.parseAsync
   )
@@ -49,6 +49,14 @@ export default defineEventHandler(async (event) => {
     fields.unshift({
       name: 'Section',
       value: sanitizeForDiscord(heading),
+      inline: true
+    })
+  }
+
+  if (contact) {
+    fields.push({
+      name: 'Contact',
+      value: sanitizeForDiscord(contact),
       inline: true
     })
   }

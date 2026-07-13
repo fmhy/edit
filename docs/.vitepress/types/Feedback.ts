@@ -25,7 +25,8 @@ export const FeedbackSchema = z.object({
     .max(25)
     .regex(/^[a-zA-Z0-9\-/]+$/, 'Invalid page path'),
   // For heading based feedback
-  heading: z.string().min(3).max(99).optional()
+  heading: z.string().min(3).max(99).optional(),
+  contact: z.string().max(100).optional()
 })
 
 export interface Option {
