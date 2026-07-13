@@ -69,7 +69,6 @@
 ***
 
 * 🌐 **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - Course Site Index
-* ⭐ **[tut4dl](https://tut4it.com/)** - Courses
 * ⭐ **[Course Busters](https://www.cbusters.com/home)** - Course Busters Access
 * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
@@ -662,7 +661,7 @@
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [TubeVault](https://tubevault.org/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
-* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/), [⁠Killed By OpenAI](https://www.killedbyopenai.com/) or [SuedByNintendo](https://www.suedbynintendo.com/) - Dead Project Archives
+* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/), [⁠Killed By OpenAI](https://www.killedbyopenai.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
 
 ***
@@ -964,6 +963,7 @@
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Chess Database Software
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
+* [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
 * [Listudy](https://listudy.org/en) - Blindfolded Tactics / Openings
 * [Chessable](https://www.chessable.com/) - Openings / Endgames
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
@@ -1784,7 +1784,7 @@
 
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
-* ⭐ **[OpenCalc](https://f-droid.org/packages/com.darkempire78.opencalculator)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
+* ⭐ **[OpenCalc](https://github.com/clementwzk/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) - TI-84 Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators

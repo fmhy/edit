@@ -440,6 +440,7 @@
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [⁠Tobari](https://tobari.moe/) - Multi-Site Manga Aggregator
+* [Nyora](https://web.nyora.xyz/) - Multi-Site Manga Aggregator
 * [MangaKatana](https://mangakatana.com/)
 * [MangaK](https://mangak.io/)
 * [MangaBall](https://mangaball.net/)
@@ -910,7 +911,7 @@
 
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
-* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://github.com/nesaku/BiblioReads)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations

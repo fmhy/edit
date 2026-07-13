@@ -1289,6 +1289,7 @@
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
 * [Private.coffee](https://private.coffee/services.html) - Text / Code 
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [delphitools](https://delphi.tools/), [2](https://tools.rmv.fyi/) - Social Media / Text / Image
@@ -1349,7 +1350,7 @@
 
 * ↪️ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_to-do_apps)**
 * ⭐ **[Cal.com](https://cal.com/)** - Business / Work Schedule Calendar / [GitHub](https://github.com/calcom/cal.com)
-* ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Star Fit](https://starbestfit.com/), [Samay](https://samay.app/), [Pick Time](https://pick-time.io/), [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Groop](https://joingroop.com/), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Planning / Schedule Voting
+* ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Star Fit](https://starbestfit.com/), [Samay](https://samay.app/), [Pick Time](https://pick-time.io/), [Event Rallly](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Groop](https://joingroop.com/), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Planning / Schedule Voting
 * [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [⁠zcal](https://zcal.co/) - Scheduling / Meeting Tool

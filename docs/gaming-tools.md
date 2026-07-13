@@ -265,6 +265,7 @@
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
+* [⁠The Adventure Game Database](https://adventuregamedb.com/) - Graphic Adventure Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Tiny Best Selector](https://go.madsoxgames.com/selector/) - Random Retro Game Suggestions
 * [Sega Retro](https://segaretro.org/) - Sega Game Database

@@ -463,7 +463,7 @@
 * [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
 * [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
 * [Emupedia](https://emupedia.net/beta/) - Retro Consoles
-* [yag.im](https://yag.im/) - Retro Edutainment + Adventure Game Browser Emulator / Signup Required / [Discord](https://discord.gg/N4QavHBBAG) / [GitHub](https://github.com/yag-im)
+* [yag.im](https://yag.im/) - Retro Edutainment + Adventure Game Browser Emulator / Sign-Up Required / [Discord](https://discord.gg/N4QavHBBAG) / [GitHub](https://github.com/yag-im)
 * [DOS Games Archive](https://www.dosgamesarchive.com/), [Best DOS Games](https://bestdosgames.com/), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [DosGames](https://dosgames.com/), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [⁠Meowio](https://www.information-superhighway.net/meowio/) - NES Browser Emulator / Custom Music + Sounds
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator / Multiplayer
