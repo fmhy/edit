@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
-import { computed, reactive, ref } from 'vue'
+import { computed, onUnmounted, reactive, ref } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 
 const props = defineProps<{
@@ -60,11 +60,96 @@ const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
 
+const isSelectingLine = ref<boolean>(false)
+const highlightStyle = reactive({
+  display: 'none',
+  top: '0px',
+  left: '0px',
+  width: '0px',
+  height: '0px'
+})
+const textareaRef = ref<HTMLTextAreaElement | null>(null)
+
+const startSelectingLine = () => {
+  isSelectingLine.value = true
+  document.body.style.cursor = 'crosshair'
+  document.body.classList.add('feedback-selecting')
+  window.addEventListener('mouseover', handleMouseOver)
+  window.addEventListener('click', handlePageClick, { capture: true })
+}
+
+const stopSelectingLine = () => {
+  isSelectingLine.value = false
+  document.body.style.cursor = 'default'
+  document.body.classList.remove('feedback-selecting')
+  highlightStyle.display = 'none'
+  window.removeEventListener('mouseover', handleMouseOver)
+  window.removeEventListener('click', handlePageClick, { capture: true })
+}
+
+const handleMouseOver = (event: MouseEvent) => {
+  if (!isSelectingLine.value) return
+  const target = event.target as HTMLElement
+  if (target.closest('.feedback-card')) {
+    highlightStyle.display = 'none'
+    return
+  }
+  const blockElement = target.closest(
+    'p, li, td, th, h1, h2, h3, h4, h5, h6'
+  ) as HTMLElement
+  if (blockElement) {
+    const rect = blockElement.getBoundingClientRect()
+    highlightStyle.display = 'block'
+    highlightStyle.top = `${rect.top + window.scrollY - 2}px`
+    highlightStyle.left = `${rect.left + window.scrollX - 4}px`
+    highlightStyle.width = `${rect.width + 8}px`
+    highlightStyle.height = `${rect.height + 4}px`
+  } else {
+    highlightStyle.display = 'none'
+  }
+}
+
+const handlePageClick = (event: MouseEvent) => {
+  if (!isSelectingLine.value) return
+  const target = event.target as HTMLElement
+  if (target.closest('.feedback-card')) return
+  event.preventDefault()
+  event.stopPropagation()
+  event.stopImmediatePropagation()
+
+  const blockElement = target.closest(
+    'p, li, td, th, h1, h2, h3, h4, h5, h6'
+  ) as HTMLElement
+  if (blockElement) {
+    const text = blockElement.innerText.trim()
+    if (text) {
+      feedback.selectedLine = text
+      feedback.selectedLineHtml = blockElement.innerHTML
+    }
+  }
+  stopSelectingLine()
+}
+
+onUnmounted(() => {
+  stopSelectingLine()
+})
+
+const handleInput = (event: Event) => {
+  error.value = null
+  const target = event.target as HTMLTextAreaElement
+  target.style.height = 'auto'
+  target.style.height = `${target.scrollHeight}px`
+}
+
 const isDisabled = computed(() => {
+  const combinedMessage = feedback.selectedLine
+    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
+    : feedback.message
+
   return (
-    !feedback.message.length ||
-    feedback.message.length < 5 ||
-    feedback.message.length > 1000
+    !combinedMessage.length ||
+    combinedMessage.length < 5 ||
+    combinedMessage.length > 1000
   )
 })
 
@@ -75,10 +160,14 @@ const feedback = reactive<{
   page: string
   contact?: string
   type?: FeedbackType['type']
+  selectedLine?: string
+  selectedLineHtml?: string
 }>({
   page: router.route.path,
   message: '',
-  contact: ''
+  contact: '',
+  selectedLine: undefined,
+  selectedLineHtml: undefined
 })
 
 const selectedOption = ref(feedbackOptions[0])
@@ -92,8 +181,12 @@ async function handleSubmit() {
   loading.value = true
   error.value = null
 
+  const finalMessage = feedback.selectedLine
+    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
+    : feedback.message
+
   const body: FeedbackType = {
-    message: feedback.message,
+    message: finalMessage,
     type: feedback.type!,
     page: feedback.page,
     ...(props.heading && { heading: props.heading }),
@@ -101,7 +194,7 @@ async function handleSubmit() {
   }
 
   try {
-    const response = await fetch('http://192.168.1.30:3000/feedback', {
+    const response = await fetch('https://api.fmhy.net/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -141,6 +234,12 @@ const resetFeedback = () => {
   error.value = null
   success.value = false
   feedback.message = ''
+  feedback.selectedLine = undefined
+  feedback.selectedLineHtml = undefined
+  stopSelectingLine()
+  if (textareaRef.value) {
+    textareaRef.value.style.height = '100px'
+  }
 }
 </script>
 
@@ -198,7 +297,7 @@ const resetFeedback = () => {
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+      class="feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
     >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
@@ -222,8 +321,8 @@ const resetFeedback = () => {
             <div class="flex items-center gap-3 mt-1">
               <button
                 class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary inline-flex h-7 w-7 items-center justify-center rounded-md border-2 border-solid transition-all duration-300"
-                @click="resetFeedback()"
                 title="Back to options"
+                @click="resetFeedback()"
               >
                 <span class="i-lucide:arrow-left w-4 h-4"></span>
               </button>
@@ -252,13 +351,60 @@ const resetFeedback = () => {
                   'Failed to send feedback. Please try again.'
             }}
           </div>
+          <div
+            v-if="feedback.selectedLine"
+            class="mb-3 flex items-start gap-2 p-3 bg-$vp-c-bg text-$vp-c-text-2 rounded-lg border border-$vp-c-divider text-sm relative group"
+          >
+            <div class="i-lucide:quote opacity-50 mt-0.5 min-w-[16px]"></div>
+            <div
+              class="flex-grow italic line-clamp-3 pointer-events-none vp-doc feedback-quote"
+              style="margin: 0"
+              v-html="feedback.selectedLineHtml || feedback.selectedLine"
+            ></div>
+            <button
+              class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-red-400"
+              title="Remove selected line"
+              @click="
+                feedback.selectedLine = undefined
+                feedback.selectedLineHtml = undefined
+              "
+            >
+              <span class="i-lucide:trash-2 w-4 h-4"></span>
+            </button>
+          </div>
           <textarea
+            ref="textareaRef"
             v-model="feedback.message"
             autofocus
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid resize-none overflow-y-auto"
             placeholder="What a lovely wiki!"
-            @input="error = null"
+            @input="handleInput"
           />
+          <div class="flex items-center gap-2 mt-2 mb-2">
+            <button
+              type="button"
+              class="flex items-center gap-1.5 text-xs font-medium text-$vp-c-text-2 hover:text-primary transition-colors bg-$vp-c-default-soft px-2 py-1 rounded border border-$vp-c-divider hover:border-primary"
+              @click="
+                isSelectingLine ? stopSelectingLine() : startSelectingLine()
+              "
+            >
+              <span
+                :class="
+                  isSelectingLine ? 'i-lucide:x' : 'i-lucide:text-cursor-input'
+                "
+                class="w-3.5 h-3.5"
+              ></span>
+              {{
+                isSelectingLine ? 'Cancel Selection' : 'Select a line from page'
+              }}
+            </button>
+            <span
+              v-if="isSelectingLine"
+              class="text-xs text-$vp-c-text-3 animate-pulse"
+            >
+              Click any text on the page...
+            </span>
+          </div>
           <div class="mt-4 mb-1 text-sm font-semibold text-$vp-c-text-1">
             Contact Info (Optional)
           </div>
@@ -308,6 +454,19 @@ const resetFeedback = () => {
       </Transition>
     </div>
   </Transition>
+
+  <Teleport to="body">
+    <div
+      v-if="isSelectingLine"
+      class="pointer-events-none absolute z-[9999] rounded border-2 border-solid transition-all duration-75"
+      :style="{
+        ...highlightStyle,
+        backgroundColor: 'var(--vp-c-brand)',
+        borderColor: 'var(--vp-c-brand)',
+        opacity: '0.2'
+      }"
+    ></div>
+  </Teleport>
 </template>
 
 <style scoped lang="css">
@@ -361,6 +520,14 @@ const resetFeedback = () => {
   color: var(--vp-c-text-2);
 }
 
+.feedback-quote {
+  color: var(--vp-c-text-2) !important;
+}
+.feedback-quote :deep(*) {
+  color: inherit !important;
+  margin: 0 !important;
+}
+
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.25s ease;
@@ -369,5 +536,11 @@ const resetFeedback = () => {
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
+}
+</style>
+
+<style>
+body.feedback-selecting a {
+  pointer-events: none !important;
 }
 </style>
