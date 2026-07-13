@@ -117,6 +117,12 @@ export default defineEventHandler(async (event) => {
     }
   }
 
+  const colors: Record<string, number> = {
+    suggestion: 3447003, // Blue
+    appreciation: 5763719, // Green
+    other: 9807270 // Grey
+  }
+
   const response = await fetch(env.WEBHOOK_URL, {
     method: 'POST',
     headers: {
@@ -128,8 +134,8 @@ export default defineEventHandler(async (event) => {
       avatar_url: 'https://fmhy.net/feedback-avatar.jpg',
       embeds: [
         {
-          color: 3447003,
-          title: getFeedbackOption(type).label,
+          color: colors[type] || 3447003,
+          title: getFeedbackOption(type)?.label || 'Feedback',
           fields
         }
       ]
