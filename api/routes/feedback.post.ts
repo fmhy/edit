@@ -24,6 +24,90 @@ function sanitizeForDiscord(input: string): string {
   return input.replace(/```/g, "'''")
 }
 
+interface Translation {
+  lang: string
+  translated: string
+}
+
+function isTranslated(
+  message: string,
+  candidate: Translation | null
+): candidate is Translation {
+  return (
+    candidate !== null &&
+    candidate.lang !== 'en' &&
+    candidate.translated.toLowerCase().trim() !== message.toLowerCase().trim()
+  )
+}
+
+/**
+ * Workers AI has no dedicated language-detection model, so a small
+ * multilingual instruct model handles detection + translation in one call.
+ * Cloudflare deprecates Workers AI models periodically (~2 months' notice via
+ * https://developers.cloudflare.com/workers-ai/changelog/). If translations
+ * stop working, check that changelog and the catalog at
+ * https://developers.cloudflare.com/workers-ai/models/ for a replacement
+ * model ID to swap in below.
+ */
+async function translateWithWorkersAI(
+  ai: any,
+  message: string
+): Promise<Translation | null> {
+  const result = await ai.run('@cf/meta/llama-3.2-3b-instruct', {
+    messages: [
+      {
+        role: 'system',
+        content:
+          'Detect the language of the user message. If it is not English, translate it to English. ' +
+          'Respond with ONLY compact JSON, no other text: ' +
+          '{"lang":"<ISO 639-1 code>","translated":"<English translation>"}. ' +
+          'If the message is already English, respond with {"lang":"en","translated":null}.'
+      },
+      { role: 'user', content: message }
+    ],
+    temperature: 0
+  })
+
+  const response = result?.response
+  let lang: string | undefined
+  let translated: unknown
+
+  if (response && typeof response === 'object') {
+    ;({ lang, translated } = response)
+  } else if (typeof response === 'string') {
+    const match = response.match(/\{[\s\S]*\}/)
+    if (!match) {
+      throw new Error('Translation response did not contain JSON')
+    }
+    ;({ lang, translated } = JSON.parse(match[0]))
+  } else {
+    throw new Error(`Unexpected translation response type: ${typeof response}`)
+  }
+
+  if (!lang || typeof translated !== 'string') return null
+  return { lang, translated }
+}
+
+const TRANSLATION_FAILURE_KV_KEY = 'feedback:translation-failure-notified'
+const TRANSLATION_FAILURE_NOTIFY_INTERVAL_SECONDS = 12 * 60 * 60
+
+async function shouldNotifyTranslationFailure(kv: any): Promise<boolean> {
+  if (!kv) return true
+
+  try {
+    const lastNotified = await kv.get(TRANSLATION_FAILURE_KV_KEY)
+    if (lastNotified) return false
+
+    await kv.put(TRANSLATION_FAILURE_KV_KEY, Date.now().toString(), {
+      expirationTtl: TRANSLATION_FAILURE_NOTIFY_INTERVAL_SECONDS
+    })
+    return true
+  } catch (err) {
+    console.error('Failed to check translation-failure notify state:', err)
+    return true
+  }
+}
+
 export default defineEventHandler(async (event) => {
   const { message, page, type, heading, contact } = await readValidatedBody(
     event,
@@ -61,43 +145,36 @@ export default defineEventHandler(async (event) => {
     })
   }
 
+  const cf = event.context.cloudflare as any
+
   // Attempt to translate non-English feedback
-  try {
-    const translateParams = new URLSearchParams()
-    translateParams.append('q', message)
+  let translation: Translation | null = null
+  let translationFailed = false
 
-    const translateRes = await fetch(
-      'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t',
-      {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded'
-        },
-        body: translateParams.toString()
-      }
-    )
-
-    if (translateRes.ok) {
-      const data = await translateRes.json()
-      const detectedLang = data[2]
-      const confidence = data[6]
-
-      if (detectedLang && detectedLang !== 'en' && confidence > 0.5) {
-        const translatedText = data[0].map((x: any) => x[0]).join('')
-
-        if (
-          translatedText.toLowerCase().trim() !== message.toLowerCase().trim()
-        ) {
-          fields.push({
-            name: `Translated (${detectedLang})`,
-            value: sanitizeForDiscord(translatedText),
-            inline: false
-          })
-        }
-      }
+  if (cf?.env?.AI) {
+    try {
+      translation = await translateWithWorkersAI(cf.env.AI, message)
+    } catch (err) {
+      console.error('Workers AI translation failed:', err)
+      translationFailed = true
     }
-  } catch (err) {
-    console.error('Translation failed:', err)
+  }
+
+  if (isTranslated(message, translation)) {
+    fields.push({
+      name: `Translated (${translation.lang})`,
+      value: sanitizeForDiscord(translation.translated),
+      inline: false
+    })
+  } else if (
+    translationFailed &&
+    (await shouldNotifyTranslationFailure(cf?.env?.STORAGE))
+  ) {
+    fields.push({
+      name: 'Translation unavailable',
+      value: 'Automatic translation errored for this message.',
+      inline: false
+    })
   }
 
   const clientIP =
@@ -105,7 +182,6 @@ export default defineEventHandler(async (event) => {
     getHeader(event, 'x-forwarded-for') ||
     event.node.req.socket.remoteAddress
 
-  const cf = event.context.cloudflare as any
   if (clientIP && cf?.env?.RATE_LIMITER) {
     const key = `feedback:${clientIP}`
     const { success } = await cf.env.RATE_LIMITER.limit({ key })
