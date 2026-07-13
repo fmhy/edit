@@ -134,6 +134,11 @@ onUnmounted(() => {
   stopSelectingLine()
 })
 
+const clearSelectedLine = () => {
+  feedback.selectedLine = undefined
+  feedback.selectedLineHtml = undefined
+}
+
 const handleInput = (event: Event) => {
   error.value = null
   const target = event.target as HTMLTextAreaElement
@@ -364,10 +369,7 @@ const resetFeedback = () => {
             <button
               class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-red-400"
               title="Remove selected line"
-              @click="
-                feedback.selectedLine = undefined
-                feedback.selectedLineHtml = undefined
-              "
+              @click="clearSelectedLine"
             >
               <span class="i-lucide:trash-2 w-4 h-4"></span>
             </button>
