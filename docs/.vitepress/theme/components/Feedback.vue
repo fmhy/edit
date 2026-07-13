@@ -139,6 +139,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 const resetFeedback = () => {
   feedback.type = undefined
   error.value = null
+  success.value = false
+  feedback.message = ''
 }
 </script>
 
@@ -225,7 +227,9 @@ const resetFeedback = () => {
               >
                 <span class="i-lucide:arrow-left w-4 h-4"></span>
               </button>
-              <span>{{ getFeedbackOption(feedback.type!)?.label }}</span>
+              <span>
+                {{ getFeedbackOption(feedback.type || 'suggestion')?.label }}
+              </span>
             </div>
           </div>
           <p class="heading" v-text="message"></p>
@@ -297,13 +301,7 @@ const resetFeedback = () => {
         </div>
         <div v-else class="text-center py-4">
           <p class="heading mb-4">Thanks for your feedback!</p>
-          <button
-            class="btn btn-primary"
-            @click="
-              resetFeedback()
-              success = false
-            "
-          >
+          <button class="btn btn-primary" @click="resetFeedback()">
             Send Another Message
           </button>
         </div>
