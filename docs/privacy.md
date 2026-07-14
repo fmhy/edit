@@ -457,7 +457,7 @@
 
 ## ▷ Proxy Servers
 
-* ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / **[Guide](https://wispydocs.pages.dev/network-censorship-circumvention/)**
+* ⭐ **[3X-UI](https://docs.sanaei.dev/)** - Proxy Panel / [Telegram](https://t.me/XrayUI) / [GitHub](https://github.com/MHSanaei/3x-ui) / **[Guide](https://wispydocs.pages.dev/network-censorship-circumvention/)**
 * ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - Xray Proxy Core / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
 * [NaïveProxy](https://github.com/klzgrad/naiveproxy) - Chromium-based Proxy
 * [Hysteria](https://v2.hysteria.network/) - Speed Focused Proxy Protocol / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
