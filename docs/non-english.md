@@ -457,7 +457,7 @@
 
 * [⁠Torr9](https://torr9.net/) - Video / Audio / Books / Signup Required
 * [⁠C411](https://c411.org/) - Video / Audio / Books / Signup Required
-* [YGG Reborn](https://www.yggreborn.org/ ) - Video / Audio / Books / Signup Required
+* [YGG Reborn](https://www.yggreborn.org/) - Video / Audio / Books / Signup Required
 
 ## ▷ Streaming
 
@@ -598,7 +598,7 @@
 * [EBook Land](https://www.ebook-land.cc/index.php) - Books / Magazines
 * [DownMagaz](https://de.downmagaz.net/) - Magazines / NSFW
 * [MyComics](https://www.mycomics.de/) - Comics
-* [Projekt Gutenberg.](https://www.projekt-gutenberg.org/) - Classic German Books
+* [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Classic German Books
 * [Sagen](https://www.sagen.at/) - European Ethnology / Folklore
 * [deutschelyrik](https://www.deutschelyrik.de/) - Poetry
 
@@ -749,7 +749,7 @@
 * [myflixbd](https://myflixbd.to/) - Movies / TV / Anime
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
-* [1tamilyogi](https://1tamilyogi.me//), [2](https://1tamilyogi.ro/) - Movies / TV
+* [1tamilyogi](https://1tamilyogi.me/), [2](https://1tamilyogi.ro/) - Movies / TV
 * [5movierulz](https://www.5movierulz.markets/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
@@ -859,7 +859,7 @@
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Play RSI](https://www.rsi.ch/play/tv) - Free w/ Ads
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
-* [tream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
+* [Stream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 
@@ -1035,7 +1035,7 @@
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [AnimeSub.info](http://animesub.info/) - Anime Subtitles
-* [MineWiki](https://minewiki.pl/) - Mincraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
+* [MineWiki](https://minewiki.pl/) - Minecraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
 * [slownikpjm](https://www.slownikpjm.uw.edu.pl/) - Polish Sign Language Dictionary
 
 ## ▷ Downloading / Pobieranie
@@ -1192,7 +1192,7 @@
 * [Biblioteca Brasiliana](https://digital.bbm.usp.br/handle/bbm/1) - Books
 * [Baixe Livros](https://www.baixelivros.com.br) - Books
 * [eBooksBrasil](https://ebooksbrasil.org) - Books
-* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
+* [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Books
 * [Dlivros](https://dlivros.com/) - Books
 * [Doceru](https://doceru.com/) - Books
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
@@ -1383,8 +1383,7 @@
 * [11klasov](https://go.11klasov.net/) - Textbooks
 * [rusneb](https://rusneb.ru/) - Books
 * [obuchalka.org](https://obuchalka.org/) - Books / Homework Solutions
-* [Filibusta](https://flibusta.site/) - Books
-* [coollib](https://coollib.xyz/) - Books
+* [Flibusta](https://flibusta.site/) - Books
 * [coollib](https://coollib.xyz/) - Books
 * [libking](https://libking.ru/) - Books
 * [Maxima Library](https://maxima-library.com/) - Books
@@ -1537,7 +1536,7 @@
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
-* [Pluto Spanish](https://pluto.tv/) - ree w/ Ads
+* [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
 * [tele-libre](https://telelibree.com/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [angulismotv](https://angulismotv.pages.dev) - Live Sports
@@ -1629,7 +1628,7 @@
 
 ***
 
-# ► Swedish / Sverige
+# ► Swedish / Svenska
 
 * [Eniro](https://www.eniro.se/) - Search
 * [teckensprakslexikon](https://teckensprakslexikon.su.se/) - Swedish Sign Language Dictionary

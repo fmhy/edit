@@ -615,8 +615,7 @@
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [Upstract](https://upstract.com/) - Single Page News Aggregator
 * [newstel](https://newstel.vercel.app/) - Telegram Channel News Aggregator
-* [AllSides](https://www.allsides.com/) - Political New Aggregator
-* [⁠100.news](https://100.news/) - Political New Aggregator
+* [AllSides](https://www.allsides.com/) or [⁠100.news](https://100.news/) - Political News Aggregators
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
 * [SPIDR](https://spidr.today/)
@@ -1365,7 +1364,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [Table Plan](https://table-plan.com/) - Seating Chart Maker ⁠
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
-* [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/)- Group Expense Splitting Calculator
+* [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
 
 ***
 
@@ -1583,7 +1582,7 @@
 * [Corruption Loops](https://corruptionloops.alexbainter.com/) - Generative Unique Ambient Music
 * [Abundant Music](https://pernyblom.github.io/abundant-music/) - Procedural Music Editor
 * [typedrummer](http://typedrummer.com/) - Drum by Typing
-* [Soundscape](https://soundscape.world/) - 6rBuilder / Visualizer
+* [Soundscape](https://soundscape.world/) - Builder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
 * [Patatap](https://www.patatap.com/) - Type to Create Melodies / Moving Shapes
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App
@@ -1773,7 +1772,7 @@
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
-* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories Lis6t Generator
+* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
