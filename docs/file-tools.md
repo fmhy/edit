@@ -344,8 +344,8 @@
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [⁠pone](https://pone.rs/) - 1GB / Forever
+* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 100GB / 90 Days
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
-* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download / **Use uBlock**

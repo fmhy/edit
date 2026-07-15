@@ -402,7 +402,7 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)** [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [Vela](https://github.com/PimpinPumpkin/Vela/), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [FacilMap](https://facilmap.org/), [OsmAPP](https://osmapp.org/) or [Mapy](https://mapy.com) - Online / Offline Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [Vela](https://github.com/PimpinPumpkin/Vela/), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/), [FacilMap](https://facilmap.org/), [OsmAPP](https://osmapp.org/) or [Mapy](https://mapy.com) - Online / Offline Maps
 * ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** or [MapComplete](https://mapcomplete.org/) / [Source Code](https://source.mapcomplete.org/MapComplete/MapComplete/) - Open Community Maps
 * ⭐ **[StreetComplete](https://streetcomplete.app/)** - OpenStreetMap Surveyor App / Quests / [GitHub](https://github.com/streetcomplete/streetcomplete)
