@@ -539,6 +539,7 @@
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
+* [agents-design.com](https://agents-design.com/) - AI-Design Inspiration & Prompts
 
 ***
 
