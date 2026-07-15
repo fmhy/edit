@@ -81,6 +81,7 @@
 * [Yandex Translator](https://translate.yandex.com/) - Online
 * [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese / Chinese Translator 
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
 * [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
 * [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)

@@ -1,3 +1,5 @@
 #### Piko Note
 
-Use [this guide](https://wispydocs.pages.dev/morphe-piko-obtainium/) to build clean APKs, or use AntiSplit M with ReVanced manager.
+See this [guide](https://wispydocs.pages.dev/morphe-piko-obtainium/) for a pre-patched Obtainium configuration.
+
+Alternatively add the repo URL to Morphe patch sources to patch the app locally. 
