@@ -152,7 +152,7 @@
 
 ## ▷ Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [⁠Emoji Guide](https://emojiguide.org/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [List of Emojis](https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji), [EmojiDB](https://emojidb.org/), [Slackmojis](https://slackmojis.com/), [Emoji Picker](https://github-emoji-picker.vercel.app/) or [⁠Emoji Guide](https://emojiguide.org/) - Emoji Indexes
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
