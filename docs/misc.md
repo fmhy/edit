@@ -1672,6 +1672,7 @@
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
+* [WikiLaxus](wikilaxus.wikioasis.org) - An online wiki where a wide range of topics in different states of reality (e.g real, fiction, hybrid, hypotheses, fanmade, etc.) coexist
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
 
 ***
