@@ -241,6 +241,7 @@
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
+* [QuickImageHub](https://quickimagehub.com/) - Client-Side Image / PDF Tools
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [⁠PDRResizer](https://pdfresizer.com/)
