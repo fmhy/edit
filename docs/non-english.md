@@ -761,6 +761,7 @@
 * [desidubanime](https://www.desidubanime.me/) - Anime
 * [Kartoons](https://kartoons.me/) - Cartoons / [Discord](https://discord.com/invite/5fKH3TYVmE)
 * [mxplayer](https://www.mxplayer.in/) - Movies
+* [Go Desi Tv Serials](https://godesitvserials.com/) - TV
 * [Desi Serials](https://www.desi-serials.to/) - TV
 * [desitv](https://www.desitv.to/) - TV
 * [DistroTV](https://distro.tv/) - Live TV
