@@ -848,6 +848,7 @@
 * [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/), [⁠Tuner](https://codeberg.org/thetwom/Tuner) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner
+* [Pano Tuner](https://panotuner.com/) - Mic-Based Instrument Tuner
 * [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords and Keys
 * [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw), [Chordi](https://chordi.co/), [Chord Player](https://www.onemotion.com/chord-player/) or [AutoChords](https://autochords.com/) - Chord Progression Generators
