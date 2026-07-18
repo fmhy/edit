@@ -6,7 +6,7 @@
 
 # ► Download Games
 
-* **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+* **Note** - Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. check [this guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
 
 ***
 
@@ -31,7 +31,7 @@
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [GOG Games](https://gog-games.to/) - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
-* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com`/ Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [CG Games](https://www.cg-gamespc.com/) - Download
@@ -110,7 +110,7 @@
 * [⁠heyVR.io](https://heyvr.io/) - Browser VR Games / [Discord](https://discord.gg/tjbmKKH)
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
-* [Rec Room Revivals](https://rentry.co/FMHYB64#rec-room-revival) - Rec room Revival Servers
+* [Rec Room Revivals](https://rentry.co/FMHYB64#rec-room-revival) - Rec Room Revival Servers
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [SlimeVR](https://docs.slimevr.dev/) - DIY VR Full-Body Tracking System / Guides / [Discord](https://discord.gg/SlimeVR) / [GitHub](https://github.com/SlimeVR)
@@ -413,7 +413,7 @@
 * [⁠Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) - Super Mario Bros. Remake / [Discord](https://discord.com/invite/A68uRsnja3)
 * [⁠SMB Arena](https://www.smbarena.com/) - Super Mario Bros. 1 Mods
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Discord](https://discord.gg/GBXUa7NF2J)
-* [⁠Super Mario War](http://smwstuff.net/) - Multiplayer Deathmatch Style Super Mario. Bros. 
+* [⁠Super Mario War](http://smwstuff.net/) - Multiplayer Deathmatch Style Super Mario Bros. 
 * [⁠Mario Party Legacy](https://mariopartylegacy.com/forum/) - Mario Party Mods
 * [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
@@ -706,7 +706,7 @@
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
 * [PlayAnyPage](https://playanypage.com/) or [KickassApp](https://kickassapp.com/) - Turn Webpages into Games
-* [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/)- Snake Style Games
+* [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/) - Snake Style Games
 * [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
 * [Rayman Legends Beatbox](https://rentry.co/FMHYB64#rmb) - Browser Rayman Legends Beatbox
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
@@ -733,7 +733,7 @@
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
-* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
+* [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game
 * [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
@@ -998,7 +998,7 @@
 * [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
-* [War.app](https://war.app/) - RISK Clone
+* [War.app](https://war.app/) - Risk Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
 * [⁠Prince Chazz](https://princechazz.com/) - Chess-Style Roguelite
@@ -1108,7 +1108,7 @@
 
 ***
 
-## ▷ Pokemon
+## ▷ Pokémon
 
 * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_pokemon_tools)**
 * ⭐ **[PokéRogue](https://pokerogue.net/)** - Pokémon Roguelike / [Wiki](https://wiki.pokerogue.net/start) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49)

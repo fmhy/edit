@@ -100,7 +100,7 @@
 * [Gaultier Blog](https://gaultier.github.io/blog/x11_x64.html) - Learn x86-64 Assembly
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [namae](https://namae.dev/) - App Name Availability Check
-* [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
+* [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributors
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Slint](https://slint.dev) - GUI Development Tools / [GitHub](https://github.com/slint-ui/slint)
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
@@ -449,7 +449,7 @@
 
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
 * [Prettier](https://prettier.io/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
-* [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
+* [editorconfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
 * [Tokei](https://github.com/XAMPPRocky/tokei) - Code Statistics Tool
@@ -734,7 +734,7 @@
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
-* ⭐ **[PlayWright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
+* ⭐ **[Playwright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://extension.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
@@ -795,7 +795,7 @@
 * ⭐ **[Hugo](https://gohugo.io/)** - Static Site Generator
 * ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
 * ⭐ **[VitePress](https://vitepress.dev/)** - Static Site Generator
-* ⭐ **[Astro](https://astro.build/)** - Static Site Generator / [X](https://x.com/astrodotbuild) / [Discord](https://astro.build/chat) / [GitHub](https://github.com/withastro/astro)
+* ⭐ **[Astro](https://astro.build/)** - Static Site Generator / [X](https://x.com/astrodotbuild) / [Discord](https://discord.com/invite/grF4GTXXYm) / [GitHub](https://github.com/withastro/astro)
 * ⭐ **[Docusaurus](https://docusaurus.io/)** - Static Markdown Website Generators / [GitHub](https://github.com/facebook/docusaurus)
 * ⭐ **[Carrd](https://carrd.co/)** - Simple Website Builder
 * [Retype](https://retype.com/) - Static Markdown Website Generator / [GitHub](https://github.com/retypeapp/retype)
@@ -865,7 +865,7 @@
 * [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [StoryBook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
+* [Storybook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [Same.new](https://same.new/) - Copy Sites User-Interface Code
@@ -936,13 +936,13 @@
 * 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
 * ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [Geofetcher](https://geofetcher.appsinprogress.com/) or [GTmetrix](https://gtmetrix.com/) - Test Webpage Speed
 * ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
-* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
+* [LambdaTest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Pa11y](https://pa11y.org/), [⁠Accessibility Support](https://a11ysupport.io/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [⁠ADG](https://www.accessibility-developer-guide.com/) / [GitHub](https://github.com/Access4all/adg), [Accessibility Cheatsheet](https://moritzglantz.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
-* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
+* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate a Site's Carbon Footprint
 * [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
 * [Rankchart](https://rankchart.org/) - Optimization Reports
 * [Testmail](https://testmail.app/) - Site Signup Test
@@ -987,7 +987,7 @@
 * 🌐 **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** - Free Hosting Provider Index / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting)
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/deals/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePriace](https://www.siteprice.org/) - Domain Price Comparisons
+* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [⁠Pingbreak](https://pingbreak.com/) - Site Uptime Monitor / Notifications
@@ -1092,7 +1092,7 @@
 
 # ► Cybersecurity Tools
 
-* 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Check Technique Index
+* 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Checking Techniques Index
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors

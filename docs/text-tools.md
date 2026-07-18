@@ -88,7 +88,7 @@
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
-* [⁠Braille Tanslator](https://wecapable.com/braille-translator/) - Braille Translator
+* [⁠Braille Translator](https://wecapable.com/braille-translator/) - Braille Translator
 * [LingoJam](https://lingojam.com/) - Translator Creator
 
 ***
@@ -191,7 +191,7 @@
 * [Typing.com](https://www.typing.com/) or [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
 * [typing.academy](https://www.typing.academy/) or [⁠VocaType](https://vocatype.app/) - Typing Lessons
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
-* [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
+* [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colemak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions / [Discord](https://discord.gg/4KypVEM)

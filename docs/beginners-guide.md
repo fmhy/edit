@@ -2,9 +2,9 @@
 
 > How important is using an adblocker?
 
-Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages or popup tabs.
 
-For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
+For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
 
 For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
@@ -16,7 +16,7 @@ For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/a
 
 > How can I safely scan files, and determine if detections are false positives?
 
-Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
 
 Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
 
@@ -136,7 +136,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 > What is Port Forwarding? Do I need it?
 
-[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectability for torrents with fewer seeds.
+[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds.
 
 ***
 
@@ -162,6 +162,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
-* **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
+* **[Glossary / Terminology](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools

@@ -107,7 +107,7 @@
 
 ## ▷ Controller Tools
 
-* **Note** - Many third party PC controllers can be switched between Xinput and Direct input mode by holding home/menu/analog/mode button. It can fix compatibility issues in some cases.
+* **Note** - Many third party PC controllers can be switched between Xinput and DirectInput mode by holding home/menu/analog/mode button. It can fix compatibility issues in some cases.
 
 ***
 
@@ -150,7 +150,7 @@
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Vortex](https://www.nexusmods.com/vortex) - Mod Manager
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
-* [WabbaJack](https://www.wabbajack.org/) - Automated Modlist Installer / [Discord](https://discord.com/invite/wabbajack)
+* [Wabbajack](https://www.wabbajack.org/) - Automated Modlist Installer / [Discord](https://discord.com/invite/wabbajack)
 * [ModWorkshop](https://modworkshop.net/) - Game Mods / [Discord](https://discord.com/invite/Eear4JW)
 * [GameFront](https://gamefront.com/) - Game Mods / [Discord](https://discord.com/invite/gamefront)
 * [Video Game Mods](https://videogamemods.com/) - Game Mods / [Discord](https://discord.com/invite/C2JussB8hk)
@@ -390,7 +390,7 @@
 * [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
-* [Wallpaper EngineWorkshop Downloader](https://gitlab.com/steamautocracks/wallpaperengineworkshopdownloader)
+* [Wallpaper Engine Workshop Downloader](https://gitlab.com/steamautocracks/wallpaperengineworkshopdownloader)
 * [Steamworkshop.download](http://steamworkshop.download/) - Web-Based
 * [Skymods](https://catalogue.smods.ru) - Web-Based
 
@@ -745,7 +745,7 @@
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM) or [MCPEDL](https://mcpedl.com/) or [⁠BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
 * [MC Archive](https://mcarchive.net/) - Old Mods / [Discord](https://discord.com/invite/WuexGpP)
 * [FiberMC](https://www.fibermc.com/) - Fabric Mods Index / [Discord](https://discord.com/invite/dwh9y7D)
-* [⁠FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) - Feed The Best Wiki / [Discord](https://discord.gg/QsbEK52)
+* [⁠FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) - Feed The Beast Wiki / [Discord](https://discord.gg/QsbEK52)
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm)
 * [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX)
 * [⁠PackCrafter](https://packcrafter.net/) - Resource Pack Creator
@@ -862,7 +862,7 @@
 
 ***
 
-# ► Genre specific
+# ► Genre Specific
 
 ## ▷ MOBA Tools
 
@@ -898,7 +898,7 @@
 * [⁠Ultimate Frame Data](https://ultimateframedata.com/) - Move Database for Smash + Street Fighter 6
 * [⁠FightCore](https://www.fightcore.gg/) - Super Smash Bros. Melee Frame Data
 * [⁠Brawl Move Database](https://docs.google.com/spreadsheets/d/1_5NFTe3dvxxC6MMlsI49mnC5m7D3_y5UoGZ7mxPje1I/) - Super Smash Bros. Brawl Frame Data
-* [FighterCenter](https://fightercenter.net/) - Street Fight 6 Move Databases
+* [FighterCenter](https://fightercenter.net/) - Street Fighter 6 Move Databases
 * [⁠Wavu](https://wavu.wiki/) / [Discord](https://discord.com/invite/86UFj8GEcC), [Okizeme](https://okizeme.gg/) or [TekkenDocs](https://tekkendocs.com/) - Tekken Game Guides / Move Databases
 * [⁠EWGF](https://ewgf.gg/) - Tekken 8 Character + Player Stats / [Discord](https://discord.com/invite/EUEnH99har)
 * [Dream Cancel](https://dreamcancel.com/wiki/) - SNK Fighting Game Wiki / Info / [Discord](https://discord.gg/gAYf5cK)
@@ -1090,13 +1090,13 @@
 
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
-* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
+* ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [Odamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
 * [Classic DOOM](https://classicdoom.com/) - Doom Console Port Encyclopedia / Documents
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads), [DoomsHack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads), [Doomshack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 

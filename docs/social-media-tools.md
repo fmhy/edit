@@ -24,7 +24,7 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
-* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer
+* [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
@@ -195,7 +195,7 @@
 ***
 
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
-* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloaders / [Discord](https://discord.gg/rSzQwRvGnE)
+* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloader / [Discord](https://discord.gg/rSzQwRvGnE)
 * [⁠Redvid](https://redvid.io/) - Reddit Media Downloader 
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
@@ -251,7 +251,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Stickers / Emojis
 
 ***
 

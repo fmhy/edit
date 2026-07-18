@@ -463,12 +463,12 @@
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
 * [⁠AquaReader](https://aquareader.net/) - Manhua
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
+* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
 * [MP4DIRECTS](https://mp4directs.com/) or [⁠jnovels](https://jnovels.com/) - Manga Downloads
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Manga App / / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Manga App / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [Seanime](https://seanime.app/) - Self-Hosted Manga App / [Discord](https://discord.com/invite/3AuhRGqUqh)
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Koharu](https://koharu.rs/) / [GitHub](https://github.com/mayocream/koharu), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
@@ -544,7 +544,7 @@
 * [E-Books Directory](https://www.e-booksdirectory.com/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Books / Journals
-* [JSTor](https://www.jstor.org/) - Books / Journals
+* [JSTOR](https://www.jstor.org/) - Books / Journals
 * [UCL Press](https://www.uclpress.co.uk/) - Books / Journals
 * [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection
 * [2012books](https://2012books.lardbucket.org/) - Creative Commons Books
@@ -683,7 +683,7 @@
 * ⭐ **[Sci-Hub](https://sci-hub.ru/)**, [2](https://sci-hub.red/) - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/en/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[arXiv](https://arxiv.org/)** or [ChinaRxiv](https://chinarxiv.org/) - Research Papers
-* ⭐ **arXiv Tools** - [Chatbot](https://www.alphaxiv.org/) / [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Chatbot](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
+* ⭐ **arXiv Tools** - [Chatbot](https://www.alphaxiv.org/) / [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
 * ⭐ **[Citrus Search](https://citrus-search.com/)** - Find Similar Research Papers
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
@@ -747,7 +747,7 @@
 * [⁠JMIR Publications](https://jmirpublications.com/) - Health / Medicine Journals 
 * [⁠PubMed Central](https://pmc.ncbi.nlm.nih.gov/) - Biomedical / Life Science Journals
 * [medRxiv](https://www.medrxiv.org/) - Medicine Preprints
-* [bioRvix](https://www.biorxiv.org/) - Biology Preprints
+* [bioRxiv](https://www.biorxiv.org/) - Biology Preprints
 * [Bioline](https://www.bioline.org.br/) - Bioscience Journals
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
 * [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments 
@@ -793,7 +793,7 @@
 * [MDPI](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays
-* [E-International Relations](https://www.e-ir.info/) - International Relation Articles
+* [E-International Relations](https://www.e-ir.info/) - International Relations Articles
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
@@ -803,7 +803,7 @@
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://nap.nationalacademies.org/) - Reports
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
-* [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
+* [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einstein's Collected Papers Archive
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
 * [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database

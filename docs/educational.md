@@ -295,7 +295,8 @@
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm) or [NIST](https://webbook.nist.gov/chemistry/) - Chemistry Wikis
 * [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor), [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html) or [PeriodicVideos](http://www.periodicvideos.com/) - Chemistry Lessons
 * [ChemistrySteps](https://www.chemistrysteps.com/), [⁠ChemQuiz](https://chemquiz.net/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides* [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [⁠Compound Interest](https://www.compoundchem.com/infographics/) - Chemistry Infographics
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
@@ -475,7 +476,7 @@
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [ExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - Exoplanet Database
 * [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
-* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image quar fViewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
+* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) / [GitHub](https://github.com/Stellarium/stellarium) - Virtual Stellariums
@@ -946,7 +947,7 @@
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](https://expertcuber.by/f2l.php) - Algorithm-Specific Trainers
-* [BlindTrainer](https://blindtrainer.com/) - Blindfolded Rubinks Trainer
+* [BlindTrainer](https://blindtrainer.com/) - Blindfolded Rubik's Trainer
 * [Hypercubing](https://hypercubing.xyz/) - Hypercubing Wiki
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer
@@ -1618,7 +1619,7 @@
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
 * [Web Game Dev](https://www.webgamedev.com/) - Game Dev Guides / [Discord](https://discord.com/invite/5Z28wjTeyh)
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Dev Tutorials
-* [⁠Vulkan Guide](https://vkguide.dev/) - vulkan Learnin Guide
+* [⁠Vulkan Guide](https://vkguide.dev/) - Vulkan Learning Guide
 * [Level Design Book](https://book.leveldesignbook.com/) - Level Design Guide / Book
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [Shadertoy](https://www.shadertoy.com/) - Real-Time Shader Dev Platform

@@ -328,7 +328,7 @@
 ## ▷ Root / Flash
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.pages.dev/)** - Rooted App Index / Guides / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
-* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootlocker Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
+* 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootloader Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
@@ -1084,7 +1084,7 @@
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
 * [Tubular](https://github.com/polymorphicshade/Tubular) - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) or [⁠SkyTubeLegacy](https://github.com/SkyTubeTeam/SkyTubeLegacy) - YouTube Player
-* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / Bitchute / SponsorBlock / ReturnYTDislikes
+* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / BitChute / SponsorBlock / ReturnYTDislikes
 * [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) - YouTube Player
 
 ***
@@ -1356,7 +1356,7 @@
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming
 * [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
 * [Music Speed Changer](https://apps.apple.com/us/app/music-speed-changer/id1595494271) - Audio Multi-Tool / Equalizer
-* [⁠ByeTunes](https://github.com/EduAlexxis/ByeTunes) - Bypass iTunes + Directs Add Music / Ringtones
+* [⁠ByeTunes](https://github.com/EduAlexxis/ByeTunes) - Bypass iTunes + Directly Add Music / Ringtones
 * [stats.fm](https://stats.fm/) - Spotify Listening Stats
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 

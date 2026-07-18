@@ -50,7 +50,7 @@
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
 * [Mirlo](https://mirlo.space/) - Free Music Release Platform
 * [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
-* [Audius](https://audius.co/) - User Made Music
+* [Audius](https://audius.co/) - User-Made Music
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [LostMyspace](http://lostmyspace.com/) or [Mydora](https://mydora.restorativland.org/) - Lost Myspace Songs
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
@@ -93,7 +93,7 @@
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [i78s](https://i78s.org/), [Archeophone](https://www.archeophone.org/html/languages/en/index.en.html), [CLPGS](https://www.clpgs.org.uk/) or [Tinfoil](https://www.tinfoil.com/) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
-* [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
+* [Russian Records](https://www.russian-records.com/) - Russian Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 
 ***
@@ -140,7 +140,7 @@
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 * ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
-* [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search 
+* [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
 * [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
 * [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
@@ -350,7 +350,7 @@
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
 * [Chart My Music](https://www.chartmymusic.com/spotify/) - Generate Spotify Collage
 * [Tierify](https://tierify.app/) - Create Spotify Tier Lists
-* [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
+* [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Art
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
 * [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV 
@@ -383,7 +383,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
-* ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / Soundcloud / saavn-dl / FLAC
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / SoundCloud / saavn-dl / FLAC
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
@@ -424,7 +424,7 @@
 
 ## ▷ Telegram Bots
 
-* [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / Soundcloud / VK / 320kb MP3 / FLAC / [Support](https://t.me/DeezerMusicNews)
+* [DeezerMusicBot](https://t.me/DeezerMusicBot) - Deezer / SoundCloud / VK / 320kb MP3 / FLAC / [Support](https://t.me/DeezerMusicNews)
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)
 * [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Apple / YouTube / FLAC / 25 Daily
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3
@@ -484,7 +484,7 @@
 * [zvu4no](https://zvu4it.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [SongStems](https://songstems.net/) - STEM Files
-* [Geocities Midis](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [FreeMIDI](https://freemidi.org/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
+* [Geocities MIDIs](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [FreeMIDI](https://freemidi.org/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Music Hoarders](https://discord.gg/kQUQkuwSaT) - Music Hoarding Community / [Wiki](https://musichoarders.xyz/)
 
 ***
@@ -526,7 +526,7 @@
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
 * [FoggyNotion](https://foggynotion-flac.blogspot.com/) - Classic Music / MP3 / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
-* [FlatbackAndClassical](https://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
+* [FlatblackAndClassical](https://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
 * [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 * [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
@@ -1043,7 +1043,7 @@
 * [r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted Samples
 * [⁠SmoredBoard](https://www.smoredboard.com/) / [Discord](https://discord.gg/bkYY39VgQ2), [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/), [Amplitude Soundboard](https://amplitude-soundboard.dan0v.com/) / [GitHub](https://github.com/dan0v/AmplitudeSoundboard) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [101soundboards](https://www.101soundboards.com/), [Sound Instants](https://soundinstants.com/), [SoundboardGuys](https://soundboardguys.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
-* [The Sounds Resource](https://sounds.spriters-resource.com/) - Game Sounds Effects
+* [The Sounds Resource](https://sounds.spriters-resource.com/) - Game Sound Effects
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://www.bfxr.net/) / [GitHub](https://github.com/increpare/bfxr2), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) or [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts

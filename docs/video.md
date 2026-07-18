@@ -384,7 +384,7 @@
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - San Francisco TV Archive
 * [HDclump](https://hdclump.com/) - Documentaries / Cooking / Gardening
 * [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
-* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Show Replays / [Mirrors](ttps://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
+* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Show Replays / [Mirrors](https://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
 * [r/Panelshow](https://www.reddit.com/r/panelshow/) - Panel Shows
 * [Taskmaster](https://rentry.co/bbbr4cfr) - Full Taskmaster Episodes
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
@@ -513,7 +513,7 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [TVAtlas](https://tvatlas.app/) - TV
 * [DistroTV](https://distro.tv/) - TV
-* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Shows / [Mirrors](ttps://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
+* [AwardStreams](https://awardstreams.pages.dev/), [2](https://mirror.awardstreams.link/) - Live Award Shows / [Mirrors](https://awardstreams.link/) / [X](https://x.com/AwardStreamLive) / [Telegram](https://t.me/+i7T1CzmIYL00Mjhh)
 * [Puffer](https://puffer.stanford.edu/) - San Fran TV / Requires Sign-Up
 * [cytube](https://cytu.be/) - Random Streams
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
@@ -690,7 +690,7 @@
 * [Luna](https://github.com/cranci1/Luna) - Streaming App / tvOS / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * [Fusion](https://fusionapp.dev/) - Streaming App / tvOS / Extension-Based / [Discord](https://discord.gg/frkaK2B2Y9)
 * [Apps2Samsung](https://github.com/Apps2Samsung) - Tizen Device Sideloading Tool / [Packages](https://github.com/Apps2Samsung/tizen-community-packages)
-* [⁠MuTube](https://github.com/Exaphis/mutube), [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee)- Apple TV YouTube Apps
+* [⁠MuTube](https://github.com/Exaphis/mutube), [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - Apple TV YouTube Apps
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreak
 * [ATVLoadly](https://github.com/bitxeno/atvloadly) - Apple TV Sideloading
 
@@ -698,7 +698,7 @@
 
 ## ▷ Android TV / Firestick
 
-* **Note** - Note that the Firestick Select cannot run any Android Apps.
+* **Note** - The Firestick Select cannot run any Android Apps.
 
 ***
 
@@ -817,7 +817,6 @@
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / Anime / Right Click to Save
 * [TV Shows](https://tvshows.ac/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 1080p
 * [HDMoviez](https://www.hdmoviez.name/) - Movies / TV
 * [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_new)
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p

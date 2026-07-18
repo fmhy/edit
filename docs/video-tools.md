@@ -158,10 +158,10 @@
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) or [⁠StreamRecorder](https://streamrecorder.io/) - Live Stream Recorder
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
 * [⁠Moblin](https://github.com/eerimoq/moblin) - IRL Live Streaming App / iOS
-* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast), [OwnCast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
+* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
@@ -211,7 +211,7 @@
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
-*[GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
+* [GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [SMTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
@@ -331,7 +331,7 @@
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
-* [SyncLounce](https://synclounge.tv/) - Media Sync
+* [SyncLounge](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
 * [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer

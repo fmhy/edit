@@ -19,7 +19,7 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com//) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
@@ -459,9 +459,9 @@
 
 ## TypeScript Tools
 
-* [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
-* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - TypeScript Cheatsheet for React Devs
+* [Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
+* [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
 * [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
 

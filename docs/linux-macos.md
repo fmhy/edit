@@ -6,7 +6,7 @@
 
 # ► Linux Guides
 
-* **Note** - Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
+* **Note** - Keep in mind that install guides can usually be found on each distro's doc page. You can find doc pages on each distro's site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
 
 ***
 
@@ -61,7 +61,7 @@
 
 # ► Linux Distros
 
-* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
+* **Note** - We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. Keep in mind that install guides can usually be found on each distro's doc page. You can find doc pages on each distro's site, or through their [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity) pages.
 
 ***
 
@@ -326,7 +326,7 @@
 * [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction
 * [⁠lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling for Linux
-* [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
+* [vkBasalt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
@@ -361,7 +361,7 @@
 * [WhoAmI Project](https://owerdogan.github.io/whoami-project) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
 * [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing Tools
-* [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
+* [Googerteller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
 
@@ -424,7 +424,7 @@
 * [⁠LXD UI](https://github.com/canonical/lxd-ui) - Linux Container + Virtual Machine Manager
 * [Proxmox](https://www.proxmox.com/) - Self-Hosted Server Tools / Virtual Environment
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
-* [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
+* [Docker-Jackett](https://github.com/linuxserver/docker-jackett) - Docker Jackett Container
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
@@ -442,11 +442,11 @@
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
-* ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm/) / [Source Code](https://codeberg.org/ranger/pages), [⁠broot](htttps://dystroy.org/broot) / [GitHub](https://github.com/Canop/broot), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [walk](https://github.com/antonmedv/walk) or [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal File Managers
+* ⭐ **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm/) / [Source Code](https://codeberg.org/ranger/pages), [⁠broot](https://dystroy.org/broot) / [GitHub](https://github.com/Canop/broot), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [walk](https://github.com/antonmedv/walk) or [Joshuto](https://github.com/kamiyaa/joshuto) - Terminal File Managers
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - Disk Usage Analyzers / GUI
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers / Search
-* [The Filesystem Hierarchy Standard](https://i.ibb.co/Mx53xj3R/image.png)), [2](https://files.catbox.moe/2390ha.png), [3](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
+* [The Filesystem Hierarchy Standard](https://i.ibb.co/Mx53xj3R/image.png), [2](https://files.catbox.moe/2390ha.png), [3](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
 * [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers / Compression
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
@@ -636,7 +636,7 @@
 * [SD Buddy](https://github.com/breadthe/sd-buddy), [CHARL-E](https://www.charl-e.com/) or [Swift Core ML Diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Stable Diffusion Apps
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
 * [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
-* [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [AnimeBox](https://www.animebox.es/) - Booru Client
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL / Anilist / Kitsu Lists
 * [Magit!](https://magit.vc/) - Git Text-Based UI
@@ -772,7 +772,7 @@
 * [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
 * [Kextviewr](https://objective-see.org/products/kextviewr.html) - View All Kernel Modules
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
-* [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
+* [Tunnelblick](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
 * [Status](https://status.app/) - Encrypted Messaging Client
 
