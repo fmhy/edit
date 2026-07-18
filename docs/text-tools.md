@@ -296,7 +296,6 @@
 * [KiloDoc](https://www.kilodoc.com/) - Cloud Saves
 * [TinyList](https://tinylist.app/) - Cloud Saves
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
-* [GhostText](https://ghosttext.fregante.com/) - Cloud Saves
 * [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
 
 ***

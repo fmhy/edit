@@ -743,7 +743,7 @@
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
-* [Vexle](https://vexle.org/) - Daily Flag Drawing Game
+* [Vexle](https://vexle.org/) or [Vexle.net](https://vexle.net/) - Daily Flag Drawing Game
 
 ***
 
