@@ -233,7 +233,7 @@
 ***
 
 ## ▷ Online PDF Toolkits
-
+* ⭐ [PDFWix](https://www.pdfwix.com/) - Client-Side / [https://github.com/YOUR_HANDLE/pdfwix](https://github.com/YOUR_HANDLE/pdfwix)
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
