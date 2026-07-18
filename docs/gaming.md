@@ -127,6 +127,7 @@
 * [Gamdie](https://gamdie.com/) - Indie Games / [Discord](https://discord.gg/cDKH3R4nR2)
 * [DigiPen](https://games.digipen.edu/) - Indie Games
 * [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [⁠WFGames](https://wfgames.net/) - Weird itch.io Games
 * [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
 
 ***
@@ -229,7 +230,7 @@
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
 * [⁠Hyper Dragon Ball Z](https://discord.gg/W85hmYcJB9) - Fan-Made Dragon Ball Z Inspired Fighting Game / Mugen + Ikemen GO
 * [Pac-Man](https://github.com/masonicGIT/pacman) - Pac-Man with Added Features
-* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
+* [YARG](https://yarg.in/) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r) / [GitHub](https://github.com/YARC-Official)
 * [⁠YAVSRG (Interlude)](https://www.yavsrg.net/) - Rhythm Game Engine / [Discord](https://discord.com/invite/tA22tWR)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone / [GitHub](https://github.com/itgmania/itgmania)
@@ -248,7 +249,7 @@
 ## ▷ Revival Projects
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
-* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvments
+* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
@@ -280,6 +281,7 @@
 * [NetplayFinder](https://www.netplayfinder.com/) - Find Active Emulator Netplay Sessions / [Discord](https://discord.com/invite/SkRE39MGr7)
 * [Switch Emulation](https://rentry.co/FMHYB64#switch-emulation) - Switch Emulator Setup Guides
 * [Wiki of Axekin](https://wiki.axekin.com/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
+* [⁠Retro Game Corps](https://retrogamecorps.com/) - Console / Handheld Emulator Guides 
 * [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Emulation Guides⁠
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
@@ -392,7 +394,7 @@
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
-* [RomSim](https://romsim.com/) - ROMs / Switch
+* [RomSim](https://romsim.net/) - ROMs / Switch
 * [SwitchROMS](https://switchroms.io/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch / Use Adblock
@@ -502,12 +504,13 @@
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](https://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
+* [⁠Squishy Billiards](https://squishybilliards.com/) - Daily Billiards Puzzle Game / [Discord](https://discord.gg/fkRCcvkhZh)
 * [⁠Pips](https://www.nytimes.com/games/pips) - Daily Domino Puzzle
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [⁠Cyadonia](https://cyadonia.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) / [Discord](https://discord.com/invite/Hg6zVmTJeP) - Block Puzzles
-* [⁠Stillgrid](https://stillgrid.app/) or [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku + Sudoku Varients
+* [⁠Stillgrid](https://stillgrid.app/) or [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku + Sudoku Variants
 * [UsDoku](https://www.usdoku.com/) - Multiplayer Sudoku
 * [⁠Penpa+](https://swaroopg92.github.io/penpa-edit/) - Create / Solve Pencil Sudokus + Puzzles
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
@@ -642,6 +645,7 @@
 * [SparkChess](https://www.sparkchess.com/) - Chess Platform
 * [Chesses](https://pippinbarr.com/chesses/), [TheChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
+* [⁠Totally Normal Chess](https://chesschess.horse/) - Random-Rules Chess
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
 * [⁠Blindfold Chess](https://www.blindfold-chess.online/) - Play Blindfold Chess Against Stockfish
@@ -724,6 +728,7 @@
 * [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
+* [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Requires Sign-Up
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
@@ -784,6 +789,7 @@
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
+* [TIC-80 Games](https://tic80.com/play?cat=0&sort=2) - TIC-80 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
@@ -904,6 +910,7 @@
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
 * [Survev.io](https://survev.io/), [ZombsRoyale.io](https://zombsroyale.io/) or [Suroi](https://suroi.io/) / [Discord](https://discord.com/invite/j8pPtMa843) / [GitHub](https://github.com/HasangerGames/suroi) - Top-Down Battle Royale / Survev.io Based / [Discord](https://discord.gg/75RAK3p3K2)
 * [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Games
+* [⁠Quakelike](https://leereilly.net/quakelike/) - Quake w/ Procedurally Generated Levels / [GitHub](https://github.com/leereilly/quakelike)
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [⁠Voxiom](https://voxiom.io/) - Minecraft Inspired PVP FPS / [Discord](https://discord.gg/GBFtRcY)
 * [Debug Survivor](https://debug-survivor.leek.io/) - Dev Themed Roguelike Shooter
@@ -994,7 +1001,7 @@
 * [War.app](https://war.app/) - RISK Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
-* [⁠Prince Chazz](https://princechazz.com/) - Chess-Style Rouguelite
+* [⁠Prince Chazz](https://princechazz.com/) - Chess-Style Roguelite
 
 ***
 

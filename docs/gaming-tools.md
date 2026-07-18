@@ -143,6 +143,7 @@
 * ↪️ **[GTA Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_gta_tools)**
 * ⭐ **[ModDB](https://moddb.com/)** - Game Mods / [Discord](https://discord.gg/5DTa2tf)
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** - Game Mods / Requires Sign-Up / [Bulk Downloader](https://greasyfork.org/en/scripts/483337) / [Redirect Skip](https://greasyfork.org/en/scripts/394039) / [Download Archived Mods](https://greasyfork.org/scripts/479389), [2](https://rentry.org/downloadingdeletednexusmods) / [Discord](https://discord.com/invite/nexusmods)
+* ⭐ **[Thunderstore](https://thunderstore.io/)** - Unity Game Mods / Mod Manager / [Discord](https://discord.thunderstore.io/)
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
 * [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
@@ -162,7 +163,6 @@
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
 * [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
-* [Thunderstore](https://thunderstore.io/) - Unity Game Mods / [Discord](https://discord.thunderstore.io/)
 * [Gale](https://github.com/Kesomannen/gale/) or [r2modman](https://github.com/ebkr/r2modmanPlus) / [Discord](https://discord.thunderstore.io/) - Thunderstore / BepInEx Unity Mod Managers
 * [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
@@ -275,7 +275,7 @@
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [⁠Backwards Compatible](https://www.backwards-compatible.com/) - PS4 / PS5 Backwards Compatibility Database 
-* [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Combability Database
+* [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [VNDB](https://vndb.org/) - Visual Novel Database
@@ -454,7 +454,7 @@
 * [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape / [Discord](https://discord.com/invite/osrs)
 * [RuneLite](https://runelite.net/) - Old School RuneScape Client w/ Plugin Support / [Discord](https://runelite.net/discord)
 * [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
-* [Luna Mulitplayer](https://d-mp.org/) - Kerbal Space Program Multiplayer Mod
+* [Luna Multiplayer](https://d-mp.org/) - Kerbal Space Program Multiplayer Mod
 
 ***
 
@@ -466,7 +466,7 @@
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds / Requires Sign-Up
-* [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
+* [OldUnreal](https://www.oldunreal.com/) - Unreal Tournament Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [⁠Warehouse](https://wiki.aiwarehouse.xyz/) - Transformers, DJ Hero, Blur, Grid, GH3, & Singularity Multiplayer
 * [⁠ChromieCraft](https://chromiecraft.com/en/) - F2P WoW Private Server / No Pay-to-Win / [Discord](https://discord.gg/3YaAywYDN7)
@@ -480,7 +480,7 @@
 * [CryMP](https://crymp.org/) - Crysis 1 Multiplayer Revival / [Discord](https://discord.gg/kY8hb2n) / [GitHub](https://github.com/crymp-net/)
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
-* [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) - PvZ Garden Warefare 1 + 2 and Battle for Neighborville Private Server Browser
+* [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) - PvZ Garden Warfare 1 + 2 and Battle for Neighborville Private Server Browser
 * [OpenExonaut](https://rentry.co/FMHYB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project / [Discord](https://discord.gg/GqxxgBj)
 * [⁠Carbon](https://discord.gg/52d8ydB5dz) - Self-Hostable Private Fortnite Servers / 1.7.2-30.00 & 30.10+ Via Proxy
@@ -738,7 +738,7 @@
 ## ▷ Mod / Resource Packs
 
 * 🌐 **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
-* 🌐 **[CurseForge Modpacks](https://www.curseforge.com/minecraft/search?class=modpacks)** - Minecraft Mods / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
+* 🌐 **[CurseForge Modpacks](https://www.curseforge.com/minecraft/search?class=modpacks)**  / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge) or [Modrinth Modpacks](https://modrinth.com/discover/modpacks) - Minecraft Mods
 * 🌐 **[Not Essential](https://alternatives.microcontrollers.dev/)** - List of Alternatives to Essential / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
@@ -765,8 +765,9 @@
 * [⁠MineGIT](https://modrinth.com/mod/minegit) - Minecraft Cloud Saves / World Sync / [GitHub](https://github.com/ModMonster/MineGIT)
 * [quark](https://quarkmod.net/) - Add Vanilla-Like / QoL Features / [GitHub](https://github.com/VazkiiMods/Quark)
 * [Voxy](https://modrinth.com/mod/voxy) / [GitHub](https://github.com/MCRcortex/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [GitLab](https://gitlab.com/distant-horizons-team/distant-horizons) or [Bobby](https://modrinth.com/mod/bobby), [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [GitHub](https://github.com/Johni0702/bobby) - Lightweight Distance Rendering Mods
+* [Sodium](https://modrinth.com/mod/sodium) / [GitHub](https://github.com/CaffeineMC/sodium) - Rendering Mod
+* [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Rendering Mod / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod) 
 * [Nvidium](https://modrinth.com/mod/nvidium) - Nvidia OpenGL Rendering Mod / [GitHub](https://github.com/MCRcortex/nvidium)
-* [VulkanMod](https://modrinth.com/mod/vulkanmod) - Vulkan Rendering Mod / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod)
 * [ModMenu](https://modrinth.com/mod/modmenu) / [GitHub](https://github.com/TerraformersMC/ModMenu) or [PAX](https://github.com/maradotwebp/pax) / [Discord](https://discord.com/invite/GQ4MTquzyX) - Minecraft Mod Managers
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - MC Modding Community / [Discord](https://discord.com/invite/moddedmc)
 * [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) - GUI Plugin Builder / [Discord](https://discord.gg/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit)
@@ -830,7 +831,7 @@
 * 🌐 **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader Comparisons and Resources / [Discord](https://discord.com/invite/RpzWN9S)
 * ⭐ **[NameMC](https://namemc.com/)** / [Discord](https://discord.gg/NameMC), [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [Crafty](https://crafty.gg/) - Minecraft Name & Skin Availability Trackers
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
-* [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
+* [Iris Shaders](https://modrinth.com/mod/iris) - Shader Mod for Minecraft
 * [MinecraftSkins](https://www.minecraftskins.com/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
 * [MSkins](https://mskins.net/en) - Skin Grabber
 * [Ely.by](https://ely.by/) - Skin System / Authorization
@@ -1076,9 +1077,9 @@
 * [FiveM](https://fivem.net/) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
-* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvments
+* [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
 * [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SA / [Discord](https://discord.gg/YSyasDa)
-* [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC
+* [Vice City: Multiplayer](https://vc-mp.org/) - Multiplayer GTA:VC
 * [GTA Manager](https://func-vehicle.github.io/gtamanager/) - GTA V Business Manager
 * [GTA Downgraders](http://downgraders.rockstarvision.com/) - GTA Game Downgraders
 * [⁠GTASnP](https://gtasnp.com/) - Upload + Browse GTA Save Files 

@@ -211,6 +211,7 @@
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
 * [XiaZai001](https://xiazai001.org/) - Video / Audio
+* [⁠1Lou](https://www.1lou.me/) - Video
 * [seedhub](https://www.seedhub.cc/) - Video
 * [btbtla](https://www.btbtla.com/) - Video
 * [ACG.rip](https://acg.rip/) - Anime / Audio
@@ -444,7 +445,7 @@
 ## ▷ Downloading / Téléchargement
 
 * [WawaCity](https://www.wawacity.irish/) - Movies / TV / [Status](https://wawacity-info.com/) / [Telegram](https://t.me/Wawacityofficiel)
-* [Extreme-Down](https://www.extreme-down.fit/) - Video / Audio / Books
+* [Extreme-Down](https://www.extreme-down.poker/) - Video / Audio / Books
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
 * [Emurom](https://www.emurom.net/) - Retro ROMs
@@ -556,7 +557,7 @@
 
 * ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
-* ⭐ **[S.TO](https://s.to/)**, [2](https://serienstream.to/), [3](https://serien.domains/) - TV / Anime / Dub / 720p
+* ⭐ **[S.TO](https://serienstream.to/)**, [2](https://serien.domains/) - TV / Anime / Dub / 720p
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * [KinoZ](https://www21.kinox.to/) - Movies / TV / Anime
@@ -687,6 +688,7 @@
 * [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
 * [TalkingHands](https://talkinghands.co.in/) - Indian Sign Language Dictionary / Learning
 * [IndianSignLanguage](https://indiansignlanguage.org/) - Indian Technical Sign Language Dictionary
+* [RailRadar](https://railradar.in/railradar), [2](https://www.railjournal.in/) - India Live Train Map
 
 ## ▷ Downloading
 
@@ -913,7 +915,7 @@
 
 ## ▷ Reading / 読書
 
-* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** or **[EverythingMoe Raws](https://everythingmoe.com/section/manhwa?filter=Raws)** - List of Raw Manga Sites
+* 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** or **[EverythingMoe Raws](https://everythingmoe.com/section/manga?filter=Raws)** - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
 * [DLRaw](https://dlraw.app/), [2](https://manga-zip.tv/), [3](https://manga-zip.is/), [4](https://ww0.13dl.app/), [5](https://ww13.manga-zip.app/) - Manga
 * [Raw-Zip](https://raw-zip.com/) - Manga
@@ -1034,7 +1036,7 @@
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [AnimeSub.info](http://animesub.info/) - Anime Subtitles
-* [MineWiki](https://minewiki.pl/) - Mincraft Wiki
+* [MineWiki](https://minewiki.pl/) - Mincraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
 * [slownikpjm](https://www.slownikpjm.uw.edu.pl/) - Polish Sign Language Dictionary
 
 ## ▷ Downloading / Pobieranie
@@ -1076,7 +1078,6 @@
 * [player.pl](https://player.pl/) - Free w/ Ads
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [docchi](https://docchi.pl/) - Anime / Sub / 1080p / [Kodi Addon](https://github.com/skoruppa/plugin.video.docchipl)
-* [animedesu](https://animedesu.pl/) - Anime
 * [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
 * [FrixySubs](https://frixysubs.pl/) - Anime / Sub / 1080p
 * [Nana Subs](https://nanasubs.com/) - Anime / Sub / 1080p
@@ -1255,7 +1256,6 @@
 * [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies / TV / Sub / 720p
 * [luminsangelsseriale](https://luminsangelsseriale.com/) - Movies / TV
 * [DozaAnimată](https://www.dozaanimata.net/) - Anime / Cartoons / Sub / Dub / 720p
-* [Play RTR](https://www.rtr.ch/play/tv) - Free w/ Ads
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles
 
@@ -1264,7 +1264,7 @@
 # ► Russian / Русский
 
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
-* [subtitry](https://subtitry.ru/) or [DXP](https://dxp.ru/) - Subtitles
+* [subtitry](https://subtitry.net/) or [DXP](https://dxp.ru/) - Subtitles
 * [TGStat](https://tgstat.ru/) - Telegram Channel Stats
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
 * [ScreenChat](https://screenchat.live/) - Create Fake Texts
@@ -1855,10 +1855,10 @@
 * [NRK TV](https://tv.nrk.no/) - Norwegian / Stream / Movies / TV / Documentaries / Sub / 1080p
 * [Nasjonalbiblioteket](https://www.nb.no/en/digitizing-at-the-national-library/) - Norwegian / Books / Journals / Magazines / Maps / Music Sheets
 * [Tegnordbok](https://www.minetegn.no/Tegnordbok-2016/) - Norwegian Sign Language Dictionary
+* [Play RTR](https://www.rtr.ch/play/tv) - Romansh / Free w/ Ads Streaming
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Anime Balkan](https://animebalkan.gg/) - Serbian / Streaming / Anime / 1080p
 * [gledajcrtace](https://www.gledajcrtace.rs/) - Serbian / Dubbed Cartoons
-* [iptvm3u](https://iptvm3u.vercel.app/) - Serbian / Live TV / Radio
 * [Singapore Sign](https://blogs.ntu.edu.sg/sgslsignbank/) - Singapore Sign Language Dictionary
 * [subsl](https://subsl.top/) - Sinhalese / Streaming / Movies / TV / Anime
 * [baiscopedownloads](https://baiscopedownloads.link/) - Sinhalese / Download / Movies / TV

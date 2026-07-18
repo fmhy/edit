@@ -249,7 +249,7 @@
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://pipewire.org/) - Improved Video / Audio Handling / Multimedia API / [Effects](https://github.com/wwmm/easyeffects) / [TUI Audio Mixer](https://github.com/tsowell/wiremix)
-* [Werman](https://github.com/werman/noise-suppression-for-voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
+* [Werman](https://github.com/werman/noise-suppression-for-voice), [⁠HushMic](https://github.com/Fovty/hushmic) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
 * [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger
@@ -452,7 +452,7 @@
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [lnav](https://lnav.org/) - Log File Viewer / Analyzer / [Discord](https://discord.gg/erBPnKwz7R) / [GitHub](https://github.com/tstack/lnav)
-* [Pika Backup](https://gitlab.gnome.org/World/pika-backup/) or [RecoverPy](https://github.com/PabloLec/RecoverPy) - File Backup / Reocovery Tools
+* [Pika Backup](https://gitlab.gnome.org/World/pika-backup/) or [RecoverPy](https://github.com/PabloLec/RecoverPy) - File Backup / Recovery Tools
 * [fcp](https://github.com/Svetlitski/fcp) - Improved Linux File Copy
 * [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations

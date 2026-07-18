@@ -131,7 +131,7 @@
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [BelowTheSurface](https://belowthesurface.amsterdam/en) - Archeological Object DB of Amsterdam
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
-* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
+* [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactive Panorama
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
@@ -571,7 +571,7 @@
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews / [X](https://x.com/OscarLiang1)
 * [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
 * [⁠My Balsa & Glass Workshop](https://balsaandglass.com/Balsa_Builds.html) - RC Model Builds
-* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software / [GitHub](https://github.com/OpenDroneMap/)
+* [OpenDroneMap](https://www.opendronemap.org/) / [GitHub](https://github.com/OpenDroneMap/) or [WebODM](https://webodm.org/) - Drone Mapping Software 
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -581,10 +581,10 @@
 
 * [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
-* [⁠Pheonix RC](https://www.rc-thoughts.com/phoenix-sim/) - RC Plane + Helicopter Simulator
+* [Phoenix RC](https://www.rc-thoughts.com/phoenix-sim/) - RC Plane + Helicopter Simulator
 * [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
 * [CKAN](https://github.com/KSP-CKAN/CKAN) - Kerbal Space Program Mod / Dependency Manager
-* [Luna Mulitplayer](https://lunamultiplayer.com/) - Kerbal Space Program Multiplayer Mod / [Discord](https://discord.gg/wKVMhWQ) / [GitHub](https://github.com/LunaMultiplayer/LunaMultiplayer)
+* [Luna Multiplayer](https://lunamultiplayer.com/) - Kerbal Space Program Multiplayer Mod / [Discord](https://discord.gg/wKVMhWQ) / [GitHub](https://github.com/LunaMultiplayer/LunaMultiplayer)
 * [⁠SatModeler](https://satmodeler.com/) - Satellite Mission Simulation Software / Signup Required
 
 ***
@@ -741,7 +741,8 @@
 * [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
 ***
 
@@ -756,6 +757,7 @@
 * [OEC Games](https://oec.world/en/games) - Trade Data Games
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
+* [⁠OilPrice](https://oilprice.com/) - Oil / Energy Price Tracking + News
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
@@ -1043,7 +1045,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
@@ -1144,6 +1146,7 @@
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan), [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime, Manga & Light Novels
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese Translator
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
@@ -1189,6 +1192,7 @@
 * [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons / Stroke Orders
 * [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [⁠Hanly](https://www.hanlyapp.com/) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
 * [Dictionary Variants](https://dict.variants.moe.edu.tw/?la=1) - Dictionary of Chinese Character Variants
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Chinese Translator
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
 * [Lindict](https://humanum.arts.cuhk.edu.hk/Lexis/Lindict/), [CantoWords](https://cantowords.com/), [MDBG](https://www.mdbg.net/), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [Revised Dictionary](https://dict.revised.moe.edu.tw/index.jsp), [Concised Dictionary](https://dict.concised.moe.edu.tw/), [Mini Dictionary](https://dict.mini.moe.edu.tw/) or [zdict](http://zdic.net/) - Chinese Dictionaries
@@ -1229,7 +1233,9 @@
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 * [Finnish Flashcards](https://finnishflashcards.com/) - Finnish Flashcards / [Resources](https://finnishflashcards.com/resources)
 * [The People's Dictionary](https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html) - Swedish Translation Dictionary
-* [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning 
+* [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning
+* [⁠OpaLingo](https://www.opalingo.com/) - Macedonian Learning Site
+* [⁠Icelandic Online](https://icelandiconline.com/) - Icelandic Learning Courses
 * [⁠ancientgreek.jean.land](https://ancientgreek.jean.land/) - Ancient Greek Learning Site
 
 ***
@@ -1312,7 +1318,7 @@
 * [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
 * [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
 * [⁠Viossa Diskordseгver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
-* [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressivness & Regularity
+* [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity
 * [Xextan](https://xextan.github.io/) - Xextan Language Learning / Focused on Simplicity + Ease of Learning / [Wiki](https://xextan.miraheze.org/wiki/Main_Page) / [Discord](https://discord.gg/4Wz7EeQJ2g)
 * [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
 
@@ -1356,7 +1362,7 @@
 * [System Design 101](https://github.com/ByteByteGoHq/system-design-101) or [system-design-primer](https://github.com/donnemartin/system-design-primer) - System Design Guides
 * [CLIG](https://clig.dev/) - CLI Design Guide / [Discord](https://discord.gg/EbAW5rUCkE)
 * [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
-* [⁠Server Survival](https://pshenok.github.io/server-survival/) - Tower Defense Game for learning Cloud Architecure / [GitHub](https://github.com/pshenok/server-survival)
+* [⁠Server Survival](https://pshenok.github.io/server-survival/) - Tower Defense Game for learning Cloud Architecture / [GitHub](https://github.com/pshenok/server-survival)
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
 * [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips
@@ -1794,6 +1800,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
+* [⁠OnlineConversion](https://onlineconversion.com/) - Conversion Calculators
 * [Kalker](https://kalker.xyz/), [⁠SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html), [Learnbin Lab](https://lab.learnbin.net/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
@@ -1815,6 +1822,7 @@
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [Ozdic](https://ozdic.com/) - Multi-Dictionary / Thesaurus
+* [Collins Dictionary](https://collinsdictionary.com/) - Dictionary / Thesaurus
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [Moby Thesaurus](https://moby-thesaurus.org/) - Thesaurus
 * [Historical Thesaurus of English](https://ht.ac.uk/) - Historical Thesaurus

@@ -321,6 +321,7 @@
 
 ***
 
+* 🌐 **[⁠Matcha](https://www.matchaup.my/)** - File Host Status' / Index
 * 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts), **[Awesome Free File Hosting](https://github.com/Nick088Official/awesome-free-file-hosting)** or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
@@ -344,8 +345,8 @@
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [⁠pone](https://pone.rs/) - 1GB / Forever
+* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 100GB / 90 Days
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
-* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download / **Use uBlock**
@@ -401,7 +402,6 @@
 * [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
-* [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Requires Sign-Up
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Requires Sign-Up
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email
 * [MultiUp.io](https://multiup.io/) (use uBlock) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders

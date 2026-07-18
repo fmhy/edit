@@ -142,7 +142,7 @@
 * [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.io/) - Collaborative Drawing / Web
 * [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, macOS, Linux, Android, Web
 * [SmoothDraw](https://qrli.github.io/smoothdraw/) - Painting App / Windows
-* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
+* [⁠Wigglypaint](https://beyondloom.com/tools/wigglypaint.html) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
 * [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, macOS, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, macOS
 * [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -207,7 +207,7 @@
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor / Windows, macOS, Linux, Android
 * [GIF to Frames](https://giftoframes.com/) - GIF to Spritesheet / Web
 * [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / Web / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
-* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers / Web
+* [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html), [⁠Pixel Art Fixer](https://www.retrodiffusion.ai/tools/pixel-art-fixer/) / [GitHub](https://github.com/Retro-Diffusion/pixel-art-fixer) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers / Web
 
 ***
 
@@ -219,13 +219,14 @@
 * [⁠PicMix](https://www.picmix.com/) - Glitter Style GIF Creator
 * [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
 * [Gifsicle](http://www.lcdf.org/gifsicle/) - GIF Generator / Windows, macOS, Linux / [GitHub](https://github.com/kohler/gifsicle)
-* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
+* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GIFVibe](https://gifvibe.com/), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
 * [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter
 * [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, macOS, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
-* [blinkies.cafe](https://blinkies.cafe/) - Custom Retro Blinkie GIFs / Badges / [GitHub](https://github.com/piconaut/blinkies.cafe)
+* [Ultimate 88x31 Generator](https://pixelwolf.net/PWapps/88x31/) or [blinkies.cafe](https://blinkies.cafe/) / [GitHub](https://github.com/piconaut/blinkies.cafe) - Create Retro Blinkie GIFs / 88x31 Badges
+* [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons, [88x31 Collection](https://88x31.nl/) or [Web Badges World](https://web.badges.world/) - Download Retro 88x31 Web Badges / Blinkies
 
 ***
 
@@ -297,6 +298,8 @@
 * [⁠Square Face Generator](https://squareface.app/) - Square Face Avatar Generator
 * [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators
 * [MultiAvatar](https://multiavatar.com/) - Generate Random Avatars
+* [⁠CHARAT](https://charat.me/en/) - Anime Style Avatar Creator
+* [⁠SkinSprite Studio](https://sss.1m3.jp/) - Generate Chibi Style Avatars from Minecraft Skins
 * [⁠FreeLogoMaker](https://myfreelogomaker.com/), [⁠BrandCrowd](https://www.brandcrowd.com/), [⁠Logo Surf](https://www.logo.surf/) or [OnlineLogoMaker](https://www.onlinelogomaker.com/) - Logo Creators
 * [Worldvectorlogo](https://worldvectorlogo.com/), [Brands of the World](https://www.brandsoftheworld.com/), [seeklogo](https://seeklogo.com/) or [SuperTinyIcons](https://edent.github.io/SuperTinyIcons/) - Logo Search / Designs
 * [Logo Fast](https://logofa.st/) or [LogoFreeway](https://logofreeway.com/logos.php) - Simple Logo Creators Based on Premade Icons

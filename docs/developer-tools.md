@@ -539,8 +539,6 @@
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
-* [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
-* [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 
 ***
 
@@ -549,7 +547,7 @@
 * [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠Z.ai](https://chat.z.ai/) - GLM-5.1 / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
-* [Kimi](https://www.kimi.com/agent) - Kimi K2.6 (Thinking) / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
+* [Kimi](https://www.kimi.com/agent) - Kimi K2.6 (Thinking) / / Kimi K3 / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Google Sign-Up / Coding AI / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax-M2.7 / Coding AI / Sign-UP [GitHub](https://github.com/MiniMax-AI/)
@@ -565,6 +563,8 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Skills](https://skills.sh/) - Add Capabilities to AI Agents
+* [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
 * [Pieces](https://pieces.app/) - Multi-LLM Coding Search Engine
@@ -959,13 +959,13 @@
 * [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/), [SVG Editor](https://editor.svg-gen.com/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [⁠3DSVG](https://3dsvg.design/) - 3D SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
-* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
+* [SVGArtista](https://svgartista.net/) or [⁠SVG Studio](https://svgstudio.org/) - SVG Animation Tools
 * [FrameSVG](https://framesvg.romelium.cc/) - GIF to Animated SVG / [GitHub](https://github.com/Romelium/FrameSVG)
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
 * [SVGX](https://svgx.app/) - SVG Assets Manager
 * [Vector Express](https://vector.express/) or [Vector Magic](https://vectormagic.com/) - Vector Converters
-* [svgco](https://svgco.de/), [⁠SVGFast](https://svgfast.com/) or [IMG to SVG](https://img-to-svg.com/) - Image to SVG Converters
+* [svgco](https://svgco.de/), [⁠SVGFast](https://svgfast.com/), [⁠PngToSvg](https://pngtosvg.com/) or [IMG to SVG](https://img-to-svg.com/) - Image to SVG Converters
 * [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
@@ -1005,7 +1005,7 @@
 * [⁠Val Town](https://www.val.town/) - Serverless Scripting and Sharing
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
-* [vichan](https://vichan.info) / [GitHub](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
+* [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
@@ -1215,7 +1215,7 @@
 * [REMnux](https://remnux.org/) - Reverse Engineering / Malware Analysis
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [ROP Emporium](https://ropemporium.com/) - Learn Return-Oriented Programming
-* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engeineering
+* [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) / [GitHub](https://github.com/kefir500/apk-editor-studio) or [APKTool](https://apktool.org/) / [GitHub](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code

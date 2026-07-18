@@ -73,13 +73,12 @@
 * ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins](https://vencord.dev/plugins)
 * ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
-* [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
+* [Legcord](https://legcord.app/) - Discord Client / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
-* [Dorion](https://spikehd.github.io/projects/dorion/) - Lightweight Discord Client / [GitHub](https://github.com/SpikeHD/Dorion)
+* [Dorion](https://spikehd.github.io/projects/dorion/) - Discord Client Mod / [GitHub](https://github.com/SpikeHD/Dorion)
 * [⁠Concord](https://github.com/chojs23/concord) - Discord TUI
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
@@ -117,7 +116,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
-* [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed), [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
+* [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
@@ -131,6 +130,7 @@
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
+* [⁠HoneyBot](https://eas.lol/honeybot) - Security / Anti-Spam / Anti-Scam Discord Bot
 * [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
@@ -190,7 +190,7 @@
 
 ## ▷ Reddit Downloaders
 
-* **Note** - You can also download Reddit videos by commenting "/u/SaveVideo".
+* **Note** - You can also download Reddit videos by commenting: `/u/SaveVideo`.
 
 ***
 
@@ -645,7 +645,7 @@
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
-* [⁠TikTok Stalker](https://tiktok.einzzcookie.org/) - TikToks Insight Tools
+* [⁠TikTrack](https://tiktok.einzzcookie.org/) - TikToks Insight Tools
 * [⁠TikTok Video Seeking](https://greasyfork.org/scripts/585042) - Enable Arrow Seeking for TikTok
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
