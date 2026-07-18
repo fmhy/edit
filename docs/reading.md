@@ -102,7 +102,7 @@
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [Subreddit](https://reddit.com/r/readest) / [Discord](https://discord.gg/gntyVNk3BJ) / [GitHub](https://github.com/readest/readest)
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * [Sioyek](https://sioyek.info/) - PDF / Windows, macOS, Linux
@@ -147,7 +147,7 @@
 * [Readest](https://web.readest.com/)
 * [Speeedy](https://speeedy.pages.dev/) / [GitHub](https://github.com/sami-29/speeedy), [Spreeder](https://www.spreeder.com/app.php?intro=1), [Speed Reader](https://speed-reader.com/), [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [⁠ogma](https://github.com/0hAodha/ogma) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools / Note These Are Not Good for Comprehension
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader / [JSON Generator](https://github.com/wotakumoe/kaguya)
-* [Reader Mode](https://readermode.io/) or [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/) - Article Readers / Managers
+* [Firefox Reader](https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [txtdot](https://txt.dc09.xyz/) / [Instances](https://github.com/TempoWorks/instances) / [GitHub](https://github.com/TempoWorks/txtdot) or [Reader Mode](https://readermode.io/) - Browser Read-Mode / Text-Only Tools
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
 
@@ -173,7 +173,7 @@
 
 * 🌐 **[Kindle Jailbreak Guide](https://kindlemodding.org/jailbreaking/index.html)** - Jailbreak Guides / Index
 * ⭐ **[KindleForge](https://github.com/KindleTweaks/KindleForge)** – App Installer
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib)  / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[KindleFetch](https://github.com/justrals/KindleFetch)** - Kindle Book Download CLI
 * [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Kindle Modding / Jailbreak Discord
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
@@ -184,7 +184,7 @@
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Send to Kobo/Kindle](https://send2ereader.net/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
-* [Techy Notes Guide](https://techy-notes.com/remove-drm-from-kindle-ebooks/) or [ItsFOSS Guide](https://itsfoss.com/calibre-remove-drm-kindle/) - Kindle DRM Removal Guides
+* [ItsFOSS Guide](https://itsfoss.com/calibre-remove-drm-kindle/) - Kindle DRM Removal Guide
 * [KAnki](https://github.com/crizmo/KAnki) – Kindle Flashcard App / [Editor](https://kindlemodshelf.me/editor)
 * [SOX Media Player](https://kindlemodshelf.me/sox) - Bluetooth Audio Player
 * [Focus Reading](https://github.com/gmacahia/focus-reading.lua) - Bionic Reading / Guided Dots for Kindle
@@ -336,7 +336,7 @@
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php)
+* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Invites](https://www.myanonamouse.net/inviteapp.php) / [Ratio Warnings](https://greasyfork.org/en/scripts/416189)
 * ⭐ **[Rave Search](https://ravebooksearch.com/index-audiobooks)** or **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
@@ -396,6 +396,7 @@
 * [Cover](https://frenchfrysoftware.com/cover/), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [Stump](https://www.stumpapp.dev/), [⁠GonVisor](https://www.gonvisor.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Comic Readers / Managers
 * [XOXO Comics](https://xoxocomic.com/)
 * [Read Comics Online](https://readcomicsonline.ru/)
+* [OceComic](https://ocecomic.com/)
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [ZipComic](https://www.zipcomic.com/)
 * [Bookracy](https://bookracy.com/) - Download Comics / [Download Button](https://greasyfork.org/en/scripts/536768)
@@ -449,7 +450,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga), [3](https://rivestream.top/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [MangaTown](https://www.mangatown.com/)
-* [All Manga](https://allmanga.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
+* [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [Like Manga](https://likemanga.in/)

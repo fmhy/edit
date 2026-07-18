@@ -245,11 +245,11 @@
 * [AudioTube](https://invent.kde.org/multimedia/audiotube), [WAVE](https://waveapp.pages.dev/), [ytermusic](https://github.com/ccgauche/ytermusic/) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
 * [cliamp](https://www.cliamp.stream/) / [GitHub](https://github.com/bjarneo/cliamp), [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
 * [⁠Sonosano](https://sonosano.krshh.com/) - Self-Hosted P2P Lossless Music Player / [GitHub](https://github.com/KRSHH/Sonosano)
-* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://pipewire.org/) - Improved Video / Audio Handling / Multimedia API / [Effects](https://github.com/wwmm/easyeffects) / [TUI Audio Mixer](https://github.com/tsowell/wiremix)
-* [Werman](https://github.com/werman/noise-suppression-for-voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
+* [Werman](https://github.com/werman/noise-suppression-for-voice), [⁠HushMic](https://github.com/Fovty/hushmic) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
 * [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger

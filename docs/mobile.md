@@ -164,8 +164,8 @@
 * ⭐ **[Kettu](https://www.raincord.dev/kettu)** or [⁠raincord](https://www.raincord.dev/) - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Source Code](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * ⭐ **[Continuum](https://github.com/cygnusx-1-org/continuum)**, [⁠Patcheddit](https://github.com/wchill/patcheddit) or [RedReader](https://github.com/QuantumBadger/RedReader) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
-* ⭐ **[piko (Twitter)](https://github.com/crimera/piko)** / [PreBuilt](https://github.com/crimera/twitter-apk) / [Telegram](https://t.me/pikopatches), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
-* ⭐ **[⁠piko (Instagram)](https://t.me/pikopatches)** / [GitHub](https://github.com/crimera/piko) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko-note.md) or [⁠Instafel](https://instafel.mamii.dev/) / [GitHub](https://github.com/mamiiblt/instafel/) - Modded Instagram Clients
+* ⭐ **[piko (Twitter)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
+* ⭐ **[⁠piko (Instagram)](https://t.me/pikopatches)** / [GitHub](https://github.com/crimera/piko) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md) or [⁠Instafel](https://instafel.mamii.dev/) / [GitHub](https://github.com/mamiiblt/instafel/) - Modded Instagram Clients
 * ⭐ **[Nobook](https://github.com/ycngmn/Nobook)** or [Materialbook](https://github.com/eepiemi/Materialbook) - Ad-Free Facebook Lite
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
@@ -450,7 +450,7 @@
 * [notesGPT](https://usenotesgpt.com/) - AI Voice Notes
 * [AudioNote](https://certified84.github.io/AudioNote/) or [⁠Fossify Voice Recorder](https://github.com/FossifyOrg/Voice-Recorder) - Video / Voice Recorders
 * [⁠AndroidMic](https://github.com/teamclouday/AndroidMic) or [MicYou](https://micyou.top/en/) / [GitHub](https://github.com/LanRhyme/MicYou) - Use Android as Desktop Mic
-* [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox), [Box](https://github.com/jegly/Box), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
+* [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox), [Box](https://github.com/jegly/Box), [Rikka AI](https://rikka-ai.com/) / [Discord](https://discord.gg/9weBqxe5c4) / [GitHub](https://github.com/rikkahub/rikkahub), [Maid](https://github.com/Mobile-Artificial-Intelligence/maid), [ChatterUI](https://github.com/Vali-98/ChatterUI), [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai), [⁠Google AI Edge Gallery](https://github.com/google-ai-edge/gallery), [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app), [⁠ComfyChair](https://github.com/legal-hkr/comfychair) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - Local AI Chatbots
 * [⁠Arc](https://play.google.com/store/apps/details?id=com.rethink.arc) - AI Assistant
 * [Safe Headphones](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
@@ -712,7 +712,6 @@
 * ↪️ **[Navigation / Transport Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_navigation_.2F_transport)**
 * ⭐ **[Find Hub](https://www.android.com/intl/en_au/learn-find-hub/)**, [FMD](https://fmd-foss.org/) / [GitLab](https://gitlab.com/fmd-foss/fmd-android), [PhoneTrack](https://github.com/julien-nc/phonetrack), [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://github.com/Hamza417/Positional), [2](https://github.com/mtrewartha/positional), [GPSCockpit](https://github.com/woheller69/gpscockpit), [GPSTest](https://play.google.com/store/apps/details?id=com.android.gpstest) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location / GPS
-* [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](https://gpsjoystick.theappninjas.com/faq/) (root) - Fake GPS Location
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
 * [LockWatch](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [CrookCatcher](https://www.crookcatcher.app/) - Locate / Recover Stolen Phone
@@ -851,7 +850,7 @@
 
 ## ▷ Android Manga
 
-* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/), [4](https://yuzono.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
+* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon), [4](https://github.com/Nyora-Manga/nyora-mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/), [4](https://yuzono.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [Futon](https://landing-futon.pages.dev) / [Discord](https://discord.gg/9sqBHXhwzz) / [GitHub](https://github.com/AppFuton/Futon/), [⁠Usagi](https://yumemi.moe/) / [Plugins](https://github.com/InvalidDavid/UMA) / [GitHub](https://github.com/UsagiApp/Usagi) or [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) / [Discord](https://discord.com/invite/sfPJSQNxfW) - Manga Readers / Kotatsu Forks
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
@@ -890,7 +889,7 @@
 * [Soundbound App](https://soundbound.app/) - Streaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Saturn](https://github.com/Sheathed/Saturn) or [Refreezer](https://github.com/DJDoubleD/refreezer) - Deezer / FLAC / Requires Premium (Firehawk52)
 * [Trebel](https://home.trebel.io/) - Streaming
-* [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://support.deezer.com/hc/en-gb/articles/115003749449-List-Of-Countries-Deezer-Is-Available-In)
+* [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Music Time Travel](https://play.google.com/store/apps/details?id=com.zh.musictimetravel) - Music Discovery
 * [Airbuds](https://play.google.com/store/apps/details?id=com.capp.poplive) - Friends Listening Activity
 * [Music Speed Changer](https://play.google.com/store/apps/details?id=com.smp.musicspeed) - Audio Multi-Tool / Equalizer
@@ -1020,7 +1019,7 @@
 * [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * [ShowCase](https://github.com/WirelessAlien/MovieDB) - TMDB App
 * [Great Courses Plus Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Courses
-* [Showly](https://github.com/michaldrabik/showly) - TV Trackers
+* [Showly](https://github.com/trakt/showly) - TV Trackers
 
 ***
 
@@ -1103,7 +1102,7 @@
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [⁠CAPlayground](https://caplayground.vercel.app/) - Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / [GitHub](https://github.com/CAPlayground/CAPlayground)
-* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [Blip](https://apps.apple.com/in/app/blip-send-files-in-a-click/id6463305181) - File Transfer / Turn "Searchable by Name" Off in Settings
@@ -1340,6 +1339,7 @@
 # ► iOS Audio
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
+* ⭐ **[⁠Octave](https://octavestreaming.com/)** - Streaming
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Modded YouTube Music / Ad-Free / [Discord](https://discord.gg/BhdUyCbgkZ)
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
 * [EeveeSpotifyRevivedPublic](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) - Spotify / Ad-Free / Sideloaded 
@@ -1351,7 +1351,7 @@
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / Ad-Free / [Discord](https://discord.gg/64fVZ2QdZ9)
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music / Ad-Free
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
-* [Deezer](https://apps.apple.com/app/id292738169) - Streaming
+* [Deezer](https://apps.apple.com/app/id292738169) - Streaming / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [⁠Octave](https://octavestreaming.com/) - Streaming
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming
 * [GarageBand](https://apps.apple.com/app/id408709785) - Audio Editor / Creator
@@ -1391,10 +1391,10 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://nuvio.tv/)** / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
+* [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
@@ -1427,9 +1427,9 @@
 ## ▷ iOS YouTube Apps
 
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
+* [⁠YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA) - YouTube IPA Builder 
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube App
 * [⁠YTPlusM](https://github.com/Mark02-2012/YTPlusM) - Modded YouTube App
-* [⁠YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA) - YouTube IPA Builder 
 * [⁠ProTube](https://apps.apple.com/app/protube-block-ads-on-video/id6748081431) - YouTube App
 * [OpenYouTubeSafariExtension](https://github.com/BillyCurtis/OpenYouTubeSafariExtension) - Add "Open In" Alert to Sideloaded YouTube Apps
 

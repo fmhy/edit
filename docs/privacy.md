@@ -172,7 +172,7 @@
 * [⁠DataRequests](https://www.datarequests.org/) - GDPR Request Generator / Tools / [GitHub](https://github.com/datenanfragen)
 * [Surfer Protocol](https://github.com/Surfer-Org/Protocol) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)
 * [GnuPG](https://gnupg.org/) - Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/) / [Key Manager](https://github.com/orhun/gpg-tui)
-* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
+* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [One Time Secrets](https://ots.fyi/) / [GitHub](https://github.com/Luzifer/ots), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
 * [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
@@ -374,9 +374,9 @@
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
 * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs / [.onion](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/)
-* ⭐ **[Startpage](https://www.startpage.com/)** - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
-* ⭐ **[4get](https://4get.canine.tools/)**, [2](https://4get.ca/) - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
+* ⭐ **[Startpage](https://www.startpage.com/)** - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
+* ⭐ **[4get](https://4get.ca/)** - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [LibreY](https://search.davidovski.xyz/instances.php) - Metasearch / [GitHub](https://github.com/Ahwxorg/librey/)
 * [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
 * [search!](https://search.tiago.zip/) - AI Free / Metasearch / [GitHub](https://github.com/tiagozip/metasearch)

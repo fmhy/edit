@@ -572,7 +572,7 @@
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Tutorials / Reviews / [X](https://x.com/OscarLiang1)
 * [RCPlanes Online](https://rcplanes.online/) - RC Plane Aerodynamics / Guides
 * [⁠My Balsa & Glass Workshop](https://balsaandglass.com/Balsa_Builds.html) - RC Model Builds
-* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software / [GitHub](https://github.com/OpenDroneMap/)
+* [OpenDroneMap](https://www.opendronemap.org/) / [GitHub](https://github.com/OpenDroneMap/) or [WebODM](https://webodm.org/) - Drone Mapping Software 
 * [Open Drone Logbook](https://opendronelog.com/) - FOSS Drone Log / [X](https://x.com/ArpanDesign) / [Discord](https://discord.gg/YKgKTmSm7B) / [GitHub](https://github.com/arpanghosh8453/drone-logbook)
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 
@@ -742,7 +742,8 @@
 * [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
 ***
 
@@ -757,6 +758,7 @@
 * [OEC Games](https://oec.world/en/games) - Trade Data Games
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
+* [⁠OilPrice](https://oilprice.com/) - Oil / Energy Price Tracking + News
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
 * [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Expatistan](https://www.expatistan.com/) - Cost of Living Calculator
@@ -1044,7 +1046,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
@@ -1145,6 +1147,7 @@
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan), [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime, Manga & Light Novels
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese Translator
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
@@ -1190,6 +1193,7 @@
 * [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons / Stroke Orders
 * [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [⁠Hanly](https://www.hanlyapp.com/) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
 * [Dictionary Variants](https://dict.variants.moe.edu.tw/?la=1) - Dictionary of Chinese Character Variants
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Chinese Translator
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
 * [Lindict](https://humanum.arts.cuhk.edu.hk/Lexis/Lindict/), [CantoWords](https://cantowords.com/), [MDBG](https://www.mdbg.net/), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [Revised Dictionary](https://dict.revised.moe.edu.tw/index.jsp), [Concised Dictionary](https://dict.concised.moe.edu.tw/), [Mini Dictionary](https://dict.mini.moe.edu.tw/) or [zdict](http://zdic.net/) - Chinese Dictionaries
@@ -1230,7 +1234,9 @@
 * [Uusi Kielemme](https://uusikielemme.fi/) - Finnish Learning
 * [Finnish Flashcards](https://finnishflashcards.com/) - Finnish Flashcards / [Resources](https://finnishflashcards.com/resources)
 * [The People's Dictionary](https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html) - Swedish Translation Dictionary
-* [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning 
+* [⁠Easy Croatian](https://www.easy-croatian.com/) or [⁠HR4EU](https://www.hr4eu.hr/) - Croatian Language Learning
+* [⁠OpaLingo](https://www.opalingo.com/) - Macedonian Learning Site
+* [⁠Icelandic Online](https://icelandiconline.com/) - Icelandic Learning Courses
 * [⁠ancientgreek.jean.land](https://ancientgreek.jean.land/) - Ancient Greek Learning Site
 
 ***
@@ -1817,6 +1823,7 @@
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [Ozdic](https://ozdic.com/) - Multi-Dictionary / Thesaurus
+* [Collins Dictionary](https://collinsdictionary.com/) - Dictionary / Thesaurus
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [Moby Thesaurus](https://moby-thesaurus.org/) - Thesaurus
 * [Historical Thesaurus of English](https://ht.ac.uk/) - Historical Thesaurus
