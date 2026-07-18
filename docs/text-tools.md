@@ -589,6 +589,7 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
 * [The Ransomizer](https://www.ransomizer.com/) - Ransom Note Style Text
 * [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
+* [AuraFonts](https://aurafonts.com) - Free Unicode fancy text generator with 1000+ copy & paste font styles
 
 ***
 
