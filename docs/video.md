@@ -582,6 +582,7 @@
 * [OvertakeFans](https://overtakefans.com/) - Motorsports
 * [Aceztrims](https://acestrlms.pages.dev/) - Motorsports
 * [F1 Live](https://f1live.dpdns.org/) - Motorsports
+* [F1 Dashboard](https://f1cosmos.com/) - Motorsports / Dashboard
 * [NontonGP](https://esp32.nontonx.com/) - Motorcycle Racing
 * [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
