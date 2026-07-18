@@ -663,6 +663,7 @@
 * [IPTV Player](https://iptvplayer.stream/) - IPTV Web Player
 * [M3U IPTV](https://m3u-ip.tv/browser) - IPTV Web Player
 * [IPTV Player](https://iptv-player.me/) - IPTV Web Player
+* [Reely Player](https://reelyplayer.app) - IPTV Player / Android, iOS, macOS, Windows, Linux / [Discord](https://discord.gg/QXSa3VgAgu)
 
 ***
 
