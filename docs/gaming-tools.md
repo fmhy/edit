@@ -502,6 +502,7 @@
 * [Mega Man 8-Bit Deathmatch](https://mm8bdm.net/) - Fan-Made Multiplayer Mega Man FPS / [Discord](https://mm8bdm.net/discord)
 * [⁠Moshi Monsters Online](https://moshionline.net/) - Moshi Monsters Revival / [Codes](https://moshionline.net/codes/) / [Discord](https://discord.com/invite/5Nwz9Xmjkc)
 * [⁠Echo VR Installer](https://github.com/marshmallow-mia/Echo-VR-Installer) - Echo VR Revival / [Guide](https://quest.echovr.de/) / [GitHub](https://github.com/moshionlineteam)
+* [⁠Need for Speed World](https://github.com/marshmallow-mia/Echo-VR-Installer) - NIGHTRIDERZ / [Website](https://nightriderz.world/) - Need for Speed World community hosted server
 
 ***
 
