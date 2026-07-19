@@ -436,8 +436,8 @@
 
 * ↪️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
 * ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/torrenting/)** - Bind VPN to Torrent Client to Avoid ISP Letters
-* [⁠WireSock](https://wiresock.net/) or [⁠Tunnl](https://tunnl.to/) - WireGuard Split Tunneling Clients
-* [WG Tunnel](https://wgtunnel.com/) - WireGuard Client / AmneziaWG / Android / [Desktop](https://wgtunnel.com/blog/desktop-launch/) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)
+* [⁠WireSock](https://wiresock.net/), [Amnezia](https://amnezia.org/self-hosted), [2](https://storage.googleapis.com/amnezia/amnezia.org) / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Discord](https://discord.com/invite/JfrKFScw6N) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn) or [TunnlTo](https://tunnl.to/) - Split Tunneling Clients
+* [WG Tunnel](https://wgtunnel.com/) - WireGuard & AmneziaWG Client / [Android](https://github.com/wgtunnel/android) / [Desktop](https://github.com/wgtunnel/desktop) / [Telegram](https://t.me/wgtunnel) / [GitHub](https://github.com/wgtunnel)
 * [VPN Hotspot](https://github.com/Mygod/VPNHotspot) - Share VPN Connection over Hotspot / Rooted Android
 * [Gluetun](https://github.com/qdm12/gluetun) - VPN using Docker
 
@@ -463,7 +463,6 @@
 * [Hysteria](https://v2.hysteria.network/) - Speed Focused Proxy Protocol / [Telegram](https://t.me/hysteria_github) / [GitHub](https://github.com/apernet/hysteria)
 * [Shadowsocks](https://shadowsocks.org/) - Simple Proxy Protocol / [GitHub](https://github.com/shadowsocks)
 * [sing-box](https://sing-box.sagernet.org/) - Proxy Core / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
-* [Amnezia](https://amnezia.org/self-hosted), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Multi Protocol Server / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Discord](https://discord.com/invite/JfrKFScw6N) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [Hiddify Manager](https://hiddify.com/) - Proxy Panel / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify/Hiddify-Manager)
 * [Outline](https://getoutline.org/) - Shadowsocks Server / [Guide](https://docs.getoutline.com/s/hosting/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/) 
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Proxy Server

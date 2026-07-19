@@ -1765,7 +1765,7 @@
 * [hostsVN](https://github.com/bigdargon/hostsVN/wiki) - Adblocking Guides
 * [Quantrimang](https://quantrimang.com/) or [Anonyviet](https://anonyviet.com/) - Tech News
 * [⁠HocMai Hướng Nghiệp](https://huongnghiep.hocmai.vn/) - Career + University Guidance
-* [dolthpt](https://dolthpt.vn/) or [tuhoc](https://tuhoc.dolenglish.vn/) - Exam Prep
+* [DOL THPT](https://dolthpt.vn/) or [DOL IELTS](https://tuhoc.dolenglish.vn/) - Exam Prep
 * [Forumvi](https://www.forumvi.com/) - Forum Creator
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
 * [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet

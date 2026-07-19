@@ -1295,6 +1295,7 @@
 * [delphitools](https://delphi.tools/), [2](https://tools.rmv.fyi/) - Social Media / Text / Image
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
+* [⁠ToolKnit](https://toolknit.com/) - Image / Video / PDF / Audio / File
 * [uFreeTools](https://www.ufreetools.com/en/) - Text / Code
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
