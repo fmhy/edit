@@ -17,9 +17,6 @@
 * [Pinless](https://pinterest.bunk.im/), [2](https://pinterest.fsky.io/) / [Instances](https://instances.bunk.im/) / [.onion](http://pinvnrvjzyxdglrfcf75bhqyftmr3c4gvt6lwhe6khwv2zy2yo4htlqd.onion/) / [GitHub](https://github.com/bunk-im/pinless) or [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends / Viewers
 * [⁠Pinterest Power Menu](https://github.com/Angel2mp3/Pinterest-Power-Menu) - Pinterest Improvement Script
 * [⁠StoryLooker](https://storylooker.com/) or [Snoopchat](https://snoopchat.co/) - Snapchat Frontends / Viewers
-* [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
-* [TikTok Tools](https://omar-thing.site/) - TikTok Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
-* [Farscroll](https://farscroll.vercel.app/) - Find Random / Obscure TikTok Videos
 * [⁠grapper](https://grapper.gab.net.eu.org/) - Vine Video Archive / Username Required 
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
@@ -27,7 +24,7 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
-* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer
+* [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
@@ -76,13 +73,12 @@
 * ⭐ **[Vencord](https://vencord.dev/)** / [Discord](https://discord.gg/D9uwnFnqmd) / [GitHub](https://github.com/Vendicated/Vencord) or [Vesktop](https://vesktop.dev/) / [GitHub](https://github.com/Vencord/Vesktop) - Discord Client Mod / [Plugins](https://vencord.dev/plugins)
 * ⭐ **[Equicord](https://equicord.org)** / [Discord](https://discord.gg/5Xh2W87egW) / [GitHub](https://github.com/Equicord/Equicord) or [⁠Equibop](https://equibop.org/) / [GitHub](https://github.com/Equicord/Equibop) - Discord Client Mod / [Plugins](https://equicord.org/plugins)
 * ⭐ **[WebCord](https://github.com/SpacingBat3/WebCord)** - Privacy-Hardened Client / [Discord](https://discord.gg/aw7WbDMua5)
-* [Legcord](https://legcord.app/) - Discord Client / Lightweight / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
+* [Legcord](https://legcord.app/) - Discord Client / [Privacy-Fork](https://github.com/Milkshiift/GoofCord) / [Discord](https://discord.gg/TnhxcqynZ2) / [GitHub](https://github.com/Legcord/Legcord)
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
-* [abaddon](https://github.com/uowuo/abaddon) - Discord Client Mod / Lightweight / [Discord](https://discord.gg/wkCU3vuzG5)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
-* [Dorion](https://spikehd.github.io/projects/dorion/) - Lightweight Discord Client / [GitHub](https://github.com/SpikeHD/Dorion)
+* [Dorion](https://spikehd.github.io/projects/dorion/) - Discord Client Mod / [GitHub](https://github.com/SpikeHD/Dorion)
 * [⁠Concord](https://github.com/chojs23/concord) - Discord TUI
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
@@ -120,7 +116,7 @@
 ## ▷ Discord Bots
 
 * ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
-* [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed), [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
+* [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
@@ -132,8 +128,9 @@
 * [⁠Wispbyte](https://wispbyte.com/) - Free Discord Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth 
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot) or [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
-* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
+* [⁠HoneyBot](https://eas.lol/honeybot) - Security / Anti-Spam / Anti-Scam Discord Bot
 * [⁠Honeypot](https://discord.com/discovery/applications/1450060292716494940) - Auto-Ban Spam Bots using Dedicated Channel
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Modmail](https://github.com/modmail-dev/modmail) - Discord Modmail Bot
@@ -193,12 +190,12 @@
 
 ## ▷ Reddit Downloaders
 
-* **Note** - You can also download Reddit videos by commenting "/u/SaveVideo".
+* **Note** - You can also download Reddit videos by commenting: `/u/SaveVideo`.
 
 ***
 
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
-* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloaders / [Discord](https://discord.gg/rSzQwRvGnE)
+* [gallery-dl](https://codeberg.org/mikf/gallery-dl) - Reddit Bulk Image Downloader / [Discord](https://discord.gg/rSzQwRvGnE)
 * [⁠Redvid](https://redvid.io/) - Reddit Media Downloader 
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
@@ -217,7 +214,7 @@
 
 ## ▷ Reddit Search
 
-* [Reveddit](https://www.reveddit.com/), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
+* [Reveddit](https://www.reveddit.com/), [rOSINT+](https://rosintplus.github.io/) / [GitHub](https://github.com/rosintplus/rosintplus.github.io), [⁠Reddit Restore](https://greasyfork.org/scripts/585120) (Userscript), [redditOSINT](https://www.rosint.dev/) / [GitHub](https://github.com/zuxu4n/RedditOsint), [Ghostddit](https://ghostddit.pages.dev/) or [Reddit Uncensored](https://github.com/Fubs/reddit-uncensored) - View Deleted / Hidden Reddit Posts + Comments
 * [New PullPush](https://ihsoyct.github.io/), [PullPush Search](https://search.pullpush.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Advanced Reddit Search
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
@@ -254,7 +251,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) - RSS Reader
 * [tg-channel-cloner-workers](https://gitlab.com/ParveenBhadooOfficial/tg-channel-cloner-workers) - Clone Telegram Channels
 * [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
-* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Sticker / Emojis
+* [CHPic](https://chpic.su/), [Stickers Cloud](https://stickers.cloud/en), [⁠fstik](https://fstik.app/) or [ComBot Stickers](https://combot.org/stickers) - Telegram Stickers / Emojis
 
 ***
 
@@ -371,6 +368,7 @@
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) or [⁠MUI](https://muitube.com/) - Use YouTube Full Window Player
+* [YouTube Cinema](https://greasyfork.org/en/scripts/585902) - Expand YouTube Player to Fill Viewport 
 * [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [VacuumTube](https://github.com/shy1132/VacuumTube) - TV Version of YouTube on PC
 
@@ -444,7 +442,6 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
@@ -458,7 +455,7 @@
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
 * [TubeVault](https://tubevault.org/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
-* [Filmot](https://filmot.com/unlistedSearch) - Search Unlisted Videos
+* [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [PreserveTube](https://preservetube.com/), [2](https://preservetube.net/), [3](https://preservetube.org/) or [Hobune](https://hobune.stream/) - YouTube Video Archives
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer), [quite a playlist](https://quiteaplaylist.com/) or [RecoverMy.Video](https://www.recovermy.video/) - Restore Titles of Deleted / Private Videos
@@ -502,6 +499,7 @@
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [Lurker.tv](https://www.lurker.tv/) - Discord Server-Based Twitch Stream Recs
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
+* [Twitch Scroll Wheel Volume](https://greasyfork.org/en/scripts/420862) - Add Scroll Wheel Volume to Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
@@ -621,7 +619,7 @@
 
 # ► Instagram Tools
 
-* [KittyGram](https://kittygr.am/), [2](https://instagram.fsky.io/), [3](https://kittygram.fsky.io/) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends
+* [KittyGram](https://kittygram.irelephant.net/), [2](https://kg.meowing.de) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram), [⁠InstaScope](https://insta-profile-viewer.pages.dev/) or [Imginn](https://imginn.com) - Instagram Frontends / Viewers
 * [⁠ReelSave](https://reelsave.app/) - Instagram Video / Audio Downloader
 * [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) - Embed Fixer and Downloader
 * [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
@@ -639,6 +637,18 @@
 * [FastDL](https://fastdl.app/en2) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
 * [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/) or [anonyig](https://anonyig.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
+
+***
+
+# ► TikTok Tools
+
+* [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
+* [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
+* [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
+* [⁠TikTrack](https://tiktok.einzzcookie.org/) - TikToks Insight Tools
+* [⁠TikTok Video Seeking](https://greasyfork.org/scripts/585042) - Enable Arrow Seeking for TikTok
+* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
+* [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 
 ***
 

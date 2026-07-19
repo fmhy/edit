@@ -2,9 +2,9 @@
 
 > How important is using an adblocker?
 
-Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages or popup tabs.
 
-For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called browser below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
+For browsers, we recommend **[uBlock Origin (uBO)](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts. Check the section called Browsers below for our recommended ones. Also keep in mind we highly recommend using the full version of uBO rather than lite version.
 
 For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube and Reddit ads with **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/morphe-piko-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
@@ -16,7 +16,7 @@ For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/a
 
 > How can I safely scan files, and determine if detections are false positives?
 
-Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
 
 Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
 
@@ -51,10 +51,10 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://cineby.at/) / [Rive](https://www.rivestream.app/) / [NEPU](https://nepu.to/) / [Aether](https://aether.bar/)**
+* **Streaming: [Cineby](https://cineby.at/) / [Aether](https://aether.bar/) / [NEPU](https://nepu.to/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [Streamed](https://streamed.pk/) / [StreamSports99](https://streamsports99.ru)**
+* **Sports Streaming: [Streamed](https://streamed.pk/) / [StreamFree](https://streamfree.top/) / [TimStreams](https://timstreams.st/)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
@@ -73,8 +73,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/)**
 * **Downloading: [lucida](https://lucida.to/) / [squid.wtf](https://squid.wtf/) / [Nicotine+](https://nicotine-plus.org/)**
-* **Android: [⁠ArchiveTune](https://archivetune.koiiverse.cloud/) / [Morphe](https://morphe.software/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
-* **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)**
+* **Android: [⁠ArchiveTune](https://archivetune.koiiverse.cloud/) / [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [⁠Octave](https://octavestreaming.com/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
 ***
@@ -89,7 +89,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
+* **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://bookracy.com/)**
 * **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
@@ -136,7 +136,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 > What is Port Forwarding? Do I need it?
 
-[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectability for torrents with fewer seeds.
+[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds.
 
 ***
 
@@ -162,6 +162,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
-* **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
+* **[Glossary / Terminology](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools

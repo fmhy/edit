@@ -30,7 +30,6 @@
 ## ▷ Aggregators
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
-* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
@@ -123,6 +122,8 @@
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
+* [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
+* [⁠SonicBit](https://my.sonicbit.net/) - 4GB
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***

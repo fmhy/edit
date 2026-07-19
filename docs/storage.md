@@ -19,7 +19,7 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com//) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
@@ -174,7 +174,7 @@
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
 * [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
-* [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)
+* [Nine Circles Demonlist](https://ninecirclesdemonlist.com/) / [Doc](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)
 
 ***
 
@@ -190,7 +190,7 @@
 
 ## Internet Archive Tools
 
-* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm)
+* [⁠Internet Archival Bot](https://internet-archival.xyz/) - Discord Internet Archival Bot / [Discord](https://discord.gg/gzdhhZSmhm) / [GitHub](https://github.com/Pendonym/Internet-Archival-Bot)
 - [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books in PDF Format
 - [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
 - [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
@@ -332,7 +332,7 @@
 
 ## Poll Sites
 
-[⁠BetterVoting](https://bettervoting.com/) / [Info](https://www.starvoting.org/), [PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [typeform](https://typeform.com/examples/polls/)
+[⁠BetterVoting](https://bettervoting.com/) / [Info](https://www.starvoting.org/), [⁠RCV123](https://www.rcv123.org/), [PollCode](https://pollcode.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/), [StrawPoll](https://strawpoll.com/), [framadate](https://framadate.org/), [polltab](https://www.polltab.com/), [polling-app](https://xoyondo.com/polling-app), [poal.me](https://poal.me/), [poll.ly](https://poll.ly/), [typeform](https://typeform.com/examples/polls/)
 
 ### Live Polling
 
@@ -358,7 +358,7 @@
 
 ### Slideshare Downloaders
 
-[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/), [Regem Downloader](https://regem.in/slideshare-downloader/)
+[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/)
 
 ***
 
@@ -366,7 +366,7 @@
 
 * ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/en/#list) / [Web Proxy](https://free-proxy-list.net/en/web-proxy.html#list), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
+[Free-Proxy-List](https://free-proxy-list.net/en/#list) / [Web Proxy](https://free-proxy-list.net/en/web-proxy.html#list), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
 
 ***
 
@@ -406,7 +406,7 @@
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**
 
-[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠7Sim](https://7sim.net/), [⁠TempSMSOnline](https://tempsmsonline.com/), [⁠SMSRecieveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Recieve SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [⁠XNSMS](https://www.xnsms.com/), [gettempnumber](https://gettempnumber.com/)
+[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠7Sim](https://7sim.net/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Receive SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [⁠XNSMS](https://www.xnsms.com/), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en)
 
 ***
 
@@ -459,9 +459,9 @@
 
 ## TypeScript Tools
 
-* [React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - Typescript Cheatsheet for React Devs
-* [Clean Code TypeScripts](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
-* [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app) - TypeScript Cheatsheet for React Devs
+* [Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
+* [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
 * [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
 

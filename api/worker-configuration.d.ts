@@ -19,6 +19,7 @@
 interface __BaseEnv_Env {
   STORAGE: KVNamespace
   RATE_LIMITER: RateLimit
+  AI: Ai
 }
 declare namespace Cloudflare {
   interface Env extends __BaseEnv_Env {}

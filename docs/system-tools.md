@@ -15,26 +15,27 @@
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
 * ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools
-* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
+* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** / [GitHub](https://github.com/stefansundin/superf4) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
-* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
+* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** / [GitHub](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller), [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
-* [BleachBit](https://www.bleachbit.org/) - Clean System Storage
+* [BleachBit](https://www.bleachbit.org/) - Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Process Monitor
 * [Why Is This Running?](https://github.com/pranshuparmar/witr) - Process Tracing / Debugging
-* [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
+* [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games / [GitHub](https://github.com/Merrit/nyrna)
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
-* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
+* [Winbindex](https://winbindex.m417z.com/) - Windows System Files / Binaries / [GitHub](https://github.com/m417z/winbindex)
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll), [2](https://gitlab.com/stdout12/offlineinsiderenroll), [3](https://codeberg.org/stdout12/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
-* [G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* [ASUS G-Helper](https://github.com/seerge/g-helper) - Armoury Crate Replacement for ASUS Laptops
+* [⁠PreySense](https://github.com/hammadzaigham/PreySense) - Armoury Crate Replacement for Acer Predator Laptops
 
 ***
 
@@ -51,14 +52,14 @@
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
 * [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
-* [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation
+* [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation / [Github](https://github.com/cerebroapp/cerebro)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
 * [Shell](https://nilesoft.org/) / [GitHub](https://github.com/moudey/shell) or [RCWM](https://github.com/GChuf/RCWM) - Tweaked / Custom Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Improved / Tweaked File Explorers
 * [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [yasb](https://github.com/amnweb/yasb) - Tweaked Taskbar
-* [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10
+* [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features / Win 10 / [GitHub](https://github.com/m417z/7-Taskbar-Tweaker)
 * [⁠AppGroup](https://github.com/iandiv/AppGroup) - Create Taskbar App Groups / Folders
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
@@ -89,7 +90,7 @@
 
 ## ▷ Task Automation
 
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v)
+* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v) / [GitHub](https://github.com/AutoHotkey/AutoHotkey)
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt)
 * [Tinytask](https://tinytask.net/)
@@ -107,12 +108,12 @@
 * 🌐 **[terminals-are-sexy](https://terminalsare.sexy/)** - Terminal Resources
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) - Windows Terminal Emulators
-* [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) - Terminal Multiplexers
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/) / [GitHub](https://github.com/eugeny/tabby), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) / [GitHub](https://github.com/wezterm/wezterm) - Windows Terminal Emulators
+* [psmux](https://psmux.pages.dev/) (Windows Tmux) / [GitHub](https://github.com/psmux/psmux) or [Zellij](https://zellij.dev/) / [GitHub](https://github.com/zellij-org/zellij) - Terminal Multiplexers
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, macOS, Linux
-* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows
+* [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
-* [Nushell](https://www.nushell.sh/) - Alt Shell
+* [Nushell](https://www.nushell.sh/) - Alt Shell / [GitHub](https://github.com/nushell/nushell)
 * [⁠procs](https://github.com/dalance/procs) - ps (Process Status) Replacement
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
@@ -125,7 +126,7 @@
 
 ## ▷ Remote Desktop
 
-* ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
+* ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/parsec.md)
 * ⭐ **[RustDesk](https://rustdesk.com/)** / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
@@ -134,7 +135,7 @@
 * [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
 * [CoScreen](https://www.coscreen.co/) / Windows, macOS
 * [⁠DWS](https://www.dwservice.net/) / Windows, macOS, Linux
-* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows, macOS
+* [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)
 * [Remotly](https://remotly.com/) / Windows, Linux
 * [Bananas](https://getbananas.net/) / Windows, macOS, Linux / [Discord](https://discord.gg/BeN43eJVWS) / [GitHub](https://github.com/mistweaverco/bananas)
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
@@ -233,7 +234,6 @@
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)** - System Info & Monitoring / Windows
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version / Windows
-* [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, macOS, Linux, Android
@@ -294,6 +294,7 @@
 * [Display Calc](https://www.tools.rodrigopolo.com/DisplayCalc/) - Display Distance / Dimension Calculator
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
+* [⁠ICC Profiles Guide](https://gist.github.com/Overimagine1/c0e5ebe60838e7dd0417549ea7aae260) - Guide for Finding ICC Profiles
 * [⁠novideo_srgb](https://github.com/ledoge/novideo_srgb) - Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
@@ -348,7 +349,7 @@
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
 * [SonyHeadphonesClient](https://github.com/mos9527/SonyHeadphonesClient) - Sony Headphones Clone
-* [VB-Audio ](https://vb-audio.com/Cable/) - Virtual Audio Cable / Select Download on Homepage / Donation is Optional
+* [VB-Audio](https://vb-audio.com/Cable/) - Virtual Audio Cable / Select Download on Homepage / Donation is Optional
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
