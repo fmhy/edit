@@ -1007,6 +1007,11 @@
 * [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
+* [Palworld Guides](https://palworldguides.xyz/) - Palworld Guides / Wiki
+* [BG3 Hub](https://bg3hub.com/) - Baldur's Gate 3 Guides / Wiki
+* [HD2 Guides](https://hd2guides.com/) - Helldivers 2 Guides / Wiki
+* [MH Wilds Guides](https://mhwildsguides.xyz/) - Monster Hunter Wilds Guides / Wiki
+* [ARC Raider Hub](https://arcraiderhub.xyz/) - ARC Raiders Guides / Wiki
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [totk.wism.fr](https://totk.wism.fr/) - Zelda TOTK AutoBuild QR Codes
 * [Stardew.app](https://stardew.app/) - Stardew Valley Progress Tracker
