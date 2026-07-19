@@ -9,6 +9,9 @@ routes = [
   { pattern = "api.fmhy.net", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
 ]
 
+[ai]
+binding = "AI"
+
 [[kv_namespaces]]
 binding = "STORAGE"
 id = "6f18adea26a64d6b8858ffbdfd3f4cf2"

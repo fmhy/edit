@@ -158,10 +158,10 @@
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) or [⁠StreamRecorder](https://streamrecorder.io/) - Live Stream Recorder
 * [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer / Windows
 * [⁠Moblin](https://github.com/eerimoq/moblin) - IRL Live Streaming App / iOS
-* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast), [OwnCast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
+* [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
@@ -172,6 +172,7 @@
 ## ▷ VTuber Tools
 
 * 🌐 **[Runa's Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources / [Discord](https://discord.com/invite/GdfHVZ6Z33)
+* [⁠VTuber Nook](https://vtuber-nook.com/) - VTuber Resources
 * [Best VTuber](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794) - VTuber Resources
 * [VTResources](https://vtresources.carrd.co/) - VTuber Resources
 * [VTuber Assets](https://discord.gg/acU3dFRtvC) - VTuber Resources
@@ -203,14 +204,14 @@
 * 🌐 **[MPV Clients](https://mpv.rocks/)** - MPV Based Client Index
 * ⭐ **[MPV](https://mpv.io/)** - Video Player / [Improved UI](https://github.com/tomasklaen/uosc) / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [GitHub](https://github.com/mpv-player/mpv)
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)** or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm) / [OpenSubtitles Bypass](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mp-opensubs.md)
-* ⭐ **[MPC-QT](https://mpc-qt.github.io/)** - Video Player / MPC UI w/ MPV Internal Player / Easy Setup
+* ⭐ **[MPC-QT](https://mpc-qt.github.io/)** - Video Player / MPC UI w/ MPV Internal Player / Easy Setup / [GitHub](https://github.com/mpc-qt/mpc-qt)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player / [GitHub](https://github.com/videolan/vlc)
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
-*[GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
+* [GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation
 * [ImPlay](https://github.com/tsl0922/ImPlay) - Video Player
 * [SMPlayer](https://www.smplayer.info/), [2](https://sourceforge.net/projects/smplayer/) - Video Player / [SMTube](https://www.smtube.org/) / [GitHub](https://github.com/smplayer-dev/smplayer)
@@ -330,7 +331,7 @@
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
 * [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
-* [SyncLounce](https://synclounge.tv/) - Media Sync
+* [SyncLounge](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
 * [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
@@ -384,7 +385,6 @@
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online
-* [⁠dltkk](https://dltkk.to/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
@@ -416,11 +416,12 @@
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, macOS, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/mltframework/shotcut)
-* [OpenShot](https://www.openshot.org/) - Video Editor / Windows, macOS, Linux
+* [OpenShot](https://www.openshot.org/) - Video Editor / Windows, macOS, Linux / [Source Code](https://code.launchpad.net/openshot)
 * [Keyflame](https://rentry.co/FMHYB64#keyflame) - Video Editors / Plugins
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, macOS
+* [Blender](https://www.blender.org/) - Video Editor / Windows, macOS, Linux / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
-* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor
+* [MoviePy](https://zulko.github.io/moviepy/) - Python Editor / [GitHub](https://github.com/Zulko/moviepy/)
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
 * [avisynth](http://avisynth.nl/index.php/Main_Page) - Video Processor / Windows, macOS, Linux
 * [VapourSynth](https://www.vapoursynth.com/) - Video Processor / Windows, Linux
@@ -428,7 +429,7 @@
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Image / Sequence Playback Review / Windows, macOS, Linux
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) - Cut & Trim Videos / Windows, macOS, Linux
 * [vidcutter](https://github.com/ozmartian/vidcutter) - Cut & Trim Videos / Script
-* [FreeMoCap](https://freemocap.org/) - Motion Tracking / Windows, macOS, Linux
+* [FreeMoCap](https://freemocap.org/) - Motion Tracking / Windows, macOS, Linux / [GitHub](https://github.com/freemocap/freemocap)
 * [Kurku](https://app.kurku.tech/) - Motion Tracking / Web
 
 ***
