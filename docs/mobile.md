@@ -1168,6 +1168,7 @@
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * ⭐ **[iOS Jailbreaking Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
+*  ⭐ **[iOS Jailbreaking APPS](https://ipalibrary.net/ios-jailbreak-apps/)** - Jailbreaking IPA APPS
 * ⭐ **[r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * ⭐ **[Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)** - Legacy iOS Devices / Downgrade / Save Blobs / Jailbreak / Bypass
@@ -1281,6 +1282,7 @@
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source
 * [fnd](https://fnd.io/) - App Store Search
 * [TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - Tweaked Apps
+* [TrollStore-IPAs](https://ipalibrary.net) - OLD iPA Files
 * [Moe's App Hub](https://rentry.co/FMHYB64#moes-app) - Tweaked Apps
 * [PlatinMods](https://platinmods.com/) - Tweaked Apps / Requires Sign-Up
 * [AppTesters](https://repository.apptesters.org/) - Tweaked Apps / [Telegram](https://t.me/AppleTesters)
