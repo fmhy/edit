@@ -682,6 +682,7 @@
 * [LiveScience](https://livescience.com/)
 * [ScienceNews](https://www.sciencenews.org/)
 * [IFLScience](https://www.iflscience.com/)
+* [⁠Nature This Week](https://naturethisweek.com/) - View Nature / Biology News from any Location
 
 ***
 
@@ -1083,6 +1084,7 @@
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
+* [Knockoff](https://knockoff.co/) - Remove Trademark-Squat Brands from Amazon Results / [GitHub](https://github.com/Shpigford/knockoff)
 * [⁠RedRecs](https://www.redrecs.com/) or [RedditRecs](https://redditrecs.com/) - Reddit Product Rankings, Summaries, and Comments
 * [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/) - Find Interesting Things to Buy
 * [⁠BuyItForLife](https://buyitforlife.com/) - Durable Product Shopping Guide / [Subreddit](https://www.reddit.com/r/BuyItForLife/)
@@ -1536,6 +1538,7 @@
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [OpenGeofiction](https://opengeofiction.net/) - User-Made Fictional Map
 * [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
+* [⁠The HTML Review](https://thehtml.review/archive) - Interactive Stories / Poetry Written in Code
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator

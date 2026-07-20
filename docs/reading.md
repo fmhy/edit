@@ -618,7 +618,7 @@
 * [ToposText](https://topostext.org/) - Greek Historical Documents
 * [Panjab Digital Library](http://www.panjabdigilib.org/) - Panjab Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [The Library](https://philological.cal.bham.ac.uk/library.html) or [⁠Corpus Corporum](https://mlat.uzh.ch/) - Historical Latin Texts
+* [The Library](https://philological.cal.bham.ac.uk/library.html), [⁠SCTA](https://scta.lombardpress.org/), [⁠CAMENA](https://mateo.uni-mannheim.de/camenahtdocs/camena_e.html) or [⁠Corpus Corporum](https://mlat.uzh.ch/) - Historical Latin Texts
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [Tank Archives](https://www.tankarchives.com/) - World War II Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
@@ -704,6 +704,7 @@
 * [Dimensions](https://app.dimensions.ai/discover/publication) - Research Papers / Patents Database
 * [Academia](https://www.academia.edu/) - Academic Papers / [Downloader](https://github.com/ryanfb/academia-dl)
 * [FreeFullPDF](https://freefullpdf.com/) - Academic Papers
+* [⁠Open Alex](https://openalex.org/) - Academic Papers
 * [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Clarivate](https://mjl.clarivate.com/) - Research Papers / Publications
 * [Science Hub](https://www.smartquantai.com/) - Research Papers
