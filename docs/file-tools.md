@@ -278,6 +278,7 @@
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Local / All Platforms / [Web Version](https://web.localsend.org/) / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
 * ⭐ **[Blip](https://blip.net/)** - Hybrid / Turn "Searchable by Name" Off in Settings / Windows, macOS, Android, iOS
+* [Handoff](https://send.nishal.dev) - Local / Windows, macOS, Linux, Android / Send file anywhere with file size 500mb and p2p unlimited / Source code will available soon
 * [Photon](https://photondev.netlify.app/) - Local / Windows, macOS, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Local / All Platforms / [Source Code](https://kdeconnect.kde.org/get-involved.html)
 * [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
