@@ -24,19 +24,19 @@
 * ⭐ **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[GOATED](https://goated.cx/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/b5SKRgX5Br)
 * ⭐ **[TouStream](https://toustream.xyz/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/us5-and-toustream-1157125685178007672)
-* ⭐ **[cinrift](https://cinrift.me/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
 * ⭐ **[Vyla](https://vyla.cc/)**, [2](https://vyla.qzz.io/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [ArrowTV](https://arrowtv.net/), [Cinezo](https://www.cinezo.net/) or [Flikhub](https://www.flikhub.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/yWWKfMbtm3)
 * [Cinetaro](https://cinetaro.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/4yGUxdz3h9)
+* [Cinegram](https://cinegram.tv/) - Movies / TV / Anime / Auto-Next
 * [Shiopa](https://shiopa.com/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/RTmqHSDReh)
 * [dulo.tv](https://dulo.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/2dZK8xGU3q)
+* [cinrift](https://cinrift.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
 * [MovieBite](https://moviebite.cc/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
 * [Overlook](https://overlook.cx/) - Movies / TV / Anime / [Discord](https://discord.com/invite/rbe9DJNuhH)
 * [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/VjHhPyuZX)
 * [Chillflix](https://chillflix.lol/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+jXrFnrO-TYA4ZGMy) / [Discord](https://discord.gg/6r5KTZgqXV)
 * [Moovie](https://moovie.fun/) - Movies / TV / Anime / Auto-Next
 * [Cinevibe](https://cinevibe.asia/), [2](https://cinevibe.site/), [3](https://cinevibe.icu/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/4BU2XbAPdu)
-* [Cinegram](https://cinegram.tv/) - Movies / TV / Anime / Auto-Next
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide) / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * [Movie Night](https://movienig.ht/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)
 * [Movish](https://movish.to/) or [LatestMovies](https://latestmovies.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FsbU2BQcjQ)

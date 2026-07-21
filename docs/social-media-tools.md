@@ -268,9 +268,8 @@
 ***
 
 ## ▷ Telegram File Tools
-
 * [tdl](https://docs.iyear.me/tdl/) - File Download / Upload Tool / [GitHub](https://github.com/iyear/tdl)
-* [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
+* [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [⁠Quicksbot](https://t.me/quicksbot), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
@@ -335,7 +334,7 @@
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
-* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
+* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
