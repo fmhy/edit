@@ -295,6 +295,7 @@
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFPs / Avatars
 * ⭐ **[Picrew](https://picrew.me/en/)** - Avatar Creator
 * [⁠Icon Gen](https://icon-gen.netlify.app/) - Logo to Avatar / Icon Generator
+* [⁠Pico](https://pico-icons.vercel.app/) - Icon Editor / Web
 * [PixelMe](https://xsgames.co/pixelme/) or [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - 8-bit Avatar Creators
 * [⁠Square Face Generator](https://squareface.app/) - Square Face Avatar Generator
 * [⁠Icon Z](https://icon-z.com/), [Avatar Maker](https://avatarmaker.com/), [Avataaars](https://getavataaars.com/) or [Personas](https://personas.draftbit.com/) - Simple Face Avatar Creators

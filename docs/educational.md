@@ -469,7 +469,7 @@
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
 * [⁠WikiSky](https://www.wikisky.org/), [SkyViewer](https://skyviewer.app/) or [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive Star Visualizations
-* [⁠Space Time](https://space.pointdynamics.com/) - 3D Solar System / Star System Simulator
+* [⁠Space Time](https://space.pointdynamics.com/) or [⁠SpaceSim](https://spacesim.co/) - 3D Solar System / Star System Simulators
 * [TheSkyLive](https://theskylive.com/), [Solar System Scope](https://www.solarsystemscope.com/) or [Atlas of Space](https://atlasof.space/) - Solar System Simulators / Information
 * [CelesTrack](https://celestrak.org/) - Earth Orbit Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
@@ -1157,7 +1157,7 @@
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [DelvinLanguage](http://delvinlanguage.com/) - Fill in Missing Japanese Words
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
-* [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana
+* [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App), [⁠Kana](https://vedxyz.github.io/kana/) or [RealKana](https://realkana.com/) - Learn Kana
 
 ***
 

@@ -1536,6 +1536,7 @@
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
 * [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
 * [tele-libre](https://telelibree.com/) - Live TV
+* [⁠Teleonline](https://teleonline.org/) - Live TV
 * [rtvcplay](https://rtvcplay.co/) - Free Public Colombian TV
 * [angulismotv](https://angulismotv.pages.dev) - Live Sports
 * [stream-xhd](https://stream-xhd.com/), [2](https://streamx-hd.com/) - Live Sports

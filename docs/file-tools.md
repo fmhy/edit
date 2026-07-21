@@ -350,7 +350,6 @@
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
-* [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download / **Use uBlock**
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)

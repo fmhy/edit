@@ -101,7 +101,7 @@
 * ⭐ **[Bingr](https://bingr.one/)** - Movies / TV / Anime
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[WatchFlux](https://watchflux.tv/)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[Moonflix](https://moonflix.site/)** - Movies / TV / Anime / [Telegram](https://t.me/Moonflix_official_Channel)
+* ⭐ **[Moonflix](https://moonflix.website/)** - Movies / TV / Anime / [Telegram](https://t.me/Moonflix_official_Channel)
 * ⭐ **[CineStream](https://cinestream.kje.us/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/2cG7pyvq38)
 * [Streaming Unity](https://streamingunity.dog/) - Movies / TV / Anime
 * [Ernax](https://ernax.pro/) - Movies / TV / Anime

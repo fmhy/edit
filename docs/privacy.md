@@ -185,7 +185,7 @@
 
 ***
 
-## ▷ Privacy Indexes
+## ▷ Privacy Guides / Indexes
 
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.net/)** - Online Anonymity Guide / [GitHub](https://github.com/Anon-Planet/thgtoa) 
 * ⭐ **[The OPSEC Bible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/)** (.onion), [2](https://bible.beginnerprivacy.com/opsec/) - Online Anonymity Guide
@@ -200,6 +200,7 @@
 * [⁠Whonix Wiki](https://www.whonix.org/wiki) - Educational Guide / [Forum](https://forums.whonix.org/)
 * [⁠Kicksecure Wiki](https://www.kicksecure.com/wiki) - Educational Guide / [Forum](https://forums.kicksecure.com/)
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
+* [paranoiaprivacy.wiki](https://paranoiaprivacy.wiki/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
 * [Beginner Privacy](https://beginnerprivacy.com/) - Beginners Privacy Guide / Checklist / [Mastodon](https://mastodon.social/@BeginnerPrivacy) / [Source Code](https://codeberg.org/BeginnerPrivacy) / [GitHub](https://github.com/beginnerprivacy/beginnerprivacy.com)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
@@ -265,6 +266,7 @@
 * ⭐ **[LibreWolf](https://librewolf.net/)** - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater), [2](https://codeberg.org/ltguillaume/librewolf-winupdater) / [Subreddit](https://www.reddit.com/r/LibreWolf) / [Source Code](https://codeberg.org/librewolf)
 * [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Debloat / Hardening](https://github.com/ChaoticSi1ence/SlimBrave-Neo) / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
+* [⁠Chromium Hardening Guide](https://rknf404.github.io/chromium-hardening-guide/) - Chromium Security Focused Guide + Config / [GitHub](https://github.com/RKNF404/chromium-hardening-guide)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
 * [⁠Disable JavaScript](https://disable-javascript.org/) - JavaScript Disabling Guide / Can Break Sites / Whitelisting Required
 

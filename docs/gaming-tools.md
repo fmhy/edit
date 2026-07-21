@@ -403,6 +403,7 @@
 * ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - Local Split-Screen PC Multiplayer / [Subreddit](https://www.reddit.com/r/nucleuscoop/) / [Discord](https://discord.com/invite/distro-nucleusco-op-142649962839277568)
 * [Fightcade](https://www.fightcade.com/) - Retro Multiplayer Game Matchmaking Tool / [Automation Guide](https://rentry.co/FMHYB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
 * [⁠GameDate](https://www.gamedate.org/) / [Subreddit](https://www.reddit.com/r/GameDate/), [NetplayFinder](https://www.netplayfinder.com/) / [Discord](https://discord.com/invite/SkRE39MGr7) or [Broop](https://broop.id/) - Game Session Scheduling / Group Finders
+* [⁠start.gg](https://www.start.gg/) - Organize / Track Esports Tournaments
 * [⁠bo3.gg](https://bo3.gg/) - Track ESport Matches, Scores and Streams
 * [Liquipedia](https://liquipedia.net/) - Competitive Gaming / ESports Wiki / [Discord](https://discord.com/invite/liquipedia)
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
@@ -743,8 +744,8 @@
 
 * 🌐 **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * 🌐 **[CurseForge Modpacks](https://www.curseforge.com/minecraft/search?class=modpacks)**  / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge) or [Modrinth Modpacks](https://modrinth.com/discover/modpacks) - Minecraft Mods
-* 🌐 **[Not Essential](https://alternatives.microcontrollers.dev/)** - List of Alternatives to Essential / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
-* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - OptiFine Alternatives for Fabric
+* 🌐 **[Microcontrollers' Alternatives](https://alternatives.microcontrollers.dev/)** - List of Alternatives to Microcontrollers' / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
+* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** or [OptiFine Replacements](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) - OptiFine Alternatives for Fabric
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM) or [MCPEDL](https://mcpedl.com/) or [⁠BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
 * [MC Archive](https://mcarchive.net/) - Old Mods / [Discord](https://discord.com/invite/WuexGpP)
@@ -837,7 +838,7 @@
 * ⭐ **[NameMC](https://namemc.com/)** / [Discord](https://discord.gg/NameMC), [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [Crafty](https://crafty.gg/) - Minecraft Name & Skin Availability Trackers
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Shader Mod for Minecraft / [Forge Version](https://modrinth.com/mod/oculus)
-* [MinecraftSkins](https://www.minecraftskins.com/), [MCSkins](https://mcskins.top/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
+* [MinecraftSkins](https://www.minecraftskins.com/), [MC-Skins](https://mc-skins.com/), [⁠MC Profiles](https://mcprofiles.net/), [MCSkins](https://mcskins.top/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
 * [MSkins](https://mskins.net/en) - Skin Grabber
 * [Ely.by](https://ely.by/) - Skin System / Authorization
 * [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes) or [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editors

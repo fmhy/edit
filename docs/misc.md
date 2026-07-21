@@ -1293,7 +1293,7 @@
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
-* [Private.coffee](https://private.coffee/services.html) - Text / Code 
+* [Private.coffee](https://private.coffee/services.html) - Text / Code
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
 * [delphitools](https://delphi.tools/), [2](https://tools.rmv.fyi/) - Social Media / Text / Image
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
