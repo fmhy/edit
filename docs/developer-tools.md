@@ -393,6 +393,7 @@
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [JSON Hero](https://jsonhero.io/) - JSON Viewer / Editor
+* [Pandia](https://www.pandia.app/) - Native JSON Viewer / Editor / Multi-GB Files / [GitHub](https://github.com/hendurhance/pandia)
 * [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross-Platform IDEs
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
