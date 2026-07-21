@@ -95,7 +95,7 @@
 * [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
 * [LobeHub](https://lobechat.com/chat) - Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [Noi](https://noib.app/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
-* [⁠Odysseus](https://pewdiepie-archdaemon.github.io/odysseus/) - Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+* [⁠Odysseus](https://odysseus-dev.github.io/odysseus/) - Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
 * [LibreChat](https://librechat.ai/) - Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [LoLLMs](https://lollms.com/) - Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)
 * [AnythingLLM](https://anythingllm.com/) - Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
