@@ -617,7 +617,7 @@
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [The Algorithms - C++](https://thealgorithms.github.io/C-Plus-Plus) - C++ Algorithms
 * [⁠C++ Insights](https://cppinsights.io/) or [cpp.sh](https://cpp.sh/) - Online C++ Compiler / Explorers
-* [⁠CompCert](https://compcert.org/) - Formally Verified Optimizing C Compiler / [GitHub](https://github.com/AbsInt/CompCert)
+* [⁠CompCert](https://compcert.org/) - Formally-Verified C Compiler / [GitHub](https://github.com/AbsInt/CompCert)
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
 

@@ -1277,6 +1277,7 @@
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
 * [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
+* [⁠FULU Bounties](https://bounties.fulu.org/) - Console DRM Removal Bounties
 * [Hots&Cots](https://www.hotscots.app/) - Military Reviews of Barracks / DFAC / [X](https://x.com/hotscots_app)
 
 ***
