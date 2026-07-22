@@ -16,7 +16,7 @@ const props = defineProps<{
 const prompts = [
   'Make it count!',
   'Leave some feedback for us!',
-  `We're all ears 🐰`,
+  "We're all ears 🐰",
   'Tell us what is missing in FMHY',
   'Your thoughts matter to us 💡',
   'Feedback is a gift 🎁',
@@ -26,13 +26,8 @@ const prompts = [
   'We need your help 👋',
   'Your feedback is valuable 💯',
   'So... what do you think?',
-  "I guess you don't need to say anything 😉",
-  'Spill the beans 💣',
   "We're always looking for ways to improve!",
   'Your feedback is valuable and helps us make FMHY better.',
-  'aliens are watching you 👽',
-  'tasky was here 👀',
-  'The internet is full of crap 😱'
 ]
 
 function getPrompt() {
@@ -42,8 +37,7 @@ function getPrompt() {
 const messages = {
   suggestion: [
     "We're glad you want to share your ideas!",
-    'Nix the fluff and just tell us what you think!',
-    "We'll be happy to read your thoughts and incorporate them into our wiki.",
+    "We'll be happy to read your thoughts and incorporate them into our wiki!",
     "Hello! We're glad you want to share your ideas!"
   ],
   appreciation: [
@@ -413,8 +407,8 @@ const resetFeedback = () => {
             ref="textareaRef"
             v-model="feedback.message"
             autofocus
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid resize-none overflow-y-auto"
-            placeholder="What a lovely wiki!"
+            class="<textarea class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid resize-none overflow-y-auto"
+            placeholder="(e.g. What a lovely wiki!)"
             @input="handleInput"
           />
           <div class="flex items-center gap-2 mt-2 mb-2">
@@ -446,7 +440,7 @@ const resetFeedback = () => {
             Contact Info (Optional)
           </div>
           <p class="desc mb-3">
-            Add your Discord handle if you would like a response, or if we need
+            Add your Discord handle or email address if you would like a response, or if we need
             more information from you, otherwise join our
             <a
               class="text-primary text-underline font-semibold"
@@ -459,7 +453,7 @@ const resetFeedback = () => {
             v-model="feedback.contact"
             type="text"
             class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="(ex. Discord: username)"
+            placeholder="(e.g. Discord: username)"
             @input="error = null"
           />
           <div class="flex flex-row gap-2 mt-4">
