@@ -1658,36 +1658,31 @@
 # ► Turkish / Türkçe
 
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
+* [Teyit](https://teyit.org/) - News Verification
 * [Market Fiyatı](https://marketfiyati.org.tr/) - Market Prices
 
 ## ▷ Downloading / İndirme
 
-* [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
+* [Türkçe Altyazı](https://turkcealtyazi.org/) - Turkish and English Subtitles
 * [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
-* [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Turkce Ses Dosyası](https://turkce-sesdosyasi.blogspot.com/) or [Turkish Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
+* [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/) or [Turkish Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Hangar](https://www.hangarceviri.com), [Calypso](https://www.calypsoceviri.com/) - Game Localizations
 * [Mp3 indir dur](https://www.mp3indirdur.com.tr/), [Mp3 semti](https://mp3semti.com/) - Music / MP3s
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Dizipal](https://dizipal1552.com/)** - Movies / TV / Sub / Dub / 1080p / Requires VPN
-* ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
+* ⭐ **[Dizipal](https://dizipal1565.com/)** - Movies / TV / Turkish / Sub / Dub / 1080p
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.cz)** - Movies / Sub / Dub / 1080p
 * ⭐ **[OpenAnime](https://openani.me/)** - Anime
-* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.life)** - Movies / Sub / Dub / 1080p
-* ⭐ **[AnimeciX](https://anm.cx/)** - Anime
-* [Dizilla](https://dizilla.to/), [2](https://selcukflix.co/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p
-* [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime
-* [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime / Requires VPN
-* [diziyo](https://diziyo.so/) - Movies / TV / Anime
-* [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p 
-* [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
-* [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime
+* ⭐ **[AnimeciX](https://animecix.tv/)** - Anime
+* **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
-* [Ddizi](https://www.ddizi.vip/) - TV
-* [Diziizle](https://www.diziizle.tel/) - TV
+* [Yabancıdizi](https://yabancidizi.news/) - Movies / TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
-* [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN
+* [Canlidizi](https://www.canlidizi14.com/) - Turkish / Movies / TV / Anime
+* [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
+* [Ddizi](https://www.ddizi.vip/) - Turkish / TV
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
@@ -1696,24 +1691,24 @@
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
 * [belgeselx](https://belgeselx.com/) - Documentaries
-* [Canlı TV](https://www.canlitv.me/) - Live TV / Requires VPN
+* [İnat TV](https://x.com/inattvapk) - Movies / TV / Sports
 * [Kral Bozguncu](https://discord.gg/kral) - Talk and watch football.
 
 ## ▷ Reading / Okuma
 
-* [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Books
-* [KediKitap](https://t.me/KediKitap) - Books
-* [E kütüphanem](https://t.me/addlist/og2-cDRwlu9mOTY0) - Books
-* [⁠Hattusa](https://hattusa.club/) - Books
+* [Kitap](https://t.me/addlist/ioGiM9KIZvhjOTZk) - Telegram Groups for Books
+* [E kütüphanem](https://t.me/addlist/og2-cDRwlu9mOTY0) - Telegram Groups for Books
+* [KediKitap](https://t.me/KediKitap) - Telegram Group for Books
+* [⁠Hattusa](https://hattusa.club/) - Books / Requires Login
 * [kitab-evi](https://kitab-evi.com/) - Books
+* [dergipark](https://dergipark.org.tr/tr/) or [trdizin](https://trdizin.gov.tr/) - Academic Journals
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [sadscans](https://sadscans.net/) - Manga / [Discord](https://discord.gg/wrr9A6wHGu)
 * [Trwebtoon](https://trwebtoon.com/) - Manga
 * [Nirvana Manga](https://nirvanamanga.com/) - Manga
 * [Tortuga-ceviri](https://tortugaceviri.com/) - Manga / [Discord](https://discord.gg/bSxwMNM9mm)
-* [Raindrop](https://www.raindropteamfan.com/) - Manga
+* [Raindrop Fansub](https://www.raindropteamfan.com/) - Manga
 * [Uzaymanga](https://uzaymanga.com/) - Manga
-* [dergipark](https://dergipark.org.tr/tr/) or [trdizin](https://trdizin.gov.tr/) - Academic Journals
 
 ***
 
