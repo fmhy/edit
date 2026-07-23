@@ -827,6 +827,7 @@
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
 * [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
 * [MCStacker](https://mcstacker.net/) / [Discord](https://discord.com/invite/WCb6GNf) - Minecraft Command Generators
+* [Best Minecraft IDs](https://bestminecraftid.com/) - Minecraft ID Database / Command Generators
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
 * [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 
