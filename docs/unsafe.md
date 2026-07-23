@@ -10,7 +10,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 * 🌐 **[Untrusted Sites](https://rentry.org/pgames#untrusted-sites)** / **[Uploaders](https://rentry.org/pgames#untrusted-uploaders)** - More Complete Lists
 * 🌐 **[Fake FitGirl Sites](https://clarasguide.valeena.workers.dev/Guides/FakeFitgirlwebsites/)**
-* 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
 * OceanOfGames - Caught with malware multiple times
 * xGIROx - Caught with malware
 * BBRepacks - Caught with malware
@@ -29,6 +28,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ***
 
+* 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
 * GetIntoPC / GetIntoMAC - Caught with [malware](https://www.virustotal.com/gui/file/5af9e89a7bfcfcae1c75de6acb7194b667d13776b61e79ea8aeab95f0af76bc7/), responsible for countless cases of malware at this point
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times

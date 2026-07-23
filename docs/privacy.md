@@ -189,18 +189,18 @@
 
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.net/)** - Online Anonymity Guide / [GitHub](https://github.com/Anon-Planet/thgtoa) 
 * ⭐ **[The OPSEC Bible](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/)** (.onion), [2](https://bible.beginnerprivacy.com/opsec/) - Online Anonymity Guide
-* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
+* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**, [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * ⭐ **[The New Oil](https://thenewoil.org/)** - Educational Guide / [GitHub](https://github.com/tnonate/thenewoil)
 * ⭐ **[No Trace](https://www.notrace.how/)** - Educational Guide / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
 * ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [GitHub](https://github.com/lissy93/awesome-privacy), [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) or [pluja's Awesome Privacy](https://pluja.github.io/awesome-privacy/) / [GitHub](https://github.com/pluja/awesome-privacy) - Privacy Apps / Services
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)**, [2](https://privacyguides.github.io/privacyguides.org/), [3](https://privacyguides-org-production.b-cdn.net/en/) - Educational Guide / [Discuss](https://discuss.privacyguides.net/) / [.onion](http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion/) / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Extension](https://github.com/FULU-Foundation/CRW-Extension) / [Discord](https://discord.gg/8w5rSNAXRf)
+* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
 * [Digital Defense](https://digital-defense.io/) - Personal Checklist for Privacy & Security / [GitHub](https://github.com/lissy93/personal-security-checklist)
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Educational Guide
 * [⁠Whonix Wiki](https://www.whonix.org/wiki) - Educational Guide / [Forum](https://forums.whonix.org/)
 * [⁠Kicksecure Wiki](https://www.kicksecure.com/wiki) - Educational Guide / [Forum](https://forums.kicksecure.com/)
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
-* [paranoiaprivacy.wiki](https://paranoiaprivacy.wiki/) - Educational Guide
+* [paranoiaprivacy.wiki](https://paranoiaprivacy.wiki/) - Educational Guide / [Codeberg](https://codeberg.org/Sauul/paranoiaprivacy)
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
 * [Beginner Privacy](https://beginnerprivacy.com/) - Beginners Privacy Guide / Checklist / [Mastodon](https://mastodon.social/@BeginnerPrivacy) / [Source Code](https://codeberg.org/BeginnerPrivacy) / [GitHub](https://github.com/beginnerprivacy/beginnerprivacy.com)
 * [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)

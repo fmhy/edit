@@ -201,12 +201,13 @@
 
 ## ▷ Hackintosh
 
-* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly.
+* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly. Keep in mind macOS Tahoe 27 will be the last working version on x86_64 hardware.
 
 ***
 
 * ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide
+* [⁠Hackmate](https://github.com/riftaway7-code/hackmate) - Hackintosh Bootable USB Automation
 * [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - macOS on Unsupported Hardware
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS VM with QEMU
 * [Emaculation](https://www.emaculation.com/) - Virtual macOS Environments

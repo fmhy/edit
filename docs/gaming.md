@@ -54,7 +54,7 @@
 
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / ROM Repacks / [Unofficial Launcher](https://github.com/CarrotRub/Fit-Launcher/)
 * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
-* ⭐ **[ARMGDDN Browser](https://github.com/KaladinDMP/AGBrowser)**, [2](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Download / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
+* ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - Download / Avoid Software / [Telegram](https://t.me/ARMGDDNGames) / [Discord](https://discord.gg/abeChzCy8X)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYB64#gnarly)** - Download / PW: `gnarly`
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [Glitchify Repacks](https://glitchify.org/) - Download / ROM Repacks
@@ -399,7 +399,6 @@
 * [SwitchROMS](https://switchroms.io/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch / Use Adblock
-* [RetroNDS](https://t.me/retronds) - ROMs / Switch / Requires Telegram
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
 * [3DSDB](https://3dsdb.com/) - 3DS Release Tracker
@@ -445,7 +444,7 @@
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
 * ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
-* ⭐ **[DOS Zone](https://dos.zone/)** - Retro PC Browser Emulators / [Discord](https://discord.com/invite/hMVYEbG)
+* ⭐ **[DOS Zone](https://dos.zone/)** / [Discord](https://discord.com/invite/hMVYEbG) or [⁠Retro Gaming](https://retrogaming.dpdns.org/) - Retro PC Browser Emulators 
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console
 * ⭐ **[Play Classic Games](https://playclassic.games/)** - Retro Consoles / Multiple-Emulators

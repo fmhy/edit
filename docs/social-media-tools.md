@@ -38,7 +38,7 @@
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
 * ⭐ **[stolen.shoes](https://stolen.shoes/)** - Discord Video Embedder
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
-* ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro / Boost Ads
+* ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro + Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
 * [⁠Nelly](https://nelly.tools/) - Discord Web Tools
 * [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub-ext) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
@@ -443,7 +443,6 @@
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
 * [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
-* [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
 
 ***
 
@@ -453,7 +452,7 @@
 * [Tubeup](https://github.com/bibanon/tubeup) - YouTube Video to IA Uploader
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
-* [TubeVault](https://tubevault.org/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
+* [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
 * [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [PreserveTube](https://preservetube.com/), [2](https://preservetube.net/), [3](https://preservetube.org/) or [Hobune](https://hobune.stream/) - YouTube Video Archives
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)

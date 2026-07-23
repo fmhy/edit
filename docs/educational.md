@@ -73,7 +73,6 @@
 * [FreeCourseSite](https://freecoursesite.com/) or [Docspedia](https://docspedia.world/) - Torrenting Sites / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [FreeCourseSites](https://freecoursesites.com/) - Courses
-* [learningDL](https://learningdl.net/) - Courses / Requires Leech
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 
@@ -145,7 +144,7 @@
 
 # ► Science / Math
 
-* ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
+* ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_science_news)**
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [LabXchange](https://www.labxchange.org/), [JavaLab](https://javalab.org/en/) or [EduMedia](https://www.edumedia.com/) - Interactive Science Simulations
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
@@ -336,6 +335,7 @@
 
 ## ▷ Biology
 
+* 🌐 **[⁠Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)** - Bioinformatics Learning Resources + Tools
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
 * ⭐ **[Animalia](https://animalia.bio/)** or [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
@@ -663,7 +663,7 @@
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
-* [TubeVault](https://tubevault.org/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
+* [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
 * [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/), [⁠Killed By OpenAI](https://www.killedbyopenai.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
 
@@ -827,14 +827,14 @@
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [⁠Online Coin Club](https://onlinecoin.club/) - Coin Collectors Database / Info
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database 
-* [ActivistHandbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
+* [Activist Handbook](https://activisthandbook.org/) or [Privacy Guides Activism](https://www.privacyguides.org/en/activism/) - Campaigning / Activism Guides
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [UER](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Forum / [MAP](https://www.uer.ca/locations/gmaps/)
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [Erowid](https://www.erowid.org/) or [Shroomery](https://www.shroomery.org/) - Psychoactive Information / Forum
-* [PsychonautWiki](https://psy.st/wiki/Main_Page) - Psychonautics Wiki
+* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Psychonautics Wiki
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 
 ***

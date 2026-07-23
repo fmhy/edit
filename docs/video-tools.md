@@ -145,7 +145,7 @@
 
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
 * ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / Windows, macOS, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* ⭐ **OBS Tools** - [Tweaks](https://ctt.cx/video/obs/) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Smooth Zoom](https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
+* ⭐ **OBS Tools** - [Tweaks](https://ctt.cx/video/obs/) / [Multi-Stream](https://sorayuki.github.io/obs-multi-rtmp/) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Smooth Zoom](https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
 * ⭐ **[Streamer.bot](https://streamer.bot/)** - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamerbot)
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
@@ -383,6 +383,7 @@
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
 * [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [⁠Lostnode](https://dl.lostnode.lol/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)

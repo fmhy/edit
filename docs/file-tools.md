@@ -182,7 +182,7 @@
 * ↪️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
 * ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/) or [OpenMyFiles](https://www.openmyfiles.com/) - File Extension Libraries
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photos / Videos by EXIF Date
-* [⁠HashCheck](https://github.com/idrassi/HashCheck), [HashGuard](https://github.com/MarchTheDev/HashGuard) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier 
+* [⁠HashCheck](https://github.com/idrassi/HashCheck), [HashGuard](https://github.com/MarchTheDev/HashGuard), [⁠HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
 * [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
 * [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
@@ -290,7 +290,6 @@
 * [croc](https://github.com/schollz/croc) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
-* [FilePizza](https://file.pizza/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, macOS, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
@@ -332,7 +331,7 @@
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [0807](https://0807.st/) - 10GB / Forever / [Discord](https://discord.gg/0807)
+* [0807](https://0807.st/) - 10GB / Forever / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)

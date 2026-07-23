@@ -18,7 +18,7 @@
 ## ▷ Downloading / تحميل
 
 * [Stardima](https://www.stardima.com/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
-* [⁠My Cima](https://my-cima.video/) - Movies / TV / Anime / Hard Subs
+* [⁠My Cima](https://mycima.gripe/) - Movies / TV / Anime / Hard Subs
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FilmCity](https://m.filmcity12.com/) - Movies
 * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -29,7 +29,7 @@
 
 ## ▷ Torrenting / التورنت
 
-* [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
+* [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker / Signup Required
 
 ## ▷ Streaming / البث
 
@@ -40,7 +40,7 @@
 * [egybest](https://egybest.la/) - Movies / TV / Anime
 * [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [kirmalk](https://ta.kirmalk.com/) - Movies / TV
-* [⁠My Cima](https://my-cima.video/) - Movies / TV
+* [⁠My Cima](https://mycima.gripe/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - Movies / TV
 * [witanime](https://witanime.you/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.com/) - Anime

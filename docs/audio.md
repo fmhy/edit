@@ -383,10 +383,10 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
-* ⭐ **[squid.wtf](https://squid.wtf/)** - Amazon Music / KHInsider / SoundCloud / saavn-dl / FLAC
+* ⭐ **[squid.wtf](https://squid.wtf/)** - Deezer / Amazon Music / KHInsider / SoundCloud / saavn-dl / FLAC
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / MP3 / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
+* [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / ALAC / AAC / MP3 / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / 320kb
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb
@@ -405,7 +405,7 @@
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
 * [OnTheSpot](https://github.com/justin025/onthespot) - Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal / [Discord](https://discord.com/invite/hz4mAwSujH)
-* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
+* [⁠Antra](https://github.com/anandprtp/Antra) - Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 128kb Free / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
@@ -428,7 +428,7 @@
 * [deezload2bot](https://t.me/deezload2bot) - Deezer / 320kb MP3 / [Updates](https://t.me/DEDSEClulz)
 * [BeatSpotBot](https://t.me/BeatSpotBot) - Spotify / Apple / YouTube / FLAC / 25 Daily
 * [scdlbot](https://t.me/scdlbot) - YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3
-* [⁠Antra Lossless](https://t.me/antralossless_bot) - Apple Music / Amazon Music / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/cGSuh45wJ)
+* [⁠Antra Lossless](https://t.me/antralossless_bot) - Apple Music / Amazon Music / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠alac_collab_bot](https://t.me/alac_collab_bot) - Apple Music / ALAC / Atmos / AAC / 20 Daily / [Telegram](https://t.me/apple_music_bot_alac)
 * [vkmusbot](https://t.me/vkmusbot) or [Meph Bot](https://t.me/mephbot) - VK / 320kb MP3
 * [GlomaticoPinkMusicBot](https://t.me/GlomaticoPinkMusicBot) - Apple Music Downloader / [Telegram](https://t.me/GlomaticoBotSupport) / [Discord](https://discord.gg/aBjMEZ9tnq)
@@ -849,7 +849,7 @@
 ## ▷ Song Identification
 
 * ⭐ **[Google Song Identification](https://support.google.com/websearch/answer/7554088)** / Android, iOS / [Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-song-identification.md)
-* ⭐ **[Shazam](https://www.shazam.com/)** / Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
+* ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [AudioTag](https://audiotag.info/) / Web
