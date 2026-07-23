@@ -1065,6 +1065,7 @@
 * [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
 * [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
 * [HiveRSS](https://www.hiverss.com/) - Create Hive RSS Feeds
+* [Vaultion](https://vaultion.org/) - Non-custodial auto crypto escrow with Kleros arbitration
 
 ***
 
