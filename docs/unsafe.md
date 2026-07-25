@@ -95,6 +95,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)
 * 360 Total Security - Apps give [constant popups](https://wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
+* Nightcord / Lightcord - contained [Tokenloggers](https://gist.github.com/Vendicated/bb30cb67878fa682bcee140f56af1531) / [Malware](https://imgur.com/a/7NvJeAD)
 
 ***
 
