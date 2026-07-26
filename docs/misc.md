@@ -419,7 +419,7 @@
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 * [Skimap.org](https://skimap.org/) - Detailed Ski Maps
-* [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/) or [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
+* [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance) or [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates
 
@@ -1294,6 +1294,7 @@
 * [⁠Ou0.cc](https://ou0.cc/) - Text / Social Media / Code / Multimedia
 * [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
+* [⁠Edge Tools](https://edgetools.io/) - Image / Text / PDF / Code
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF

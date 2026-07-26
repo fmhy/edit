@@ -45,11 +45,10 @@
 * [witanime](https://witanime.you/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.com/) - Anime
 * [Kawaii Anime](https://kawaii-anime.com/) - Anime
-* [animeslayer](https://animeslayer.to/) - Anime / 1080p / Avoid Their App (Outdated)
+* [Anime Slayer](https://animeslayer.to/) - Anime / 1080p / [Android App](https://anslayer.com/) / [Discord](https://discord.gg/DNfGhF2RhQ)
 * [animezid](https://animezid.net/) - Anime / Cartoons
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [⁠ani-cli-arabic](https://ani-cli-arabic.dev/) - Anime CLI / [GitHub](https://github.com/np4abdou1/ani-cli-arabic)
-* [⁠Anime Slayer](https://app-mo.com/ ) - Anime Android App
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [al-fann](https://www.al-fann.net/) - Music
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
@@ -407,6 +406,7 @@
 * [finna.fi](https://www.finna.fi/) - Media Archive / Requires Library Card
 * [Sanuli](https://sanuli.fi/) - Finnish Wordle
 * [Viittomaluettelot](https://suvi.viittomat.net/) - Sign Language Dictionary
+* [⁠Fintraffic](https://matka.fintraffic.fi/) - Public Transport Route Planner 
 
 ## ▷ Streaming / Suoratoisto
 
@@ -1782,8 +1782,8 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim.org/), [2](https://tramphim.pro/), [3](https://tramphim.live/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
-* [⁠Sofaflix](https://sofaflix.mom/) - Movies / TV / Anime
+* [⁠Tram Phim](https://tramphim1.cc/) - Movies / TV / Anime / [Telegram](https://t.me/tramphimorg) / [Discord](https://discord.com/invite/u9sA5EQM7)
+* [⁠Sofaflix](https://sofaflix.best/) - Movies / TV / Anime / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p

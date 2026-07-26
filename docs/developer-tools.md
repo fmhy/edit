@@ -276,6 +276,7 @@
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, [Shizuku](https://shizuku.rikka.app/) / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [⁠FreeTheAI](https://freetheai.xyz/) - AI API Gateway
+* [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) or [9Router](https://9router.com/) - Self-Hosted AI API Routers / Proxies for Developers 
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
@@ -538,6 +539,7 @@
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
+* [⁠Poolside AI](https://platform.poolside.ai/) - Coding AI API
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
 ***
@@ -1079,7 +1081,6 @@
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
-* ⭐ **[Codeberg Pages](https://codeberg.page/)** - 750MB / Unlimited / Only Open-Source Projects / [Request Storage](https://codeberg.org/Codeberg-e.V./requests)
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Free Tier Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/neocities.md)
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
@@ -1088,6 +1089,7 @@
 * [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB / [Discord](https://discord.com/invite/appwrite)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain
 * [Sevalla](https://sevalla.com/static-site-hosting/) - 1GB / 100GB / No Custom Domain
+* [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects / [Request Storage](https://codeberg.org/Codeberg-e.V./requests)
 * [Reocities](https://www.reocities.xyz/) - 1GB / Unlimited / No Custom Domain
 
 ***

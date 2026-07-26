@@ -146,7 +146,7 @@
 * ⭐ **[Thunderstore](https://thunderstore.io/)** - Unity Game Mods / Mod Manager / [Discord](https://discord.thunderstore.io/)
 * ⭐ **[GameBanana](https://gamebanana.com/)** - Game Mods / [Discord](https://discord.com/invite/h5xJv9M)
 * ⭐ **[ModdingLinked](https://moddinglinked.com/)** / [Discord](https://discord.com/invite/S99Ary5eba) or [⁠Step Modifications](https://stepmodifications.org/) - Bethesda Game Modding Guides
-* [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)
+* [Wand](https://wand.com/) - Mods / Trainer Manager / Single Player Only / [Features](https://rentry.co/FMHYB64#wemod), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search)
 * [ModOrganizer](https://github.com/ModOrganizer2/modorganizer) - Mod Manager
 * [Vortex](https://www.nexusmods.com/vortex) - Mod Manager
 * [Mod.io](https://www.mod.io/) - Cross-Platform Game Mods Support / [Discord](https://discord.com/invite/modio)
