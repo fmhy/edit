@@ -1560,6 +1560,7 @@
 
 ## ▷ UI / UX
 
+* 🌐 **[UI/UX Design Resources](https://github.com/hendurhance/ui-ux)** - UI / UX Learning Resources & Guides
 * [design.tips](https://www.designer.tips/) or [Utopia](https://utopia.fyi/) - Design Tips
 * [HackDesign](https://hackdesign.org/) or [Sky Design](https://github.com/josephgoksu/sky-design) - UI / Webdesign Courses
 * [Can't Unsee](https://cantunsee.space/) - UI Design Test
