@@ -378,11 +378,12 @@ function buildUrlQuery(query: string): UrlQuery | null {
 function looksLikeUrlQuery(query: string) {
   const normalized = normalizeUrlSearchValue(query)
   const stripped = stripSchemeAndWww(normalized)
+  const isSingleToken = !/\s/.test(query.trim())
   return (
     /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) ||
     normalized.startsWith('www.') ||
-    stripped.includes('.') ||
-    stripped.includes('/')
+    (isSingleToken && stripped.includes('.')) ||
+    (isSingleToken && stripped.includes('/'))
   )
 }
 
