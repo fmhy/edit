@@ -618,12 +618,12 @@
 * [Panjab Digital Library](http://www.panjabdigilib.org/) - Panjab Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
 * [The Library](https://philological.cal.bham.ac.uk/library.html), [⁠SCTA](https://scta.lombardpress.org/), [⁠CAMENA](https://mateo.uni-mannheim.de/camenahtdocs/camena_e.html) or [⁠Corpus Corporum](https://mlat.uzh.ch/) - Historical Latin Texts
-* [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
+* [World Radio History](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [Tank Archives](https://www.tankarchives.com/) - World War II Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
-* [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
+* [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [Radical Scatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts

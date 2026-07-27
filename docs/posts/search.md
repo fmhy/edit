@@ -23,6 +23,12 @@ Search engine hosted on FMHY.net
 
 ---
 
+### [⁠FMHY λ Seλrch](https://search.fmhy.bid/)
+
+FMHY semantic search engine
+
+---
+
 ### [GitHub Search](https://github.com/search?q=repo%3Afmhy%2FFMHY+&type=wikis)
 
 GitHub page search engine

@@ -49,6 +49,7 @@
 * [Free For Life](https://free.hrsn.dev/) - Tool Index / [GitHub](https://github.com/wdhdev/free-for-life/)
 * [WebdevHome](https://webdevhome.github.io/) - Tool Index
 * [Free Developer Stuff](https://freestuff.dev/) - Tool Index
+* [⁠Awesome Stars](https://github.com/ManUtopiK/awesome-stars) - Tool Index
 * [Addy](https://toolkit.addy.codes/) - Tool Index
 * [Prototypr](https://prototypr.io/toolbox/page/1) - Tool Index
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
@@ -563,6 +564,7 @@
 
 ## ▷ Developer Utilities
 
+* 🌐 **[⁠Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)** - Index of AI Dev Tools
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Skills](https://skills.sh/) - Add Capabilities to AI Agents
