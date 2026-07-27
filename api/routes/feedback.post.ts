@@ -59,9 +59,14 @@ async function translateWithWorkersAI(
         role: 'system',
         content:
           'Detect the language of the user message. If it is not English, translate it to English. ' +
+          'Misspelled, informal, or grammatically incorrect English is still English — do NOT translate it. ' +
+          'Social media patterns such as emoji interspersed between words or syllables are English internet slang — treat them as English. ' +
+          'URLs, domain names (e.g. kagane.to, example.org), and technical terms are language-neutral — detect language from the surrounding prose only, ignoring them. ' +
+          'If the message is gibberish, random characters, or an unrecognisable language, set translated to null. ' +
           'Respond with ONLY compact JSON, no other text: ' +
-          '{"lang":"<ISO 639-1 code>","translated":"<English translation>"}. ' +
-          'If the message is already English, respond with {"lang":"en","translated":null}.'
+          '{"lang":"<ISO 639-1 code>","translated":"<English translation or null>"}. ' +
+          'If the message is already English (including misspelled English), respond with {"lang":"en","translated":null}. ' +
+          'When uncertain whether a message is English, default to treating it as English.'
       },
       { role: 'user', content: message }
     ],
@@ -77,11 +82,13 @@ async function translateWithWorkersAI(
   } else if (typeof response === 'string') {
     const match = response.match(/\{[\s\S]*\}/)
     if (!match) {
-      throw new Error('Translation response did not contain JSON')
+      console.warn('Translation response did not contain JSON:', response)
+      return null
     }
     ;({ lang, translated } = JSON.parse(match[0]))
   } else {
-    throw new Error(`Unexpected translation response type: ${typeof response}`)
+    console.warn('Unexpected translation response type:', typeof response)
+    return null
   }
 
   if (!lang || typeof translated !== 'string') return null
