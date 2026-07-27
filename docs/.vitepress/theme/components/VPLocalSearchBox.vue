@@ -2010,7 +2010,7 @@ function formMarkRegex(terms: Set<string>, rawQuery: string) {
   for (const term of terms) {
     allTerms.add(term)
   }
-  if (isFuzzySearch.value) {
+  if (isFuzzySearch.value && !looksLikeUrlQuery(rawQuery)) {
     const words = rawQuery
       .trim()
       .split(/[\s\W]+/)
@@ -2019,7 +2019,14 @@ function formMarkRegex(terms: Set<string>, rawQuery: string) {
       allTerms.add(word)
     }
   } else {
-    allTerms.add(rawQuery.trim())
+    const trimmed = rawQuery.trim()
+    allTerms.add(trimmed)
+    if (looksLikeUrlQuery(rawQuery)) {
+      const stripped = stripSchemeAndWww(normalizeUrlSearchValue(trimmed))
+      if (stripped && stripped !== trimmed.toLowerCase()) {
+        allTerms.add(stripped)
+      }
+    }
   }
   return new RegExp(
     [...allTerms]
