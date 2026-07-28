@@ -280,6 +280,7 @@
 * [PC Manager](https://pcmanager.microsoft.com/) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.callback.com/sftpdrive) - Mount SFTP Servers as Local Disks
+* [MultiDrive](https://multidrive.io) - Clone, Erase, Back up Drives 
 
 ***
 
