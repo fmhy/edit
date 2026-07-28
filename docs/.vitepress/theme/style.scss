@@ -582,3 +582,290 @@ html.theme-view-transition .VPNavScreen,
 html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
   display: none !important;
 }
+
+/* Monolith Theme — Hard-edged, brutalist, blocky aesthetic */
+html.monolith {
+  /* Sharp corners everywhere */
+  *,
+  *::before,
+  *::after {
+    border-radius: 0 !important;
+  }
+
+  /* Typography — dense, heavy, imposing */
+  body {
+    font-weight: 600;
+    line-height: 1.25;
+    font-size: 17px;
+  }
+
+  .VPDoc {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      font-size: 2rem;
+      letter-spacing: 0.05em;
+      border-bottom: 2px solid var(--vp-c-brand-1);
+      padding-bottom: 0.5em;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      border-bottom: 1px solid var(--vp-c-brand-1);
+      padding-bottom: 0.4em;
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+      letter-spacing: 0.03em;
+    }
+  }
+
+  /* Code blocks — solid, thick borders */
+  .vp-doc {
+    pre,
+    code {
+      font-family: 'JetBrains Mono', monospace !important;
+      border: 1px solid rgba(244, 42, 139, 0.3);
+      background: rgba(6, 7, 11, 0.8);
+    }
+
+    pre {
+      border-left: 4px solid var(--vp-c-brand-1);
+      background: #06070b;
+      padding: 1.5em;
+      margin: 1em 0;
+
+      code {
+        background: transparent;
+        border: none;
+        padding: 0;
+        line-height: 1.6;
+      }
+    }
+
+    /* Inline code — sharp rectangles */
+    :not(pre) > code {
+      border: 1px solid var(--vp-c-brand-1);
+      background: rgba(6, 7, 11, 0.5);
+      padding: 0.2em 0.5em;
+    }
+  }
+
+  /* Custom blocks — solid, thick borders */
+  .custom-block {
+    border: 2px solid;
+    border-left-width: 6px;
+    background: rgba(6, 7, 11, 0.6);
+    box-shadow: none;
+
+    &.info {
+      border-color: #005eff;
+      border-left-color: #005eff;
+    }
+
+    &.tip {
+      border-color: #1b8a4e;
+      border-left-color: #1b8a4e;
+    }
+
+    &.warning {
+      border-color: #d97706;
+      border-left-color: #d97706;
+    }
+
+    &.danger {
+      border-color: #dc2626;
+      border-left-color: #dc2626;
+    }
+  }
+
+  /* Buttons — sharp rectangles */
+  .VPButton {
+    border-radius: 0 !important;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    &:hover {
+      transform: none;
+      box-shadow: 0 0 0 2px var(--vp-c-brand-1);
+    }
+  }
+
+  /* Navbar — solid block */
+  .VPNav,
+  .VPNavBar {
+    backdrop-filter: none !important;
+    background: #06070b !important;
+    border-bottom: 2px solid var(--vp-c-brand-1);
+  }
+
+  /* Sidebar — thick accent border */
+  .VPSidebar {
+    border-right: 3px solid var(--vp-c-brand-1);
+    background: #06070b;
+
+    .VPSidebarItem.is-active > .link {
+      background: var(--vp-c-brand-1);
+      color: #ffffff;
+      font-weight: 700;
+      padding-left: 0;
+
+      &::before {
+        content: '▮';
+        color: #ffffff;
+        margin-right: 0.5em;
+      }
+    }
+  }
+
+  /* Search box — rectangular */
+  .VPLocalSearchBox {
+    border: 2px solid var(--vp-c-brand-1);
+    border-radius: 0 !important;
+
+    .backdrop {
+      backdrop-filter: none;
+      background: rgba(6, 7, 11, 0.95);
+    }
+  }
+
+  /* Tooltips — no blur, solid */
+  .v-popper--theme-tooltip .v-popper__inner {
+    background: #06070b !important;
+    backdrop-filter: none;
+    border: 2px solid var(--vp-c-brand-1);
+    box-shadow: none;
+  }
+
+  /* Theme selector dropdown — sharp */
+  .v-popper--theme-theme-selector .v-popper__inner {
+    border: 2px solid var(--vp-c-brand-1);
+    border-radius: 0 !important;
+    box-shadow: none;
+    background: #06070b;
+  }
+
+  /* Footer — heavy bottom border */
+  .VPFooter {
+    border-top: 2px solid var(--vp-c-brand-1);
+    background: #06070b;
+    padding: 2em 0;
+
+    a {
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  /* Hero section — no gradient, solid */
+  .Home {
+    &.home {
+      .hero {
+        .tagline {
+          font-weight: 700;
+          letter-spacing: 0.02em;
+        }
+      }
+    }
+  }
+
+  /* Remove all soft shadows */
+  .VPFeature,
+  .VPDocFooter,
+  .VPPageNav,
+  .DocTableOfContents,
+  .VPHero {
+    box-shadow: none !important;
+    background: transparent;
+  }
+
+  /* Links — solid underline, no soft transitions */
+  a {
+    border-bottom: 1px solid var(--vp-c-brand-1);
+    transition: none;
+    font-weight: 700;
+
+    &:hover {
+      border-bottom-color: var(--vp-c-brand-3);
+    }
+  }
+
+  /* Images — sharp borders */
+  img {
+    border: 1px solid var(--vp-c-brand-1);
+  }
+
+  /* Scrollbar — solid, no rounding */
+  ::-webkit-scrollbar {
+    border-radius: 0;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 0;
+    background: var(--vp-c-brand-1);
+  }
+
+  /* Selection — sharp rectangle */
+  ::selection {
+    border-radius: 0;
+  }
+
+  /* Progress bar — sharp rectangle */
+  #nprogress .bar {
+    border-radius: 0;
+  }
+
+  /* Tables — sharp, solid borders */
+  table {
+    border: 2px solid var(--vp-c-brand-1);
+    border-collapse: collapse;
+
+    th,
+    td {
+      border: 1px solid var(--vp-c-brand-1);
+      padding: 0.75em;
+      font-weight: 600;
+    }
+
+    th {
+      background: rgba(6, 7, 11, 0.9);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  /* Horizontal rules — thick, solid */
+  hr {
+    border: none;
+    border-top: 2px solid var(--vp-c-brand-1);
+    margin: 1.5em 0;
+  }
+
+  /* Lists — solid markers */
+  ul,
+  ol {
+    padding-left: 1.5em;
+
+    li {
+      &::marker {
+        color: var(--vp-c-brand-1);
+        font-weight: 700;
+      }
+    }
+  }
+}

@@ -84,10 +84,10 @@ export const monochromeTheme: Theme = {
         3: '#CCCCCC',
         soft: '#999999'
       },
-      bg: '#000000',
-      bgAlt: '#0A0A0A',
-      bgElv: 'rgba(0, 0, 0, 0.95)',
-      bgMark: '#1A1A1A',
+      bg: '#1a1a1a',
+      bgAlt: '#171717',
+      bgElv: 'rgba(26, 26, 26, 0.95)',
+      bgMark: '#262626',
       text: {
         1: '#FFFFFF',
         2: '#CCCCCC',
