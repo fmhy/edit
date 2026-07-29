@@ -346,18 +346,17 @@
 
 ## ▷ Root Managers
 
-* ⭐ **[KernelSU](https://kernelsu.org/)** / [GitHub](https://github.com/tiann/KernelSU)
-* [Magisk](https://github.com/topjohnwu/Magisk)
-* Magisk Tools - [Module Manager](https://github.com/DerGoogler/MMRL) / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
-* [KernelSU-Next](https://kernelsu-next.github.io/webpage/) / [Telegram](https://t.me/ksunext) / [GitHub](https://github.com/KernelSU-Next/KernelSU-Next)
-* [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-* [APatch](https://github.com/bmax121/APatch)
-* [⁠Magisk Alpha](https://t.me/magiskalpha)
-* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
-* [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
-* [MTKClient](https://github.com/bkerler/mtkclient)
-* [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su)
-* [FolkPatch](https://fp.mysqil.com/en) / [GitHub](https://github.com/matsuzaka-yuki/FolkPatch)
+* ⭐ **[KernelSU](https://kernelsu.org/)** / [GitHub](https://github.com/tiann/KernelSU) - Kernel-level root solution for Android GKI devices
+* ⭐ **[APatch](https://apatch.dev/)** / [GitHub](https://github.com/bmax121/APatch) - Kernel-level root solution for Android kernel versions 3.18 - 6.12
+* [Magisk](https://github.com/topjohnwu/Magisk) - User-space level root solution for Android 6.0+ devices
+* Magisk Tools - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [PlayIntegrity Fix](https://xdaforums.com/t/tricky-store-bootloader-keybox-spoofing.4683446/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
+* [MMRL](https://mmrl.dev/) / [GitHub](https://github.com/MMRLApp/MMRL) - Module manager
+* [KernelSU-Next](https://kernelsu-next.github.io/webpage/) / [Telegram](https://t.me/ksunext) / [GitHub](https://github.com/KernelSU-Next/KernelSU-Next) - KernelSU fork
+* [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - KernelSU fork
+* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/) - KernelSU fork
+* [FolkPatch](https://fp.mysqil.com/en) / [GitHub](https://github.com/matsuzaka-yuki/FolkPatch) - APatch fork
+* [MTKClient](https://github.com/bkerler/mtkclient) - Mediatek Flash and Repair Utility
+* [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Bootless root access
 
 ***
 
