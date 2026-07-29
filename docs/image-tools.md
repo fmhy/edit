@@ -277,6 +277,7 @@
 ## ▷ Design Apps
 
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
+* [Plasmic](https://www.plasmic.app/) - Design Collab App / Web
 * [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Invites](https://rentry.co/FMHYB64#canva)
 * [lunacy](https://icons8.com/lunacy) - Design App / Windows, macOS, Linux
 * [VistaCreate](https://create.vista.com/) - Design App / Web
@@ -285,6 +286,7 @@
 * [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design / Web
 * [Pixelied](https://pixelied.com/) - Online Design Tool / Web
 * [⁠Antlii](https://antlii.work/) - Online Design Generators
+* [⁠Pomelli](https://labs.google.com/pomelli/) - Brand Content Generator
 * [⁠Dirty Little Zine](https://dirtylittlezine.com/) - Printable Zine Creator
 
 ***
@@ -416,6 +418,7 @@
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [Pose Search](https://x6ud.github.io/pose-search/) - Pose Reference Image Search / [GitHub](https://github.com/x6ud/pose-search)
+* [⁠Angle Ref Search](https://angleref.com/) - Head Pose Reference Image Search
 
 ***
 

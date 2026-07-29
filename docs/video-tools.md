@@ -220,6 +220,7 @@
 * [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
 * [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
 * [KikoPlay](https://kikoplay.fun/) - Video Player
+* [h5player](https://h5player.anzz.top/) - Add Features to HTML5 Video Players / [GitHub](https://github.com/xxxily/h5player)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player

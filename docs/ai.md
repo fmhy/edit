@@ -99,6 +99,7 @@
 * [LibreChat](https://librechat.ai/) - Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [LoLLMs](https://lollms.com/) - Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)
 * [AnythingLLM](https://anythingllm.com/) - Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
+* [⁠Colibri](https://github.com/JustVugg/colibri) - Run GLM 5.2 w/ 24GB RAM
 * [tgpt](https://github.com/aandrew-me/tgpt) - Command-Line Interface
 * [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Language Model Bridge / Lightweight / Minimal 
 

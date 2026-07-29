@@ -333,7 +333,7 @@
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * ⭐ **[TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher)** - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [LEGENDARY](https://github.com/derrod/legendary) / [Discord](https://legendary.gl/discord) or [Rare](https://raredevs.github.io/Rare/) / [GitHub](https://github.com/RareDevs/Rare) - Epic Games Launchers
-* [Depressurizer](https://github.com/Depressurizer/Depressurizer) or [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
+* [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
 * [Steam Extensions](https://redd.it/1sp8quf) - How-To Add Chrome Extensions to Steam
 * [⁠Steam Overlay Customization](https://gist.github.com/JMcrafter26/bad71e96d9bee2900008cbca10075968) - Steam Overlay Customization / Extension Guide
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
@@ -689,6 +689,7 @@
 * [CraftyControl](https://craftycontrol.com/) - Server Manager / [GitLab](https://gitlab.com/crafty-controller/crafty-4)
 * [MCSManager](https://mcsmanager.com/) - Server Manager / [GitHub](https://github.com/MCSManager/MCSManager)
 * [Fork](https://www.fork.gg/) - Server Manager / [GitHub](https://github.com/ForkGG)
+* [⁠Steam Bridge](https://github.com/Ragalikx/steam-bridge-mc) - Host Minecraft Servers via Steam
 * [SquidServers](https://squidservers.com/) - Server Manager / Easy Setup / [Discord](https://discord.gg/Y8QtmK2exk) / [GitHub](https://github.com/squidservers)
 * [⁠MCJars](https://mcjars.app/) - Server Jar Archive
 * [⁠GrimAC](https://modrinth.com/plugin/grimac) - Free Server Anti-Cheat / [GitHub](https://github.com/GrimAnticheat/Grim)
@@ -825,6 +826,7 @@
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia / [Discord](https://discord.com/invite/RUEVmTahYg)
 * ⭐ **[spark](https://spark.lucko.me/)** - Minecraft Performance Profiler / [Discord](https://discord.com/invite/PAGT2fu) / [GitHub](https://github.com/lucko/spark)
 * ⭐ **[Minecraft Java Flags](https://unascribed.com/garden/jvm-args/)** - Java Edition Performance Tweaks
+* [⁠Bedrock Wiki](https://wiki.bedrock.dev/) - Bedrock Technical Feature Wiki 
 * [Report Inspector](https://misode.github.io/report/) - Crash Report / Profiling Inspector
 * [⁠Minecraft TAS](https://minecrafttas.com/) - Minecraft TAS Community / Tools / Tutorials / [Discord](https://discord.gg/jGhNxpd)
 * [Mineflayer](https://prismarinejs.github.io/mineflayer/) - Minecraft Bot Creator / [Discord](https://discord.com/invite/GsEFRM8) / [GitHub](https://github.com/PrismarineJS/mineflayer)
@@ -984,6 +986,7 @@
 * ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides / [Discord](https://discord.com/invite/WBBwg5X)
 * [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
 * [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
+* [⁠FilterBlade](https://www.filterblade.xyz/) - Path of Exile Custom Loot Filters
 * [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
 * [⁠ChromieCraft](https://chromiecraft.com/en/) - F2P WoW Private Server / No Pay-to-Win / [Discord](https://discord.gg/3YaAywYDN7)
 * [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)

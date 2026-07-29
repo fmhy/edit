@@ -968,6 +968,7 @@
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
+* [⁠The Book Prize Index](https://book-prize-index.vercel.app/) - Book Awards + Winning Book Index
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [⁠NPR's Books We Love](https://apps.npr.org/best-books/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers

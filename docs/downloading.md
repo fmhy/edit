@@ -196,7 +196,7 @@
 * [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
-* [⁠aninzb](https://aninzb.moe/) - Anime NZB Indexer
+* [⁠aninzb](https://aninzb.moe/) or [⁠AmeNZB](https://amenzb.moe/) (signup) - Anime NZB Indexer
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [altHUB](https://althub.co.za) - Unlimited Free Trials
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
@@ -229,7 +229,7 @@
 * ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [⁠Debridr](https://debridr.com/) - Bypass Premium Link Limits
-* [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.org/), [2](https://pixeldrain-bypass.gamedrive.to/) - Bypass PixelDrain Link Speed Limits
+* [PixelDrain Bypass](https://pixeldrain-bypass.gamedrive.to/) - Bypass PixelDrain Link Speed Limits
 * [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/), [⁠Debrid Vault](https://debridvault.elfhosted.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers / Cloud Managers

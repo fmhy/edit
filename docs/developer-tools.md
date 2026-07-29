@@ -60,7 +60,7 @@
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/), [tl;drLegal](https://www.tldrlegal.com/), [SPDX License List](https://spdx.org/licenses/) or [ChooseALicense](https://choosealicense.com/) - License Picking Guides / Lists
 * [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) - SSH Clients / Servers
 * [Beszel](https://beszel.dev/) - Dev Data Dashboard / [iOS App](https://github.com/Loriage/Beszel-Swift-App)
-* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Multi-Tab](https://ttyplus.com/)
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [⁠Nept](https://nept.cloud/) - Instantly Deploy 20+ Frameworks (Deploy Next.js, Python, Go, etc.)
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
@@ -116,6 +116,7 @@
 * 🌐 **[Mobbin](https://mobbin.com/)** or [UISources](https://uisources.com/) - Mobile UI Resources
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
+* ⭐ **[Android Studio](https://developer.android.com/studio)** - App Creator / Builder
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [IconKitchen](https://icon.kitchen/) - App Icon Generator
 * [⁠ChromeXt](https://github.com/JingMatrix/ChromeXt) - Add Dev Tools / Inspect Element to Mobile Browsers
@@ -434,7 +435,6 @@
 
 ## ▷ Android Code Editors
 
-* ⭐ **[Android Studio](https://developer.android.com/studio)** or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
 * ⭐ **[Squircle-CE](https://github.com/massivemadness/Squircle-CE)** - Android Code Editor
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
@@ -569,6 +569,7 @@
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Skills](https://skills.sh/) - Add Capabilities to AI Agents
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
@@ -857,7 +858,7 @@
 
 ***
 
-## ▷ Frontend Tools
+## ▷ Frontend / UI Tools
 
 * 🌐 **[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)** - UI Design Systems / Libraries
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
@@ -871,6 +872,7 @@
 * [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
+* ⁠Human Interface Guidelines: [Windows](https://learn.microsoft.com/en-us/windows/apps/design/) / [Gnome](https://developer.gnome.org/hig/) / [KDE](https://develop.kde.org/hig/) / [Apple](https://developer.apple.com/design/human-interface-guidelines) - Interface Guidelines
 * [Storybook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
