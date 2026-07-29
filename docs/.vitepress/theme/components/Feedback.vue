@@ -407,7 +407,8 @@ const resetFeedback = () => {
             ref="textareaRef"
             v-model="feedback.message"
             autofocus
-            class="<textarea class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid resize-none overflow-y-auto"
+            class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 b-rd-4 border-2 border-solid resize-none overflow-y-auto"
+
             placeholder="(e.g. What a lovely wiki!)"
             @input="handleInput"
           />
