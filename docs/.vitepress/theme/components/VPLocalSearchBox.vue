@@ -378,11 +378,12 @@ function buildUrlQuery(query: string): UrlQuery | null {
 function looksLikeUrlQuery(query: string) {
   const normalized = normalizeUrlSearchValue(query)
   const stripped = stripSchemeAndWww(normalized)
+  const isSingleToken = !/\s/.test(query.trim())
   return (
     /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) ||
     normalized.startsWith('www.') ||
-    stripped.includes('.') ||
-    stripped.includes('/')
+    (isSingleToken && stripped.includes('.')) ||
+    (isSingleToken && stripped.includes('/'))
   )
 }
 
@@ -2010,7 +2011,7 @@ function formMarkRegex(terms: Set<string>, rawQuery: string) {
   for (const term of terms) {
     allTerms.add(term)
   }
-  if (isFuzzySearch.value) {
+  if (isFuzzySearch.value && !looksLikeUrlQuery(rawQuery)) {
     const words = rawQuery
       .trim()
       .split(/[\s\W]+/)
@@ -2019,7 +2020,14 @@ function formMarkRegex(terms: Set<string>, rawQuery: string) {
       allTerms.add(word)
     }
   } else {
-    allTerms.add(rawQuery.trim())
+    const trimmed = rawQuery.trim()
+    allTerms.add(trimmed)
+    if (looksLikeUrlQuery(rawQuery)) {
+      const stripped = stripSchemeAndWww(normalizeUrlSearchValue(trimmed))
+      if (stripped && stripped !== trimmed.toLowerCase()) {
+        allTerms.add(stripped)
+      }
+    }
   }
   return new RegExp(
     [...allTerms]
