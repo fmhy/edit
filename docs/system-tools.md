@@ -155,6 +155,7 @@
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** / Windows / [GitHub](https://sabrogden.github.io/Ditto/)
 * [PasteBar](https://www.pastebar.app/) / Windows, macOS / [GitHub](https://github.com/PasteBar/PasteBarApp)
 * [CrossPaste](https://crosspaste.com/) / Windows, macOS, Linux / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
+* [UniClipboard](https://www.uniclipboard.app/) - Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/UniClipboard/UniClipboard)
 * [ArsClip](https://www.joejoesoft.com/vcms/97/) / Windows
 * [ClipAngel](https://sourceforge.net/projects/clip-angel/) / Windows
 * [CopyQ](https://hluk.github.io/CopyQ/) / Windows, macOS, Linux / [GitHub](https://github.com/hluk/CopyQ) - Clipboard Manager with Editing and Scripting Features

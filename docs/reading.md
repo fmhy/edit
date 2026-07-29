@@ -353,7 +353,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
+* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.to/ebooks), [3](https://nepu.is/ebooks), [4](https://nepu.net/ebooks), [5](https://nepu.app/ebooks)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.net/)
@@ -610,6 +610,7 @@
 * [textfiles.com](http://textfiles.com/) - 1980s Text File Index
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Text / Documents
 * [IntraText Digital Library](https://www.intratext.com/) - Historical Text / Documents
+* [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy / Literature
 * [MSU Digital Repository](https://d.lib.msu.edu/) - Historical Documents, Books, Recording & more
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
@@ -962,13 +963,13 @@
 * 🌐 **[Book Awards](https://rentry.co/bookawards/)** - Index of Book Awards
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
+* ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
-* [⁠The Book Prize Index](https://book-prize-index.vercel.app/) - Book Awards + Winning Book Index
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [⁠NPR's Books We Love](https://apps.npr.org/best-books/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
