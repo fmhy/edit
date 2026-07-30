@@ -220,6 +220,7 @@
 * [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
+* [OPNsense](https://opnsense.org/) - Firewall / [GitHub](https://github.com/opnsense)
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
 ***
