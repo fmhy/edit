@@ -67,6 +67,7 @@
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
 * [⁠SpectrShare](https://spectrshare.com/) - P2P Video Streaming / Temp Files
+* [LuffyFiles](https://luffyfiles.com/) - 5 GB / 30 Days (Auto-deletes after 30 days of inactivity)
 
 ***
 
