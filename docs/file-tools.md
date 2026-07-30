@@ -39,6 +39,7 @@
 * [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/surge/) / Windows, macOS, Linux
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension / [Firefox](https://addons.mozilla.org/addon/downthemall/) / [Chrome](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) / [GitHub](https://github.com/downthemall/downthemall)
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/http-downloader/) / [Chrome](https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx) / Windows / [GitHub](https://github.com/erickutcher/httpdownloader)
+* [autofetch](https://autofetch.de/en/) - Client-/Server-Solution for download automation from several sources incl. IRC (basic usage always free)
 
 ***
 
