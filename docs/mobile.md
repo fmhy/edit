@@ -841,7 +841,7 @@
 * [MJ PDF](https://github.com/mudlej/mj_pdf) - PDF Reader
 * [Fable](https://fable.co/) - Join / Create Bookclubs
 * [Myne](https://github.com/Pool-Of-Tears/Myne) - Read Ebooks from Project Gutenberg
-* [⁠Serial Reader](https://www.serialreader.org/) - Classic Books in Bite-Size Portions
+* [⁠Serial Reader](https://www.serialreader.org/) - Classic Books in Bite-Sized Portions
 * [Openreads](https://github.com/mateusz-bak/openreads), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta) / [F-Droid](https://f-droid.org/packages/org.wikipedia/)
 * [WikWok](https://github.com/terrakok/Wikwok) - Random Wiki Article Viewer / [Web App](https://terrakok.github.io/WikWok)
