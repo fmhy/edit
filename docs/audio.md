@@ -797,6 +797,7 @@
 * [LedFx](https://docs.ledfx.app/en/stable/) - LED Music Sync / Windows / [Discord](https://discord.gg/xyyHEquZKQ) / [GitHub](https://github.com/ledfx/ledfx)
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices / [Wiki](https://www.rockbox.org/wiki/) / [Themes](https://themes.rockbox.org/)
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info
+* [Wavio](https://wavio-app.verce.app) - Navidrome / Jellyfin / Opensubsonic / Local library for Android [GitHub](https://github.com/Joel-Mercier/wavio)
 
 ***
 
