@@ -412,7 +412,7 @@
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
 * [⁠Pearcrypt](https://pearcrypt.lol/) - File Link Containers / [Discord](https://discord.com/invite/QrrryWKA6X)
-
+* [LuffyFiles](https://luffyfiles.com/) - Unlimited Storage / 5 GB / 30 Days (Auto-deletes after 30 days with no downloads) / No signup
 ***
 
 ## ▷ Cloud Storage
