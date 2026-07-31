@@ -869,6 +869,7 @@
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
+* [Multiplayer Games](https://multiplayergames.app/) - Multiple Games
 * [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
