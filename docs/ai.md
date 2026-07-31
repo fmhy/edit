@@ -487,3 +487,37 @@
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
 * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
+
+
+
+
+
+
+
+
+Homepage tool:
+
+AI Text Cleaner — https://aicleanertext.com/
+
+Invisible & Unicode Normalization:
+
+Unicode Normalizer for LLM Text — https://aicleanertext.com/unicode-normalizer-for-llm-text
+Fancy Text Generator — https://aicleanertext.com/fancy-text-generator/
+Superscript & Subscript Generator — https://aicleanertext.com/superscript-subscript-generator
+Mojibake/Encoding Fixer — https://aicleanertext.com/garbled-text-mojibake-fixer
+Invisible Watermark Detector — https://aicleanertext.com/ai-invisible-watermark-detector
+
+Text Formatting Tools:
+
+Paragraph Repair Tool — https://aicleanertext.com/Paragraph-Repair-Tool-Online
+Line Break Remover — https://aicleanertext.com/line-break-remover/
+AI Table Formatter — https://aicleanertext.com/AI-Table-Formatter
+AI List Formatter Fixer — https://aicleanertext.com/AI-List-Formatter-Fixer/
+
+I noticed the site's nav only shows two categories live (no separate "Footprint/Artifact Strippers" or "AI Style/Copy Editors" pages found) — just flagging in case some tool pages aren't published/linked yet and I'm missing any.
+
+Now, for FMHY: they generally accept one strong entry per site, not one per sub-tool — a wiki full of 9 links to the same domain would likely get flagged as spam. My recommendation is one clean entry for the whole toolset under Text Tools, e.g.:
+
+[AI Cleaner Text](https://aicleanertext.com/) - Free browser-based tools to clean AI/LLM text: removes invisible Unicode, fixes markdown, formats tables/lists, and normalizes garbled text. No sign-up.
+
+
