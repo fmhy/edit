@@ -362,7 +362,7 @@
 
 # ► Windows ISOs
 
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows)
+* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows) / [Discord](https://discord.gg/4mFR9y9Snw)
 * ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
@@ -395,7 +395,7 @@
 
 ## ▷ Windows Updates
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
+* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life / [Discord](https://discord.gg/4mFR9y9Snw)
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [VCRedist](https://github.com/abbodi1406/vcredist), [2](https://gitlab.com/stdout12/vcredist), [3](https://codeberg.org/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)

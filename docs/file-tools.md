@@ -168,7 +168,6 @@
 
 ## ▷ File Recovery
 
-* 🌐 **[Data Recovery](https://igwiki.lyci.de/wiki/Data_recovery)** - Data Recovery Tool Index
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery / [Source Code](https://git.cgsecurity.org/cgit/testdisk/tree/)
 * [DMDE](https://dmde.com/) - File Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
@@ -238,12 +237,12 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
-* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
+* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [⁠PDFResizer](https://pdfresizer.com/)
@@ -355,6 +354,7 @@
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
+* [⁠Luffy Files](https://luffyfiles.com/) - 5GB / 30 Days
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)

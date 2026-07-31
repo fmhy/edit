@@ -552,7 +552,7 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://igwiki.lyci.de/wiki/Redacted.sh_Guide)
+* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://clarasguide.valeena.workers.dev/Guides/private-trackers/#introducing-red)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Lidarr](https://lidarr.audio/)** / [GitHub](https://github.com/Lidarr/Lidarr) or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
@@ -680,6 +680,7 @@
 ## ▷ Curated Recommendations
 
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
+* ⭐ **[Shfl](https://theshfl.com/)** - Album Recommendations
 * ⭐ **[r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
 * [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
@@ -688,7 +689,6 @@
 * [MusicBrainz](https://musicbrainz.org/) - Ratings / Reviews
 * [⁠Pitchfork](https://pitchfork.com/) or [The Fork](https://the-fork.vercel.app/) - Reviews
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Music Recommendation Directory
-* [Shfl](https://theshfl.com/) - Album Recommendations
 * [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews

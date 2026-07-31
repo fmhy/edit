@@ -606,12 +606,12 @@
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
 * [Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
+* [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy / Literature
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
 * [textfiles.com](http://textfiles.com/) - 1980s Text File Index
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Text / Documents
 * [IntraText Digital Library](https://www.intratext.com/) - Historical Text / Documents
-* [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy / Literature
 * [MSU Digital Repository](https://d.lib.msu.edu/) - Historical Documents, Books, Recording & more
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
