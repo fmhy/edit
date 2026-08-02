@@ -890,6 +890,7 @@
 
 * 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
 * ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
+* [⁠FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) or [⁠Trawl](https://github.com/germondai/trawl) - Challenge-Solving Proxies
 * [SpiderSuite](https://spidersuite.io/) - Advanced Web Crawler / [GitHub](https://github.com/spidersuite/SpiderSuite)
 * [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler / [GitHub](https://github.com/internetarchive/heritrix3)
 * [80legs](https://80legs.com/) - Cloud-Based

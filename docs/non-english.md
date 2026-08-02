@@ -459,7 +459,7 @@
 
 ## ▷ Torrenting
 
-* [⁠Torr9](https://torr9.net/) - Video / Audio / Books / Signup Required
+* [TR4KER](https://tr4ker.net/) - Video / Audio / Books / Signup Required
 * [⁠C411](https://c411.org/) - Video / Audio / Books / Signup Required
 * [YGG Reborn](https://www.yggreborn.org/) - Video / Audio / Books / Signup Required
 
