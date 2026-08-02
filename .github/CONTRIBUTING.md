@@ -1,4 +1,4 @@
-# Contribute Guide
+# Contribution Guide
 
 > [!INFO] NOTE
 > Some of these steps are easier if you're in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). It opens every Friday.
