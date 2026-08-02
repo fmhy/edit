@@ -408,7 +408,6 @@
 * 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * 🌐 **[⁠Awesome Homelab](https://github.com/miantiao-me/awesome-homelab/)** - Homelab App Index
 * 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
-* 🌐 **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Self-Hosted Software Index
 * 🌐 **[selfhost.directory](https://selfhost.directory/)** - Self-Hosted Software Index
 * 🌐 **[⁠RackRat](https://rackrat.net/)** - eBay Rackmount Server Prices / Comparisons
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**

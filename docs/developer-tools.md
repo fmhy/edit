@@ -530,7 +530,7 @@
 ***
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
-* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
+* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
@@ -1044,16 +1044,15 @@
 
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)** - Unlimited Storage (20MB Each) / Unlimited Bandwidth / 3MB Storage / 100k Request Daily
 * ⭐ **[vercel](https://vercel.com/)** - 1GB Storage / 100GB Bandwidth
-* ⭐ **[netlify](https://www.netlify.com/)** - 300 Credits [Monhtly](https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing)
 * ⭐ **[alwaysdata.com](https://www.alwaysdata.com/en/)** - 1GB Storage / Unlimited Bandwidth / Unlimited DB / 256MB RAM
 * [AwardSpace.com](https://www.awardspace.com/) - 1GB Storage / 5GB Bandwidth / 1 DB / 5K Monthly Visits
-* [GoogieHost.com](https://googiehost.com/) - 1GB Storage / 100GB Bandwidth / 2 DB
 * [Freehostia.com](https://www.freehostia.com/) - 250MB Storage / 6GB Bandwidth / 1 DB
 * [FreeHostingEU.com](https://www.freehostingeu.com/) - 200MB Storage / 4GB Bandwidth / 1 DB
 * [Batcave.net](https://batcave.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [CGIWebHost.com](https://www.cgiwebhost.com/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [FreeHostingNoAds.net](https://freehostingnoads.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
 * [100WebSpace.com](https://www.100webspace.com/) - 100MB Storage / 3GB Bandwidth / 1 DB
+* [netlify](https://www.netlify.com/) - 300 Credits [Monhtly](https://docs.netlify.com/manage/accounts-and-billing/billing/billing-for-credit-based-plans/how-credits-work/#credits-usage-for-metered-billing)
 * [50Webs.com](https://www.50webs.com/) - 500MB Storage / 5GB Bandwidth / 0 DB
 * [Somee.com](https://somee.com/) - 150MB Storage / 5GB Bandwidth / 1 DB
 * [FreeWebPageHost.Net](https://freewebpagehost.net/) - 1GB Storage / 5GB Bandwidth / 1 DB
