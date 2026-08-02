@@ -809,7 +809,7 @@
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Requires Sign-Up
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/)
-* [Google Photos](https://photos.google.com/) - 200MB / 15GB Cloud / Forever
+* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) - 200MB / 15GB Cloud / Forever
 * [Zonerama](https://eu.zonerama.com/) - Unlimited / Forever
 * [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up

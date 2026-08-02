@@ -1370,7 +1370,6 @@
 * [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
-* [Vim Adventures](https://vim-adventures.com/) - Vim Learning Game
 * [⁠Learn Shell](https://www.learnshell.org/) - Interactive Shell Programming Tutorial
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [LearningSEO.io](https://learningseo.io/) or [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Learning
@@ -1437,7 +1436,7 @@
 * ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://sadgrl.online/guides/) - Site Development Guides
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)**, [CSS Tip](https://css-tip.com/) or [⁠HTML Hobbyist](https://www.htmlhobbyist.com/)- HTML/CSS Learning Sites
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
-* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
+* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/), [Modern Java](https://javabook.mccue.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
 * [⁠Cloud Cost Handbook](https://handbook.vantage.sh/) - Public Cloud Hosting Cost Guide / [GitHub](https://github.com/vantage-sh/handbook.vantage.sh)
 * [Web Dev for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) - Web Dev Course
 * [⁠Packet.School](https://packet.school/) - Interactive Networking Learning
@@ -1616,7 +1615,7 @@
 
 * 🌐 **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
 * ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
-* ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
+* ⭐ **[Brackeys](https://brackeys.com/)** - Game Dev Tutorials
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [CodeWisp](https://codewisp.net/) - Interactive Beginner Game Dev Learning

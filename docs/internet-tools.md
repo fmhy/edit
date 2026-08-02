@@ -436,7 +436,7 @@
 ## ▷ Email Clients
 
 * ⭐ **[Betterbird](https://www.betterbird.eu/)** - Thunderbird Fork / Windows, macOS, Linux / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md) 
-* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android
+* ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Privacy Config](https://codeberg.org/celenity/Dove) / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
 * [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, macOS, Linux
@@ -482,6 +482,7 @@
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://nicemail.cc/) - Forever / 1 Day / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
+* [⁠DropMail](https://dropmail.me/) - 17 Domains
 * [⁠Driftz Mail](https://driftz.net/) - 23 Domains
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain

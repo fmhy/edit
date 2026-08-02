@@ -352,7 +352,7 @@
 
 * ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Steam DLC Unlocker / [Manager](https://github.com/3vil3vo/GreenLuma-Manager)
-* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** - Steam Multi-Tool w/ DLC Unlockers + Multiplayer Fixes
+* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
@@ -466,6 +466,7 @@
 
 ## ▷ Multiplayer Servers
 
+* 🌐 **[FreeHosts](https://freehosts.eu/hosts?target=Gaming)** - Free Game Hosting Provider Index
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican-dev/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
@@ -536,7 +537,7 @@
 ## ▷ Switch Homebrew
 
 * ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)** or **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) - Homebrew Guides
-* ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store / [GitHub](https://github.com/fortheusers/hb-appstore)
+* ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store / [BlueSky](https://bsky.app/profile/hb-app.store) / [Discord](https://discord.gg/F2PKpEj) / [GitHub](https://github.com/fortheusers/hb-appstore)
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [LAN Play Status](http://www.lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://github.com/FlagBrew) - Switch Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
@@ -1082,14 +1083,14 @@
 ## ▷ GTA Tools
 
 * 🌐 **[GTAAll](https://www.gtaall.com/)**, [⁠GTAForums](https://gtaforums.com/), [⁠FusionFix](https://fusionfix.io/), [GTAInside](https://www.gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Walkthroughs & More
-* 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
-* 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
-* 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods
+* 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods / [X](https://www.twitter.com/5mods) / [Discord](https://discord.gg/2PR7aMzD4U)
+* 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods / [Discord](https://discord.gg/YR6nNMypzp)
+* 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods / [Discord](https://discord.com/invite/QKB39AXzDw)
 * ⭐ **[⁠GTA Wiki](https://gta.wiki/)** / [Discord](https://discord.gg/wG7MdySY8X) or [GTA Boss](https://www.gtaboss.gg/) - GTA Databases / Info Wikis
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
-* ⭐ **[Gillian's GTA](https://gillian-guide.github.io/)** - GTA IV Modding Guide
+* ⭐ **[Gillian's GTA](https://gillian-guide.github.io/)** - GTA IV Modding Guide / [Discord](https://discord.gg/zwmsQqExbQ) / [GitHub](https://github.com/gillian-guide/gillian-guide.github.io)
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
-* ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA
+* ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA / [BlueSky](https://bsky.app/profile/cookieplmonster.bsky.social) / [X](https://x.com/__silent_) / [GitHub](https://github.com/CookiePLMonster/SilentPatch)
 * [FiveM](https://fivem.net/) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
 * [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods

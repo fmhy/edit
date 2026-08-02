@@ -720,7 +720,7 @@
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
-* [Anime Dub Hindi](https://www.animedubhindi.me/) - Anime / Dub / 1080p
+* [Anime Dub Hindi](https://www.animedubhindi.link/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / Geoblocked / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
 * [Malayalam Film Songs](https://t.me/cc_NewMalayalamMp3) - Music
@@ -1466,7 +1466,7 @@
 * [GDRIVELatinoHD](https://gdrivelatinohd.net), [2](https://gdrivelatino.net/) - Movies / TV / 4K / 1080p / Latino
 * [Hackstore.rs](https://www.hackstore.to/) - Movies / TV / Anime / 1080p / Latino
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
-* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
+* [MegaPeliculasRip](https://megapeliculasrip.me/) - Movies / Classics / TV / Animation / 1080p / Latino
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Castilian / Latino / Requires Waitlist / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [SeiresHD](https://seireshd.com/) - Movies / TV / Animation / 1080p / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
@@ -1475,7 +1475,7 @@
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p
 * [Bajalo Gratis](https://bajalogratis.com/) - Movies / Latino
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
+* [ProgramasVirtualesPC](https://programasvirtualespc.com/) - Movies / TV / Latino
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
@@ -1507,7 +1507,7 @@
 * ⭐ **[MejorTorrent](https://www36.mejortorrent.eu/)** - Movies / TV / Documentaries / Castilian / [Status](https://privacidad.me/@mejortorrent)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * [DonTorrent](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) / [Status](https://privtr.ee/@dontorrent) / [Telegram](https://t.me/s/DonTorrent)
-* [EliteTorrent](https://www.elitetorrent.wf/) - Movies / TV
+* [EliteTorrent](https://www.elitetorrent.com/) - Movies / TV
 * [Wolfmax4k](https://wolfmax4k.com/) - Movies / TV / 4K / 1080p
 * [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / TV / Castilian
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries / Castilian
@@ -1583,10 +1583,10 @@
 * [estrenosanime](https://estrenosanime.net/) - Anime
 * [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
-* [LatinLucha](https://latinluchas.com/) - WWE / MMA Replays / Latino
+* [LatinLucha](https://latinlucha.es/) - WWE / MMA Replays / Latino
 * [EventosHQ](https://www.eventoshq.me/) - WWE / MMA Replays / Latino
 * [Tangos78rpm](https://www.tangos78rpm.com/) - Classic Records
-* [⁠Streamflix](https://github.com/streamflix-reborn/streamflix) - Android Streaming App
+* [⁠Streamflix](https://github.com/streamflix-reborn2/streamflix) - Android Streaming App
 
 ## ▷ Reading / Leer
 

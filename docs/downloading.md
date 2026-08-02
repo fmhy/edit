@@ -97,6 +97,7 @@
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/) / [GitHub](https://github.com/MCOfficer/odcrawler-discovery) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** / [GitHub](https://github.com/nicotine-plus/nicotine-plus) or [Soulseek](https://slsknet.org/) - File Sharing App / Windows, macOS, Linux / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch DDL](https://github.com/fiso64/sldl)
 * [eMule](https://www.emule-project.com/) - File Sharing App / Windows / [GitHub](https://github.com/irwir/eMule)
+* [⁠RetroShare](https://github.com/RetroShare/RetroShare/) - File Sharing App
 * [mega.archive (Discord)](https://discord.gg/R3zEZUPp3Q) / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community

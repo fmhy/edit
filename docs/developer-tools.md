@@ -211,7 +211,7 @@
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
 * [Skill Icons](https://skillicons.dev/) or [⁠Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Skill Badges for GitHub Readme / Resumes
-* [For the Badge](https://forthebadge.com/) - Custom GitHub Badges
+* [For the Badge](https://forthebadge.com/) or [⁠Fancy Badges](https://jmcrafter26.github.io/badges/) / [GitHub](https://github.com/JMcrafter26/badges) - Custom GitHub Badges
 * [⁠Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator) - GitHub Profile Generator / Editor
 * [GitHub Spray](https://annihil.github.io/github-spray-generator) - Draw on GitHub Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
@@ -429,7 +429,7 @@
 * [Jupyter Server](https://jupyter-server.readthedocs.io) - Jupyter Services / APIs
 * [Anywidget](https://anywidget.dev) - Create Jupyter Widgets / [GitHub](https://github.com/manzt/anywidget)
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [CodePen](https://codepen.io/), [⁠Web Maker](https://webmaker.app/) / [GitHub](https://github.com/chinchang/web-maker/), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
 * [Platform.uno](https://platform.uno/) / [GitHub](https://github.com/unoplatform/uno) or [Enact](https://enactjs.com/) - App Frameworks
 * [InstantDB](https://www.instantdb.com/) - Collaborative App Framework
 * [Codeface](https://github.com/chrissimpkins/codeface), [Monaspace](https://monaspace.githubnext.com/), [Programming Fonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Fonts for Coding / [Comparison](https://www.codingfont.com/)

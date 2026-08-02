@@ -354,7 +354,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.to/ebooks), [3](https://nepu.is/ebooks), [4](https://nepu.net/ebooks), [5](https://nepu.app/ebooks)
+* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.is/ebooks), [3](https://nepu.net/ebooks), [4](https://nepu.app/ebooks)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.net/)
