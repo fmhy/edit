@@ -190,6 +190,7 @@
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [You are Listening To LA](https://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
 * [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
+* [Deep Brown Noise](https://deepbrownnoise.com/sounds/) - Brown / White / Pink / Green Noise Player
 
 ***
 
