@@ -156,7 +156,7 @@
 
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
-* [ComparisonTabl.es](https://comparisontabl.es/tag/e-reader/) - Compare E-Readers
+* [ComparisonTabl.es](https://comparisontabl.es/e-readers/) - Compare E-Readers
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
