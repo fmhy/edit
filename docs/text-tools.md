@@ -213,6 +213,7 @@
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, macOS, Linux / [GitHub](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, macOS, Linux
 * [SciTE](https://www.scintilla.org/SciTE.html) - Text Editor / Windows, macOS, Linux
+* [Togen](https://melodelete.github.io/TogenWebsite/) - Quick Edits / Windows, macOS, Linux / [GitHub](https://github.com/melodelete/Togen)
 
 ***
 
