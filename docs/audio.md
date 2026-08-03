@@ -1021,7 +1021,7 @@
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Requires Sign-Up
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
 * [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
-* [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software), [⁠drumkits](https://drumkits.site/), [⁠blepfx](https://fx.amee.ee/) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins / Use Adblocker
+* [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software), [⁠Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials), [⁠drumkits](https://drumkits.site/), [⁠blepfx](https://fx.amee.ee/) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins / Use Adblocker
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Polyphonic Sampler
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin

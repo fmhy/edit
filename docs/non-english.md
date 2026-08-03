@@ -1309,7 +1309,6 @@
 * [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
 * [Animelayer](https://animelayer.ru/) - Anime
-* [kinozal](https://kinozal.tv/) - Movies
 * [bitru](https://bitru.org/) - Movies
 * [Selezen](https://www.selezen.club/) - Movies
 * [RGFootball](http://rgfootball.net/) - Sports
@@ -1677,7 +1676,7 @@
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[OpenAnime](https://openani.me/)** - Anime
-* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.life)** - Movies / Sub / Dub / 1080p
+* ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.mx)** - Movies / Sub / Dub / 1080p
 * ⭐ **[AnimeciX](https://anm.cx/)** - Anime
 * [Dizilla](https://dizilla.to/), [2](https://selcukflix.co/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p
 * [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime

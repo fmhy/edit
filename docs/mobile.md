@@ -93,6 +93,7 @@
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
 * [APKToy](https://www.apktoy.com/)
 * [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
+* [⁠APKCube](https://apkcube.com/)
 * [Material-You-app-list](https://myal.vercel.app/) / [Telegram](https://t.me/materialyouapps) / [GitHub](https://github.com/nyas1/Material-You-app-list)
 * [⁠gplaydl](https://github.com/rehmatworks/gplaydl) - Google Playstore APK Download CLI
 * [NikGapps](https://nikgapps.com/) - Google App Packages / [Telegram](https://t.me/NikGapps)
