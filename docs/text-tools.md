@@ -632,3 +632,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [CopyFonty](https://copyfonty.com/) - Font Generator Copy & Paste, 500+ Unicode Styles
