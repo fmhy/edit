@@ -917,6 +917,7 @@
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
+* [TrackGeek](https://trackgeek.net/) - Tracking / Reviews
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
 * [Oku](https://oku.club/) - Tracking
