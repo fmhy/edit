@@ -744,7 +744,7 @@
 * [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [Tab Session Manager](https://tab-session-manager.sienori.com/), [Sessionic](https://github.com/navorite/sessionic) or [Session Buddy](https://sessionbuddy.com/) - Session Managers
 * [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails
-
+* [FlowPick](https://flowpick.net) - Auto-sniff videos, audio, image on any website. / [Chrome](https://chromewebstore.google.com/detail/flowpick-media-sniffer-do/mfinfkkabangbkanlfhhbokgfekjklea) / [Edge](https://microsoftedge.microsoft.com/addons/detail/flowpick-media-sniffer-/egbfhgcifljmeaomlbhggplohemjombb) / [Firefox](https://addons.mozilla.org/firefox/addon/flowpick/) / [GitHub](https://github.com/ezwebtools/flowpick)
 ***
 
 ## ▷ Firefox Extensions
