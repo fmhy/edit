@@ -1181,7 +1181,7 @@
 
 ## ▷ Web Security
 
-* ⭐ **[Cap](https://trycap.dev/)** / [GitHub](https://github.com/tiagozip/cap), [LibreCaptcha](https://github.com/librecaptcha/lc-core), [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) or [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) - Bot Protection / Captchas
+* ⭐ **[Cap](https://trycap.dev/)** / [GitHub](https://github.com/tiagozip/cap), [LibreCaptcha](https://github.com/librecaptcha/lc-core), [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Bot Protection / Captchas
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
