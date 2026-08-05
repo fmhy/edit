@@ -235,7 +235,6 @@
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit) - Subreddit Map
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
-* [r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/) - Find Niche Subreddits
 * [Subreddit Stats](https://subredditstats.com/) or [SubRanking](https://subranking.com/) - Subreddits Stats / Ranking
 
 ***

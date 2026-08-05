@@ -571,6 +571,7 @@
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
+* [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
 * [megakino3](https://megakino3.tv/) - Movies / TV / Anime
@@ -864,6 +865,7 @@
 * [Toonitalia](https://toonitalia.xyz/) - TV / Anime / Sub / Dub
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
 * [Stream4Me](https://guruhitech.com/kodi-on-demand-e-rinato-ora-si-chiama-stream4me-kodi/) - Streaming Kodi Addon
+* [⁠Federica Web Learning](https://federica.eu/) - Courses
 * [Ovovideo](http://ovovideo.com/) - Video Encyclopedia
 * [Raiplay Sound](https://www.raiplaysound.it/) - Podcasts / Radio
 

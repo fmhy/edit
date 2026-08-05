@@ -240,7 +240,7 @@
 
 ***
 
-# ► Gardening
+# ► Gardening / Agriculture
 
 * 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Agriculture Resources
 * 🌐 **[Agriculture / Gardening Subreddits](https://clarasguide.valeena.workers.dev/Guides/touchgrasss/)**
@@ -258,6 +258,7 @@
 * [Gardenia](https://www.gardenia.net/) or [Garden Design](https://www.gardendesign.com/) - Garden Design Resources
 * [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
 * [r/Farming](https://reddit.com/r/farming/) - Farming Community
+* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
@@ -319,7 +320,7 @@
 # ► Travel
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org), [⁠DetourMap](https://detourmap.com/) or [WikiTravel](https://wikitravel.org/) - Travel Guides / Roadside Attraction Lists
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
@@ -1132,6 +1133,10 @@
 
 ## ▷ Electronics
 
+***
+
+## ▷ PC / Laptop Building
+
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [RTINGS](https://www.rtings.com/), [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
@@ -1277,6 +1282,7 @@
 * [⁠Family Chart](https://github.com/donatso/family-chart), [Family Tree Builder](https://family-tree-builder.com/) or [FamilyEcho](https://www.familyecho.com/) - Create Custom Family Tree
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
 * [r/CurlyHair Guide](https://docs.google.com/document/d/e/2PACX-1vSvGm-p4tvrstjT-XEo6pTHZSYeEON7xF5lPSnNv-3Kc2lCrdnkjXhFbdHt4pF3HUetWZ1j9dgfBBkS/pub) - Curly Hair Haircare Guide
+* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.visualcinnamon.com/) - Pet Q&A Site
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking

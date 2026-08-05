@@ -371,8 +371,6 @@
 * [Spider ID](https://spiderid.com/) - Spider Species Database / Identification Community
 * [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
-* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.visualcinnamon.com/) - Pet Q&A Site
-* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [Pteros](https://www.pteros.com/) - Pterosaur Database
 * [WFO](https://www.worldfloraonline.org/) - Plant Database
 * [The Ferns](https://tropical.theferns.info/) - Tropical Plant Database
@@ -1505,6 +1503,9 @@
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
+* [⁠Lean](https://lean-lang.org/) - Theorem Prover and Programming Language / [Learning Games](https://adam.math.hhu.de/) / [Web](https://live.lean-lang.org/) / [GitHub](https://github.com/leanprover/lean4)
+* [Rocq](https://rocq-prover.org/) - Theorem Prover and Proof Assistant / [GitHub](https://github.com/rocq-prover/rocq)
+* [HOL](https://hol-theorem-prover.org/) - Theorem Prover for Higher-Order Logic / [GitHub](https://github.com/HOL-Theorem-Prover/HOL)
 * [Web Browser Engineering](https://browser.engineering/) - Learn about Browser Engineering
 * [OSDev Wiki](https://wiki.osdev.org/) - Operating System Dev Wiki
 * [Wi is Fi](https://www.wiisfi.com/) - Wi-Fi Educational Guide
@@ -1773,7 +1774,7 @@
 * [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [⁠Modern Classroom](https://chromewebstore.google.com/detail/modern-classroom/bbeejocagpeechkgliijfedcbeggncne) - Improved Google Classroom Extension
-* [StudyStream](https://www.studystream.live/), [⁠Yeolpumta](https://www.yeolpumta.com/en) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
+* [StudyStream](https://www.studystream.live/) or [⁠Yeolpumta](https://www.yeolpumta.com/en) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 

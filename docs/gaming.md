@@ -832,10 +832,10 @@
 * ⭐ **[GN-Math](https://gn-math.dev/)** - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [Truffled](https://truffled.lol/g) - Browser Games / Ports 
+* [mizu](https://www.mizumath.com/) - Browser Games
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠Catclass](https://catclass.net/g) - Browser Games / [Discord](https://discord.com/invite/8bf7D7Tw5U)
-* [mizu](https://www.mizumath.com/) - Browser Games
 
 ***
 
@@ -1006,6 +1006,7 @@
 * [War.app](https://war.app/) - Risk Clone
 * [Neptune's Pride](https://np4.ironhelmet.com/) - Space Strategy Game
 * [generals.io](https://generals.io/) - War Strategy Game
+* [⁠Konkr.io](https://www.konkr.io/) - Turn-Based Kingdom Strategy Game
 * [⁠Prince Chazz](https://princechazz.com/) - Chess-Style Roguelite
 
 ***
