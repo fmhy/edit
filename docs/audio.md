@@ -652,6 +652,7 @@
 * [⁠EntertainMe](https://www.entertainme.fun/) - All-in-One Media & Entertainment Tracker
 * [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)
 * [Has it Leaked](https://hasitleaked.com/) or [LEAKED](https://leaked.cx/) - Album Leak Tracker
+* [Ultimate Music Database](https://www.umdmusic.com/) - Music Database
 * [MyPitchFork](https://mypitchfork.fun/) - Individual Song Rating / Tracking
 * [DAHR](https://adp.library.ucsb.edu/index.php) - American Historical Recordings Database
 * [TrackID](https://trackid.net/) or [1001Tracklists](https://www.1001tracklists.com/) - Live Set Tracklist Databases
