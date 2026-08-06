@@ -467,6 +467,7 @@
 
 * 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
 * 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning / LLM Resources
+* ↪️ **[AI / ML Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_ai_.2F_ml_learning)** - Educational AI / ML Resources
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[⁠Unsloth](https://unsloth.ai/docs/new/studio)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
@@ -477,20 +478,3 @@
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
 * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
-
-***
-
-## ▷ AI / ML Learning
-
-* 🌐 **[Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/)** - LLM Learning Resources / [GitHub](https://github.com/viveknaskar/everything-ai-ml)
-* [Awesome Free AI Books](https://github.com/MarcosSete/awesome-free-ai-books), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [mlsysbook](https://www.mlsysbook.ai/), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Engineering](https://github.com/stas00/ml-engineering), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Books / Guides
-* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
-* [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
-* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
-* [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
-* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
-* [LLM Visualization](https://bbycroft.net/llm) or [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) - LLM Visualizations
-* [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - ⁠Transformer Visualization
-* [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book

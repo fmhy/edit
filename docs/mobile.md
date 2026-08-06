@@ -110,7 +110,6 @@
 * ⭐ **[Kvaesitso](https://kvaesitso.mm20.de/)** - Search-Focused Launcher / [Telegram](https://t.me/Kvaesitso) / [GitHub](https://github.com/MM2-0/Kvaesitso)
 * [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - Desktop App Launcher / [GitHub](https://github.com/axel358/smartdock)
 * [KISS](https://kisslauncher.com/) / [GitHub](https://github.com/Neamar/KISS) or [TBLauncher](https://tbog.github.io/TBLauncher/) / [GitHub](https://github.com/TBog/TBLauncher) - Low-Memory Usage Launcher
-* [Discreet Launcher](https://falzonv.github.io/discreet-launcher/) - Minimalist / Clean Launcher / [GitHub](https://github.com/falzonv/discreet-launcher)
 * [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher / [Telegram](https://t.me/LunarLauncher_chats)
 * [mLauncher](https://github.com/DroidWorksStudio/mLauncher) - Minimalist / Clean Launcher
 * [⁠Escape launcher](https://github.com/georgeclensy/Escape-Launcher) - Minimalist / Clean Launcher
@@ -150,12 +149,12 @@
 
 ***
 
-* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek) or [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) - Morphe Patch Indexes
+* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek) - Morphe Patch Indexes
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[Morphe / Piko Obtainium Guide](https://wispydocs.pages.dev/morphe-piko-obtainium/)** - Pre-Built Updatable APKs
 * ⭐ **[Morphe](https://morphe.software/)** - Android App Patcher / [X](https://x.com/MorpheApp) / [Desktop](https://github.com/MorpheApp/morphe-desktop) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
-* [FiorenMas Pre-Built](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Every Patched App / [Telegram](https://t.me/fiorenmas)
+* [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) or [FiorenMas Pre-Built](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) / [Telegram](https://t.me/fiorenmas) - Every Patched App
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
 * [Enhancify](https://github.com/Graywizard888/Enhancify) - TUI Wrapper
@@ -174,7 +173,6 @@
 * ⭐ **[Xtra](https://github.com/crackededed/Xtra)**, [BTTV](https://github.com/bttv-android/bttv), [Twire](https://github.com/twireapp/Twire) or [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) - Twitch Clients
 * ⭐ **[piko (Twitter)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Pre-Built](https://github.com/crimera/twitter-apk), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[piko (Instagram)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md) or [⁠Instafel](https://instafel.mamii.dev/) / [GitHub](https://github.com/mamiiblt/instafel/) - Modded Instagram Clients
-* ⭐ **[Nobook](https://github.com/ycngmn/Nobook)** or [Materialbook](https://github.com/eepiemi/Materialbook) - Ad-Free Facebook Lite
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [Eternity](https://codeberg.org/Bazsalanszky/Eternity), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
 * ⭐ **[Tusky](https://tusky.app/)**, [Dhaaga](https://github.com/suvam0451/dhaaga), [SubwayTooter](https://github.com/tateisu/SubwayTooter) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients
 * [Watomatic](https://watomatic.app/) / [Subreddit](https://www.reddit.com/r/watomatic/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
@@ -182,6 +180,7 @@
 * [Fedilab](https://fedilab.app/) - Multi-Platform Fediverse Client / [Source Code](https://codeberg.org/tom79/fedilab)
 * [Fluxer](https://github.com/fluxerapp/flutter_client) - ⁠Fluxer Client
 * [Graysky](https://graysky.app/) - Bluesky Client / [GitHub](https://github.com/mozzius/graysky)
+* [Materialbook](https://github.com/eepiemi/Materialbook) or [Nobook](https://github.com/ycngmn/Nobook) - Ad-Free Facebook Lite
 * [Mumla](https://gitlab.com/quite/mumla) or [Meshenger](https://github.com/meshenger-app/meshenger-android) - Voice Chat
 * [Aliucord](https://github.com/Aliucord/Manager) - Legacy Modded Discord Client / Join [Discord](https://discord.gg/EsNDvBaHVU) for Themes + Plugins
 * [Dumpus](https://github.com/dumpus-app/dumpus-app) - View Discord Data / Self-Host for Privacy / [Discord](https://androz2091.fr/discord)
@@ -202,7 +201,7 @@
 
 ## ▷ Telegram Clients
 
-* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Desktop Client / Portable / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
+* ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** - Portable / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram), [⁠NagramX](https://t.me/NagramX) / [GitHub](https://github.com/risin42/NagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
 * [Octogram](https://octogramapp.github.io/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
@@ -1329,7 +1328,7 @@
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon App](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [NeoFreeBird](https://github.com/theacrat/NeoFreeBird) (Fork) - Twitter / X.com Apps
-* ⭐ **[Swiftgram](https://swiftgram.app/)** - Telegram App / [GitHub](https://github.com/Swiftgram/Telegram-iOS)
+* ⭐ **[Swiftgram](https://swiftgram.app/)** - Telegram App / [Telegram](https://t.me/s/SwiftgramLinks) / [GitHub](https://github.com/Swiftgram/Telegram-iOS)
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -1405,7 +1404,7 @@
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* [⁠NuvioMobile iOS](https://github.com/luqmanfadlli/NuvioMobile-iOS) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Fusion](https://fusionapp.dev/) / [Discord](https://discord.gg/frkaK2B2Y9), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Subreddit](https://www.reddit.com/r/ForwardPlayer/) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
@@ -1430,7 +1429,7 @@
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-* [⁠Shirox](https://shiroxapp.github.io/) / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
+* [⁠Shirox](https://shiroxapp.github.io/) / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps
 

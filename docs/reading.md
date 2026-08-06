@@ -183,7 +183,6 @@
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Send to Kobo/Kindle](https://send2ereader.net/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
-* [ItsFOSS Guide](https://itsfoss.com/calibre-remove-drm-kindle/) - Kindle DRM Removal Guide
 * [KAnki](https://github.com/crizmo/KAnki) – Kindle Flashcard App / [Editor](https://kindlemodshelf.me/editor)
 * [SOX Media Player](https://kindlemodshelf.me/sox) - Bluetooth Audio Player
 * [Focus Reading](https://github.com/gmacahia/focus-reading.lua) - Bionic Reading / Guided Dots for Kindle
@@ -833,7 +832,7 @@
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
 * [Archives.gov](https://www.archives.gov/) - Declassified Documents
 * [Distributed Denial of Secrets](https://ddosecrets.org/) - Transparency Collective
-* [Library of Leaks](https://libraryofleaks.org/) - Leaked Documents
+* [Library of Leaks](https://search.libraryofleaks.org/) - Leaked Documents
 * [Cryptome](https://cryptome.org/) - Leaked Documents
 * [⁠ICIJ](https://www.icij.org/investigations/) - Investigative Journalists Organization / Panama + Pandora Financial Leaks
 * [Snowden Archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
@@ -916,6 +915,7 @@
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
+* [⁠Book Notification](https://www.booknotification.com/) - Book / Author Release Notifications 
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
@@ -936,7 +936,7 @@
 * [Romance.io](https://www.romance.io/) - Romance Database
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
-* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
+* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
 
 ***
 

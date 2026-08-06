@@ -120,7 +120,6 @@
 * [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio
-* [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
 * [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Requires Sign-Up

@@ -105,7 +105,8 @@
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
-* [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs), [OperaVision](https://operavision.eu/), [OperaOnVideo](https://www.operaonvideo.com/) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings / Opera
+* [OperaVision](https://operavision.eu/) or [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
+* [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
 * [DimeADozen](http://www.dimeadozen.org/) - Concert Recordings / Torrents
@@ -749,7 +750,7 @@
 * ↪️ **[Voice Change / Clone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_change_.2F_clone)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ⭐ **[Audio Glossary](https://wotaku.wiki/glossary/audio)** - Audio Terms Glossary
-* ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
+* ⭐ **[FFmpeg](https://ffmpeg.org/)**, [fre:ac](https://www.freac.org/) / [GitHub](https://github.com/enzo1982/freac), [Shutter Encoder](https://www.shutterencoder.com/) / [GitHub](https://github.com/paulpacifico/shutter-encoder), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/) or [Sox](https://sourceforge.net/projects/sox/) - Audio Converters
 * [Xconvert](https://www.xconvert.com/audio-tools) or [FreeConvert](https://www.freeconvert.com/audio-converter) - Online Audio Converters
 * [⁠Hydrogenaudio Knowledgebase](https://wiki.hydrogenaudio.org/) - Audio Technology Wiki / Guides
 * [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)

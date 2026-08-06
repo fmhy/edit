@@ -463,7 +463,7 @@
 ## ▷ Effects / Enhancements
 
 * [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
-* [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" or "UniFab" on LR
+* [Topaz](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_vfx_sites) or [UniFab](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_site) (search) - AI Video Enhancement Tools
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [⁠ntsc-rs](https://ntsc.rs/) - TV + VHS Artifact Video Effect Editor / [Web Version](https://web.ntsc.rs/) / [GitHub](https://github.com/ntsc-rs/ntsc-rs)
@@ -486,11 +486,12 @@
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [Ae Blender](https://www.aeblender.com/)
-* [HunterAE](https://hunterae.com/) - After Effects
-* [AETemp](https://t.me/AETemp) - After Effects
-* [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
-* [AEDownloadPro](https://aedownloadpro.com/) - After Effects
-* [Intro HD](https://intro-hd.net/) - After Effects / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+* [VFX Plugins](https://rentry.co/FMHYB64#vfx-plugins)
+* [HunterAE](https://hunterae.com/)
+* [AETemp](https://t.me/AETemp)
+* [Visual Effects Pack](https://t.me/visual_effects_pack)
+* [AEDownloadPro](https://aedownloadpro.com/)
+* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
 
 ***
 

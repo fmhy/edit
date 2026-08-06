@@ -305,6 +305,7 @@
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Non-Steam Games Through Proton
+* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton-GE + Proton-CachyOS Builds
 * [Luxtorpeda](https://codeberg.org/luxtorpeda/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
 * [Accela](https://github.com/ciscosweater/enter-the-wired) - Steam Game + DLC Unlocker
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/ltsteamplugin) 

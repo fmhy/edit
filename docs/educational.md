@@ -783,6 +783,7 @@
 * [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy Literature
 * [⁠1000-Word Philosophy](https://1000wordphilosophy.com/) - 1000-Word Essays on Philosophical Topics
 * [Untools](https://untools.co/) - Better Thinking Tools
+* [⁠Landscape of Consciousness](https://loc.closertotruth.com/) - Consciousness Theory Index 
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
@@ -1520,7 +1521,6 @@
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - Data Science Resources
 * 🌐 **[⁠Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)** - Data Analysis Resources 
 * 🌐 **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - Data Engineer Resources
-* ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ⭐ **[OSSU Data Science](https://github.com/ossu/data-science)** - Data Science Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
@@ -1640,6 +1640,23 @@
 * [⁠EmuDevs](https://afska.github.io/emudevz/) - NES Emulator Development Learning Game 
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [8bitWorkshop](https://8bitworkshop.com/) - Retro Game Programming Tutorials
+
+***
+
+## ▷ AI / ML Learning
+
+* 🌐 **[Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/)** - LLM Learning Resources / [GitHub](https://github.com/viveknaskar/everything-ai-ml)
+* [Awesome Free AI Books](https://github.com/MarcosSete/awesome-free-ai-books), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [mlsysbook](https://www.mlsysbook.ai/), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Engineering](https://github.com/stas00/ml-engineering), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Books / Guides
+* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
+* [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
+* [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
+* [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
+* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
+* [LLM Visualization](https://bbycroft.net/llm) or [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) - LLM Visualizations
+* [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - ⁠Transformer Visualization
+* [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
 
 ***
 

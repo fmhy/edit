@@ -21,7 +21,7 @@
 * [⁠My Cima](https://mycima.gripe/) - Movies / TV / Anime / Hard Subs
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FilmCity](https://m.filmcity12.com/) - Movies
-* [TopCinema](https://topcinemaa.cc/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [TopCinema](https://topcinemaa.co/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
@@ -33,12 +33,12 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[FaselHD](https://web72818x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[FaselHD](https://web860x.faselhdx.life/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [egybest](https://egybest.la/) - Movies / TV / Anime
-* [TopCinema](https://topcinemaa.cc/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [TopCinema](https://topcinemaa.co/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [kirmalk](https://ta.kirmalk.com/) - Movies / TV
 * [⁠My Cima](https://mycima.gripe/) - Movies / TV
 * [Laroza TV](https://tv.laroza.now/) - Movies / TV
@@ -583,7 +583,6 @@
 * [zdf](https://www.zdf.de/) - Public Broadcast
 * [Burning Series](https://burningseries.ac/), [2](https://burningseries.cx/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
-* [Anime-Base](https://anime-base.net/) - Anime / Dub / 1080p / [Improvement Extension](https://berni-92.github.io/anime-base-autoplayer/) / [Discord](https://discord.gg/sj6mDujvMD)
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Status](https://aniworld.domains/) / [Discord](https://discord.com/invite/xTkw6292Uj)
 * [⁠Fireani](https://fireani.me/app) - Anime Android App
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons

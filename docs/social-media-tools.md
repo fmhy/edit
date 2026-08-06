@@ -297,7 +297,6 @@
 * [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bots
 * [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
-* [r/TelegramBots](https://www.reddit.com/r/TelegramBots/) - Telegram Bots Discussion
 
 ***
 
@@ -415,7 +414,7 @@
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YouTube CLIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
-* [yoink.tools](https://yoink.tools/) / [GitHub](https://github.com/coah80/yoink), [⁠YT1s](https://yt1s.com.co/), [⁠YTDown](https://app.ytdown.to/en7/) or [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) - Online YT-DL Downloaders
+* [yoink.tools](https://yoink.tools/) / [GitHub](https://github.com/coah80/yoink), [⁠YT1s](https://yt1s.com.co/) or [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) - Online YT-DL Downloaders
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader

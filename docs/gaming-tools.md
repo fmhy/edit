@@ -420,6 +420,7 @@
 * ⭐ **[ZeroTier](https://www.zerotier.com/)** - LAN Multiplayer Fix / [LAN Fix](https://github.com/gomaaz/Zerotier_Gaming_Fix)
 * [Radmin](https://www.radmin-vpn.com/) - Dedicated Servers / LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - Dedicated Servers / LAN Multiplayer Fix
+* [⁠Porthole](https://store.steampowered.com/app/4963920/Porthole__Local_Port_Sharing/) - LAN Multiplayer Fix 
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
 * [⁠Lanemu](https://gitlab.com/Monsterovich/lanemu/) - LAN Multiplayer Fix
 * [OpenSpy](https://openspy.net/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/sMaWdbt) / [GitHub](https://github.com/openspy/openspy-core)
@@ -850,6 +851,7 @@
 * [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Shader Mod for Minecraft / [Forge Version](https://modrinth.com/mod/oculus)
 * [MinecraftSkins](https://www.minecraftskins.com/), [MC-Skins](https://mc-skins.com/), [⁠MC Profiles](https://mcprofiles.net/), [MCSkins](https://mcskins.top/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/), [⁠SkinsMC](https://skinsmc.org/), [⁠mcskincraft](https://mcskincraft.com/) or [SkinMC](https://skinmc.net/) - Minecraft Skins
+* [⁠Skin Closet](https://skin-closet.chabo.tokyo/) - Skin / Clothing Layer Customization Tool
 * [MSkins](https://mskins.net/en) - Skin Grabber
 * [Ely.by](https://ely.by/) - Skin System / Authorization
 * [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes) or [Nova Skin](https://minecraft.novaskin.me/) - Minecraft Skin Editors
@@ -864,6 +866,7 @@
 
 ## ▷ 3D Tools
 
+* ⭐ **[Blockbench](https://www.blockbench.net/)** - Low Poly 3D Editor / [Discord](https://discord.com/invite/blockbench)
 * [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/) / [Discord](https://discord.com/invite/wfayQA6Dyc), [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
 * [Mine-imator](https://www.mineimator.com/) - Animation Tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [Discord](https://discord.com/invite/GxFp6xv) / [GitHub](https://github.com/stuffbydavid/Mine-imator)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [Discord](https://discord.com/invite/VqcHpsF) / [GitHub](https://github.com/chunky-dev/chunky)
@@ -871,7 +874,6 @@
 * [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [⁠Bedrock Editor](https://github.com/Mojang/minecraft-editor) - 3D Editors
 * [⁠MineAssets Editor](https://editor.mineassets.com/) - Model Editor / Web
 * [Block Display](https://block-display.com/) - Design / Share Block Display Models / [Discord](https://discord.gg/VCeHfSd6Xa)
-* [Blockbench](https://www.blockbench.net/) - Low Poly 3D Editor / [Discord](https://discord.com/invite/blockbench)
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)
@@ -1033,6 +1035,7 @@
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
+* [⁠Detroit Become Text](https://detroitbecometext.github.io/) - Detroit: Become Human Text Transcript
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
