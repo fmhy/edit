@@ -50,7 +50,7 @@
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
-* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
+* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation / [Github](https://github.com/cerebroapp/cerebro)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
@@ -362,8 +362,8 @@
 
 # ► Windows ISOs
 
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows)
 * ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
+* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows) / [Discord](https://discord.gg/4mFR9y9Snw)
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
@@ -395,7 +395,7 @@
 
 ## ▷ Windows Updates
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life
+* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life / [Discord](https://discord.gg/4mFR9y9Snw)
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [VCRedist](https://github.com/abbodi1406/vcredist), [2](https://gitlab.com/stdout12/vcredist), [3](https://codeberg.org/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Editions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)
