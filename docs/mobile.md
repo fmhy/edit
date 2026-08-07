@@ -608,6 +608,7 @@
 * [Round Sync](https://github.com/newhinton/Round-Sync) or [MetaCTRL](https://metactrl.com/) - Multi-Site Cloud Storage File Managers
 * [AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Manage Android File via Windows
 * [Dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) - Cloud Storage
+* [Sia Storage](https://sia.storage) - Cloud Storage / 50GB / [GitHub](https://github.com/siafoundation)
 * [RSAF](https://github.com/chenxiaolong/RSAF) - Add RClone Remotes to Android Storage Framework
 * [iyox-Wormhole](https://github.com/iyox-studios/iyox-Wormhole) - File Sync / Sharing
 * [CrocGUI](https://github.com/howeyc/crocgui) - File Sync / Sharing
@@ -1116,6 +1117,7 @@
 * [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [Blip](https://apps.apple.com/in/app/blip-send-files-in-a-click/id6463305181) - File Transfer / Turn "Searchable by Name" Off in Settings
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
+* [Sia Storage](https://sia.storage) - Cloud Storage / 50GB / [GitHub](https://github.com/siafoundation)
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator / [Compatibility](https://appdb.touchhle.org/)
 * [⁠Inferno](https://chefkiss.dev/applehax/inferno/) - Apple Silicon Emulator / [GitHub](https://github.com/ChefKissInc/Inferno)
@@ -1340,7 +1342,7 @@
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights
 * [Chan](https://github.com/moffatman/chan) - 4chan App
-* [SCInsta](https://github.com/SoCuul/SCInsta), [⁠RyukGram](https://github.com/faroukbmiled/RyukGram) / [Telegram](https://t.me/ryukgram) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
+* [SCInsta](https://github.com/SoCuul/SCInsta), [⁠RyukGram](https://t.me/ryukgram) / [GitHub](https://github.com/faroukbmiled/RyukGram) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
