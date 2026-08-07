@@ -218,6 +218,7 @@
 * [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library
 * [⁠RSN Stitch Bank](https://rsnstitchbank.org/) - Embroidery Stitches / Lessons
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
+* [⁠BraceletBook](https://www.braceletbook.com/) - DIY Bracelet Pattern Database
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 
@@ -1468,11 +1469,8 @@
 * [Cataas](https://cataas.com/cat) - Random Cat Images
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
-* [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
-* [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - Magical Sketchpad
-* [Webchemy](https://webchemy.org/) - Drawing / Sketching
-* [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
-* [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
+* [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
+* [⁠3place](https://3place.world/) - Infinite Online 3D Pixel Art Globe
 * [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
@@ -1482,6 +1480,11 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - Blob-Style Painting
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
+* [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
+* [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - Magical Sketchpad
+* [Webchemy](https://webchemy.org/) - Drawing / Sketching
+* [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
+* [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm) - Coat of Arms Generator
 * [Where Is The Google Car](https://www.whereisthegooglecar.com/) - Google Car Images / Locations
 * [Web Neko](https://webneko.net/) - Nekos on the Web
@@ -1586,7 +1589,6 @@
 * [Odyssey](https://experience.odyssey.ml/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
-* [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
 * [⁠DrawAFish](https://drawafish.com/) - Global Fish Drawing Tank
 * [gradient.horse](https://gradient.horse/) - Global Horse Drawing
