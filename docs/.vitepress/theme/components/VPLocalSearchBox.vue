@@ -135,6 +135,77 @@ const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 // Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
+interface SidebarItem {
+  text?: string
+  link?: string
+  items?: SidebarItem[]
+}
+
+// Section ids are the first path segment of a result id: "/gaming#anchor" -> "/gaming".
+function resultCategoryOf(id: string): string {
+  const segment = id
+    .split('#')[0]
+    .replace(/\.html$/, '')
+    .split('/')
+    .filter(Boolean)[0]
+  return segment ? `/${segment}` : '/'
+}
+
+// Categories and labels come from the sidebar, which is static at build time,
+// so this runs once. Wiki and Tools entries pointing at the same page
+// (e.g. /audio#audio-tools) keep the first (Wiki) label.
+const searchCategories = (() => {
+  const entries: { id: string; label: string }[] = []
+  const seen = new Set<string>()
+  const collect = (items: SidebarItem[]) => {
+    for (const item of items) {
+      if (!item || typeof item !== 'object') continue
+      if (Array.isArray(item.items)) {
+        collect(item.items)
+      } else if (typeof item.link === 'string' && item.link.startsWith('/')) {
+        const id = resultCategoryOf(item.link)
+        if (seen.has(id)) continue
+        seen.add(id)
+        entries.push({
+          id,
+          label: (item.text ?? '').replace(/<[^>]*>/g, '').trim()
+        })
+      }
+    }
+  }
+  collect(Array.isArray(sidebar) ? sidebar : [])
+  return entries
+})()
+
+// Active section id; '' disables the filter.
+const activeCategory = useLocalStorage('vitepress:local-search-category', '')
+
+const categoryCounts = computed(() => {
+  const counts = new Map<string, number>()
+  for (const r of allResults.value) {
+    const category = resultCategoryOf(r.id)
+    counts.set(category, (counts.get(category) ?? 0) + 1)
+  }
+  return counts
+})
+
+const visibleCategories = computed(() =>
+  searchCategories.filter(
+    (c) =>
+      (categoryCounts.value.get(c.id) ?? 0) > 0 || activeCategory.value === c.id
+  )
+)
+
+const activeCategoryLabel = computed(
+  () => searchCategories.find((c) => c.id === activeCategory.value)?.label ?? ''
+)
+
+function selectCategory(id: string) {
+  activeCategory.value = activeCategory.value === id ? '' : id
+  resultLimit.value = RESULTS_PAGE_SIZE
+  shouldResetScroll.value = true
+}
+
 const customMetadata = shallowRef<
   Record<string, { l?: string[]; s?: string[]; u?: string[]; su?: string[] }>
 >({})
@@ -685,12 +756,6 @@ function getRelativeOffsetTop(
 // Cached term keys for substring matching — rebuilt only when the search index changes
 let cachedTermKeys: string[] = []
 
-interface SidebarItem {
-  text?: string
-  link?: string
-  items?: SidebarItem[]
-}
-
 function findPageTitle(items: SidebarItem[], path: string): string | null {
   for (const item of items) {
     if (item.link === path) return item.text ?? null
@@ -1045,14 +1110,27 @@ watchDebounced(
 
 // 2. Synchronous Watcher: Handles slicing, excerpt fetching, DOM rendering, and highlight marking instantly
 watch(
-  () => [allResults.value, resultLimit.value, showDetailedList.value] as const,
+  () =>
+    [
+      allResults.value,
+      resultLimit.value,
+      showDetailedList.value,
+      activeCategory.value
+    ] as const,
   async ([allRes, limit, showDetailedListValue], old, onCleanup) => {
     let canceled = false
     onCleanup(() => {
       canceled = true
     })
 
-    const sliced = allRes.slice(0, limit)
+    // Section filter slices the in-memory results before pagination; switching
+    // sections doesn't re-run the index query
+    const category = activeCategory.value
+    const scopedResults = category
+      ? allRes.filter((r) => resultCategoryOf(r.id) === category)
+      : allRes
+
+    const sliced = scopedResults.slice(0, limit)
     if (sliced.length === 0) {
       results.value = []
       resultMarks.value = new Map()
@@ -1086,7 +1164,7 @@ watch(
       // For exact search, we fetch excerpts for a dynamic candidate pool
       // to ensure contiguous phrase matches are not lost due to ranking.
       const candidateLimit = Math.max(MIN_CANDIDATE_POOL, limit * 2)
-      const candidates = allRes.slice(0, candidateLimit)
+      const candidates = scopedResults.slice(0, candidateLimit)
 
       const candidatesToFetch = candidates.filter((r) => {
         const [id] = r.id.split('#')
@@ -1110,7 +1188,7 @@ watch(
       totalCount = filtered.length
       // Untested remainder beyond the candidate pool may contain more matches;
       // expanding resultLimit re-runs this branch with a larger candidateLimit.
-      mayHaveMoreValue = allRes.length > candidateLimit
+      mayHaveMoreValue = scopedResults.length > candidateLimit
     } else {
       // Fuzzy search or substring expansion: slice to limit directly
       const slicedToFetch = showDetailedListValue
@@ -1133,7 +1211,7 @@ watch(
       })
 
       finalResults = mapped
-      totalCount = mapped.length + Math.max(0, allRes.length - limit)
+      totalCount = mapped.length + Math.max(0, scopedResults.length - limit)
     }
 
     if (!isFuzzySearch.value) {
@@ -2259,6 +2337,38 @@ function isSamePageComparison(destPath: string) {
             </button>
           </div>
 
+          <div
+            v-if="filterText && visibleCategories.length"
+            class="category-filters"
+          >
+            <button
+              type="button"
+              class="category-chip"
+              :class="{ active: !activeCategory }"
+              :aria-pressed="!activeCategory"
+              title="All sections"
+              @click="selectCategory('')"
+            >
+              All
+              <span class="chip-count">{{ allResults.length }}</span>
+            </button>
+            <button
+              v-for="cat in visibleCategories"
+              :key="cat.id"
+              type="button"
+              class="category-chip"
+              :class="{ active: activeCategory === cat.id }"
+              :aria-pressed="activeCategory === cat.id"
+              :title="cat.label"
+              @click="selectCategory(cat.id)"
+            >
+              {{ cat.label }}
+              <span class="chip-count">
+                {{ categoryCounts.get(cat.id) ?? 0 }}
+              </span>
+            </button>
+          </div>
+
           <ul
             :id="results?.length ? 'localsearch-list' : undefined"
             ref="resultsEl"
@@ -2363,7 +2473,19 @@ function isSamePageComparison(destPath: string) {
                 key="no-results"
                 class="no-results"
               >
-                <div>
+                <div
+                  v-if="activeCategory && allResults.length > 0"
+                  class="no-results-category"
+                >
+                  No results in {{ activeCategoryLabel }}
+                  <button
+                    class="try-fuzzy-btn"
+                    @click="selectCategory(activeCategory)"
+                  >
+                    Show all sections
+                  </button>
+                </div>
+                <div v-else>
                   {{ translate('modal.noResultsText') }} "{{ filterText }}"
                 </div>
                 <div v-if="!isFuzzySearch" class="no-results-actions">
@@ -3195,6 +3317,70 @@ svg {
   font-size: 0.75rem;
   color: var(--vp-c-text-3);
   padding-left: 8px;
+}
+
+/* Custom Feature: Category filter chips */
+.category-filters {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding: 0 4px 2px;
+  margin-top: -6px;
+}
+
+.category-filters::-webkit-scrollbar {
+  display: none;
+}
+
+.category-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  height: 26px;
+  padding: 0 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  color: var(--vp-c-text-2);
+  background-color: var(--vp-local-search-bg);
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    color 0.2s,
+    background-color 0.2s,
+    border-color 0.2s;
+}
+
+.category-chip:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+.category-chip.active {
+  color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg-soft);
+  border-color: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 35%,
+    var(--vp-c-divider)
+  );
+}
+
+.chip-count {
+  font-size: 0.7rem;
+  font-family: var(--vp-font-family-mono);
+  opacity: 0.7;
+}
+
+.no-results-category {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .toggle-layout-button {
