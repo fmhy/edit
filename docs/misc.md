@@ -1173,6 +1173,7 @@
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) or [⁠HiFiGuides Forum](https://forum.hifiguides.com/) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://consoomer-guide.pages.dev/) / [2](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
+* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers, Phones, Speakers, etc.
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [⁠Audio Test Kitchen](https://www.audiotestkitchen.com/) - Compare Microphone Sounds
@@ -1184,7 +1185,6 @@
 * [⁠EmuReady](https://www.emuready.com/) - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * [⁠RetroSizer](https://retrosizer.com/) - Compare Sizes of Handhelds
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Game Emulation Compatibility / Info
-* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
 * [Camera Decision](https://cameradecision.com/), [⁠DPReview](https://www.dpreview.com/products/compare/cameras) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras

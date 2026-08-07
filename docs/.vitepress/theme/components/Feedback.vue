@@ -366,8 +366,8 @@ const resetFeedback = () => {
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <p>
               Please read the
-              <a href="/other/contributing">Contribute Guide</a>
-              before submitting your feedback!
+              <a href="/other/contributing">contribution guide</a>
+              before submitting your feedback, and be sure to include a link if you want something added!
             </p>
           </div>
           <div
