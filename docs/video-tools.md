@@ -164,6 +164,7 @@
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
+* [⁠Twitch Poll Overlay](https://poll.ma.pe/) - ⁠Twitch Poll Overlay
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 
@@ -314,7 +315,7 @@
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)
 * [MSX](https://msx.benzac.de/info/) - Web App
-* [TheIntroDB](https://theintrodb.org/) - Intro / Credit Skipping Extension / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB)
+* [TheIntroDB](https://theintrodb.org/) / [Discord](https://discord.gg/Qn6RhamxT5) / [Telegram](https://t.me/theintrodb) / [GitHub](https://github.com/TheIntroDB) or [SkipDB](https://skipdb.tv/) - Intro / Credit Skipping
 * [Tunarr](https://tunarr.com/) / [GitHub](https://github.com/chrisbenincasa/tunarr/), [ErsatzTV](https://ersatztv.org/) or [dizqueTV](https://github.com/vexorian/dizquetv) - Custom Live Channel Servers
 * [⁠YAMS](https://yams.media/) - Linux Media Server Auto-Install Script 
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
@@ -463,7 +464,7 @@
 ## ▷ Effects / Enhancements
 
 * [⁠Grainrad](https://grainrad.com/) or [effect.app](https://effect.app/) - Online Video Effects
-* [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" or "UniFab" on LR
+* [Topaz](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_vfx_sites) or [UniFab](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_site) (search) - AI Video Enhancement Tools
 * [Gyroflow](https://gyroflow.xyz/) / [Discord](https://discord.com/invite/YaUtNpWTUh) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [⁠ntsc-rs](https://ntsc.rs/) - TV + VHS Artifact Video Effect Editor / [Web Version](https://web.ntsc.rs/) / [GitHub](https://github.com/ntsc-rs/ntsc-rs)
@@ -486,19 +487,20 @@
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [Ae Blender](https://www.aeblender.com/)
-* [HunterAE](https://hunterae.com/) - After Effects
-* [AETemp](https://t.me/AETemp) - After Effects
-* [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
-* [AEDownloadPro](https://aedownloadpro.com/) - After Effects
-* [Intro HD](https://intro-hd.net/) - After Effects / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+* [VFX Plugins](https://rentry.co/FMHYB64#vfx-plugins)
+* [HunterAE](https://hunterae.com/)
+* [AETemp](https://t.me/AETemp)
+* [Visual Effects Pack](https://t.me/visual_effects_pack)
+* [AEDownloadPro](https://aedownloadpro.com/)
+* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
 
 ***
 
 ## ▷ Animation Tools
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
-* ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) / [Discord](https://discord.gg/9KPvQ4H)
+* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Discord](https://discord.gg/9KPvQ4H), [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Extractor](https://fmodel.app/) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) 
 * [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [Discord](https://discord.com/invite/tooll3-823853172619083816) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools

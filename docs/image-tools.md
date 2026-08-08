@@ -105,6 +105,7 @@
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
 * [PhotoJoiner](https://www.photojoiner.com/) or [⁠Collaigo](https://www.collaigo.com/) / [Discord](https://discord.gg/WbVXpRkWZv) (chrome) - Collage Makers / Editors
 * [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc
+* [⁠Dot Shader](https://iamnoman.com/dot) - Halftone Image Filtering Tool 
 * [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
@@ -202,6 +203,7 @@
 * [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Art Village](https://pixelartvillage.org/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
+* [⁠Makapix Club](https://makapix.club/) - Pixel Art Sharing + Editor for LED/DIY Devices
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, macOS, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [⁠The Spriters Toolkit](https://tools.spriters-resource.com/) - Sprite Sheet Toolkit / Web
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
@@ -227,7 +229,7 @@
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, macOS, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
 * [Ultimate 88x31 Generator](https://pixelwolf.net/PWapps/88x31/), [blinkies.cafe](https://blinkies.cafe/) / [GitHub](https://github.com/piconaut/blinkies.cafe) or [⁠88x31px Button Generator](https://88x31.datakra.sh/) - Create Retro Blinkie GIFs / 88x31 Badges
-* [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons, [88x31 Collection](https://88x31.nl/) or [Web Badges World](https://web.badges.world/) - Download Retro 88x31 Web Badges / Blinkies
+* [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons), [88x31 Collection](https://88x31.nl/) or [Web Badges World](https://web.badges.world/) - Download Retro 88x31 Web Badges / Blinkies
 * [⁠DotChibiko](https://dot-chibiko.chabo.tokyo/) or [⁠Minecraft Chibi Skin Maker](https://nogard.dev/tools/minecraft-chibi-skin-maker) - Generate Chibi Style GIFs from Minecraft Skins
 
 ***
@@ -240,7 +242,7 @@
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
-* [⁠Undertale Text Gen](https://undertaletextboxgenerator.online/) - ⁠Undertale Text Box Generator / [Discord](https://discord.com/invite/3EzQmbGz6h)
+* [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [⁠Undertale Text Gen](https://undertaletextboxgenerator.online/) / [Discord](https://discord.com/invite/3EzQmbGz6h) - ⁠Undertale / Deltarune Text Box Generators 
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
@@ -389,7 +391,7 @@
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis
-* [PixelJoint](https://pixeljoint.com/), [Lospec](https://lospec.com/) or [rsrcs](https://rentry.co/rsrcs) - Download / Share Pixel Art
+* [PixelJoint](https://pixeljoint.com/) or [Lospec](https://lospec.com/) - Download / Share Pixel Art
 * [shot.cafe](https://shot.cafe/), [⁠StillsLab](https://stillslab.com/), [FanCaps](https://fancaps.net/), [Movie Screencaps](https://movie-screencaps.com/), [Animation Screencaps](https://animationscreencaps.com/), or [Film Grab](https://film-grab.com/) - Media Screenshots / Stills
 * [Free Classic Image](https://freeclassicimages.com/) - Vintage / Retro Image Collection / Some NSFW
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
@@ -475,7 +477,7 @@
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
-* ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [⁠Gsbooru](https://safe.gsbooru.org/), [Sankaku Complex](https://www.sankakucomplex.com/), [Safebooru](https://safebooru.org/), [TBIB](https://tbib.org/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Downloader](https://github.com/kuanyui/BooruShinshi)
+* ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [⁠Gsbooru](https://safe.gsbooru.org/), [Sankaku Complex](https://www.sankakucomplex.com/), [Safebooru](https://safebooru.org/), [TBIB](https://tbib.org/) or [yande.re](https://yande.re/) - Anime-Style Image Booru's / [Downloader](https://github.com/kuanyui/BooruShinshi)
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [GitHub](https://github.com/hydrusnetwork/hydrus)
 * [⁠Kultura](https://kultura.art/) - Art Discovery / Curation Platform
 * [Buzzly](https://buzzly.art/) - User-Made Art / Fanart
@@ -493,6 +495,7 @@
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
 * [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
+* [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru App / Android
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [TEv2](http://te2.tewi.us/) - Share Your Drawings
@@ -501,6 +504,7 @@
 
 ## ▷ Media Covers / Posters
 
+* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_album_artwork)**
 * ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music / Comic / Book / Anime / Manga
 * [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
 * [The Poster DB](https://theposterdb.com/) / [Subreddit](https://www.reddit.com/r/ThePosterDB) / [Discord](https://discord.com/invite/NARZqQX), [DVD Covers](https://www.dvd-covers.org/) or [MediUX](https://mediux.pro/) - Movies / TV
@@ -607,6 +611,7 @@
 * [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices 
 * [⁠step.parts](https://www.step.parts/) - 3D Printing Step Files
 * [OrcaSlicer](https://www.orcaslicer.com/) / [X](https://x.com/real_OrcaSlicer) / [Discord](https://discord.gg/P4VE9UY9gJ) / [GitHub](https://github.com/OrcaSlicer/OrcaSlicer), [⁠PrusaSlicer](https://help.prusa3d.com/product/prusaslicer) / [GitHub](https://github.com/prusa3d/PrusaSlicer), [⁠CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) or [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
+* [⁠keygen](https://keygen.co/) - Print High-Quality Copies of Your Keys 
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
 ***
@@ -809,7 +814,7 @@
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Requires Sign-Up
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/)
-* [Google Photos](https://photos.google.com/) - 200MB / 15GB Cloud / Forever
+* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) - 200MB / 15GB Cloud / Forever
 * [Zonerama](https://eu.zonerama.com/) - Unlimited / Forever
 * [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up

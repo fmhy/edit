@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Fight Chat Control 🔒
-    link: https://fightchatcontrol.eu/
+    title: August Updates ✨
+    link:  /posts/aug-2026
   image:
     src: test.png
     alt: FMHY Icon

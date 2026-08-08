@@ -27,6 +27,7 @@
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
 * [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
+* [⁠Mayberry](https://joinmayberry.com/) - Ebook Sharing Network / Downloader
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [The Free Book Library](https://ebooks.i2p/) - Requires I2P
@@ -102,7 +103,7 @@
 * ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [Subreddit](https://reddit.com/r/readest) / [Discord](https://discord.gg/gntyVNk3BJ) / [GitHub](https://github.com/readest/readest)
 * ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
+* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows / [GitHub](https://github.com/sumatrapdfreader/sumatrapdf)
 * [Sioyek](https://sioyek.info/) - PDF / Windows, macOS, Linux
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * [⁠BookOrbit](https://bookorbit.app/) or [⁠Grimmory](https://grimmory.org/) - Ebook Managers / Readers / Self-Hosted
@@ -155,7 +156,7 @@
 
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
-* [ComparisonTabl.es](https://comparisontabl.es/tag/e-reader/) - Compare E-Readers
+* [ComparisonTabl.es](https://comparisontabl.es/e-readers/) - Compare E-Readers
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
@@ -182,7 +183,6 @@
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Send to Kobo/Kindle](https://send2ereader.net/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
-* [ItsFOSS Guide](https://itsfoss.com/calibre-remove-drm-kindle/) - Kindle DRM Removal Guide
 * [KAnki](https://github.com/crizmo/KAnki) – Kindle Flashcard App / [Editor](https://kindlemodshelf.me/editor)
 * [SOX Media Player](https://kindlemodshelf.me/sox) - Bluetooth Audio Player
 * [Focus Reading](https://github.com/gmacahia/focus-reading.lua) - Bionic Reading / Guided Dots for Kindle
@@ -348,12 +348,12 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2) - Audiobook Download Apps
 ***
 
 ## ▷ Streaming
 
-* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.to/ebooks), [3](https://nepu.is/ebooks), [4](https://nepu.net/ebooks), [5](https://nepu.app/ebooks)
+* ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**, [2](https://nepu.is/ebooks), [3](https://nepu.net/ebooks), [4](https://nepu.app/ebooks), [5](https://nepu.is/ebooks)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [HDAudiobooks](https://hdaudiobooks.net/)
 * [BigAudiobooks](https://bigaudiobooks.net/)
@@ -375,7 +375,7 @@
 * ↪️ **[Audiobook Generators / TTS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) / [Mobile](https://github.com/Promises/LibriSync) - Audible DRM Remover / Manager
-* [AudiobookShelf](https://www.audiobookshelf.org/) / [Multi-Platform Client](https://github.com/Vito0912/abs_flutter) / [Mobile](https://github.com/advplyr/audiobookshelf-app), [2](https://github.com/GrakovNe/lissen-android/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
+* [AudiobookShelf](https://www.audiobookshelf.org/) / [Multi-Platform Client](https://github.com/Vito0912/abs_flutter) / [Mobile](https://github.com/advplyr/audiobookshelf-app), [2](https://github.com/GrakovNe/lissen-android/) / [Installer / Manager](https://github.com/mikiher/audiobookshelf-windows) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
 
@@ -605,12 +605,12 @@
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
 * [Classical Libraries](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkUFBfVVqv5Tr2aZS4apFNpTJ-ys6VqeQxgsAI1v7cH5putIgchYWJAVGHuu0lWGmdD2DU7Vb1o7XH/pubhtml) - Classical Literature Collection / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
+* [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy / Literature
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
 * [textfiles.com](http://textfiles.com/) - 1980s Text File Index
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Text / Documents
 * [IntraText Digital Library](https://www.intratext.com/) - Historical Text / Documents
-* [⁠The Internet Classics Archive](https://classics.mit.edu/) - Classic Philosophy / Literature
 * [MSU Digital Repository](https://d.lib.msu.edu/) - Historical Documents, Books, Recording & more
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
@@ -667,6 +667,7 @@
 * [Flavio Copes](https://flaviocopes.com/)
 * [WOW! eBook](https://www.wowebook.org/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
+* [⁠Software Foundations](https://softwarefoundations.cis.upenn.edu/) - Programming Foundation + Formal Verification Books
 * [GoalKicker](https://goalkicker.com/), [2](https://books.goalkicker.com/) - Programming Books Compiled from Stack Overflow Docs
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
@@ -831,7 +832,7 @@
 * [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
 * [Archives.gov](https://www.archives.gov/) - Declassified Documents
 * [Distributed Denial of Secrets](https://ddosecrets.org/) - Transparency Collective
-* [Library of Leaks](https://libraryofleaks.org/) - Leaked Documents
+* [Library of Leaks](https://search.libraryofleaks.org/) - Leaked Documents
 * [Cryptome](https://cryptome.org/) - Leaked Documents
 * [⁠ICIJ](https://www.icij.org/investigations/) - Investigative Journalists Organization / Panama + Pandora Financial Leaks
 * [Snowden Archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
@@ -914,6 +915,7 @@
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
+* [⁠Book Notification](https://www.booknotification.com/) - Book / Author Release Notifications 
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
@@ -934,7 +936,7 @@
 * [Romance.io](https://www.romance.io/) - Romance Database
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
-* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
+* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
 
 ***
 
