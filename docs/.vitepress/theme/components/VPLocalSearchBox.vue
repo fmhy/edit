@@ -186,8 +186,7 @@ const searchCategories = (() => {
   return entries
 })()
 
-// Active section id; '' disables the filter.
-const activeCategory = useLocalStorage('vitepress:local-search-category', '')
+const activeCategory = ref('')
 
 // Chips count what's actually displayed (after excerpt filtering in
 // detailed view), not the raw pool. Rebuilt in watcher 2 when the
@@ -750,6 +749,7 @@ const autoSuggestions = computed(() => {
 })
 
 watch([filterText, isFuzzySearch, isUrlSearch], () => {
+  activeCategory.value = ''
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
   shouldResetScroll.value = true
