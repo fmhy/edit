@@ -1149,12 +1149,12 @@
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+* ⭐ **[⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN)** - Japanese Learning Videos
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan), [⁠Bettermelon](https://bettermelon.ru/), [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime, Manga & Light Novels
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese Translator
 * [Minato](https://minato-jf.jp/) - Japanese Courses
-* [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
@@ -1264,9 +1264,9 @@
 * 🌐 **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * 🌐 **[Mga Nagmamarunong's Masterlist](https://docs.google.com/spreadsheets/d/1R9P2nt0sQbL8GqEO_hcPjwIZcM-4s0BbJifm-1AJ0Bc/)** - Tagalog Learning Resources
 * 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/)** or **[Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
+* ⭐ **[Rekhta Dictionary](https://www.rekhtadictionary.com/)** - Urdu Dictionary
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
-* [Rekhta Dictionary](https://www.rekhtadictionary.com/) - Urdu Dictionary
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 * [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
 
@@ -1651,13 +1651,13 @@
 * 🌐 **[Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/)** - LLM Learning Resources / [GitHub](https://github.com/viveknaskar/everything-ai-ml)
 * ↪️ **[Machine Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * [Awesome Free AI Books](https://github.com/MarcosSete/awesome-free-ai-books), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [mlsysbook](https://www.mlsysbook.ai/), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Engineering](https://github.com/stas00/ml-engineering), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Books / Guides
-* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
+* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
-* [LLM Visualization](https://bbycroft.net/llm) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - LLM Visualizations
+* [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer and LLM Visualizations
 * [ML Visualized](https://ml-visualized.com/) - Machine Learning Visualizations / [GitHub](https://github.com/gavinkhung/machine-learning-visualized)
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book

@@ -291,7 +291,6 @@
 * ⭐ **[protondb](https://www.protondb.com/)** / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV) or [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Game Compatibility Databases
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher), **[Lutris](https://lutris.net/)** / [Discord](https://discord.com/invite/Pnt5CuY) / [GitHub](https://github.com/lutris), or [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Game Launchers
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
-* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
 * ⭐ **[SLSsteam](https://cs.rin.ru/forum/viewtopic.php?f=29&t=146352&hilit=SLSsteam)** / [GitHub](https://github.com/AceSLS/SLSsteam) - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Auto Install / Update](https://github.com/Deadboy666/h3adcr-b)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility Tool Managers
 * ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC) 
@@ -302,6 +301,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
+* [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Non-Steam Games Through Proton
@@ -486,6 +486,7 @@
 * ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
 * ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/) or [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux Terminal Emulators
 * ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Terminal Guide](https://www.terminal.guide/), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line / Terminal Guides
+* [⁠WebTerm](https://webterm.app/) - Terminal Learning Sandbox
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) or [⁠WTF](https://wtfutil.com/) / [GitHub](https://github.com/wtfutil/wtf) - Terminal Dashboards
 * [Starship](https://starship.rs/) or [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts

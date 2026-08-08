@@ -149,7 +149,7 @@
 
 ***
 
-* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek) - Morphe Patch Indexes
+* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://redd.it/1ta0bek), [3](https://awesome-morphe.vercel.app/) - Morphe Patch Indexes
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[Morphe / Piko Obtainium Guide](https://wispydocs.pages.dev/morphe-piko-obtainium/)** - Pre-Built Updatable APKs
 * ⭐ **[Morphe](https://morphe.software/)** - Android App Patcher / [X](https://x.com/MorpheApp) / [Desktop](https://github.com/MorpheApp/morphe-desktop) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
@@ -227,7 +227,6 @@
 * [TaskManager](https://github.com/RohitKushvaha01/TaskManager) (root) - Task Manager for Android
 * [Swappa](https://swappa.com/imei) / [Subreddit](https://reddit.com/r/swappa) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
-* [Fire Toolbox](https://xdaforums.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 
 ***
 
@@ -442,7 +441,7 @@
 * ⭐ **[Unified Remote](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [2](https://www.unifiedremote.com/) or [KDE Connect](https://kdeconnect.kde.org/) - Control PC with App
 * ⭐ **[Gadgetbridge](https://gadgetbridge.org/)** - Gadget Manager / [Supported Devices](https://gadgetbridge.org/gadgets/) / [Source Code](https://codeberg.org/Freeyourgadget/Gadgetbridge)
 * [⁠Life Tool](https://play.google.com/store/apps/details?id=com.bryanf.tool), [Tooly](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp) or [fooView](https://play.google.com/store/apps/details?id=com.fooview.android.fooview) - Multi-Tool Apps
-* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://play.google.com/store/apps/details?id=com.vaux.vaux_editor) - Video Editors
+* [LightCut](https://play.google.com/store/apps/details?id=com.lightcut.videoeditor), [⁠Lossless Video Cutter](https://play.google.com/store/apps/details?id=com.losslessvideocutter), [⁠KwaiCut](https://play.google.com/store/apps/details?id=com.kwai.editor), [open-video-editor](https://github.com/devhyper/open-video-editor), [InShot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [Vaux](https://pastebin.com/5HA3Avyz) - Video Editors
 * [Inverse AI](https://play.google.com/store/apps/details?id=com.inverseai.video_converter) - Video Converter / Compressor
 * [⁠Compressor](https://github.com/JoshAtticus/Compressor) - Video Compressor
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
@@ -625,23 +624,14 @@
 
 ## ▷ Android Text Tools
 
+* ↪️ **[Android Note-Taking](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
-* ⭐ **[Obsidian](https://obsidian.md/mobile)** - Highly Customizable Note-Taking App
 * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
 * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
 * [Markor](https://fossdroid.com/a/markor.html) or [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) - Text Editors
-* [neutriNote](https://github.com/appml/neutrinote) or [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Note-Taking Apps with Markdown / Math Support
-* [Quillpad](https://quillpad.github.io/) / [GitHub](https://github.com/quillpad/quillpad) or [⁠Anytype](https://play.google.com/store/apps/details?id=io.anytype.app) / [Telegram](https://t.me/anytype) - Note-Taking App with Markdown Support
-* [Notally](https://github.com/OmGodse/Notally), [NotallyX](https://github.com/PhilKes/NotallyX), [Google Keep](https://keep.google.com/), [Easy Notes](https://github.com/Kin69/EasyNotes), or [ColorNote](https://www.colornote.com/) - Minimalistic Note-Taking Apps
-* [AppFlowy](https://appflowy.com/) - Note-Taking App with Markdown Support / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
-* [NotePad](https://github.com/mshdabiola/NotePad) or [Notebook](https://www.zoho.com/notebook/mobile-app.html) - Note-Taking Apps with Drawing
-* [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects
-* [Moe Memos](https://memos.moe/) - Self-Hosted Note-Taking App
-* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers
-* [Saber](https://github.com/saber-notes/saber) or [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Note-Taking Apps for Handwritten Notes
 * [Novelist](https://www.novelist.app/) - Writing App
-* [Logseq](https://logseq.com/) - Outlining / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
+* [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers / Android
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) - Document Editor / Reader
 * [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) or [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
@@ -940,7 +930,7 @@
 
 ***
 
-* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
+* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](h,ttps://morphe-patches.software/), [2](https://redd.it/1ta0bek), [3](https://awesome-morphe.vercel.app/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[⁠ArchiveTune](https://archivetune.koiiverse.cloud/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/koiverse/ArchiveTune)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
@@ -996,7 +986,7 @@
 
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://nuvio.tv/)** - Movies / TV / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming)
+* ⭐ **[Nuvio](https://github.com/tapframe/NuvioStreaming)**, [2](https://nuvio.tv/) - Movies / TV / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H)
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
@@ -1005,7 +995,7 @@
 * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md) 
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [CineHD](https://cinehd.xyz/) - Movies / TV / Anime / Drama / Live TV
-* [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [GitHub](https://github.com/BeamlakAschalew/flixquest)
+* [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [Z-Stream](https://github.com/alturyxx-gif/ZStream-Android) - Movies / TV / Anime / P-Stream Fork
@@ -1083,7 +1073,7 @@
 
 ## ▷ Android YouTube Apps
 
-* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://morphe-patches.software/), [2](https://redd.it/1ta0bek) / [GitHub](https://github.com/MorpheApp/morphe-manager)
+* ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [X](https://x.com/MorpheApp) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://morphe-patches.software/), [2](https://redd.it/1ta0bek), [3](https://awesome-morphe.vercel.app/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes
@@ -1182,7 +1172,7 @@
 * ⭐ **[r/jailbreak Discord](https://discord.com/invite/jb)** - Jailbreaking Community / [Subreddit](https://reddit.com/r/jailbreak)
 * ⭐ **[r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/)** - Jailbreak Old Devices (iOS 12 and Below) / [Discord](https://discord.gg/bhDpTAu)
 * ⭐ **[Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)** - Legacy iOS Devices / Downgrade / Save Blobs / Jailbreak / Bypass
-* [Dopamine](https://ellekit.space/dopamine/) - 15.0-16.6.1 / Semi-Untethered Jailbreak (A8-A16 & M1-M2) / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
+* [Dopamine](https://ellekit.space/dopamine/) - 15.0-17.3.1 (A14-A17 / M1-M2), iOS 15.0-18.7.1 / 26.0-26.0.1 (A8-A13) / Semi-Untethered Jailbreak / [Guide](https://ios.cfw.guide/installing-dopamine/) / [GitHub](https://github.com/opa334/Dopamine)
 * [palera1n](https://palera.in) - 15.0-18.x Semi-Tethered Jailbreak (A8-A11 & T2) / [Guide](https://ios.cfw.guide/installing-palera1n/) / [GitHub](https://github.com/palera1n/palera1n)
 * [nathanlr](https://ios.cfw.guide/installing-nathanlr/) - iOS 16.5.1-16.7 RC & 17.0 | Semi-Untethered Semi-Jailbreak (A12) / [Guide](https://ios.cfw.guide/installing-nathanlr/) / [GitHub](https://github.com/verygenericname/nathanlr)
 * [checkra1n](https://checkra.in/) - 12.0-14.8.1 Semi-Tethered Jailbreak (5s-X)
@@ -1332,6 +1322,7 @@
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon App](https://apps.apple.com/app/id1571998974) - Mastodon Clients
 * ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [NeoFreeBird](https://github.com/theacrat/NeoFreeBird) (Fork) - Twitter / X.com Apps
 * ⭐ **[Swiftgram](https://swiftgram.app/)** - Telegram App / [Telegram](https://t.me/s/SwiftgramLinks) / [GitHub](https://github.com/Swiftgram/Telegram-iOS)
+* ⭐ **[⁠RyukGram](https://t.me/ryukgram)** / [GitHub](https://github.com/faroukbmiled/RyukGram) or [SCInsta](https://github.com/SoCuul/SCInsta) - Instagram Tweaks
 * ⭐ **[OpenInYT](https://apps.apple.com/app/id1591585819)** - Adds "Open In" Popup to iOS Social Media Apps
 * [Openvibe](https://openvibe.social/) - Combine Social Media Apps
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
@@ -1342,7 +1333,6 @@
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights
 * [Chan](https://github.com/moffatman/chan) - 4chan App
-* [SCInsta](https://github.com/SoCuul/SCInsta), [⁠RyukGram](https://t.me/ryukgram) / [GitHub](https://github.com/faroukbmiled/RyukGram) or [BHInstagram](https://github.com/BandarHL/BHInstagram) - Instagram Tweaks
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats

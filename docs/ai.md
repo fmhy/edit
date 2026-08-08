@@ -17,7 +17,7 @@
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.2 / GLM 5 Turbo / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / 3.6 Flash / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.5 Flash-Lite / 3.6 Flash  / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Meta AI](https://www.meta.ai/) - Muse Spark 1.1 / Meta Sign-Up / Unlimited
+* [Meta AI](https://www.meta.ai/) - Muse Spark 1.2 / Meta Sign-Up / Unlimited
 * [Kimi](https://www.kimi.com/) - Kimi K2.6 / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [ChatGPT](https://chatgpt.com/) - GPT-5.6 Luna / Unlimited / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
 * [⁠LongCat](https://longcat.chat/) - LongCat 2.0 / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
@@ -86,9 +86,9 @@
 * ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
+* [Cherry Studio](https://cherryai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
-* [Cherry Studio](https://cherryai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
 * [⁠Lemonade](https://lemonade-server.ai/) - Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)
 * [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
@@ -109,7 +109,7 @@
 * 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
 * ⭐ **[llama.cpp](https://llama.app/)** - Self-Hosted Transformer-Based LLMs / [GitHub](https://github.com/ggml-org/llama.cpp)
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
+* ⭐ **[Sonar](https://sonar.dphn.ai/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/dphnAI/sonar)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
 * [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)
@@ -156,7 +156,6 @@
 * 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
 * ⭐ **[⁠Snapgen AI](https://snapgen.ai/app/video-gen/)**, [2](https://geminigen.ai/app/video-gen/) - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Sign-Up / [Discord](https://discord.gg/vJnYe86T8F)
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / Google Sign-Up / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs)
-* [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 2 (10 Fast, Unlimited Slow- Per Day) / Image to Video / Sign-Up
 * [Arena](https://arena.ai/?chat-modality=video), [2](https://canaryarena.ai/video) - 2 Daily / Sign-Up / Random Models / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [Wan AI](https://create.wan.video/explore/video/generate?model=wan2.7) - Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / [GitHub](https://github.com/Wan-Video/Wan2.1)

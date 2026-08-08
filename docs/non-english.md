@@ -429,6 +429,7 @@
 
 * 🌐 **[⁠Tipiakeries](https://rentry.co/alpagang)** - French Piracy Mega
 * ⭐ **[Dealabs](https://www.dealabs.com/)** - Track Deals / Freebies
+* ⭐ **[⁠Mes Aides](https://mes-aides.1jeune1solution.beta.gouv.fr/)** - Student Financial Benefits Guide / Simulator
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [r/FrancePirate](https://www.reddit.com/r/FrancePirate/) - French Piracy Subreddit
 * [Tseret](https://tseret.com/) - Game Guides
@@ -442,7 +443,6 @@
 * [carto.tchoo](https://carto.tchoo.net/) - Live Train Map
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting
-* [⁠Mes Aides](https://mes-aides.1jeune1solution.beta.gouv.fr/) - Student Financial Benefits Guide / Simulator
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/), [lsfdico](https://lsfdico.injs-metz.fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 * [I Say LSF](https://dico.swax-lsf.fr/) - French Sign Translator
 
@@ -1316,12 +1316,12 @@
 
 ## ▷ Streaming / Стриминг
 
-* ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/), [3](https://rezka-ua.tv/), [4](https://hdrezka.co/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * ⭐ **[yummyani](https://ru.yummyani.me/)** - Anime / Sub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.li/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
+* [HDrezka](https://rezka.ag/), [2](https://hdrezka.ag/), [3](https://rezka-ua.tv/), [4](https://hdrezka.co/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
 * [IVI](https://www.ivi.tv/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p

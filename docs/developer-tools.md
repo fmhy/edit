@@ -14,7 +14,8 @@
 * [IndieHackers](https://www.indiehackers.com/) - Developer Forum
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [⁠late.sh](https://late.sh/) - Command-Line Style Clubhouse / [GitHub](https://github.com/mpiorowski/late-sh)
-* [⁠Functional Programming](https://discord.gg/K6XHBSh) - Functional Programming Community / Discord 
+* [⁠Graphics Programming](https://discord.gg/graphicsprogramming) - Graphics Programming Discord Server
+* [⁠Functional Programming](https://discord.gg/K6XHBSh) - Functional Programming Community / Discord
 * [Tech-Blogs](https://tech-blogs.dev/) or [HN Popularity](https://refactoringenglish.com/tools/hn-popularity/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 
@@ -383,7 +384,7 @@
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / [Features](https://rentry.co/FMHYB64#jbrains) / Windows, macOS, Linux
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org) / Windows, macOS, Linux
-* ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed) / Windows, macOS, Linux
+* ⭐ **[zed](https://zed.dev/)** - Code Editor / [Themes](https://zed-themes.com/) / [GitHub](https://github.com/zed-industries/zed) / Windows, macOS, Linux
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors) / Windows, macOS, Linux
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Resources](https://github.com/emacs-tw/awesome-emacs) / Windows, macOS, Linux, Android
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [LiveCodes](https://livecodes.io/) / [GitHub](https://github.com/live-codes/livecodes), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
@@ -548,6 +549,7 @@
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
 * [⁠Pi](https://pi.dev/) - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
+* [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)
 * [⁠Poolside AI](https://platform.poolside.ai/) - Coding AI API
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
@@ -557,11 +559,11 @@
 
 * [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [⁠Z.ai](https://chat.z.ai/) - GLM-5.1 / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
+* [⁠Z.ai](https://chat.z.ai/) - GLM-5.2 / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
 * [Kimi](https://www.kimi.com/agent) - Kimi K2.6 (Thinking) / Kimi K3 / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Google Sign-Up / Coding AI / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [MiniMax AI](https://agent.minimax.io/) - MiniMax-M2.7 / Coding AI / Sign-UP [GitHub](https://github.com/MiniMax-AI/)
+* [Qwen](https://chat.qwen.ai/) - Qwen 3.8 Max / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 / Coding AI / Sign-UP [GitHub](https://github.com/MiniMax-AI/)
 * [⁠Cloud CLI](https://github.com/siteboon/claudecodeui) - AI Coding Agent Web Manager
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
@@ -917,7 +919,7 @@
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
-* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [⁠Lottie Creator](https://creator.lottiefiles.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Anime.js](https://github.com/juliangarnier/anime), [⁠Lottie Creator](https://creator.lottiefiles.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
@@ -1014,7 +1016,7 @@
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [⁠Pingbreak](https://pingbreak.com/) - Site Uptime Monitor / Notifications
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
-* [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
+* [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
@@ -1226,7 +1228,7 @@
 
 ## ▷ Reverse Engineering
 
-* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)** or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
+* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)**, [⁠Reverse Engineering Notes](https://gist.github.com/0xdevalias/d8b743efb82c0e9406fc69da0d6c6581) or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
 * 🌐 **[Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)** - Android Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)

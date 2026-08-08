@@ -365,6 +365,7 @@
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
+* [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Browser Cookie Privacy Check
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
 * [JShelter](https://jshelter.org/) / [Source Code](https://pagure.io/JShelter/webextension) or [Chameleon](https://github.com/00x127/Chameleon) - Prevent Fingerprinting / Extensions / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Locale Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier / [GitHub](https://github.com/locale-switcher/locale-switcher)
@@ -480,14 +481,13 @@
 ## ▷ Proxy Clients
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, macOS, Linux
-* ⭐ **[NekoBox](https://matsuridayo.github.io/)** - Proxy Client / Android / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
-* [v2rayNG](https://github.com/2dust/v2rayNG) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2](https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
+* ⭐ **[v2rayNG](https://github.com/2dust/v2rayNG)**, [NekoBox](https://matsuridayo.github.io/) / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2](https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
 * [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / All Platforms / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Discord](https://discord.com/invite/JfrKFScw6N) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
 * [sing-box](https://sing-box.sagernet.org/clients/) - Proxy Client / macOS, Android / [Telegram](https://t.me/yapug) / [GitHub](https://github.com/SagerNet/sing-box)
 * [Throne](https://throneproj.github.io/) - Proxy Client / Sing-Box GUI / Windows, macOS, Linux / [GitHub](https://github.com/throneproj/Throne)
-* [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) / Android or [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) / iOS - Proxy Client
+* [V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) (Android) or [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) (iOS) - Proxy Client
 * [ClashVerge](https://www.clashverge.dev/) - Proxy Client / Windows, macOS, Linux / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev)
 * [Streisand](https://streisand.pages.dev/) - Proxy Client / macOS, iOS
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, macOS, Linux, Android
