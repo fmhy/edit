@@ -572,8 +572,8 @@
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
-* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/), [3](https://weboasis.pages.dev/), [4](https://parrotdevelopers.github.io/WebOasis/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
+* ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/), [3](https://weboasis.pages.dev/), [4](https://parrotdevelopers.github.io/WebOasis/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * [r/startpages](https://www.reddit.com/r/startpages/)
 * [8bitdash](https://www.8bitdash.com/)
 * [8 Bit Dashboard](https://8bitdashboard.com/)
@@ -822,7 +822,7 @@
 * 🌐 **[Greasy Fork](https://greasyfork.org/)** / [GitHub](https://github.com/greasyfork-org/greasyfork/), [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) - Userscript Stores
 * 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) (use translator) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
-* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc) / [GitHub](https://github.com/violentmonkey/violentmonkey), **[⁠ScriptCat](https://docs.scriptcat.org/en/)** / [Discord](https://discord.gg/JF76nHCCM7) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md)or [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) / [GitHub](https://github.com/erosman/firemonkey) - Userscript Managers
+* ⭐ **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc) / [GitHub](https://github.com/violentmonkey/violentmonkey), **[⁠ScriptCat](https://docs.scriptcat.org/en/)** / [Discord](https://discord.gg/JF76nHCCM7) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md) or [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) / [GitHub](https://github.com/erosman/firemonkey) - Userscript Managers
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336)
 * ⭐ **[Picviewer CE+](https://greasyfork.org/en/scripts/24204)** - Image Viewing Tool
 * [h5player](https://h5player.anzz.top/) - Add Features to HTML5 Video Players / [GitHub](https://github.com/xxxily/h5player)

@@ -109,7 +109,6 @@
 ## ▷ Downloading / ডাউনলোডিং
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
-* [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
 
@@ -345,7 +344,7 @@
 # ► Czech / Čeština
 
 * [uschovna](https://www.uschovna.cz/) - Czech File Hosts
-* [FuckCards](https://fuckcards.store/) or [NoCard](https://nocard.cz/) - Public Czech Club Cards / [Android App](https://github.com/HelloOO7/Karticky)
+* [NoCard](https://nocard.cz/) - Public Czech Club Cards / [Android App](https://github.com/HelloOO7/Karticky)
 * [spojenka](https://spojenka.cz/) - Public Czech Transport App
 
 ## ▷ Downloading / Stahování
@@ -429,6 +428,7 @@
 
 * 🌐 **[⁠Tipiakeries](https://rentry.co/alpagang)** - French Piracy Mega
 * ⭐ **[Dealabs](https://www.dealabs.com/)** - Track Deals / Freebies
+* ⭐ **[⁠Mes Aides](https://mes-aides.1jeune1solution.beta.gouv.fr/)** - Student Financial Benefits Guide / Simulator
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [r/FrancePirate](https://www.reddit.com/r/FrancePirate/) - French Piracy Subreddit
 * [Tseret](https://tseret.com/) - Game Guides
@@ -442,7 +442,6 @@
 * [carto.tchoo](https://carto.tchoo.net/) - Live Train Map
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) or [⁠Geev](https://www.geev.com/) - Free Stuff Exchange / Gifting
-* [⁠Mes Aides](https://mes-aides.1jeune1solution.beta.gouv.fr/) - Student Financial Benefits Guide / Simulator
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/fr/), [lsfdico](https://lsfdico.injs-metz.fr/) or [LSQ](https://lsq-fr.ca/) - French Sign Language Dictionaries
 * [I Say LSF](https://dico.swax-lsf.fr/) - French Sign Translator
 
@@ -709,16 +708,15 @@
 * [SSR Movies](https://ssrmovies.com/) - Movies / TV / Sub / Dub / 1080p
 * [TheMoviesBoss](http://themoviesboss.fans/) - Movies / TV
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
+* [BollyMod](https://bollymod.forum/) - Movies / TV / Anime / 1080p
 * [KMMovies](https://kmmovies.life/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [MoviesLeech](https://moviesleech.bar/) - Movies / TV / Sub
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
-* [MoviesFlix](https://themoviesflix.onl/) - Movies / TV / Anime / [Telegram](https://telegram.dog/TheMoviesflix_Official)
 * [⁠Cinemalux](https://cinemalux.zip/) - Movies / TV / 1080p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
-* [Paidnaija](https://paidnaija.net/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
 * [Anime Dub Hindi](https://www.animedubhindi.link/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / Geoblocked / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
@@ -1281,7 +1279,7 @@
 ## ▷ Russian Anti-Censorship
 
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
-* [⁠VPN Traffic Light](https://vpn.maximkatz.com/) - Russian VPN Status'
+* [⁠VPN Traffic Light](https://vpn.maximkatz.com/) - Russian VPN Statuses 
 * [rks_org_Bot](https://t.me/rks_org_bot) or [protocol_vpn](https://t.me/protocol_vpn) - Censorship Discussion Telegrams
 * [⁠EtoNeYa](https://etoneya.su/), [wl](https://github.com/zieng2/wl) or [⁠LowiK](https://lowik.gitverse.site/lowik/) - Mobile Network Censorship Bypass
 
@@ -1316,12 +1314,12 @@
 
 ## ▷ Streaming / Стриминг
 
-* ⭐ **[HDrezka](https://rezka.ag/)**, [2](https://hdrezka.ag/), [3](https://rezka-ua.tv/), [4](https://hdrezka.co/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * ⭐ **[yummyani](https://ru.yummyani.me/)** - Anime / Sub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.li/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
+* [HDrezka](https://rezka.ag/), [2](https://hdrezka.ag/), [3](https://rezka-ua.tv/), [4](https://hdrezka.co/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Requires VPN
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
 * [IVI](https://www.ivi.tv/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
@@ -1830,7 +1828,7 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
-* [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App
+* [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App + Web Versions
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
 * [euskal](https://www.euskal-encodings.eus/) - Basque / Download / Movies / TV
@@ -1867,7 +1865,6 @@
 * [Singapore Sign](https://blogs.ntu.edu.sg/sgslsignbank/) - Singapore Sign Language Dictionary
 * [subsl](https://subsl.top/) - Sinhalese / Streaming / Movies / TV / Anime
 * [baiscopedownloads](https://baiscopedownloads.link/) - Sinhalese / Download / Movies / TV
-* [ZoomLinkHub](https://zoomlinkhub.com/) - Sinhalese / Download / Movies / TV
 * [zoom.lk](https://zoom.lk/) or [Cineru.lk](https://cineru.lk/) - Sinhalese / Subtitles
 * [Najdi.si](https://www.najdi.si/) - Slovene / Search
 * [BSF](https://bsf.si/) - Slovene Film Database

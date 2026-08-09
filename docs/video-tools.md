@@ -379,7 +379,7 @@
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
-* [Video DownloadHelper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* [Video Download Helper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site

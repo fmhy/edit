@@ -32,6 +32,7 @@
 * [GOG Games](https://gog-games.to/) - Download / Torrent / GOG Games Only / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+* [⁠IceQueens Portables](https://game-box.win/) - Torrent / Download / Portables
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [CG Games](https://www.cg-gamespc.com/) - Download
@@ -43,7 +44,7 @@
 * [⁠The Vulpes Archives](https://rentry.co/the-vulpes-archives) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
-* [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files
+* [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files (or just use CS.RIN for Clean Files)
 
 ***
 
@@ -315,7 +316,6 @@
 
 * 🌐 **[ROM Managers](https://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
-* [ROM Tools](https://romtools.io/) - Multi-Tool / Patch / Convert / Compress / Analyze
 * [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer
 * [⁠Romm](https://romm.app/) - Self-Hosted ROM Manager / [Discord](https://discord.gg/RGPJHNMMwJ) / [GitHub](https://github.com/rommapp/romm)
 * [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
@@ -511,7 +511,7 @@
 * [⁠Cyadonia](https://cyadonia.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) / [Discord](https://discord.com/invite/Hg6zVmTJeP) - Block Puzzles
-* [⁠Stillgrid](https://stillgrid.app/) or [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku + Sudoku Variants
+* [⁠Stillgrid](https://stillgrid.app/), [⁠SudokuWiki](https://www.sudokuwiki.org/) or [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku + Sudoku Variants
 * [UsDoku](https://www.usdoku.com/) - Multiplayer Sudoku
 * [⁠Penpa+](https://swaroopg92.github.io/penpa-edit/) - Create / Solve Pencil Sudokus + Puzzles
 * [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
@@ -530,7 +530,6 @@
 * [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types App / Windows
 * [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
 * [FT Cube](https://shuantsu.github.io/ft_cube/) - Multi-Size Simulator & Net Generator
-* [Maple Leaves Sim](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Simulator
 * [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
 * [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
 
@@ -832,7 +831,8 @@
 * ⭐ **[GN-Math](https://gn-math.dev/)** - Browser Games / Ports / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * [mizu](https://www.mizumath.com/) - Browser Games
-* [Truffled](https://truffled.lol/g) - Browser Games / Ports 
+* [Truffled](https://truffled.lol/g) - Browser Games / Ports
+* [⁠anko](https://anko.lol/) - Browser Games / [Discord](https://discord.gg/bSJwwBTn4j)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠Catclass](https://catclass.net/g) - Browser Games / [Discord](https://discord.com/invite/8bf7D7Tw5U)
@@ -855,7 +855,6 @@
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
 * [Windage](https://windage.online/) or [Scorch2000](http://www.scorch2000.com/) - Multiplayer Artillery Battle Games / Scorched Earth Remakes
-* [⁠Splatoon.io](https://splatoon.io/) - ⁠Splatoon Style Game
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Golf Party](https://golfparty.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini Golf Games
 * [Slither.io](http://slither.com/io) - Grow the Longest Worm
@@ -963,6 +962,7 @@
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Simulator
 * [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
+* [⁠Chaser Dot](https://play.chaserdot.com/) - Live Storm Chase Simulation Game 
 * [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
 * [Alternate History Simulator](https://abw.blue/) - Write Alternate History
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game / [Scripts](https://hare.kractero.com/)

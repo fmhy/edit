@@ -74,7 +74,7 @@
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
 * [FreeCourseSites](https://freecoursesites.com/) - Courses
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
-* [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
+* [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses / Requires Phone # (Temp Works) / Use [Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
 
 ***
 
@@ -209,7 +209,7 @@
 * [Giac/Xcas](https://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](https://algebrarules.com/) - Learn Algebra Rules
 * [Linear Algebra Done Right](https://linear.axler.net/) - Linear Algebra Book / Guide
-* [Calculus Made Easy](https://calculusmadeeasy.org) or [⁠Stitz Zeager](https://www.stitz-zeager.com/) - Learn / Practice Calculus
+* [Calculus Made Easy](https://calculusmadeeasy.org), [⁠Ximera](https://ximera.osu.edu/mooculus) or [⁠Stitz Zeager](https://www.stitz-zeager.com/) - Learn / Practice Calculus
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) or [⁠Learn Mathematics](https://donkuri.github.io/learn-mathematics/) - Mathematics Book Recommendations
 * [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [Rink](https://rinkcalc.app/), [Frink](https://frinklang.org/fsp/frink.fsp), [OneConverter](https://oneconverter.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
@@ -298,7 +298,6 @@
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [⁠Compound Interest](https://www.compoundchem.com/infographics/) - Chemistry Infographics
-* [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
 * [Organic Chemistry](https://www.organic-chemistry.org) or [Synarchive](https://synarchive.com/) - Organic Reactions
 * [CommonOrganicChemistry](https://www.commonorganicchemistry.com) - Common Reactions / Common Reagents
@@ -1149,12 +1148,13 @@
 * ↪️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
 * ↪️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
 * ↪️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
+* ⭐ **[⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN)** - Japanese Learning Videos
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan), [⁠Bettermelon](https://bettermelon.ru/), [JapaneseWithAnime](https://www.japanesewithanime.com/) or [Immersion Kit](https://www.immersionkit.com/) - Learn Japanese via Anime, Manga & Light Novels
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese Translator
+* [⁠Ten](https://www.ten.guide/) - Japanese Learning Guide / Resources / [Discord](https://discord.com/invite/immerse)
 * [Minato](https://minato-jf.jp/) - Japanese Courses
-* [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
@@ -1264,9 +1264,9 @@
 * 🌐 **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * 🌐 **[Mga Nagmamarunong's Masterlist](https://docs.google.com/spreadsheets/d/1R9P2nt0sQbL8GqEO_hcPjwIZcM-4s0BbJifm-1AJ0Bc/)** - Tagalog Learning Resources
 * 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/)** or **[Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
+* ⭐ **[Rekhta Dictionary](https://www.rekhtadictionary.com/)** - Urdu Dictionary
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
-* [Rekhta Dictionary](https://www.rekhtadictionary.com/) - Urdu Dictionary
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 * [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
 
@@ -1651,13 +1651,13 @@
 * 🌐 **[Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/)** - LLM Learning Resources / [GitHub](https://github.com/viveknaskar/everything-ai-ml)
 * ↪️ **[Machine Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * [Awesome Free AI Books](https://github.com/MarcosSete/awesome-free-ai-books), [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [mlsysbook](https://www.mlsysbook.ai/), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [ML Engineering](https://github.com/stas00/ml-engineering), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Books / Guides
-* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
+* [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or  [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
 * [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
-* [LLM Visualization](https://bbycroft.net/llm) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - LLM Visualizations
+* [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer and LLM Visualizations
 * [ML Visualized](https://ml-visualized.com/) - Machine Learning Visualizations / [GitHub](https://github.com/gavinkhung/machine-learning-visualized)
 * [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
@@ -1879,7 +1879,6 @@
 
 * 🌐 **[List of Encyclopedias](https://wikipedia.org/wiki/List_of_online_encyclopedias)** - Online Encyclopedia Index
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)** - Encyclopedia / [Content List](https://wikipedia.org/wiki/Wikipedia:Contents/Lists)
-* ⭐ **[EncycloSearch](https://encyclosearch.org/)** - Encyclopedia Search Engines
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia
