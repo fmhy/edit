@@ -666,7 +666,7 @@
 * [Textcraft](https://textcraft.net/) or [MC Icons](https://mcicons.ccleaf.com/) / [Discord](https://discord.com/invite/ccleaf) - Text Generators & Icons
 * [Note Block Studio](https://noteblock.studio/) / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS) - Audio Composer
 * [MiniMessageViewer](https://webui.advntr.dev/) / [Discord](https://discord.com/invite/MMfhJ8F) / [GitHub](https://github.com/KyoriPowered/adventure-webui) - MiniMessage web viewer
-* [SkyCrypt](https://sky.shiiyu.moe/) / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCryptv2) or [Plancke](https://plancke.io/) - Hypixel Player Stats
+* [SkyCrypt](https://sky.shiiyu.moe/) / [Discord](https://discord.com/invite/cNgADv2kEQ) / [GitHub](https://github.com/SkyCryptWebsite/SkyCrypt-Frontend) or [Plancke](https://plancke.io/) - Hypixel Player Stats
 * [Minecraft Java Servers](https://dankware.alwaysdata.net/minecraft-java-servers), [Bedrock Servers](https://dankware.alwaysdata.net/minecraft-bedrock-servers) or [PingTrack](https://pingtrack.lenni0451.net/) - Server Lists & Connectivity
 * [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Design Poses for Armorstands
 

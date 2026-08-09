@@ -46,7 +46,6 @@
 * [OpenAlternative](https://openalternative.co/) - FOSS Alt Directory
 * [opensourcealternative.to](https://www.opensourcealternative.to/) - FOSS Alt Directory
 * [Awesome CLI Apps](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) or [CLI Club](https://cli.club/) / [GitHub](https://github.com/cli-club/cli-club.github.io) - FOSS CLI Apps / Tools
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - FOSS Wikis
 * [FOSS Wiki](https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - FOSS Wikis
  
 ***
@@ -120,7 +119,6 @@
 * [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio
-* [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
 * [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Requires Sign-Up
 * [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
