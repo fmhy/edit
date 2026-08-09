@@ -836,6 +836,7 @@
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [⁠Catclass](https://catclass.net/g) - Browser Games / [Discord](https://discord.com/invite/8bf7D7Tw5U)
+* [zaka](https://vps.zaka.qzz.io) - Browser Games / [Discord](https://discord.com/invite/zaka)
 
 ***
 
