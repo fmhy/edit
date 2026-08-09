@@ -630,6 +630,7 @@
 
 ## ▷ Unicode Text Generators
 
+* ⭐ **[Live Font Generator](https://livefontgenerator.com/)** - Unicode Font Generator with 200+ Styles
 * ⭐ **[YayText](https://yaytext.com/)**
 * ⭐ **[Messletters](https://www.messletters.com/)**
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
