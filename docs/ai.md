@@ -32,7 +32,7 @@
 * [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam-105b / Sarvam-30b / Unlimited / Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus 70B
-* [⁠Poolside AI](https://platform.poolside.ai/) - Laguna
+* [⁠Poolside AI](https://platform.poolside.ai/) - Laguna-s-2.1
 * [⁠K2Think](https://www.k2think.ai/) - LLM360 / MBZUAI (not Kimi) / Sign-Up
 * [⁠Inception](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
 
@@ -40,7 +40,7 @@
 
 ## ▷ Multiple Model Sites
 
-* [⁠ISH](https://beta.ish.chat/) - Claude Opus 4.8 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
+* [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [⁠Together.ai](https://chat.together.ai/) - GLM 5.2 / Kimi K2.6 / Kimi K3 / DeepSeek V4 Pro / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - GPT-5.5 / Gemini 3.5 Flash / Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
