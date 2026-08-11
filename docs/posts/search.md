@@ -35,7 +35,7 @@ GitHub page search engine
 
 ---
 
-### [Bookmark HTML](https://github.com/fmhy/bookmarks)
+### [Bookmark Extension](https://github.com/mian196/fmhy-bookmarks-extension) / [Bookmark HTML](https://github.com/fmhy/bookmarks)
 
 Turn FMHY into browser bookmarks
 

@@ -125,7 +125,7 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: '🌐 Search', link: '/posts/search' },
       { text: '❓ FAQs', link: '/other/FAQ' },
-      { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
+      { text: '🔖 Bookmarks', link: 'https://github.com/mian196/fmhy-bookmarks-extension' },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '🚀 Startpage', link: '/startpage' },
       { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },

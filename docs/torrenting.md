@@ -14,7 +14,7 @@
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
-* [1337x](https://1337x.to/home/), [2](https://x1337x.cc/), [3](https://1337x.st/), [4](https://x1337x.ws/), [5](https://x1337x.eu/), [6](https://x1337x.se/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
+* [1337x](https://1337x.to/home/), [2](https://x1337x.cc/), [3](https://1337x.st/), [4](https://x1337x.ws/), [5](https://x1337x.eu/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Steam Store Hover](https://greasyfork.org/scripts/533774) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.fun/) - Video / Audio / Books
