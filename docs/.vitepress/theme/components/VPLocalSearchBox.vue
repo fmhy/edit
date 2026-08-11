@@ -151,6 +151,15 @@ function resultCategoryOf(id: string): string {
   return segment ? `/${segment}` : '/'
 }
 
+function computeCategoryCounts(results: (SearchResult & Result)[]) {
+  const counts = new Map<string, number>()
+  for (const r of results) {
+    const category = resultCategoryOf(r.id)
+    counts.set(category, (counts.get(category) ?? 0) + 1)
+  }
+  return counts
+}
+
 // Categories and labels come from the sidebar, which is static at build time,
 // so this runs once. Wiki and Tools entries pointing at the same page
 // (e.g. /audio#audio-tools) keep the first (Wiki) label.
@@ -177,23 +186,30 @@ const searchCategories = (() => {
   return entries
 })()
 
-// Active section id; '' disables the filter.
-const activeCategory = useLocalStorage('vitepress:local-search-category', '')
+const activeCategory = ref('')
 
-const categoryCounts = computed(() => {
-  const counts = new Map<string, number>()
-  for (const r of allResults.value) {
-    const category = resultCategoryOf(r.id)
-    counts.set(category, (counts.get(category) ?? 0) + 1)
-  }
-  return counts
-})
+// Chips count what's actually displayed (after excerpt filtering in
+// detailed view), not the raw pool. Rebuilt in watcher 2 when the
+// underlying result set changes.
+const categoryCounts = shallowRef<Map<string, number>>(new Map())
+
+const totalCategoryCount = computed(() =>
+  [...categoryCounts.value.values()].reduce((sum, n) => sum + n, 0)
+)
 
 const visibleCategories = computed(() =>
-  searchCategories.filter(
-    (c) =>
-      (categoryCounts.value.get(c.id) ?? 0) > 0 || activeCategory.value === c.id
-  )
+  searchCategories
+    .filter(
+      (c) =>
+        (categoryCounts.value.get(c.id) ?? 0) > 0 ||
+        activeCategory.value === c.id
+    )
+    // Most matches first; ties keep the sidebar order (stable sort).
+    .sort(
+      (a, b) =>
+        (categoryCounts.value.get(b.id) ?? 0) -
+        (categoryCounts.value.get(a.id) ?? 0)
+    )
 )
 
 const activeCategoryLabel = computed(
@@ -733,6 +749,7 @@ const autoSuggestions = computed(() => {
 })
 
 watch([filterText, isFuzzySearch, isUrlSearch], () => {
+  activeCategory.value = ''
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
   shouldResetScroll.value = true
@@ -1123,6 +1140,14 @@ watch(
       canceled = true
     })
 
+    // Only rebuild chips when the result set itself changed (new query,
+    // pagination, detail view), switching category doesn't.
+    const resultSetChanged =
+      !old ||
+      allRes !== old[0] ||
+      limit !== old[1] ||
+      showDetailedListValue !== old[2]
+
     // Section filter slices the in-memory results before pagination; switching
     // sections doesn't re-run the index query
     const category = activeCategory.value
@@ -1140,6 +1165,9 @@ watch(
       }
       totalResultsCount.value = 0
       mayHaveMore.value = false
+      if (resultSetChanged) {
+        categoryCounts.value = computeCategoryCounts(allRes)
+      }
       return
     }
 
@@ -1157,12 +1185,16 @@ watch(
     let finalResults: (SearchResult & Result)[]
     let totalCount: number
     let mayHaveMoreValue = false
+    // Only the exact + detailed branch sets this, after excerpt filtering.
+    // Null = the raw pool is what's shown, so chips count from allRes.
+    let postFiltered: (SearchResult & Result)[] | null = null
 
     const isExactSearch = !isFuzzySearch.value && !usedSubstringExpansion.value
 
-    if (showDetailedListValue && isExactSearch) {
-      // For exact search, we fetch excerpts for a dynamic candidate pool
-      // to ensure contiguous phrase matches are not lost due to ranking.
+    if (isExactSearch) {
+      // Exact mode now runs in both views. We fetch a dynamic candidate pool
+      // so contiguous phrase matches don't get ranked away, and the list (and
+      // chips) look the same in compact and detailed.
       const candidateLimit = Math.max(MIN_CANDIDATE_POOL, limit * 2)
       const candidates = scopedResults.slice(0, candidateLimit)
 
@@ -1184,6 +1216,7 @@ watch(
       })
 
       const filtered = filterResults(mapped, filterText.value)
+      postFiltered = filtered
       finalResults = filtered.slice(0, limit)
       totalCount = filtered.length
       // Untested remainder beyond the candidate pool may contain more matches;
@@ -1212,6 +1245,16 @@ watch(
 
       finalResults = mapped
       totalCount = mapped.length + Math.max(0, scopedResults.length - limit)
+    }
+
+    if (resultSetChanged) {
+      // Category active = excerpt filter only covers that category, so count
+      // the raw pool or the other chips disappear and you can't switch back.
+      // Without a category, the post filtered set is what's shown (fuzzy/compact
+      // don't filter, so allRes is it).
+      categoryCounts.value = computeCategoryCounts(
+        postFiltered && !category ? postFiltered : allRes
+      )
     }
 
     if (!isFuzzySearch.value) {
@@ -2350,7 +2393,7 @@ function isSamePageComparison(destPath: string) {
               @click="selectCategory('')"
             >
               All
-              <span class="chip-count">{{ allResults.length }}</span>
+              <span class="chip-count">{{ totalCategoryCount }}</span>
             </button>
             <button
               v-for="cat in visibleCategories"
@@ -2474,7 +2517,7 @@ function isSamePageComparison(destPath: string) {
                 class="no-results"
               >
                 <div
-                  v-if="activeCategory && allResults.length > 0"
+                  v-if="activeCategory && totalCategoryCount > 0"
                   class="no-results-category"
                 >
                   No results in {{ activeCategoryLabel }}
