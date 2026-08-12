@@ -205,7 +205,6 @@
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
-* [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
 * [⁠Sherwood Forest](https://www.sherwoodforestzinelibrary.org/) - Underground Zines Collection
 * [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / Translations
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
@@ -405,6 +404,7 @@
 * [GoComics](https://www.gocomics.com/) - Comics Strips / [Site Fix](https://ludditus.com/2025/04/19/bypassing-gocomics-paywall/)
 * [⁠SMBC](https://www.smbc-comics.com/) - Webcomics
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
+* [Comic Rocket](https://www.comic-rocket.com/) - Webcomics / Some NSFW
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Loading Artist](https://loadingartist.com/) - Webcomics
 * [⁠Comic Studio](https://comic.studio/browse) - Webcomics

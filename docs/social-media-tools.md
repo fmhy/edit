@@ -77,9 +77,9 @@
 * [Replugged](https://replugged.dev/) - Discord Client Mod / [Discord](https://discord.gg/HnYFUhv4x4) / [GitHub](https://github.com/replugged-org/replugged)
 * [BetterDiscord](https://betterdiscord.app/) - Discord Client Mod / [Plugins](https://betterdiscord.app/plugins) / [Banned Plugins](https://rentry.co/BDBannedPlugins) / [Discord](https://discord.gg/0Tmfo5ZbORCRqbAd) / [GitHub](https://github.com/BetterDiscord/BetterDiscord)
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
-* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hostable Discord Compatible Client
 * [Dorion](https://spikehd.github.io/projects/dorion/) - Discord Client Mod / [GitHub](https://github.com/SpikeHD/Dorion)
 * [⁠Concord](https://github.com/chojs23/concord) - Discord TUI
+* [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hosted / [Discord Compatible](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacebar.md)
 * [Dissent](https://github.com/diamondburned/dissent) - GTK4 Discord Client
 * [Discord Portable](https://portapps.io/app/discord-portable/) / [PTB PortApps](https://portapps.io/app/discord-ptb-portable/) - Portable Discord Stable
 

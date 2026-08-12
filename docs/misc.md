@@ -620,11 +620,11 @@
 ## ▷ Aggregators
 
 * ↪️ **[RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_rss_readers)**
-* ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Kagi News](https://news.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
 * [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
 * [⁠Particle](https://particle.news/) - Aggregator / Summaries
+* [Spike News](https://readspike.com/), [2](https://spike.news/)
 * [Upstract](https://upstract.com/) - Single Page News Aggregator
 * [newstel](https://newstel.vercel.app/) - Telegram Channel News Aggregator
 * [AllSides](https://www.allsides.com/) or [⁠100.news](https://100.news/) - Political News Aggregators
@@ -823,7 +823,6 @@
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) or [⁠Trans Clinic Index](https://transclinicindex.org.uk/) (UK) - Gender Identity Clinics / Map
 * [Gender Dysphoria Bible](https://genderdysphoria.fyi/) - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
-* [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
 * [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Therapy Resources / [Discord](https://discord.gg/8weEXE7RzU)
 * [Acoustic Gender](https://acousticgender.space/) or [Voice Tools](https://devextras.com/voicetools/) - Voice Therapy 
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
