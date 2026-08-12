@@ -294,13 +294,13 @@ const transformLinks = (text: string): string =>
         replace:
           '<a target="_blank" href="$1"><span v-tooltip="\'X\'" alt="X" class="i-carbon:logo-x" /></a>'
       },
-      { 
+      {
         name: 'Mastodon',
         find: /\[Mastodon\]\(([^\)]*?)\)/gm,
         replace:
           '<a target="_blank" href="$1"><span v-tooltip="\'Mastodon\'" alt="Mastodon" class="i-mdi:mastodon" /></a>'
       },
-      { 
+      {
         name: 'BlueSky',
         find: /\[BlueSky\]\(([^\)]*?)\)/gm,
         replace:

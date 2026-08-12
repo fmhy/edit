@@ -8,7 +8,7 @@ hero:
   tagline: The largest collection of free stuff on the internet!
   announcement:
     title: August Updates ✨
-    link:  /posts/aug-2026
+    link: /posts/aug-2026
   image:
     src: test.png
     alt: FMHY Icon

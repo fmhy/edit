@@ -55,7 +55,10 @@ export default defineConfig({
     ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }],
+    [
+      'link',
+      { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }
+    ],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',

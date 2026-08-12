@@ -68,8 +68,7 @@ export default {
       const scrollHijacker = {
         originalScrollTo: null as typeof window.scrollTo | null,
         originalScrollIntoView: null as
-          | typeof Element.prototype.scrollIntoView
-          | null,
+          typeof Element.prototype.scrollIntoView | null,
 
         hijack() {
           if (!this.originalScrollTo) {
