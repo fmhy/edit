@@ -33,7 +33,7 @@
 
 * 🌐 **[FilterLists](https://filterlists.com/)** - Filter / Host List Directory
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use w/ AdGuard URL Tracking Protection
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)**, [2](https://gitlab.com/hagezi/mirror) / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Blocklist Collection / Use Mini Editions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+* ⭐ **[Hagezi Blocklists](https://gitlab.com/hagezi/mirror)** / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Blocklist Collection / Use Mini Editions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [blacklist](https://github.com/anudeepND/blacklist) - Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)
 * [hBlock](https://hblock.molinero.dev/) - Blocklist Collection / [GitHub](https://github.com/hectorm/hblock)
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
