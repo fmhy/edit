@@ -101,4 +101,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/)
 
+### [Fake Annas Archive Sites](https://i.ibb.co/35S5c8Qd/image.png) / [2](https://i.imgur.com/Tn9sTzP.png)
+
 ### [Fake Windows Activators](https://i.ibb.co/hxb4GjVr/image.png) / [2](https://i.imgur.com/765LuHM.png)
