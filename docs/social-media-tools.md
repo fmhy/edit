@@ -759,7 +759,6 @@
 
 # ► 4chan Tools
 
-* ⭐ **[4chan X](https://www.4chan-x.net/)** - Enhancement Extension / [Theme](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x)
 * [Chan](https://github.com/moffatman/chan) - 4chan Mobile Apps
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4chan Thread

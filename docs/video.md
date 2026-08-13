@@ -25,7 +25,7 @@
 * ⭐ **[MeowTV](https://meowtv.ru/)**, [FlickyStream](https://flickystream.dad/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-raven)
 * ⭐ **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[TouStream](https://toustream.xyz/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/us5-and-toustream-1157125685178007672)
-* ⭐ **[Vyla](https://vyla.cc/)**, [2](https://vyla.qzz.io/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5eqRhKeywG)
+* ⭐ **[Vyla Entertainment](https://vyla.cc/)**, [2](https://vyla.qzz.io/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [Movie Night](https://movienig.ht/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)
 * [ArrowTV](https://arrowtv.net/), [2](https://neonflix.st/) or [Cinezo](https://www.cinezo.org/), [2](https://www.flikhub.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/yWWKfMbtm3)
 * [Moovie](https://moovie.fun/) - Movies / TV / Anime / Auto-Next
@@ -789,7 +789,7 @@
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
-* [Vyla](https://vyla.pages.dev/), [2](https://vyla.qzz.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
+* [Vyla Entertainment](https://vyla.pages.dev/), [2](https://vyla.qzz.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eqRhKeywG)
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [Cineby](https://cineby.at/), [2](https://www.cineplay.to/) - Movies / TV / Anime / 4K
 * [FlickyStream](https://flickystream.dad/) or [CineMora](https://cinemora.ru/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
