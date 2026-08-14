@@ -191,6 +191,7 @@
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * ⭐ **[refined-github](https://github.com/refined-github/refined-github)** - Improved GitHub Interface
 * ⭐ **[GitHub Desktop](https://github.com/apps/desktop)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
+* [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - GitHub profile readme collection
 * [⁠Is GitHub Cooked?](https://isgithubcooked.com/) - GitHub Incident History
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
