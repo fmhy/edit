@@ -9,15 +9,14 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ***
 
 * 🌐 **[Untrusted Sites](https://rentry.org/pgames#untrusted-sites)** / **[Uploaders](https://rentry.org/pgames#untrusted-uploaders)** - More Complete Lists
-* 🌐 **[Fake FitGirl Sites](https://claraiscute.neocities.org/Guides/FakeFitgirlwebsites/)**, [2](https://claraiscute.pages.dev/Guides/FakeFitgirlwebsites/)
-* 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
+* 🌐 **[Fake FitGirl Sites](https://clarasguide.valeena.workers.dev/Guides/FakeFitgirlwebsites/)**
 * OceanOfGames - Caught with malware multiple times
 * xGIROx - Caught with malware
 * BBRepacks - Caught with malware
-* Seyter / Qoob - Caught with malware, tried to [switch names](https://claraiscute.neocities.org/Announcements/qoob/), [2](https://claraiscute.pages.dev/Announcements/qoob/)
+* Seyter / Qoob - Caught with malware, tried to [switch names](https://clarasguide.valeena.workers.dev/Announcements/qoob/)
 * Wifi4Games - Caught with malware
-* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting [demoted on 1337x](https://i.imgur.com/MwAYARu.png) / [2](https://i.ibb.co/39WDrb0m/image.png) / [3](https://www.reddit.com/r/PiratedGames/comments/muc5wz/comment/gv4wfqq/) for malware
-* GameFabrique - IGG uploads + [adware installers](https://claraiscute.neocities.org/Announcements/gamefabrique_adware), [2](https://claraiscute.pages.dev/Announcements/gamefabrique_adware/)
+* IGG Games / Load Games - Highly distrusted for [doxxing another sites owner](https://i.ibb.co/3sHJb6R/image.png) / [2](https://i.ibb.co/kBVkW7s/image.png) / [3](https://i.ibb.co/fGF6PJ5/GHnCVKi.png) / [4](https://imgur.com/a/jg9mLIa), click hijack ads, and getting demoted on 1337x for malware
+* GameFabrique - IGG uploads + [adware installers](https://clarasguide.valeena.workers.dev/Announcements/gamefabrique_adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 * game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
 
@@ -29,6 +28,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ***
 
+* 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
 * GetIntoPC / GetIntoMAC - Caught with [malware](https://www.virustotal.com/gui/file/5af9e89a7bfcfcae1c75de6acb7194b667d13776b61e79ea8aeab95f0af76bc7/), responsible for countless cases of malware at this point
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
@@ -84,14 +84,15 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AVG - Owned by Avast
 * Gen Digital / Norton - Owned by Avast
 * Avira - Owned by Gen Digital
-* Nekogram - Known for [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots. 
+* Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots
+* Nightcord - Got caught [logging peoples discord tokens](https://i.ibb.co/gbG0SYhM/image.png) on previous versions
 * CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
 * Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
 * Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
-* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://claraiscute.neocities.org/Announcements/gshade_notice/) / [2](https://claraiscute.pages.dev/Announcements/gshade_notice/)
+* GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://clarasguide.valeena.workers.dev/Announcements/gshade_notice/)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)
 * 360 Total Security - Apps give [constant popups](https://wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
@@ -100,4 +101,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/)
 
-### [Fake Windows Activators](https://pastebin.com/gCmWs2GR)
+### [Fake Annas Archive Sites](https://i.ibb.co/35S5c8Qd/image.png) / [2](https://i.imgur.com/Tn9sTzP.png)
+
+### [Fake Windows Activators](https://i.ibb.co/hxb4GjVr/image.png) / [2](https://i.imgur.com/765LuHM.png)

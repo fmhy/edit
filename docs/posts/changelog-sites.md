@@ -13,7 +13,11 @@ footer: true
 
 **https://fmhy-tracker.pages.dev/**
 
-This covers links that have been added, updated, or removed by watching GitHub for changes.
+This covers links that have been added, updated, or removed by watching GitHub for changes
+
+**https://d.fmhy.bid/rss.xml**
+
+FMHY RSS Feed
 
 ***
 

@@ -1,7 +1,7 @@
 # Common settings that generally should always be used with your language specific settings
 
-# Auto detect text files and perform LF normalization
-*          text=auto eol=lf
+# Auto detect text files
+# *          text=auto
 
 # Documents
 *.bibtex   text diff=bibtex
@@ -15,7 +15,7 @@
 *.PDF      diff=astextplain
 *.rtf      diff=astextplain
 *.RTF      diff=astextplain
-*.md       text diff=markdown
+*.md       diff=markdown
 *.mdx      text diff=markdown
 *.tex      text diff=tex
 *.adoc     text

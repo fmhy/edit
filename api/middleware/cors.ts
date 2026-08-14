@@ -21,7 +21,9 @@ export default corsEventHandler(
     /** no-op */
   },
   {
+    // Origin kept permissive: the API is read-mostly and may have external
+    // consumers. Methods are restricted to what the routes actually use.
     origin: '*',
-    methods: '*'
+    methods: ['GET', 'POST', 'OPTIONS']
   }
 )

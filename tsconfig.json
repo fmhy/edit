@@ -3,7 +3,7 @@
     "verbatimModuleSyntax": true,
     "module": "esnext",
     "target": "esnext",
-    "lib": ["DOM", "ESNext"],
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "strict": true,
     "jsx": "preserve",
     "esModuleInterop": true,

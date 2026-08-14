@@ -1,5 +1,5 @@
-body {
-  transition: background-color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1), color 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+html {
+  scrollbar-gutter: stable;
 }
 
 :root {
@@ -49,6 +49,10 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
 }
 
 .dark {
@@ -84,21 +88,13 @@ body {
   --vp-custom-block-danger-border: theme('colors.carnation.800');
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
+  /* Currently focused search highlight */
+  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, white);
+  /* Scroll-to-match highlight */
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
 }
 
 .monochrome {
-
-  [class*='i-'],
-  svg,
-  img:not(.VPImage) {
-    filter: grayscale(100%);
-  }
-
-  .switch,
-  .switch * {
-    filter: none;
-  }
-
   .switch {
     background-color: #000;
     border-color: #5a5a5a;
@@ -106,7 +102,9 @@ body {
 
   .switch .thumb {
     background-color: #fff !important;
-    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+    box-shadow:
+      0 0 0 2px rgba(0, 0, 0, 0.25),
+      var(--vp-shadow-1);
   }
 
   .switch.enabled {
@@ -116,7 +114,9 @@ body {
 
   .switch.enabled .thumb {
     background-color: #000 !important;
-    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25), var(--vp-shadow-1);
+    box-shadow:
+      0 0 0 2px rgba(0, 0, 0, 0.25),
+      var(--vp-shadow-1);
   }
 }
 
@@ -177,13 +177,17 @@ body {
 */
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
-      #c4b5fd 30%,
-      #7bc5e4);
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #c4b5fd 30%,
+    #7bc5e4
+  );
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg,
-      #c4b5fd 50%,
-      #47caff 50%);
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #c4b5fd 50%,
+    #47caff 50%
+  );
   --vp-home-hero-image-filter: blur(44px);
 }
 
@@ -197,6 +201,18 @@ body {
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
+}
+
+html.june {
+  --vp-home-hero-name-background: linear-gradient(
+    120deg,
+    #ff6763,
+    #feb044,
+    #fcfd96,
+    #9ee09e,
+    #9ec1ce,
+    #cc99c8
+  ) !important;
 }
 
 .base64 {
@@ -289,7 +305,7 @@ body {
   }
 }
 
-#VPContent strong>a {
+#VPContent strong > a {
   font-weight: bold;
 }
 
@@ -396,6 +412,56 @@ body {
   color: inherit;
 }
 
+
+/* Search result scroll-to-match highlight flash.
+ * Uses outline + background instead of padding to avoid layout shift. */
+.vp-search-highlight-target {
+  border-radius: 4px;
+  outline: 2px solid var(--vp-scroll-match-bg);
+  outline-offset: 2px;
+
+  /* Solid resting state so the highlight is visible even when the fade
+   * animation is suppressed (e.g. reduced-motion userstyles that force
+   * animation-duration to ~0, which would otherwise jump straight to the
+   * transparent end-state). JS removes the class after 2s regardless. */
+
+  background-color: var(--vp-scroll-match-bg);
+}
+
+/* The fade-out is a progressive enhancement, only for users who haven't
+ * asked to reduce motion. The base rule above remains the source of truth
+ * for visibility. */
+@media (prefers-reduced-motion: no-preference) {
+  .vp-search-highlight-target {
+    animation: vp-search-flash 2s ease-out forwards;
+  }
+}
+
+/* High-contrast / forced-colors mode strips author background and outline
+ * colors; pin the outline to a system color so the match is still marked. */
+@media (forced-colors: active) {
+  .vp-search-highlight-target {
+    outline-color: Highlight;
+  }
+}
+
+@keyframes vp-search-flash {
+  0% {
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
+  }
+
+  70% {
+    background-color: var(--vp-scroll-match-bg);
+    outline-color: var(--vp-c-brand-soft);
+  }
+
+  100% {
+    background-color: transparent;
+    outline-color: transparent;
+  }
+}
+
 /* Search modal blurred backdrop */
 .VPLocalSearchBox .backdrop {
   backdrop-filter: blur(8px);
@@ -422,9 +488,7 @@ body {
 
 /* Global theme styles for the dropdown to ensure correct box appearance */
 .v-popper--theme-theme-selector .v-popper__inner {
-  background: var(--vp-c-bg-elv);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
@@ -453,11 +517,355 @@ body {
   visibility: visible !important;
   transform: translateY(0) !important;
 }
+
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
 @media (max-width: 1279px) {
   .VPLocalNavOutlineDropdown .outline-link.active {
     color: var(--vp-c-brand-1) !important;
     font-weight: 600;
     transition: color 0.25s;
+  }
+
+  .VPLocalNavOutlineDropdown .items {
+    max-height: 50vh !important;
+    max-height: 50dvh !important;
+    overscroll-behavior: contain !important;
+  }
+}
+
+body,
+.Layout {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+/* Align inline platform and social icons (Discord, Reddit, Tor, etc.) relative to text baseline */
+.vp-doc [class*='i-'] {
+  vertical-align: -0.24em;
+}
+
+/* Align tooltips and their wrappers relative to text baseline (less negative since they baseline-align slightly lower) */
+.vp-doc .tooltip-trigger,
+.vp-doc .v-popper {
+  vertical-align: -0.2em;
+}
+
+/* Prevent navbar collapsing/uncollapsing and disable transitions during search scroll operations */
+html.vp-search-scrolling .VPNav {
+  transform: none !important;
+  transition: none !important;
+}
+
+body,
+.Layout,
+.VPNav,
+.VPNavBar,
+.VPLocalNav,
+.VPSidebar,
+.VPContent,
+.VPFooter {
+  transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html.theme-view-transition,
+html.theme-view-transition * {
+  transition: none !important;
+}
+
+/* Keep transient overlays — the mobile nav screen and the theme-selector
+ * dropdown popper — out of the view-transition snapshots so they never appear
+ * inside the radial reveal (and so the dropdown hides instantly on click).
+ * Scope to `.v-popper__popper` so only the teleported popover is hidden:
+ * floating-vue also stamps `.v-popper--theme-theme-selector` onto the trigger
+ * wrapper around the navbar toggle button, and hiding that would blank out the
+ * sun/moon icon for the whole reveal. */
+html.theme-view-transition .VPNavScreen,
+html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
+  display: none !important;
+}
+
+/* Monolith Theme — Hard-edged, brutalist, blocky aesthetic */
+html.monolith {
+  /* Sharp corners everywhere */
+  *,
+  *::before,
+  *::after {
+    border-radius: 0 !important;
+  }
+
+  /* Typography — dense, heavy, imposing */
+  body {
+    font-weight: 600;
+    line-height: 1.25;
+    font-size: 17px;
+  }
+
+  .VPDoc {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      font-size: 2rem;
+      letter-spacing: 0.05em;
+      border-bottom: 2px solid var(--vp-c-brand-1);
+      padding-bottom: 0.5em;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      border-bottom: 1px solid var(--vp-c-brand-1);
+      padding-bottom: 0.4em;
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+      letter-spacing: 0.03em;
+    }
+  }
+
+  /* Code blocks — solid, thick borders */
+  .vp-doc {
+    pre,
+    code {
+      font-family: 'JetBrains Mono', monospace !important;
+      border: 1px solid rgba(244, 42, 139, 0.3);
+      background: rgba(6, 7, 11, 0.8);
+    }
+
+    pre {
+      border-left: 4px solid var(--vp-c-brand-1);
+      background: #06070b;
+      padding: 1.5em;
+      margin: 1em 0;
+
+      code {
+        background: transparent;
+        border: none;
+        padding: 0;
+        line-height: 1.6;
+      }
+    }
+
+    /* Inline code — sharp rectangles */
+    :not(pre) > code {
+      border: 1px solid var(--vp-c-brand-1);
+      background: rgba(6, 7, 11, 0.5);
+      padding: 0.2em 0.5em;
+    }
+  }
+
+  /* Custom blocks — solid, thick borders */
+  .custom-block {
+    border: 2px solid;
+    border-left-width: 6px;
+    background: rgba(6, 7, 11, 0.6);
+    box-shadow: none;
+
+    &.info {
+      border-color: #005eff;
+      border-left-color: #005eff;
+    }
+
+    &.tip {
+      border-color: #1b8a4e;
+      border-left-color: #1b8a4e;
+    }
+
+    &.warning {
+      border-color: #d97706;
+      border-left-color: #d97706;
+    }
+
+    &.danger {
+      border-color: #dc2626;
+      border-left-color: #dc2626;
+    }
+  }
+
+  /* Buttons — sharp rectangles */
+  .VPButton {
+    border-radius: 0 !important;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    &:hover {
+      transform: none;
+      box-shadow: 0 0 0 2px var(--vp-c-brand-1);
+    }
+  }
+
+  /* Navbar — solid block */
+  .VPNav,
+  .VPNavBar {
+    backdrop-filter: none !important;
+    background: #06070b !important;
+    border-bottom: 2px solid var(--vp-c-brand-1);
+  }
+
+  /* Sidebar — thick accent border */
+  .VPSidebar {
+    border-right: 3px solid var(--vp-c-brand-1);
+    background: #06070b;
+
+    .VPSidebarItem.is-active > .link {
+      background: var(--vp-c-brand-1);
+      color: #ffffff;
+      font-weight: 700;
+      padding-left: 0;
+
+      &::before {
+        content: '▮';
+        color: #ffffff;
+        margin-right: 0.5em;
+      }
+    }
+  }
+
+  /* Search box — rectangular */
+  .VPLocalSearchBox {
+    border: 2px solid var(--vp-c-brand-1);
+    border-radius: 0 !important;
+
+    .backdrop {
+      backdrop-filter: none;
+      background: rgba(6, 7, 11, 0.95);
+    }
+  }
+
+  /* Tooltips — no blur, solid */
+  .v-popper--theme-tooltip .v-popper__inner {
+    background: #06070b !important;
+    backdrop-filter: none;
+    border: 2px solid var(--vp-c-brand-1);
+    box-shadow: none;
+  }
+
+  /* Theme selector dropdown — sharp */
+  .v-popper--theme-theme-selector .v-popper__inner {
+    border: 2px solid var(--vp-c-brand-1);
+    border-radius: 0 !important;
+    box-shadow: none;
+    background: #06070b;
+  }
+
+  /* Footer — heavy bottom border */
+  .VPFooter {
+    border-top: 2px solid var(--vp-c-brand-1);
+    background: #06070b;
+    padding: 2em 0;
+
+    a {
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  /* Hero section — no gradient, solid */
+  .Home {
+    &.home {
+      .hero {
+        .tagline {
+          font-weight: 700;
+          letter-spacing: 0.02em;
+        }
+      }
+    }
+  }
+
+  /* Remove all soft shadows */
+  .VPFeature,
+  .VPDocFooter,
+  .VPPageNav,
+  .DocTableOfContents,
+  .VPHero {
+    box-shadow: none !important;
+    background: transparent;
+  }
+
+  /* Links — solid underline, no soft transitions */
+  a {
+    border-bottom: 1px solid var(--vp-c-brand-1);
+    transition: none;
+    font-weight: 700;
+
+    &:hover {
+      border-bottom-color: var(--vp-c-brand-3);
+    }
+  }
+
+  /* Images — sharp borders */
+  img {
+    border: 1px solid var(--vp-c-brand-1);
+  }
+
+  /* Scrollbar — solid, no rounding */
+  ::-webkit-scrollbar {
+    border-radius: 0;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 0;
+    background: var(--vp-c-brand-1);
+  }
+
+  /* Selection — sharp rectangle */
+  ::selection {
+    border-radius: 0;
+  }
+
+  /* Progress bar — sharp rectangle */
+  #nprogress .bar {
+    border-radius: 0;
+  }
+
+  /* Tables — sharp, solid borders */
+  table {
+    border: 2px solid var(--vp-c-brand-1);
+    border-collapse: collapse;
+
+    th,
+    td {
+      border: 1px solid var(--vp-c-brand-1);
+      padding: 0.75em;
+      font-weight: 600;
+    }
+
+    th {
+      background: rgba(6, 7, 11, 0.9);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  /* Horizontal rules — thick, solid */
+  hr {
+    border: none;
+    border-top: 2px solid var(--vp-c-brand-1);
+    margin: 1.5em 0;
+  }
+
+  /* Lists — solid markers */
+  ul,
+  ol {
+    padding-left: 1.5em;
+
+    li {
+      &::marker {
+        color: var(--vp-c-brand-1);
+        font-weight: 700;
+      }
+    }
   }
 }

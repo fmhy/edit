@@ -49,11 +49,13 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
-* *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."
+* *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
+
+* *"I recently finished my exams and im happy to say i got into med school. i am so beyond grateful for what you do. I didnt have the money for cram school and tutoring, i heavily relied on the resources here, and i will probably continue to do so. I want to become a gynecologist and hopefully bring some real change for the health of my fellow women. Thank you all!"*
 
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
-* *I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
+* *"I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 

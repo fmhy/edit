@@ -14,12 +14,32 @@
  *  limitations under the License.
  */
 
+/** UNUSED SINCE BASE64.MD WAS REMOVED OFF THE WIKI */
+
 import type { MarkdownRenderer } from 'vitepress'
 
 // FIXME: tasky: possibly write less horror jank?
 export function base64DecodePlugin(md: MarkdownRenderer) {
   const decode = (str: string): string =>
     Buffer.from(str, 'base64').toString('binary')
+
+  // Escape decoded content so it is safe both as a single-quoted JS string
+  // literal and inside a double-quoted HTML attribute. Order matters: JS-level
+  // escapes first, then HTML-attribute escapes (ampersand before we introduce
+  // our own &quot; entities).
+  const escapeForOnclick = (str: string): string =>
+    str
+      .replace(/\\/g, '\\\\')
+      .replace(/'/g, "\\'")
+      .replace(/\r/g, '\\r')
+      .replace(/\n/g, '\\n')
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+
+  const escapeHtml = (str: string): string =>
+    str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   // Save the original rule for backticks
   const defaultRender =
     md.renderer.rules.code_inline ||
@@ -37,8 +57,8 @@ export function base64DecodePlugin(md: MarkdownRenderer) {
     const token = tokens[idx]
     const content = token.content
 
-    return `<button class='base64' onclick="(function(btn){ const codeEl = btn.querySelector('code'); navigator.clipboard.writeText('${decode(
-      content
-    )}').then(() => { const originalText = codeEl.textContent; codeEl.textContent = 'Copied'; setTimeout(() => codeEl.textContent = originalText, 3000); }).catch(console.error); })(this)"><code>${content}</code></button>`
+    return `<button class='base64' onclick="(function(btn){ const codeEl = btn.querySelector('code'); navigator.clipboard.writeText('${escapeForOnclick(
+      decode(content)
+    )}').then(() => { const originalText = codeEl.textContent; codeEl.textContent = 'Copied'; setTimeout(() => codeEl.textContent = originalText, 3000); }).catch(console.error); })(this)"><code>${escapeHtml(content)}</code></button>`
   }
 }

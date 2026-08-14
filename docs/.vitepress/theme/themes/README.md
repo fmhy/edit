@@ -97,7 +97,7 @@ export const themeRegistry = {
 ## Migration Notes
 
 - AMOLED is no longer a separate mode; it’s a dark enhancement (pure black backgrounds) toggled in the dropdown.
-- The legacy `Appearance.vue` toggle is replaced by `ThemeDropdown.vue` via alias in `config.mts`.
+- The default `VPSwitchAppearance` toggle is replaced by `ThemeDropdown.vue` via alias in `config.mts`. The dropdown drives the radial light/dark reveal through `themes/themeTransition.ts`.
 - Themes can rely on the ColorPicker for brand colors by omitting `brand`.
 
 ## Troubleshooting

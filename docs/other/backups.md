@@ -8,7 +8,7 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 * [GitHub Source](https://github.com/fmhy/edit) - Official GitHub Source Repo
 * [Selfhosting Guide](https://fmhy.net/other/selfhosting) - Run FMHY Locally
 * [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip) - Raw .zip Archive
-* [Markdown Page](https://api.fmhy.net/single-page) (Mirrors: [2](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
+* [Markdown Page](https://fmhy.net/single-page.md) (Mirrors: [2](https://api.fmhy.net/single-page) / [3](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
 
 ***
 
@@ -16,17 +16,16 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
 Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
 
+* [FMHY X](https://d.fmhy.bid/) - Alternative Style w/ Link Check
 * [FMHY Archive](https://ffmhy.pages.dev/) - Alternative Style
 * [Retro FMHY](https://retrofmhy.pages.dev/) - Alternative Style / [Improved Search](https://greasyfork.org/en/scripts/568232)
-* [fmhy.bid](https://fmhy.bid/)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
 * [fmhy.ou0.cc](https://fmhy.ou0.cc/)
 * [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY)
-* [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[3](https://fmhy.blooketbot.me/)/[4](https://fmhy.joyconlab.net/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.pp.ua/)/[7](https://fmhy.prigoana.com/)/[8](https://fmhy.prigoana.pp.ua/)/[9](https://fmhy.axinstagram.com/)/[10](https://fmhy.axintsagram.com/)/[11](https://fmhy.axinstagram.world/)/[12](https://fmhy.flax.rip/))
+* [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[4](https://fmhy.flax.rip/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.pp.ua/)/[7](https://fmhy.prigoana.com/)/[8](https://fmhy.prigoana.pp.ua/)/[9](https://fmhy.axinstagram.com/)/[10](https://fmhy.axintsagram.com/)/[11](https://fmhy.axinstagram.world/))
 * [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
 * [fmhy.vercel.app](https://fmhy.vercel.app/) - Original Style
-* `ssh bbs.fmhy.bid -p 2222` - Terminal User Interface (TUI)
 
 ***
 

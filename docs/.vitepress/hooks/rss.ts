@@ -48,8 +48,12 @@ export async function generateFeed(config: SiteConfig): Promise<void> {
   }).load()
 
   for (const { url, frontmatter, html } of posts) {
+    if (!frontmatter?.title) {
+      consola.warn(`Skipping RSS entry: missing title for ${url}`)
+      continue
+    }
     feed.addItem({
-      title: frontmatter.title as string,
+      title: frontmatter.title,
       id: `${meta.hostname}${url.replace(/\/\d+\./, '/')}`,
       link: `${meta.hostname}${url.replace(/\/\d+\./, '/')}`,
       date: frontmatter.date,

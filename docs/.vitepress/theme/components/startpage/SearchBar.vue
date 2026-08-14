@@ -81,8 +81,11 @@ function platformClass() {
   ].join(' ')
 }
 
+let handleKeyDown: ((e: KeyboardEvent) => void) | null = null
+let handleKeyUp: ((e: KeyboardEvent) => void) | null = null
+
 onMounted(() => {
-  const handleKeyDown = (e: KeyboardEvent) => {
+  handleKeyDown = (e: KeyboardEvent) => {
     const active = document.activeElement
     const isSearchFocused = inputRef.value === active
 
@@ -120,17 +123,17 @@ onMounted(() => {
     if (e.altKey) showShortcuts.value = true
   }
 
-  const handleKeyUp = (e: KeyboardEvent) => {
+  handleKeyUp = (e: KeyboardEvent) => {
     if (!e.altKey) showShortcuts.value = false
   }
 
   window.addEventListener('keydown', handleKeyDown)
   window.addEventListener('keyup', handleKeyUp)
+})
 
-  onUnmounted(() => {
-    window.removeEventListener('keydown', handleKeyDown)
-    window.removeEventListener('keyup', handleKeyUp)
-  })
+onUnmounted(() => {
+  if (handleKeyDown) window.removeEventListener('keydown', handleKeyDown)
+  if (handleKeyUp) window.removeEventListener('keyup', handleKeyUp)
 })
 </script>
 
@@ -138,7 +141,7 @@ onMounted(() => {
   <div class="flex flex-col items-start w-full space-y-4 antialiased">
     <Clock />
 
-    <form @submit.prevent="handleSubmit" class="relative w-full">
+    <form class="relative w-full" @submit.prevent="handleSubmit">
       <div class="relative">
         <i
           class="i-lucide-search absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-text-2"
@@ -146,10 +149,10 @@ onMounted(() => {
         <input
           ref="inputRef"
           v-model="query"
-          @focus="handleInputFocus"
-          @blur="handleInputBlur"
           placeholder="What would you like to search for?"
           class="w-full pl-10 pr-3 py-3 text-lg rounded-md shadow-sm transition-colors bg-bg-elv text-text border-2 outline-none border-div hover:border-primary"
+          @focus="handleInputFocus"
+          @blur="handleInputBlur"
         />
       </div>
     </form>
@@ -159,9 +162,9 @@ onMounted(() => {
         v-for="platform in platforms"
         :key="platform.name"
         :disabled="!query.trim()"
-        @click="handlePlatformClick(platform)"
         :class="platformClass()"
         :style="platform.color ? { borderColor: platform.color } : {}"
+        @click="handlePlatformClick(platform)"
       >
         <div class="flex items-center gap-2">
           <i
