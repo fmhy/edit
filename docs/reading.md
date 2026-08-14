@@ -943,7 +943,9 @@
 ## ▷ Comic Tracking / Databases
 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
+* [⁠Grand Comics Database](https://www.comics.org/) - Comic Database
 * [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
+* [piperka](https://piperka.net/) - Webcomic Database / Release Tracker
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
 
 ***

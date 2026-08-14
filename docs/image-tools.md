@@ -83,6 +83,7 @@
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
+* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Hosted
 * [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Online
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
@@ -101,7 +102,6 @@
 * [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
-* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
 * [PhotoJoiner](https://www.photojoiner.com/) or [⁠Collaigo](https://www.collaigo.com/) / [Discord](https://discord.gg/WbVXpRkWZv) (chrome) - Collage Makers / Editors
 * [⁠shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, Braille, Block, Line, etc
@@ -759,6 +759,7 @@
 * [QuickView](https://github.com/justnullname/QuickView)
 * [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
 * [PhotoQt](https://github.com/luspi/photoqt)
+* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer)
 * [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / [GitHub](https://github.com/neelabo/NeeView)
 * [PicView](https://picview.org/)
 * [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
@@ -839,6 +840,7 @@
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
+* [⁠Img Fish](https://img.fish/) - 95MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever

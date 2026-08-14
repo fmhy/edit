@@ -13,7 +13,7 @@
 ## ▷ Official Model Sites
 
 * ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max (Thinking) / Qwen3.7 Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4 Pro (DeepThink) / DeepSeek V4 Flash (Unlimited) / Sign-Up / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4 Pro 0813 (DeepThink) / DeepSeek V4 Flash (Unlimited) / Sign-Up / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.2 (Deep Think Max) / GLM 5 Turbo / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro Preview / 3.6 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview / 3.6 Flash  / Gemini 3.5 Flash-Lite / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
@@ -25,10 +25,12 @@
 * [Grok](https://grok.com/) - Grok 4.5 (Fast) / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 (Think Deeper) / Unlimited
 * [Claude](https://claude.ai/) - Claude Sonnet 5 / Claude Sonnet 4.6 / Requires Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
+* [⁠Chat Motif](https://chat.motiftech.io/chat) - Motif 3 / Unlimited
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral Studio](https://console.mistral.ai/home) - Mistral Medium 3.5 (Think/High) / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)
-* [⁠Solar](https://console.upstage.ai/playground/chat) - Solar Pro 3 (High AI Reasoning) / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
+* [⁠Solar](https://solar-chat.upstage.ai/) - Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
+* [⁠Solar Playground](https://console.upstage.ai/playground/chat) - Solar Pro 3 (High AI Reasoning) / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam 105b / Unlimited / Sign-Up
 * [⁠Poolside AI](https://chat.poolside.ai/) - Laguna S 2.1 / Laguna XS 2.1
@@ -86,6 +88,7 @@
 * ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * [Cherry Studio](https://cherryai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
@@ -180,7 +183,7 @@
 * 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / Leaderboards
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 20+ Per Day (Varies) / Nano Banana 2 / Unlimited / Google Login / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs) / [Remove Watermarks](https://banana.ovo.re/)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) or **[Gemini](https://gemini.google.com/)** / [Discord](https://discord.com/invite/gemini) - Nano Banana 2 / 20 Per Day / Google Login / [Remove Watermarks](https://banana.ovo.re/), [2](https://addons.mozilla.org/firefox/addon/gemini-watermark-remover-free/), [3](https://greasyfork.org/en/scripts/559574) / [Add Features](https://github.com/Nagi-ovo/voyager)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) - GPT Image 2 / Seedream 5.0 Pro / Nano Banana / 120 Credits Daily / Cost Varies / Sign-Up
+* ⭐ **[Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0)** - GPT Image 2 / Seedream 5.0 Pro / Nano Banana / 120 Credits Daily / Cost Varies / Sign-Up
 * [Meta AI](https://www.meta.ai/) - Muse Image / Generating + Editing / Unlimited / Meta Sign-Up
 * [Bing Create](https://www.bing.com/images/create) - Unlimited / MAI-Image-2.5-Flash / Editing / Generating / Sign-Up
 * [Snapgen AI](https://snapgen.ai/app/imagen) - GPT Image 2 / Nano Banana Pro / Nano Banana 2 / Sign-Up / [Discord](https://discord.com/invite/vJnYe86T8F)
