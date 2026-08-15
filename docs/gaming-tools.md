@@ -257,7 +257,6 @@
 * [RiotPixels](https://en.riotpixels.com/) - Tracking / Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
-* [Rawg](https://rawg.io/) - Game Database
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database

@@ -969,7 +969,7 @@
 * ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
 * ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
-* [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
+* [GoodBooks](https://www.goodbooks.io/) - Book Recommendations by Influential People
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
@@ -978,10 +978,10 @@
 * [⁠NPR's Books We Love](https://apps.npr.org/best-books/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
+* [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
 * [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Book DNA](https://bookdna.com/) - Book Recommendations
-* [GoodBooks](https://www.goodbooks.io/) - Book Discovery / Reviews
 * [⁠Uncovered](https://uncovered.ink/) - Book Sample / Recommendation Tool
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes

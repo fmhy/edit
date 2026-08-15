@@ -308,6 +308,7 @@
 * [Merck Index](https://merckindex.rsc.org/) - Online Merck Index
 * [Organic Chemistry Data](https://organicchemistrydata.org/) - Organic Chemistry Data
 * [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
+* [⁠Not Voodoo XX](https://www.chem.rochester.edu/notvoodoo/) - Organic Chemistry Laboratory Techniques Guide
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
 * [Chemical Forums](https://www.chemicalforums.com/) - Chemistry Forums
 * [ISODN Chemistry](https://discord.gg/cf7RN82) - ISODN Chemistry Discord Community
