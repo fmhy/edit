@@ -257,7 +257,6 @@
 * [RiotPixels](https://en.riotpixels.com/) - Tracking / Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
-* [Rawg](https://rawg.io/) - Game Database
 * [rate.house](https://rate.house/chart/game) - Game Database
 * [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
@@ -750,7 +749,7 @@
 * [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs & [Data Pack Generators](https://misode.github.io/)
 * [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) - Exploit Prevention Mod
 * [MCCreator](https://mcreator.net/) / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Subreddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator) or [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) / [Discord](https://discord.com/invite/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit) - Mod & Plugin Creators
-* [Packwiz](https://packwiz.infra.link/) / [GitHub](https://github.com/packwiz/packwiz), [PAX](https://github.com/maradotwebp/pax) / [Discord](https://discord.com/invite/GQ4MTquzyX) or [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer) - Modpack Management & Dependency Tools
+* [Packwiz](https://packwiz.infra.link/) / [GitHub](https://github.com/packwiz/packwiz) or [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer) - Modpack Management & Dependency Tools
 * [ModDex](https://moddex.gg/) / [Discord](https://discord.gg/tRNZcpJbqY), [Minecraft Guides](https://www.minecraft-guides.com/) or [r/feedthebeast](https://reddit.com/r/feedthebeast/) / [Discord](https://discord.com/invite/moddedmc) - Mod Guides & Communities
 
 ***

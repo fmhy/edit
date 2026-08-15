@@ -360,6 +360,7 @@
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [TypeType](https://watch.typetype.video/), [2](https://typetype.video/) - YouTube Frontend / [Github](https://github.com/TypeType-Video/TypeType)
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
@@ -490,7 +491,7 @@
 * [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
 * [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
-* [⁠BadgeBase](https://badgebase.de/) - Twitch Badge Database / Tracking
+* [⁠Stream Database](https://www.streamdatabase.com/) / [Discord](https://discord.com/invite/streamdatabase) or [⁠BadgeBase](https://badgebase.de/) - Twitch Badge + Emote Databases / Tracking
 * [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
 * [TwitchRSS](https://twitchrss.appspot.com/) or [twitchrss](https://twitchrss.com/) - Twitch RSS Generators
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
@@ -601,7 +602,6 @@
 
 # ► Facebook Tools
 
-* ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)** - Facebook Filters
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [⁠FB Login Wall Remover](https://greasyfork.org/en/scripts/548145) - Remove Facebook Login Wall

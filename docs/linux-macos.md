@@ -742,6 +742,7 @@
 * [⁠Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - Create Wine Wrapped Game Ports for Mac
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Mythic](https://getmythic.app/) - Epic Games Launcher / [Discord](https://discord.gg/58NZ7fFqPy)
+* [⁠MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) - Frame Generation + Upscaling Tool
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
 * [r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming Community / [Discord](https://discord.gg/MgJsb5m)
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List

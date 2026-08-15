@@ -414,6 +414,7 @@
 
 ## Survival
 
+* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) / [App](https://survivalmanual.github.io/)
 * [⁠Wikiciv](https://wikiciv.org/) - Survival / Civilization Rebuilding Wiki / [Discord](https://discord.gg/ZzdmgSKtrE)
 * [r/Preppers](https://www.reddit.com/r/preppers/)

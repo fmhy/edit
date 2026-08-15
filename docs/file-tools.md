@@ -19,7 +19,7 @@
 
 ## ▷ Download Managers
 
-* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://rentry.org/the-piracy-glossary).
+* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://paste.fmhy.net/glossary).
 
 ***
 
@@ -125,7 +125,8 @@
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
-* [⁠VERNAM](https://vernam.app/) - Browser File Encryptor / [GitHub](https://github.com/LifetimeLabsDev/VERNAM)
+* [⁠VERNAM](https://vernam.app/) - File Encryptor / Web / [GitHub](https://github.com/LifetimeLabsDev/VERNAM)
+* [⁠AES-256-GCM](https://d9.codeberg.page/aes-256-gcm-file-encryption.html) - AES-256-GCM File Encryptor / Web
 
 ***
 
@@ -325,7 +326,7 @@
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
-* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 90 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)

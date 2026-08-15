@@ -158,7 +158,7 @@
 ## ▷ Recipes
 
 * 🌐 **[TheGreatestCookbooks](https://thegreatestbooks.org/v/grid/the-greatest/cookbooks/books)** - Expert Recommended Cookbooks
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/) / [GitHub](https://github.com/julianpoy/recipesage), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠RecipeSage](https://recipesage.com/) / [GitHub](https://github.com/julianpoy/recipesage), [Cooked](https://cooked.wiki/), [⁠GrubPick](https://grubpick.com/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
@@ -609,7 +609,7 @@
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [POTUS Tracker](https://potustracker.us/) or [GovData](https://www.govactionlist.com/) - Government Executive Orders, Location & more
-* [Aviation Safety Network](https://aviation-safety.net/) / [X](https://x.com/flightsafety), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
+* [Aviation Safety Network](https://aviation-safety.net/) / [X](https://x.com/flightsafety), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Accidents / News
 * [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
@@ -819,9 +819,9 @@
 
 * 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)** or **[TFS Tools](https://transfemscience.org/misc/)**
 * ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
+* ⭐ **[Gender Dysphoria Bible](https://genderdysphoria.fyi/)** - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 * [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy), [Valerie](https://valerie.vg/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) or [⁠Trans Clinic Index](https://transclinicindex.org.uk/) (UK) - Gender Identity Clinics / Map
-* [Gender Dysphoria Bible](https://genderdysphoria.fyi/) - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
 * [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Therapy Resources / [Discord](https://discord.gg/8weEXE7RzU)
 * [Acoustic Gender](https://acousticgender.space/) or [Voice Tools](https://devextras.com/voicetools/) - Voice Therapy 
@@ -1530,7 +1530,7 @@
 * [Impersona](https://impersona.chat/) - In-Character Public Chats / [Discord](https://discord.gg/DX74sGX)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
 * [The ⁠Museum of All Things](https://may.as/moat/) - 3D Virtual Wikipedia Museum / [GitHub](https://github.com/m4ym4y/museum-of-all-things)
-* [VentScape](https://www.ventscape.life/rage,) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
+* [VentScape](https://www.ventscape.life/rage) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience 
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages

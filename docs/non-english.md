@@ -447,6 +447,7 @@
 
 ## ▷ Downloading / Téléchargement
 
+* ⭐ **[⁠Loadix](https://loadix.fun/)** - Movies / TV / Anime
 * [WawaCity](https://www.wawacity.irish/) - Movies / TV / [Status](https://wawacity-info.com/) / [Telegram](https://t.me/Wawacityofficiel)
 * [Extreme-Down](https://www.extreme-down.poker/) - Video / Audio / Books
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
@@ -483,6 +484,7 @@
 * [1jour1film0626](https://1jour1film0626.site/) or [wowfilms0626](https://wowfilms0626c.site/) - Movies / TV / Anime / [Telegram](https://t.me/+lAMYb22kXIUxZTY1)
 * [ILMIV](https://ilmiv.com/), [neobam](https://neobam.com/) or [kidraz](https://www.kidraz.com/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
+* [⁠streaming-integrale](https://streaming-integral.top/) - Movies / TV / Anime
 * [flemmix](https://flemmix.fast/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
 * [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
 * [Play RTS](https://www.rts.ch/play/tv) - Free w/ Ads
@@ -560,7 +562,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
+* ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p / Select Free Source (Scroll Down)
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[S.TO](https://serienstream.to/)**, [2](https://serien.domains/) - TV / Anime / Dub / 720p
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
@@ -1524,7 +1526,7 @@
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE)
-* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
+* [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino

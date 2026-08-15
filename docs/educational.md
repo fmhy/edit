@@ -308,6 +308,7 @@
 * [Merck Index](https://merckindex.rsc.org/) - Online Merck Index
 * [Organic Chemistry Data](https://organicchemistrydata.org/) - Organic Chemistry Data
 * [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
+* [⁠Not Voodoo XX](https://www.chem.rochester.edu/notvoodoo/) - Organic Chemistry Laboratory Techniques Guide
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
 * [Chemical Forums](https://www.chemicalforums.com/) - Chemistry Forums
 * [ISODN Chemistry](https://discord.gg/cf7RN82) - ISODN Chemistry Discord Community
@@ -1849,7 +1850,7 @@
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus / Etymology
 * ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, macOS, Linux
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
-* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
+* ⭐ **[The Piracy Glossary](https://paste.fmhy.net/glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [Oxford English Dictionary](https://oed.com/) - Dictionary / [Bypass](https://rentry.co/freeoed)

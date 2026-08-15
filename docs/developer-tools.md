@@ -533,8 +533,8 @@
 ***
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
-* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
-* ⭐ **[Aider](https://aider.chat/)** - Terminal Coding AI / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
+* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4 Flash 0731 / MiMo-2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
+* ⭐ **[Aider](https://aider.chat/)** - Terminal Coding Agent / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
@@ -547,10 +547,11 @@
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
+* [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / DeepSeek V4 Flash 0731 / MiMo 2.5
 * [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
 * [⁠Pi](https://pi.dev/) - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
 * [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)
-* [⁠Poolside AI](https://chat.poolside.ai/) - Coding AI API
+* [⁠Poolside AI](https://docs.poolside.ai/api/overview) - Coding AI API
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
 ***
@@ -563,7 +564,7 @@
 * [Kimi](https://www.kimi.com/agent) - Kimi K3 (Max) / Kimi K2.6 / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro Preview / Gemini 3.6 Flash / Google Sign-Up / Coding AI / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Qwen](https://chat.qwen.ai/) - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Coding AI / Sign-UP [GitHub](https://github.com/MiniMax-AI/)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Coding AI / Sign-Up [GitHub](https://github.com/MiniMax-AI/)
 * [⁠Cloud CLI](https://github.com/siteboon/claudecodeui) - AI Coding Agent Web Manager
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
@@ -577,12 +578,14 @@
 * 🌐 **[⁠Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)** - Index of AI Dev Tools
 * 🌐 **[Skills](https://skills.sh/)** or **[⁠an-eye](https://rentry.co/an-eye)** - AI Agent Skill Indexes
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
-* [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
+* [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [⁠Impeccable](https://impeccable.style/) - Design Language for AI Coding Agents / [GitHub](https://github.com/pbakaus/impeccable)
 * [Orca](https://onorca.dev/) - Agentic Development Environment / Parallel Agents / [GitHub](https://github.com/stablyai/orca)
 * [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
+* [Querit](https://www.querit.ai/) - AI Web Search API / [CLI](https://pypi.org/project/querit-cli/) / [MCP Server](https://github.com/querit-ai/querit-mcp) / [Discord](https://discord.com/invite/4xXsFA8Ed2) / [GitHub](https://github.com/querit-ai)
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
 * [Pieces](https://pieces.app/) - Multi-LLM Coding Search Engine
 * [⁠HyperFrames](https://github.com/heygen-com/hyperframes) - Code-Based AI Video Generation Framework

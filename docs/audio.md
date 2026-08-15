@@ -589,6 +589,7 @@
 * [Chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
 * [⁠DOVA-SYNDROME](https://dova-s.jp/en/) - Royalty-Free Library
 * [tunetank](https://tunetank.com/) - Music for Videos
+* [⁠Matthew C. Wright](https://matthewcwright.com/) - Royalty-Free Piano Music
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
