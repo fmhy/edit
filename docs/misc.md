@@ -1381,6 +1381,7 @@
 * [Office Holidays](https://www.officeholidays.com/) - World Event Calendars
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [StageTimer](https://stagetimer.io/) - Event Timer
+* [SeatingChartGenerator](https://www.seatingchartgenerator.app/) - Free Seating Chart Maker / No Sign-Up
 * [Table Plan](https://table-plan.com/) - Seating Chart Maker ⁠
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [Spliit](https://spliit.app/) or [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
