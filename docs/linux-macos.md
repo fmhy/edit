@@ -778,7 +778,7 @@
 * [Tunnelblick](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
 * [Status](https://status.app/) - Encrypted Messaging Client
-* [Holeberry](https://holeberryapp.com) - Pi-hole Monitor & Control App / [GitHub](https://github.com/pedrovieira/Holeberry)
+* [Holeberry](https://holeberryapp.com) - macOS Companion App for Pi-hole / [GitHub](https://github.com/pedrovieira/Holeberry)
 
 ***
 
