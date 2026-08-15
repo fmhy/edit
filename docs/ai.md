@@ -369,6 +369,7 @@
 
 # ► AI Tools
 
+* [AiMovieFinder](https://www.aimoviefinder.net/) - AI Movie Identifier from Descriptions, Screenshots, Quotes, Clips, Actors, or Directors
 * 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * 🌐 **[sindresorhus's Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
