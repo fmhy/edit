@@ -73,7 +73,9 @@ const openLink = () => {
               target="_blank"
               class="text-primary hover:underline font-medium"
             >
-              userscript manager</a>)
+              userscript manager
+            </a>
+            )
           </li>
         </ul>
 

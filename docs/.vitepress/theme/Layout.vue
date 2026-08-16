@@ -5,6 +5,9 @@ import { onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
+import { useSearchFromQuery } from './composables/searchFromQuery'
+
+useSearchFromQuery()
 
 const { Layout } = DefaultTheme
 const showBase64Dialog = ref(false)
