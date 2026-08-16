@@ -49,7 +49,7 @@
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 (Reasoning) / DeepSeek V4 Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [Cerebras Chat](https://chat.cerebras.ai/chat) - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up
-* [AI Assistant](https://aiassistantbot.pages.dev/) - Mistral Medium / gpt-oss-120b / Multiple Models / No Sign-Up
+* [AI Assistant](https://aiassistantbot.pages.dev/) - DeepSeek v3.2 / Glm 4.7 / Multiple Models / No Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Poland) / Apertus v1.5 8B Thinking (No Sign-Up) / Multiple Models
 
 ***
