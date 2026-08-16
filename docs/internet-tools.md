@@ -344,15 +344,15 @@
 
 ## ▷ Redirect Bypass
 
-* ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners
-* ⭐ **[Evade](https://skipped.lol/evade/evade.user.js)** - Ad-Links Bypasser / [Site](https://skipped.lol/)
-* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
-* ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser
+* ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners / [Userscript](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js)
+* ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [Github](https://github.com/bypass-vip)
+* ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser / [Discord](https://discord.gg/TctJ5vu6Va)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=3.0.7)
-* [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser
-* [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
-* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
+* [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser / [Chrome](https://chromewebstore.google.com/detail/bypasskit-link-unlocker/aiddkahemeniiedmpfblodnmcjoelbjl) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bypasskit-link-unlocker/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/bypasskit-link-unlocker/jpdmlobalaahflgppobfnhbdobpfpoao)
+* [TimerHooker](https://timer.palerock.cn/en/) - Skip Timers on File Hosts / [Userscript](https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.gg/bypass-city)
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [Userscript](https://adsbypasser.github.io/releases/adsbypasser.full.user.js) / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Guide](https://yuumari.com/bypass/guide/) / [Userscript](https://api.yuumari.com/dl/m-links.user.js) / [Chrome Extension](https://chrome.google.com/webstore/detail/doiagnjlaingkmdjlbfalakpnphfmnoh)
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 
