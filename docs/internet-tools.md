@@ -433,6 +433,7 @@
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
 * [scr.im](http://scr.im/) - Email Captcha Protection
+* [Suped Domain Health Checker](https://www.suped.com/tools/domain-health-checker) - Email Authentication / SPF / DKIM / DMARC Checker
 
 ***
 
