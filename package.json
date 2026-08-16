@@ -100,5 +100,10 @@
     "vite-plugin-terminal": "^1.4.0",
     "vue-eslint-parser": "^10.4.1",
     "wrangler": "^4.98.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "tar": "7.5.21"
+    }
   }
 }
