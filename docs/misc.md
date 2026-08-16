@@ -394,6 +394,8 @@
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [Linguistic Maps](https://muturzikin.com/countries.htm) - World Linguistic Maps
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
+* [⁠CrashAtlas](https://crashatlas.com/) - Aviation Accident Database / Map
+* [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 * [LGA World Database](https://database.ilga.org/) - LGBT Legal Rights Map / Policy Tracking
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Gender Identity Clinics / Maps
@@ -422,7 +424,6 @@
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
-* [Skimap.org](https://skimap.org/) - Detailed Ski Maps
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance), [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) or [Panopti](https://panopti.ca/) / [GitHub](https://github.com/resistanceisliberty/panopti.ca) (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map 
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps

@@ -19,7 +19,7 @@
 
 ## ▷ Download Managers
 
-* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://paste.fmhy.net/glossary).
+* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://yaso.su/glossary).
 
 ***
 
@@ -234,7 +234,7 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
-* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side or [File PDF](https://filepdf.net/) / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
@@ -328,7 +328,7 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 90 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
-* ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
+* ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/PJWsgUt7XM)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
@@ -338,6 +338,7 @@
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
@@ -352,7 +353,6 @@
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
-* [⁠Luffy Files](https://luffyfiles.com/) - 5GB / 30 Days
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)

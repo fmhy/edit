@@ -416,7 +416,6 @@
 * [IQDB](https://iqdb.org/) - Reverse Image Search
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
-* [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
 * [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search

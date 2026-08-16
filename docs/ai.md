@@ -14,23 +14,23 @@
 
 * ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max (Thinking) / Qwen3.7 Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4 Pro 0813 (DeepThink) / DeepSeek V4 Flash (Unlimited) / Sign-Up / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
-* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.2 (Deep Think Max) / GLM 5 Turbo / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
+* ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 (Deep Think Max) / GLM 5.2 / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro Preview / 3.6 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview / 3.6 Flash  / Gemini 3.5 Flash-Lite / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Meta AI](https://www.meta.ai/) - Muse Spark 1.2 (Thinking) / Meta Sign-Up / Unlimited
+* [Meta AI](https://www.meta.ai/) - Muse Spark 1.2 (Thinking) / Muse Glimmer 30b (local) / Meta Sign-Up / Unlimited
 * [Kimi](https://www.kimi.com/) - Kimi K3 (Max) / Kimi K2.6 / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
-* [ChatGPT](https://chatgpt.com/) - GPT-5.6 Luna / Unlimited / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md)
+* [ChatGPT](https://chatgpt.com/) - GPT-5.6 Luna / Unlimited / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier)
 * [⁠LongCat](https://longcat.chat/) - LongCat 2.0 (Think) / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up
-* [Grok](https://grok.com/) - Grok 4.5 (Fast) / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
+* [Grok](https://grok.com/) - Grok 4.6 (Fast) / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 (Think Deeper) / Unlimited
-* [Claude](https://claude.ai/) - Claude Sonnet 5 / Claude Sonnet 4.6 / Requires Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
+* [Claude](https://claude.ai/) - Claude Opus 5 / Claude Sonnet 5 / Requires Sign-Up + Phone # / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [⁠Chat Motif](https://chat.motiftech.io/chat) - Motif 3 / Unlimited
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral Studio](https://console.mistral.ai/home) - Mistral Medium 3.5 (Think/High) / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)
 * [⁠Solar](https://solar-chat.upstage.ai/) - Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
-* [⁠Solar Playground](https://console.upstage.ai/playground/chat) - Solar Pro 3 (High AI Reasoning) / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
+* [⁠Solar Playground](https://console.upstage.ai/playground/chat) - Solar Pro 4 (High AI Reasoning) / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam 105b / Unlimited / Sign-Up
 * [⁠Poolside AI](https://chat.poolside.ai/) - Laguna S 2.1 / Laguna XS 2.1
@@ -41,16 +41,16 @@
 
 ## ▷ Multiple Model Sites
 
+* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - GLM 5.2 / Kimi K3 / DeepSeek V4 Pro / MiniMax-M3 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
-* [⁠Together.ai](https://chat.together.ai/) - GLM 5.2 / Kimi K3 / DeepSeek V4 Pro / MiniMax-M3 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - GPT-5.5 / Gemini 3.6 Flash / (Battle Mode) / Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 (Reasoning) / DeepSeek V4 Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [Cerebras Chat](https://chat.cerebras.ai/chat) - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up
-* [AI Assistant](https://aiassistantbot.pages.dev/) - Mistral Medium / gpt-oss-120b / Multiple Models / No Sign-Up
-* [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Poland) / Apertus v1.5 8B Thinking (No Sign-Up) / Multiple Models
+* [AI Assistant](https://aiassistantbot.pages.dev/) - DeepSeek v3.2 / Glm 4.7 / Multiple Models / No Sign-Up
+* [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Switzerland) / Apertus v1.5 8B Thinking (No Sign-Up) / Multiple Models
 
 ***
 
@@ -88,8 +88,8 @@
 * ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
+* ⭐ **[Cherry Studio](https://cherryai.com/)** - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
-* [Cherry Studio](https://cherryai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
@@ -283,6 +283,7 @@
 
 ## ▷ Text to Speech
 
+* 🌐 **[Awesome AI Sound](https://github.com/wildminder/awesome-ai-voice)** - TTS + Voice Generation Model Index
 * 🌐 **[Arena TTS](https://arena.ai4bharat.org/#/tts)** - Text to Speech Model Benchmarks / Leaderboards
 * ⭐ **[TTS Online](https://www.text-to-speech.online/)** / No Sign-Up
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)

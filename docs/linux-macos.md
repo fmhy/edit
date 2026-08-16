@@ -302,7 +302,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
-* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass
+* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass / [Pre-Load Library](https://github.com/brcly/linuwux-runtime)
 * [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games

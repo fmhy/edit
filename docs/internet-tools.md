@@ -426,7 +426,7 @@
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [⁠navi.land](https://navi.land/) - Number-Free Email Services
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [⁠Aster Mail](https://astermail.org/) or [⁠navi.land](https://navi.land/) - Number-Free Email Services
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
@@ -645,7 +645,6 @@
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) or [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 * [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager / [Discord](https://discord.com/invite/sine-1377068283693629592)
-* [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md) - Firefox Hidden Settings
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks
 * [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Firefox Bookmark Folder
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
@@ -659,7 +658,6 @@
 
 * ↪️ **[Chromium Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chrome_extensions)**
 * [Chromium Drift](https://chromium-drift.pages.dev/) - Compare Alt Chromium Browser Versions to Main Stable Releases / [GitHub](https://github.com/ShivanKaul/chromium-drift)
-* [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based Hidden Settings
 * [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Themes

@@ -51,7 +51,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
-* **Streaming: [NEPU](https://nepu.to/) / [Cineby](https://cineby.at/) / [Aether](https://aether.bar/)**
+* **Streaming: [NEPU](https://nepu.to/) / [Z-Stream](https://zstream.mov/) / [PopcornMovies](https://popcornmovies.io/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [StreamFree](https://streamfree.top/) / [TimStreams](https://timstreams.st/)**
@@ -163,6 +163,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
-* **[Glossary / Terminology](https://paste.fmhy.net/glossary)** - Common piracy term definitions
+* **[Glossary / Terminology](https://yaso.su/glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools

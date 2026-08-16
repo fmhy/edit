@@ -232,7 +232,6 @@
 * [VidHub](https://vidhub.me/) - Movies / TV / Anime / Sub / 1080p
 * [ztv.tw](https://ztv.tw) - Movies / TV / Anime
 * [chinaq.app](https://chinaq.app/) - Movies / TV / Anime
-* [xigua2](https://xigua2.com/) - Movies / TV / Sub
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
 * [xiaoyakankan](https://xiaoyakankan.com/) - Movies / TV / 720p
 * [IYF](https://www.iyf.tv/) - Movies / TV / Sub / Dub / 720p
@@ -700,7 +699,7 @@
 
 * ⭐ **[VegaMovies](https://vegamovies.market/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K 
-* ⭐ **[HDHub4u](https://hdhub4u.tv/)** - Movies / TV / 1080p / 4K
+* ⭐ **[HDHub4u](https://hdhub4u.ec/)** - Movies / TV / 1080p / 4K
 * ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / 1080p / [Discord](https://discord.com/invite/Py5KKx28Bx)
 * ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked

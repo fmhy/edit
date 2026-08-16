@@ -339,7 +339,7 @@
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
-* [⁠Needrom](https://www.needrom.com/) - Stock ROM / Firmware Repo
+* [⁠Needrom](https://www.needrom.com/) - Stock ROM / Firmware Repo / Use Adblock
 * [Orangefox](https://orangefox.download/), [twrp](https://twrp.me/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [ReZygisk](https://github.com/PerformanC/ReZygisk) or [⁠NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote Injection Engines
@@ -1008,7 +1008,6 @@
 * [⁠Uriel](https://uriel-app.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/dM2RUMdSZV)
 * [Flixoid](https://rentry.co/FMHYB64#flixoid) - Movies / TV
 * [BeeTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV
-* [TeaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [DigilogTV](https://github.com/aldrinzigmundv/digilogtv) - News TV Channels
 * [aDrama](https://adrama.app/) - Asian Drama

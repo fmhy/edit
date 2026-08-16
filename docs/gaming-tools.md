@@ -172,8 +172,11 @@
 ## ▷ Game Saves
 
 * ↪️ **[File Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_backup) / [Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_file_sync)**
-* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)**, [⁠Ambidex](https://github.com/chwair/ambidex), [SaveState](https://github.com/Matteo842/SaveState) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Backup Tools / Managers
+* ⭐ **[Ludusavi](https://github.com/mtkennerly/ludusavi)** - Game Save Manager / Backup / [Emulator Paths](https://github.com/DogancanYr/ludusavi-piracy-manifest)
 * [PCGamingWiki](https://www.pcgamingwiki.com/) - Save Locations Listed Under "Game Data"
+* [⁠Ambidex](https://github.com/chwair/ambidex) - Game Save Manager / Backup
+* [SaveState](https://github.com/Matteo842/SaveState) - Game Save Manager / Backup
+* [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manager / Backup
 * [SavegameDownload.com](https://www.savegamedownload.com/) - PC / Mobile / PlayStation / Switch / Xbox
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [Save Game World](https://www.savegameworld.com/) - PC / PlayStation / Switch / Xbox / Wii
