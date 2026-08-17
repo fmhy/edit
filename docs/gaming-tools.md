@@ -474,7 +474,7 @@
 
 * 🌐 **[FreeHosts](https://freehosts.eu/hosts?target=Gaming)** - Free Game Hosting Provider Index
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
-* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican-dev/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
+* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / Signup Required / [Discord](https://discord.gg/AXAbujx)
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
@@ -659,7 +659,7 @@
 
 * 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://discord.gg/TtJM3ahtuM) / [Source Code](https://codeberg.org/OpenM/pages)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
-* 🌐 **[Skyblock Resources](https://hypixelskyblock.minecraft.wiki/w/Community_Resources:Useful_External_Resources)** - ⁠Hypixel Skyblock Resources / [Wiki](https://hypixelskyblock.minecraft.wiki/)
+* 🌐 **[Skyblock Resources](https://hypixelskyblock.minecraft.wiki/w/Community_Resources:Useful_External_Resources)** / [Wiki](https://hypixelskyblock.minecraft.wiki/) or **[SkyblockRes](https://rentry.co/skyblockres)** - ⁠Hypixel Skyblock Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** / [Discord](https://discord.com/invite/fGdE5ZE), [Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png) or [Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png) - Minecraft Wiki & Cheatsheets
 * [MC Utils](https://mcutils.com/) / [Discord](https://discord.com/invite/HvPARrr55x) - Web-Based Minecraft Toolkits
 * [DigMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides & Support

@@ -183,7 +183,7 @@
 
 ## ▷ GitHub Tools
 
-* 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Index
+* 🌐 **[OSS Insight](https://ossinsight.io/)** - GitHub Project Indexes
 * 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions

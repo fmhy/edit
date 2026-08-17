@@ -225,7 +225,7 @@
 ## ▷ Linux Audio
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**, [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://songrec.fossplant.re/)** / [GitHub](https://github.com/marin-m/SongRec) or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
@@ -302,7 +302,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
-* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass / [Pre-Load Library](https://github.com/brcly/linuwux-runtime)
+* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass
 * [⁠SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
@@ -693,7 +693,7 @@
 
 ## ▷ Mac Audio
 
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [cliamp](https://www.cliamp.stream/) - TUI Audio Player / [GitHub](https://github.com/bjarneo/cliamp)

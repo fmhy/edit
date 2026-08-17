@@ -517,6 +517,7 @@
 * [Bookys](https://www6.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / Some NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
+* [⁠Gallica](https://gallica.bnf.fr/) - Books / Documents 
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
 * [litteratureaudio](https://www.litteratureaudio.com/) - Audiobooks / [Ripper](https://github.com/L-at-nnes/litteratureaudio.com-ripper)
 * [Origines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / Some NSFW 
@@ -691,6 +692,7 @@
 * [⁠Plan Compare](https://plancompare.in/) - Mobile Data Plan Comparisons
 * [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
 * [NDL](https://www.ndl.gov.in/) - Indian Educational Resources / Books
+* [⁠Tathya](https://tathyakosh.in/) - Indian Datasets 
 * [TalkingHands](https://talkinghands.co.in/) - Indian Sign Language Dictionary / Learning
 * [IndianSignLanguage](https://indiansignlanguage.org/) - Indian Technical Sign Language Dictionary
 * [RailRadar](https://railradar.in/railradar), [2](https://www.railjournal.in/) - India Live Train Map

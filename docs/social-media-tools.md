@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Disroot](https://disroot.org/en/#services)**, [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [Vern](https://vern.cc/eng/services), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Disroot](https://disroot.org/en/#services)**, [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)** 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -441,7 +441,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
+* [IMG_0001](https://walzr.com/IMG_0001), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 
 ***
@@ -617,7 +617,7 @@
 
 # ► Instagram Tools
 
-* [KittyGram](https://kittygram.irelephant.net/), [2](https://kg.meowing.de) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram), [⁠InstaScope](https://insta-profile-viewer.pages.dev/) or [Imginn](https://imginn.com) - Instagram Frontends / Viewers
+* [KittyGram](https://kittygram.irelephant.net/), [2](https://kg.meowing.de) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends / Viewers
 * [⁠ReelSave](https://reelsave.app/) - Instagram Video / Audio Downloader
 * [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) - Embed Fixer and Downloader
 * [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder

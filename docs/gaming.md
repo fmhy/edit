@@ -692,10 +692,8 @@
 * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Man
-* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Super Monkey Ball Web](https://rentry.co/FMHYB64#mb-online)** - Browser Super Monkey Ball
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** / [GitHub](https://github.com/Vanilagy/MarbleBlast) or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) / [GitHub](https://github.com/RandomityGuy/MBHaxe) - Browser Marble Blast
-* ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
@@ -715,7 +713,6 @@
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
 * [⁠Hotfix](https://www.hotfix.fun/) - WarioWare-Style 'Hot-Fix' Micro-Game
 * [The Circle](https://the-circle.app/) - Dodge Circles
-* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
@@ -733,9 +730,6 @@
 * [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
 * [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game 
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Requires Sign-Up
-* [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
-* [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
-* [slow roads](https://slowroads.io/) - Driving Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game
 * [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game
 * [Starshine Legacy](https://starshine-legacy.starstable.com/index.html) - 3D Browser Mystery Game
@@ -791,7 +785,6 @@
 * [UB66](https://ub66.vercel.app/) - Browser Game Aggregator / Gmail Design
 * [⁠Playlin](https://playlin.io/) or [⁠Listdle](https://listdle.com/) - Daily Game Aggregators
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
-* [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
 * [TIC-80 Games](https://tic80.com/play?cat=0&sort=2) - TIC-80 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
@@ -947,6 +940,19 @@
 * [⁠Pixel Quest RPG](https://thvariableyt.github.io/Pixel-Quest-Deluxe/) - 2D Platformer / [GitHub](https://github.com/ThVariableYT/Pixel-Quest-Deluxe)
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia
+
+***
+
+## ▷ Racing / Driving
+
+* 🌐 **[⁠drifted](https://www.drifted.com/)** - Drifting-Focused Browser Games
+* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
+* ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
+* [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
+* [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
+* [⁠Swervle](https://swervle.com/) - Daily Racing Game 
+* [slow roads](https://slowroads.io/) - Driving Game
+* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 
 ***
 

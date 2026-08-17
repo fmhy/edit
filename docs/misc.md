@@ -11,6 +11,13 @@
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_guides_.2F_indexes)**
 * ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.com/invite/6qVr2aR)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
+* ⭐ **[privateersclub](https://privateers.wiki/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
+* ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
@@ -20,6 +27,11 @@
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [OSS Insight](https://ossinsight.io/) or [sourcehut](https://sr.ht/) - Public Project Indexes
+* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
+* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
 * [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
@@ -27,33 +39,40 @@
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
-* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
 * [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
-* [sourcehut](https://sr.ht/) - Public Project Index
+* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
+* [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
+* [Websites From Hell](https://websitesfromhell.net/) - Shitty Websites
 
 ***
 
-## ▷ Site / Tool Indexes
+## ▷ Random Sites / Discovery
 
-* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.com/invite/6qVr2aR)
-* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
-* ⭐ **[privateersclub](https://privateers.wiki/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
-* [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
-* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
-* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
+* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
+* ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
+* [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
+* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
+* [BoredButton](https://www.boredbutton.com/) - Find Random Sites
+* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
+* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
+* [JumpStick](https://jumpstick.app/) - Find Random Sites
+* [Trilzo](https://www.trilzo.com/) - Find Random Sites
+* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
+* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
+* [Stumbleupon](https://stumbleupon.cc/) - Find Random Sites
+* [The Forest](https://theforest.link/) - Find Random Sites
+* [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
+* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
+* [Random-Website](https://random-website.com/) - Find Random Sites
+* [Wilderness Land](https://wilderness.land/) - Find Random Sites
+* [CloudHiker](https://cloudhiker.net/) - Find Random Sites
+* [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
+* [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 
 ***
 
@@ -1138,10 +1157,6 @@
 
 ## ▷ Electronics
 
-***
-
-## ▷ PC / Laptop Building
-
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [RTINGS](https://www.rtings.com/), [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
@@ -1737,12 +1752,8 @@
 
 ## ▷ Random
 
-* 🌐 **[Funny / Useless](https://rentry.org/aksry2vc)** - Funny / Useless Websites
-* 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
-* 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
+* ↪️ **[Random Sites / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random_sites_.2F_discovery)**
 * ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
-* ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** - Fake News Articles
@@ -1779,23 +1790,6 @@
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
 * [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
-* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
-* [BoredButton](https://www.boredbutton.com/) - Find Random Sites
-* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
-* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
-* [JumpStick](https://jumpstick.app/) - Find Random Sites
-* [Trilzo](https://www.trilzo.com/) - Find Random Sites
-* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
-* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
-* [Stumbleupon](https://stumbleupon.cc/) - Find Random Sites
-* [The Forest](https://theforest.link/) - Find Random Sites
-* [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
-* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
-* [Random-Website](https://random-website.com/) - Find Random Sites
-* [Wilderness Land](https://wilderness.land/) - Find Random Sites
-* [CloudHiker](https://cloudhiker.net/) - Find Random Sites
-* [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
-* [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting

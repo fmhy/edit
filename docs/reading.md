@@ -966,7 +966,8 @@
 
 * 🌐 **[Book Awards](https://rentry.co/bookawards/)** - Index of Book Awards
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books List
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** or [Greater Books](http://www.greaterbooks.com/) - Algorithmic Books Lists
+* ⭐ **[⁠NPR's Books We Love](https://apps.npr.org/best-books/)** - Book Discovery / Recommendations
 * ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * [GoodBooks](https://www.goodbooks.io/) - Book Recommendations by Influential People
@@ -975,7 +976,6 @@
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
-* [⁠NPR's Books We Love](https://apps.npr.org/best-books/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
 * [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
