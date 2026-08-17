@@ -628,6 +628,8 @@
 * ⭐ **[Messletters](https://www.messletters.com/)**
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
+* [Fancy Text Generator](https://www.fancytextpro.com/)
+* [Font Style Copy & Paste](https://www.fontgen.net/)
 * [Cool Fonts Online](https://coolfont.org/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
