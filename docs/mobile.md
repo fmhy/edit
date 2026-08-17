@@ -1128,7 +1128,7 @@
 * [RoutineHub](https://routinehub.co/) - Shortcuts
 * [Color Widgets](https://apps.apple.com/app/id1531594277) or [WidgetSmith](https://apps.apple.com/app/id1523682319) - iOS Widgets
 * [Wikipedia](https://apps.apple.com/app/wikipedia/id324715238) - Wikipedia App
-* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [⁠SW-DLT](https://github.com/net00-1/SW-DLT) - YouTube Downloader
+* [Palladium](https://getpalladium.app/) / [GitHub](https://github.com/tfourj/Palladium), [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [⁠SW-DLT](https://github.com/net00-1/SW-DLT) - YouTube Downloader
 * [Keynote](https://apps.apple.com/app/id361285480) or [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) - Make Presentations
 * [WiFi Map](https://apps.apple.com/app/wifi-map-esim-internet-finder/id548925969) - Public WiFi Maps
 * [⁠Particle](https://particle.news/) - News Aggregation App

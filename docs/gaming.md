@@ -950,7 +950,7 @@
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
-* [⁠Swervle](https://swervle.com/) - Daily Racing Game 
+* [⁠Swervle](https://swervle.com/) - Daily Racing Game / [Discord](https://discord.com/invite/sSP8ZEJ9Pn)
 * [slow roads](https://slowroads.io/) - Driving Game
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 

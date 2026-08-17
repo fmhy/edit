@@ -1723,11 +1723,11 @@
 
 * [Mazepa](https://mazepa.to/) - Video / Audio / Books
 * [Toloka](https://toloka.to/) - Torrent Tracker
-* [utog](https://utog.org/uzhm/) - Ukrainian Sign Language Dictionary
 
 ## ▷ Reading / Читання
 
 * [manga.in](https://manga.in.ua/) - Manga
+* [utog](https://utog.org/uzhm/) - Ukrainian Sign Language Dictionary
 
 ## ▷ Streaming / Стрімінг
 
@@ -1777,7 +1777,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim2.org/) - Movies / TV / Anime / Sub / 1080p / 4K / [Telegram](https://t.me/Adtramphim) / [Discord](https://discord.com/invite/u9sA5EQM7)
+* [⁠Tram Phim](https://tramphim2.org/) - Movies / TV / Anime / Sub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [⁠Sofaflix](https://sofaflix.biz/) - Movies / TV / Anime / Sub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
