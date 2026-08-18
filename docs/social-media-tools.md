@@ -163,7 +163,7 @@
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends / Viewers
+* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) - Reddit Frontends / Viewers
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** or [Teamdoko Old Reddit](https://teamdoko.com/products/old-reddit-for-safari) - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -452,7 +452,6 @@
 * [Tubeup](https://github.com/bibanon/tubeup) - YouTube Video to IA Uploader
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
-* [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
 * [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [PreserveTube](https://preservetube.com/), [2](https://preservetube.net/), [3](https://preservetube.org/) or [Hobune](https://hobune.stream/) - YouTube Video Archives
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)

@@ -187,7 +187,7 @@
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/), [⁠TypeGG](https://typegg.io/) / [Discord](https://discord.com/invite/64v955z) or [typing.works](https://typing.works/) - Typing Tests
 * [⁠ttyper](https://github.com/max-niederman/ttyper) or [⁠Smassh](https://github.com/kraanzu/smassh) - Typing Test TUIs
-* [Typing.com](https://www.typing.com/) or [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons
+* [Typing.com](https://www.typing.com/), [⁠Keytopia](https://keytopia.org/) or [Typing Club](https://www.typingclub.com/) - Touch Typing Lessons / Practice
 * [typing.academy](https://www.typing.academy/) or [⁠VocaType](https://vocatype.app/) - Typing Lessons
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colemak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests

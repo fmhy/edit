@@ -28,26 +28,38 @@
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [OSS Insight](https://ossinsight.io/) or [sourcehut](https://sr.ht/) - Public Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
-* [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
 * [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
 * [The National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive / [X](https://x.com/UKNatArchives)
-* [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
-* [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Websites
+
+***
+
+## ▷ Git Project Indexes
+
+* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
+* [Active GitHub Forks](https://techgaun.github.io/active-forks/) - Active Fork Index
+* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - Fork Repo Index
+* [OSS Insight](https://ossinsight.io/) - Project Index
+* [sourcehut](https://sr.ht/) - Project Index
+* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - Project Index
+* [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps) - Project Index
+* [LibHunt](https://www.libhunt.com/) - Project Index
+* [bestofjs](https://bestofjs.org/) - Project Index
+* [git.news](https://git.news/) - Project Index
+* [GitPlanet](https://gitplanet.com/) - Project Index
 
 ***
 
@@ -1409,6 +1421,7 @@
 
 * 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
+* 🌐 **[The Hive Index](https://thehiveindex.com/)** - Online Communities Index
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.com/invite/tqUtPA43Hy), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/) or [Macintosh Cafe](https://forum.agoraroad.com/) - General Forums

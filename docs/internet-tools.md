@@ -348,11 +348,11 @@
 * ⭐ **[Evade](https://skipped.lol/evade/evade.user.js)** - Ad-Links Bypasser / [Site](https://skipped.lol/)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=3.0.7)
 * [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser
 * [TimerHooker](https://greasyfork.org/en/scripts/372673) - Skip Timers on File Hosts
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.gg/bypass-city)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 
@@ -373,7 +373,6 @@
 
 ## ▷ URL Shorteners
 
-* ⭐ **[spoo.me](https://spoo.me/)** - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`

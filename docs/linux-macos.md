@@ -308,6 +308,7 @@
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Non-Steam Games Through Proton
 * [Luxtorpeda](https://codeberg.org/luxtorpeda/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/ltsteamplugin) 
 * [Accela](https://github.com/ciscosweater/enter-the-wired) - Steam Game + DLC Unlocker
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options
@@ -320,7 +321,7 @@
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
-* [Vice](https://viceclipper.framer.website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
+* [Vice](https://eklonofficial.github.io/Vice-Website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
 * [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
@@ -380,7 +381,6 @@
 * [KGet](https://apps.kde.org/kget/), [⁠Surge](https://github.com/SurgeDM/Surge) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Managers
 * [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
-* [maestral](https://maestral.app/) - Dropbox Client
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
 * [⁠OpenWRT](https://openwrt.org/), [DD-WRT](https://wiki.dd-wrt.com/) or [FreshTomato](https://www.freshtomato.org/) - Linux Router Firmware
 * [⁠dae](https://github.com/daeuniverse/dae) - Linux Router Performance Proxy App / [WebUI](https://github.com/daeuniverse/daed)
@@ -583,7 +583,7 @@
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
 * [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma 
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [varietywalls](https://github.com/varietywalls/variety), [⁠Waywallen](https://github.com/waywallen/waywallen) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
+*  [⁠Waywallen](https://github.com/waywallen/waywallen), [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
 * [⁠tint](https://github.com/ashish0kumar/tint) - Recolor Wallpapers for System Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
@@ -597,7 +597,7 @@
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
 * ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [Mist](https://github.com/ninxsoft/Mist) - Download macOS
-* ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
+* ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** - File Sharing App
 * ⭐ **[shottr](https://shottr.cc/)** or [⁠Better Shot](https://www.bettershot.site/) / [GitHub](https://github.com/KartikLabhshetwar/better-shot) - Screenshot Tools
 * ⭐ **[Aptonic](https://aptonic.com/)** - Drag-and-Drop Shelf / Quick File Access
 * [Ghostty](https://ghostty.org/) - GPU-Accelerated Terminal Emulator / [GitHub](https://github.com/ghostty-org/ghostty)

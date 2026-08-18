@@ -284,7 +284,7 @@
 * [256zw](https://www.256zw.org/) - Light-Novels
 * [Readfine](https://t.me/Readfine) - FanFiction / [Discussion](https://t.me/ReadfineChat) 
 * [shuge](https://www.shuge.org/) - Rare / Ancient Books
-* [Wikimedia Commons Books](https://commons.wikimedia.org/wiki/Category:Library_back_up_project) - Educational Books
+* [Wikimedia Commons Books](https://commons.wikimedia.org/wiki/Category:Library_back_up_project) or [Wikimore](https://git.private.coffee/privatecoffee/wikimore#instances) - Educational Books
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/) or [quanxue](https://www.quanxue.cn/) - Chinese Historic Text Archives
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [NG Tech](https://ng-tech.icu/) - Documents

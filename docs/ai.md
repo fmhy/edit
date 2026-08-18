@@ -44,7 +44,6 @@
 * ⭐ **[⁠Together.ai](https://chat.together.ai/)** - GLM 5.2 / Kimi K3 / DeepSeek V4 Pro / MiniMax-M3 / Multiple Models / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / Claude Sonnet 5 / Multiple Models / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [⁠Indic LLM Arena](https://arena.ai4bharat.org/#/chat) - GPT-5.5 / Gemini 3.6 Flash / (Battle Mode) / Multiple Models / Unlimited / [Discord](https://discord.com/invite/HqJXnJNDaq)
 * [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 (Reasoning) / DeepSeek V4 Pro / Minimax M3 / Multiple Models / No Sign-Up / Unlimited
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
