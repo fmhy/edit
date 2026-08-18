@@ -629,6 +629,7 @@
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
 * [Cool Fonts Online](https://coolfont.org/)
+* [CoolFonts](https://thecoolfont.com/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [Text-Generator](https://text-generator.app/)
