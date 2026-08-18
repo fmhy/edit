@@ -242,7 +242,8 @@
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
-* [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [Undertale Textbox Gen](https://www.demirramon.com/generators/undertale_text_box_generator) - ⁠Undertale / Deltarune Text Box Generators 
+* [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [Undertale Textbox Gen](https://www.demirramon.com/generators/undertale_text_box_generator) - ⁠Undertale / Deltarune Text Box Generators
+* [⁠Oneshot Textbox Generator](https://www.nikodev.xyz/textbox) - OneShot Text Box Generator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator

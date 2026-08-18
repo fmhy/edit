@@ -63,8 +63,10 @@
 * [BingeBang](https://bingebang.tv/) - Movies / TV / Anime / Auto-Next
 * [NomorFlix](https://nomorflix.cc/) or [DioStream](https://diostream.cc/) - Movies / TV / Anime / Auto-Next / [Status](https://nomorflix.com/)
 * [NOVA](https://novahd.cc/) - Movies / TV / Anime / Auto-Next
+* [NOVERA](https://novera.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/g7J4AmpRJg)
 * [NetPlay](https://netplayz.top/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/ScreenScapee)
+* [DULO](https://dulo.cx/) - Movies / TV / Anime / Auto-Next
 * [Surface Stream](https://watchsurface.stream/) - Movies / TV / Anime / Auto-Next
 * [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [Apexmovies](https://apexmovies.net/) - Movies / TV / Anime
@@ -107,6 +109,7 @@
 * ⭐ **[Bingr](https://bingr.one/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/Dxq6bFv4FP)
 * ⭐ **[CineStream](https://cinestream.kje.us/p)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/2cG7pyvq38)
 * ⭐ **[NEPU](https://nepu.to/)**, [2](https://nepu.io/), [3](https://nepu.net/), [4](https://nepu.app/), [5](https://nepu.is/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
+* ⭐ **[SceneLumen](https://scenelumen.com/)** - Movies / TV / Anime
 * [Streaming Unity](https://streamingunity.dog/) - Movies / TV / Anime
 * [VaultPlayer](https://vaultplayer.co.uk/) - Movies / TV / Anime
 * [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
@@ -566,7 +569,7 @@
 * [DamiTV](https://damitv.st/), [2](https://damitvsports.com/) or [90minutes](https://www.90minutes.pro/) - Stream Aggregator
 * [Tap4Sport](https://tap4sport.bz/), [2](https://tap4sport.nl/), [3](https://tap4sport.pw/), [4](https://tap4sport.ci/) - Stream Aggregator / [Status](http://tap4sport.link/) / [TG](https://t.me/+LWp6SUzrbVUwZjE0)
 * [⁠CMVTV](https://cmvstrm.lovable.app/), [2](https://cmv-tv.strms.workers.dev/) - Stream Aggregator / [Telegram](https://t.me/cricketmemesverse)
-* [DaddyLiveHD](https://daddylive.mov/) - Stream Aggregator / [Mirrors](https://daddylive.nl/) / [Telegram]( https://t.me/daddylive8) / [Discord](https://discord.gg/qc4jksxk7a)
+* [DaddyLiveHD](https://daddylive.mov/) - Stream Aggregator / [Mirrors](https://daddylive.at/) / [Telegram]( https://t.me/daddylive8) / [Discord](https://discord.gg/qc4jksxk7a)
 * [⁠Fantastic Soda](https://fantasticsoda.com/) - Stream Aggregator
 * [FSL](https://freestreams-live1a.pk/) - Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)
 * [⁠1Ball](https://1ball.pk/) - Stream Aggregator / [Discord](https://discord.gg/CG8NzyX2hU)

@@ -43,13 +43,12 @@
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
-* [Websites From Hell](https://websitesfromhell.net/) - Shitty Websites
+* [Websites From Hell](https://websitesfromhell.net/) - Sites with Questionable Designs
 
 ***
 
 ## ▷ Git Project Indexes
 
-* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
 * [Active GitHub Forks](https://techgaun.github.io/active-forks/) - Active Fork Index
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - Fork Repo Index
 * [OSS Insight](https://ossinsight.io/) - Project Index
@@ -60,6 +59,7 @@
 * [bestofjs](https://bestofjs.org/) - Project Index
 * [git.news](https://git.news/) - Project Index
 * [GitPlanet](https://gitplanet.com/) - Project Index
+* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
 
 ***
 

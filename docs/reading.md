@@ -986,6 +986,7 @@
 * [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
 * [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
 * [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
+* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations 
 * [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
 * [Mind Expanding Books](https://mindexpandingbooks.com) - Book Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community

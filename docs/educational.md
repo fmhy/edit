@@ -594,11 +594,11 @@
 
 # ► History
 
+* 🌐 **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
 * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historical_maps)** - Map Resources
-* ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
@@ -623,6 +623,7 @@
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
+* [⁠World War II Database](https://ww2db.com/) - WW2 History Database
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
 * [NHHC](https://www.history.navy.mil/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval History Sites
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
