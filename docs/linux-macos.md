@@ -308,7 +308,7 @@
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [⁠UMU](https://github.com/Open-Wine-Components/umu-launcher) - Run Non-Steam Games Through Proton
 * [Luxtorpeda](https://codeberg.org/luxtorpeda/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
-* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/ltsteamplugin) 
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools) 
 * [Accela](https://github.com/ciscosweater/enter-the-wired) - Steam Game + DLC Unlocker
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [⁠SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Steam Wrapper w/ Custom Launcher Options

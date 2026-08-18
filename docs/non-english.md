@@ -799,7 +799,6 @@
 
 * ⭐ **[Lendrive](https://lendrive.web.id/)** - Movies / Anime / Sub / Dub / 1080p / x265
 * [ngefilm](https://ngefilm.live/) - Movies / TV / Anime
-* [lk21official](https://tv6.lk21official.cc/) - Movies / TV / Anime / Region Locked
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
@@ -820,7 +819,6 @@
 
 * [Pustaka Langka](https://langka.logosid.app/) - Classic Books
 * [Komiku](https://komiku.id/) - Manga
-* [Komikcast](https://komikcast.com) - Manga
 * [maid.my](https://www.maid.my.id/) - Manga
 * [softkomik](https://softkomik.com/) - Manga
 * [sora-ich](https://sora-ich.vercel.app/) - Manga

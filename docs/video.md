@@ -549,7 +549,7 @@
 * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
 * ⭐ **[Streamed](https://streamed.pk/)**, [2](https://streamed.st/) / [Mirrors](https://strmd.link/) - Stream Aggregator / [Discord](https://discord.gg/KHC4xTYZgv)
 * ⭐ **[⁠StreamFree](https://streamfree.top/)** / [Mirrors](https://strmfree.link/) / [Discord](https://discord.gg/XkkAQ2PEDz)
-* ⭐ **[TimStreams](https://timstreams.st/)** - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
+* ⭐ **[TimStreams](https://timstreams.st/)**, [2](https://timst.cfd/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[SportsindX](https://sportsindx.st/)** or [WatchSports](https://watchsports.st/) - Stream Aggregator / [Discord](https://discord.gg/WGHrq6UzRb)
 * ⭐ **[StreamSports99](https://streamsports99.ru)** / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
 * ⭐ **[RoxieStreams](https://roxiestreams.su/)**, [2](https://roxiestreams.info/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.com/invite/JhkVmejRmn)

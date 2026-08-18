@@ -64,7 +64,7 @@
 
 ## ▷ Content Removers
 
-* ⭐ **[ObjectRemover](https://objectremover.com/)**, [Inpaint](https://theinpaint.com/) or [HAMA](https://www.hama.app/) - Object Removers
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, [wipe.photos](https://wipe.photos/), [Inpaint](https://theinpaint.com/) or [HAMA](https://www.hama.app/) - Object Removers
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
 * [Pixelcut](https://www.pixelcut.ai/) - Background Remover
 * [Change BG](https://www.change-bg.org/) - Background Remover
@@ -243,7 +243,7 @@
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
 * [iFake](https://ifaketextmessage.com/) - Fake Text Creator
 * [⁠UTDR SoupGen](https://github.com/SoupTaels/UTDR-SoupGen) or [Undertale Textbox Gen](https://www.demirramon.com/generators/undertale_text_box_generator) - ⁠Undertale / Deltarune Text Box Generators
-* [⁠Oneshot Textbox Generator](https://www.nikodev.xyz/textbox) - OneShot Text Box Generator
+* [⁠OneShot Textbox Generator](https://www.nikodev.xyz/textbox) - OneShot Text Box Generator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
 * [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
@@ -273,6 +273,7 @@
 * [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History
 * [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas
 * [SMPoster](https://www.smposter.com/) - Poster Designs
+* [⁠Annual Report Archive](https://annualreport.gallery/) - Vintage Corporate Annual Report Covers
 * [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
 * [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 

@@ -316,7 +316,7 @@
 * 🌐 **[Lua Providers](https://rentry.co/lua-providers)** - Steam Lua Provider Index
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
-* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** or [LuaTools](https://lua.tools/) / [GitHub](https://github.com/madoiscool/ltsteamplugin) - Steam Multi-Tools / Manifest Tools
+* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** or [LuaTools](https://lua.tools/) / [GitHub](https://github.com/madoiscool/LuaTools) - Steam Multi-Tools / Manifest Tools
 * [Steam Link](https://store.steampowered.com/remoteplay#anywhere) - Stream Steam Library to TV / Devices
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
@@ -366,7 +366,7 @@
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - Steam DLC / Family Unlocker
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
-* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/ltsteamplugin)
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
 * [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker

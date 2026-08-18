@@ -847,7 +847,7 @@
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
-* [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
+* [PandaBomber](https://pandabomber.gg/) or [Game Of Bombs](https://gameofbombs.com/) / [Discord](https://discord.gg/YFJCCxkdFZ) - Multiplayer Bomberman Style Games 
 * [Windage](https://windage.online/) or [Scorch2000](http://www.scorch2000.com/) - Multiplayer Artillery Battle Games / Scorched Earth Remakes
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Golf Party](https://golfparty.io/), [Mini Golf Club](https://minigolfclub.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini-Golf Games
