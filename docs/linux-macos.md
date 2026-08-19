@@ -530,7 +530,7 @@
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)**, **[Aylur's GTK Shell](https://github.com/Aylur/ags)** or [⁠Quickshell](https://quickshell.org/) - Widgeting Systems
 * ⭐ **[unixporn](https://unixporn.github.io/)** - Customization Community / [Subreddit](https://reddit.com/r/unixporn) / [Discord](https://discord.gg/unixporn) / [GitHub](https://github.com/unixporn)
 * [Fetch](https://asdesai.com/p/fetch/) - Custom 3D Rotating Distro Logo / [GitHub](https://github.com/areofyl/fetch)
-* [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
+* [dotfiles](https://dotfiles.github.io/) or [~/.config](https://dotfiles.lol/) - GitHub Dotfiles
 * [⁠Chezmoi](https://www.chezmoi.io/) - Dotfile Managers
 
 ***
