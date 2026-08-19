@@ -699,6 +699,7 @@
 * [EverySecond](https://everysecond.io/) - Visualize Per Second World Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [Databook](https://databook.dataint.net/en/) or [OpenFactBook](https://openfactbook.org/) - Country Profiles / World Factbook Alternatives
+* [Logibook](https://logibook.dataint.net/en) - Trade & Logistics Reference / HS Codes / Dangerous Goods / Ports / Airports
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) or [⁠CityPopulation](https://citypopulation.de/) - Location / Population Data
 * [City Data](https://www.city-data.com/) - US City Data
 * [Rulers.org](https://rulers.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
