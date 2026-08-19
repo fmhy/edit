@@ -36,30 +36,30 @@
 * ⭐ **[Yasosu](https://yaso.su/)** - Multi-Syntax / Markdown Support / Custom URLs / [Telegram](https://t.me/yaso_updates)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [Text.is](https://text.is/) - Markdown Support
-* [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
+* [Bpaste](https://bpa.st/), [2](https://bpaste.net/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
-* [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support
+* [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/borrougagnou/spectre-updated)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
 * [Paste](https://paste.boxlabs.uk/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/boxlabss/PASTE) 
 * [⁠Codepasta](https://codepasta.app/) - Multi-Syntax / Markdown Support
 * [lesma](https://lesma.eu/) - Multi-Syntax / [GitLab](https://gitlab.com/ogarcia/lesma)
-* [Pastee](https://pastee.dev/) - Multi-Syntax
+* [Pastee](https://pastee.dev/) - Multi-Syntax / [Discord](https://discord.com/invite/WQJ8z5G)
 * [pst.moe](https://pst.moe/) - Multi-Syntax
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax
 * [pastes.dev](https://pastes.dev/) - Multi-Syntax / [GitHub](https://github.com/lucko/paste)
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
-* [⁠Pastefy](https://pastefy.app/) - Multi-Syntax
+* [⁠Pastefy](https://pastefy.app/) - Multi-Syntax / [Discord](https://go.intera.dev/discord) / [GitHub](https://github.com/interaapps/pastefy) 
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pastemyst](https://paste.myst.rs/) - Multi-Syntax / [GitHub](https://github.com/codemyst/pastemyst)
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
-* [snippet.host](https://snippet.host/) - Multi-Syntax
+* [snippet.host](https://snippet.host/) - Multi-Syntax / [.onion](http://snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion/) / [Status](https://bit.ly/snippethoststatus) 
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Plain Text
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
-* [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting
+* [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
-* [itty.bitty](https://itty.bitty.site/) - Site / Pastebin
+* [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty) 
 * [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
@@ -136,14 +136,14 @@
 
 ***
 
-* ⭐ **[LanguageTool](https://languagetool.org/)** - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
+* ⭐ **[Harper](https://writewithharper.com/)** - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
-* [Harper](https://writewithharper.com/) - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
 * [DeepL Write](https://www.deepl.com/write) - Web App
 * [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Web App 
 * [Scribens](https://www.scribens.com/) - Web App
+* [LanguageTool](https://languagetool.org/) - Web App / [GitHub](https://github.com/languagetool-org/languagetool)
 * [EditGPT](https://www.editgpt.app/) - Web App / Requires Sign-Up
 * [ProWritingAid](https://prowritingaid.com/grammar-checker) - Web App / Requires Sign-Up
 * [Outwrite](https://www.outwrite.com/) - Web App / Requires Sign-Up

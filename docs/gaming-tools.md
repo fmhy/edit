@@ -658,7 +658,7 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://discord.gg/TtJM3ahtuM) / [Source Code](https://codeberg.org/OpenM/pages)
+* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://discord.com/invite/GHaKtJCvgp) / [Source Code](https://codeberg.org/OpenM/pages)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
 * 🌐 **[Skyblock Resources](https://hypixelskyblock.minecraft.wiki/w/Community_Resources:Useful_External_Resources)** / [Wiki](https://hypixelskyblock.minecraft.wiki/) or **[SkyblockRes](https://rentry.co/skyblockres)** - ⁠Hypixel Skyblock Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** / [Discord](https://discord.com/invite/fGdE5ZE), [Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png) or [Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png) - Minecraft Wiki & Cheatsheets
@@ -1034,7 +1034,7 @@
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods / [X](https://www.twitter.com/5mods) / [Discord](https://discord.gg/2PR7aMzD4U)
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods / [Discord](https://discord.gg/YR6nNMypzp)
 * 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods / [Discord](https://discord.com/invite/QKB39AXzDw)
-* ⭐ **[⁠GTA Wiki](https://gta.wiki/)** / [Discord](https://discord.gg/wG7MdySY8X) or [GTA Boss](https://www.gtaboss.gg/) - GTA Databases / Info Wikis
+* ⭐ **[⁠GTA Wiki](https://gta.wiki/)** / [Discord](https://discord.gg/wG7MdySY8X), [⁠GTA Base](https://www.gtabase.com/) or [GTA Boss](https://www.gtaboss.gg/) - GTA Databases / Info Wikis
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[Gillian's GTA](https://gillian-guide.github.io/)** - GTA IV Modding Guide / [Discord](https://discord.gg/zwmsQqExbQ) / [GitHub](https://github.com/gillian-guide/gillian-guide.github.io)
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr) / [GitHub](https://github.com/cleolibrary)

@@ -547,7 +547,7 @@
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
-* [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / DeepSeek V4 Flash 0731 / MiMo 2.5
+* [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / MiMo 2.5
 * [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
 * [⁠Pi](https://pi.dev/) - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
 * [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)

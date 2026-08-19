@@ -937,7 +937,7 @@
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
-* [Pixel Run](https://jimm144.github.io/pixel-run/) - 2D Pixel Runner / Platformer  / [itch](https://jimm144.itch.io/pixel-run) / [GitHub](https://github.com/Jimm144/pixel-run)
+* [Pixel Run](https://pixelrun.localplayer.dev/) - 2D Pixel Runner / Platformer / [Discord](https://discord.gg/QZKEVEuFbh) / [GitHub](https://github.com/Jimm144/pixel-run)
 * [⁠Pixel Quest RPG](https://thvariableyt.github.io/Pixel-Quest-Deluxe/) - 2D Platformer / [GitHub](https://github.com/ThVariableYT/Pixel-Quest-Deluxe)
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia
