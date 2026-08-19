@@ -76,7 +76,6 @@
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites
 * [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
 * [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
-* [Stumbleupon](https://stumbleupon.cc/) - Find Random Sites
 * [The Forest](https://theforest.link/) - Find Random Sites
 * [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
@@ -111,7 +110,6 @@
 ## ▷ Free Games
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Extension](https://augmentedsteam.com/) / [Discord](https://discord.com/invite/C3K4bBh)
-* [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -166,6 +164,7 @@
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
 * [⁠LocalHarvest](https://www.localharvest.org/), [⁠Local Picks](https://localpicks.org/) or [⁠USDA Local Food Portal](https://www.usdalocalfoodportal.com/) - Find Local Farms / Farmers' Markets / US Only
+* [⁠Local Picks](https://localpicks.org/) or [⁠USDA Local Food Portal](https://www.usdalocalfoodportal.com/) - Find Local Farms / Farmers' Markets / US Only
 * [⁠CheapFoodMap](https://cheapfoodmap.com/) - Find Cheap (Under $10 Meals) / US Only
 * [⁠Produce Converter](https://www.howmuchisin.com/produce_converters) - Produce Converter / Calculator
 * [DoesItGoBad.com](https://www.doesitgobad.com/) - Food Storage Tips
@@ -900,7 +899,6 @@
 * [LibreTexts Business](https://biz.libretexts.org/) - Business Learning / Guides
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [US Job Market Visualizer](https://karpathy.ai/jobs/) - US Job Market Statistics + Visualization / [GitHub](https://github.com/karpathy/jobs)
-* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -1382,7 +1380,6 @@
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
 * [Timer](https://klaster1.github.io/timer-5) - Time Tracker
-* [timebleed](https://timebleed.com/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [Pomatez](https://zidoro.github.io/pomatez/) - Time Tracker / Break Reminders
 * [BreakTimer](https://breaktimer.app/) - Break Reminders
@@ -1470,7 +1467,7 @@
 * [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
 * [⁠SWF Rodeo](https://swf.rodeo/) or [TheBest404](https://thebest404pageeverredux.com/) - Random SWFs
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
-* [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
+* [GigaMacro](https://viewer.gigamacro.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [TheOfficeStareMachine](http://theofficestaremachine.com/) - The Office Video Emotion Search
@@ -1577,7 +1574,6 @@
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
-* [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [2020 Game](https://2020game.io/) - Play Through 2020
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites / Horror Games
 * [Windows93](https://www.windows93.net/) - Windows 93 Emulator
@@ -1757,7 +1753,7 @@
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
-* [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Public Surveillance Webcams
+* [Insecam](http://www.insecam.org/en/) - Public Surveillance Webcams
 * [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG)
 * [snoweye](https://www.snoweye.com/) - Ski Resorts
 * [Airport Webcams](https://airportwebcams.net/) / [X](https://x.com/AirportWebcams)
@@ -1838,7 +1834,6 @@
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers
-* [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites
 * [PrankHotline](https://prankhotline.com/) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) or [Pranx](https://pranx.com/) - Windows Pranks

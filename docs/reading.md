@@ -199,7 +199,6 @@
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
 * [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
 * [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
-* [⁠Music and Books](https://musicsandbooks.org/) - Music Books
 * [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Booklet Library](https://bookletlibrary.org/) - Booklet Library
@@ -359,7 +358,7 @@
 * [Mapple](https://mapplee.com/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
 * [BookAudiobook](https://bookaudiobook.net/)
-* [CozyAudiobooks](https://cozyaudiobooks.com/category/) / Some NSFW
+* [CozyAudiobooks](https://cozyaudiobooks.com/) / Some NSFW
 * [Audiozaic](https://audiozaic.com/)
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
@@ -446,7 +445,7 @@
 * [Mangapill](https://mangapill.com/) / [Github](https://github.com/real-zephex/MangaThingy) (proxy)
 * [⁠MangaTaro](https://mangataro.org/) / [Discord](https://discord.gg/FKd8XVneCw)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
-* [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga), [3](https://rivestream.top/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [MangaTown](https://www.mangatown.com/)
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
@@ -504,7 +503,6 @@
 * [RadioShack Catalogs](https://www.radioshackcatalogs.com/) - RadioShack Catalog Archive
 * [HomePower](https://www.homepower.com/archive-browse) - Home Power Magazines
 * [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
-* [⁠Music and Books](https://musicsandbooks.org/) - Music Magazines
 
 ***
 
@@ -673,7 +671,6 @@
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
-* [Hacker News Books](https://hackernewsbooks.com/) - Books Mentioned on HN
 
 ***
 

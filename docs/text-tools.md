@@ -235,7 +235,6 @@
 * [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux
-* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/vnotex/vnote)
 * [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking / Android
 * [Quillpad](https://quillpad.github.io/) - Markdown Note-Taking / Android / [GitHub](https://github.com/quillpad/quillpad)
@@ -362,7 +361,7 @@
 
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
 * [⁠QSV](https://github.com/dathere/qsv) or [Xan](https://github.com/medialab/xan) - CSV CLI Toolkits
-* [⁠Proton Sheets](https://proton.me/drive/sheets) / [Discord](https://discord.com/invite/proton), [DOCX Editor](https://www.docx-editor.dev/editor) / [GitHub](https://github.com/eigenpal/docx-editor), [⁠dSheets](https://sheets.fileverse.io/) or [EditCSVOnline](https://editcsv.com/) - Online Spreadsheet Viewers / CSV Editors
+* [⁠Proton Sheets](https://proton.me/drive/sheets) / [Discord](https://discord.com/invite/proton), [DOCX Editor](https://www.docx-editor.dev/editor) / [GitHub](https://github.com/eigenpal/docx-editor) or [EditCSVOnline](https://editcsv.com/) - Online Spreadsheet Viewers / CSV Editors
 * [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Framacalc](https://framacalc.org/) or [EtherCalc](https://ethercalc.net/) / [GitHub](https://github.com/audreyt/ethercalc) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets

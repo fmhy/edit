@@ -332,7 +332,7 @@
 * [Tautulli](https://tautulli.com/) - Server Monitor / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tautulli-note.md)
 * [Kitana](https://github.com/pannal/Kitana) - Plugin Frontend
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own
-* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
+* [PlexDrive](https://github.com/plexdrive/plexdrive) or [mergerfs](https://docs.ultra.cc/rclone/rclone-vfs-and-mergerfs-setup) - Mount Google Drive
 * [SyncLounge](https://synclounge.tv/) - Media Sync
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)

@@ -325,7 +325,7 @@
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) or [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Managers
 * [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [⁠VSThemes Steam](https://vsthemes.org/en/steam/) - Custom Steam Profiles
-* [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
+* [SteamID](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games
 * [Steam API Check Bypass](https://gitlab.com/steamautocracks/Steam-API-Check-Bypass) - Steam API Check Bypass
@@ -615,7 +615,7 @@
 * [⁠r/PS2Homebrew](https://www.reddit.com/r/ps2homebrew/) - PS2 Homebrew Subreddit
 * [PSBBN Patch](https://rentry.co/FMHYB64#psbbn-definitive) - PSBBN Definitive Project
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
-* [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
+* [MemcardRex](https://archive.org/details/MemcardRex1.8) - PS1 Save Transfer Tools
 * [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive
 * [VitaDB](https://www.rinnegatamante.eu/vitadb) - PS Vita Homebrews
@@ -682,7 +682,7 @@
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Server Manager / Easy Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[CraftyControl](https://craftycontrol.com/)** / [GitLab](https://gitlab.com/crafty-controller/crafty-4), [MCSManager](https://mcsmanager.com/) / [GitHub](https://github.com/MCSManager/MCSManager), [Fork](https://www.fork.gg/) / [GitHub](https://github.com/ForkGG) or [SquidServers](https://squidservers.com/) / [Discord](https://discord.gg/Y8QtmK2exk) / [GitHub](https://github.com/squidservers) - Server Managers
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.com/invite/AXAbujx)
-* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)**, [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) or [setup.md](https://setup.md/) / [GitHub](https://github.com/setupmd/docs) - Server Optimization & Admin Guides
+* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization & Admin Guides
 * [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [GitHub](https://github.com/PaperMC/Paper), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [GitHub](https://github.com/PurpurMC/) or [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Performance Server Software / [Plugins](https://hangar.papermc.io/)
 * [e4mc](https://modrinth.com/mod/e4mc) or [e4mc Retro](https://modrinth.com/mod/e4mc-retro) - Local Server Multiplayer Mods
 * [GeyserMC](https://geysermc.org/) / [Discord](https://discord.com/invite/geysermc) / [GitHub](https://github.com/GeyserMC/Geyser) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) or [ViaVersion](https://viaversion.com/) / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion) - Server Cross-Play, Proxies & Tunnels
@@ -1060,7 +1060,7 @@
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads), [Doomshack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 

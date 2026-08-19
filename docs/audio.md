@@ -447,7 +447,6 @@
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) - FLAC
-* [⁠Music and Books](https://musicsandbooks.org/) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -598,7 +597,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks
 * ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/), [2](https://discord.gg/hfjBQXpXJq) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
-* [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
+* [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [⁠Adtunes](https://adtunes.com/) - Commercial / Trailer Media Soundtrack Community
 * [KDramaOST](https://kdramaost.com/en/) - KDrama Soundtracks
@@ -778,7 +777,6 @@
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
 * [Audion](https://audionplayer.com/) - Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
-* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, macOS, Linux / [GitHub](https://github.com/clangen/musikcube)
 * [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / macOS, Linux
 * [XMPlay](https://www.un4seen.com/xmplay.html) - Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers

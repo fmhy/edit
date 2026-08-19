@@ -1046,7 +1046,6 @@
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 * [AtSameIP](https://atsameip.com/) - Find Websites on the Same IP
-* [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
