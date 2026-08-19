@@ -532,6 +532,7 @@
 * [Fetch](https://asdesai.com/p/fetch/) - Custom 3D Rotating Distro Logo / [GitHub](https://github.com/areofyl/fetch)
 * [dotfiles](https://dotfiles.github.io/) or [~/.config](https://dotfiles.lol/) - GitHub Dotfiles
 * [⁠Chezmoi](https://www.chezmoi.io/) - Dotfile Managers
+* [⁠Qylock](https://github.com/Darkkal44/qylock) - Custom Lockscreen Themes for SDDM + Quickshell
 
 ***
 

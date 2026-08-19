@@ -426,11 +426,10 @@
 
 # ► French / Français
 
-* 🌐 **[⁠Tipiakeries](https://rentry.co/alpagang)** - French Piracy Mega
+* 🌐 **[⁠Tipiakeries](https://rentry.co/alpagang)** - French Piracy Mega / [Subreddit](https://www.reddit.com/r/FrancePirate/)
 * ⭐ **[Dealabs](https://www.dealabs.com/)** - Track Deals / Freebies
 * ⭐ **[⁠Mes Aides](https://mes-aides.1jeune1solution.beta.gouv.fr/)** - Student Financial Benefits Guide / Simulator
 * [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
-* [r/FrancePirate](https://www.reddit.com/r/FrancePirate/) - French Piracy Subreddit
 * [Tseret](https://tseret.com/) - Game Guides
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
@@ -609,6 +608,7 @@
 * [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Classic German Books
 * [Sagen](https://www.sagen.at/) - European Ethnology / Folklore
 * [deutschelyrik](https://www.deutschelyrik.de/) - Poetry
+* [⁠DWDS](https://www.dwds.de/) - Dictionary 
 
 ***
 
