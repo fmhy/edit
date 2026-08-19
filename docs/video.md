@@ -107,7 +107,7 @@
 
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
 * ⭐ **[Bingr](https://bingr.one/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/Dxq6bFv4FP)
-* ⭐ **[CineStream](https://cinestream.kje.us/p)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/2cG7pyvq38)
+* ⭐ **[CineStream](https://cinestream.kje.us/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/2cG7pyvq38)
 * ⭐ **[NEPU](https://nepu.to/)**, [2](https://nepu.io/), [3](https://nepu.net/), [4](https://nepu.app/), [5](https://nepu.is/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * [Streaming Unity](https://streamingunity.dog/) - Movies / TV / Anime
 * [VaultPlayer](https://vaultplayer.co.uk/) - Movies / TV / Anime
