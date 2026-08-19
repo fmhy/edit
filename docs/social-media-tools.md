@@ -231,7 +231,7 @@
 * 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
-* [FindAReddit](https://www.findareddit.com/) - Get Subreddit Suggestions / [Subreddit](https://www.reddit.com/r/findareddit/)
+* [r/findareddit](https://www.reddit.com/r/findareddit/) - Get Subreddit Suggestions
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit) - Subreddit Map
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
