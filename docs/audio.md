@@ -385,7 +385,7 @@
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
-* [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC
+* [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb
 * [EzConv](https://ezconv.cc/) - YouTube / 320kb

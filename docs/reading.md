@@ -553,7 +553,6 @@
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
 * [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
-* [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
 
 ***
