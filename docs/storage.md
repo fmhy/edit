@@ -99,6 +99,7 @@
 * [ClassicGameZone](https://classicgamezone.com/) - Retro Consoles / EmulatorJS
 * [retroplayonline](https://www.retroplayonline.com/) - Retro Consoles / EmulatorJS
 * [Pegasus Online](https://pegasus-online.pl/en/) - Retro Consoles / EmulatorJS
+* [EmulatorGamesZone](https://emulatorgameszone.com/) - Retro Consoles / EmulatorJS
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
