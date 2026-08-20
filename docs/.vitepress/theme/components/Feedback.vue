@@ -27,7 +27,7 @@ const prompts = [
   'Your feedback is valuable 💯',
   'So... what do you think?',
   "We're always looking for ways to improve!",
-  'Your feedback is valuable and helps us make FMHY better.',
+  'Your feedback is valuable and helps us make FMHY better.'
 ]
 
 function getPrompt() {
@@ -367,7 +367,8 @@ const resetFeedback = () => {
             <p>
               Please read the
               <a href="/other/contributing">contribution guide</a>
-              before submitting your feedback, and be sure to include a link if you want something added!
+              before submitting your feedback, and be sure to include a link if
+              you want something added!
             </p>
           </div>
           <div
@@ -408,7 +409,6 @@ const resetFeedback = () => {
             v-model="feedback.message"
             autofocus
             class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 b-rd-4 border-2 border-solid resize-none overflow-y-auto"
-
             placeholder="(e.g. What a lovely wiki!)"
             @input="handleInput"
           />
@@ -441,8 +441,9 @@ const resetFeedback = () => {
             Contact Info (Optional)
           </div>
           <p class="desc mb-3">
-            Add your Discord handle or email address if you would like a response, or if we need
-            more information from you, otherwise join our
+            Add your Discord handle or email address if you would like a
+            response, or if we need more information from you, otherwise join
+            our
             <a
               class="text-primary text-underline font-semibold"
               href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"

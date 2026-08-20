@@ -212,7 +212,7 @@
 # ► Android Device
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer-Specific Mobile Tools
-* ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+* ↪️ **[Phone Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_mobile_.2F_phones)**
 * ⭐ **[XDA](https://xdaforums.com/)** / [Discord](https://discord.com/invite/e4v8qtkcBw) - Android Discussion Forums
 * ⭐ **[ADB AppControl](https://adbappcontrol.com/en/)** / [WebUI](https://80bee.com/) / [GUI](https://aya.liriliri.io/), [2](https://github.com/Alex4SSB/ADB-Explorer) / [Telegram](https://t.me/AdbAppControl_En), **[scrcpy](https://github.com/Genymobile/scrcpy)** / [Mobile App](https://github.com/zwc456baby/ScrcpyForAndroid) / [Subreddit](https://www.reddit.com/r/scrcpy), **[PlainApp](https://docs.plain.icu/)** / [GitHub](https://github.com/plainhub/plain-app), [WebADB](https://app.webadb.com/), [QtScrcpy](https://github.com/barry-ran/QtScrcpy) or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers / Controllers
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API
@@ -419,11 +419,11 @@
 
 ## ▷ Image Galleries
 
-* ⭐ **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** or [Goodwy Gallery](https://github.com/Goodwy/Gallery) - Photo / Video Gallery
+* ⭐ **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** or [Right Gallery](https://github.com/Goodwy/Gallery) - Photo / Video Gallery
+* ⭐ **[ReFra](https://github.com/IacobIonut01/ReFra)** - Photo / Video Gallery
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
 * [⁠Photoo](https://github.com/xigua222/photoo/blob/main/README_EN.md) - Photo Organizer / Gallery
 * [De-Vanced](https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles) - Photo / Video Gallery / Unlimited / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools)
-* [ReFra](https://github.com/IacobIonut01/ReFra) - Photo / Video Gallery
 * [Google Gallery](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo) - Photo / Video Gallery
 * [Ente](https://ente.com/) - Photo / Video Gallery / 10GB Free / [GitHub](https://github.com/ente-io/ente)
 * [Photok](https://github.com/leonlatsch/Photok) - Photo / Video Gallery
@@ -447,6 +447,7 @@
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) / [2](https://github.com/PeterCxy/Shelter), [Island](https://github.com/oasisfeng/island) or [Insular](https://secure-system.gitlab.io/Insular/) / [GitLab](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps via Work Profiles
 * [Geto](https://github.com/JackEblan/Geto) - Custom App Settings / Requires Shizuku
+* [LSPatch](https://github.com/JingMatrix/LSPatch) - Non-root Xposed Framework / [Modules](https://modules.lsposed.org/)
 * [Catima](https://catima.app/) - Loyalty Card Managers
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) or [Quikshort](https://play.google.com/store/apps/details?id=com.atolphadev.quikshort) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) or [Action Notch](https://play.google.com/store/apps/details?id=com.androxus.touchthenotch) - Use Camera Notch as Button
@@ -473,7 +474,6 @@
 * [⁠OpenBubbles](https://openbubbles.app/) - Get Apple Services on Android
 * [⁠uTag](https://github.com/KieronQuinn/uTag) - Samsung Galaxy SmartTags on any Android Device
 * [GitNex](https://gitnex.com/) - Forgejo and Gitea Client for Android / [Source Code](https://codeberg.org/gitnex/GitNex/)
-* [LSPatch](https://github.com/JingMatrix/LSPatch) - Non-root Xposed Framework
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode
 * [AutoDND](https://github.com/dic1911/android_AutoDND/) - App-Activated Do Not Disturb Mode
@@ -748,7 +748,7 @@
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** / [Frontends](https://emulation.gametechwiki.com/index.php/Emulators_on_Android#Launcher_Frontends)
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux) / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Subreddit](https://www.reddit.com/r/termux) / [Telegram](https://telegram.me/termux24x7) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
-* [JoiPlay](https://joiplay.net/) - RPG Maker Game Interpreter & more
+* [JoiPlay](https://joiiplay.com/) - Game Interpreter for RPG Maker, Ren'Py, & Other Formats
 * [⁠Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) or [Limbo](https://github.com/limboemu/limbo) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [TermOne Plus](https://termoneplus.com/) - Terminal Emulator
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
@@ -772,10 +772,10 @@
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [MuMuPlayer](https://www.mumuplayer.com/) - Android Emulator
+* [NoxPlayer](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
+* [Genymotion](https://www.genymotion.com/download/) - Android Emulator
 * [MSI App Player](https://www.msi.com/Landing/appplayer) - Android Emulator / Debloated Bluestacks
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [Genymotion](https://www.genymotion.com/download/) - Android Emulator
-* [NoxPlayer](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
 * [GameLoop](https://www.gameloop.com/) - Android Emulator
 * [MEmu](https://www.memuplay.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 
@@ -931,7 +931,7 @@
 ***
 
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](h,ttps://morphe-patches.software/), [2](https://redd.it/1ta0bek), [3](https://awesome-morphe.vercel.app/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
-* ⭐ **[⁠ArchiveTune](https://archivetune.koiiverse.cloud/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/koiverse/ArchiveTune)
+* ⭐ **[⁠ArchiveTune](https://archivetune.koiiverse.cloud/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
@@ -995,10 +995,10 @@
 * ⭐ **[HDO Box](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Movies / TV / [Telegram](https://t.me/+Ywz5HnhvFHA3Zjk1) / [Discord](https://discord.gg/VPRJVExUVD) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hdo-box-note.md) 
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [CineHD](https://cinehd.dev/) - Movies / TV / Anime / Drama / Live TV
-* [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
+* [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
-* [Z-Stream](https://github.com/alturyxx-gif/ZStream-Android) - Movies / TV / Anime / P-Stream Fork
+* [Z-Stream](http://zstream.mov/apps) - Movies / TV / Anime / P-Stream Fork
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
 * [Syncler](https://syncler.net/) or [Syncler Beta](https://beta.syncler.net/) - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
@@ -1127,7 +1127,7 @@
 * [RoutineHub](https://routinehub.co/) - Shortcuts
 * [Color Widgets](https://apps.apple.com/app/id1531594277) or [WidgetSmith](https://apps.apple.com/app/id1523682319) - iOS Widgets
 * [Wikipedia](https://apps.apple.com/app/wikipedia/id324715238) - Wikipedia App
-* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [⁠SW-DLT](https://github.com/net00-1/SW-DLT) - YouTube Downloader
+* [Palladium](https://getpalladium.app/) / [GitHub](https://github.com/tfourj/Palladium), [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [⁠SW-DLT](https://github.com/net00-1/SW-DLT) - YouTube Downloader
 * [Keynote](https://apps.apple.com/app/id361285480) or [Google Slides](https://apps.apple.com/us/app/google-slides/id879478102) - Make Presentations
 * [WiFi Map](https://apps.apple.com/app/wifi-map-esim-internet-finder/id548925969) - Public WiFi Maps
 * [⁠Particle](https://particle.news/) - News Aggregation App
@@ -1340,7 +1340,6 @@
 # ► iOS Audio
 
 * ⭐ **[SpotC++](https://spotc.yodaluca.dev/)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
-* ⭐ **[⁠Octave](https://octavestreaming.com/)** - Streaming / Lossless / [Discord](https://discord.gg/f8PvWdyNFX)
 * ⭐ **[YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate)** - Modded YouTube Music / Ad-Free / [Discord](https://discord.gg/BhdUyCbgkZ)
 * ⭐ **[⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415)** - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/)
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)

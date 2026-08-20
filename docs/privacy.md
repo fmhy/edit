@@ -172,7 +172,7 @@
 * [⁠DataRequests](https://www.datarequests.org/) - GDPR Request Generator / Tools / [GitHub](https://github.com/datenanfragen)
 * [Surfer Protocol](https://github.com/Surfer-Org/Protocol) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)
 * [GnuPG](https://gnupg.org/) - Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/) / [Key Manager](https://github.com/orhun/gpg-tui)
-* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [One Time Secrets](https://ots.fyi/) / [GitHub](https://github.com/Luzifer/ots), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
+* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [One Time Secrets](https://ots.fyi/) / [GitHub](https://github.com/Luzifer/ots), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
 * [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
@@ -383,7 +383,7 @@
 * ⭐ **[4get](https://4get.ca/)** - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Degoog](https://github.com/degoog-org/degoog) - Metasearch / [GitHub](https://github.com/fccview/degoog)
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
-* [LibreY](https://search.davidovski.xyz/instances.php) - Metasearch / [GitHub](https://github.com/Ahwxorg/librey/)
+* [LibreY](https://github.com/Ahwxorg/librey/) - Metasearch
 * [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
 * [search!](https://search.tiago.zip/) - AI Free / Metasearch / [GitHub](https://github.com/tiagozip/metasearch)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
@@ -531,5 +531,4 @@
 * [Startpage](https://www.startpage.com/) - Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-translate-note.md)
 * [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
-* [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
 * [Knaben.info](https://knaben.info/) - Torrent Site Proxies

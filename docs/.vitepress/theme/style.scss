@@ -50,9 +50,17 @@ html {
   --vp-custom-block-danger-text: theme('colors.carnation.800');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
   /* Currently focused search highlight */
-  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
+  --vp-focus-highlight-bg: color-mix(
+    in srgb,
+    var(--vp-c-brand-soft) 87%,
+    black
+  );
   /* Scroll-to-match highlight */
-  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
+  --vp-scroll-match-bg: color-mix(
+    in srgb,
+    var(--vp-c-brand-soft) 46%,
+    transparent
+  );
 }
 
 .dark {
@@ -89,7 +97,11 @@ html {
   --vp-custom-block-danger-text: theme('colors.carnation.200');
   --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
   /* Currently focused search highlight */
-  --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, white);
+  --vp-focus-highlight-bg: color-mix(
+    in srgb,
+    var(--vp-c-brand-soft) 87%,
+    white
+  );
   /* Scroll-to-match highlight */
   --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
 }
@@ -411,7 +423,6 @@ html.june {
   background-color: currentColor;
   color: inherit;
 }
-
 
 /* Search result scroll-to-match highlight flash.
  * Uses outline + background instead of padding to avoid layout shift. */

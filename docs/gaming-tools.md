@@ -214,7 +214,7 @@
 
 ***
 
-* 🌐 **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
+* ↪️ **[Gaming Equipment Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_gaming_equipment)**
 * 🌐 **[Gamepadla](https://gamepadla.com/)** - Gamepad / Controller Latency Tests
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
 * ⭐ **[GamingSmart](https://gamingsmart.com/)**, [Sens Converter](https://kovaaks.com/kovaaks/sens-converter) or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
@@ -298,6 +298,7 @@
 * ⭐ **[AcclaimedVideoGames](https://www.acclaimedvideogames.com/)** or **[VideoGameCanon](https://www.videogamecanon.com/)** - Game Top 1000 List
 * ⭐ **[OpenCritic](https://opencritic.com/)** - Critic Game Reviews / Ratings
 * ⭐ **[SteamDB Ratings](https://steamdb.info/stats/gameratings/)** - Steam Ratings Chart
+* [⁠itchdb](https://itchdb.info/hot?window=7d) - itch.io Ratings Chart
 * [TasteDive](https://tastedive.com/games) or [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [⁠Nodal](https://nodal.gg/) - Game Recommendations
 * [⁠/V/'s Recommended Games Wiki](https://vsrecommendedgames.miraheze.org/) - Game Recommendations
@@ -316,7 +317,7 @@
 * 🌐 **[Lua Providers](https://rentry.co/lua-providers)** - Steam Lua Provider Index
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
-* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** - Steam Multi-Tool / Manifest Tool
+* ⭐ **[⁠SteaMidra](https://github.com/Midrags/SFF)** or [LuaTools](https://lua.tools/) / [GitHub](https://github.com/madoiscool/LuaTools) - Steam Multi-Tools / Manifest Tools
 * [Steam Link](https://store.steampowered.com/remoteplay#anywhere) - Stream Steam Library to TV / Devices
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
@@ -366,6 +367,7 @@
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Steam DLC Unlocker / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - Steam DLC / Family Unlocker
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
 * [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker
@@ -474,7 +476,7 @@
 
 * 🌐 **[FreeHosts](https://freehosts.eu/hosts?target=Gaming)** - Free Game Hosting Provider Index
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
-* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican-dev/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
+* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panel
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / Signup Required / [Discord](https://discord.gg/AXAbujx)
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
@@ -545,7 +547,7 @@
 * ⭐ **[r/SwitchPirates Wiki](https://www.reddit.com/r/SwitchPirates/wiki/index/)** or **[Switch Hacks Guide](https://switch.hacks.guide/)** (anti-piracy) - Homebrew Guides
 * ⭐ **[Homebrew App Store](https://hb-app.store/)** - Switch / Wii U Homebrew App Store / [BlueSky](https://bsky.app/profile/hb-app.store) / [Discord](https://discord.gg/F2PKpEj) / [GitHub](https://github.com/fortheusers/hb-appstore)
 * [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) or [r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
-* [LAN Play Status](http://www.lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
+* [⁠Nextendo Network](https://www.nextendo.network/) / [Discord](https://discord.gg/XPfeCMwnzQ) / [GitHub](https://github.com/NextendoNetwork), [LAN Play Status](http://www.lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Switch Multiplayer Servers
 * [FlagBrew](https://github.com/FlagBrew) - Switch Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [Switch Army Knife](https://www.gamebrew.org/wiki/Switch_Army_Knife) - Switch File Converter
@@ -588,7 +590,6 @@
 * [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
 * [r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://github.com/FlagBrew) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
-* [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
 * [TomodachiShare](https://tomodachishare.com/) - Tomodachi Life + Miitopia Mii Archive / Codes / [Discord](https://discord.gg/48cXBFKvWQ) / [GitHub](https://github.com/trafficlunar/tomodachi-share)
 
@@ -657,9 +658,9 @@
 
 # ► Minecraft Tools
 
-* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://discord.gg/TtJM3ahtuM) / [Source Code](https://codeberg.org/OpenM/pages)
+* 🌐 **[MCDOC](https://mcdoc.site/)** - Minecraft Tools & Unlockers / [Discord](https://discord.com/invite/GHaKtJCvgp) / [Source Code](https://codeberg.org/OpenM/pages)
 * 🌐 **[Awesome Minecraft](https://github.com/bs-community/awesome-minecraft)** - Minecraft Resources
-* 🌐 **[Skyblock Resources](https://hypixelskyblock.minecraft.wiki/w/Community_Resources:Useful_External_Resources)** - ⁠Hypixel Skyblock Resources / [Wiki](https://hypixelskyblock.minecraft.wiki/)
+* 🌐 **[Skyblock Resources](https://hypixelskyblock.minecraft.wiki/w/Community_Resources:Useful_External_Resources)** / [Wiki](https://hypixelskyblock.minecraft.wiki/) or **[SkyblockRes](https://rentry.co/skyblockres)** - ⁠Hypixel Skyblock Resources
 * ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** / [Discord](https://discord.com/invite/fGdE5ZE), [Villager Trading Cheatsheet](https://minecraft.wiki/images/Trading_and_Bartering_Guide_for_Minecraft_Java_Edition_1.17%2B.png) or [Minecraft Brewing Cheatsheet](https://minecraft.wiki/images/Minecraft_brewing_en.png) - Minecraft Wiki & Cheatsheets
 * [MC Utils](https://mcutils.com/) / [Discord](https://discord.com/invite/HvPARrr55x) - Web-Based Minecraft Toolkits
 * [DigMinecraft](https://www.digminecraft.com/) or [Birdflop](https://www.birdflop.com/resources/) / [GitHub](https://github.com/birdflop/web) - Minecraft Guides & Support
@@ -682,7 +683,7 @@
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Server Manager / Easy Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[CraftyControl](https://craftycontrol.com/)** / [GitLab](https://gitlab.com/crafty-controller/crafty-4), [MCSManager](https://mcsmanager.com/) / [GitHub](https://github.com/MCSManager/MCSManager), [Fork](https://www.fork.gg/) / [GitHub](https://github.com/ForkGG) or [SquidServers](https://squidservers.com/) / [Discord](https://discord.gg/Y8QtmK2exk) / [GitHub](https://github.com/squidservers) - Server Managers
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.com/invite/AXAbujx)
-* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)**, [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) or [setup.md](https://setup.md/) / [GitHub](https://github.com/setupmd/docs) - Server Optimization & Admin Guides
+* ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization & Admin Guides
 * [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [GitHub](https://github.com/PaperMC/Paper), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [GitHub](https://github.com/PurpurMC/) or [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Performance Server Software / [Plugins](https://hangar.papermc.io/)
 * [e4mc](https://modrinth.com/mod/e4mc) or [e4mc Retro](https://modrinth.com/mod/e4mc-retro) - Local Server Multiplayer Mods
 * [GeyserMC](https://geysermc.org/) / [Discord](https://discord.com/invite/geysermc) / [GitHub](https://github.com/GeyserMC/Geyser) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) or [ViaVersion](https://viaversion.com/) / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion) - Server Cross-Play, Proxies & Tunnels
@@ -1033,7 +1034,7 @@
 * 🌐 **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods / [X](https://www.twitter.com/5mods) / [Discord](https://discord.gg/2PR7aMzD4U)
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods / [Discord](https://discord.gg/YR6nNMypzp)
 * 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - GTA Mobile Mods / [Discord](https://discord.com/invite/QKB39AXzDw)
-* ⭐ **[⁠GTA Wiki](https://gta.wiki/)** / [Discord](https://discord.gg/wG7MdySY8X) or [GTA Boss](https://www.gtaboss.gg/) - GTA Databases / Info Wikis
+* ⭐ **[⁠GTA Wiki](https://gta.wiki/)** / [Discord](https://discord.gg/wG7MdySY8X), [⁠GTA Base](https://www.gtabase.com/) or [GTA Boss](https://www.gtaboss.gg/) - GTA Databases / Info Wikis
 * ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) or [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - Multiplayer GTA:SA
 * ⭐ **[Gillian's GTA](https://gillian-guide.github.io/)** - GTA IV Modding Guide / [Discord](https://discord.gg/zwmsQqExbQ) / [GitHub](https://github.com/gillian-guide/gillian-guide.github.io)
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr) / [GitHub](https://github.com/cleolibrary)
@@ -1060,7 +1061,7 @@
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
 * [Doom64 EX](https://doom64ex.wordpress.com/downloads/) - Doom 64 PC Port
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
-* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads), [Doomshack](https://doomshack.org/) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
+* [Doom WADs Indexes](https://rentry.co/FMHYB64#doom-wads) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 

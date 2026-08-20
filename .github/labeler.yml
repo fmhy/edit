@@ -1,13 +1,13 @@
 core:
   - changed-files:
       - any-glob-to-any-file:
-          - "docs/.vitepress/**"
-          - "pests-repellent/**"
-          - "scripts/**"
-          - "api/**"
-          - "*"
+          - 'docs/.vitepress/**'
+          - 'pests-repellent/**'
+          - 'scripts/**'
+          - 'api/**'
+          - '*'
 
 docs:
   - changed-files:
       - any-glob-to-any-file:
-          - "docs/**/*.md"
+          - 'docs/**/*.md'

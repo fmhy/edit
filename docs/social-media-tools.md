@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Disroot](https://disroot.org/en/#services)**, [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services/), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [Vern](https://vern.cc/eng/services), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
+* 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/) or [alternative-frontends](https://github.com/ParniDEO/alternative-front-ends-unofficial) - Frontend Indexes
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)** 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / Avoid Playstore / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -163,7 +163,7 @@
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends / Viewers
+* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) - Reddit Frontends / Viewers
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** or [Teamdoko Old Reddit](https://teamdoko.com/products/old-reddit-for-safari) - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -231,7 +231,7 @@
 * 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)** - Subreddits Index
 * ↪️ **[Multireddit Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ⭐ **[Vizit](https://redditstuff.github.io/sna/vizit/)**, [sayit](https://anvaka.github.io/sayit/) or [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/) - Visualize Related Subreddits
-* [FindAReddit](https://www.findareddit.com/) - Get Subreddit Suggestions / [Subreddit](https://www.reddit.com/r/findareddit/)
+* [r/findareddit](https://www.reddit.com/r/findareddit/) - Get Subreddit Suggestions
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) or [redsim](https://anvaka.github.io/redsim/) - Find Similar Subreddits
 * [Map of Reddit](https://anvaka.github.io/map-of-reddit) - Subreddit Map
 * [subreddits](https://subreddits.org/) - Find Random Subreddits
@@ -400,7 +400,7 @@
 * [Export YT Playlists](https://export-youtube-playlist.vercel.app/) - Export Playlists to Excel, CSV, Text or Bookmark HTML ⁠
 * [Playlist Randomizer](https://playlist-randomizer.com/) - YouTube Playlist Randomizer
 * [playlist.tools](https://playlist.tools/) - Reverse YouTube Playlists
-* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) / [2](https://ytplaylist-length.codingdeft.com/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
+* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) or [Length Checker](https://youtube-playlist-length-calculator.onrender.com/) - Playlist Length Checkers
 * [YouTubePlaylistMerge](https://rentry.org/YouTubePlaylistMerge) - Playlist Merge Guide
 * [⁠YouTube Auto-Pause Bypass](https://greasyfork.org/en/scripts/568818) - Prevents YouTube Playlist Auto-Pausing 
 
@@ -441,7 +441,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [IMG_0001](https://walzr.com/IMG_0001), [Farscroll](https://farscroll.vercel.app/), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
+* [IMG_0001](https://walzr.com/IMG_0001), [YTStalker](https://ytstalker.mov/), [Gloria o Devoto](https://gloriaodevoto.vercel.app/) or [Random Video](https://random-video.com/) - Find Random / Obscure YouTube Videos
 * [YouTube’s Recycle Bin](https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/) / [X](https://x.com/MingKasterMK/), [Project Random](https://0xbeef.co.uk/random), [ObscureTube](https://obscuretube.com/) or [petittube](https://petittube.com/fullscreen.php) - Find Videos with <100 Views
 
 ***
@@ -452,7 +452,6 @@
 * [Tubeup](https://github.com/bibanon/tubeup) - YouTube Video to IA Uploader
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver
-* [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos / [GitHub](https://github.com/ddd/tubevault)
 * [Filmot](https://filmot.com/unlistedSearch) or [Unlisted Videos](https://unlistedvideos.com/) - Search / Watch Unlisted YouTube Videos
 * [PreserveTube](https://preservetube.com/), [2](https://preservetube.net/), [3](https://preservetube.org/) or [Hobune](https://hobune.stream/) - YouTube Video Archives
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - Captures of Pages from YouTube (IA)
@@ -490,6 +489,7 @@
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
 * [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
 * [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
+* [⁠Twitch Logs](https://tv.supa.sh/logs) - Twitch Chat History / Logs
 * [Screenshot Twitch](https://github.com/eramdam/userscripts/blob/main/Screenshot%20Twitch.user.js) - Add Screenshot Button to Twitch
 * [⁠Stream Database](https://www.streamdatabase.com/) / [Discord](https://discord.com/invite/streamdatabase) or [⁠BadgeBase](https://badgebase.de/) - Twitch Badge + Emote Databases / Tracking
 * [Twitch Drops Miner](https://github.com/DevilXD/TwitchDropsMiner) - Auto Claim Twitch Drops
@@ -617,7 +617,7 @@
 
 # ► Instagram Tools
 
-* [KittyGram](https://kittygram.irelephant.net/), [2](https://kg.meowing.de) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram), [⁠InstaScope](https://insta-profile-viewer.pages.dev/) or [Imginn](https://imginn.com) - Instagram Frontends / Viewers
+* [KittyGram](https://kittygram.irelephant.net/), [2](https://kg.meowing.de) / [.onion](http://instab6cpzrbczpkrvjj3gutly5qx3o2xzpyhlmtwthtzjmjw4tppvad.onion/) / [Source Code](https://codeberg.org/irelephant/kittygram) or [Imginn](https://imginn.com) - Instagram Frontends / Viewers
 * [⁠ReelSave](https://reelsave.app/) - Instagram Video / Audio Downloader
 * [axinstagram](https://axinstagram.com/) / [GitHub](https://github.com/edideaur/axinstagram/) - Embed Fixer and Downloader
 * [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder

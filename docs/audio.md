@@ -30,7 +30,6 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - Browser Music / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
-* ⭐ **[⁠Octave](https://octavestreaming.com/)** - Browser Music / Lossless / [Discord](https://discord.gg/f8PvWdyNFX)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
@@ -224,8 +223,8 @@
 ## ▷ Internet Radio
 
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
-* ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * [Audiophile](https://audiophile.fm/) - Online Radio Directory
 * [You Radio](https://play.you.radio/) - Online Radio Directory
@@ -386,6 +385,7 @@
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
+* [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb
 * [EzConv](https://ezconv.cc/) - YouTube / 320kb
@@ -393,7 +393,7 @@
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb / AAC
 * [cobalt](https://cobalt.tools/) - SoundCloud / 128kb / MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * [squid.wtf](https://squid.wtf/) - KHInsider / JioSaavn / FLAC
-* [saavn-dl](https://saavn-dl.pages.dev) - JioSaavn / 320kb / [Discord](https://discord.gg/NcvrpP6bU3) / [GitHub](https://github.com/ODSkyler/saavn-dl)
+* [saavn-dl](https://saavn-dl.pages.dev) - JioSaavn / 320kb / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
 
 ***
 
@@ -447,7 +447,6 @@
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) - FLAC
-* [⁠Music and Books](https://musicsandbooks.org/) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
@@ -598,7 +597,7 @@
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks
 * ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/), [2](https://discord.gg/hfjBQXpXJq) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
-* [3ost](https://3ost.ru/) or [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
+* [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [⁠Adtunes](https://adtunes.com/) - Commercial / Trailer Media Soundtrack Community
 * [KDramaOST](https://kdramaost.com/en/) - KDrama Soundtracks
@@ -778,7 +777,7 @@
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Discord](https://discord.gg/WeY7DTVChT) / [Telegram](https://t.me/namida_official)
 * [Audion](https://audionplayer.com/) - Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
-* [MusikCube](https://musikcube.com/) - Terminal-Based / Windows, macOS, Linux / [GitHub](https://github.com/clangen/musikcube)
+* [MusikCube](https://github.com/clangen/musikcube) - Terminal-Based / Windows, macOS, Linux
 * [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / macOS, Linux
 * [XMPlay](https://www.un4seen.com/xmplay.html) - Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers
@@ -809,9 +808,7 @@
 * ⭐ **[Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced)** / [Web UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)**
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream Audio Between Devices / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Lyrion](https://lyrion.org/) / [Extensions](https://lyrion.org/extensions/applications/)
-* [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sound System Sync
 * [mStream](https://mstream.io/)
 * [Mopidy](https://mopidy.com/)
 * [Black Candy](https://github.com/blackcandy-org/blackcandy)

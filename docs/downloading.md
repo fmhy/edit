@@ -33,7 +33,7 @@
 ## ▷ FOSS Sites
 
 * 🌐 **[Awesome Open Source](https://awesomeopensource.com/)**, [⁠definitive-opensource](https://github.com/mustbeperfect/definitive-opensource), [Awesome Useful Projects](https://github.com/Furthir/awesome-useful-projects) or [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - FOSS Indexes
-* ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+* ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications / [GitHub](https://github.com/newreleasesio)
 * ⭐ **[Is It Really FOSS](https://isitreallyfoss.com)** - Determine if Software is FOSS / [Source Code](https://codeberg.org/danb/isitreallyfoss)
 * [SourceForge](https://sourceforge.net/) - FOSS Repositories
@@ -237,6 +237,7 @@
 # ► IRC Tools
 
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
+* 🌐 **[NetSplit](https://netsplit.de/)** - IRC Channel Index
 * 🌐 **[IRC Client Comparisons](https://wikipedia.org/wiki/Comparison_of_IRC_clients)**
 * [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), or [Halloy](https://github.com/squidowl/halloy) - IRC Clients / Windows, macOS, Linux

@@ -54,7 +54,7 @@
 * 🌐 **[Design Resources](https://rentry.co/dt92f)**
 * [⁠rentryresource](https://rentryresource.neocities.org/) - Free Site Design / Neocities Resources
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
@@ -152,7 +152,6 @@
 * [SSHKit](https://sshkit.com/)
 * [JagoanSSH](https://www.jagoanssh.com/)
 * [fastssh](https://www.fastssh.com/)
-* [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
 * [ProxyBot](https://t.me/vamproxy_bot) - Telegram Proxy Bot
@@ -166,7 +165,6 @@
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [Discord](https://discord.com/invite/hfGJ8jMp) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
-* [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [UDL](https://udl.pages.dev/) or [Demonlist](https://demonlist.org/) - Unrated Demons Lists
 * [IDL](https://insanedemonlist.com/) - Insane Demon List / [Discord](https://discord.com/invite/7JbFjRqSQ4)
 * [⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
@@ -175,18 +173,9 @@
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
+* [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
 * [Nine Circles Demonlist](https://ninecirclesdemonlist.com/) / [Doc](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)
-
-***
-
-## Git Projects
-
-* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
-* [Active GitHub Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
-* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
-
-[Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [git.news](https://git.news/), [GitPlanet](https://gitplanet.com/)
 
 ***
 
@@ -395,8 +384,6 @@
 * https://search.2b9t.xyz/
 * https://search.mdosch.de/
 * https://www.gruble.de/
-* https://searx.tuxcloud.net/
-* https://seek.fyi/
 
 ***
 
@@ -408,7 +395,7 @@
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**
 
-[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠7Sim](https://7sim.net/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Receive SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en), [PVAcodes](https://pvacodes.com/free-number), [Anosim](https://www.anosim.net/freenumbers)
+[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠7Sim](https://7sim.net/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Receive SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en), [PVAcodes](https://pvacodes.com/free-number), [Anosim](https://www.anosim.net/freenumbers)
 
 ***
 
@@ -483,4 +470,4 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert), [⁠Forasm Free Courses](https://m.forasm.com/courses/), [FreeCourseSites](https://freecoursesites.com/)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert), [FreeCourseSites](https://freecoursesites.com/)

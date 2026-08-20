@@ -11,6 +11,13 @@
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_guides_.2F_indexes)**
 * ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.com/invite/6qVr2aR)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
+* ⭐ **[privateersclub](https://privateers.wiki/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
+* ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
@@ -20,40 +27,63 @@
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
+* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
-* [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
-* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
-* [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
-* [The Hive Index](https://thehiveindex.com/) - Online Communities Index
+* [The National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive / [X](https://x.com/UKNatArchives)
 * [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
-* [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
-* [sourcehut](https://sr.ht/) - Public Project Index
+* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
+* [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
+* [Websites From Hell](https://websitesfromhell.net/) - Sites with Questionable Designs
 
 ***
 
-## ▷ Site / Tool Indexes
+## ▷ Git Project Indexes
 
-* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.com/invite/6qVr2aR)
-* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
-* ⭐ **[privateersclub](https://privateers.wiki/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
-* [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
-* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
-* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
+* [Active GitHub Forks](https://techgaun.github.io/active-forks/) - Active Fork Index
+* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - Fork Repo Index
+* [OSS Insight](https://ossinsight.io/) - Project Index
+* [sourcehut](https://sr.ht/) - Project Index
+* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - Project Index
+* [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps) - Project Index
+* [LibHunt](https://www.libhunt.com/) - Project Index
+* [bestofjs](https://bestofjs.org/) - Project Index
+* [git.news](https://git.news/) - Project Index
+* [GitPlanet](https://gitplanet.com/) - Project Index
+* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
+
+***
+
+## ▷ Random Sites / Discovery
+
+* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
+* ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
+* [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
+* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
+* [BoredButton](https://www.boredbutton.com/) - Find Random Sites
+* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
+* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
+* [JumpStick](https://jumpstick.app/) - Find Random Sites
+* [Trilzo](https://www.trilzo.com/) - Find Random Sites
+* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
+* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
+* [The Forest](https://theforest.link/) - Find Random Sites
+* [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
+* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
+* [Random-Website](https://random-website.com/) - Find Random Sites
+* [Wilderness Land](https://wilderness.land/) - Find Random Sites
+* [CloudHiker](https://cloudhiker.net/) - Find Random Sites
+* [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
+* [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 
 ***
 
@@ -80,7 +110,7 @@
 ## ▷ Free Games
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Extension](https://augmentedsteam.com/) / [Discord](https://discord.com/invite/C3K4bBh)
-* [FreeToGame](https://www.freetogame.com/games), [⁠TrendingNow](https://trendingnow.games/free) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
+* [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
 * [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
@@ -163,6 +193,7 @@
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [MyFridgeFood](https://myfridgefood.com/), [RecipeRadar](https://www.reciperadar.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
+* [⁠RecipeTables](https://recipetables.com/) - Convert Recipes to Prep Tables
 * [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
@@ -379,7 +410,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
@@ -868,7 +899,6 @@
 * [LibreTexts Business](https://biz.libretexts.org/) - Business Learning / Guides
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [US Job Market Visualizer](https://karpathy.ai/jobs/) - US Job Market Statistics + Visualization / [GitHub](https://github.com/karpathy/jobs)
-* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -1136,65 +1166,104 @@
 
 ***
 
-## ▷ Electronics
+## ▷ Electronics / Tech
+
+* ⭐ **[NanoReview](https://nanoreview.net/)** - Tech / Hardware Comparisons
+* ⭐ **[TechPowerup](https://www.techpowerup.com/)** - Tech / Hardware Comparisons
+* [RTINGS](https://www.rtings.com/) - Tech / Hardware Comparisons
+* [⁠LTT Labs](https://www.lttlabs.com/) - In-Depth Hardware / Tech Reviews
+* [TechGearLab](https://www.techgearlab.com/) - Tech / Hardware Comparisons
+* [ProductChart](https://www.productchart.com/) - Tech / Hardware Comparisons
+* [Octoparts](https://octopart.com/) - Tech / Hardware Comparisons
+* [Technical City](https://technical.city/) - Tech / Hardware Comparisons
+* [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
+* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers, Phones, Speakers, etc.
+* [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
+* [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
+* [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
+* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews
+* [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
+* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices
+* [⁠RackRat](https://rackrat.net/) - eBay Rackmount Server Prices / Comparisons
 
 ***
 
-## ▷ PC / Laptop Building
+## ▷ Mobile / Phones
+
+* ⭐ **[GSMArena](https://www.gsmarena.com/)** / [Guide](https://www.gsmarena.com/reviews.php3?sTag=Buyers+guide), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [⁠Antutu](https://www.antutu.com/en/ranking/rank1.htm) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
+* [Dumbphone Finder](https://joyful-bienenstitch-cb6242.netlify.app/) - Compare Dumbphones (Non-Smartphones) / Prices / [Quiz](https://joyful-bienenstitch-cb6242.netlify.app/quiz)
+* [Prepaid Compare](https://prepaidcompare.net/) - Compare Prepaid Phones / Prices 
+* [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
+* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
+
+***
+
+## ▷ Cameras
+
+* [Camera Decision](https://cameradecision.com/), [⁠DPReview](https://www.dpreview.com/products/compare/cameras) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
+* [⁠Camera Size](https://camerasize.com/compare/) - Camera Size Comparison Tool
+* [⁠PentaxForums Reviews](https://www.pentaxforums.com/reviews/all/) - Camera Gear Reviews
+
+***
+
+## ▷ PC Hardware / Building
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
-* ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [RTINGS](https://www.rtings.com/), [TechGearLab](https://www.techgearlab.com/), [ProductChart](https://www.productchart.com/), [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
-* ⭐ **[GSMArena](https://www.gsmarena.com/)** / [Guide](https://www.gsmarena.com/reviews.php3?sTag=Buyers+guide), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [⁠Antutu](https://www.antutu.com/en/ranking/rank1.htm) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
-* ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
-* ⭐ **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
 * [SuggestALaptop Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) - Laptop Suggestions / [Subreddit](https://www.reddit.com/r/SuggestALaptop/) / [Discord](https://discord.gg/pes68JM)
-* [Dumbphone Finder](https://joyful-bienenstitch-cb6242.netlify.app/) - Compare Dumbphones (Non-Smartphones) / Prices / [Quiz](https://joyful-bienenstitch-cb6242.netlify.app/quiz)
-* [Prepaid Compare](https://prepaidcompare.net/) - Compare Prepaid Phones / Prices 
-* [⁠LTT Labs](https://www.lttlabs.com/) - In-Depth Hardware / Tech Reviews
-* [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [⁠Mini PC Guide / Comparisons](https://docs.google.com/spreadsheets/d/1MSVzjTK5bubSo7_pltKbWausKWoVUYynNdouj4GlIdE)
 * [⁠MoboMaps](https://mobomaps.com/) - Motherboard Visualizations / Info
+* [⁠Cybenetics PSU Benchmarks](https://www.cybenetics.com/index.php?option=psu-performance-database) or [PSU Tier List](https://psutierlist.org/) / [Document](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) / [Discord](https://discord.gg/qkrJy3hDa8) - PSU Buying Guides / Benchmarks
 * [CPU Scout](https://www.cpuscout.com/) - eBay CPU Price Tracker
 * [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1ExFofRZOk9BP2-gp0jtMHPmnStkHlkG_3KmqQNgwyBc/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/), [⁠PricePerGig](https://pricepergig.com/), [List of Disks](https://www.listofdisks.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Trackers
 * [EveryMac](https://everymac.com/) - Mac Info Database
-* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
-* [⁠Cybenetics PSU Benchmarks](https://www.cybenetics.com/index.php?option=psu-performance-database) or [PSU Tier List](https://psutierlist.org/) / [Document](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) / [Discord](https://discord.gg/qkrJy3hDa8) - PSU Buying Guides / Benchmarks
+
+***
+
+## ▷ TV / Monitors
+
+* [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
 * [4K TV Guide](https://www.reddit.com/r/4kTV/comments/1scq3vi/20262027_buying_guides_faq/) - 4K TV Buying Guide
 * [⁠r/HTBuyingGuides](https://www.reddit.com/r/HTBuyingGuides/) - Home Theater Buying Guides
 * [Dolby Vision Stuff](https://docs.google.com/spreadsheets/d/15i0a84uiBtWiHZ5CXZZ7wygLFXwYOd84) - Dolby Vision (HDR) Playback Guide
-* [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
+
+***
+
+## ▷ Audio Equipment
+
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) or [⁠HiFiGuides Forum](https://forum.hifiguides.com/) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://consoomer-guide.pages.dev/) / [2](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
-* [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers, Phones, Speakers, etc.
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [⁠Audio Test Kitchen](https://www.audiotestkitchen.com/) - Compare Microphone Sounds
-* [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
-* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
-* [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
-* [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
-* [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
-* [⁠EmuReady](https://www.emuready.com/) - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
+
+***
+
+## ▷ Keyboards / Mice
+
+* ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
+* ⭐ **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
+* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
+* [Shwamper's Skate Tierlist](https://docs.google.com/spreadsheets/d/1EUffzKOidRJ1W3-I1ocRd7yE_QDqXL58rUTOyC5ZBj4) - Mouse Dot Skate Recommendations / [X](https://x.com/shwamper5)
+
+***
+
+## ▷ Gaming Equipment
+
 * [⁠RetroSizer](https://retrosizer.com/) - Compare Sizes of Handhelds
+* [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Game Emulation Compatibility / Info
-* [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
+* [⁠EmuReady](https://www.emuready.com/) - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
+* [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
-* [Camera Decision](https://cameradecision.com/), [⁠DPReview](https://www.dpreview.com/products/compare/cameras) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
-* [⁠Camera Size](https://camerasize.com/compare/) - Camera Size Comparison Tool
-* [⁠PentaxForums Reviews](https://www.pentaxforums.com/reviews/all/) - Camera Gear Reviews
-* [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews 
-* [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
-* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices
-* [⁠RackRat](https://rackrat.net/) - eBay Rackmount Server Prices / Comparisons
 
 ***
 
@@ -1353,7 +1422,6 @@
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
 * [Timer](https://klaster1.github.io/timer-5) - Time Tracker
-* [timebleed](https://timebleed.com/) - Time Tracker / Break Reminders
 * [wnr](https://getwnr.com/) - Time Tracker / Break Reminders
 * [Pomatez](https://zidoro.github.io/pomatez/) - Time Tracker / Break Reminders
 * [BreakTimer](https://breaktimer.app/) - Break Reminders
@@ -1394,6 +1462,7 @@
 
 * 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
+* 🌐 **[The Hive Index](https://thehiveindex.com/)** - Online Communities Index
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.com/invite/tqUtPA43Hy), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/) or [Macintosh Cafe](https://forum.agoraroad.com/) - General Forums
@@ -1440,7 +1509,7 @@
 * [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
 * [⁠SWF Rodeo](https://swf.rodeo/) or [TheBest404](https://thebest404pageeverredux.com/) - Random SWFs
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
-* [GigaMacro](https://viewer.gigamacro.com/) or [Gigapan](https://www.gigapan.com/) - Panoramic Photography
+* [GigaMacro](https://viewer.gigamacro.com/) - Panoramic Photography
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [TheOfficeStareMachine](http://theofficestaremachine.com/) - The Office Video Emotion Search
@@ -1547,7 +1616,6 @@
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
-* [There Is No Website](https://www.thereisnoweb.site/) - Browser Website Game
 * [2020 Game](https://2020game.io/) - Play Through 2020
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites / Horror Games
 * [Windows93](https://www.windows93.net/) - Windows 93 Emulator
@@ -1725,9 +1793,10 @@
 * [⁠TrafficVision](https://trafficvision.live/) - Live Traffic Cams
 * [Project ⁠Alveus Sanctuary](https://www.alveussanctuary.org/) - 24/7 Educational Wildlife Live Streams / Conservation Project
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
+* [⁠CCTV-World](https://www.cctv-world.kr/) - South Korea Live Cams
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
-* [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Public Surveillance Webcams
+* [Insecam](http://www.insecam.org/en/) - Public Surveillance Webcams
 * [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG)
 * [snoweye](https://www.snoweye.com/) - Ski Resorts
 * [Airport Webcams](https://airportwebcams.net/) / [X](https://x.com/AirportWebcams)
@@ -1737,12 +1806,8 @@
 
 ## ▷ Random
 
-* 🌐 **[Funny / Useless](https://rentry.org/aksry2vc)** - Funny / Useless Websites
-* 🌐 **[Websites From Hell](https://websitesfromhell.net/)** - Shitty Websites
-* 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
+* ↪️ **[Random Sites / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random_sites_.2F_discovery)**
 * ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
-* ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** - Fake News Articles
@@ -1779,23 +1844,6 @@
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
 * [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
-* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
-* [BoredButton](https://www.boredbutton.com/) - Find Random Sites
-* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
-* [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
-* [JumpStick](https://jumpstick.app/) - Find Random Sites
-* [Trilzo](https://www.trilzo.com/) - Find Random Sites
-* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
-* [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
-* [Stumbleupon](https://stumbleupon.cc/) - Find Random Sites
-* [The Forest](https://theforest.link/) - Find Random Sites
-* [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
-* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
-* [Random-Website](https://random-website.com/) - Find Random Sites
-* [Wilderness Land](https://wilderness.land/) - Find Random Sites
-* [CloudHiker](https://cloudhiker.net/) - Find Random Sites
-* [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
-* [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting

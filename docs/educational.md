@@ -273,7 +273,7 @@
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
 * [⁠Datasheet4U](https://datasheet4u.com/) - Electronic Components Datasheet
-* [Electronics Tutorials](https://www.electronics-tutorials.ws/) or [Instrumentacion](http://instrumentacion.qi.fcen.uba.ar/libro.html) - Electronic Guides
+* [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Electronic Guides
 * [⁠Hacker Fab](https://docs.hackerfab.org/) - Semiconductor Documentation / Research
 * [RetroSix](https://www.retrosix.wiki/) - Retro Console Repair Guides + Info / [Discord](https://discord.gg/D4Envqc5jr)
 * [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
@@ -359,7 +359,6 @@
 * [iNaturalist](https://www.inaturalist.org/) - Organism Identification
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
-* [Marine Biodiversity](https://marinebiodiversity.org.bd/) - Bangladesh Marine Species Encyclopedia
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [eBird](https://ebird.org/), [Audubon](https://www.audubon.org/) or [AllAboutBirds](https://www.allaboutbirds.org/) - Bird Species Databases / IDs
 * [⁠BirdLife DataZone](https://datazone.birdlife.org/) - Bird Conservation Information
@@ -420,7 +419,6 @@
 * [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
 * [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
-* [CRAM](https://www.cram.com/medical) - Medical Flashcards
 
 ***
 
@@ -594,11 +592,11 @@
 
 # ► History
 
+* 🌐 **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
 * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historical_maps)** - Map Resources
-* ↪️ **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
@@ -623,8 +621,9 @@
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
+* [⁠World War II Database](https://ww2db.com/) or [⁠HyperWar](https://www.ibiblio.org/hyperwar/) - WW2 History Databases
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
-* [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki (1880-1920) / [X](https://x.com/NavyHistorian)
+* [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval History Sites
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft 
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
@@ -745,7 +744,7 @@
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
-* [Vexle](https://vexle.org/) or [Vexle.net](https://vexle.net/) - Daily Flag Drawing Game
+* [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
 ***
 
@@ -979,7 +978,7 @@
 * [⁠Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
 * [WintrChess](https://wintrchess.com/), [2](https://chess.wintrcat.uk/) - Engine Analysis
 * [⁠Chess Analysis](https://chess-analysis.org/) - Engine Analysis / [Discord](https://discord.gg/hvrEXhX8qA)
-* [Pawn Appétit](https://pawnappetit.com/) - Engine Analysis / [GitHub](https://github.com/ChessKitchen/pawn-appetit)
+* [Pawn Appétit](https://github.com/ChessKitchen/pawn-appetit) - Engine Analysis
 * [Chesskit](https://chesskit.org/) - Engine Analysis / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit)
 * [YottaChess](https://www.yottachess.com/) - Professional Player Database
 * [⁠Chessigma](https://www.chessigma.com/) - Engine Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
@@ -1346,7 +1345,7 @@
 * ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
 * ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
-* [Beej's Guide to Git](https://beej.us/guide//) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
+* [Beej's Guide to Git](https://beej.us/guide/) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
@@ -1599,7 +1598,7 @@
 * [Skills for All](https://www.netacad.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
 * [⁠Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - Cybersecurity Learning Roadmap
 * [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
-* [Addielamarr](https://publish.obsidian.md/addielamarr/), [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
+* [Addielamarr](https://publish.obsidian.md/addielamarr/) or [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [⁠WeChall](https://www.wechall.net/) - Cybersecurity Practice Games + Rankings
 * [⁠BreachLab](https://breachlab.org/) - Learn Offensive Security
@@ -1680,7 +1679,7 @@
 * [Exam Downloader](https://rentry.co/FMHYB64#et-dl) - Exam Download Tool
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Pearson's AP Universe](https://drive.google.com/drive/folders/1kG84_tEPph4bEQqu2GnYx84xUzbdFGLw) - AP Exam Guides / Community / [Discord](https://discord.com/invite/sTanvkAZbN)
-* [CrackAP](https://www.crackap.com/) - Practice AP Exams
+* [CrackAP](https://www.crackap.com/) or [⁠AP FRQ Archive](https://apfrqs.com/) - Practice AP Exams
 * [r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
@@ -1734,6 +1733,7 @@
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [tldraw](https://www.tldraw.com/), [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
+* [Temp .edu Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail) - Temp .edu Email Addresses
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium365.com/viewer/) - Schematics Visualizer

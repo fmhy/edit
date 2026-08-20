@@ -188,7 +188,6 @@
 ## ▷ RSS Feed Generators
 
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/)** / [GitHub](https://github.com/RSS-Bridge/rss-bridge)
-* [MoRSS](https://morss.it/)
 * [RSSHub](https://docs.rsshub.app/) / [GitHub](https://github.com/DIYgod/RSSHub)
 * [RSS Finder](https://rss-finder.rook1e.com/) / [GitHub](https://github.com/0x2E/rss-finder)
 * [FetchRSS](https://fetchrss.com/)
@@ -210,7 +209,7 @@
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [OSINT Dorks](https://github.com/BushidoUK/OSINT-SearchOperators), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list), [Dork Genius](https://dorkgenius.com/) or [DorkSearch](https://www.dorksearch.com/) - Search Engine Dorking Tools
 * [Maigret](https://github.com/soxoj/maigret), [UserSearch](https://usersearch.com/) / [2](https://usersearch.org/), [Blackbird](https://github.com/p1ngul1n0/blackbird), [WhatsMyName](https://whatsmyname.app/), [Sherlock](https://github.com/sherlock-project/sherlock), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Tookie-OSINT](https://github.com/Alfredredbird/tookie-osint) or [Lullar](https://lullar-com-3.appspot.com/) - Username Search
 * [Soovle](https://www.seo.com/soovle/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
-* [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
+* [Spyfu](https://www.spyfu.com/) - Keyword Research Tool
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/) - Forum Search Engine
 * [Raw Web](https://rawweb.org/) or [Bloggernity](http://www.bloggernity.com/) - Blog Search
 * [VHSearch](https://vhs.neocities.org/) - Neocities Search Engine
@@ -348,6 +347,7 @@
 * ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [Github](https://github.com/bypass-vip)
 * ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser / [Discord](https://discord.gg/TctJ5vu6Va)
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=L) / [Discord](https://trw.lat/ds) / [Bookmarklet](https://rip.linkvertise.lol/clientside)
 * [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser / [Chrome](https://chromewebstore.google.com/detail/bypasskit-link-unlocker/aiddkahemeniiedmpfblodnmcjoelbjl) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bypasskit-link-unlocker/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/bypasskit-link-unlocker/jpdmlobalaahflgppobfnhbdobpfpoao)
 * [TimerHooker](https://timer.palerock.cn/en/) - Skip Timers on File Hosts / [Userscript](https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js)
@@ -373,7 +373,6 @@
 
 ## ▷ URL Shorteners
 
-* ⭐ **[spoo.me](https://spoo.me/)** - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
@@ -426,7 +425,7 @@
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [⁠Aster Mail](https://astermail.org/) or [⁠navi.land](https://navi.land/) - Number-Free Email Services
+* [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [⁠Aster Mail](https://astermail.org/) - Number-Free Email Services
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
@@ -487,7 +486,7 @@
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [⁠DropMail](https://dropmail.me/) - 17 Domains
 * [⁠Driftz Mail](https://driftz.net/) - 23 Domains
-* [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
+* [Spambox](https://spambox.xyz/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
 * [⁠UrTempMail](https://urtempmail.com/) - 1 Day / 1 Day / 4 Domains
