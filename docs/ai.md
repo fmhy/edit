@@ -45,7 +45,7 @@
 * [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / GLM-5.2 / Qwen3.8-2.4T / DeepSeek-V4-Pro / Unlimited 
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / Claude Sonnet 5 / Sign-Up (GitHub) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈2000 Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
+* [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈40K Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 (Reasoning) / DeepSeek V4 Pro / Minimax M3 / No Sign-Up / Unlimited
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [Cerebras Chat](https://chat.cerebras.ai/chat) - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up

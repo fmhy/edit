@@ -7,6 +7,7 @@
 # ► Video Tools
 
 * 🌐 **[Digital Video Intro](https://github.com/leandromoreira/digital_video_introduction)** - Digital Video Guides / Resources
+* ↪️ **[TV / Monitor Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tv_.2F_monitors)**
 * ↪️ **[YouTube Tools / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25BA_youtube_tools)**
 * ↪️ **[AI Video Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_video_generation)**
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam

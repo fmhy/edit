@@ -235,7 +235,7 @@
 * [Tolaria](https://tolaria.md/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/refactoringhq/tolaria)
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux
-* [vNote](https://app.vnote.fun/en_us/) - Markdown Note-Taking / Windows, macOS, Linux / [GitHub](https://github.com/vnotex/vnote)
+* [vNote](https://github.com/vnotex/vnote) - Markdown Note-Taking / Windows, macOS, Linux
 * [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking / Android
 * [Quillpad](https://quillpad.github.io/) - Markdown Note-Taking / Android / [GitHub](https://github.com/quillpad/quillpad)

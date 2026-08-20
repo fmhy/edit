@@ -218,7 +218,7 @@
 
 # ► Hardware Tools
 
-* ↪️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
+* ↪️ **[PC Hardware / Building](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_pc_hardware_.2F_building)**
 * ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** - Find Compatible Power Supplies
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [BES](https://mion.yosei.fi/BES/), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
@@ -286,6 +286,7 @@
 
 ## ▷ Monitor Tools
 
+* ↪️ **[Monitor Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_tv_.2F_monitors)**
 * ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb) or [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) - Auto-Adjust Display Color / Temperature
 * ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray) or [Dimmer](https://www.nelsonpires.com/software/dimmer) - Adjust Monitor Brightness
@@ -312,6 +313,7 @@
 
 ## ▷ Mouse / Keyboard
 
+* ↪️ **[Mouse / Keyboard Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_keyboards_.2F_mice)**
 * 🌐 **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - Mechanical Keyboard Resources
 * 🌐 **[⁠Keebfolio](https://keebfolio.netlify.app/)** - Mechanical Keyboard Project Index / [GitHub](https://github.com/Keycapsss/awesome-mechanical-keyboard)
 * ⭐ **[KeyCombiner](https://keycombiner.com/)** or [Use The Keyboard](https://usethekeyboard.com/) - Hotkey Cheatsheets
@@ -343,6 +345,7 @@
 
 ## ▷ System Audio
 
+* ↪️ **[Audio Equipment Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_audio_equipment)**
 * ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[AutoEQ](https://autoeq.app/)** or [⁠PEQdB](https://peqdb.com/) - Create Custom Equalizer Presets / [Discord](https://discord.gg/B7e8cM76PM)
 * ⭐ **[AudioRelay](https://audiorelay.net/)** / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sync Audio Input/Output between Devices

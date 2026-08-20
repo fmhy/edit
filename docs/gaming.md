@@ -222,7 +222,6 @@
 * [SRB2](https://www.srb2.org/) - Open-Source Sonic Fan Game / [Addons](https://mb.srb2.org/addons/) / [Discord](https://discord.com/invite/b3BGb8A) / [GitLab](https://git.do.srb2.org/STJr/SRB2)
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [Requires OpenRA](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
-* [SP Tarkov](https://www.sp-tarkov.com/) - Escape from Tarkov Single Player Mod / [GitHub](https://github.com/sp-tarkov)
 * [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - Open-Source Cave Story Remake
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civilization V Remake / [Discord](https://discord.gg/bjrB4Xw)
@@ -378,7 +377,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
-* [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
+* [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
@@ -541,7 +540,7 @@
 * ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
 * [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki
 * [Minesweeper Advent Calendar](https://heptaveegesimal.com/2018/advent-calendar/) - 60+ Versions of Minesweeper
-* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
+* [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
 * [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
 * [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
 
@@ -801,7 +800,7 @@
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Indie Games / Community Developed
 * ⭐ **[Armor Games](https://armorgames.com/)** - Indie Games / Official Publisher
 * ⭐ **[Nitrome](https://www.nitrome.com/)** - Indie Games / In-House Dev Team
-* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Indie Games / Community Developed / [Discord](https://discord.gg/qDaYeXPsRK)
+* ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Indie Games / Community Developed / [Game Charts](https://itchdb.info/) / [Discord](https://discord.gg/qDaYeXPsRK)
 * [Js13kGames](https://js13kgames.com/entries) - Indie Browser Game Competition
 * [Deepnight](https://deepnight.net/) - Indie Games / In-House Dev Team
 * [watabou](https://watabou.itch.io/), [2](https://watabou.github.io/) - Indie Games / In-House Dev Team

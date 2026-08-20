@@ -325,7 +325,6 @@
 * [manhuapi](http://www.manhuapi.cc/) - Manga
 * [36mh](https://www.36mh.org/) - Manga
 * [komiic](https://komiic.com/) - Manga
-* [happymh.com](https://happymh.com/) - Manga
 * [manben](https://www.manben.com/) - Manga
 * [manhuazhan](https://www.manhuazhan.com/) - Manga
 * [rumanhua](https://www.rumanhua.com/) - Manga
@@ -574,7 +573,6 @@
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
 * [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p
 * [Aether](https://aether.bar/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
-* [Movie4k](https://movie4k.sx/) - Movies / TV / Dub / 720p
 * [megakino3](https://megakino14.com/) - Movies / TV / Anime
 * [StreamCloud](https://streamcloud.my) - Movies / TV / 720p
 * [streamkiste.taxi](https://streamkiste.taxi/) - Movies / TV / Dub / 720p
@@ -627,7 +625,6 @@
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/qPcUxRH)
 * [GRecoTM Builds](https://grecotm.club/) - Kodi Builds / [Guide](<https://web.archive.org/web/20210925022803/https://en.iguru.gr/odigos-egkatastasis-ellinikou-build-sto-kodi/>) / [Discord](https://discord.com/invite/zVVfbDY)
 * [GreekTV](https://greektv.app/) - IPTV
-* [NetNix](https://netnix.tv/) - Live TV
 * [stokourbeti](https://stokourbeti.online/) - Live Sports
 * [greekdocumentaries2](https://greekdocumentaries2.blogspot.com/) - Documentaries
 * [Live24](https://live24.gr/) or [e-Radio](https://www.e-radio.gr/) - Radio
@@ -1160,7 +1157,6 @@
 * [Canal do Ensino](https://canaldoensino.com.br/blog/) - Courses
 * [Omie](https://academy.omie.com.br) - Courses
 * [MOOC GGTE](https://moocs.ggte.unicamp.br) - Courses
-* [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Veduca](https://veduca.org) - Courses
@@ -1191,7 +1187,6 @@
 
 * [Bússola Escolar](http://www.bussolaescolar.com.br) - Educational Search Engine
 * [Livros Narrados](https://livrosnarrados.blogspot.com) - Audiobooks
-* [Tudo de Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com) - Audiobooks
 * [Biblioteca Brasiliana](https://digital.bbm.usp.br/handle/bbm/1) - Books
 * [Baixe Livros](https://www.baixelivros.com.br) - Books
 * [eBooksBrasil](https://ebooksbrasil.org) - Books
@@ -1339,7 +1334,6 @@
 * [yummyanime](https://yummyanime.tv/) - Anime
 * [AniLabX](https://anilabx.xyz/) - Android Anime / Cartoons / Drama App
 * [RUkino](https://rukino.org/) - Russian Movies / TV / 1080p
-* [CCCP Film](https://cccp-film.ru/) - Soviet Movies / TV
 * [Soviet Movies Online](https://sovietmoviesonline.com/) - Soviet Movies / Sub
 * [Dokonlin](https://www.dokonlin.online/) - Documentaries / Dub / 1080p
 * [liveam](http://liveam.tv/) - TV
@@ -1635,7 +1629,6 @@
 ## ▷ Streaming
 
 * [SVT Play](https://www.svtplay.se/) - Movies / TV
-* [Filmarkivet](https://www.filmarkivet.se/) - Short Films
 * [Stockholmskallan](https://stockholmskallan.stockholm.se/sok/?cstids=6) - Public Domain Films
 
 ***
@@ -1675,7 +1668,6 @@
 * ⭐ **[AnimeciX](https://anm.cx/)** - Anime
 * [Dizilla](https://dizilla.to/), [2](https://selcukflix.co/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p
 * [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime
-* [ugurfilm3](https://ugurfilm3.xyz/) - Movies / TV / Anime / Requires VPN
 * [diziyo](https://diziyo.so/) - Movies / TV / Anime
 * [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p 
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
