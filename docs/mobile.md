@@ -419,7 +419,7 @@
 
 ## ▷ Image Galleries
 
-* ⭐ **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** or [Right Gallery](https://github.com/Goodwy/Gallery) - Photo / Video Gallery
+* ⭐ **[Right Gallery](https://github.com/Goodwy/Gallery)** or **[Fossify Gallery](https://github.com/FossifyOrg/Gallery)** - Photo / Video Gallery
 * ⭐ **[ReFra](https://github.com/IacobIonut01/ReFra)** - Photo / Video Gallery
 * ⭐ **[Aves](https://github.com/deckerst/aves)** - Photo / Video Gallery
 * [⁠Photoo](https://github.com/xigua222/photoo/blob/main/README_EN.md) - Photo Organizer / Gallery

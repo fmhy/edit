@@ -241,12 +241,12 @@
 * [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/TdQeMGz3A)
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
-* [Sejda](https://www.sejda.com/)
-* [ILovePDF](https://www.ilovepdf.com/)
-* [⁠PDFResizer](https://pdfresizer.com/)
-* [PDF2Go](https://www.pdf2go.com/)
-* [DPDF](https://dpdf.com/)
-* [Digiparser](https://www.digiparser.com/free-tools/pdf)
+* [Sejda](https://www.sejda.com/) - Server-Side
+* [ILovePDF](https://www.ilovepdf.com/) - Server-Side
+* [⁠PDFResizer](https://pdfresizer.com/) - Server-Side
+* [PDF2Go](https://www.pdf2go.com/) - Server-Side
+* [DPDF](https://dpdf.com/) - Server-Side
+* [Digiparser](https://www.digiparser.com/free-tools/pdf) - Server-Side
 
 ***
 
@@ -358,7 +358,6 @@
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
-* [⁠UploadHive](https://uploadhive.com/) - Unlimited / 50 Days After Last Download / **Use uBlock**
 * [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [⁠Stashr](https://stashr.wtf/) - 1GB / 30 Days After Last Download
