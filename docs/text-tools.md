@@ -38,6 +38,7 @@
 * [Text.is](https://text.is/) - Markdown Support
 * [Bpaste](https://bpa.st/), [2](https://bpaste.net/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
+* [Pastebin.com](https://pastebin.com/) - Multi-Syntax / [Proxy](https://pastebinp.com/)
 * [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/borrougagnou/spectre-updated)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
 * [Paste](https://paste.boxlabs.uk/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/boxlabss/PASTE) 
@@ -48,8 +49,7 @@
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax
 * [pastes.dev](https://pastes.dev/) - Multi-Syntax / [GitHub](https://github.com/lucko/paste)
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
-* [⁠Pastefy](https://pastefy.app/) - Multi-Syntax / [Discord](https://go.intera.dev/discord) / [GitHub](https://github.com/interaapps/pastefy) 
-* [Pastebin.com](https://pastebin.com/) - Multi-Syntax
+* [⁠Pastefy](https://pastefy.app/) - Multi-Syntax / [Discord](https://go.intera.dev/discord) / [GitHub](https://github.com/interaapps/pastefy)
 * [pastemyst](https://paste.myst.rs/) - Multi-Syntax / [GitHub](https://github.com/codemyst/pastemyst)
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax / [.onion](http://snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion/) / [Status](https://bit.ly/snippethoststatus) 
