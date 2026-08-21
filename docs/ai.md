@@ -34,7 +34,6 @@
 * [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam 105b / Unlimited / Sign-Up
 * [⁠Poolside AI](https://chat.poolside.ai/) - Laguna S 2.1 / Laguna XS 2.1
-* [⁠K2Think](https://www.k2think.ai/) - K2 Think V2
 * [⁠Inception](https://chat.inceptionlabs.ai/) - Mercury 2 (High) / Unlimited
 
 ***
@@ -43,13 +42,12 @@
 
 * ⭐ **[⁠Together.ai](https://chat.together.ai/)** - Kimi K3 / GLM-5.2 / Qwen3.8-2.4T / DeepSeek-V4-Pro-0813 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / GLM-5.3 / Qwen3.8-2.4T / DeepSeek-V4-Pro / Unlimited
-* [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / GPT 5.6 SOL / Kimi K3 / 50k Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / 
+* [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / GPT 5.6 Sol / Kimi K3 / 50k Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz) / 
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠ChatWave](https://chatwave.crunchflix.site/) - Fable 5 / Opus 5 / GPT 5.6 Sol
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 (Reasoning) / DeepSeek V4 Pro / Minimax M3 / No Sign-Up / Unlimited
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 397B A17B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
-* [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈40K Monthly / Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
-* [Cerebras Chat](https://chat.cerebras.ai/chat) - Gemma 4 31B / GLM 4.7 / gpt-oss-120b / Sign-Up
+* [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈40K Monthly / Sign-Up
 * [AI Assistant](https://aiassistantbot.pages.dev/) - DeepSeek v3.2 / Glm 4.7 / No Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)
 
@@ -72,7 +70,7 @@
 * [⁠Sci-Bot](https://sci-bot.ru/) - Sci-Hub Research Chatbot 
 * [SciSpace](https://scispace.com/) - Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)
 * [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
-* [⁠Sakana Chat](https://new2.moviesdrive.christmas/) - Research Chatbot
+* [⁠Sakana Chat](https://chat.sakana.ai/) - Research Chatbot
 * [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
 * [PrivateGPT](https://privategpt.dev/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
 * [Onyx](https://www.onyx.app/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
