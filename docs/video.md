@@ -357,7 +357,7 @@
 * [MyAnime](https://myanime.live/) - Donghua / Sub
 * [AnimeKhor](https://animekhor.org/) - Donghua / Sub / [Telegram](https://t.me/AnimeKhorOfficial)
 * [Crimson Subs](https://crimsonfansubs.com/) - Donghua / Sub / [Discord](https://discord.gg/PmYn97vtue)
-
+* [AnimeSuge](https://animesuge.ing/) - AnimeSuge - Watch Subbed and Dubbed Anime Online.
 ***
 
 ## ▷ Cartoon Streaming
