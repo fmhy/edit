@@ -141,13 +141,13 @@
 
 * ⭐ **[1Shows](https://www.1shows.org/)**, [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-one) / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * ⭐ **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) or [NoirX](https://noirx.me/), [2](https://noirx.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
+* ⭐ **[AniCine](https://anicine.xyz/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/2GYMjGuh3)
 * ⭐ **[7Movies](https://7movies.in/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
-* ⭐ **[AuroraScreen](https://aurorascreen.pages.dev/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPUWwAQCzk)
-* ⭐ **[AniCine](https://anicine.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/2GYMjGuh3)
 * ⭐ **[ZetMoon](https://zetmoon.live/)** - Movies / TV / Anime
 * ⭐ **[Primeshows](https://www.primeshows.org/)**, [NetShows](https://netshows.xyz/) or [Youshows](https://youshows.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/t2PnzRgKeM)
 * ⭐ **[Anixtv](https://anixx.fun/)**, [2](https://anixtv.us.cc/), [3](https://anixtv.in/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/AGsGU5KUYy)
 * ⭐ **[HydraHD](https://hydrahd.ws/)**, [2](https://hydrahd.com/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
+* ⭐ **[AuroraScreen](https://aurorascreen.pages.dev/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPUWwAQCzk)
 * ⭐ **[Fireflix](https://fireflix.pages.dev/)** - Movies / TV / Anime / Auto-Next
 * [Vidbox](https://vidbox.vc/), [2](https://cinehd.app/), [3](https://hotflix.to/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.website/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Streamr](https://streamr.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/tYFjXqx6Wf)
@@ -197,6 +197,7 @@
 * [Movies To Watch](https://www.moviestowatch.top/) - Movies / TV / Anime
 * [StreameX](https://streamex.sh/), [2](https://streamex.ws/) - Movies / TV / Anime
 * [Zerostream](https://zerostream.alwaysdata.net/) - Movies / TV / Anime
+* [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [FishyStream](https://master.fishystream-app.pages.dev/) - Movies / TV / Anime / [GitHub](https://github.com/FishyServices/FishyStream)
 * [Snowstream](https://snowstream.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/fXBhvRzFKY) / [Telegram](https://t.me/snowstreamchat)
 * [StreamGoblin](https://streamgoblin.com/) - Movies / TV / Anime
@@ -567,7 +568,7 @@
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.pl/) - Stream Aggregator / [Status](https://strumyk.domains/)
 * [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/) - Stream Aggregator
 * [Tap4Sport](https://tap4sport.bz/), [2](https://tap4sport.nl/), [3](https://tap4sport.pw/), [4](https://tap4sport.ci/) - Stream Aggregator / [Status](http://tap4sport.link/) / [TG](https://t.me/+LWp6SUzrbVUwZjE0)
-* [⁠CMVTV](https://cmvstrm.lovable.app/), [2](https://cmv-tv.strms.workers.dev/) - Stream Aggregator / [Telegram](https://t.me/cricketmemesverse)
+* [⁠CMVTV](https://cmvstrm.lovable.app/) - Stream Aggregator / [Telegram](https://t.me/cricketmemesverse)
 * [DaddyLiveHD](https://daddylive.mov/) - Stream Aggregator / [Mirrors](https://daddylive.at/) / [Telegram]( https://t.me/daddylive8) / [Discord](https://discord.gg/qc4jksxk7a)
 * [⁠Fantastic Soda](https://fantasticsoda.com/) - Stream Aggregator
 * [FSL](https://freestreams-live1a.pk/) - Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)
@@ -1047,7 +1048,7 @@
 * ⭐ **[They Shoot Pictures](https://www.theyshootpictures.com/)** - Movie Top 1000 List
 * ⭐ **[MDBList](https://mdblist.com/)** or [FlickMetrix](https://flickmetrix.com/) - Combine IMDb, Metacritic & Letterboxd Ratings
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
-* ⭐ **[The Criterion Closet](https://thecriterioncloset.com/)** - Curated World Cinema / 3D Criterion Collection / [Popular Picks](https://rentry.co/cc40)
+* ⭐ **[The Criterion Closet](https://thecriterioncloset.com/)** - Curated World Cinema / 3D Criterion Collection / [Popular Picks](https://closet-picks.com/)
 * ⭐ **[Series Graph](https://seriesgraph.com/)**, [Ratings Graph](https://www.ratingraph.com/), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode / Movie Rating Graphs
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Movie / TV / Anime Recommendation Directory
 * [listal](https://www.listal.com/) - Movies / TV

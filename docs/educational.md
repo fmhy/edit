@@ -1188,7 +1188,7 @@
 ## ▷ Chinese
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
-* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
+* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Heavenly Path](https://heavenlypath.notion.site/) / [Discord](https://discord.gg/chinesejourney), [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning Apps
@@ -1731,7 +1731,7 @@
 * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
-* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [tldraw](https://www.tldraw.com/), [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/en)**, [tldraw](https://www.tldraw.com/), [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Temp .edu Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail) - Temp .edu Email Addresses
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension

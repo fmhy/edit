@@ -733,7 +733,6 @@
 * ⭐ **[PirateXPlay](http://piratexplay.cc/)** - Cartoons / Anime / [Mirrors](https://piratexplay.com/)
 * ⭐ **[ToonStream](https://toonstream.vip/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[⁠Animelok](https://animelok.online/)** - Anime / Cartoons / 1080p / Auto-Next / [Mirrors](https://animelok.to/) / [Telegram](https://t.me/animerulz_xyz) / [Discord](https://discord.gg/32taxtj5BC)
-* ⭐ **[Anime World India](https://watchanimeworld.net/)**, [2](https://animesalt.top/) - Anime
 * ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
 * [TamilMV](https://www.1tamilmv.observer/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p / VPN Required

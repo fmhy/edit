@@ -324,7 +324,7 @@
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [No-Intro](https://no-intro.org/) - Cartridge (etc) Hash Database / [Discord](https://discord.gg/dvk6W6vZmp)
 * [Redump](https://redump.info/) - Disc Hash Database
-* [Dats.site](https://dats.site/home.php) - Scene Release Hash Database
+* [Dats.site](https://dats.site/) - Scene Release Hash Database
 * [r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Wiki](https://www.reddit.com/r/Roms/wiki/) / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
 

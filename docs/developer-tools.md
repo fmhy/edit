@@ -282,6 +282,7 @@
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [⁠Resend](https://resend.com/) - Email API
 * [Meilisearch](https://www.meilisearch.com/) - Open-Source Site Search Engine / [GitHub](https://github.com/meilisearch/meilisearch)
+* [Secrets To AI](https://discord.com/invite/mMyN7dYdCJ) - AI API Gateway
 * [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) or [9Router](https://9router.com/) - Self-Hosted AI API Routers / Proxies for Developers 
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -1202,6 +1203,7 @@
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/), [⁠Better Auth](https://better-auth.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
+* [⁠crt.name](https://crt.name/) - Passive Subdomain Index / Search
 * [SupaBase](https://supabase.com/) - Database / Authentication Service
 * [⁠GNUnet](https://www.gnunet.org/en/) - Decentralized P2P Framework
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing

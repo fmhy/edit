@@ -201,7 +201,7 @@
 ## ▷ Telegram Clients
 
 * ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
-* ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram), [⁠NagramX](https://t.me/NagramX) / [GitHub](https://github.com/risin42/NagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
+* ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
 * [Octogram](https://octogramapp.github.io/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
 * [Nullgram](https://github.com/qwq233/Nullgram/) - Basic Client

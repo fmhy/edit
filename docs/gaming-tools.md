@@ -512,7 +512,6 @@
 * [⁠FlashPrivateServer](https://github.com/GlennnM/FlashPrivateServer) - Ninja Kiwi Server Revivals for Multiple Games 
 * [KOCity](https://kocity.xyz/) - Knockout City Multiplayer Revival / [Discord](https://discord.gg/4kNPb4cRxN) / [GitHub](https://github.com/kocxyz/Launcher)
 * [Elemental Fracture](https://elefrac.com/) - Spellbreak Community Revival / [Discord](https://dsc.gg/elefrac)
-* [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [Toontown Rewritten](https://www.toontownrewritten.com/) or [Corporate Clash](https://corporateclash.net/) - Toontown Multiplayer Revivals
 * [Mega Man 8-Bit Deathmatch](https://mm8bdm.net/) - Fan-Made Multiplayer Mega Man FPS / [Discord](https://mm8bdm.net/discord)
 * [⁠Moshi Monsters Online](https://moshionline.net/) - Moshi Monsters Revival / [Codes](https://moshionline.net/codes/) / [Discord](https://discord.com/invite/5Nwz9Xmjkc)

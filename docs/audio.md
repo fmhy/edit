@@ -224,9 +224,9 @@
 
 ## ▷ Internet Radio
 
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * [Audiophile](https://audiophile.fm/) - Online Radio Directory
 * [You Radio](https://play.you.radio/) - Online Radio Directory
