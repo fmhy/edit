@@ -117,10 +117,11 @@
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
-* [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Livesets
-* [MixesDB](https://www.mixesdb.com/) - DJ Livesets
-* [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Streaming
-* [⁠TestPressing](https://www.testpressing.org/) - Rare DJ Mixes / Streaming
+* [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
+* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets
+* [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
+* [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
+* [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
