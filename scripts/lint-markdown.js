@@ -3,25 +3,34 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const DOCS_DIR = path.resolve(__dirname, '../docs')
+const PROJECT_ROOT = path.resolve(__dirname, '..')
+const DOCS_DIR = path.join(PROJECT_ROOT, 'docs')
 
-// Non-recursive scan of DOCS_DIR
-function getDocsFiles(dir) {
-  const files = fs.readdirSync(dir)
-  const mdFiles = []
-  files.forEach((file) => {
-    const filePath = path.join(dir, file)
-    const stat = fs.statSync(filePath)
-    if (!stat.isDirectory() && file.endsWith('.md')) {
-      mdFiles.push(filePath)
-    }
-  })
-  return mdFiles
+function getMarkdownFiles(target) {
+  let stat
+  try {
+    stat = fs.statSync(target)
+  } catch {
+    return []
+  }
+
+  if (stat.isFile()) return target.endsWith('.md') ? [target] : []
+  if (!stat.isDirectory()) return []
+
+  return fs
+    .readdirSync(target, { withFileTypes: true })
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .flatMap((entry) => getMarkdownFiles(path.join(target, entry.name)))
 }
 
 const args = process.argv.slice(2)
 const files =
-  args.length > 0 ? args.map((f) => path.resolve(f)) : getDocsFiles(DOCS_DIR)
+  args.length > 0
+    ? args.flatMap((target) => getMarkdownFiles(path.resolve(target)))
+    : [
+        ...getMarkdownFiles(DOCS_DIR),
+        path.join(PROJECT_ROOT, '.github/CONTRIBUTING.md')
+      ]
 let hasErrors = false
 
 // Only emit ANSI colors when writing to an interactive terminal
@@ -29,6 +38,71 @@ const useColor =
   !process.env.NO_COLOR &&
   (Boolean(process.env.FORCE_COLOR) || Boolean(process.stdout.isTTY))
 const color = (code, text) => (useColor ? `\x1b[${code}m${text}\x1b[0m` : text)
+const INVISIBLE_CHARACTERS = /[\u200B-\u200D\uFEFF\u2060]/g
+const LABEL_REDIRECT_EXCEPTIONS = {
+  discord: new Set(['https://trw.lat/ds'])
+}
+
+function stripInvisibleCharacters(text) {
+  return text.replace(INVISIBLE_CHARACTERS, '')
+}
+
+function normalizeText(text) {
+  return stripInvisibleCharacters(text).trim().toLowerCase()
+}
+
+function normalizePrimaryUrl(rawUrl) {
+  try {
+    const url = new URL(rawUrl)
+    for (const key of [...url.searchParams.keys()]) {
+      if (/^utm_/i.test(key)) url.searchParams.delete(key)
+    }
+    url.searchParams.sort()
+    if (url.pathname !== '/') url.pathname = url.pathname.replace(/\/+$/, '')
+    return url.toString()
+  } catch {
+    return rawUrl
+  }
+}
+
+function localTargetExists(sourceFile, rawTarget) {
+  let target = rawTarget.trim().replace(/^<|>$/g, '')
+  if (
+    !target ||
+    target.startsWith('#') ||
+    target.startsWith('//') ||
+    /^[a-z][a-z\d+.-]*:/i.test(target) ||
+    /[{}:]/.test(target)
+  ) {
+    return true
+  }
+
+  target = target.split('#', 1)[0].split('?', 1)[0]
+  try {
+    target = decodeURIComponent(target)
+  } catch {
+    return true
+  }
+
+  const isRootRelative = target.startsWith('/')
+  const basePath = isRootRelative
+    ? path.join(DOCS_DIR, target.replace(/^\/+/, ''))
+    : path.resolve(path.dirname(sourceFile), target)
+  const candidates = [basePath]
+  const extension = path.extname(basePath)
+
+  if (!extension) {
+    candidates.push(`${basePath}.md`, path.join(basePath, 'index.md'))
+  } else if (extension === '.html') {
+    candidates.push(basePath.slice(0, -5) + '.md')
+  }
+
+  if (isRootRelative) {
+    candidates.push(path.join(DOCS_DIR, 'public', target.replace(/^\/+/, '')))
+  }
+
+  return candidates.some((candidate) => fs.existsSync(candidate))
+}
 
 console.log('🔍 Scanning markdown files for formatting issues...\n')
 
@@ -44,7 +118,7 @@ files.forEach((file) => {
 
   const content = fs.readFileSync(file, 'utf-8')
   const lines = content.split('\n')
-  const relativePath = path.relative(process.cwd(), file)
+  const relativePath = path.relative(PROJECT_ROOT, file)
   const normalizedPath = relativePath.replace(/\\/g, '/')
 
   // Files to completely ignore from all checks
@@ -58,7 +132,12 @@ files.forEach((file) => {
   ]
 
   // Folders to completely ignore from all checks (any depth beneath them)
-  const FOLDERS_TO_IGNORE = ['docs/posts/', 'docs/other/', 'docs/public/']
+  const FOLDERS_TO_IGNORE = [
+    'docs/.vitepress/dist/',
+    'docs/posts/',
+    'docs/other/',
+    'docs/public/'
+  ]
 
   if (FILES_TO_IGNORE.includes(normalizedPath)) return
   if (FOLDERS_TO_IGNORE.some((folder) => normalizedPath.includes(folder)))
@@ -70,27 +149,76 @@ files.forEach((file) => {
     FILES_TO_IGNORE_ENGLISH_CHECKS.includes(normalizedPath)
 
   let currentHeader = ''
-  let inCodeBlock = false
+  let fenceCharacter = ''
+  let inFrontmatter = false
+  const headingStack = []
+  const seenHeadings = new Map()
+  const primaryUrlsBySection = new Map()
 
   lines.forEach((line, index) => {
     const lineNum = index + 1
-    // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
-    line = line.replace(/[\u200B-\u200D\uFEFF\u2060]/g, '')
-
-    // Toggle fenced code block state on lines starting with ``` (optionally indented)
-    if (/^\s*```/.test(line)) {
-      inCodeBlock = !inCodeBlock
+    if (index === 0 && line.trim() === '---') {
+      inFrontmatter = true
       return
     }
-    if (inCodeBlock) return
-
-    if (/^#+\s/.test(line)) {
-      currentHeader = line
+    if (inFrontmatter) {
+      if (line.trim() === '---') inFrontmatter = false
+      return
     }
+
+    const fenceMatch = line.match(/^\s*(`{3,}|~{3,})/)
+    if (fenceMatch) {
+      const markerCharacter = fenceMatch[1][0]
+      if (!fenceCharacter) fenceCharacter = markerCharacter
+      else if (fenceCharacter === markerCharacter) fenceCharacter = ''
+      return
+    }
+    if (fenceCharacter) return
+
+    // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
+    line = stripInvisibleCharacters(line)
+
     let errors = []
     // Record an error, optionally with the offending substring of `line` so the
     // reporter can underline exactly where the problem is.
     const addError = (message, match) => errors.push({ message, match })
+
+    const headingMatch = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/)
+    if (headingMatch) {
+      const level = headingMatch[1].length
+      const title = headingMatch[2].trim()
+      const normalizedTitle = normalizeText(
+        title.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[*_`]/g, '')
+      )
+      const parentPath = headingStack.slice(1, level).join(' > ')
+      const headingKey = `${parentPath}\u0000${level}\u0000${normalizedTitle}`
+      const firstLine = seenHeadings.get(headingKey)
+      if (firstLine) {
+        addError(
+          `Duplicate heading in the same parent section (first seen on line ${firstLine})`,
+          headingMatch[2]
+        )
+      } else {
+        seenHeadings.set(headingKey, lineNum)
+      }
+      headingStack[level] = normalizedTitle
+      headingStack.length = level + 1
+      currentHeader = line
+    }
+
+    const emptyLinkMatch = line.match(/\[[^\]]*\]\(\s*\)/)
+    if (emptyLinkMatch) {
+      addError('Empty link destination', emptyLinkMatch[0])
+    }
+
+    const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
+    let localLinkMatch
+    while ((localLinkMatch = localLinkRegex.exec(line)) !== null) {
+      const target = localLinkMatch[1]
+      if (!localTargetExists(file, target)) {
+        addError(`Local link or asset target does not exist: ${target}`, target)
+      }
+    }
 
     // Check 1: Starred links must be bolded
     // Pattern: * ⭐ [Link] -> Bad
@@ -246,7 +374,32 @@ files.forEach((file) => {
       'docs/unsafe.md'
     ]
 
+    const isCatalogEntry =
+      /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(line)
+
+    if (isCatalogEntry) {
+      const primaryLinkMatch = line.match(
+        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
+      )
+      if (primaryLinkMatch) {
+        const normalizedName = normalizeText(primaryLinkMatch[1])
+        const normalizedUrl = normalizePrimaryUrl(primaryLinkMatch[2])
+        const sectionPath = headingStack.filter(Boolean).join(' > ')
+        const duplicateKey = `${sectionPath}\u0000${normalizedName}\u0000${normalizedUrl}`
+        const firstLine = primaryUrlsBySection.get(duplicateKey)
+        if (firstLine) {
+          addError(
+            `Duplicate primary resource URL in the same section (first seen on line ${firstLine})`,
+            primaryLinkMatch[2]
+          )
+        } else {
+          primaryUrlsBySection.set(duplicateKey, lineNum)
+        }
+      }
+    }
+
     if (
+      isCatalogEntry &&
       !FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some((ignoredFile) =>
         path.normalize(file).endsWith(path.normalize(ignoredFile))
       )
@@ -323,6 +476,8 @@ files.forEach((file) => {
           'including',
           'includes',
           'that',
+          'this',
+          'here',
           'your',
           'our',
           'of',
@@ -410,7 +565,42 @@ files.forEach((file) => {
     const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
     let lm
     while ((lm = linkMatchRegex.exec(line)) !== null) {
-      const url = lm[2].toLowerCase()
+      let parsedUrl
+      try {
+        parsedUrl = new URL(lm[2])
+      } catch {
+        continue
+      }
+      const hostname = parsedUrl.hostname.toLowerCase().replace(/\.$/, '')
+
+      const hostnameMatches = (domain) => {
+        const normalizedDomain = domain.toLowerCase().replace(/^\./, '')
+        if (normalizedDomain.endsWith('.')) {
+          return hostname.startsWith(normalizedDomain)
+        }
+        return (
+          hostname === normalizedDomain ||
+          hostname.endsWith(`.${normalizedDomain}`)
+        )
+      }
+
+      const isFmhyInternalReference =
+        hostnameMatches('fmhy.net') ||
+        (hostnameMatches('reddit.com') &&
+          parsedUrl.pathname
+            .toLowerCase()
+            .includes('/r/freemediaheckyeah/wiki/')) ||
+        (hostnameMatches('github.com') &&
+          parsedUrl.pathname.toLowerCase().startsWith('/fmhy/fmhy/wiki/'))
+
+      const isKnownLabelRedirect = (label) => {
+        if (LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href)) return true
+        if (label !== 'discord') return false
+        return (
+          hostname.startsWith('discord.') ||
+          /(^|\/)discord(?:\/|$)/i.test(parsedUrl.pathname)
+        )
+      }
 
       const checks = [
         { key: 'subreddit', domains: ['reddit.com'] },
@@ -433,34 +623,41 @@ files.forEach((file) => {
         },
         { key: 'twitter', domains: ['twitter.com', 'x.com', 't.co'] },
         { key: 'youtube', domains: ['youtube.com', 'youtu.be'] },
-        { key: 'lemmy', domains: ['lemmy.', 'fediverse.', 'sh.itjust.works'] },
+        {
+          key: 'lemmy',
+          domains: ['lemmy.', 'fediverse.', 'sh.itjust.works', 'join-lemmy.org']
+        },
         { key: 'instagram', domains: ['instagram.com'] },
         { key: 'facebook', domains: ['facebook.com'] },
         { key: 'bluesky', domains: ['bsky.app'] },
-        { key: 'mastodon', domains: ['mastodon.social', 'apps.apple.com'] }
+        {
+          key: 'mastodon',
+          domains: ['mastodon.social', 'joinmastodon.org', 'apps.apple.com']
+        }
       ]
 
-      const trimmedLabel = lm[1].trim().toLowerCase()
+      const trimmedLabel = normalizeText(lm[1])
 
       for (const check of checks) {
         // Exact match check for keywords to avoid flagging descriptive names like "GitHub Dorks"
         // Also allow "r/" prefix check separately
         if (trimmedLabel === check.key) {
-          if (!check.domains.some((d) => url.includes(d))) {
-            // Allow some custom domains/redirects if they contain the keyword in the URL path
-            if (!url.includes(check.key)) {
-              addError(
-                `Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`,
-                lm[0]
-              )
-            }
+          if (
+            !isFmhyInternalReference &&
+            !isKnownLabelRedirect(check.key) &&
+            !check.domains.some(hostnameMatches)
+          ) {
+            addError(
+              `Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`,
+              lm[0]
+            )
           }
         }
       }
 
       // Special check for "r/" prefix (e.g. [r/OpenAI]) - ONLY if it's the full label
       if (/^r\/[a-zA-Z0-9_]+$/.test(trimmedLabel)) {
-        if (!url.includes('reddit.com')) {
+        if (!isFmhyInternalReference && !hostnameMatches('reddit.com')) {
           addError(
             `Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`,
             lm[0]
@@ -471,9 +668,10 @@ files.forEach((file) => {
       // Special check for "X" label (social media)
       if (
         trimmedLabel === 'x' &&
-        !url.includes('x.com') &&
-        !url.includes('twitter.com') &&
-        !url.includes('t.co')
+        !isFmhyInternalReference &&
+        !hostnameMatches('x.com') &&
+        !hostnameMatches('twitter.com') &&
+        !hostnameMatches('t.co')
       ) {
         addError(
           `Link label mismatch: Label "X" points to non-X/Twitter domain: ${lm[2]}`,
@@ -519,7 +717,18 @@ files.forEach((file) => {
         adress: 'address',
         neccessary: 'necessary',
         tring: 'trying',
-        availalbe: 'available'
+        availalbe: 'available',
+        availabe: 'available',
+        definately: 'definitely',
+        maintainance: 'maintenance',
+        accomodate: 'accommodate',
+        begining: 'beginning',
+        enviroment: 'environment',
+        goverment: 'government',
+        relevent: 'relevant',
+        sucessful: 'successful',
+        untill: 'until',
+        wierd: 'weird'
       }
       for (const [typo, correction] of Object.entries(commonTypos)) {
         const typoRegex = new RegExp(`\\b${typo}\\b`, 'i')
