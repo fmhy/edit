@@ -550,7 +550,7 @@
 * [NASA 3D Resources](https://science.nasa.gov/3d-resources/) - NASA 3D Models
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models / 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
-* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
+* [BlenderKit](https://www.blendkit.com/) - 3D Model Library Integrated into Blender
 * [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://www.multiboard.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
