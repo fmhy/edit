@@ -537,7 +537,7 @@
 * [animexx](https://www.animexx.de/) - German Anime Community
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
 * [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App
-* [All About Berlin](https://allaboutberlin.com/) - Berlin Expat Guide / Relocation Tools
+* [⁠FirstWeek](https://www.firstweek.de/) or [All About Berlin](https://allaboutberlin.com/) - Expat Guides / Relocation Tools
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/), [GebaerdenLernen](https://gebaerdenlernen.de/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries / Learning
 

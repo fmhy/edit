@@ -19,7 +19,7 @@
 
 ## ▷ Download Managers
 
-* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://yaso.su/glossary).
+* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://fluffle.cc/piracyglossary).
 
 ***
 
@@ -285,6 +285,7 @@
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Google Quick Share](https://www.android.com/quick-share/) - Hybrid / Windows, Android, iOS
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
+* [⁠AlterSend](https://github.com/denislupookov/altersend) - Local / Windows, macOS, Linux, Android, iOS
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, macOS, Linux, Android
 * [croc](https://github.com/schollz/croc) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
