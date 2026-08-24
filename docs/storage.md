@@ -351,7 +351,7 @@
 
 ### Slideshare Downloaders
 
-[SlideShareSaver](https://slidesharesaver.com/) or [SlideSaver](https://slidesaver.app/)
+[SlideShareSaver](https://slidesharesaver.com/)
 
 ***
 

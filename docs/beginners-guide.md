@@ -137,7 +137,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 > What is Port Forwarding? Do I need it?
 
-[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is an essential part of torrenting and it's recommended to set it up. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds.
+[Port forwarding](https://wispydocs.pages.dev/torrenting/#port-forwarding) (having an open port) is recommended for users torrenting without a VPN, or those with a VPN that supports port forwarding. While it's not strictly needed, it benefits the swarm, can sometimes boost download speeds, and improves connectivity for torrents with fewer seeds. 
 
 ***
 
@@ -163,6 +163,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
-* **[Glossary / Terminology](https://yaso.su/glossary)** - Common piracy term definitions
+* **[Glossary / Terminology](https://fluffle.cc/piracyglossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools

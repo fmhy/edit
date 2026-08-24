@@ -789,7 +789,6 @@
 * [DOAJ](https://doaj.org/) - Journals / Articles
 * [Proquest](https://www.proquest.com/) - Journals / Articles
 * [MDPI](https://www.mdpi.com/) - Articles
-* [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays
 * [E-International Relations](https://www.e-ir.info/) - International Relations Articles
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents

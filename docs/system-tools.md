@@ -392,7 +392,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/gjJEfq7ux8)
+* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/4mFR9y9Snw)
 * [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
 
 ***
