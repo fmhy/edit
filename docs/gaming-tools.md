@@ -268,6 +268,7 @@
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [⁠hoGAMEGATA](https://gamegata.xyz/) - Horror Game Database
+* [⁠GOG Database](https://www.gogdb.org/) - GOG Game Database
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
 * [⁠The Adventure Game Database](https://adventuregamedb.com/) - Graphic Adventure Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
