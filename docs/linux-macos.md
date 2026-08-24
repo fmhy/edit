@@ -584,7 +584,7 @@
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
 * [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma 
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-*  [⁠Waywallen](https://github.com/waywallen/waywallen), [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
+* [⁠Waywallen](https://github.com/waywallen/waywallen), [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
 * [⁠tint](https://github.com/ashish0kumar/tint) - Recolor Wallpapers for System Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
@@ -860,7 +860,7 @@
 
 * ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [⁠ShichiZip](https://github.com/idawnlight/ShichiZip), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/en/) - File Archivers
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
-* [Neodisk](https://neodisk.app/) - Disk Usage Analyzer  / [GitHub](https://github.com/tkslucas/Neodisk)
+* [Neodisk](https://neodisk.app/) - Disk Usage Analyzer / [GitHub](https://github.com/tkslucas/Neodisk)
 * [OpenMTP](https://openmtp.ganeshrvel.com/) - macOS / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite

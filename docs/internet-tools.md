@@ -348,12 +348,11 @@
 * ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [Github](https://github.com/bypass-vip)
 * ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser / [Discord](https://discord.gg/TctJ5vu6Va)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [Userscript](https://adsbypasser.github.io/releases/adsbypasser.full.user.js) / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=L) / [Discord](https://trw.lat/ds) / [Bookmarklet](https://rip.linkvertise.lol/clientside)
 * [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser / [Chrome](https://chromewebstore.google.com/detail/bypasskit-link-unlocker/aiddkahemeniiedmpfblodnmcjoelbjl) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bypasskit-link-unlocker/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/bypasskit-link-unlocker/jpdmlobalaahflgppobfnhbdobpfpoao)
 * [TimerHooker](https://timer.palerock.cn/en/) - Skip Timers on File Hosts / [Userscript](https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.gg/bypass-city)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [Userscript](https://adsbypasser.github.io/releases/adsbypasser.full.user.js) / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Guide](https://yuumari.com/bypass/guide/) / [Userscript](https://api.yuumari.com/dl/m-links.user.js) / [Chrome](https://chrome.google.com/webstore/detail/doiagnjlaingkmdjlbfalakpnphfmnoh)
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 

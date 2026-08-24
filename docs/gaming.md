@@ -323,7 +323,7 @@
 * [⁠ROM Duplicate Manager](https://github.com/Anach/ROM_Duplicate_Manager) - Remove Duplicate ROM Files
 * [Hash Tool](https://www.romhacking.net/hash/) - ROM Patch Compatibility Checker
 * [⁠ROM Converto](https://github.com/DevYukine/rom-converto) - ROM Converter 
-* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
+* [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/) / [GitHub](https://github.com/marcrobledo/RomPatcher.js/), [2](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [No-Intro](https://no-intro.org/) - Cartridge (etc) Hash Database / [Discord](https://discord.gg/dvk6W6vZmp)
 * [Redump](https://redump.info/) - Disc Hash Database
 * [Dats.site](https://dats.site/) - Scene Release Hash Database

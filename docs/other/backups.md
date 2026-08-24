@@ -34,7 +34,7 @@ Verified instances that mirror the official FMHY [repository](https://github.com
 Official mirrors and alternative ways to view FMHY.
 
 * **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-*  Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+* Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 * [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 * [Rentry Backup](https://rentry.co/FMHY) / [Mirror](https://rentry.org/FMHY)
 * [SFW Rentry](https://rentry.co/piracy) / [Mirror](https://rentry.org/piracy)

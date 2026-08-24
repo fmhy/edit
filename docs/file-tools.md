@@ -344,7 +344,7 @@
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
-* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
+* [⁠DropDrive](https://dropdrive.org/) - 100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View

@@ -327,7 +327,6 @@
 * [manben](https://www.manben.com/) - Manga
 * [manhuazhan](https://www.manhuazhan.com/) - Manga
 * [rumanhua](https://www.rumanhua.com/) - Manga
-* [godamh](https://godamh.com/) - Manga
 * [fengchemh](https://www.fengchemh.com/) - Manga
 * [yibenmanhua](https://www.yibenmanhua.com/) - Manga
 * [dongmanmanhua](https://www.dongmanmanhua.cn/) - Manga
@@ -1192,9 +1191,8 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Books
 * [Dlivros](https://dlivros.com/) - Books
 * [Doceru](https://doceru.com/) - Books
-* [⁠Biblioteca Digital](https://bibliotecadigital.aemrt.pt/) - Public Domain Books
+* [⁠Biblioteca Digital](https://bibliotecadigital.aemrt.pt/) - Public Domain / Educational Books
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
-* [Biblioteca Digital](https://bibliotecadigital.aemrt.pt/) - Educational Books
 * [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
