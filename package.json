@@ -100,5 +100,10 @@
     "vite-plugin-terminal": "^1.4.0",
     "vue-eslint-parser": "^10.4.1",
     "wrangler": "^4.121.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "brace-expansion": "5.0.9"
+    }
   }
 }
