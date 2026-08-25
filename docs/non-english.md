@@ -979,6 +979,7 @@
 * [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
+* [Naver](https://tv.naver.com/)
 * [eHistory](https://www.ehistory.go.kr/) - Video Archive / Cultural Films
 
 ## ▷ Reading
