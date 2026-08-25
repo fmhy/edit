@@ -1178,7 +1178,6 @@
 * [Technical City](https://technical.city/) - Tech / Hardware Comparisons
 * [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers, Phones, Speakers, etc.
-* [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
 * [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
 * [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews
@@ -1335,7 +1334,6 @@
 * ↪️ **[Polling Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites)**
 * ⭐ **[endoflife.date](https://endoflife.date/)** - Tool / Tech End of Life Index
 * [Don't Call The Police](https://dontcallthepolice.com/) - Alternative Crisis Response / Police Alternatives
-* [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
 * [Versus](https://versus.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything
 * [Compare Sizes](https://comparesizes.com/) or [⁠SizeR.jp](https://sizer.jp/) - Compare Sizes of Anything

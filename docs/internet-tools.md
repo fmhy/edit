@@ -385,10 +385,9 @@
 * [ujeb link](https://ujeb.link/) - `ujeb.link/sqkwpd`
 * [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
 * [Kurzlinks](https://kurzlinks.de/) - `kurzlinks.de/fgt6`
-* [s.id](https://home.s.id/) - `s.id/EQBsg`
+* [s.id](https://home.s.id/) - `s.id/EQBsg` / [Discord](https://discord.com/invite/ghsG4M5Vmd)
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
-* [tny.lv](https://tny.lv/) - `tny.lv/QYg05`
-* [f1.tf](https://f1.tf/) - `f1.tf/k94R`
+* [tny.lv](https://tny.lv/) - `tny.lv/QYg05` / [GitHub](https://github.com/YOURLS/YOURLS)
 * [⁠h1.nu](https://h1.nu/) - `h1.nu/1isSI`
 * [u.to](https://u.to/) - `u.to/jc85Ig`
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
@@ -399,7 +398,7 @@
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
 * [Kutt](https://kutt.to/) - Account Required / [GitHub](https://github.com/thedevs-network/kutt)
-* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
+* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`/ [GitHub](https://github.com/bhutanio/anon.to)
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten Wikimedia Domain Links
 * [Suri](https://github.com/surishortlink/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners

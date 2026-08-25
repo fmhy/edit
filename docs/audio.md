@@ -118,7 +118,7 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets
+* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
 * [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
@@ -224,7 +224,7 @@
 
 ## ▷ Internet Radio
 
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
@@ -646,7 +646,7 @@
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
-* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database / [Essentials List](https://rentry.co/dancemixbible/)
 * [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)
 * [⁠Record Club](https://record.club/) - Ratings / Reviews
 * [⁠EntertainMe](https://www.entertainme.fun/) - All-in-One Media & Entertainment Tracker

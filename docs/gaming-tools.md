@@ -725,7 +725,7 @@
 * 🌐 **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * 🌐 **[Microcontrollers' Alternatives](https://alternatives.microcontrollers.dev/)** - Mod / Client Alternatives List / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** or [OptiFine Replacements](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) - OptiFine Alternative Mods for Fabric
-* [Fabulously Optimized](https://download.fo/) - OptiFine Alternative Modpack
+* [⁠Additive](https://skywardmc.org/additive/) or [Fabulously Optimized](https://download.fo/) - OptiFine Alternative Modpacks
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm), [FiberMC](https://www.fibermc.com/) / [Discord](https://discord.com/invite/dwh9y7D) or [FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) / [Discord](https://discord.com/invite/QsbEK52) - Modpack & Fabric Indexes
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg) or [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) - Community Content Directories
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM), [MCPEDL](https://mcpedl.com/) or [BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
