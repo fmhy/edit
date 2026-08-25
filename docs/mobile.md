@@ -145,7 +145,7 @@
 
 ## ▷ Morphe / ReVanced Tools
 
-* **Note** - Using brand new google account and uploading photos over the free Google Photos limit can be detected as bot activity and result in a ban.
+* **Note** - Using brand new Google accounts to upload photos over the free Google Photos limit can be flagged as bot activity and result in a ban.
 
 ***
 
