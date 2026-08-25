@@ -19,6 +19,7 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.ac/)** or [BingeBox](https://bingebox.ac/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cinejoy](https://cinejoy.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/TWKxstBuv9)
 * ⭐ **[Flixer](https://flixer.gd)** or [Hexa](https://hexa.su/) - Movies / TV / Anime / Auto-Next
+* ⭐ **[AllFlix](https://allflix.org/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/x6dmEX4W6b)
 * ⭐ **[67Movies](https://67movies.nl/)**, [2](https://67movies.net/), [3](https://shows.st/) or [PhantomFlix](https://phantomflix.net/), [2](https://ravenflix.net/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[bCine](https://bcine.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/6ZXNmPedkG)
 * ⭐ **[MeowTV](https://meowtv.ru/)** or [FlickyStream](https://flickystream.dad/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-raven)
