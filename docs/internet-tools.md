@@ -457,7 +457,7 @@
 * **Note** - If you're looking for something more private and convenient, check out our [Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing) section. For details about tags, refer to [this resource](https://rentry.org/9i2uu6dx).
 
 ***
-
+* ⭐ **[mtempmail]([mtempmail.com](https://mtempmail.com/edu-temp-mail))** - Gmail & Outlook / 30+ Domains
 * ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 30+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
