@@ -281,6 +281,7 @@
 * ⭐ **[Shizuku Fork](https://github.com/thedjchi/Shizuku)**, [Shizuku](https://shizuku.rikka.app/) / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [⁠CoorenLabs](https://coorenlabs.com/) / [Discord](https://discord.gg/r5tfDZmADV) / [GitHub](https://github.com/coorenlabs/cooren) or [Consumet](https://docs.consumet.org/list-of-providers) - Piracy Site Metadata APIs / Scraping
 * [⁠Resend](https://resend.com/) - Email API
+* [HEMO Mail](https://hemail.oooooooooo.se/llms.txt) - Free Email API for AI Agents / No Signup / [Docs](https://hemo-mail.fogeboro.workers.dev/openapi.json)
 * [Meilisearch](https://www.meilisearch.com/) - Open-Source Site Search Engine / [GitHub](https://github.com/meilisearch/meilisearch)
 * [Secrets To AI](https://discord.com/invite/mMyN7dYdCJ) - AI API Gateway
 * [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) or [9Router](https://9router.com/) - Self-Hosted AI API Routers / Proxies for Developers 
