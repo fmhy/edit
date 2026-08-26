@@ -36,7 +36,6 @@
 ***
 
 * ↪️ **[Chat Clients / Discord Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_chat_tools)**
-* ⭐ **[stolen.shoes](https://stolen.shoes/)** - Discord Video Embedder
 * ⭐ **[embedez](https://embedez.com/)** / [X](https://x.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp) or [FxEmbed](https://github.com/FxEmbed/FxEmbed) - Social Link Embedders
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro + Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
@@ -547,9 +546,9 @@
 
 # ► Twitter/X Tools
 
-* ⭐ **[XCancel](https://xcancel.com/)**, [nitter](https://nitter.net/), [2](https://nitter.poast.org/) / [Instances](https://status.d420.de/), [2](https://github.com/zedeus/nitter/wiki/Instances), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
+* [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers

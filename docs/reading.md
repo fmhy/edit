@@ -101,7 +101,7 @@
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [Subreddit](https://reddit.com/r/readest) / [Discord](https://discord.gg/gntyVNk3BJ) / [GitHub](https://github.com/readest/readest)
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Windows, Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows / [GitHub](https://github.com/sumatrapdfreader/sumatrapdf)
 * [Sioyek](https://sioyek.info/) - PDF / Windows, macOS, Linux

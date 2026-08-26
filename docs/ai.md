@@ -48,7 +48,7 @@
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM 5.2 / DeepSeek V4 Flash 0731 / MiniMax M3 / Unlimited / No Sign-Up
 * [⁠Woozlit](https://woozlit.com/) - Multiple Models / ≈175K Monthly / Sign-Up
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
-* [AI Assistant](https://aiassistantbot.pages.dev/) - DeepSeek V3.2 / GLM 4.7 / No Sign-Up
+* [AI Assistant](https://aiassistantbot.pages.dev/) - GLM 4.7 / gpt-oss-120b / No Sign-Up
 * [Apertus](https://publicai.co/chat), [2](https://chat.publicai.co/) - Apertus v1.5 70B Thinking / ALIA 40B (Spain) / Apertus v1.5 8B Thinking (No Sign-Up)
 
 ***

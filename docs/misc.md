@@ -456,7 +456,8 @@
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance), [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) or [Panopti](https://panopti.ca/) / [GitHub](https://github.com/resistanceisliberty/panopti.ca) (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
-* [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map 
+* [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map
+* [⁠Sparrow Map](https://map.sparrowmap.com/) - Police Vehicle Map / Community Camera Network
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates
 
@@ -705,7 +706,6 @@
 * ⭐ **[Modern HN](https://greasyfork.org/scripts/578540)** / [2](https://www.modernhn.com/) - Modern UI Extension
 * [Hacki](https://github.com/Livinglist/Hacki) or [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) / [GitHub](https://github.com/SimonHalvdansson/Harmonic-HN) - Android Hacker News Apps
 * [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
-* [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
 * [The Hacker Herald](https://hackerherald.com/), [⁠Brutalist HN](https://brutalisthackernews.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
 * [HNRankings](https://hnrankings.info/) - Best of / Top Posts Aggregator
@@ -1341,7 +1341,7 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
-* [Wheel Decide](https://wheeldecide.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [SpinTheWheel](https://spinthewheel.net/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [Wheel Decide](https://wheeldecide.com/), [SpinWheelPlus](https://spinwheelplus.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [SpinTheWheel](https://spinthewheel.net/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers / Spinners
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
@@ -1391,7 +1391,6 @@
 * [123Apps](https://123apps.com/) - Multimedia / File Conversion / PDF
 * [Webacus](https://webacus.dev/) - Data / Text / Design / Cryptography / Unit Conversion
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
-* [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Research Tools Database
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
 * [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion

@@ -57,7 +57,6 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
-* [fffuel](https://fffuel.co/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
 ***
@@ -494,7 +493,7 @@
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
-* [freeillustrations](https://freeillustrations.xyz/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
+* [freeillustrations](https://freeillustrations.xyz/), [Kitbitz](https://kitbitz.art/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru App / Android
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
@@ -550,7 +549,7 @@
 * [NASA 3D Resources](https://science.nasa.gov/3d-resources/) - NASA 3D Models
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models / 3D Printable Hardware Parts + Tools
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
-* [BlenderKit](https://www.blenderkit.com/) - 3D Model Library Integrated into Blender
+* [BlenderKit](https://www.blendkit.com/) - 3D Model Library Integrated into Blender
 * [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://www.multiboard.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models

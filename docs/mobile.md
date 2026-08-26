@@ -145,7 +145,7 @@
 
 ## ▷ Morphe / ReVanced Tools
 
-* **Note** - Using brand new google account and uploading photos over the free Google Photos limit can be detected as bot activity and result in a ban.
+* **Note** - Using brand new Google accounts to upload photos over the free Google Photos limit can be flagged as bot activity and result in a ban.
 
 ***
 
@@ -395,7 +395,7 @@
 
 ## ▷ Image Tools
 
-* ⭐ **[Image Toolbox](https://github.com/T8RIN/ImageToolbox)** - Image Editor
+* ⭐ **[Image Toolbox](https://github.com/T8RIN/ImageToolbox)** - Image Editor / [Telegram](https://t.me/t8rin_imagetoolbox)
 * [PicsArt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Image Editor
 * [Hypic](https://play.google.com/store/apps/details?id=com.xt.retouchoversea) - Image Editor
 * [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Image Editor

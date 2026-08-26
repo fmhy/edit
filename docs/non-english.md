@@ -64,7 +64,6 @@
 * [hindawi](https://www.hindawi.org/) - Educational Books
 * [Azoramoon](https://azoramoon.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
-* [⁠Eshadow](https://www.eshadow.net/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
 * [Stellar Saber](https://stellarsaber.pro/) - Manga
 * [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
@@ -95,7 +94,6 @@
 * [amarboi](https://www.amarboi.com/) - Books
 * [boierthikana](http://boierthikana.com/) - Books
 * [banglabooks](https://www.banglabooks.in/) - Books
-* [boitori](https://boitori.com/) - Books
 * [kindlebangla](https://www.kindlebangla.com/) - Books
 * [banglaclassicbooks](https://banglaclassicbooks.blogspot.com/) - Books
 * [allbanglaboi](https://allbanglaboi.com/) - Books
@@ -457,7 +455,6 @@
 
 * [TR4KER](https://tr4ker.net/) - Video / Audio / Books / Signup Required
 * [⁠C411](https://c411.org/) - Video / Audio / Books / Signup Required
-* [YGG Reborn](https://www.yggreborn.org/) - Video / Audio / Books / Signup Required
 
 ## ▷ Streaming
 
@@ -468,7 +465,7 @@
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.chat/) - Movies / TV / Anime / Use Adblocker / [Status](https://movix.online/)
-* [frembed](https://frembed.lat/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
+* [frembed](https://frembed.casa/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
 * [nakastream](https://nakastream.tv/) - Movies / TV / Anime / [Telegram](https://t.me/nakastreamtv) / [Discord](https://discord.gg/SMyrCzWnhV)
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
@@ -506,13 +503,14 @@
 * [kiboanime](https://www.kiboanime.app/) - Anime Streaming Mobile App
 * [Grafikart](https://grafikart.fr/) - Programming Courses
 * [RTS Podcasts](https://www.rts.ch/audio-podcast/) - Podcasts
-* [fluxradios](https://fluxradios.blogspot.com/) - Radio Stations
+* [fluxradios](https://www.fluxradios.com/) - Radio Stations
 * [programmes-radio](https://www.programmes-radio.com/fr/) - Radio Schedule / Streaming
 
 ## ▷ Reading / Lecture
 
 * [Bookys](https://www.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / Some NSFW
 * [zone-ebook.com](https://zone-ebook.com/) - Books / Comics / Magazines / Newspapers / Audiobooks
+* [⁠FourToutIci](https://fourtoutici.cc/) - Books / Manga / Magazines 
 * [Nos Livres](https://noslivres.net/) - Public Domain Books
 * [⁠Gallica](https://gallica.bnf.fr/) - Books / Documents 
 * [Audiocite](https://www.audiocite.net/) - Audiobooks
@@ -818,6 +816,7 @@
 * [maid.my](https://www.maid.my.id/) - Manga
 * [softkomik](https://softkomik.com/) - Manga
 * [sora-ich](https://sora-ich.vercel.app/) - Manga
+* [⁠Voratoon](https://voratoon.id/) - Manhwa / Manga / Manhua
 * [BacaLightNovel](https://bacalightnovel.co/) - Light Novels
 * [Sakuranovel](https://sakuranovel.id/) - Light Novels
 * [meionovels](https://meionovels.com/) - Light Novels

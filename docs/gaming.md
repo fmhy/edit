@@ -43,6 +43,7 @@
 * [World of PC Games](https://worldofpcgames.com/) or [⁠The Dark Games](https://the-dark-games.com/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [⁠GOG Archive](https://gog.squid.wtf/) or [FreeGOGPCGames](https://freegogpcgames.com/) / [Hash Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/freegogpcgames-note.md) - Torrent / GOG Games Archives
 * [⁠The Vulpes Archives](https://rentry.co/the-vulpes-archives) - Download
+* [RuTracker Uploaders](https://rentry.co/rutrackertrustedgameuploaders) - ⁠Trusted RuTracker Game Uploaders
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [FreeToGame](https://www.freetogame.com/games) or [Acid Play](https://acid-play.com/) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [ROM Heaven CSF](https://rentry.co/FMHYB64#csf) - Clean Steam Files (or just use CS.RIN for Clean Files)
@@ -88,7 +89,6 @@
 * [Playtester](https://playtester.io/) / [Discord](https://discord.gg/A5yzKNP7FE) or [Alpha Beta Gamer](https://alphabetagamer.com/) / [Discord](https://discord.gg/3Gtqp9BDeY) - Play Games in Alpha / Beta Testing
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
-* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [⁠Adventure Game Studio](https://www.adventuregamestudio.co.uk/#play) - Point-And-Click Games / [Discord](https://discord.gg/BSvN5ZF) / [GitHub](https://github.com/adventuregamestudio/ags)
 * [vgperson](https://vgperson.com/games/) - Simple Japanese Games
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
@@ -194,6 +194,7 @@
 * [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II PC Ports / [Discord](https://discord.gg/GfX3pmC)
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.gg/ZXtDUXGeH) - Mobile PC Ports
+* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [⁠Flying With Gauss](https://discord.gg/rjrx3JmQC) - GoldSrc Game Ports for Android + Other Platforms
 * [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltaune + Undertale Mobile Ports
 
@@ -705,7 +706,7 @@
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
 * [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
-* [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [SpaceCadetPinball](https://pinball.alula.me/) - Browser Space Cadet Pinball
 * [PlayAnyPage](https://playanypage.com/) or [KickassApp](https://kickassapp.com/) - Turn Webpages into Games
 * [Google Snake Mods](https://googlesnakemods.com/) / [Discord](https://discord.gg/NA6vHg62An) / [GitHub](https://github.com/DarkSnakeGang/GoogleSnakeModLoader), [Fluppy](https://fluppy.pages.dev/), [Play Snake](https://playsnake.org/) or [Snake-Game](https://www.onemotion.com/snake-game/) - Snake Style Games
 * [⁠LEGO Island Web Port](https://rentry.co/FMHYB64#bli) - Browser LEGO Island
@@ -747,7 +748,7 @@
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
 * ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
-* ⭐ **[Flash Museum](https://flashmuseum.org/)** - Browser Game Aggregator
+* ⭐ **[Flash Museum](https://flashmuseum.net/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator

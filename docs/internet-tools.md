@@ -348,12 +348,11 @@
 * ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [Github](https://github.com/bypass-vip)
 * ⭐ **[⁠Bypass.lc](https://bypass.lc/)** - Ad-Links Bypasser / [Discord](https://discord.gg/TctJ5vu6Va)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [GitHub](https://github.com/adsbypasser/adsbypasser)
+* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [Userscript](https://adsbypasser.github.io/releases/adsbypasser.full.user.js) / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [RIP Linkvertise](https://rip.linkvertise.lol/) - Ad-Links Bypasser / [Userscript](https://trw.lat/install/userscript/u.user.js?v=L) / [Discord](https://trw.lat/ds) / [Bookmarklet](https://rip.linkvertise.lol/clientside)
 * [⁠BypassKit](https://bypasskit.co/) - Ad-Links Bypasser / [Chrome](https://chromewebstore.google.com/detail/bypasskit-link-unlocker/aiddkahemeniiedmpfblodnmcjoelbjl) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bypasskit-link-unlocker/) / [Edge](https://microsoftedge.microsoft.com/addons/detail/bypasskit-link-unlocker/jpdmlobalaahflgppobfnhbdobpfpoao)
 * [TimerHooker](https://timer.palerock.cn/en/) - Skip Timers on File Hosts / [Userscript](https://palerock.cn/node-service/scripts/install/@hook-js_timer/hook.timer.user.js)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Userscript](https://api2.adbypass.org/userscript/download/bypass.user.js) / [Discord](https://discord.gg/bypass-city)
-* [Adsbypasser](https://adsbypasser.github.io/) - Bypass Link Shorteners / [Userscript](https://adsbypasser.github.io/releases/adsbypasser.full.user.js) / [GitHub](https://github.com/adsbypasser/adsbypasser)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Guide](https://yuumari.com/bypass/guide/) / [Userscript](https://api.yuumari.com/dl/m-links.user.js) / [Chrome](https://chrome.google.com/webstore/detail/doiagnjlaingkmdjlbfalakpnphfmnoh)
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/bypass-freedlink.md)
 
@@ -466,7 +465,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -889,7 +888,6 @@
 ## ▷ Web Scraping / Crawling
 
 * 🌐 **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** or **[Web Scraping FYI](https://webscraping.fyi/)** - Web Scraping Tools / Resources
-* ⭐ **[Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)** - Browser Extension
 * [⁠FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) or [⁠Trawl](https://github.com/germondai/trawl) - Challenge-Solving Proxies
 * [SpiderSuite](https://spidersuite.io/) - Advanced Web Crawler / [GitHub](https://github.com/spidersuite/SpiderSuite)
 * [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler / [GitHub](https://github.com/internetarchive/heritrix3)
@@ -899,6 +897,7 @@
 * [web.scraper.workers.dev](https://web.scraper.workers.dev/) - Web Scraper
 * [Waymore](https://github.com/xnl-h4ck3r/waymore/) - Web Scraper
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
+* [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) - Browser Extension
 * [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
 * [Crawl4AI](https://github.com/unclecode/crawl4ai) - LLM-Friendly Scraper / Crawler
 

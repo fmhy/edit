@@ -510,7 +510,6 @@
 * [VSCodium Guide](https://rentry.co/vscodiumguide) - Install Microsoft Marketplace Extensions
 * [VSCode Web](https://code.visualstudio.com/docs/setup/vscode-web) - VSCode Web Version / Guide
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
-* [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
 * [snippet-generator](https://snippet-generator.app/) - Snippet Generator
 * [Dendron](https://www.dendron.so/) - Knowledge Management
@@ -987,6 +986,7 @@
 * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
 * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
 * [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/), [SVG Editor](https://editor.svg-gen.com/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [fffuel](https://fffuel.co/) - SVG Generators
 * [⁠3DSVG](https://3dsvg.design/) - 3D SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [SVGArtista](https://svgartista.net/) or [⁠SVG Studio](https://svgstudio.org/) - SVG Animation Tools

@@ -234,17 +234,12 @@
 * [⁠ScrobbleRadio](https://scrobblerad.io/) - Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Online Radio Directory
 * [My Radio](https://junguler.github.io/m3u-player-web/) - Online Radio Directory
-* [0nRadio](https://www.0nradio.com/) or [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiolise](https://radiolise.com/) - Online Radio Player / Directory
-* [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
-* [TVAtlas Radio](https://tvatlas.app/radio) - Online Radio Player / Directory
-* [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
 * [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [⁠Vijay's Radio Vibes](https://vijaysradiovibes.pages.dev/) - Random Radio Stations
 * [Q-3](https://www.q-3.eu/) - Online Radio Directory
 * [⁠DubLab](https://www.dublab.com/) - Online Radio
 * [⁠BoxRadio](https://boxradio.net/) - Online Radio Directory
-* [Vidbox Radio](https://vidbox.dev/radio) - Online Radio Directory
 * [ShoutCast](https://directory.shoutcast.com/), [Zeno.fm](https://zeno.fm/) or [Live365](https://live365.com/) - User-Stations
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
 * [⁠WFMU](https://wfmu.org/) - Independent Internet Radio
@@ -258,7 +253,6 @@
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
 * [Campus FM](https://www.campus-fm.com/) - College Radio
-* [RadioSide](https://radioside.com/v1/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
@@ -290,6 +284,7 @@
 
 ## ▷ Genre Specific Radio
 
+* 🌐 **[⁠Unify.fm](https://www.unify.fm/)** - Independent Electronic Radio Index
 * [⁠WQXR](https://www.wqxr.org/streams/) or [⁠The Classical Station](https://theclassicalstation.org/) - Classical Music Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
@@ -478,7 +473,6 @@
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
-* [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [FreeMP3Cloud](https://freemp3cloud.com/) - MP3
 * [zvu4no](https://zvu4it.org/) - MP3
@@ -501,6 +495,7 @@
 * [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
 * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
+* [Lost Songs](https://lostsongshc.blogspot.com/) - Hardcore / MP3
 * [1Gabba](https://1gabba.pw/) - Electronic / MP3
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
 * [⁠ELEKTROBEATS](https://elektrobeats.org/) - Electronic / MP3
@@ -706,6 +701,7 @@
 
 * 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
 * ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - Recommendation Radio / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
@@ -1040,6 +1036,7 @@
 * [Stash](https://rentry.co/FMHYB64#dkl) - Samples / Drumkits / Presets
 * [FreeSoundsLibrary](https://www.freesoundslibrary.com/) - Sound Effects
 * [BandLab Samples](https://www.bandlab.com/sounds/free-samples) - Samples
+* [⁠SoundPacks](https://soundpacks.com/) - Samples
 * [SoundGator](https://www.soundgator.com/) - Sound Effects
 * [GDC](https://sonniss.com/gameaudiogdc) - Sound Effects
 * [⁠BigSoundBank](https://bigsoundbank.com/) - Sound Effects

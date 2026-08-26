@@ -177,6 +177,7 @@
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections
 * [⁠Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Police / Surveillance Tech Map
+* [⁠Sparrow Map](https://map.sparrowmap.com/) - Police Vehicle Map / Community Camera Network
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance), [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) or [Panopti](https://panopti.ca/) / [GitHub](https://github.com/resistanceisliberty/panopti.ca) (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [EyesOnFlock](https://eyesonflock.com/) - AI Flock Surveillance Database / Tracking
 * [Have I Been Flocked?](https://haveibeenflocked.com/) - Check to See if Your Plate Has Been Tagged by Flock Surveillance 

@@ -26,7 +26,7 @@
 
 ## ▷ Disc Utilities
 
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://sourceforge.net/projects/dvdstyler/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping
 * [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Version](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/)
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
