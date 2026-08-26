@@ -131,6 +131,7 @@
 * [MovieBox](https://movieboxonline.net), [2](https://themoviebox.org/), [3](https://123movie.app), [4](https://netnaija.film), [5](https://m2box.org/) - Movies / TV / Anime / [Mirrors](https://moviebox.co/)
 * [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/) - Movies / TV / Auto-Next / 480p
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Requires Plex or Jellyfin
+* [Boomflix](https://Boomflix.qzz.io) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/whEBxM3WT2)
 
 ***
 
