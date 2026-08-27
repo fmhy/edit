@@ -195,7 +195,7 @@
 * [StreameX](https://streamex.sh/), [2](https://streamex.ws/) - Movies / TV / Anime
 * [Zerostream](https://zerostream.alwaysdata.net/) - Movies / TV / Anime
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
-* [FishyStream](https://master.fishystream-app.pages.dev/) - Movies / TV / Anime / [GitHub](https://github.com/FishyServices/FishyStream)
+* [FishyStream](https://fishystream-app.pages.dev/) - Movies / TV / Anime / [GitHub](https://github.com/FishyServices/FishyStream)
 * [Snowstream](https://snowstream.vercel.app/) - Movies / TV / Anime / [Discord](https://discord.gg/fXBhvRzFKY) / [Telegram](https://t.me/snowstreamchat)
 * [StreamGoblin](https://streamgoblin.com/) - Movies / TV / Anime
 * [WatchOrbit](https://watchorbit.me/) - Movies / TV / Anime
