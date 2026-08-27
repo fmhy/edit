@@ -331,6 +331,7 @@
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
 * [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 * [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
