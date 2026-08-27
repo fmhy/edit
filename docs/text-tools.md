@@ -104,7 +104,7 @@
 * [Handy](https://handy.computer/) - Audio Transcription Tool / [Discord](https://discord.gg/WVBeWsNXK4) / [GitHub](https://github.com/cjpais/Handy)
 * [⁠TransPocket](https://transpocket.com/) - Audio Transcription Tool
 * [WhisperX](https://github.com/m-bain/whisperX) - Audio Transcription Tool
-* [Parakeet](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - Audio Transcription / HuggingFace
+* [Parakeet](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - Audio Transcription / Hugging Face
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook

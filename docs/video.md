@@ -731,7 +731,6 @@
 * [⁠mpvNova](https://github.com/Laskco/mpvNova) - Android TV Video / Media Player
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP) - Android TV Video / Media Player
 * [Syncler](https://syncler.net/) - Streaming App / [Providers](https://www.reddit.com/r/providers4syncler/)
-* [Z-Stream](https://github.com/alturyxx-gif/ZStream-Android) - Streaming App / Android TV / P-Stream Fork
 * [Hayase](https://hayase.watch/) - Torrent Streaming App / [Extensions](https://rentry.co/FMHYB64#hayase) / [Wiki](https://wiki.hayase.watch/)
 * [⁠Sozo](https://sozo.azamov.me/) - Anime Streaming App
 * [aDrama](https://adrama.app/) - Asian Drama Streaming App

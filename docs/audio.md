@@ -1001,25 +1001,21 @@
 
 ## ▷ Audio Plugins
 
-* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
-* ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
-* [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
-* [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
-
-***
-
-## ▷ Freeware Plugins
-
 * 🌐 **[Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)**, [2](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugin Index
 * 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
+* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
+* ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
 * ⭐ **[Surge XT](https://surge-synthesizer.github.io/)** - Hybrid / Subtractive Synth
 * ⭐ **[Vital](https://vital.audio/)** or [Helm](https://tytel.org/helm/) - Wavetable Synths
 * ⭐ **[Dexed](https://asb2m10.github.io/dexed/)** - Yamaha DX7 Emulation
+* [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
+* [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Requires Sign-Up
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
 * [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software), [⁠Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials), [⁠drumkits](https://drumkits.site/), [⁠blepfx](https://fx.amee.ee/) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins / Use Adblocker
+* [⁠osci-render](https://osci-render.com/) - Audio-Visual Music Making Plugin / [GitHub](https://github.com/jameshball/osci-render)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Polyphonic Sampler
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
