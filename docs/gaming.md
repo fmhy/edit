@@ -10,18 +10,18 @@
 
 ***
 
-* 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://megathread.pages.dev/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
+* 🌐 **[r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** or **[privateersclub](https://privateers.wiki/)** / [Discord](https://discord.gg/jz8dUnnD6Q) - Piracy Indexes
 * 🌐 **[Wotaku](https://wotaku.wiki/games)** / [Discord](https://discord.gg/vShRGx8ZBC) or **[EverythingMoe](https://everythingmoe.com/section/game)** / [Discord](https://discord.gg/GuueaDgKdS) - Otaku Games Indexes
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
+* ⭐ **[⁠GOG Revived](https://gog-rev.com/)** or [GOG Games](https://gog-games.to/) / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - Download / Torrent / GOG Games Only
+* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[UnionCrax](https://union-crax.xyz/)** - Download / Torrent / Pre-Installed / [Launcher](https://union-crax.xyz/direct) / [Mirrors](https://rentry.co/ucxyz)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[ZeiGames](https://zeigames.com/)** - Download / Pre-Installed / Multiplayer / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
-* ⭐ **[⁠GOG Revived](https://gog-rev.com/)** or [GOG Games](https://gog-games.to/) / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - Download / Torrent / GOG Games Only
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
@@ -176,13 +176,16 @@
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
+* [⁠decomp.dev](https://decomp.dev/) - Decompilation Progress Reports / Tracking
 * [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
+* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Install via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
+* [⁠skate: recompiled](https://github.com/mchughalex/skate3recomp) - Skate 3 Xbox 360 Recompilation
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port / [Discord](https://discord.gg/ks5bHrH)
 * [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
@@ -550,6 +553,7 @@
 ## ▷ Crosswords
 
 * ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
+* [⁠Forkyz](https://gitlab.com/Hague/forkyz) - Multi-Platform Crossword App / [Sources](https://hague.gitlab.io/forkyz/)
 * [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
 * [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords / [Discord](https://discord.gg/PwvKmJE6Xp)
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
@@ -601,6 +605,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+* [⁠Bomb Party Local](https://cyfam.github.io/bombpartylocal/game) - Word Game Practice
 
 ***
 
@@ -844,6 +849,7 @@
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games
 * ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game / [Discord](https://discord.gg/gartic)
 * ⭐ **[skribbl](https://skribbl.io/)** / [Extra Features](https://typo.rip/) / [GitHub](https://github.com/toobeeh/skribbltypo), [DrawBattle](https://drawbattle.io/) / [Discord](https://discord.gg/D6aHB4hRhK), [Sketchful](https://sketchful.io/) / [Subreddit](https://reddit.com/r/Sketchful) / [Discord](https://discord.gg/MEvtMCv), [⁠DrawWars](https://drawwars.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [⁠GuessMe](https://guessme.io/) - Majority Answers Guessing Game / [Discord](https://discord.gg/U9YbWWBJn5)
 * [⁠What's A Mook?](https://whatsamook.games/) - Multiplayer / Party Games
 * [⁠GamingCouch](https://gamingcouch.com/) / [Discord](https://discord.gg/UqSX9ZGz5u), [⁠Doot](https://doot.games/) or [Couchplay](https://www.couchplay.tv/index_en.php) - Multiplayer Phone Controller / Gamepad Games
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
@@ -1061,6 +1067,7 @@
 * [Online Jeopardy](https://jeopardy.app) - Online Multiplayer Jeopardy / [GitHub](https://github.com/howardchung/jeopardy)
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
+* [⁠GuessMe](https://guessme.io/) - Majority Answers Guessing Game / [Discord](https://discord.gg/U9YbWWBJn5)
 * [Amountle](https://www.amountle.dev/) - Daily Estimation Game
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes

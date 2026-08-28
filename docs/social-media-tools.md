@@ -218,6 +218,7 @@
 * [Arctic Shift](https://arctic-shift.photon-reddit.com/) - Reddit Archive Dump Search / [GitHub](https://github.com/ArthurHeitmann/arctic_shift)
 * [Reddit Dump Files](https://academictorrents.com/browse.php?search=stuck_in_the_matrix%2C+Watchful1%2C+RaiderBDev&sort_field=added&sort_dir=DESC) - Reddit Comment Archives
 * [redarcs](https://the-eye.eu/redarcs/) - Reddit Pushshift Archives
+* [⁠Reddit Answers](https://www.reddit.com/answers/) - Reddit Search Engine
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments / Replies without Clicking a Post
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
@@ -686,6 +687,7 @@
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * 🌐 **[⁠FediDB](https://fedidb.com/)** - Fediverse Server List / Statistics
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
+* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [Nostr](https://nstart.me/), [2](https://nostr.com/) - Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
 * [Fedi.Tips](https://fedi.tips/) - Fediverse Guide

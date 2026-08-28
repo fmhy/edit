@@ -821,7 +821,7 @@
 * [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [⁠Google Photos Deduper](https://github.com/mtalcott/google-photos-deduper) - Google Photos Duplicate Remover 
-* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
+* [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper_Neo) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
 
 ***
 
@@ -829,7 +829,6 @@
 
 * ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / Forever
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu) / [Tools / Extensions](https://catbox.moe/tools.php)
-* [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB W/ Account) / Forever
 * [imgbox](https://imgbox.com/) - 10MB / Forever

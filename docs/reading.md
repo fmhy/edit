@@ -228,6 +228,7 @@
 * [NovelNext](https://novelnext.com/) - Online Reading
 * [⁠Cyrisia](https://cyrisia.com/) - Online Reading
 * [WuxiaSpot](https://www.wuxiaspot.com/) - Online Reading
+* [⁠ReChapters](https://www.rechapters.com/) - Online Reading
 * [WTR-LAB](https://wtr-lab.com/) - Online Reading / Requires Sign-Up for AI Translations
 * [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) - Downloads
 * [⁠jnovels](https://jnovels.com/) - Downloads
@@ -363,7 +364,7 @@
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Audiobook App / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [WAVE](https://waveapp.pages.dev/) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2) - Audiobook Apps / Windows, macOS, Linux, Android, iOS
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
 ***
@@ -538,6 +539,7 @@
 * [Non-Fiction](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
 * [E-Books Directory](https://www.e-booksdirectory.com/)
+* [Free eBooks](https://t.me/free_ebooks_pdfs)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
 * [OpenEdition](https://www.openedition.org/) - Books / Journals
 * [JSTOR](https://www.jstor.org/) - Books / Journals
@@ -618,11 +620,6 @@
 * [The Library](https://philological.cal.bham.ac.uk/library.html), [⁠SCTA](https://scta.lombardpress.org/), [⁠CAMENA](https://mateo.uni-mannheim.de/camenahtdocs/camena_e.html) or [⁠Corpus Corporum](https://mlat.uzh.ch/) - Historical Latin Texts
 * [World Radio History](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
-* [Tank Archives](https://www.tankarchives.com/) - World War II Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
-* [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
-* [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
-* [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
-* [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [Radical Scatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
@@ -857,6 +854,7 @@
 * [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
+* [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
@@ -1024,15 +1022,15 @@
 * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter / App
 * ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer), [dotepub](https://dotepub.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
+* [boko](https://zacharydenton.github.io/boko/) / [GitHub](https://github.com/zacharydenton/boko) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Multi-Format Converters / Web
+* [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Web / [GitHub](https://github.com/NilsLeo/kcc-cloud)
+* [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
+* [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [WorldCat](https://www.worldcat.org/), [Libby](https://libbyapp.com/) / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [⁠⁠ReciproCard](https://reciprocard.com/) - Find Library Cards for Reciprocal Borrowing
 * [⁠Books Unbanned](https://booksunbanned.com/) - Free Digital US Library Cards / Ages 13-26 Only
 * [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
-* [Ebook-Online-Convert](https://ebook.online-convert.com/) - Multi-Format Converter / Online
-* [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Online / [GitHub](https://github.com/NilsLeo/kcc-cloud)
-* [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
-* [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [DeDRM_tools](https://github.com/Satsuoni/DeDRM_tools) - Ebook DRM Removal

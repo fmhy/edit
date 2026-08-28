@@ -38,6 +38,7 @@ Official mirrors and alternative ways to view FMHY.
 * [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 * [Rentry Backup](https://rentry.co/FMHY) / [Mirror](https://rentry.org/FMHY)
 * [SFW Rentry](https://rentry.co/piracy) / [Mirror](https://rentry.org/piracy)
+* [.onion Backup](http://fnp47tywqhwygfkkik3dkgreocdbevjslzs6fw4zbotomcbqeuyahjqd.onion/)
 
 ***
 

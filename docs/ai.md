@@ -12,7 +12,7 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4 Pro 0813 / DeepSeek V4 Flash / Sign-Up / Unlimited / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.7 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
@@ -40,8 +40,8 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / Unlimited
+* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / GLM-5.3-Flash / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [⁠Tryingopen](https://www.tryingopen.com/) - Kimi K3 / GLM 5.3 / Qwen3.8 2.4T A95B / GLM-5.3-Flash / Unlimited
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Agent / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠ChatWave](https://chatwave.crunchflix.site/) - Claude Opus 5 / Claude Fable 5 / GPT-5.6 Sol / [Discord](https://discord.gg/RNxFvbP2D)
@@ -89,6 +89,7 @@
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
 * ⭐ **[Cherry Studio](https://cherryai.com/)** - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Desktop App / Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* [GobboNet](https://goblincorps.com/gobbonet) - Desktop App / [GitHub](https://github.com/ElodineOfficial/gobbonet)
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
@@ -142,6 +143,7 @@
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
 * [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - Realistic AI Voice Chatlooks
 * [⁠your ai slop bores me](https://youraislopbores.me/) - Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)
+* [GobboNet](https://goblincorps.com/gobbonet) - Self-Hosted Roleplaying Models / [GitHub](https://github.com/ElodineOfficial/gobbonet)
 * [⁠Lumiverse](https://lumiverse.chat/) - Self-Hosted Roleplaying Models
 * [Marinara Engine](https://github.com/Pasta-Devs/Marinara-Engine) - Self-Hosted Roleplaying Models
 

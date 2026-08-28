@@ -330,9 +330,8 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
@@ -344,6 +343,7 @@
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
+* [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever

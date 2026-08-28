@@ -111,7 +111,7 @@
 
 ***
 
-* ⭐ **[DS4Windows](https://github.com/schmaldeo/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-controller-support.md)
+* ⭐ **[DS4Windows](https://github.com/schmaldeo/DS4Windows)**, [⁠DS4Windows (Fork)](https://github.com/hbashton/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY-v2), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-controller-support.md)
 * [x360ce](https://www.x360ce.com/) - DS4 / 360 Controller Emulator / [GitHub](https://github.com/x360ce/x360ce)
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
 * [JoyToKey](https://joytokey.net/en/) - Controller Emulator
@@ -740,6 +740,7 @@
 * 🌐 **[CurseForge](https://www.curseforge.com/minecraft)** - Minecraft Mods / [QOL Fixes](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
 * [Modded Minecraft Wiki](https://moddedmc.wiki/) - Modded Minecraft Wiki / [GitHub](https://github.com/Sinytra/Wiki)
 * [Fabric](https://fabricmc.net/) / [Discord](https://discord.com/invite/VDGnGsFeuy) / [GitHub](https://github.com/FabricMC), [NeoForged](https://neoforged.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/neoforged), [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/MinecraftForge/MinecraftForge), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [GitHub](https://github.com/QuiltMC) - Mod Loaders
+* [⁠Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Configure Mods Directly In-Game
 * [Sodium](https://modrinth.com/mod/sodium) / [GitHub](https://github.com/CaffeineMC/sodium) / [Forge Version](https://modrinth.com/mod/embeddium), [Nvidium](https://modrinth.com/mod/nvidium) / [GitHub](https://github.com/MCRcortex/nvidium) or [VulkanMod](https://modrinth.com/mod/vulkanmod) / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod) - Rendering Engine Mods
 * [Voxy](https://modrinth.com/mod/voxy) / [GitHub](https://github.com/MCRcortex/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [GitLab](https://gitlab.com/distant-horizons-team/distant-horizons) or [Bobby](https://modrinth.com/mod/bobby), [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [GitHub](https://github.com/Johni0702/bobby) - Distance Rendering Mods
 * [ModMenu](https://modrinth.com/mod/modmenu) / [GitHub](https://github.com/TerraformersMC/ModMenu) - Mod Menu
@@ -1072,8 +1073,8 @@
 
 ## ▷ Mario Kart Tools
 
-* ⭐ **[Retro Rewind](https://rwfc.net/)** - Retro MKWii Tracks / Multiplayer / [Guides](https://rentry.org/Retro-Rewind) / [Discord](https://discord.gg/qbr3Y4PJFH)
-* ⭐ **RR Tools** - [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [Auto-Updater](https://github.com/TeamWheelWizard/WheelWizard/releases) / [VR Rankings](https://rwfc.net/vr) / [Troubleshooting](https://rentry.org/RR-Fixes)
+* ⭐ **[Retro Rewind](https://rwfc.net/)** - Retro MKWii Tracks / Multiplayer / [Wiki](https://wiki.tockdom.com/wiki/Retro_Rewind) / [VR Rankings](https://rwfc.net/vr) / [Discord](https://discord.gg/qbr3Y4PJFH)
+* ⭐ **[Wheel Wizard](https://github.com/TeamWheelWizard/WheelWizard/)** - Launcher, Installer & Updater for Retro Rewind + Wiicompiled
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** - Custom MKWii Tracks / Multiplayer / Requires Disc / [Discord](https://discord.com/invite/XMEQGDK)
 * ⭐ **[MKWRs](https://mkwrs.com)** - Mario Kart Records / Videos
 * ⭐ **[MKW Lobbies](https://wiimmfi.de/stats/mkw)** - Online MKW Lobbies
@@ -1098,6 +1099,7 @@
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKWii Textures
 * [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide
+* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - MKW Recompilation w/ Unlocked Framerate / Can Be Install via Wheel Wizard
 
 ***
 
@@ -1105,15 +1107,16 @@
 
 * 🌐 **[GD Colon](https://gdcolon.com/)** - GD Tools Index
 * ↪️ **[GD Demon Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_geometry_dash_demon_lists)**
-* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework / [X](https://twitter.com/GeodeSDK) / [Discord](https://discord.com/invite/9e43WMKzhp) / [GitHub](https://github.com/geode-sdk)
+* ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu / Modding Framework / [Modlist](https://geode-sdk.org/mods) / [X](https://twitter.com/GeodeSDK) / [Discord](https://discord.com/invite/9e43WMKzhp) / [GitHub](https://github.com/geode-sdk)
 * ⭐ **[⁠Geometry Dash Wiki](https://geometrydash.wiki.gg/)** - ⁠Geometry Dash Wiki / [Subreddit](https://www.reddit.com/r/geometrydash) / [Discord](https://discord.gg/geometrydash)
 * ⭐ **[GDDP](https://gddp.pro/)** / [Discord](https://discord.gg/gddp) or **[GD Demon Ladder](https://gdladder.com/)** / [Discord](https://discord.gg/gddl) - Practice & Improve Your Skills
 * [GD Forum](https://gdforum.freeforums.net/) - ⁠Geometry Dash Forum
-* [⁠Global Stats Viewer](https://globalstatsviewer.com/) - Global Stats / Leaderboard
+* [⁠Global Stats Viewer](https://globalstatsviewer.com/) or [⁠EDI](https://edi-d6y.pages.dev/) / [Discord](https://discord.gg/TEqvKS5H5N) - Global Stats / Leaderboards
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
+* [⁠Icons Gallery](https://iconsgallery.pages.dev/) - Custom GD Icons
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
 * [G.js](https://g-js-api.github.io/G.js/) - GD Level Programming Language / [Discord](https://discord.gg/GwVd7K2cQY) / [GitHub](https://github.com/g-js-api/G.js)
-* [GD Docs](https://wyliemaster.github.io/gddocs/) - GD Programming Documentation
+* [GD Docs](https://boomlings.dev/) - GD Programming Documentation / [Discord](https://discord.com/invite/uHHnxry4sR)
 * [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
 * [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker

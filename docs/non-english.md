@@ -13,6 +13,7 @@
 * 🌐 **[⁠Faharys](https://t.me/faharys)** - Telegram Channel Index 
 * [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
+* [⁠MiraiAnime](https://miraianime.net/) - Anime Subtitles
 
 ## ▷ Downloading / تحميل
 
@@ -188,7 +189,7 @@
 
 ## ▷ Downloading / 下载
 
-* [HaiSo ⁠海搜u](https://haisou.cc/) - Video / Audio / Books
+* [HaiSo ⁠海搜](https://haisou.cc/) - Video / Audio / Books
 * [⁠ZMX](https://bbs.itzmx.com/) - Video / Audio
 * [AnimeNep](https://t.me/AnimeNep) - Anime
 * [J-pop Music Download](https://jpop.xyz/category/c-pop/) - Music / FLAC / MP3
@@ -1384,6 +1385,7 @@
 * [Litgu.ru](https://litgu.ru/) - Books / Audiobooks
 * [Fantasy Worlds](https://fantasy-worlds.org/) - Books / Audiobooks
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW
+* [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Literature
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
 * [mangalib.me](https://mangalib.me/) - Manga
@@ -1815,6 +1817,7 @@
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App + Web Versions
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
+* [BooksWorld](https://t.me/Books_worldd) - Amharic / Audiobooks
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV
 * [euskal](https://www.euskal-encodings.eus/) - Basque / Download / Movies / TV
 * [radioplayer.be](https://radioplayer.be/) - Belgian Radio Stations / French / Dutch

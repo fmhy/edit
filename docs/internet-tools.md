@@ -65,7 +65,6 @@
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Instances](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem#list-of-public-instances-open-for-registration) / [Resources](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
-* [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
@@ -107,7 +106,7 @@
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tlk.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
 * ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [Source Code](https://dev.gajim.org/gajim/gajim)
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
-* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
+* [MatterBridge](https://github.com/42wim/matterbridge) or [Bolt](https://williamhorning.dev/bolt/) / [Self-Host](https://williamhorning.dev/lightning/) - Cross-Platform Chatbot Frameworks
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, macOS, Linux, Web
 * [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
 * [WeeChat](https://weechat.org/) - Chat App / macOS, Linux
@@ -143,6 +142,7 @@
 
 * ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
+* [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable

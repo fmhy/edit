@@ -19,7 +19,7 @@
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
@@ -410,7 +410,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers), [⁠DarkUrbex](https://darkurbex.pages.dev/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
@@ -510,6 +510,7 @@
 
 ## ▷ Geography Maps
 
+* [⁠Ecoregions](https://ecoregions.appspot.com/) - World Biomes Map
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) or [Oilslick](https://mrgris.com/projects/oilslick/) - World Terrain Height / Elevation Maps
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
@@ -1705,6 +1706,7 @@
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Middle-Earth Map](https://middle-earth-interactive-map.web.app/) - Tolkien's Middle-Earth Map
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
+* [⁠Confic Wiki](https://www.containmentfiction.net/) - Containment Fiction Wiki
 * [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
