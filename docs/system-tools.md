@@ -45,7 +45,7 @@
 * ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [Customizable Skin](https://github.com/bonzibudd/Fluent-Metro) or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
+* ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [BetterTrumpet](https://bettertrumpet.com/) / [GitHub](https://github.com/xammen/BetterTrumpet), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
@@ -202,7 +202,7 @@
 
 ## ▷ Hackintosh
 
-* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly. Keep in mind macOS Tahoe 27 will be the last working version on x86_64 hardware.
+* **Note** - Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly. Keep in mind macOS Tahoe 26 will be the last working version on x86_64 hardware.
 
 ***
 
@@ -331,6 +331,7 @@
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
 * [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 * [Deskhop](https://github.com/hrvach/deskhop) - Quickly Switch Devices between Computers
@@ -425,7 +426,7 @@
 * 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
 * ⭐ **[OpenRGB](https://openrgb.org/)**, **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
-* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
+* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Collections
 * Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [macOS Style](https://redd.it/pd5ha6) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
 * [VirtualCustoms](https://virtualcustoms.net/), [⁠WinClassic](https://winclassic.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
 * [Desktops](https://deskto.ps/) - Customization Showcases
@@ -461,6 +462,7 @@
 * [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)
 * [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
 * [theme.park](https://theme-park.dev/) - Custom App Theme
+* [⁠Tokyo Night](https://tokyonight.org/) - Custom App Theme
 * [Solarized](https://ethanschoonover.com/solarized/) - Custom App Theme / [GitHub](https://github.com/altercation/solarized)
 * [gruvbox](https://github.com/morhetz/gruvbox) - Custom App Theme / [GitHub](https://github.com/morhetz/gruvbox-contrib)
 * [⁠Flexoki](https://stephango.com/flexoki/) - Custom App Theme / [GitHub](https://github.com/kepano/flexoki)

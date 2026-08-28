@@ -17,6 +17,8 @@
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
+* [⁠tony, btw](https://tonybtw.com/) - Linux Tutorials / Guides / [Discord]
+(https://discord.gg/nXZwDb8HB5)
 * [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
 * [Linux Roadmap](https://roadmap.sh/linux) - Linux Learning Roadmap
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw

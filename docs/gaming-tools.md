@@ -268,6 +268,7 @@
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [⁠hoGAMEGATA](https://gamegata.xyz/) - Horror Game Database
+* [⁠GOG Database](https://www.gogdb.org/) - GOG Game Database
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
 * [⁠The Adventure Game Database](https://adventuregamedb.com/) - Graphic Adventure Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
@@ -506,6 +507,7 @@
 * [Rusticaland](https://rusticaland.net/) - Free Rust Servers / [Discord](https://discord.com/invite/MD9RgdYhpf)
 * [The Crew Unlimited](https://thecrewunlimited.com/) - The Crew 1 Revival Project / [Discord](https://discord.gg/Ms7T5vWgP5)
 * [BFME Arena](https://rentry.co/FMHYB64#bfme) - LOTR: The Battle for Middle-Earth Multiplayer / Launcher
+* [Echoes of Angmar](https://rentry.co/FMHYB64#echoes-of-angmar) - Lord of the Rings Online Classic Server
 * [Ephinea](https://ephinea.pioneer2.net/) - Phantasy Star Online Blue Burst Server Revival
 * [PSO Servers](https://www.reddit.com/r/PSO/wiki/servers) - Phantasy Star Online 1 Server Revivals
 * [DramaSO](https://www.dramaso.org/) - Sims Online Server Revival
@@ -724,7 +726,7 @@
 * 🌐 **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - Optimization & Enhancement Mods / [Discord](https://discord.gg/8nzHYhVUQS)
 * 🌐 **[Microcontrollers' Alternatives](https://alternatives.microcontrollers.dev/)** - Mod / Client Alternatives List / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
 * 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** or [OptiFine Replacements](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) - OptiFine Alternative Mods for Fabric
-* [Fabulously Optimized](https://download.fo/) - OptiFine Alternative Modpack
+* [⁠Additive](https://skywardmc.org/additive/) or [Fabulously Optimized](https://download.fo/) - OptiFine Alternative Modpacks
 * [ModpackIndex](https://www.modpackindex.com/) / [Discord](https://discord.com/invite/9QfENvm), [FiberMC](https://www.fibermc.com/) / [Discord](https://discord.com/invite/dwh9y7D) or [FTB Wiki](https://ftbwiki.org/Feed_The_Beast_Wiki) / [Discord](https://discord.com/invite/QsbEK52) - Modpack & Fabric Indexes
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg) or [Minecraft Forum](https://www.minecraftforum.net/) / [Discord](https://discord.com/invite/wGrQNKX) - Community Content Directories
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM), [MCPEDL](https://mcpedl.com/) or [BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
@@ -753,7 +755,7 @@
 * [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) - Exploit Prevention Mod
 * [quark](https://quarkmod.net/) / [GitHub](https://github.com/VazkiiMods/Quark) - Vanilla-Like QoL & Content Mod
 * [MCCreator](https://mcreator.net/) / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Subreddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator) or [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) / [Discord](https://discord.com/invite/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit) - Mod & Plugin Creators
-* [Packwiz](https://packwiz.infra.link/) / [GitHub](https://github.com/packwiz/packwiz) or [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer) - Modpack Management & Dependency Tools
+* [⁠Pakku](https://github.com/juraj-hrivnak/Pakku), [Packwiz](https://packwiz.infra.link/) / [GitHub](https://github.com/packwiz/packwiz) or [ModPack Dependency Visualizer](https://arcbra.github.io/ModPack-Dependency-Visualizer/) / [GitHub](https://github.com/arcbra/ModPack-Dependency-Visualizer) - Modpack Management & Dependency Tools
 * [ModDex](https://moddex.gg/) / [Discord](https://discord.gg/tRNZcpJbqY), [Minecraft Guides](https://www.minecraft-guides.com/) or [r/feedthebeast](https://reddit.com/r/feedthebeast/) / [Discord](https://discord.com/invite/moddedmc) - Mod Guides & Communities
 
 ***
@@ -916,8 +918,8 @@
 
 * ↪️ **[Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_writing_tools)** - Writing Tools / Story Managers
 * ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [RPTools](https://www.rptools.net/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
-* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Chartopia](https://chartopia.d12dev.com/), [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Story Writing Tools
 * ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
+* [Chartopia](https://chartopia.d12dev.com/), [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Story Writing Tools
 * [watabou](https://watabou.itch.io/), [2](https://watabou.github.io/) - Generators for Fantasy Worlds, Dungeons, and More
 * [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
 * [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows

@@ -118,7 +118,7 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets
+* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
 * [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
@@ -143,7 +143,7 @@
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
 * ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
-* [Podchaser](https://www.podchaser.com/charts) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
+* [Podchaser](https://www.podchaser.com/charts), [Podcast Index](https://podcastindex.org/) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
 * [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
 * [Apple Podcasts](https://podcasts.apple.com/us/home)
@@ -151,7 +151,6 @@
 * [Podbean](https://www.podbean.com/)
 * [Podbay](https://podbay.fm/)
 * [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [Podcast Index](https://podcastindex.org/)
 * [Player FM](https://player.fm/)
 * [Podcast Republic](https://www.podcastrepublic.net/)
 * [Relay.fm](https://www.relay.fm/)
@@ -174,9 +173,9 @@
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
-* [Rainyscope](https://rainyscope.com/) - Ambient Rain / [GitHub](https://github.com/jenius-apps/ambie)
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain 
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
-* [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App
+* [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
 * [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
 * [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
@@ -185,7 +184,7 @@
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
-* [Generative.fm](https://generative.fm/) or [Lofi Generator](https://lofigenerator.com/) - Generative Ambient Music
+* [Generative.fm](https://generative.fm/) - Generative Ambient Music
 * [Earth.fm](https://earth.fm/), [tree.fm](https://www.tree.fm/) or [Sounds of Maine](https://soundsofmaine.life/) - Field Recordings
 * [HaloMe](https://halome.nu/) - Halo Menu Screens
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
@@ -217,34 +216,29 @@
 * [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
 * [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft and Rail Radio
 * [OpenMHz](https://openmhz.com/) - Live Police Radio
-* [RadioReference](https://www.radioreference.com/) - Morse Code Radio / Communication
+* [RadioReference](https://www.radioreference.com/) - Scanner Frequency Database
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
 
 ***
 
 ## ▷ Internet Radio
 
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
+* [Radiolise](https://radiolise.com/) - Online Radio Player / Directory
 * [Audiophile](https://audiophile.fm/) - Online Radio Directory
 * [You Radio](https://play.you.radio/) - Online Radio Directory
 * [KWSX Radio](https://radio.kwsx.online/) - Online Radio / Listener Supported
 * [⁠ScrobbleRadio](https://scrobblerad.io/) - Online Radio w/ Multi-Platform Scrobbling / [GitHub](https://github.com/jbwharris/scrobblerad.io)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Online Radio Directory
 * [My Radio](https://junguler.github.io/m3u-player-web/) - Online Radio Directory
-* [0nRadio](https://www.0nradio.com/) or [1a Radio](https://www.1aradio.com/) - Online Radio Directory
-* [Radiolise](https://radiolise.com/) - Online Radio Player / Directory
-* [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
-* [TVAtlas Radio](https://tvatlas.app/radio) - Online Radio Player / Directory
-* [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
 * [⁠Freeform Radio](https://www.freeformradio.directory/) - Online Radio Directory
 * [⁠Vijay's Radio Vibes](https://vijaysradiovibes.pages.dev/) - Random Radio Stations
 * [Q-3](https://www.q-3.eu/) - Online Radio Directory
 * [⁠DubLab](https://www.dublab.com/) - Online Radio
 * [⁠BoxRadio](https://boxradio.net/) - Online Radio Directory
-* [Vidbox Radio](https://vidbox.dev/radio) - Online Radio Directory
 * [ShoutCast](https://directory.shoutcast.com/), [Zeno.fm](https://zeno.fm/) or [Live365](https://live365.com/) - User-Stations
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
 * [⁠WFMU](https://wfmu.org/) - Independent Internet Radio
@@ -258,7 +252,6 @@
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [HollowEarthRadio](https://www.hollowearthradio.org/) - Pacific Northwest Artists
 * [Campus FM](https://www.campus-fm.com/) - College Radio
-* [RadioSide](https://radioside.com/v1/) - Internet Radio Receiver
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
@@ -290,6 +283,7 @@
 
 ## ▷ Genre Specific Radio
 
+* 🌐 **[⁠Unify.fm](https://www.unify.fm/)** - Independent Electronic Radio Index
 * [⁠WQXR](https://www.wqxr.org/streams/) or [⁠The Classical Station](https://theclassicalstation.org/) - Classical Music Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
@@ -302,7 +296,6 @@
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [TechnoBase](https://www.technobase.fm), [TranceBase](https://www.trancebase.fm), [HouseTime](https://www.HouseTime.fm) or [HardBase](https://www.HardBase.fm) - Electronic Radio / [Discord](https://discord.com/invite/xFRcWdNUkY)
 * [Di.fm](https://www.di.fm/) - Electronic Radio
-* [0x40](https://0x40.mon.im/) - Electronic Radio with Anime Pictures
 * [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
 * [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
@@ -327,6 +320,7 @@
 * [Lofi Limo](https://lofi.limo/) - Lofi Radio
 * [DevTunes FM](https://radio.madza.dev/) - Lofi Radio
 * [Moss Garden](https://moss.garden/) - Lofi Radio
+* [Lofi Generator](https://lofigenerator.com/) - Generate Lofi Audio
 * [Coding Cat](https://hostrider.com/) - Lofi Radio / Nyan Cat's Cousin
 
 ***
@@ -382,7 +376,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
+* ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[Monochrome](https://monochrome.tf/)**, [2](https://monochrome.samidy.com/), [3](https://lossless.wtf/), [4](https://if-it-runs-ship-it.lol/), [5](https://monochromemusic.pages.dev/) - FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
@@ -478,7 +472,6 @@
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to) - MP3
 * [GloryBeats](https://glorybeats.com/) - MP3
-* [Cliggo](https://music.cliggo.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [FreeMP3Cloud](https://freemp3cloud.com/) - MP3
 * [zvu4no](https://zvu4it.org/) - MP3
@@ -501,6 +494,7 @@
 * [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
 * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
+* [Lost Songs](https://lostsongshc.blogspot.com/) - Hardcore / MP3
 * [1Gabba](https://1gabba.pw/) - Electronic / MP3
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
 * [⁠ELEKTROBEATS](https://elektrobeats.org/) - Electronic / MP3
@@ -645,7 +639,7 @@
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV Shows
-* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Set Database / [Essentials List](https://rentry.co/dancemixbible/)
 * [Discogs](https://www.discogs.com/) - Ratings / Reviews / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)
 * [⁠Record Club](https://record.club/) - Ratings / Reviews
 * [⁠EntertainMe](https://www.entertainme.fun/) - All-in-One Media & Entertainment Tracker
@@ -705,6 +699,7 @@
 
 * 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
 * ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - Recommendation Radio / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://soundcloud.com/user-202286394-991268468) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
 * [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
@@ -980,7 +975,7 @@
 
 ## ▷ Browser Editors / Synths
 
-* ⭐ **[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/), [⁠AudioTool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
+* ⭐ **[BandLab](https://www.bandlab.com/)**, **[Audioalter](https://audioalter.com/)**, **[WavaCity](https://wavacity.com/)**, [⁠Riffle](https://www.riffle.studio/), [Bosca Ceoil](https://humnom.net/apps/boscaceoil/), [⁠Audiotool](https://www.audiotool.com/), [AudioMass](https://github.com/pkalogiros/audiomass), [editor.audio](https://editor.audio/), [TwistedWave](https://twistedwave.com/online) or [xAudioPro](https://www.xaudiopro.com/en/) - Online Editors / Web DAWs
 * ⭐ **[Drumhaus](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [DrumBit](https://drumbit.app/), [Roland50.studio](https://roland50.studio/), [Acid Machine 2](https://errozero.co.uk/acid-machine/), [orDrumbox](https://www.ordrumbox.com/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [UltraBox](https://ultraabox.github.io/), [AbyssBox](https://choptop84.github.io/abyssbox-app/), [JummBox](https://jummb.us/) / [GitHub](https://github.com/jummbus/jummbox), [BeepBox](https://www.beepbox.co/) or [GoldBox](https://aurysystem.github.io/goldbox/) - Online Sequencer / BeepBox Forks
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Tracker / Sequencer
@@ -1005,25 +1000,21 @@
 
 ## ▷ Audio Plugins
 
-* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
-* ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
-* [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
-* [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
-
-***
-
-## ▷ Freeware Plugins
-
 * 🌐 **[Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)**, [2](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugin Index
 * 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
+* ⭐ **[AudioZ](https://audioz.download/)** - Download / [Forum](https://audiosex.pro/)
+* ⭐ **[Team V.R releases](https://rentry.co/FMHYB64#team-vr)** - Download
 * ⭐ **[Surge XT](https://surge-synthesizer.github.io/)** - Hybrid / Subtractive Synth
 * ⭐ **[Vital](https://vital.audio/)** or [Helm](https://tytel.org/helm/) - Wavetable Synths
 * ⭐ **[Dexed](https://asb2m10.github.io/dexed/)** - Yamaha DX7 Emulation
+* [G-MEH](https://g-meh.com/) - Download / [Discord](https://discord.com/invite/g-meh)
+* [AudioWavePro](https://t.me/AudioWavePro) - Telegram / AudioZ Reuploads
 * [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/) or [sforzando](https://www.plogue.com/products/sforzando.html) - VST Samplers / [Libraries](https://www.decentsamples.com/), [2](https://sfzinstruments.github.io/), [3](https://unreal-instruments.wixsite.com/unreal-instruments)
 * [Pianobook](https://www.pianobook.co.uk/) - 1500+ Sample Packs / Requires Sign-Up
 * [VCV Rack 2](https://vcvrack.com/Rack) or [Cardinal](https://cardinal.kx.studio/) - Eurorack Simulators
 * [IEM Plug-in Suite](https://plugins.iem.at/), [ModularSamples](https://github.com/publicsamples), [Igorski](https://www.igorski.nl/download) / [GitHub](https://github.com/igorski?utf8=✓&tab=repositories&q=vst), [SPARTA](https://leomccormack.github.io/sparta-site/) or [Chowdhury DSP](https://chowdsp.com/products.html) - Open-Source Plugins
 * [Plugins4Free](https://plugins4free.com/), [looperman](https://www.looperman.com/free-music-software), [⁠Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials), [⁠drumkits](https://drumkits.site/), [⁠blepfx](https://fx.amee.ee/) or [AirWindows](https://www.airwindows.com/) / [Consolidated](https://www.airwindows.com/consolidated/) - Plugins / Use Adblocker
+* [⁠osci-render](https://osci-render.com/) - Audio-Visual Music Making Plugin / [GitHub](https://github.com/jameshball/osci-render)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Polyphonic Sampler
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
@@ -1039,6 +1030,7 @@
 * [Stash](https://rentry.co/FMHYB64#dkl) - Samples / Drumkits / Presets
 * [FreeSoundsLibrary](https://www.freesoundslibrary.com/) - Sound Effects
 * [BandLab Samples](https://www.bandlab.com/sounds/free-samples) - Samples
+* [⁠SoundPacks](https://soundpacks.com/) - Samples
 * [SoundGator](https://www.soundgator.com/) - Sound Effects
 * [GDC](https://sonniss.com/gameaudiogdc) - Sound Effects
 * [⁠BigSoundBank](https://bigsoundbank.com/) - Sound Effects
