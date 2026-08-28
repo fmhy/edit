@@ -341,7 +341,7 @@
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
-* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
+* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download

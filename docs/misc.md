@@ -1676,7 +1676,6 @@
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
 * [Pianoverse](https://pianoverse.net/) or [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
-* [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [DJ Phonetic](https://djphonetic.brianfoo.com/) - Historical Speech Beatboxing
 * [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?cp) - Browser Cello
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
