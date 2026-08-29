@@ -32,7 +32,7 @@
 * [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/appnetica_info)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
-* [⁠Kryoto](https://kryo.to/) - Download / Pre-Installed
+* [⁠Kryoto](https://kryo.to/) - Download / Pre-Installed / Some NSFW
 * [⁠IceQueens Portables](https://game-box.win/) - Torrent / Download / Portables
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
