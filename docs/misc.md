@@ -1396,6 +1396,7 @@
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
 * [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
+* [Zap Tools](https://zap.tools) - Dev Tools / Encode-Decode / SEO Tools / File Conversion
 
 ***
 
