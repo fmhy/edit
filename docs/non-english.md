@@ -1660,26 +1660,20 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Dizipal](https://dizipal1552.com/)** - Movies / TV / Sub / Dub / 1080p / Requires VPN
+* ⭐ **[Dizipal](https://dizipal1453.com/)** - Movies / TV / Sub / Dub / 1080p / Requires VPN
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
-* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p
-* ⭐ **[OpenAnime](https://openani.me/)** - Anime
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.mx)** - Movies / Sub / Dub / 1080p
-* ⭐ **[AnimeciX](https://anm.cx/)** - Anime
-* [Dizilla](https://dizilla.to/), [2](https://selcukflix.co/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p
 * [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime
 * [diziyo](https://diziyo.so/) - Movies / TV / Anime
 * [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p 
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime
-* [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
-* [Türk Anime](https://www.turkanime.co/) - Anime / [Downloader](https://github.com/KebabLord/turkanime-indirici)
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
@@ -1696,9 +1690,7 @@
 * [⁠Hattusa](https://hattusa.club/) - Books
 * [kitab-evi](https://kitab-evi.com/) - Books
 * [Manga Denizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
-* [sadscans](https://sadscans.net/) - Manga / [Discord](https://discord.gg/wrr9A6wHGu)
 * [Trwebtoon](https://trwebtoon.com/) - Manga
-* [Nirvana Manga](https://nirvanamanga.com/) - Manga
 * [Tortuga-ceviri](https://tortugaceviri.com/) - Manga / [Discord](https://discord.gg/bSxwMNM9mm)
 * [Raindrop](https://www.raindropteamfan.com/) - Manga
 * [Uzaymanga](https://uzaymanga.com/) - Manga
@@ -1768,21 +1760,17 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim2.org/) - Movies / TV / Anime / Sub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
-* [⁠Sofaflix](https://sofaflix.biz/) - Movies / TV / Anime / Sub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
+* [⁠Tram Phim](https://tramphim4.org/) - Movies / TV / Anime / Sub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
+* [⁠Sofaflix](https://sofaflix.shop/) - Movies / TV / Anime / Sub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [OPhim](https://ophim18.cc/) - Movies / TV / Anime / Sub / 1080p
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub) / [Discord](https://discord.com/invite/AUNt59q)
-* [Ani4u](https://ani4u.org/) - Anime / Sub / 1080p
-* [vnepg](https://rentry.co/FMHYB64#iptv-playlists) - Vietnamese IPTV Schedule
 * [⁠Courseware](https://www.hcmut-courseware.org/courses) - Courses
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 
 * ⭐ **[ZingMP3](https://zingmp3.vn/)** or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
-* [FPT Play](https://fptplay.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / Movies / TV / Music / Dub / 1080p
 * [TV360](https://tv360.vn/) - Live TV / Movies / TV / Sub / Dub / 1080p
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
@@ -1802,7 +1790,6 @@
 * [TruyenQQ](https://truyenqqviet.com/) - Manga / Manhwa / Manhua
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
-* [Vietwriter](https://vietwriter.one/) - Manga / Manhwa / Manhua / Novel
 * [TruyenFull](https://truyenfull.vision/) - Manga / Light Novels
 * [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Babla](https://www.babla.vn/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
@@ -1825,7 +1812,7 @@
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Serbian / Slovene / Download / Video / Audio / Games / Books / Comics
 * [WarezHR](https://www.warezhr.org/) - Croatian / Download / Video / Audio / Games / Books / Comics
 * [JockanTV](https://jockantv.eu/) - Croatian / Streaming / Dubbed Cartoons / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live
+* [DR.DK](https://www.dr.dk/) - Danish / Movies / TV / Live / Signup Required
 * [⁠Schatkamer](https://schatkamer.beeldengeluid.nl/) - Dutch / Rare Media 
 * [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Danish Cybersecurity Discord
 * [tegnsprog](https://www.tegnsprog.dk/) - Danish Sign Language Dictionary

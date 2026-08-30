@@ -22,7 +22,6 @@
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Process Monitor
 * [Why Is This Running?](https://github.com/pranshuparmar/witr) - Process Tracing / Debugging
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games / [GitHub](https://github.com/Merrit/nyrna)
@@ -182,13 +181,12 @@
 * ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
 * ⭐ **[QEMU](https://www.qemu.org/)** - Virtual Machine / Use w/ Virt-Manager or Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
 * ⭐ **[VirtualBox](https://www.virtualbox.org/)** - Virtual Machine / [GitHub](https://github.com/VirtualBox/virtualbox)
-* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
+* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager), [Dexpot](https://www.dexpot.de/) or [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - Virtual Machine Managers
 * [Looking Glass](https://looking-glass.io/) - Kernel-Based Virtual Machine for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
 * [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) - Virtual Machine
-* [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machine
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
 * [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
-* [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
+* [QuickEmu](https://github.com/quickemu-project/quickemu) - Virtual Machine Creator
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg) / [GitHub](https://github.com/microsoft/WSL)
 * [⁠Dockur](https://github.com/dockur) - Run Windows / macOS in Docker Containers
 * [Virtual x86](https://copy.sh/v86/) - x86-compatible OS Emulators

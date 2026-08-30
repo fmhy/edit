@@ -73,7 +73,7 @@
 
 * 🌐 **[Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md)** or [Nvidia Overclocking Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) - Nvidia Overclocking Resources / Guides
 * 🌐 **[Creepy's HDR Guides](https://www.hdrmods.com/)** - HDR Gaming Resources / Guides ⁠
-* ⭐ **[SpecialK](https://www.special-k.info/)** - Game Optimization Tool / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK) / Windows, Linux
+* ⭐ **[Special K](https://www.special-k.info/)** - Game Optimization Tool / Avoid Using in Multiplayer Games / [Discord](https://discord.gg/specialk) / [GitHub](https://github.com/SpecialKO/SpecialK) / Windows, Linux
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer / Windows
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test / Windows
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles / Windows
@@ -196,6 +196,7 @@
 * [bspview](https://sbuggay.github.io/bspview) - Explore Quake & GoldSRC Maps / [GitHub](https://github.com/sbuggay/bspview)
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
+* [⁠PokéMaps](https://pokemaps.net/) - Interactive Pokémon Maps & Catch Locations
 * [⁠TWHL](https://twhl.info/vault) - Half-Life Maps, Mods & Mapping Tutorials
 * [RDR2 Map](https://rdr2map.com/) - Interactive Red Dead Redemption Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps / [Discord](https://discord.com/invite/ybGX7sv)
@@ -245,6 +246,7 @@
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database / [Discord](https://discord.gg/cMjGusjbwg)
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database / [Discord](https://discord.gg/v4SUud7)
+* [Incendar](https://incendar.com/), [⁠gamereleases.gg](https://gamereleases.gg/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Trackers
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Database
 * [IGDB](https://www.igdb.com/) - Game Database / [Discord](https://discord.com/invite/igdb)
 * [Moby Games](https://www.mobygames.com/) - Game Database / [Discord](https://discord.gg/8zWGTQp)
@@ -288,7 +290,6 @@
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility
 * [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
-* [Incendar](https://incendar.com/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Tracker
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker
 
 ***
@@ -571,6 +572,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [WiiMart](https://wiimart.org/) - Wii Shop Channel Revival / Free Games & Points / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart)
 * [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App 
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
 
@@ -764,7 +766,7 @@
 ## ▷ Maps / World Tools
 
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Map Tools
-* [ChunkBase Seed Map](https://www.chunkbase.com/apps/seed-map), [MCSeedMap](https://mcseedmap.net/), [Seeds.gg](https://www.seeds.gg/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer), [Amidst](https://github.com/toolbox4minecraft/amidst), [MineAtlas](http://mineatlas.com/) or [MinecraftSearch](https://minecraftsearch.com/) - Seed Map Viewers
+* [MinecraftSearch Seedmap](https://minecraftsearch.com/tools/seed-map), [ChunkBase Seed Map](https://www.chunkbase.com/apps/seed-map), [MCSeedMap](https://mcseedmap.net/), [Seeds.gg](https://www.seeds.gg/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer), [Amidst](https://github.com/toolbox4minecraft/amidst) or [MineAtlas](http://mineatlas.com/) - Seed Map Viewers
 * [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) / [Discord](https://discord.com/invite/TCmvrPyA9x), [WorldPainter](https://www.worldpainter.net/) or [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map) - Map Editors & Viewers
 * [BlueMap](https://bluemap.bluecolored.de/) / [GitHub](https://github.com/BlueMap-Minecraft/BlueMap) or [MineAssets Editor](https://editor.mineassets.com/) - 3D Map Models & Web Model Editor
 * [Arnis](https://arnismc.com/) / [Discord](https://discord.com/invite/mA2g69Fhxq) / [GitHub](https://github.com/louis-e/arnis) - Real-World Location Generators
@@ -1000,6 +1002,7 @@
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Awesome](https://pokemon-awesome.vercel.app/), [PocketMonsters.net](https://pocketmonsters.net/) or [Pokémon Database](https://pokemondb.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** or [PokeAPI](https://pokeapi.co/) - Pokédexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** or [Type Calculator](https://www.pkmn.help/) - Pokémon Type Charts
+* [⁠PokéMaps](https://pokemaps.net/) - Interactive Pokémon Maps & Catch Locations
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokémon Community
 * [Project Pokémon](https://projectpokemon.org/) - Pokémon Tools, Saves, etc.
 * [⁠The Cave of Dragonflies](https://www.dragonflycave.com/) - Pokémon Mechanics Guides / Calculators & more
@@ -1044,7 +1047,7 @@
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr) / [GitHub](https://github.com/cleolibrary)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA / [BlueSky](https://bsky.app/profile/cookieplmonster.bsky.social) / [X](https://x.com/__silent_) / [GitHub](https://github.com/CookiePLMonster/SilentPatch)
 * [FiveM](https://fivem.net/) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
-* [GTA Cars](https://gtacars.net/) - GTA Car Database / Stats
+* [⁠GTA Base Vehicle ](https://www.gtabase.com/gta-6/vehicles/) or [GTA Cars](https://gtacars.net/) - GTA Vehicle Databases / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
 * [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SA / [Discord](https://discord.gg/YSyasDa)

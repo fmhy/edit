@@ -1377,6 +1377,7 @@
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [⁠HeyTools](https://heytools.app/) - Text / PDF / Image / Code
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [⁠ClipZeal](https://clipzeal.com/) - Video / Audio / Image / GIF
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
 * [Private.coffee](https://private.coffee/services.html) - Text / Code
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code

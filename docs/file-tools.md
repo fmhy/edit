@@ -121,7 +121,7 @@
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
 * [age](https://github.com/FiloSottile/age) - File Encryptor
-* [REM](https://github.com/liriliri/rem) - File Encryptor / Rclone GUI
+* [REM](https://rem.liriliri.io/) - File Encryptor / Rclone GUI / [GitHub](https://github.com/liriliri/rem)
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
