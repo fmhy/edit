@@ -1509,7 +1509,7 @@
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
-* [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
+* [CollegeCompendium](https://collegecompendium.org/) - Computer Science Courses
 * [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) - Computer Science Courses
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
