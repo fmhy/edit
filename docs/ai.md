@@ -456,7 +456,7 @@
 * [⁠LLMs Bullshit Benchmark](https://petergpt.github.io/bullshit-benchmark/viewer/index.html) - Broken Premise Detection Benchmarks
 * [ChessArena](https://www.chessarena.ai/) - AI Chess Benchmarks
 * [⁠VoxelBench](https://voxelbench.ai/) - Minecraft AI Generation Benchmark
-
+* [⁠Astrocartography](https://astrocarto.org/) - Free Astrocartography Calculator with AI 
 ***
 
 ## ▷ Coding Benchmarks
