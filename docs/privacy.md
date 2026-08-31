@@ -367,7 +367,7 @@
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
-* [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Browser Cookie Privacy Check
+* [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Cookie Free Fingerprinting Demonstration
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
 * [JShelter](https://jshelter.org/) / [Source Code](https://pagure.io/JShelter/webextension) or [Chameleon](https://github.com/00x127/Chameleon) - Prevent Fingerprinting / Extensions / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Locale Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier / [GitHub](https://github.com/locale-switcher/locale-switcher)
