@@ -562,7 +562,6 @@
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * [KinoZ](https://www21.kinox.to/) - Movies / TV / Anime
-* [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md) / [Discord](https://discord.gg/C2zGTdUbHE)
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
@@ -741,7 +740,6 @@
 * [tamilblasters](https://www.1tamilblasters.luxe/) - Movies / TV / Anime
 * [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
-* [Cineby](https://www.cineby.at/) - Hindi-Dub Movies / TV / Anime / 1080p / Auto-Next / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md) / [Discord](https://discord.gg/C2zGTdUbHE)
 * [1Tube](https://www.1tube.org/) - Movies / TV / Anime / 4K / [Discord](https://discord.com/invite/K4RFYFspG4)
 * [HydraHD](https://hydrahd.com/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Anime Joker](https://animejoker.com/) - Movies / TV / Anime
@@ -1139,7 +1137,6 @@
 * [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeFire](https://animefire.plus/) - Anime / Sub / 1080p
-* [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md) / [Discord](https://discord.gg/C2zGTdUbHE)
 * [redecanais](https://redecanais.ooo/) - Movies / TV / Anime
 * [goyabu](https://goyabu.to/) - Anime / Sub
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
@@ -1515,7 +1512,6 @@
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)
 * [PelisPlus](https://ww3.pelisplus.to/) - Movies / TV
 * [hackstore2](https://hackstore2.com/) - Movies / TV
-* [Cineby](https://www.cineby.at/) - Movies / TV / Anime / 1080p / Auto-Next / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md) / [Discord](https://discord.gg/C2zGTdUbHE)
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content

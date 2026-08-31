@@ -17,7 +17,6 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.ac/)** or [BingeBox](https://bingebox.ac/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Movy](https://www.movy.bz/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
-* ⭐ **[Cineby](https://cineby.at/)**, [Cineplay](https://www.cineplay.to/) or [Fmovies+](https://www.fmovies.gd/) - Movies / TV / Anime / Auto-Next / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md)
 * ⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.cx/), [3](https://flixer.su/) or [Hexa](https://hexa.su/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[67Movies](https://67movies.nl/)**, [2](https://67movies.net/), [3](https://shows.st/) or [PhantomFlix](https://phantomflix.net/), [2](https://ravenflix.net/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[bCine](https://bcine.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/6ZXNmPedkG)
@@ -88,7 +87,6 @@
 
 ***
 
-* ⭐ **[Z-Stream](https://zstream.mov/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rentry.co/xpstream) / [Discord](https://discord.gg/mtSMCeTM2z) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 * ⭐ **[Aether](https://aether.ist/)**, [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * [Basement](https://basementx.xyz/), [2](https://basementx.pro/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/bWYUqEg7Xq) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 * [kstream](https://kdesa.stream/) - Movies / TV / Anime / Auto-Next
@@ -794,7 +792,6 @@
 * [Pahe](https://pahe.ink/) - Movies / TV / Anime / 4K / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pahe-note.md) / [Ad-Bypass](https://greasyfork.org/en/scripts/443277) / [Discord](https://discord.gg/4AvaCsd2J4)
 * [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
-* [Cineby](https://cineby.at/), [2](https://www.cineplay.to/) - Movies / TV / Anime / 4K / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cineby-shutdown.md)
 * [FlickyStream](https://flickystream.dad/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
