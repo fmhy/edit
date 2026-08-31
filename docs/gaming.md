@@ -579,6 +579,7 @@
 * [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Poople](https://poopdle.org/) - Daily 4-Letter Word Ladder to POOP
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
 * [⁠PlausibleGame](https://plausiblegame.com/) - Daily Word Game
 * [⁠Blockle](https://blockle.au/) - Daily Word Game
@@ -599,6 +600,9 @@
 * [Fusele](https://fusele.netlify.app/) - Wordle Variant
 * [Word500](https://word500.com/) - Wordle + Mastermind
 * [Wordly](https://wordly.org/) - Wordle Clone
+* [Wordle Unlimited](https://wordunlimited.app/) - Wordle game with no Daily Limits
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Wordsmyth](https://www.playwordsmyth.com/) - Daily Word Transformation Game
 * [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
 * [⁠Crosswordle](https://crosswordle.com/) - Crossword-Style Wordle 
 * [Sqword](https://www.sqword.com/) - Deck-Based Wordle
