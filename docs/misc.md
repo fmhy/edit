@@ -982,6 +982,8 @@
 * [Remotive](https://remotive.com/) - Remote Jobs
 * [DailyRemote](https://dailyremote.com/) - Remote Jobs
 * [HireBasis](https://www.hirebasis.com/) - Remote Jobs
+* [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Remote Frontend Jobs
+* [Remote Backend Jobs](https://remotebackendjobs.com/) - Remote Backend Jobs
 
 ***
 
@@ -1002,6 +1004,8 @@
 * [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
 * [Best PM Jobs](https://www.bestpmjobs.com/) - Tech Firm Night Jobs
 * [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
+* [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find Remote Frontend Jobs
+* [Remote Backend Jobs](https://remotebackendjobs.com/) - Find Remote Backend Jobs
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
