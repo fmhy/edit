@@ -856,7 +856,7 @@
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracy / Psychedelics
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
 * [Great Library of Eris](https://libraryoferis.org/) - Discordianism
 

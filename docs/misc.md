@@ -1482,7 +1482,6 @@
 * [Fora](https://fora.com/communities/) or [Discourse](https://discover.discourse.com/) - Specialty Forums
 * [Resetera](https://www.resetera.com/), [RetroGameTalk](https://retrogametalk.com/) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/) or [RacketBoy](https://racketboy.com/forum/) - Gaming Forums
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
-* [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Airsoft International](https://discord.gg/airsoft) - Airsoft Guides / Community 
 * [Photonlexicon](https://www.photonlexicon.com/forums/) - Lasers Forum
 * [Status.Cafe](https://status.cafe/) - Share Current Status
@@ -1753,6 +1752,8 @@
 
 ## ▷ Mysteries / Paranormal
 
+* ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
+* [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [EnigmaLabs](https://enigmalabs.io/), [⁠UFO Evidence](http://www.ufoevidence.org/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO + UAP Sighting Lists / Tracking
 * [⁠Fern Flower Project](https://www.fern-flower.org/) - Database of Anomalous / Paranormal Phenomenon
