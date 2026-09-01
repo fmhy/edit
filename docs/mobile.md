@@ -701,6 +701,7 @@
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
 * [timeto.me](https://timeto.me/) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
+* [Loggd](https://loggd.life/) - Habit tracker and planner that helps you actually stick with it
 
 ***
 
