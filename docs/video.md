@@ -12,7 +12,7 @@
 
 ***
 
-* ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.vip/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[mwsguy vip cinema](https://v2.mwsguy.com/p/vip2.html)**, [2](https://v2.mwsguy.com/p/vip1.html) or [No-adsCine](https://v2.mwsguy.com/p/vip2.html), [2](https://v2.mwsguy.com/p/vip2.html), [3](https://v2.mwsguy.com/p/vip2.html) - Movies / TV / Anime / Auto-Next / [Status](https://v2.mwsguy.com/p/vip2.html) / [Telegram](https://t.me/mwsguyvipcinema)
 * ⭐ **[Cinejoy](https://cinejoy.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/TWKxstBuv9)
 * ⭐ **[PopcornMovies](https://popcornmovies.ac/)** or [BingeBox](https://bingebox.ac/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Movy](https://www.movy.bz/)** - Movies / TV / Anime / Auto-Next
