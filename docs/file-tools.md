@@ -86,20 +86,20 @@
 ## ▷ File Managers
 
 * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
-* [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
+* [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) / [GitHub](https://github.com/mucommander/mucommander) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
+* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager / [GitHub](https://github.com/vanjac/chromafiler)
 * [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi) or [superfile](https://superfile.dev/) / [GitHub](https://github.com/yorukot/superfile) - Terminal File Managers
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
-* [Files](https://files.community/) - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
-* [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
-* [Far Manager](https://www.farmanager.com/) - File / Archive Manager
+* [Files](https://files.community/) - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files) / [GitHub](https://github.com/files-community/Files)
+* [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager / [GitHub](https://github.com/derceg/explorerplusplus)
+* [Far Manager](https://www.farmanager.com/) - File / Archive Manager / [GitHub](https://github.com/FarGroup/FarManager)
 * [Total Commander](https://www.ghisler.com/) - Shareware File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
-* [Vifm](https://vifm.info/) - Vim-Based File Manager
-* [eza](https://eza.rocks/) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
+* [Tablacus Explorer](https://tablacus.github.io/explorer_en.html) / [GitHub](https://github.com/tablacus/TablacusExplorer) or [Multi Commander](https://multicommander.com/) - Tab File Managers
+* [Vifm](https://vifm.info/) - Vim-Based File Manager / [GitHub](https://github.com/vifm/vifm)
+* [eza](https://eza.rocks/) / [GitHub](https://github.com/eza-community/eza) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
 
 ***
@@ -455,10 +455,10 @@
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
-* [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
-* [OpenList](https://github.com/OpenListTeam/OpenList) - Cloud Storage Manager
+* [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager / [GitHub](https://github.com/spacedriveapp/spacedrive)
+* [OpenList](https://doc.oplist.org/ ) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
-* [xpipe](https://xpipe.io) - Remote File Manager
+* [xpipe](https://xpipe.io) - Remote File Manager / [GitHub](https://github.com/xpipe-io/xpipe)
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 
 ***
