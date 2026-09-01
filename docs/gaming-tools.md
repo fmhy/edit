@@ -478,7 +478,7 @@
 
 * 🌐 **[FreeHosts](https://freehosts.eu/hosts?target=Gaming)** - Free Game Hosting Provider Index
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
-* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican/panel), [Calagopus](https://calagopus.com/) / [Discord](https://discord.gg/uSM8tvTxBV) / [GitHub](https://calagopus.com/) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panels
+* ⭐ **[Pelican](https://pelican.dev/)** / [GitHub](https://github.com/pelican/panel), [Calagopus](https://calagopus.com/) / [Discord](https://discord.gg/uSM8tvTxBV) / [GitHub](https://github.com/calagopus/panel) or [Pterodactyl](https://github.com/pterodactyl/panel) / [Discord](https://discord.gg/pterodactyl) - Game Server Management Panels
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / Signup Required / [Discord](https://discord.gg/AXAbujx)
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)

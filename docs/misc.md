@@ -1782,7 +1782,7 @@
 * [WorldCam](https://worldcam.eu/)
 * [⁠Tomarigi](https://tomarigi.me/world)
 * [Mangolink World](https://www.mangolinkworld.com/)
-* [Insecam](http://www.insecam.org/en/)
+* [Insecam](http://www.insecam.org/en/) - Public Surveillance Webcams
 * [CameraFTP](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)
 * [WebcamGalore](https://www.webcamgalore.com/)
 * [Windy Webcams](https://www.windy.com/-Webcams/webcams)
@@ -1793,7 +1793,6 @@
 * [⁠CCTV-World](https://www.cctv-world.kr/) - South Korea Live Cams
 * [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
 * [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
-* [Insecam](http://www.insecam.org/en/) - Public Surveillance Webcams
 * [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG)
 * [snoweye](https://www.snoweye.com/) - Ski Resorts
 * [Airport Webcams](https://airportwebcams.net/) / [X](https://x.com/AirportWebcams)

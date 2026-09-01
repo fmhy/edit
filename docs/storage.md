@@ -262,11 +262,11 @@
 
 ### Letterboxd Tools
 
-[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/) /  [Celeb Accounts](https://fameboxd.com/)
+[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/) / [Celeb Accounts](https://fameboxd.com/)
 
 ### MyAnimeList Tools
 
-[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Stats](https://anime.plus/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
+[Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Profile Extension / Stats](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Stats / Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Export](https://malscraper.azurewebsites.net/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Tier Lists](https://www.gomitier.tech/)
 
 ### AniList Tools
 

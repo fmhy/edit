@@ -124,7 +124,7 @@
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
-* [SongKick](https://www.songkick.com/), [ConcertArchives](https://www.concertarchives.org/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [Konserthuset](https://www.konserthuset.se/en/play/) - Orchestra Recordings
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
@@ -619,7 +619,7 @@
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYB64#hcs-forum) - Game Soundtracks
-* [exotica](https://www.exotica.org.uk/) - Amiga Games Soundtracks
+* [exotica](https://www.exotica.org.uk/) - Amiga Game Soundtracks / Retro Gaming Music Wiki
 * [⁠OC Remix](https://ocremix.org/) - Game Music Remixes / Download / Torrent 
 * [⁠8Beats](https://8beats.co/) - Game Music Radio / [Discord](https://discord.gg/EB9CFRacgN)
 * [⁠CVGM](http://cvgm.net/) - Game Music Radio
@@ -632,7 +632,6 @@
 * [⁠GTA Radio](https://gtaradio.net/) or [GTA Radio Nine](https://gtav-radio-nine.vercel.app/) - GTA Radio Stations
 * [NSF j](https://nsf.nesbbs.com/) - NES Music
 * [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
-* [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
 ***
