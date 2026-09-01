@@ -49,6 +49,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
+* "*Your single domain which is now printed in my memory (fmhy.net) has been so much of a help to me cannot explain truly in words. Each one of you and others who contribute in this are saviors for us, I regularly check your site and visit some section to see some cool stuff, and yes I eventually find them. I should also mention the monthly updates which occurs when the month ends, I love to scroll through it entirely to check what I missed the last month, so yeah keep growing and keep providing the things you do.*."
+
 * *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
 
 * *"I recently finished my exams and im happy to say i got into med school. i am so beyond grateful for what you do. I didnt have the money for cram school and tutoring, i heavily relied on the resources here, and i will probably continue to do so. I want to become a gynecologist and hopefully bring some real change for the health of my fellow women. Thank you all!"*

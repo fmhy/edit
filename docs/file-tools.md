@@ -86,20 +86,20 @@
 ## ▷ File Managers
 
 * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
-* [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
+* [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) / [GitHub](https://github.com/mucommander/mucommander) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
+* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager / [GitHub](https://github.com/vanjac/chromafiler)
 * [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi) or [superfile](https://superfile.dev/) / [GitHub](https://github.com/yorukot/superfile) - Terminal File Managers
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
-* [Files](https://files.community/) - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
-* [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
-* [Far Manager](https://www.farmanager.com/) - File / Archive Manager
+* [Files](https://files.community/) - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files) / [GitHub](https://github.com/files-community/Files)
+* [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager / [GitHub](https://github.com/derceg/explorerplusplus)
+* [Far Manager](https://www.farmanager.com/) - File / Archive Manager / [GitHub](https://github.com/FarGroup/FarManager)
 * [Total Commander](https://www.ghisler.com/) - Shareware File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
-* [Vifm](https://vifm.info/) - Vim-Based File Manager
-* [eza](https://eza.rocks/) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
+* [Tablacus Explorer](https://tablacus.github.io/explorer_en.html) / [GitHub](https://github.com/tablacus/TablacusExplorer) or [Multi Commander](https://multicommander.com/) - Tab File Managers
+* [Vifm](https://vifm.info/) - Vim-Based File Manager / [GitHub](https://github.com/vifm/vifm)
+* [eza](https://eza.rocks/) / [GitHub](https://github.com/eza-community/eza) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
 
 ***
@@ -121,7 +121,7 @@
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
 * [age](https://github.com/FiloSottile/age) - File Encryptor
-* [REM](https://github.com/liriliri/rem) - File Encryptor / Rclone GUI
+* [REM](https://rem.liriliri.io/) - File Encryptor / Rclone GUI / [GitHub](https://github.com/liriliri/rem)
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
@@ -330,10 +330,10 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
+* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
@@ -342,9 +342,9 @@
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
-* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
+* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
-* [⁠DropDrive](https://dropdrive.org/) - 100GB / 30 Days After Last Download
+* [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
@@ -455,10 +455,10 @@
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
-* [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager
-* [OpenList](https://github.com/OpenListTeam/OpenList) - Cloud Storage Manager
+* [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager / [GitHub](https://github.com/spacedriveapp/spacedrive)
+* [OpenList](https://doc.oplist.org/ ) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
-* [xpipe](https://xpipe.io) - Remote File Manager
+* [xpipe](https://xpipe.io) - Remote File Manager / [GitHub](https://github.com/xpipe-io/xpipe)
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 
 ***

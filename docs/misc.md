@@ -10,7 +10,6 @@
 * 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_guides_.2F_indexes)**
-* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.com/invite/6qVr2aR)
 * ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
@@ -19,19 +18,18 @@
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
-* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
+* [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
-* [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
@@ -41,6 +39,7 @@
 * [The National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive / [X](https://x.com/UKNatArchives)
 * [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
 * [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
+* [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
 * [Websites From Hell](https://websitesfromhell.net/) - Sites with Questionable Designs
@@ -65,8 +64,8 @@
 
 ## ▷ Random Sites / Discovery
 
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
+* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
 * [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
@@ -83,6 +82,7 @@
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
+* [Wiby](https://www.wiby.me/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
 
 ***
@@ -410,7 +410,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers), [⁠DarkUrbex](https://darkurbex.pages.dev/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
@@ -510,6 +510,7 @@
 
 ## ▷ Geography Maps
 
+* [⁠Ecoregions](https://ecoregions.appspot.com/) - World Biomes Map
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) or [Oilslick](https://mrgris.com/projects/oilslick/) - World Terrain Height / Elevation Maps
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
@@ -612,6 +613,7 @@
 * [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
 * [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
 * [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
+* [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 
 ***
 
@@ -1376,6 +1378,7 @@
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [⁠HeyTools](https://heytools.app/) - Text / PDF / Image / Code
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [⁠ClipZeal](https://clipzeal.com/) - Video / Audio / Image / GIF
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
 * [Private.coffee](https://private.coffee/services.html) - Text / Code
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
@@ -1598,9 +1601,11 @@
 * [VentScape](https://www.ventscape.life/rage) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience 
+* [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
 * [⁠Flipbook](https://flipbook.page/) - Interactive Topic Expansion AI
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
+* [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - Cookie Disabling Game
 * [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
@@ -1615,14 +1620,18 @@
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites / Horror Games
 * [Windows93](https://www.windows93.net/) - Windows 93 Emulator
 * [larsberg](https://www.larsberg.net/#/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
+* [Hypertranslate](https://www.ravbug.com/hypertranslate/) - Google Translate Telephone Game
 * [Google Doodles](https://doodles.google/), [2](https://sites.google.com/site/populardoodlegames) - Interactive Google Doodles
+* [elgooG](https://elgoog.im/) - Google Easter Eggs
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
 * [Doodle Dash](https://xenova-doodle-dash.static.hf.space/index.html) - Let AI Guess Doodles
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [OpenGeofiction](https://opengeofiction.net/) - User-Made Fictional Map
 * [⁠The Cursed Library](https://cursed.epic.net/) - Interactive 3D Short Stories
+* [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
 * [⁠The HTML Review](https://thehtml.review/archive) - Interactive Stories / Poetry Written in Code
+* [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
@@ -1675,7 +1684,6 @@
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
 * [Pianoverse](https://pianoverse.net/) or [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
-* [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [DJ Phonetic](https://djphonetic.brianfoo.com/) - Historical Speech Beatboxing
 * [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?cp) - Browser Cello
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
@@ -1695,70 +1703,63 @@
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** or [InfiniteConvo](https://infiniteconvo.ai/) - Never-Ending AI Conversations
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
 * ⭐ **[TierMaker](https://tiermaker.com/)**, [GOATY](https://goaty.gg/) or [OpenTierBoy](https://www.opentierboy.com/) / [GitHub](https://github.com/infinia-yzl/opentierboy) - Create / Explore Tier Lists
-* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Subreddit](https://www.reddit.com/r/lostmedia/) / [Discord](https://discord.gg/NFsM8YbBYH)
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
 * [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Iceberg Charts](https://www.reddit.com/r/IcebergCharts/) or [⁠Iceberg Threads](https://icebergthreads.com/) - Explore Obscure Topics
-* [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
-* [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
-* [elgooG](https://elgoog.im/) - Google Easter Eggs
+* [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
+* [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
+* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
+* [spurious correlations](https://tylervigen.com/spurious-correlations) - Random Correlations
+* [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
+* [ConWorld](https://wiki.conworld.org/) - Constructed Worlds Wiki
+* [Think Labyrinth](https://www.astrolog.org/labyrnth.htm) - Encyclopedia of Maze Algorithms and Resources
+* [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) / [Subreddit](https://www.reddit.com/r/aesthetic/) or [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics) - Aesthetics Wikis / Lists
+* [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
+* [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
+* [Chirper](https://chirper.ai/) - AI Generated X.com
+* [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
+* [⁠Museum of Failure](https://museumoffailure.com/) - Failed Products / Services History
+* [⁠Detective Board](https://www.detectiveboard.io/) - Make / Explore Community Detective Boards
+* [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
+* [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
+* [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
+* [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
+* [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
+* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
+* [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
+* [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
+* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
+
+***
+
+## ▷ Media / Lore
+
+* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Subreddit](https://www.reddit.com/r/lostmedia/) / [Discord](https://discord.gg/NFsM8YbBYH)
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
+* [⁠Confic Wiki](https://www.containmentfiction.net/) - Containment Fiction Wiki
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Middle-Earth Map](https://middle-earth-interactive-map.web.app/) - Tolkien's Middle-Earth Map
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
-* [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
-* [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
-* [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
-* [IndieBlogs](https://indieblog.page/) - Random Indie Blogs
-* [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
-* [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
-* [spurious correlations](https://tylervigen.com/spurious-correlations) - Random Correlations
-* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
-* [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
-* [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
-* [Hypertranslate](https://www.ravbug.com/hypertranslate/) - Google Translate Telephone Game
 * [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account
-* [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
-* [⁠Museum of Failure](https://museumoffailure.com/) - Failed Products / Services History
-* [⁠Detective Board](https://www.detectiveboard.io/) - Make / Explore Community Detective Boards
-* [Wiby](https://www.wiby.me/) - Explore Old Sites
-* [eieio.games](https://eieio.games/) - Experimental Games / Showcases
+* [Pushing Pixels](https://www.pushing-pixels.org/fui/) - Imaginary UI from Movies
+* [⁠Movie Mistakes](https://www.moviemistakes.com/) - Movie Mistakes Database w/ Community Voting
+* [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
+* [BogLeech](https://bogleech.com/) - Monster Design Reviews
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
+* [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
+
+***
+
+## ▷ Mysteries / Paranormal
+
+* [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [EnigmaLabs](https://enigmalabs.io/), [⁠UFO Evidence](http://www.ufoevidence.org/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO + UAP Sighting Lists / Tracking
 * [⁠Fern Flower Project](https://www.fern-flower.org/) - Database of Anomalous / Paranormal Phenomenon
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
-* [BreezeWiki](https://breezewiki.com/) / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors)) or [Phantom](https://codeberg.org/phantom-org/phantom) - Fandom Frontends
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
-* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
-* [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
-* [ConWorld](https://wiki.conworld.org/) - Constructed Worlds Wiki
-* [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) - Aesthetics Wiki / [Subreddit](https://www.reddit.com/r/aesthetic/)
-* [Pushing Pixels](https://www.pushing-pixels.org/fui/) - Imaginary UI from Movies
-* [⁠Movie Mistakes](https://www.moviemistakes.com/) - Movie Mistakes Database w/ Community Voting
-* [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
-* [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
-* [BogLeech](https://bogleech.com/) - Monster Design Reviews
-* [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
-* [Think Labyrinth](https://www.astrolog.org/labyrnth.htm) - Encyclopedia of Maze Algorithms and Resources
-* [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
-* [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
-* [Chirper](https://chirper.ai/) - AI Generated X.com
-* [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
-* [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk
-* [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
-* [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
-* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
-* [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge AI
-* [You're Getting Old](https://you.regettingold.com/) - Age Perspective
-* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
-* [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
-* [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
-* [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
-* [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
-* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
-* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words
 
 ***
 
@@ -1837,6 +1838,7 @@
 * [The Scientific Place](https://scientific.place/) - Toys / Games
 * [artistaiden](https://artistaiden.com/) - Toys / Games
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
+* [eieio.games](https://eieio.games/) - Experimental Games / Showcases
 * [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
