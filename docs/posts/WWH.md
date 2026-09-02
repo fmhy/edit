@@ -11,13 +11,13 @@ footer: true
 
 <Post authors="nbats" />
 
-People always want to know what the point of life is. Why are they on earth? What are we doing here? Whats our purpose? *Whats the point?* 
+People always want to know what the point of life is. Why are they on earth? What are we doing here? What's our purpose? *What's the point?* 
 
-For most of my life, I didn't really have any answer, but as I got older, I realized, things weren't about me. I took a step back, and recognized a much bigger picture we're all apart of, and I now know exactly why we're here on earth. 
+For most of my life, I didn't really have any answer, but as I got older, I realized, things weren't about me. I took a step back, and recognized a much bigger picture we're all a part of, and I now know exactly why we're here on earth. 
 
 As a human, you have a powerful ability, to calm, heal, and help those around you. You have the ability to protect both the people in our world, and the planet itself from harm and distress.  
 
-I know there is a huge amount of pain in our world, a lot of anger, a lot of sadness, and believe me when I say, I share the same feelings. However I believe its important that we each learn to ***harness that energy into things that are positive and kind***, not negative or evil. 
+I know there is a huge amount of pain in our world, a lot of anger, a lot of sadness, and believe me when I say, I share the same feelings. However I believe it's important that we each learn to ***harness that energy into things that are positive and kind***, not negative or evil. 
 
 Remember that a lot of who you are, is your ability to experience things outside of yourself, *including other humans.* They are a direct and immediate part of your own reality. Treat their struggles and woes as if they were your own, don't leave people behind, don't leave people unloved. As frustrating as the world can be, it is worth protecting, it is worth loving, it is worth healing together.
 
