@@ -54,18 +54,7 @@ export class ThemeHandler {
   private initializeTheme() {
     if (typeof window === 'undefined') return
 
-    const oldPreferred = localStorage.getItem('preferred-color')
-    let savedTheme = localStorage.getItem(STORAGE_KEY_THEME)
-
-    if (!savedTheme && oldPreferred) {
-      savedTheme = oldPreferred
-    }
-
-    if (oldPreferred) {
-      localStorage.removeItem('preferred-color')
-    }
-
-    savedTheme = resolveThemeName(savedTheme)
+    const savedTheme = resolveThemeName(localStorage.getItem(STORAGE_KEY_THEME))
 
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
