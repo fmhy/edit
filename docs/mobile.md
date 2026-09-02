@@ -1026,7 +1026,7 @@
 
 ## ▷ Android Video Players
 
-* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**, [⁠mpvRex](https://github.com/sfsakhawat999/mpvRex) or [mpvRx](https://github.com/Riteshp2001/mpvRx)
+* ⭐ **[⁠mpvEx](https://github.com/marlboro-advance/mpvEx)**, [⁠mpvRex](https://github.com/sfsakhawat999/mpvRex) or [mpvRx](https://github.com/Riteshp2001/mpvRx) - Free Open Source Video Players
 * ⭐ **[mpv-android](https://github.com/mpv-android/mpv-android)**
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync

@@ -9,7 +9,7 @@ prev: false
 footer: true
 ---
 
-<Post authors="nbats"/>
+<Post authors="nbats" />
 
 **https://fmhy-tracker.pages.dev/**
 

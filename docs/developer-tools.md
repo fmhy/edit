@@ -613,7 +613,7 @@
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
 * [icr](https://github.com/crystal-community/icr) - REPL for Crystal
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanations
-* [⁠Verus](https://github.com/verus-lang/verus) - Rust Code Verification Tool 
+* [⁠Verus](https://github.com/verus-lang/verus) - Rust Code Verification Tool
 
 ***
 
@@ -768,7 +768,7 @@
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [⁠OG Image Generator](https://www.ogimage.website/), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews / Graph Images
-* [⁠Tech Playground](https://tech-playground.com/) - Playground for Server-Side Tech 
+* [⁠Tech Playground](https://tech-playground.com/) - Playground for Server-Side Tech
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries / [Examples](https://github.com/ln-dev7/square-ui)
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
