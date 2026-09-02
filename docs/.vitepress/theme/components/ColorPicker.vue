@@ -5,14 +5,13 @@ import { nextTick, onMounted, watch } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
 import { colors } from '../utils/colors'
-import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
+type SelectedColor = ColorNames | ''
+const selectedColor = useStorage<SelectedColor>('preferred-color', 'swarm')
 
 // Use the theme system
-const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } =
-  useTheme()
+const { setTheme, mode, themeName } = useTheme()
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
@@ -229,12 +228,17 @@ watch(selectedColor, async (color) => {
 })
 
 const selectPresetTheme = (name: string) => {
-  selectedColor.value = '' as ColorNames
+  selectedColor.value = ''
   setTheme(name)
 }
 
-const toggleAmoled = () => {
-  setAmoledEnabled(!amoledEnabled.value)
+const isColorActive = (color: string) => {
+  const current = themeName.value
+  return current === `color-${color}` || current === color
+}
+
+const isPresetActive = (t: string) => {
+  return themeName.value === t
 }
 </script>
 
@@ -244,41 +248,52 @@ const toggleAmoled = () => {
       <!-- Color picker generated themes (render first) -->
       <div v-for="color in colorOptions" :key="color">
         <button
+          type="button"
           :class="[
-            'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            themeName && themeName.value === `color-${color}`
-              ? 'border-slate-200 dark:border-slate-400 shadow-lg'
-              : 'border-transparent'
+            'relative inline-flex items-center justify-center w-6 h-6 rounded-full cursor-pointer transition-all duration-200',
+            isColorActive(color)
+              ? 'scale-110 ring-2 ring-[var(--vp-c-text-1)] ring-offset-2 ring-offset-[var(--vp-c-bg-soft)] shadow-md'
+              : 'hover:scale-105 opacity-80 hover:opacity-100'
           ]"
           :title="normalizeColorName(color)"
+          :aria-label="normalizeColorName(color)"
+          :aria-pressed="isColorActive(color)"
           @click="selectedColor = color"
         >
           <span
-            class="inline-block w-full h-full rounded-full"
+            class="relative inline-flex items-center justify-center w-full h-full rounded-full"
             :style="{
               backgroundColor: colors[color][500],
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat'
             }"
-          ></span>
+          >
+            <span
+              v-if="isColorActive(color)"
+              class="i-ph-check text-[11px] text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.85)]"
+            />
+          </span>
         </button>
       </div>
 
       <!-- Preset themes (render at the end) -->
       <div v-for="t in presetThemeNames" :key="t">
         <button
+          type="button"
           :class="[
-            'inline-block w-6 h-6 rounded-full transition-all duration-200 border-2',
-            themeName && themeName.value === t
-              ? 'border-slate-200 dark:border-slate-400 shadow-lg'
-              : 'border-transparent'
+            'relative inline-flex items-center justify-center w-6 h-6 rounded-full cursor-pointer transition-all duration-200',
+            isPresetActive(t)
+              ? 'scale-110 ring-2 ring-[var(--vp-c-text-1)] ring-offset-2 ring-offset-[var(--vp-c-bg-soft)] shadow-md'
+              : 'hover:scale-105 opacity-80 hover:opacity-100'
           ]"
           :title="themeRegistry[t].displayName"
+          :aria-label="themeRegistry[t].displayName"
+          :aria-pressed="isPresetActive(t)"
           @click="selectPresetTheme(t)"
         >
           <span
-            class="inline-block w-full h-full rounded-full"
+            class="relative inline-flex items-center justify-center w-full h-full rounded-full"
             :style="
               Object.assign(
                 {
@@ -289,7 +304,12 @@ const toggleAmoled = () => {
                 getThemePreviewStyle(t)
               )
             "
-          ></span>
+          >
+            <span
+              v-if="isPresetActive(t)"
+              class="i-ph-check text-[11px] text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.85)]"
+            />
+          </span>
         </button>
       </div>
     </div>
