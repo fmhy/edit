@@ -1299,17 +1299,17 @@
 
 ## ▷ Streaming / Стриминг
 
+* ⭐ **[Kinohub](https://on.kinohub.vip/)**, [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / [Telegram](https://t.me/KinohubLive)
 * ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
+* [KinoGo](https://kinogo.ec/), [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
 * [kinokong](https://kinokong.li/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
-* [kinogoo](https://hd.kinogoo.cc/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [filmix](https://filmix.my/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
-* [kinohub](https://on.kinohub.vip/), [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / [Telegram](https://t.me/KinohubLive)
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [animang](https://animang.one/) - Anime / Dub / 1080p
@@ -1343,7 +1343,7 @@
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://live.domatv.net/) - Live TV
 * [finttv](https://finttv.in/) - Live Sports
-* [Anixart](https://anixart-app.com/) - Anime / Android App
+* [Anixart](https://anixart-app.com/) - Anime / Sub / Dub / 720p / Android App / [Telegram](https://t.me/anixart)
 * [z3.fm](https://z3.fm/) - Music
 * [E:\\music\\](https://vk.com/e_music) - Music
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings

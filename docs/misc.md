@@ -1126,7 +1126,10 @@
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Extension](https://github.com/FULU-Foundation/CRW-Extension) / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
 * ⭐ **[Fragrantica](https://www.fragrantica.com/)**, [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
+* [⁠Worse on Purpose](https://www.worseonpurpose.com/) - Brand Product Quality Tracking / Investigations 
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
+* [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
+* [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 * [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [RTINGS](https://www.rtings.com/) - Product Comparisons / Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
@@ -1167,8 +1170,6 @@
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Cosmetics Ingredients Databases / Search
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
-* [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
-* [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 
 ***
 
@@ -1654,6 +1655,7 @@
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
 * [Super Snowflake Maker](https://supersnowflakemaker.com/) or [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
+* [Pointer Pointer](https://pointerpointer.com/) - Have Your Pointer Pointed At
 * [BubblesPop](https://bubblespop.netlify.app/), [2](https://brainteaser.top/bubblespop.html) - Pop Bubble Wrap
 * [Checkbox Life](https://huth.me/checkbox-life/) or [Checkbox Olympics](https://checkbox.toys/) - Checkbox Games
 * [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner

@@ -150,6 +150,7 @@
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://codeberg.org/fosk/emplace) - System Package Sync
 * [WTAKO AUR Audit](https://wtako.net/services/aur-audit) - AUR Package Audits
+* [⁠Chaotic-AUR](https://aur.chaotic.cx/) - Automated Pre-Built AUR Packages
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 
 ***
@@ -339,6 +340,7 @@
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
 * [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset 
+* [⁠Touhou Linux Guide](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
 
 ***
 
@@ -438,7 +440,7 @@
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
 * [Lightning](https://williamhorning.dev/lightning/) - Self-Hosted Cross-Platform Chatbot Framework
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
-* [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 
 ***
@@ -799,6 +801,7 @@
 
 * 🌐 **[AppleDB](https://appledb.dev/)** - Apple Device / Software Info Database
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Directory
+* ⭐ **[⁠Vorssaint](https://vorssaint.com/)** - Menu Bar Toolkit / [GitHub](https://github.com/vorssaint/vorssaint-utils)
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
@@ -835,7 +838,6 @@
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
-* [⁠Vorssaint](https://vorssaint.com/) - Menu Bar Toolkit / [GitHub](https://github.com/vorssaint/vorssaint-utils)
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)

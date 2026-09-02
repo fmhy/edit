@@ -104,7 +104,7 @@
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Memory Toys](https://memory.toys/), [⁠Memory League](https://memoryleague.com/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [⁠Art of Memory](https://artofmemory.com/) - Memory Improvement Book, Games, and Forums
-* [Information Is Beautiful](https://informationisbeautiful.net/),  [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
+* [Information Is Beautiful](https://informationisbeautiful.net/), [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [r/coolguides](https://www.reddit.com/r/coolguides/top/?screen_view_count=2&t=all) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [⁠Academy Network](https://academynetwork.net/) - Decentralized Guide Sharing App
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
@@ -987,7 +987,10 @@
 * [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
 * [Listudy](https://listudy.org/en) - Blindfolded Tactics / Openings
 * [Chessable](https://www.chessable.com/) - Openings / Endgames
+* [⁠Syzygy Tables](https://syzygy-tables.info/) - Practice Endgames Using Tablebase Data
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
+* [⁠Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
+* [⁠ChessMD](https://chessmd.org/) - Chess Training / Match Analysis / [GitHub](https://github.com/ChessMD/ChessMD)
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
 * [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
 * [⁠Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
@@ -997,12 +1000,13 @@
 * [Chesskit](https://chesskit.org/) - Engine Analysis / [Discord](https://discord.com/invite/Yr99abAcUr) / [GitHub](https://github.com/GuillaumeSD/Chesskit)
 * [YottaChess](https://www.yottachess.com/) - Professional Player Database
 * [⁠Chessigma](https://www.chessigma.com/) - Engine Analysis / [Discord](https://discord.gg/dy9VXd5n3v)
-* [En Croissant](https://encroissant.org/) - Chess Analysis Tool
+* [En Croissant](https://encroissant.org/) - Chess Analysis Tool / [Game Databases](https://encroissant.org/docs/assets/databases)
 * [⁠ChessBlunders](https://chessblunders.org/) - Analyze Chess Mistakes
 * [Chess Vision](https://chessvision.ai/) - Import Images Into Chess Engine
 * [⁠Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
 * [OpeningTree](https://www.openingtree.com/) - Import Lichess and Chess.com Analysis
 * [Chess Monitor](https://www.chessmonitor.com/) - Aggregate Lichess and Chess.com Match History
+* [⁠The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
 * [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
 * [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [ChessVariants](https://www.chessvariants.com/index/favorites.php) - Chess Variant Encyclopedia
@@ -1226,6 +1230,7 @@
 
 * 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)** - Cantonese Learning Resources
 * [Live Lingua Cantonese](https://www.livelingua.com/courses/Cantonese) - Free Cantonese Courses
+* [⁠A Brief Cantonese Manual](https://schmitztimo.wordpress.com/2026/04/07/a-brief-cantonese-manual/) - Cantonese Beginners Manual 
 * [EdUHK](https://corpus.eduhk.hk/cantonese/e_index.html), [OpenCantonese](https://opencantonese.org/), [polyu](https://www.polyu.edu.hk/clc/cantonese/home/?lang=en) or [eMini_MOOC2k](https://www.eduhk.hk/cle/resources/Mini_MOOC2/index.htm) - Cantonese Learning / Practice
 * [Cantonese.ca](https://cantonese.ca/) or [CantoScrolls](https://cantoscrolls.com/) - Cantonese Vocabulary
 * [Beginner's Cantonese](https://ywjt2.user.srcf.net/cantonese/) - Cantonese Grammar Lesson 

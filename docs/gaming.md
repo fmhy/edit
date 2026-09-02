@@ -494,7 +494,7 @@
 
 * 🌐 **[Think Labyrinth](https://www.astrolog.org/labyrnth.htm)** - Encyclopedia of Maze Algorithms and Resources
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [⁠Puzzmo](https://www.puzzmo.com/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
+* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
 * [⁠ThinkyGames](https://thinkygames.com/games/?free=true&platforms=Web) - Indie Puzzle Games 
 * [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
@@ -574,7 +574,7 @@
 * ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)** / [GitHub](https://github.com/jakearchibald/wordle-analyzer/)
 * ⭐ **[Woogles](https://woogles.io/)**, [MoreWords](https://www.morewords.com/) or [PlayScrabble](https://playscrabble.com/) - Scrabble
 * [TheWordSearch](https://thewordsearch.com/) - Word Search Puzzles
-* [⁠Puzzmo](https://www.puzzmo.com/) - Daily Word + Puzzle Games
+* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
 * [⁠Wordsmyth](https://www.playwordsmyth.com/) - Daily Word Transformation Game
 * [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles

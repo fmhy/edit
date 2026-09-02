@@ -46,12 +46,12 @@
 * [lesma](https://lesma.eu/) - Multi-Syntax / [GitLab](https://gitlab.com/ogarcia/lesma)
 * [Pastee](https://pastee.dev/) - Multi-Syntax / [Discord](https://discord.com/invite/WQJ8z5G)
 * [pst.moe](https://pst.moe/) - Multi-Syntax
-* [dpaste.com](https://dpaste.com/) - Multi-Syntax
 * [pastes.dev](https://pastes.dev/) - Multi-Syntax / [GitHub](https://github.com/lucko/paste)
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
 * [⁠Pastefy](https://pastefy.app/) - Multi-Syntax / [Discord](https://go.intera.dev/discord) / [GitHub](https://github.com/interaapps/pastefy)
 * [pastemyst](https://paste.myst.rs/) - Multi-Syntax / [GitHub](https://github.com/codemyst/pastemyst)
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
+* [dpaste.com](https://dpaste.com/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax / [.onion](http://snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion/) / [Status](https://bit.ly/snippethoststatus) 
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins

@@ -76,7 +76,8 @@
 * [StreamVaults](https://streamvaults.ru/) or [ReelStream](https://rreelstream.live/) - Movies / TV / Anime / [Telegram](https://t.me/streamvaultscrew)
 * [GaiaFlix](https://gaiaflix.live/) - Movies / TV / Anime / [Discord](https://discord.gg/XyMuMpnvF4)
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
-* [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime 
+* [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime
+* [⁠Vyla Home](https://vyla.cc/), [2](https://vyla.qzz.io) - Streaming Desktop App / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Streaming Desktop App / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [mov-cli](https://mov-cli.github.io/) - Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
 
@@ -642,6 +643,7 @@
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [NontonGP](https://replay.nontonx.com/) - Motorcycle Racing Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
+* [⁠Sportarr](https://sportarr.net/) - Sports PVR for Torrents + Usenet / [Discord](https://discord.gg/YjHVWGWjjG) / [GitHub](https://github.com/Sportarr/Sportarr)
 
 ***
 
@@ -782,7 +784,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime
-* [Movy](https://www.movy.bz/) -  Movies / TV / Anime / 4K
+* [Movy](https://www.movy.bz/) - Movies / TV / Anime / 4K
 * [HdMoviesHub](https://hdmovieshub.fyi/) - Movies / TV
 * [MultiShows](https://multishows.top/) - Movies / TV / Anime / Use Red Download Button (Below Videos) / [Telegram](https://t.me/multishowsfun)
 * [CineBolt](https://cinebolt.org/) - Movies / TV / Anime
@@ -900,6 +902,7 @@
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
 * [Arr Scripts](https://github.com/RandomNinjaAtk/arr-scripts/) - Torrent App Automation Scripts
 * [Autobrr](https://github.com/autobrr/autobrr) - Autodownload Movie Torrents
+* [⁠Sportarr](https://sportarr.net/) - Sports PVR for Torrents + Usenet / [Discord](https://discord.gg/YjHVWGWjjG) / [GitHub](https://github.com/Sportarr/Sportarr)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Channels](https://acestreamid.com/), [2](https://search-ace.stream/) / [Modded APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App / [GitHub](https://github.com/webtorrent/webtorrent)
@@ -1106,7 +1109,7 @@
 * [TranslatesSubtitles](https://translatesubtitles.com/) / [2](https://translatesubtitles.co/), [SRT AI Translator](https://github.com/passthesh3ll/srt-ai-translator) or [GPTSubtitler](https://gptsubtitler.com/) - Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [SoniTranslate](https://github.com/R3gm/SoniTranslate) - Video Translator
-* [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
+* [asbplayer](https://app.asbplayer.dev/) - Subtitle Sentence Mining
 * [Sushi.net](https://github.com/maxpiva/Sushi.Net) - Automatic Subtitle Shifter Based on Audio
 * [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Easily Change Default MKV Subtitle / Audio Tracks / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/), [gmkvextractgui](https://sourceforge.net/projects/gmkvextractgui/) or [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) - Extract Subtitles from MKV Files

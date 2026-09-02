@@ -104,7 +104,7 @@
 * ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows / [GitHub](https://github.com/sumatrapdfreader/sumatrapdf)
-* [Sioyek](https://sioyek.info/) - PDF / Windows, macOS, Linux
+* [Sioyek](https://sioyek.info/) - PDF Reader / Windows, macOS, Linux
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * [⁠BookOrbit](https://bookorbit.app/) or [⁠Grimmory](https://grimmory.org/) - Ebook Managers / Readers / Self-Hosted
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Ebook Reader / Windows, macOS, Linux, Android / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
@@ -115,12 +115,13 @@
 * [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, macOS, Linux
 * [Librum](https://librumreader.com) - Ebook Reader / Windows, macOS, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
 * [Thorium](https://thorium.edrlab.org/) - Ebook Reader / Windows, macOS, Linux
-* [Okular](https://okular.kde.org/) - PDF / Windows, macOS, Linux
+* [Okular](https://okular.kde.org/) - PDF Reader / Windows, macOS, Linux
 * [Aquile Reader](https://apps.microsoft.com/detail/9p08t4jltqnk) - Ebook Reader / Windows
 * [Icecream Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / Windows
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
-* [qPDFview](https://launchpad.net/qpdfview) - PDF / Windows
-* [MuPDF](https://mupdf.com/) - PDF / Windows, Linux, Android
+* [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / Windows
+* [MuPDF](https://mupdf.com/) - PDF Reader / Windows, Linux, Android
+* [⁠Zathura](https://pwmt.org/projects/zathura/) - PDF Reader / Linux
 * [Evince](https://apps.gnome.org/Evince/) - PDF / DjVu Reader / Linux / [GitLab](https://gitlab.gnome.org/GNOME/evince)
 * [Yomu](https://www.yomu-reader.com/) - Ebook Reader / macOS, iOS
 * [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF / Linux
@@ -933,6 +934,7 @@
 ## ▷ Comic Tracking / Databases
 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
+* [⁠Comic Vine](https://comicvine.gamespot.com/) - Comic Database / Forum
 * [⁠Grand Comics Database](https://www.comics.org/) - Comic Database
 * [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
 * [piperka](https://piperka.net/) - Webcomic Database / Release Tracker

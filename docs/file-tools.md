@@ -120,7 +120,7 @@
 
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
-* [age](https://github.com/FiloSottile/age) - File Encryptor
+* [age](https://github.com/FiloSottile/age) or [⁠rage](https://github.com/str4d/rage) - File Encryptor
 * [REM](https://rem.liriliri.io/) - File Encryptor / Rclone GUI / [GitHub](https://github.com/liriliri/rem)
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
@@ -330,10 +330,11 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
+* ⭐ **[Mocha](https://mocha.my/)&& - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
-* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
+* [⁠DropDrive](https://dropdrive.org/) - 100GB / 30 Days After Last Download
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
@@ -342,7 +343,6 @@
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
-* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
@@ -378,7 +378,6 @@
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [FileFast](https://file.fast/) - 5GB / Unlimited
-* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / **Use uBlock**
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
@@ -456,7 +455,7 @@
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager / [GitHub](https://github.com/spacedriveapp/spacedrive)
-* [OpenList](https://doc.oplist.org/ ) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
+* [OpenList](https://doc.oplist.org/) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager / [GitHub](https://github.com/xpipe-io/xpipe)
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)

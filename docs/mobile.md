@@ -561,6 +561,7 @@
 
 ***
 
+* 🌐 **[⁠Mobile Web Browsers](https://github.com/Julmik647/mobile-web-browsers)** - Index of Android Browsers
 * 🌐 **[Firefox Extensions](https://addons.mozilla.org/android/)** - Android Firefox Addon Store
 * ⭐ **[Brave](https://brave.com/)** - Chromium-Based / Built-in Adblock / Privacy-Focused / [GitHub](https://github.com/brave/brave-browser)
 * ⭐ **[IronFox](https://ironfoxoss.org/)** - Mull Browser Fork / Extensions / Privacy-Focused / [Discord](https://discord.gg/zbdzfRVyVh) / [GitLab](https://gitlab.com/ironfox-oss/IronFox)
@@ -670,7 +671,7 @@
 ## ▷ Date & Time
 
 * ⭐ **[Sleep as Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** or [Sleep Cycle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Clock / Alarm
-* [JTX](https://jtx.techbee.at/), [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
+* [JTX](https://jtx.techbee.at/), [Etar](https://github.com/Etar-Group/Etar-Calendar), [KashCal](https://kashcal.onekash.org/) / [GitHub](https://github.com/KashCal/KashCal), [digical](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm with QR Code Control
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
@@ -1092,6 +1093,7 @@
 
 # ► iOS Tools
 
+* 🌐 **[⁠Mobile Web Browsers](https://github.com/Julmik647/mobile-web-browsers)** - Index of iOS Browsers
 * 🌐 **[iOS Emulators](https://emulation.gametechwiki.com/index.php/IOS_emulators)** or [r/EmulationOniOS](https://www.reddit.com/r/EmulationOniOS/) / [Discord](https://discord.gg/VSpc2KwBDr) - List of iOS Emulators
 * ↪️ **[iOS Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools)**
 * ↪️ **[Safari Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_safari_extensions)**
@@ -1396,7 +1398,7 @@
 * ⭐ **[Luna](https://github.com/cranci1/Luna)** - Movies / TV / Anime / Extension-Based / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/XR3SrmUbpd)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [⁠NuvioMobile iOS](https://github.com/NuvioMedia/NuvioMobile) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming), [Forward](https://apps.apple.com/app/forward/id6503940939) / [Subreddit](https://www.reddit.com/r/ForwardPlayer/) / [Telegram](https://t.me/forward_en) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* [⁠NuvioMobile iOS](https://github.com/NuvioMedia/NuvioMobile) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/tapframe/NuvioStreaming) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync / [Discord](https://discord.gg/PEHZnB5B)
