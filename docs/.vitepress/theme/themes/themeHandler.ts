@@ -118,10 +118,11 @@ export class ThemeHandler {
   public applyTheme() {
     if (typeof document === 'undefined') return
 
-    const { currentMode, theme } = this.state.value
+    const { currentMode, theme, currentTheme } = this.state.value
     const root = document.documentElement
 
     this.applyDOMClasses(currentMode)
+    root.dataset.theme = currentTheme
 
     if (!theme) {
       // Is this the WORST fix of all time???

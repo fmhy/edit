@@ -106,6 +106,7 @@ html {
   --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
 }
 
+html[data-theme='monochrome'],
 .monochrome {
   .switch {
     background-color: #000;
