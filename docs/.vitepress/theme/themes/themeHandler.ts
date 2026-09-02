@@ -394,9 +394,12 @@ export class ThemeHandler {
   }
 
   public setTheme(themeName: string) {
+    if (!themeRegistry[themeName] && themeRegistry[`color-${themeName}`]) {
+      themeName = `color-${themeName}`
+    }
+
     if (!themeRegistry[themeName]) {
-      console.warn(`Theme "${themeName}" not found. Using christmas theme.`)
-      themeName = 'christmas'
+      themeName = 'color-swarm'
     }
 
     this.state.value.currentTheme = themeName
