@@ -573,7 +573,7 @@ html.june {
     bottom: auto !important;
     height: 100vh;
     height: 100dvh;
-    padding-top: calc(var(--vp-nav-height) + 24px) !important;
+    padding-top: 32px !important;
     padding-bottom: max(96px, calc(32px + env(safe-area-inset-bottom)));
     touch-action: pan-y;
     scrollbar-width: thin;
