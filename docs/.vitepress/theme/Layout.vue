@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { useRoute } from 'vitepress'
+import { getScrollOffset, useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { onMounted, onUnmounted, ref, watch } from 'vue'
+import { nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import Sidebar from './components/SidebarCard.vue'
@@ -12,6 +12,7 @@ useSearchFromQuery()
 const { Layout } = DefaultTheme
 const showBase64Dialog = ref(false)
 const formattedUrl = ref('')
+const route = useRoute()
 
 const handleClick = (e: MouseEvent) => {
   // Check if the clicked element is a link or within a link
@@ -40,6 +41,88 @@ const handleClick = (e: MouseEvent) => {
   }
 }
 
+const getHashTarget = () => {
+  try {
+    return document.getElementById(decodeURIComponent(location.hash.slice(1)))
+  } catch {
+    return null
+  }
+}
+
+const correctInitialHashScroll = async () => {
+  if (!window.location.hash) return
+
+  const navigation = performance.getEntriesByType('navigation')[0] as
+    PerformanceNavigationTiming | undefined
+  if (navigation?.type === 'back_forward') return
+
+  const previousScrollRestoration = history.scrollRestoration
+  history.scrollRestoration = 'manual'
+
+  try {
+    const expectedUrl = window.location.href
+    const pageShown =
+      document.readyState === 'complete'
+        ? Promise.resolve()
+        : new Promise<void>((resolve) =>
+            window.addEventListener('pageshow', () => resolve(), { once: true })
+          )
+    await Promise.all([nextTick(), document.fonts?.ready, pageShown])
+    await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+
+    if (
+      window.location.href !== expectedUrl ||
+      document.documentElement.classList.contains('vp-search-scrolling')
+    ) {
+      return
+    }
+
+    getHashTarget()?.scrollIntoView({ block: 'start' })
+  } finally {
+    history.scrollRestoration = previousScrollRestoration
+  }
+}
+
+let insetResizeObserver: ResizeObserver | undefined
+let insetMutationObserver: MutationObserver | undefined
+
+const updateScrollInset = () => {
+  const nav = document.querySelector<HTMLElement>('.VPNav')
+  const localNav = document.querySelector<HTMLElement>('.VPLocalNav')
+  const visibleHeight = (element: HTMLElement | null, hidden = false) =>
+    element && !hidden && getComputedStyle(element).display !== 'none'
+      ? element.getBoundingClientRect().height
+      : 0
+
+  const inset =
+    visibleHeight(nav, nav?.classList.contains('nav-hidden')) +
+    visibleHeight(localNav) +
+    16
+  document.documentElement.style.setProperty(
+    '--fmhy-scroll-inset',
+    `${inset}px`
+  )
+  if (resizing && hashIsAligned) scheduleHashRealignment()
+}
+
+const observeScrollInset = () => {
+  const elements = [
+    document.querySelector<HTMLElement>('.VPNav'),
+    document.querySelector<HTMLElement>('.VPLocalNav')
+  ].filter((element): element is HTMLElement => !!element)
+
+  insetResizeObserver = new ResizeObserver(updateScrollInset)
+  insetMutationObserver = new MutationObserver(updateScrollInset)
+  for (const element of elements) {
+    insetResizeObserver.observe(element)
+    insetMutationObserver.observe(element, {
+      attributes: true,
+      attributeFilter: ['class', 'style']
+    })
+  }
+  updateScrollInset()
+}
+
 // Anchors are stable for the lifetime of a page; invalidate on route change.
 let cachedAnchors: HTMLElement[] | null = null
 let scheduledUpdate = false
@@ -55,7 +138,7 @@ const runUpdateMobileActiveLink = () => {
 
   let activeId = ''
   for (const anchor of cachedAnchors) {
-    if (anchor.getBoundingClientRect().top < 120) {
+    if (anchor.getBoundingClientRect().top <= getScrollOffset() + 4) {
       activeId = anchor.id
     } else {
       break
@@ -86,7 +169,42 @@ const scheduleMobileLinkUpdate = () => {
 // update until Vue has mounted the new items.
 const handleAnyClick = () => requestAnimationFrame(scheduleMobileLinkUpdate)
 
-const route = useRoute()
+let hashIsAligned = false
+let resizing = false
+let resizeFrame = 0
+let resizeEndTimer: ReturnType<typeof setTimeout> | undefined
+
+const scheduleHashRealignment = () => {
+  cancelAnimationFrame(resizeFrame)
+  resizeFrame = requestAnimationFrame(() => {
+    resizeFrame = 0
+    if (hashIsAligned) getHashTarget()?.scrollIntoView({ block: 'start' })
+  })
+}
+
+const rememberHashAlignment = () => {
+  if (resizing) return
+  const target = getHashTarget()
+  const margin = target
+    ? Number.parseFloat(getComputedStyle(target).scrollMarginTop)
+    : 0
+  hashIsAligned =
+    !!target && Math.abs(target.getBoundingClientRect().top - margin) < 2
+}
+
+const preserveAlignedHash = () => {
+  resizing = true
+  document.documentElement.classList.add('vp-resizing')
+  scheduleHashRealignment()
+
+  clearTimeout(resizeEndTimer)
+  resizeEndTimer = setTimeout(() => {
+    resizing = false
+    document.documentElement.classList.remove('vp-resizing')
+    rememberHashAlignment()
+  }, 150)
+}
+
 watch(
   () => route.path,
   () => {
@@ -98,18 +216,30 @@ watch(
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
   window.addEventListener('scroll', scheduleMobileLinkUpdate, { passive: true })
+  window.addEventListener('scroll', rememberHashAlignment, { passive: true })
+  window.addEventListener('resize', preserveAlignedHash, { passive: true })
   window.addEventListener('click', handleAnyClick, { passive: true })
+  observeScrollInset()
   scheduleMobileLinkUpdate()
+  void correctInitialHashScroll()
 })
 
 onUnmounted(() => {
+  cancelAnimationFrame(resizeFrame)
+  clearTimeout(resizeEndTimer)
+  document.documentElement.classList.remove('vp-resizing')
+  insetResizeObserver?.disconnect()
+  insetMutationObserver?.disconnect()
   window.removeEventListener('click', handleClick, { capture: true })
   window.removeEventListener('scroll', scheduleMobileLinkUpdate)
+  window.removeEventListener('scroll', rememberHashAlignment)
+  window.removeEventListener('resize', preserveAlignedHash)
   window.removeEventListener('click', handleAnyClick)
 })
 </script>
 
 <template>
+  <div class="fmhy-scroll-inset" aria-hidden="true"></div>
   <Layout>
     <template #sidebar-nav-after>
       <Sidebar />
