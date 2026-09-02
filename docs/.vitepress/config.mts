@@ -320,6 +320,7 @@ export default defineConfig({
       }
     ],
     build: {
+      reportCompressedSize: false,
       // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }
