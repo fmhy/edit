@@ -529,7 +529,15 @@ html.june {
   transform: translateY(0) !important;
 }
 
-/* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
+/* Fix UnoCSS .container utility collision on VPLocalNav so it spans the full viewport width */
+.VPLocalNav .container {
+  max-width: 100% !important;
+}
+
+.VPLocalNav .VPLocalNavOutlineDropdown {
+  margin-left: auto;
+}
+
 @media (max-width: 1279px) {
   .VPLocalNavOutlineDropdown .outline-link.active {
     color: var(--vp-c-brand-1) !important;
@@ -541,6 +549,13 @@ html.june {
     max-height: 50vh !important;
     max-height: 50dvh !important;
     overscroll-behavior: contain !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1279px) {
+  .VPLocalNavOutlineDropdown .items {
+    right: 36px;
+    left: auto;
   }
 }
 
