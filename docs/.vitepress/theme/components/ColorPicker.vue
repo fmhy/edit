@@ -1,14 +1,9 @@
 <script setup lang="ts">
 import type { ColorNames } from '../themes/configs/colors'
-import { useStorage } from '@vueuse/core'
-import { watch } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { normalizeColorName } from '../themes/configs/colors'
 import { useTheme } from '../themes/themeHandler'
 import { colors } from '../utils/colors'
-
-type SelectedColor = ColorNames | ''
-const selectedColor = useStorage<SelectedColor>('preferred-color', 'swarm')
 
 const { setTheme, mode, themeName } = useTheme()
 
@@ -48,20 +43,7 @@ const getThemePreviewStyle = (name: string) => {
   return { background: 'var(--vp-c-brand-1)' }
 }
 
-watch(selectedColor, (color) => {
-  if (!color) return
-  setTheme(`color-${color}`)
-})
-
-const selectPresetTheme = (name: string) => {
-  selectedColor.value = ''
-  setTheme(name)
-}
-
-const isColorActive = (color: string) => {
-  const current = themeName.value
-  return current === `color-${color}` || current === color
-}
+const isColorActive = (color: string) => themeName.value === `color-${color}`
 
 const isPresetActive = (t: string) => {
   return themeName.value === t
@@ -84,7 +66,7 @@ const isPresetActive = (t: string) => {
           :title="normalizeColorName(color)"
           :aria-label="normalizeColorName(color)"
           :aria-pressed="isColorActive(color)"
-          @click="selectedColor = color"
+          @click="setTheme(`color-${color}`)"
         >
           <span
             class="relative inline-flex items-center justify-center w-full h-full rounded-full"
@@ -116,7 +98,7 @@ const isPresetActive = (t: string) => {
           :title="themeRegistry[t].displayName"
           :aria-label="themeRegistry[t].displayName"
           :aria-pressed="isPresetActive(t)"
-          @click="selectPresetTheme(t)"
+          @click="setTheme(t)"
         >
           <span
             class="relative inline-flex items-center justify-center w-full h-full rounded-full"

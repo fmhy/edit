@@ -23,9 +23,15 @@ const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 
+function resolveThemeName(name?: string | null): string {
+  if (name && themeRegistry[name]) return name
+  if (name && themeRegistry[`color-${name}`]) return `color-${name}`
+  return 'color-swarm'
+}
+
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'swarm',
+    currentTheme: 'color-swarm',
     currentMode: 'light' as DisplayMode,
     theme: null
   })
@@ -48,17 +54,26 @@ export class ThemeHandler {
   private initializeTheme() {
     if (typeof window === 'undefined') return
 
-    // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
+    const oldPreferred = localStorage.getItem('preferred-color')
+    let savedTheme = localStorage.getItem(STORAGE_KEY_THEME)
+
+    if (!savedTheme && oldPreferred) {
+      savedTheme = oldPreferred
+    }
+
+    if (oldPreferred) {
+      localStorage.removeItem('preferred-color')
+    }
+
+    savedTheme = resolveThemeName(savedTheme)
+
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
     ) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
-    if (themeRegistry[savedTheme]) {
-      this.state.value.currentTheme = savedTheme
-      this.state.value.theme = themeRegistry[savedTheme]
-    }
+    this.state.value.currentTheme = savedTheme
+    this.state.value.theme = themeRegistry[savedTheme]
 
     // Set amoled preference
     this.amoledEnabled.value = savedAmoled
@@ -393,14 +408,8 @@ export class ThemeHandler {
     }
   }
 
-  public setTheme(themeName: string) {
-    if (!themeRegistry[themeName] && themeRegistry[`color-${themeName}`]) {
-      themeName = `color-${themeName}`
-    }
-
-    if (!themeRegistry[themeName]) {
-      themeName = 'color-swarm'
-    }
+  public setTheme(name: string) {
+    const themeName = resolveThemeName(name)
 
     this.state.value.currentTheme = themeName
     this.state.value.theme = themeRegistry[themeName]
