@@ -782,7 +782,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime
-* [Movy](https://www.movy.bz/) -  Movies / TV / Anime / 4K
+* [Movy](https://www.movy.bz/) - Movies / TV / Anime / 4K
 * [HdMoviesHub](https://hdmovieshub.fyi/) - Movies / TV
 * [MultiShows](https://multishows.top/) - Movies / TV / Anime / Use Red Download Button (Below Videos) / [Telegram](https://t.me/multishowsfun)
 * [CineBolt](https://cinebolt.org/) - Movies / TV / Anime

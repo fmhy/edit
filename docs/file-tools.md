@@ -333,7 +333,7 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
-* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
+* [⁠DropDrive](https://dropdrive.org/) - 100GB / 30 Days After Last Download
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
@@ -456,7 +456,7 @@
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
 * [SpaceDrive](https://www.spacedrive.com/) - Cloud Storage Manager / [GitHub](https://github.com/spacedriveapp/spacedrive)
-* [OpenList](https://doc.oplist.org/ ) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
+* [OpenList](https://doc.oplist.org/) - Cloud Storage Manager / [GitHub](https://github.com/OpenListTeam/OpenList)
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager / [GitHub](https://github.com/xpipe-io/xpipe)
 * [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)

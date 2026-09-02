@@ -112,7 +112,7 @@
 * 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
 * ⭐ **[llama.cpp](https://llama.app/)** - Self-Hosted Transformer-Based LLMs / [GitHub](https://github.com/ggml-org/llama.cpp)
 * ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[⁠Unsloth](https://unsloth.ai/)** -  Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - Self-Hosted / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * ⭐ **[Sonar](https://sonar.dphn.ai/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/dphnAI/sonar)
 * [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
 * [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)

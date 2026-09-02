@@ -104,7 +104,7 @@
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Memory Toys](https://memory.toys/), [⁠Memory League](https://memoryleague.com/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
 * [⁠Art of Memory](https://artofmemory.com/) - Memory Improvement Book, Games, and Forums
-* [Information Is Beautiful](https://informationisbeautiful.net/),  [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
+* [Information Is Beautiful](https://informationisbeautiful.net/), [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [r/coolguides](https://www.reddit.com/r/coolguides/top/?screen_view_count=2&t=all) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [⁠Academy Network](https://academynetwork.net/) - Decentralized Guide Sharing App
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
