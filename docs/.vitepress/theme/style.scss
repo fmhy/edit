@@ -224,6 +224,10 @@ html.june {
     #9ec1ce,
     #cc99c8
   ) !important;
+
+  .VPNavBarTitle .logo {
+    content: url('/june_icon.webp');
+  }
 }
 
 .base64 {
@@ -527,7 +531,6 @@ html.june {
   visibility: visible !important;
   transform: translateY(0) !important;
 }
-
 
 .VPLocalNav .VPLocalNavOutlineDropdown {
   margin-left: auto;

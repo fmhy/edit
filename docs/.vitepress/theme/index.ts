@@ -57,6 +57,16 @@ export default {
     loadProgress(router)
 
     if (typeof window !== 'undefined') {
+      if (new Date().getMonth() === 5) {
+        document.documentElement.classList.add('june')
+        const favicon =
+          document.querySelector<HTMLLinkElement>("link[rel*='icon']")
+        if (favicon && favicon.getAttribute('href') !== '/june_icon.webp') {
+          favicon.href = '/june_icon.webp'
+          favicon.type = 'image/webp'
+        }
+      }
+
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
@@ -153,12 +163,6 @@ export default {
 
       router.onAfterRouteChanged = (to) => {
         const hasPendingSearch = !!pendingScrollQuery.value
-
-        // Re-apply the June nav logo swap after navigation (see config.mts).
-        ;(
-          window as unknown as { __fmhyApplyJuneLogo?: () => void }
-        ).__fmhyApplyJuneLogo?.()
-
         try {
           originalAfter?.(to)
         } finally {
