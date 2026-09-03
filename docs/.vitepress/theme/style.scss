@@ -895,3 +895,25 @@ html.monolith {
     }
   }
 }
+
+@media (min-width: 768px) and (max-width: 959px) {
+  .DocSearch-Button-Keys {
+    display: none !important;
+  }
+
+  .VPNavBar .wrapper {
+    padding: 0 16px !important;
+  }
+
+  .VPNavBarMenuLink {
+    padding: 0 8px !important;
+  }
+
+  .VPNavBarMenuGroup .button {
+    padding: 0 8px !important;
+  }
+
+  .VPNavBarSearch {
+    padding-left: 12px !important;
+  }
+}
