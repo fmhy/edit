@@ -90,20 +90,6 @@ export class ThemeHandler {
     this.prefersDarkMql.addEventListener('change', this.handleSystemThemeChange)
   }
 
-  /**
-   * Remove the system theme-change listener.
-   * NOTE: currently dead code — the handler is a process-lifetime singleton
-   * (see `useThemeHandler`) and is never torn down. Kept for completeness / in
-   * case the handler is ever scoped to a shorter lifecycle.
-   */
-  public destroy() {
-    this.prefersDarkMql?.removeEventListener(
-      'change',
-      this.handleSystemThemeChange
-    )
-    this.prefersDarkMql = null
-  }
-
   public applyTheme() {
     if (typeof document === 'undefined') return
 
@@ -381,15 +367,6 @@ export class ThemeHandler {
     this.applyTheme()
   }
 
-  public toggleMode() {
-    const currentMode = this.state.value.currentMode
-
-    // Toggle between light and dark
-    const newMode: DisplayMode = currentMode === 'light' ? 'dark' : 'light'
-
-    this.setMode(newMode)
-  }
-
   public setAppearance(mode: DisplayMode, amoled: boolean) {
     this.state.value.currentMode = mode
     this.amoledEnabled.value = amoled
@@ -398,53 +375,12 @@ export class ThemeHandler {
     this.applyTheme()
   }
 
-  public setAmoledEnabled(enabled: boolean) {
-    this.amoledEnabled.value = enabled
-    localStorage.setItem(STORAGE_KEY_AMOLED, enabled.toString())
-    this.applyTheme()
-  }
-
-  public getAmoledEnabled() {
-    return this.amoledEnabled.value
-  }
-
-  public toggleAmoled() {
-    this.setAmoledEnabled(!this.amoledEnabled.value)
-  }
-
   public getAmoledEnabledRef() {
     return this.amoledEnabled
   }
 
   public getState() {
     return this.state
-  }
-  public getMode() {
-    return this.state.value.currentMode
-  }
-
-  public getTheme() {
-    return this.state.value.currentTheme
-  }
-
-  public getCurrentTheme() {
-    return this.state.value.theme
-  }
-
-  public getAvailableThemes() {
-    return Object.keys(themeRegistry).map((key) => ({
-      name: key,
-      displayName: themeRegistry[key].displayName
-    }))
-  }
-
-  public isDarkMode() {
-    const mode = this.state.value.currentMode
-    return mode === 'dark'
-  }
-
-  public isAmoledMode() {
-    return this.state.value.currentMode === 'dark' && this.amoledEnabled.value
   }
 }
 
@@ -471,16 +407,8 @@ export function useTheme() {
   return {
     mode: computed(() => state.value.currentMode),
     themeName: computed(() => state.value.currentTheme),
-    theme: computed(() => state.value.theme),
-    setMode: (mode: DisplayMode) => handler.setMode(mode),
-    setTheme: (themeName: string) => handler.setTheme(themeName),
-    toggleMode: () => handler.toggleMode(),
-    getAvailableThemes: () => handler.getAvailableThemes(),
-    isDarkMode: () => handler.isDarkMode(),
-    isAmoledMode: () => handler.isAmoledMode(),
     amoledEnabled: handler.getAmoledEnabledRef(),
-    setAmoledEnabled: (enabled: boolean) => handler.setAmoledEnabled(enabled),
-    toggleAmoled: () => handler.toggleAmoled(),
+    setTheme: (themeName: string) => handler.setTheme(themeName),
     setAppearance: (mode: DisplayMode, amoled: boolean) =>
       handler.setAppearance(mode, amoled),
     state
