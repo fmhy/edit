@@ -127,8 +127,6 @@ export default defineConfig({
             else d.classList.remove('amoled');
 
             d.dataset.theme = themeName;
-            if (themeName === 'monochrome') d.classList.add('monochrome');
-            else d.classList.remove('monochrome');
 
             if (varsJson) {
               var vars = JSON.parse(varsJson);

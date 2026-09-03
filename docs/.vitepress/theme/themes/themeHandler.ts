@@ -113,42 +113,10 @@ export class ThemeHandler {
     this.applyDOMClasses(currentMode)
     root.dataset.theme = currentTheme
 
-    if (!theme) {
-      // Is this the WORST fix of all time???
-      const bgColor =
-        currentMode === 'dark' && this.amoledEnabled.value
-          ? '#000000'
-          : currentMode === 'dark'
-            ? '#1A1A1A'
-            : '#f8fafc'
-      root.style.setProperty('--vp-c-bg', bgColor)
-      const bgAltColor =
-        currentMode === 'dark' && this.amoledEnabled.value
-          ? '#000000'
-          : currentMode === 'dark'
-            ? '#171717'
-            : '#eef2f5'
-      root.style.setProperty('--vp-c-bg-alt', bgAltColor)
-      const bgElvColor =
-        currentMode === 'dark' && this.amoledEnabled.value
-          ? 'rgba(0, 0, 0, 0.9)'
-          : currentMode === 'dark'
-            ? '#1a1a1acc'
-            : 'rgba(255, 255, 255, 0.8)'
-      root.style.setProperty('--vp-c-bg-elv', bgElvColor)
-      this.persistInlineVars()
-      return
-    }
+    if (!theme) return
 
     const modeColors = theme.modes[currentMode]
     this.applyCSSVariables(modeColors, theme)
-
-    if (theme.name === 'monochrome') {
-      root.classList.add('monochrome')
-    } else {
-      root.classList.remove('monochrome')
-    }
-
     this.persistInlineVars()
   }
 
@@ -405,9 +373,6 @@ export class ThemeHandler {
     this.state.value.theme = themeRegistry[themeName]
     localStorage.setItem(STORAGE_KEY_THEME, themeName)
     this.applyTheme()
-
-    // Force re-apply ColorPicker colors if theme doesn't specify brand colors
-    this.ensureColorPickerColors()
   }
 
   public setMode(mode: DisplayMode) {
@@ -449,21 +414,6 @@ export class ThemeHandler {
 
   public getAmoledEnabledRef() {
     return this.amoledEnabled
-  }
-
-  private ensureColorPickerColors() {
-    const theme = this.state.value.theme
-    if (!theme) return
-    // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
-    const currentMode = this.state.value.currentMode
-    const modeColors = theme.modes[currentMode]
-
-    if (!modeColors.brand || !modeColors.brand[1]) {
-      // Trigger a custom event that ColorPicker can listen to
-      if (typeof window !== 'undefined') {
-        window.dispatchEvent(new CustomEvent('theme-changed-apply-colors'))
-      }
-    }
   }
 
   public getState() {
