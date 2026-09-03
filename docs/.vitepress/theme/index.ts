@@ -41,6 +41,17 @@ import Tag from './components/Tag.vue'
 import Tooltip from './components/Tooltip.vue'
 import VideoFrame from './components/VideoFrame.vue'
 
+const applySeasonalBranding = () => {
+  const isJune = new Date().getMonth() === 5
+  document.documentElement.classList.toggle('june', isJune)
+
+  const favicon = document.querySelector<HTMLLinkElement>("link[rel='icon']")
+  if (favicon) {
+    favicon.href = isJune ? '/june_icon.webp' : '/fmhy.ico'
+    favicon.type = isJune ? 'image/webp' : 'image/x-icon'
+  }
+}
+
 export default {
   extends: DefaultTheme,
   Layout,
@@ -57,15 +68,7 @@ export default {
     loadProgress(router)
 
     if (typeof window !== 'undefined') {
-      if (new Date().getMonth() === 5) {
-        document.documentElement.classList.add('june')
-        const favicon =
-          document.querySelector<HTMLLinkElement>("link[rel*='icon']")
-        if (favicon && favicon.getAttribute('href') !== '/june_icon.webp') {
-          favicon.href = '/june_icon.webp'
-          favicon.type = 'image/webp'
-        }
-      }
+      applySeasonalBranding()
 
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged

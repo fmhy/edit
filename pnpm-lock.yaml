@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@headlessui/vue':
-        specifier: ^1.7.23
-        version: 1.7.23(vue@3.5.41(typescript@6.0.3))
       '@resvg/resvg-js':
         specifier: ^2.6.2
         version: 2.6.2
@@ -29,9 +26,6 @@ importers:
       feed:
         specifier: ^6.0.0
         version: 6.0.0
-      itty-fetcher:
-        specifier: ^1.0.10
-        version: 1.0.10
       mark.js:
         specifier: ^8.11.1
         version: 8.11.1
@@ -47,9 +41,6 @@ importers:
       nprogress:
         specifier: ^0.2.0
         version: 0.2.0
-      pathe:
-        specifier: ^2.0.3
-        version: 2.0.3
       reka-ui:
         specifier: ^2.10.3
         version: 2.10.3(vue@3.5.41(typescript@6.0.3))
@@ -93,9 +84,6 @@ importers:
       '@iconify-json/gravity-ui':
         specifier: ^1.2.14
         version: 1.2.14
-      '@iconify-json/heroicons-solid':
-        specifier: ^1.2.1
-        version: 1.2.1
       '@iconify-json/logos':
         specifier: ^1.2.12
         version: 1.2.12
@@ -120,9 +108,6 @@ importers:
       '@iconify-json/twemoji':
         specifier: ^1.2.5
         version: 1.2.5
-      '@iconify/utils':
-        specifier: ^3.1.4
-        version: 3.1.4
       '@types/node':
         specifier: ^26.2.0
         version: 26.2.0
@@ -159,9 +144,6 @@ importers:
       prettier-plugin-pkgsort:
         specifier: ^0.3.0
         version: 0.3.0(prettier@3.9.6)
-      prettier-plugin-tailwindcss:
-        specifier: ^0.8.1
-        version: 0.8.1(@ianvs/prettier-plugin-sort-imports@4.7.1(@vue/compiler-sfc@3.5.41)(prettier@3.9.6))(prettier@3.9.6)
       sass:
         specifier: ^1.102.0
         version: 1.102.0
@@ -1374,12 +1356,6 @@ packages:
   '@floating-ui/vue@1.1.11':
     resolution: {integrity: sha512-HzHKCNVxnGS35r9fCHBc3+uCnjw9IWIlCPL683cGgM9Kgj2BiAl8x1mS7vtvP6F9S/e/q4O6MApwSHj8hNLGfw==}
 
-  '@headlessui/vue@1.7.23':
-    resolution: {integrity: sha512-JzdCNqurrtuu0YW6QaDtR2PIYCKPUWq28csDyMvN4zmGccmE7lz40Is6hc3LA4HFeCI7sekZ/PQMTNmn9I/4Wg==}
-    engines: {node: '>=10'}
-    peerDependencies:
-      vue: ^3.2.0
-
   '@humanfs/core@0.19.2':
     resolution: {integrity: sha512-UhXNm+CFMWcbChXywFwkmhqjs3PRCmcSa/hfBgLIb7oQ5HNb1wS0icWsGtSAUNgefHeI+eBrA8I1fxmbHsGdvA==}
     engines: {node: '>=18.18.0'}
@@ -1429,9 +1405,6 @@ packages:
 
   '@iconify-json/gravity-ui@1.2.14':
     resolution: {integrity: sha512-d6ENT1S3YBs0ltTiuQIucun90C1mk//TVpe63tcIlzibujLMw9tpvZQ3Rb35xUyr5vcpxILEKr2spHD6uKaj5w==}
-
-  '@iconify-json/heroicons-solid@1.2.1':
-    resolution: {integrity: sha512-sRZ6U1FT1lkxtIuL+iQ9Fpm5IZxvJCDaKdLpP5elgZ6OkQn6j8HVJpxgFIcuJbHC/EeoNp3tHldMEELqN9pZDQ==}
 
   '@iconify-json/logos@1.2.12':
     resolution: {integrity: sha512-zUi/AoezU2F3L65nPVd2smiU6Y+ZI7RjdVPlGfeAeYbPbZ9kWn7Ucxj+KshmyQRBYwLtKoqAlUyoGgMqWG1T8g==}
@@ -3937,9 +3910,6 @@ packages:
   isexe@2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
 
-  itty-fetcher@1.0.10:
-    resolution: {integrity: sha512-sxNekddIHnYEiiBNZDfkZUYD05TNGWqVuZbVWxHvgp93VjYdDu/hOuM0ZTUkMQd8vzeCjrxwaOwqr2E8krI/yw==}
-
   jackspeak@3.4.3:
     resolution: {integrity: sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw==}
 
@@ -4423,61 +4393,6 @@ packages:
     resolution: {integrity: sha512-dUtSMvFvuZPfrni0/gqgLdwAevVAG1IYpv53IKWGPSaq4ZKm0nsz3jybzpv56Bo+1yv+vIAW3W8jKKBh8U/kOA==}
     peerDependencies:
       prettier: ^3.0.0
-
-  prettier-plugin-tailwindcss@0.8.1:
-    resolution: {integrity: sha512-iaFMYqDsE4ffdDkn5qup0j5f2aCEBFZrdrZnvu9QKTlWx/iGPeQ4HHu7b7fCPMxeo9nwQBiOAh2nSypdFYWJkw==}
-    engines: {node: '>=20.19'}
-    peerDependencies:
-      '@ianvs/prettier-plugin-sort-imports': '*'
-      '@prettier/plugin-hermes': '*'
-      '@prettier/plugin-oxc': '*'
-      '@prettier/plugin-pug': '*'
-      '@shopify/prettier-plugin-liquid': '*'
-      '@trivago/prettier-plugin-sort-imports': '*'
-      '@zackad/prettier-plugin-twig': '*'
-      prettier: ^3.0
-      prettier-plugin-astro: '*'
-      prettier-plugin-css-order: '*'
-      prettier-plugin-jsdoc: '*'
-      prettier-plugin-marko: '*'
-      prettier-plugin-multiline-arrays: '*'
-      prettier-plugin-organize-attributes: '*'
-      prettier-plugin-organize-imports: '*'
-      prettier-plugin-sort-imports: '*'
-      prettier-plugin-svelte: '*'
-    peerDependenciesMeta:
-      '@ianvs/prettier-plugin-sort-imports':
-        optional: true
-      '@prettier/plugin-hermes':
-        optional: true
-      '@prettier/plugin-oxc':
-        optional: true
-      '@prettier/plugin-pug':
-        optional: true
-      '@shopify/prettier-plugin-liquid':
-        optional: true
-      '@trivago/prettier-plugin-sort-imports':
-        optional: true
-      '@zackad/prettier-plugin-twig':
-        optional: true
-      prettier-plugin-astro:
-        optional: true
-      prettier-plugin-css-order:
-        optional: true
-      prettier-plugin-jsdoc:
-        optional: true
-      prettier-plugin-marko:
-        optional: true
-      prettier-plugin-multiline-arrays:
-        optional: true
-      prettier-plugin-organize-attributes:
-        optional: true
-      prettier-plugin-organize-imports:
-        optional: true
-      prettier-plugin-sort-imports:
-        optional: true
-      prettier-plugin-svelte:
-        optional: true
 
   prettier@3.9.6:
     resolution: {integrity: sha512-OpN0zzVdiaiAhxpuuj5efpIS4sY9j7bY6uR5mnj5yPzGkdkjNKSJeUThPb60Jw29QuAZgA4o+/iB49kFiaBX6g==}
@@ -6720,11 +6635,6 @@ snapshots:
       - '@vue/composition-api'
       - vue
 
-  '@headlessui/vue@1.7.23(vue@3.5.41(typescript@6.0.3))':
-    dependencies:
-      '@tanstack/vue-virtual': 3.13.35(vue@3.5.41(typescript@6.0.3))
-      vue: 3.5.41(typescript@6.0.3)
-
   '@humanfs/core@0.19.2':
     dependencies:
       '@humanfs/types': 0.15.0
@@ -6767,10 +6677,6 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/gravity-ui@1.2.14':
-    dependencies:
-      '@iconify/types': 2.0.0
-
-  '@iconify-json/heroicons-solid@1.2.1':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -9259,8 +9165,6 @@ snapshots:
 
   isexe@2.0.0: {}
 
-  itty-fetcher@1.0.10: {}
-
   jackspeak@3.4.3:
     dependencies:
       '@isaacs/cliui': 8.0.2
@@ -9878,12 +9782,6 @@ snapshots:
     dependencies:
       prettier: 3.9.6
       prettier-package-json: 2.8.0
-
-  prettier-plugin-tailwindcss@0.8.1(@ianvs/prettier-plugin-sort-imports@4.7.1(@vue/compiler-sfc@3.5.41)(prettier@3.9.6))(prettier@3.9.6):
-    dependencies:
-      prettier: 3.9.6
-    optionalDependencies:
-      '@ianvs/prettier-plugin-sort-imports': 4.7.1(@vue/compiler-sfc@3.5.41)(prettier@3.9.6)
 
   prettier@3.9.6: {}
 

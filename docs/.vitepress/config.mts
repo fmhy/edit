@@ -25,7 +25,6 @@ import { replaceNoteLink } from './utils/markdown'
 // @unocss-include
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
-const isJune = new Date().getMonth() === 5
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
@@ -44,7 +43,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: isJune ? '/june_icon.webp' : '/fmhy.ico' }],
+    ['link', { rel: 'icon', href: '/fmhy.ico' }],
     [
       'link',
       {
@@ -304,7 +303,7 @@ export default defineConfig({
     },
     outline: 'deep',
     logo: {
-      src: isJune ? '/june_icon.webp' : '/fmhy.ico',
+      src: '/fmhy.ico',
       alt: 'FMHY Logo'
     },
     nav,

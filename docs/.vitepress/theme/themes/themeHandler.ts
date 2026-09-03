@@ -37,6 +37,7 @@ export class ThemeHandler {
   })
   private amoledEnabled = ref(false)
   private prefersDarkMql: MediaQueryList | null = null
+  private initialized = false
   // Arrow field gives a stable, bound reference we can later remove.
   private handleSystemThemeChange = (e: MediaQueryListEvent) => {
     if (!localStorage.getItem(STORAGE_KEY_MODE)) {
@@ -47,12 +48,9 @@ export class ThemeHandler {
     }
   }
 
-  constructor() {
-    this.initializeTheme()
-  }
-
-  private initializeTheme() {
-    if (typeof window === 'undefined') return
+  public initializeTheme() {
+    if (typeof window === 'undefined' || this.initialized) return
+    this.initialized = true
 
     const savedTheme = resolveThemeName(localStorage.getItem(STORAGE_KEY_THEME))
 
@@ -329,8 +327,7 @@ export function useTheme() {
   const state = handler.getState()
 
   onMounted(() => {
-    // Ensure theme is applied on mount
-    handler.applyTheme()
+    handler.initializeTheme()
   })
 
   return {
