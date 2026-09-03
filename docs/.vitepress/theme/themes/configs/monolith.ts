@@ -1,7 +1,6 @@
 import type { Theme } from '../types'
 
 export const monolithTheme: Theme = {
-  name: 'monolith',
   displayName: 'Monolith',
   preview: '',
   fonts: {

@@ -17,7 +17,6 @@
 import type { Theme } from '../types'
 
 export const catppuccinTheme: Theme = {
-  name: 'catppuccin',
   displayName: 'Catppuccin',
   preview:
     'https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png',

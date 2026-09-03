@@ -95,8 +95,3 @@ export const colors = {
     '950': 'hsl(247, 51%, 20%)'
   }
 } as const
-
-export const shortcuts = {
-  gradient:
-    'background-image:linear-gradient(43deg, #ebf4ff 0%, #c7dafd 7.25%, #aebdf9 14.5%, #9f7aea 29%, #8c6ee2 35.75%, #7864d8 42.5%, #4c51bf 56%, #4949ae 60.5%, #46419b 65%, #3c366b 74%, #2f315d 80.5%, #272d47 87%, #1a202c 100%)'
-} as const

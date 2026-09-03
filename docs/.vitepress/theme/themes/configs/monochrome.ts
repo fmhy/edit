@@ -1,7 +1,6 @@
 import type { Theme } from '../types'
 
 export const monochromeTheme: Theme = {
-  name: 'monochrome',
   displayName: 'Monochrome',
   preview: '#808080',
   modes: {

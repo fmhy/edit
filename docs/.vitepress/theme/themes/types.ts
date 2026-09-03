@@ -101,7 +101,6 @@ export interface ModeColors {
 }
 
 export interface Theme {
-  name: string
   displayName: string
   preview?: string
   modes: {

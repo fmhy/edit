@@ -11,7 +11,6 @@ export const generateThemeFromColor = (colorName: ColorNames): Theme => {
   const colorSet = colors[colorName]
 
   return {
-    name: `color-${colorName}`,
     displayName: normalizeColorName(colorName),
     modes: {
       light: {

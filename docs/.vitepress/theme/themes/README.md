@@ -24,9 +24,9 @@ docs/.vitepress/theme/themes/
 ## Core Types
 
 - `DisplayMode`: `'light' | 'dark'`.
-- `Theme`: `{ name, displayName, preview?, modes: { light, dark }, fonts?: { body? } }`.
+- `Theme`: `{ displayName, preview?, modes: { light, dark }, fonts?: { body? } }`.
 - `ModeColors`:
-  - `brand?`: optional brand colors (`1`, `2`, `3`, `soft`). If omitted, the ColorPicker controls brand.
+  - `brand`: brand colors (`1`, `2`, `3`, `soft`).
   - `bg`, `bgAlt`, `bgElv`.
   - `text?`: optional (`1`, `2`, `3`). If omitted, VitePress defaults are used.
   - `button`: `brand` and `alt` sub-objects with `bg`, `border`, `text`, `hover*`, `active*`.
@@ -71,7 +71,7 @@ export const themeRegistry = {
 ## Creating a Theme (`configs/<name>.ts`)
 
 - Export a `Theme` object with:
-  - `name`, `displayName`, optional `preview` (image URL/data).
+  - `displayName`, optional `preview` (image URL/data).
   - `modes.light` and `modes.dark` objects.
   - Optional `fonts.body` (e.g. for monospace themes like Monolith).
 - Register it in `configs/index.ts`.
