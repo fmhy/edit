@@ -193,6 +193,8 @@ export class ThemeHandler {
     root.style.setProperty('--vp-c-bg-elv', bgElvColor)
     if (colors.bgMark) {
       root.style.setProperty('--vp-c-bg-mark', colors.bgMark)
+    } else {
+      root.style.removeProperty('--vp-c-bg-mark')
     }
 
     // Apply text colors - always set them to ensure proper theme switching
@@ -361,12 +363,6 @@ export class ThemeHandler {
     this.applyTheme()
   }
 
-  public setMode(mode: DisplayMode) {
-    this.state.value.currentMode = mode
-    localStorage.setItem(STORAGE_KEY_MODE, mode)
-    this.applyTheme()
-  }
-
   public setAppearance(mode: DisplayMode, amoled: boolean) {
     this.state.value.currentMode = mode
     this.amoledEnabled.value = amoled
@@ -410,7 +406,6 @@ export function useTheme() {
     amoledEnabled: handler.getAmoledEnabledRef(),
     setTheme: (themeName: string) => handler.setTheme(themeName),
     setAppearance: (mode: DisplayMode, amoled: boolean) =>
-      handler.setAppearance(mode, amoled),
-    state
+      handler.setAppearance(mode, amoled)
   }
 }

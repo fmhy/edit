@@ -52,12 +52,15 @@ const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
     (scale) =>
       [
         new RegExp(`^${type}-(${colorPattern})-${scale}$`),
-        ([, color]) => ({ [property]: colors[color][scale] })
+        ([, color]) => ({
+          [property]: colors[color as keyof typeof colors][scale]
+        })
       ] as const
   )
 }
 
 export default defineConfig({
+  blocklist: ['container'],
   content: {
     filesystem: [
       '.vitepress/config.mts',

@@ -40,8 +40,7 @@ docs/.vitepress/theme/themes/
 - Applies HTML classes: always the current mode; adds `dark` for compatibility; adds `amoled` when dark + AMOLED enabled.
 - AMOLED handling: overrides dark backgrounds to pure black while retaining other dark tokens.
 - Brand colors:
-  - If theme provides brand colors, inline CSS variables are set.
-  - If theme omits brand colors, inline brand variables are removed so the ColorPicker stylesheet takes effect.
+  - Theme brand colors are set as inline CSS variables.
 - Text colors:
   - Applied only if defined in the theme; otherwise defaults are used.
 - Custom logo:
@@ -54,11 +53,10 @@ docs/.vitepress/theme/themes/
   - Stores/reads mode and AMOLED-enabled state.
   - Aliased via `docs/.vitepress/config.mts` to override `VPSwitchAppearance.vue`.
 - `ColorPicker.vue`:
-  - Controls brand color CSS variables via a stylesheet tag (`#brand-color`).
-  - Reapplies colors on a custom event `theme-changed-apply-colors` when switching to themes without brand.
+  - Renders selectable theme swatches (generated color themes and preset themes).
+  - Calls `setTheme(themeName)` on click, updating the active theme in the central registry.
 - `ThemeSelector.vue`:
-  - Shows circular previews per theme (image via `preview` or gradient fallback).
-  - Calls `setTheme(name)`; independent from ColorPicker.
+  - Displays the currently active theme's display name in the sidebar options card.
 
 ## Theme Registry (`configs/index.ts`)
 

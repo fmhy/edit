@@ -529,10 +529,6 @@ html.june {
   transform: translateY(0) !important;
 }
 
-/* Fix UnoCSS .container utility collision on VPLocalNav so it spans the full viewport width */
-.VPLocalNav .container {
-  max-width: 100% !important;
-}
 
 .VPLocalNav .VPLocalNavOutlineDropdown {
   margin-left: auto;
