@@ -985,12 +985,13 @@
 * [ChessGames](https://www.chessgames.com/) - Chess Database / Community
 * [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
-* [Listudy](https://listudy.org/en) - Blindfolded Tactics / Openings
+* [Listudy](https://listudy.org/en) - Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics
 * [Chessable](https://www.chessable.com/) - Openings / Endgames
 * [⁠Syzygy Tables](https://syzygy-tables.info/) - Practice Endgames Using Tablebase Data
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
 * [⁠Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
 * [⁠ChessMD](https://chessmd.org/) - Chess Training / Match Analysis / [GitHub](https://github.com/ChessMD/ChessMD)
+* [⁠Maia Chess](https://www.maiachess.com/) - Human-Like AI Chess Opponent
 * [Chess Coach](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) - Chess Coaching App
 * [⁠Chess OCR](https://helpman.komtera.lt/chessocr/) - Multi-Site Digital Chessboard Analysis
 * [⁠Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
@@ -1551,7 +1552,6 @@
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
-* [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
