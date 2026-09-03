@@ -24,10 +24,10 @@ docs/.vitepress/theme/themes/
 ## Core Types
 
 - `DisplayMode`: `'light' | 'dark'`.
-- `Theme`: `{ name, displayName, preview?, logo?, modes: { light, dark }, ... }`.
+- `Theme`: `{ name, displayName, preview?, modes: { light, dark }, fonts?: { body? } }`.
 - `ModeColors`:
   - `brand?`: optional brand colors (`1`, `2`, `3`, `soft`). If omitted, the ColorPicker controls brand.
-  - `bg`, `bgAlt`, `bgElv`, `bgMark?`.
+  - `bg`, `bgAlt`, `bgElv`.
   - `text?`: optional (`1`, `2`, `3`). If omitted, VitePress defaults are used.
   - `button`: `brand` and `alt` sub-objects with `bg`, `border`, `text`, `hover*`, `active*`.
   - `customBlock`: `info`, `tip`, `warning`, `danger` with `bg`, `border`, `text`, `textDeep`.
@@ -43,8 +43,6 @@ docs/.vitepress/theme/themes/
   - Theme brand colors are set as inline CSS variables.
 - Text colors:
   - Applied only if defined in the theme; otherwise defaults are used.
-- Custom logo:
-  - If theme provides `logo`, sets `--vp-theme-logo: url(...)` for downstream usage.
 
 ## UI Components
 
@@ -73,35 +71,29 @@ export const themeRegistry = {
 ## Creating a Theme (`configs/<name>.ts`)
 
 - Export a `Theme` object with:
-  - `name`, `displayName`, optional `preview` (image URL/data) and `logo`.
+  - `name`, `displayName`, optional `preview` (image URL/data).
   - `modes.light` and `modes.dark` objects.
-  - Optional `fonts`, `spacing`, `borderRadius`, `customProperties`.
+  - Optional `fonts.body` (e.g. for monospace themes like Monolith).
 - Register it in `configs/index.ts`.
-- If you omit `brand` in a mode, the ColorPicker-selected brand colors will be used.
 - If you omit `text` in a mode, VitePress default text colors will be used.
 
 ## CSS Variables
 
 - Brand: `--vp-c-brand-1`, `--vp-c-brand-2`, `--vp-c-brand-3`, `--vp-c-brand-soft`.
-- Background: `--vp-c-bg`, `--vp-c-bg-alt`, `--vp-c-bg-elv`, `--vp-c-bg-mark`.
+- Background: `--vp-c-bg`, `--vp-c-bg-alt`, `--vp-c-bg-elv`.
 - Text: `--vp-c-text-1`, `--vp-c-text-2`, `--vp-c-text-3`.
 - Buttons: `--vp-button-brand-*`, `--vp-button-alt-*`.
 - Custom blocks: `--vp-custom-block-{type}-*`.
 - Selection: `--vp-c-selection-bg`.
 - Home hero: `--vp-home-hero-*`.
-- Custom props: all keys in `customProperties`.
-- Optional: `--vp-theme-logo` (when theme defines `logo`).
 
 ## Migration Notes
 
 - AMOLED is no longer a separate mode; it’s a dark enhancement (pure black backgrounds) toggled in the dropdown.
 - The default `VPSwitchAppearance` toggle is replaced by `ThemeDropdown.vue` via alias in `config.mts`. The dropdown drives the radial light/dark reveal through `themes/themeTransition.ts`.
-- Themes can rely on the ColorPicker for brand colors by omitting `brand`.
 
 ## Troubleshooting
 
 - Theme not applying: ensure it’s added to `themeRegistry` and named correctly.
-- Brand not changing: if a theme sets inline brand variables, ColorPicker won’t override; remove `brand` from the theme to defer to ColorPicker.
-- Colors not updating after theme switch: ColorPicker listens for `theme-changed-apply-colors`; make sure that event dispatch remains in `setTheme()`.
 - AMOLED not pure black: confirm dark mode is active and AMOLED toggle is enabled; handler overrides backgrounds when enabled.
 

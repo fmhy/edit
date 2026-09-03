@@ -15,7 +15,6 @@ export const monochromeTheme: Theme = {
       bg: '#FFFFFF',
       bgAlt: '#F5F5F5',
       bgElv: 'rgba(255, 255, 255, 0.95)',
-      bgMark: '#E0E0E0',
       text: {
         1: '#000000',
         2: '#333333',
@@ -87,7 +86,6 @@ export const monochromeTheme: Theme = {
       bg: '#1a1a1a',
       bgAlt: '#171717',
       bgElv: 'rgba(26, 26, 26, 0.95)',
-      bgMark: '#262626',
       text: {
         1: '#FFFFFF',
         2: '#CCCCCC',

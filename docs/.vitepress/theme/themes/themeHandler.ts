@@ -162,40 +162,16 @@ export class ThemeHandler {
       bgElvColor = 'rgba(0, 0, 0, 0.9)'
     }
 
-    // Apply brand colors only if theme specifies them
-    // Otherwise, remove inline styles to let ColorPicker CSS take effect
-    if (
-      colors.brand &&
-      (colors.brand[1] ||
-        colors.brand[2] ||
-        colors.brand[3] ||
-        colors.brand.soft)
-    ) {
-      if (colors.brand[1])
-        root.style.setProperty('--vp-c-brand-1', colors.brand[1])
-      if (colors.brand[2])
-        root.style.setProperty('--vp-c-brand-2', colors.brand[2])
-      if (colors.brand[3])
-        root.style.setProperty('--vp-c-brand-3', colors.brand[3])
-      if (colors.brand.soft)
-        root.style.setProperty('--vp-c-brand-soft', colors.brand.soft)
-    } else {
-      // Remove inline brand color styles so ColorPicker CSS can apply
-      root.style.removeProperty('--vp-c-brand-1')
-      root.style.removeProperty('--vp-c-brand-2')
-      root.style.removeProperty('--vp-c-brand-3')
-      root.style.removeProperty('--vp-c-brand-soft')
-    }
+    // Apply brand colors
+    root.style.setProperty('--vp-c-brand-1', colors.brand[1])
+    root.style.setProperty('--vp-c-brand-2', colors.brand[2])
+    root.style.setProperty('--vp-c-brand-3', colors.brand[3])
+    root.style.setProperty('--vp-c-brand-soft', colors.brand.soft)
 
     // Apply background colors
     root.style.setProperty('--vp-c-bg', bgColor)
     root.style.setProperty('--vp-c-bg-alt', bgAltColor)
     root.style.setProperty('--vp-c-bg-elv', bgElvColor)
-    if (colors.bgMark) {
-      root.style.setProperty('--vp-c-bg-mark', colors.bgMark)
-    } else {
-      root.style.removeProperty('--vp-c-bg-mark')
-    }
 
     // Apply text colors - always set them to ensure proper theme switching
     if (colors.text) {
@@ -308,49 +284,6 @@ export class ThemeHandler {
       root.style.setProperty('--vp-font-family-base', theme.fonts.body)
     } else {
       root.style.removeProperty('--vp-font-family-base')
-    }
-    if (theme.fonts?.heading) {
-      root.style.setProperty('--vp-font-family-heading', theme.fonts.heading)
-    } else {
-      root.style.removeProperty('--vp-font-family-heading')
-    }
-
-    // Apply border radius (if defined)
-    if (theme.borderRadius) {
-      root.style.setProperty('--vp-border-radius', theme.borderRadius)
-    } else {
-      root.style.removeProperty('--vp-border-radius')
-    }
-
-    // Apply spacing (if defined)
-    if (theme.spacing) {
-      if (theme.spacing.small)
-        root.style.setProperty('--vp-spacing-small', theme.spacing.small)
-      else root.style.removeProperty('--vp-spacing-small')
-      if (theme.spacing.medium)
-        root.style.setProperty('--vp-spacing-medium', theme.spacing.medium)
-      else root.style.removeProperty('--vp-spacing-medium')
-      if (theme.spacing.large)
-        root.style.setProperty('--vp-spacing-large', theme.spacing.large)
-      else root.style.removeProperty('--vp-spacing-large')
-    } else {
-      root.style.removeProperty('--vp-spacing-small')
-      root.style.removeProperty('--vp-spacing-medium')
-      root.style.removeProperty('--vp-spacing-large')
-    }
-
-    // Apply custom properties (if defined)
-    if (theme.customProperties) {
-      Object.entries(theme.customProperties).forEach(([key, value]) => {
-        root.style.setProperty(key, value)
-      })
-    }
-
-    // Apply custom logo (if defined)
-    if (theme.logo) {
-      root.style.setProperty('--vp-theme-logo', `url(${theme.logo})`)
-    } else {
-      root.style.removeProperty('--vp-theme-logo')
     }
   }
 

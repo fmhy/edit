@@ -24,7 +24,6 @@ export const generateThemeFromColor = (colorName: ColorNames): Theme => {
         bg: '#f8fafc',
         bgAlt: '#eef2f5',
         bgElv: 'rgba(255, 255, 255, 0.8)',
-        bgMark: 'rgb(226, 232, 240)',
         text: {
           1: '#0f172a',
           2: '#334155',

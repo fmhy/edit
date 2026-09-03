@@ -26,7 +26,6 @@ html {
   --vp-button-alt-hover-text: #f0eeee;
 
   --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
-  --vp-c-bg-mark: rgb(232, 232, 232);
 
   /* Colors: Custom Block */
   /** Info */
@@ -61,6 +60,8 @@ html {
     var(--vp-c-brand-soft) 46%,
     transparent
   );
+  /* Selection */
+  --vp-c-selection-bg: theme('colors.swarm.200');
 }
 
 .dark {
@@ -104,6 +105,8 @@ html {
   );
   /* Scroll-to-match highlight */
   --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
+  /* Selection */
+  --vp-c-selection-bg: theme('colors.swarm.800');
 }
 
 html[data-theme='monochrome'] {
@@ -155,11 +158,7 @@ html[data-theme='monochrome'] {
 }
 
 ::selection {
-  background-color: #5586a6;
-
-  .dark & {
-    background-color: #0f2c47;
-  }
+  background-color: var(--vp-c-selection-bg);
 }
 
 .VPFooter a {

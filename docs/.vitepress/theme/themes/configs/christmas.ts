@@ -32,7 +32,6 @@ export const christmasTheme: Theme = {
       bg: '#f8fafc',
       bgAlt: '#eef2f5',
       bgElv: '#eef2f5',
-      bgMark: 'rgb(232, 232, 232)',
       text: {
         1: '#353638ff',
         2: '#334155',
