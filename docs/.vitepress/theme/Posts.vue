@@ -10,9 +10,9 @@ interface Post {
 
 // Group posts ONLY by Year to improve information density
 const groupedPosts = computed(() => {
-  const postArray: Post[] = Array.isArray(rawPosts)
+  const postArray = Array.isArray(rawPosts)
     ? rawPosts
-    : (Object.values(rawPosts).flat() as Post[])
+    : Object.values(rawPosts).flat()
 
   const groups: Record<string, Post[]> = {}
 

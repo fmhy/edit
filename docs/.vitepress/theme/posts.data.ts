@@ -24,9 +24,7 @@ interface Post {
   date: string
 }
 
-type Dictionary = ReturnType<typeof createContentLoader>
-
-declare const data: Dictionary
+declare const data: Record<string, Post[]>
 export { data }
 
 function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {

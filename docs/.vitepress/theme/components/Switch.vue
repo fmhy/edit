@@ -39,7 +39,7 @@ const emit = defineEmits<{
 }
 
 .switch.enabled {
-  background-color: var(--vp-c-brand);
+  background-color: var(--vp-c-brand-1);
 }
 
 .switch.disabled {
