@@ -445,6 +445,11 @@
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
 * [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
+* [⁠AIOStreams](https://docs.aiostreams.viren070.me/) - Multi-Source Addon + Debrid Aggregator / [GitHub](https://github.com/Viren070/AIOStreams)
+* [⁠AIOMetadata](https://aiometadata.elfhosted.com/) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata) / [Configure](https://aiometadata.elfhosted.com/configure/), [2](https://aiometadatafortheweak.nhyira.dev/configure/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aiometadata-note.md) / [GitHub](https://github.com/cedya77/aiometadata)
+
+
+
 
 ***
 

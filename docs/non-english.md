@@ -51,7 +51,7 @@
 * [⁠ani-cli-arabic](https://ani-cli-arabic.dev/) - Anime CLI / [GitHub](https://github.com/np4abdou1/ani-cli-arabic)
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [al-fann](https://www.al-fann.net/) - Music
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 
 ## ▷ Reading / القراءة
 
@@ -1304,6 +1304,7 @@
 
 * ⭐ **[Kinohub](https://on.kinohub.vip/)**, [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / [Telegram](https://t.me/KinohubLive)
 * ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
+* ⭐ **[AnimeLIB](https://animelib.org/)**, [2](https://v3.animelib.org) - Anime / Sub / Dub / 1080p (account required)
 * ⭐ **[AnimeGO](https://animego.me/)** - Anime / Sub / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
@@ -1318,7 +1319,6 @@
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
 * [animang](https://animang.one/) - Anime / Dub / 1080p
 * [Shiza Project](https://shiza-project.com/) - Anime / Dub / 720p
-* [AnimeLIB](https://animelib.org/), [2](https://v3.animelib.org) - Anime / Sub / Dub / 1080p (account required)
 * [AniFilm](https://anifilm.net/) - Anime / Sub / 1080p
 * [AniLiberty](https://aniliberty.top/) - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/aniliberty_tv) / [Discord](https://discord.gg/M6yCGeGN9B)
 * [Animestars](https://animestars.org/) - Anime / Sub / 1080p

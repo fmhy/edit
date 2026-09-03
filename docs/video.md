@@ -268,8 +268,8 @@
 # ► Streaming Apps
 
 * ↪️ **[Torrent Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)** - Torrent Streaming Apps
-* ⭐ **[PlayTorrio](https://playtorrio.xyz/)**, [2](https://playtorrio.pages.dev/) - Streaming App / Use Streaming Mode / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
-* ⭐ **[⁠Vyla Home](https://vyla.cc/)**, [2](https://vyla.qzz.io) - Streaming App / Windows, macOS, Linux / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
+* ⭐ **[PlayTorrio](https://playtorrio.xyz/)**, [2](https://playtorrio.pages.dev/) - Streaming App / Use PlayTorrioHTTP Plugin / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* ⭐ **[⁠Vyla Home](https://vyla.cc/)**, [2](https://vyla.qzz.io) - Streaming App / Windows / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [mov-cli](https://mov-cli.github.io/) - Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / Windows, macOS, Linux / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Plex + Jellyfin Public Playlist / Windows, macOS, Linux
 
@@ -950,7 +950,7 @@
 * [⁠IbbyLabs Uptime Tracker](https://uptime.ibbylabs.dev/) - Stremio Addon Status
 * [Stremio Account Bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper) - Easy Stremio Setup
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/) - Multi-Source Addon + Debrid Aggregator / [GitHub](https://github.com/Viren070/AIOStreams)
-* [⁠AIOMetadata](https://aiometadata.elfhosted.com/) - Multi-Source Metadata & Catalogs Addon / [Configure](https://aiometadata.elfhosted.com/configure/), [2](https://aiometadatafortheweak.nhyira.dev/configure/) / [GitHub](https://github.com/cedya77/aiometadata)
+* [⁠AIOMetadata](https://aiometadata.elfhosted.com/) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata) / [Configure](https://aiometadata.elfhosted.com/configure/), [2](https://aiometadatafortheweak.nhyira.dev/configure/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aiometadata-note.md) / [GitHub](https://github.com/cedya77/aiometadata)
 * [Up Next](https://up-next.dontwanttos.top/) - Stremio Catalogs
 * [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure) - Stremio Anime Catalogs
 * [Simkl Stremio](https://simkl.com/apps/stremio/) - Simkl for Stremio
