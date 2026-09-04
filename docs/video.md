@@ -108,6 +108,7 @@
 
 ***
 
+* ⭐ **[Boomflix](https://boomflix.qzz.io/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/whEBxM3WT2)
 * ⭐ **[NEPU](https://nepu.io/)**, [2](https://nepu.net/), [3](https://nepu.app/), [4](https://nepu.is/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
 * ⭐ **[Bingr](https://bingr.one/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/Dxq6bFv4FP)
@@ -115,7 +116,6 @@
 * [Streaming Unity](https://streamingunity.dog/) - Movies / TV / Anime
 * [VaultPlayer](https://vaultplayer.co.uk/) - Movies / TV / Anime
 * [SoapGo](https://soapgo.to/) - Movies / TV / Anime
-* [Boomflix](https://boomflix.qzz.io/) - Movies / TV / Anime / [Discord](https://discord.com/invite/whEBxM3WT2)
 * [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / Requires Sign-Up
 * [arc018](https://arc018.stream/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.is/) - Movies / TV

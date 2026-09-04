@@ -48,7 +48,6 @@
 
 ***
 
-* ⭐ **[Youarefinished Mods](https://t.me/+h95JCUnuf-M1MTE1)** - Modded Apps
 * ⭐ **[Satriyaid](https://t.me/s/satriyaid)** - Modded Editing Apps
 * [ANiK555_Mods](https://t.me/+1gj58uSCVFw1OTJl) - Modded Apps
 * [alexstranniklite](https://t.me/alexstranniklite) - Modded Apps
