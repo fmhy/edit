@@ -3,8 +3,8 @@ import { ref } from 'vue'
 /**
  * When non-null, the router's onAfterRouteChanged hook will attempt to scroll
  * to the first text node matching this query inside the target section.
- * Set by VPLocalSearchBox AFTER calling router.go() (so that onBeforeRouteChange
- * can clear stale values first); consumed (and cleared) by onAfterRouteChanged.
+ * Set by VPLocalSearchBox before calling router.go(); consumed (and cleared)
+ * by the route hooks after verifying the destination path.
  */
 export const pendingScrollQuery = ref<{
   query: string
@@ -20,10 +20,6 @@ export const pendingScrollQuery = ref<{
 // Active scroll operation ID — incremented on every new schedule call
 // so stale attempts from previous navigations abort themselves.
 let activeScrollId = 0
-
-// Active MutationObserver, disconnected when a new scroll is scheduled
-// or when a match is found.
-let activeObserver: MutationObserver | null = null
 
 // Active highlight timeout, cleared when a new highlight is applied
 // or when the scroll operation is cancelled.
@@ -213,49 +209,26 @@ export function scrollToMatchInSection(
 function doScrollAndHighlight(el: Element): void {
   // Remove any existing highlight from a previous scroll
   const prev = document.querySelector('.vp-search-highlight-target')
-  if (prev) prev.classList.remove('vp-search-highlight-target')
+  if (prev) {
+    prev.classList.remove(
+      'vp-search-highlight-target',
+      'vp-search-scroll-target'
+    )
+  }
   if (highlightTimeout) {
     clearTimeout(highlightTimeout)
     highlightTimeout = null
   }
 
-  const navHeight = getNavbarHeight()
+  el.classList.add('vp-search-scroll-target')
+  el.scrollIntoView({ block: 'start' })
 
-  // Place the match at 18% of the remaining viewport height below the navbar
-  const viewportHeight =
-    typeof window !== 'undefined' ? window.innerHeight : 800
-  const remainingHeight = Math.max(200, viewportHeight - navHeight)
-  const desiredOffset = navHeight + Math.floor(remainingHeight * 0.18)
-
-  // Calculate the target scroll position relative to the document
-  const rect = el.getBoundingClientRect()
-  const targetY = Math.max(0, rect.top + window.scrollY - desiredOffset)
-
-  // Force instant scroll by overriding any active smooth scroll behavior in documentElement
-  const docEl = document.documentElement
-  const prevBehavior = docEl.style.scrollBehavior
-  docEl.style.scrollBehavior = 'auto'
-  window.scrollTo({
-    top: targetY,
-    behavior: 'auto'
-  })
-  // Restore original scroll behavior after layout/paint processes the instant scroll
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      docEl.style.scrollBehavior = prevBehavior
-    })
-  })
-
-  // Add a temporary highlight (uses outline, no layout shift)
+  // Add a temporary highlight (uses outline, no layout shift).
   el.classList.add('vp-search-highlight-target')
-  highlightTimeout = setTimeout(
-    () => el.classList.remove('vp-search-highlight-target'),
-    2000
-  )
+  highlightTimeout = setTimeout(() => {
+    el.classList.remove('vp-search-highlight-target', 'vp-search-scroll-target')
+  }, 2000)
 }
-
-// Callback to restore scroll functions, registered by index.ts when hijacking.
-let activeBeforeScroll: (() => void) | null = null
 
 /**
  * Cancel any in-progress scroll-to-match operation. Call this before starting
@@ -263,51 +236,33 @@ let activeBeforeScroll: (() => void) | null = null
  */
 export function cancelPendingScroll(): void {
   activeScrollId++
-  if (activeObserver) {
-    activeObserver.disconnect()
-    activeObserver = null
-  }
   if (highlightTimeout) {
     clearTimeout(highlightTimeout)
     highlightTimeout = null
   }
-  if (activeBeforeScroll) {
-    activeBeforeScroll()
-    activeBeforeScroll = null
-  }
   if (typeof document !== 'undefined') {
     document.documentElement.classList.remove('vp-search-scrolling')
+    document
+      .querySelector('.vp-search-scroll-target')
+      ?.classList.remove('vp-search-scroll-target')
   }
 }
 
 /**
- * Wait for the page DOM to be ready, then attempt to scroll to the match.
- * Uses polling retries AND a MutationObserver fallback for robustness.
+ * Wait for Vue to paint the page, then scroll to the match.
  *
  * @param hash         The URL hash (without #) identifying the section heading
  * @param query        The search query text to find within the section
- * @param initialDelay Extra delay (ms) before the first attempt. Defaults to 150.
+ * @param initialDelay Extra delay (ms) before the first attempt. Defaults to 16.
  * @param matchContext Optional text content identifying the specific match
- * @param onComplete   Optional callback fired when the scroll completes (or
- *                     all attempts are exhausted). Used by the router to
- *                     defer scroll-behavior restoration until the scroll is done.
- * @param onBeforeScroll Optional callback fired right before the first scroll attempt.
- *                       Used to restore hijacked scroll functions.
  */
 export function scheduleScrollToMatch(
   hash: string,
   query: string,
   initialDelay = 16,
-  matchContext: string | null = null,
-  onComplete?: () => void,
-  onBeforeScroll?: () => void
+  matchContext: string | null = null
 ): void {
-  // Cancel any previous scroll operation
   cancelPendingScroll()
-
-  if (onBeforeScroll) {
-    activeBeforeScroll = onBeforeScroll
-  }
 
   // Lock the navbar in place during the scroll operation to prevent layout shifts
   if (typeof document !== 'undefined') {
@@ -315,43 +270,9 @@ export function scheduleScrollToMatch(
   }
 
   const scrollId = activeScrollId
-  let attempts = 0
-  const maxAttempts = 15
-  const intervalMs = 120
 
-  function isStale(): boolean {
-    return scrollId !== activeScrollId
-  }
-
-  let completed = false
-  function complete() {
-    if (!completed) {
-      completed = true
-      if (activeBeforeScroll) {
-        activeBeforeScroll()
-        activeBeforeScroll = null
-      }
-      // Always fire onComplete — even when stale — so deferred restoration
-      // (e.g. scroll-behavior in the router hook) is never skipped.
-      onComplete?.()
-      // Only clear the lock if this op is still the active one; a stale op
-      // must not remove the class belonging to a newer scroll operation.
-      if (!isStale() && typeof document !== 'undefined') {
-        document.documentElement.classList.remove('vp-search-scrolling')
-      }
-    }
-  }
-
-  function tryScroll(): boolean {
-    if (isStale()) {
-      complete() // ensure callback fires even when cancelled
-      return true
-    }
-
-    if (activeBeforeScroll) {
-      activeBeforeScroll()
-      activeBeforeScroll = null
-    }
+  function scrollToMatch() {
+    if (scrollId !== activeScrollId) return
 
     let sectionEl: HTMLElement | null = null
     if (hash) {
@@ -362,137 +283,23 @@ export function scheduleScrollToMatch(
       }
     }
 
-    // If the section heading hasn't rendered yet, we can't match content
-    if (hash && !sectionEl) return false
-
-    // Attempt to find and scroll to the matching element
-    const found = scrollToMatchInSection(sectionEl, query, matchContext)
-    if (found) {
-      // Success — clean up observer and notify caller
-      if (activeObserver && !isStale()) {
-        activeObserver.disconnect()
-        activeObserver = null
-      }
-      // Defer completion to let the browser process the scroll event before unlocking the navbar
-      setTimeout(complete, 100)
-    }
-    return found
-  }
-
-  function poll() {
-    if (isStale()) {
-      complete()
-      return
+    if (!hash || sectionEl) {
+      scrollToMatchInSection(sectionEl, query, matchContext)
     }
 
-    attempts++
-    const found = tryScroll()
-    if (found) return
-
-    if (attempts < maxAttempts) {
-      setTimeout(poll, intervalMs)
-    } else {
-      // All polling attempts exhausted — fall back to MutationObserver.
-      startObserver()
-    }
-  }
-
-  function startObserver() {
-    if (isStale()) {
-      complete()
-      return
-    }
-
-    const contentRoot = document.querySelector('.vp-doc')
-    if (!contentRoot) {
-      complete()
-      return
-    }
-
-    let debounceTimer: ReturnType<typeof setTimeout> | null = null
-
-    activeObserver = new MutationObserver(() => {
-      if (isStale()) {
-        activeObserver?.disconnect()
-        activeObserver = null
-        complete()
-        return
-      }
-      // Debounce: batch rapid mutations into a single tryScroll call
-      if (debounceTimer) clearTimeout(debounceTimer)
-      debounceTimer = setTimeout(() => {
-        debounceTimer = null
-        const found = tryScroll()
-        if (found) {
-          activeObserver?.disconnect()
-          activeObserver = null
-        }
-      }, 50)
-    })
-
-    activeObserver.observe(contentRoot, {
-      childList: true,
-      subtree: true
-    })
-
-    // Safety: disconnect observer after 5 seconds to prevent leaks
-    const observerScrollId = scrollId
     setTimeout(() => {
-      if (activeObserver && observerScrollId === activeScrollId) {
-        activeObserver.disconnect()
-        activeObserver = null
+      if (scrollId === activeScrollId) {
+        document.documentElement.classList.remove('vp-search-scrolling')
       }
-      if (debounceTimer) {
-        clearTimeout(debounceTimer)
-        debounceTimer = null
-      }
-      complete()
-    }, 5000)
+    }, 100)
   }
 
-  // First attempt after a frame + initial delay
   requestAnimationFrame(() => {
-    if (isStale()) {
-      complete()
-      return
-    }
-    setTimeout(poll, initialDelay)
+    if (scrollId === activeScrollId) setTimeout(scrollToMatch, initialDelay)
   })
 }
 
 function getHeadingLevel(el: Element): number {
   const match = /^h(\d)$/i.exec(el.tagName)
   return match ? parseInt(match[1], 10) : 0
-}
-
-function getNavbarHeight(): number {
-  if (typeof window === 'undefined') return 64
-  let navHeight = 64
-  const navHeightVar = getComputedStyle(document.documentElement)
-    .getPropertyValue('--vp-nav-height')
-    .trim()
-  if (navHeightVar) {
-    const parsed = parseInt(navHeightVar, 10)
-    if (!isNaN(parsed) && parsed > 0) {
-      navHeight = parsed
-    }
-  } else {
-    const navEl = document.querySelector('.VPNavBar')
-    if (navEl && navEl.clientHeight > 0) {
-      navHeight = navEl.clientHeight
-    }
-  }
-
-  // Account for mobile sub-navigation bar (.VPLocalNav) if visible and stacked below main navbar
-  if (window.innerWidth < 960) {
-    const localNavEl = document.querySelector('.VPLocalNav')
-    if (localNavEl) {
-      const rect = localNavEl.getBoundingClientRect()
-      if (rect.height > 0) {
-        navHeight += rect.height
-      }
-    }
-  }
-
-  return navHeight
 }

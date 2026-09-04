@@ -15,7 +15,6 @@
  */
 
 import type { ContentData, SiteConfig } from 'vitepress'
-import type { SatoriOptions } from 'x-satori/vue'
 import { createHash } from 'node:crypto'
 import {
   copyFile,
@@ -28,11 +27,9 @@ import {
 import { cpus } from 'node:os'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { renderAsync } from '@resvg/resvg-js'
 import consola from 'consola'
 import sharp from 'sharp'
 import { createContentLoader } from 'vitepress'
-import { satoriVue } from 'x-satori/vue'
 import { headers } from '../transformer/constants'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -40,45 +37,66 @@ const __fonts = resolve(__dirname, '../fonts')
 const __ogBase = resolve(__dirname, '../og-base.jpg')
 const CACHE_DIR = resolve(__dirname, '../cache/og')
 
-const OG_WIDTH = 1200
-const OG_HEIGHT = 630
+const layout = {
+  width: 1200,
+  height: 630,
+  contentWidth: 936,
+  bottom: 40,
+  gap: 8,
+  brand: { left: 48, top: 40, font: 'Inter 48', color: '#f3f4f6' },
+  title: { left: 40, font: 'Inter Bold 60', color: '#f3f4f6' },
+  description: { left: 40, font: 'Inter 36', color: '#c0caf5' }
+} as const
+
+interface Assets {
+  background: Buffer
+  brand: Buffer
+  fonts: {
+    regular: string
+    bold: string
+  }
+}
+
+interface TextLayer {
+  data: Buffer
+  height: number
+}
 
 const sha = (input: string | Buffer) =>
   createHash('sha256').update(input).digest('hex')
 
 export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader('**/*.md', { excerpt: true }).load()
-  const template = await readFile(resolve(__dirname, './Template.vue'), 'utf-8')
-
-  const fontFiles = [
-    { name: 'Inter', file: 'Inter-Regular.otf', weight: 400 as const },
-    { name: 'Inter', file: 'Inter-Medium.otf', weight: 500 as const },
-    { name: 'Inter', file: 'Inter-SemiBold.otf', weight: 600 as const },
-    { name: 'Inter', file: 'Inter-Bold.otf', weight: 700 as const }
-  ]
-  const fontBuffers = await Promise.all(
-    fontFiles.map((f) => readFile(resolve(__fonts, f.file)))
-  )
-  const fonts: SatoriOptions['fonts'] = fontFiles.map((f, i) => ({
-    name: f.name,
-    data: fontBuffers[i],
-    weight: f.weight,
-    style: 'normal'
-  }))
-
-  // Background image is read once and embedded as a data URL, so satori
-  // doesn't fetch (or re-decode) it per page.
-  const ogBaseBuffer = await readFile(__ogBase)
-  const ogBaseDataUrl = `data:image/jpeg;base64,${ogBaseBuffer.toString('base64')}`
-
-  // Invalidate the entire cache when anything that affects every page
-  // changes: the template, the fonts, the background image, or render dims.
+  const fontPaths = {
+    regular: resolve(__fonts, 'Inter-Regular.otf'),
+    semibold: resolve(__fonts, 'Inter-SemiBold.otf'),
+    bold: resolve(__fonts, 'Inter-Bold.otf')
+  }
+  const [background, regularFont, semiboldFont, boldFont] = await Promise.all([
+    readFile(__ogBase),
+    readFile(fontPaths.regular),
+    readFile(fontPaths.semibold),
+    readFile(fontPaths.bold)
+  ])
+  const brand = await renderText({
+    text: 'freemediaheckyeah',
+    fontfile: fontPaths.semibold,
+    font: layout.brand.font,
+    width: 700,
+    color: layout.brand.color
+  })
+  const assets: Assets = {
+    background,
+    brand: brand.data,
+    fonts: { regular: fontPaths.regular, bold: fontPaths.bold }
+  }
   const globalHash = sha(
     [
-      template,
-      ...fontBuffers.map((b) => sha(b)),
-      sha(ogBaseBuffer),
-      `${OG_WIDTH}x${OG_HEIGHT}`
+      JSON.stringify(layout),
+      sha(background),
+      sha(regularFont),
+      sha(semiboldFont),
+      sha(boldFont)
     ].join('\0')
   )
 
@@ -87,10 +105,6 @@ export async function generateImages(config: SiteConfig) {
   let hits = 0
   let misses = 0
   const usedHashes = new Set<string>()
-
-  // sharp + resvg-js are native and release the event loop, so running
-  // several in flight at once keeps the thread pools busy. Size to CPU
-  // count (min 2) — going much higher just adds memory pressure.
   const concurrency = Math.max(2, cpus().length)
   let cursor = 0
   await Promise.all(
@@ -100,12 +114,10 @@ export async function generateImages(config: SiteConfig) {
         if (index >= pages.length) return
         const result = await generateImage({
           page: pages[index],
-          template,
           outDir: config.outDir,
-          fonts,
           globalHash,
           usedHashes,
-          ogBaseDataUrl
+          assets
         })
         if (result === 'hit') hits++
         else misses++
@@ -129,48 +141,37 @@ async function pruneCache(usedHashes: Set<string>): Promise<number> {
   return stale.length
 }
 
-interface GenerateImagesOptions {
+interface GenerateImageOptions {
   page: ContentData
-  template: string
   outDir: string
-  fonts: SatoriOptions['fonts']
   globalHash: string
   usedHashes: Set<string>
-  ogBaseDataUrl: string
+  assets: Assets
 }
 
 async function generateImage({
   page,
-  template,
   outDir,
-  fonts,
   globalHash,
   usedHashes,
-  ogBaseDataUrl
-}: GenerateImagesOptions): Promise<'hit' | 'miss'> {
+  assets
+}: GenerateImageOptions): Promise<'hit' | 'miss'> {
   const { frontmatter, url } = page
-
-  const _page = getPage(url)
+  const fallback = getPage(url)
   const title =
     frontmatter.layout === 'home'
       ? (frontmatter.hero?.name ?? frontmatter.title)
-      : frontmatter.title
-        ? frontmatter.title
-        : _page?.title
-
+      : (frontmatter.title ?? fallback?.title)
   const description =
     frontmatter.layout === 'home'
       ? (frontmatter.hero?.tagline ?? frontmatter.description)
-      : frontmatter.description
-        ? frontmatter.description
-        : _page?.description
+      : (frontmatter.description ?? fallback?.description)
 
   const pageHash = sha(
     `${globalHash}\0${title ?? ''}\0${description ?? ''}`
   ).slice(0, 32)
   usedHashes.add(pageHash)
   const cacheFile = resolve(CACHE_DIR, `${pageHash}.webp`)
-
   const outputFolder = resolve(outDir, url.slice(1), '__og_image__')
   const outputFile = resolve(outputFolder, 'og.webp')
   await mkdir(outputFolder, { recursive: true })
@@ -179,42 +180,111 @@ async function generateImage({
     await copyFile(cacheFile, outputFile)
     return 'hit'
   } catch {
-    // miss — fall through to render
+    // Render cache miss.
   }
 
-  const options: SatoriOptions = {
-    width: OG_WIDTH,
-    height: OG_HEIGHT,
-    fonts,
-    props: { title, description, image: ogBaseDataUrl }
-  }
-
-  const svg = await satoriVue(options, template)
-  const render = await renderAsync(svg)
-  const compressed = await sharp(render.asPng())
-    .webp({ quality: 75 })
-    .toBuffer()
-
-  await Promise.all([
-    writeFile(outputFile, compressed),
-    writeFile(cacheFile, compressed)
-  ])
+  const image = await renderImage(
+    String(title ?? ''),
+    String(description ?? ''),
+    assets
+  )
+  await Promise.all([writeFile(outputFile, image), writeFile(cacheFile, image)])
   return 'miss'
 }
 
-function getPage(page: string) {
-  // Get the page name
-  const pageName = `${page}.md`.slice(1).split('/').at(-1)
+interface RenderTextOptions {
+  text: string
+  font: string
+  fontfile: string
+  width: number
+  color: string
+}
 
-  // Find the header
-  // TODO: This is a hacky way to find the header
+async function renderText({
+  text,
+  font,
+  fontfile,
+  width,
+  color
+}: RenderTextOptions): Promise<TextLayer> {
+  const input = text
+    ? {
+        text: {
+          text: `<span foreground="${color}">${escapePango(text)}</span>`,
+          font,
+          fontfile,
+          width,
+          align: 'left' as const,
+          rgba: true,
+          wrap: 'word-char' as const
+        }
+      }
+    : {
+        create: {
+          width: 1,
+          height: 1,
+          channels: 4 as const,
+          background: { r: 0, g: 0, b: 0, alpha: 0 }
+        }
+      }
+  const { data, info } = await sharp(input).png().toBuffer({
+    resolveWithObject: true
+  })
+  return { data, height: info.height }
+}
+
+async function renderImage(
+  title: string,
+  description: string,
+  assets: Assets
+): Promise<Buffer> {
+  const [titleLayer, descriptionLayer] = await Promise.all([
+    renderText({
+      text: title,
+      font: layout.title.font,
+      fontfile: assets.fonts.bold,
+      width: layout.contentWidth,
+      color: layout.title.color
+    }),
+    renderText({
+      text: description,
+      font: layout.description.font,
+      fontfile: assets.fonts.regular,
+      width: layout.contentWidth,
+      color: layout.description.color
+    })
+  ])
+  const descriptionTop = layout.height - layout.bottom - descriptionLayer.height
+  const titleTop = descriptionTop - layout.gap - titleLayer.height
+
+  return sharp(assets.background)
+    .composite([
+      { input: assets.brand, left: layout.brand.left, top: layout.brand.top },
+      { input: titleLayer.data, left: layout.title.left, top: titleTop },
+      {
+        input: descriptionLayer.data,
+        left: layout.description.left,
+        top: descriptionTop
+      }
+    ])
+    .webp({ quality: 75 })
+    .toBuffer()
+}
+
+function escapePango(text: string): string {
+  return text
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&apos;')
+}
+
+function getPage(page: string) {
+  const pageName = `${page}.md`.slice(1).split('/').at(-1)
   const header = Object.entries(headers).find(([key]) => key === pageName)
   if (!header) return
 
   const { title, description } = header[1]
-
-  return {
-    title,
-    description
-  }
+  return { title, description }
 }

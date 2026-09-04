@@ -26,67 +26,71 @@ const { y } = useWindowScroll()
 const { width } = useWindowSize()
 const isHidden = ref(false)
 
-const updateMobileNavClass = (hidden: boolean) => {
+const setMobileNavHidden = (hidden: boolean) => {
   if (!inBrowser) return
-  if (hidden) {
-    document.documentElement.classList.remove('vp-nav-shown-mobile')
-  } else {
-    document.documentElement.classList.add('vp-nav-shown-mobile')
-  }
+  isHidden.value = hidden
+  document.documentElement.classList.toggle('vp-nav-shown-mobile', !hidden)
 }
 
 const SCROLL_THRESHOLD = 12
+let lastNavScrollY = 0
 
-watch(y, (newY, oldY) => {
+watch(y, (newY) => {
   if (!inBrowser) return
+
+  if (document.documentElement.classList.contains('vp-resizing')) {
+    lastNavScrollY = newY
+    return
+  }
 
   // If a search scroll-to-match operation is active, lock the navbar state
   if (document.documentElement.classList.contains('vp-search-scrolling')) {
+    lastNavScrollY = newY
+    return
+  }
+
+  if (isScreenOpen.value) {
+    setMobileNavHidden(false)
+    lastNavScrollY = newY
     return
   }
 
   // If mobile Table of Contents dropdown is open, do not hide the nav bar.
   // NOTE: This selector depends on VitePress internal DOM structure; update if VitePress changes class names.
   if (document.querySelector('.VPLocalNavOutlineDropdown .items')) {
+    lastNavScrollY = newY
     return
   }
 
   // If at top, show
   if (newY <= 0) {
-    isHidden.value = false
-    updateMobileNavClass(false)
+    setMobileNavHidden(false)
+    lastNavScrollY = 0
     return
   }
 
   // Only apply on mobile (< 960px usually)
   if (width.value < 960) {
-    const diff = newY - oldY
+    const diff = newY - lastNavScrollY
     if (Math.abs(diff) > SCROLL_THRESHOLD) {
-      if (diff > 0) {
-        // Scrolling down -> hide
-        isHidden.value = true
-        updateMobileNavClass(true)
-      } else {
-        // Scrolling up -> show
-        isHidden.value = false
-        updateMobileNavClass(false)
-      }
+      setMobileNavHidden(diff > 0)
+      lastNavScrollY = newY
     }
   } else {
-    isHidden.value = false
-    updateMobileNavClass(false)
+    setMobileNavHidden(false)
   }
 })
 
 onMounted(() => {
-  updateMobileNavClass(isHidden.value)
+  setMobileNavHidden(isHidden.value)
+  lastNavScrollY = y.value
 })
 
 // Watch width to reset if resizing to desktop
 watch(width, (newWidth) => {
   if (newWidth >= 960) {
-    isHidden.value = false
-    updateMobileNavClass(false)
+    setMobileNavHidden(false)
+    lastNavScrollY = y.value
   }
 })
 </script>
@@ -160,15 +164,6 @@ watch(width, (newWidth) => {
   .vp-nav-spacer {
     display: none;
   }
-}
-
-/* Ensure Nav Screen is visible above everything else when open */
-:deep(.VPNav.screen-open) {
-  z-index: var(--vp-z-index-nav) !important;
-}
-/* When screen is open, disable the hide transform so it doesn't fly away if they scroll */
-:global(.VPNav:has(.VPNavScreen[style*='display: block'])) {
-  transform: none !important;
 }
 </style>
 

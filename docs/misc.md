@@ -202,6 +202,7 @@
 * [PublicDomainRecipes](https://publicdomainrecipes.com/) - Recipe Search / [GitHub](https://github.com/ronaldl29/public-domain-recipes) 
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
+* [⁠Delicious Recipes](https://www.gzrecipes.com/en/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
 * [⁠Budget Bytes](https://www.budgetbytes.com/) - Budget Recipes
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
@@ -1655,7 +1656,7 @@
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
 * [Super Snowflake Maker](https://supersnowflakemaker.com/) or [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
-* [Pointer Pointer](https://pointerpointer.com/) - Have Your Pointer Pointed At
+* [Pointer Pointer](https://pointerpointer.com/) or [PointerPointerClone](https://pointerpointerclone.shiprzq.workers.dev/) - Have Your Pointer Pointed At
 * [BubblesPop](https://bubblespop.netlify.app/), [2](https://brainteaser.top/bubblespop.html) - Pop Bubble Wrap
 * [Checkbox Life](https://huth.me/checkbox-life/) or [Checkbox Olympics](https://checkbox.toys/) - Checkbox Games
 * [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner
@@ -1849,6 +1850,7 @@
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
+* [⁠Jerma Sites](https://jerma.io/) or [Jerma](https://www.jerma.org/) - Jerma Resources / Content Sites
 * [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting

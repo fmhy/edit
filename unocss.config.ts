@@ -25,12 +25,42 @@ import {
 export default defineConfig({
   blocklist: ['container'],
   content: {
+    pipeline: {
+      exclude: [/\.md($|\?)/]
+    },
     filesystem: [
       '.vitepress/config.mts',
       '.vitepress/constants.ts',
       '.vitepress/shared.ts'
     ]
   },
+  // Markdown is excluded from extraction, so keep classes authored or generated there explicit.
+  safelist: [
+    'i-carbon:logo-bluesky',
+    'i-carbon:logo-discord',
+    'i-carbon:logo-github',
+    'i-carbon:logo-gitlab',
+    'i-carbon:logo-x',
+    'i-fluent-mdl2:linux-logo-32',
+    'i-fluent:globe-32-filled',
+    'i-gravity-ui:code',
+    'i-material-symbols:android',
+    'i-mdi:mastodon',
+    'i-mdi:reddit',
+    'i-mdi:telegram',
+    'i-qlementine-icons:mac-fill-16',
+    'i-qlementine-icons:windows-24',
+    'i-simple-icons:ios',
+    'i-simple-icons:torbrowser',
+    'h-1em',
+    'w-1em',
+    'text-4xl',
+    'dark:text-text-2',
+    'text-black',
+    'font-extrabold',
+    'lg:text-5xl',
+    'lg:leading-[3.5rem]'
+  ],
   theme: {
     colors: {
       ...colors,

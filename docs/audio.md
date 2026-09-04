@@ -385,6 +385,7 @@
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
 * [EzConv](https://ezconv.cc/) - YouTube / 320kb MP3
+* [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3
 * [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -486,17 +487,15 @@
 
 ## ▷ Genre Specific Ripping
 
-* [Take Metal](https://takemetal.org/) - Metal / MP3
-* [Metalminos](https://metalminos.net/) - Metal / MP3
-* [In The Fog](https://in-the-fog.ru/) - Metal / MP3
-* [TechnicalDeathMetal](https://technicaldeathmetal.org/) - Metal / MP3
-* [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
-* [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
-* [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
-* [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
-* [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
-* [Lost Songs](https://lostsongshc.blogspot.com/) - Hardcore / MP3
+* [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
+* [Rapload](https://rapload.org/) or [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
+* [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
+* [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
+* [⁠Certified Mixtapez](https://www.certifiedmixtapez.com/) - Mixtapes / MP3
+* [Mixtape Collections](https://rentry.co/FMHYB64#mixtape-collections) - Mixtape Collections
+* [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
+* [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
+* [KTI Music](https://ktimusic.blogspot.com/) - Electronic / MP3 / FLAC
 * [1Gabba](https://1gabba.pw/) - Electronic / MP3
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
 * [⁠ELEKTROBEATS](https://elektrobeats.org/) - Electronic / MP3
@@ -505,42 +504,44 @@
 * [DMO](https://dance-music.org/) - Electronic / MP3
 * [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
 * [ElectronicFresh](https://electronicfresh.com/) - Electronic / MP3
-* [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
-* [KTI Music](https://ktimusic.blogspot.com/) - Electronic / MP3 / FLAC
 * [r/xTrill](https://reddit.com/r/xTrill) - Electronic / [Backup](https://reddit.com/r/xTrillBackup)
+* [EssentialHouse](https://essentialhouse.club/) - House / MP3
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
 * [oVPN DJ Mixes](https://rentry.co/FMHYB64#ovpn-dj-mixes) - DJ Mixes
 * [⁠Grime Archive](https://www.grimearchive.org/) - Grime Livesets
 * [LOA2K](https://loa2k.neocities.org/) or [Nu Guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
-* [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
-* [EssentialHouse](https://essentialhouse.club/) - House / MP3
-* [Bluegrass Archive](https://rentry.co/FMHYB64#bluegrass-archive) - Bluegrass / FLAC
-* [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
-* [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
+* [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
+* [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
+* [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
+* [Take Metal](https://takemetal.org/) - Metal / MP3
+* [Metalminos](https://metalminos.net/) - Metal / MP3
+* [In The Fog](https://in-the-fog.ru/) - Metal / MP3
+* [TechnicalDeathMetal](https://technicaldeathmetal.org/) - Metal / MP3
+* [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
 * [ProgRockVintage](https://www.progrockvintage.com/) - Classic Rock / MP3
-* [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
-* [FoggyNotion](https://foggynotion-flac.blogspot.com/) - Classic Music / MP3 / FLAC
-* [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
-* [FlatblackAndClassical](https://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
-* [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
-* [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
-* [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
-* [Rapload](https://rapload.org/) or [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
-* [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3
-* [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
-* [⁠Certified Mixtapez](https://www.certifiedmixtapez.com/) - Mixtapes / MP3
-* [Mixtape Collections](https://rentry.co/FMHYB64#mixtape-collections) - Mixtape Collections
-* [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
-* [Bootleg Radioclash](https://rentry.co/FMHYB64#bootleg-radioclash) - Mashups / MP3
-* [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
-* [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
+* [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [Sophie's Floorboard](https://sophiesfloorboard.blogspot.com/) - Hardcore / MP3
+* [Lost Songs](https://lostsongshc.blogspot.com/) - Hardcore / MP3
+* [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
 * [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
+* [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
+* [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
+* [FlatblackAndClassical](https://www.flatblackandclassical.com/) - Classic Indian Music / FLAC
+* [FoggyNotion](https://foggynotion-flac.blogspot.com/) - Classic Music / MP3 / FLAC
+* [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) or [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
 * [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) - Japanese / International Jazz Fusion / City Pop / FLAC
+* [inconstant sol](https://inconstantsol.blogspot.com/), [David W. Niven Collection](https://archive.org/details/davidwnivenjazz) or [JazznBlues](https://jazznblues.club/) - Jazz / MP3
+* [Bluegrass Archive](https://rentry.co/FMHYB64#bluegrass-archive) - Bluegrass / FLAC
+* [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
+* [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
-* [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
+* [Bootleg Radioclash](https://rentry.co/FMHYB64#bootleg-radioclash) - Mashups / MP3
+* [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
+* [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
+* [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 
 ***
 
@@ -922,7 +923,9 @@
 * ⭐ **[Sonic Visualizer](https://www.sonicvisualiser.org/)**
 * ⭐ **[Spek](https://www.spek.cc/)**
 * [⁠AudioAuditor](https://audioauditor.org/) / [GitHub](https://github.com/Angel2mp3/AudioAuditor)
-* [⁠Acoustic Spectrum Analyzer](https://spec.squid.wtf/) or [⁠WhatsMyBitrate](https://whatsmybitrate.com/) - Web-Based
+* [⁠Musigram](https://musitools.xyz/musigram/) / Web
+* [⁠Acoustic Spectrum Analyzer](https://spec.squid.wtf/) / Web
+* [⁠WhatsMyBitrate](https://whatsmybitrate.com/) / Web
 * [Visual Analyser](https://www.sillanumsoft.org/)
 * [Friture](https://friture.org/) / [GitHub](https://github.com/tlecomte/friture)
 * [Spectro](http://spectro.enpts.com/)
