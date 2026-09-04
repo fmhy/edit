@@ -986,6 +986,8 @@
 ***
 
 # ► Android Streaming
+Netflix clone NH Series (4.2 MB)
+https://appteka.store/app/4bcr314494
 
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
