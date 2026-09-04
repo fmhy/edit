@@ -3,7 +3,7 @@ html {
 }
 
 :root {
-  scroll-behavior: smooth;
+  --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
@@ -529,6 +529,25 @@ html.june {
   transform: translateY(0) !important;
 }
 
+.fmhy-scroll-inset {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: var(--fmhy-scroll-inset);
+  pointer-events: none;
+}
+
+.vp-doc [id],
+.vp-search-scroll-target {
+  scroll-margin-top: var(--fmhy-scroll-inset);
+}
+
+/* VitePress 1 includes h2's padding in its anchor calculation. */
+.vp-doc h2[id] {
+  scroll-margin-top: calc(var(--fmhy-scroll-inset) - 24px);
+}
+
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */
 @media (max-width: 1279px) {
   .VPLocalNavOutlineDropdown .outline-link.active {
@@ -538,9 +557,27 @@ html.june {
   }
 
   .VPLocalNavOutlineDropdown .items {
-    max-height: 50vh !important;
-    max-height: 50dvh !important;
+    max-height: calc(100vh - 64px) !important;
+    max-height: calc(100dvh - 64px) !important;
     overscroll-behavior: contain !important;
+  }
+
+  :root.vp-nav-shown-mobile .VPLocalNavOutlineDropdown .items {
+    max-height: calc(100vh - var(--vp-nav-height) - 64px) !important;
+    max-height: calc(100dvh - var(--vp-nav-height) - 64px) !important;
+  }
+}
+
+@media (max-width: 959px) {
+  .VPSidebar {
+    bottom: auto !important;
+    height: 100vh;
+    height: 100dvh;
+    padding-top: 32px !important;
+    padding-bottom: max(96px, calc(32px + env(safe-area-inset-bottom)));
+    touch-action: pan-y;
+    scrollbar-width: thin;
+    -webkit-overflow-scrolling: touch;
   }
 }
 

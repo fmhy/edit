@@ -34,6 +34,7 @@ export default defineConfig({
   cleanUrls: true,
   appearance: true,
   base: baseUrl,
+  scrollOffset: { selector: '.fmhy-scroll-inset', padding: 0 },
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
