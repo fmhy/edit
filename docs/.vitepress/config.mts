@@ -307,12 +307,6 @@ export default defineConfig({
         configResolved(c) {
           movePlugin(
             c.plugins as any,
-            'vitepress',
-            'before',
-            'unocss:transformers:pre'
-          )
-          movePlugin(
-            c.plugins as any,
             'custom:transform-content',
             'before',
             'vitepress'
@@ -321,6 +315,7 @@ export default defineConfig({
       }
     ],
     build: {
+      reportCompressedSize: false,
       // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }

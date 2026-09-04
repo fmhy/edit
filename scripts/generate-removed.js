@@ -61,14 +61,19 @@ function generateRemovedSites() {
       'Shallow clone detected. Fetching history for the last 30 days...'
     )
     try {
+      const head = execFileSync('git', ['rev-parse', 'HEAD'], {
+        encoding: 'utf8'
+      }).trim()
       execFileSync('git', [
         'fetch',
         `--shallow-since=${DAYS + 1} days ago`,
-        '--tags'
+        '--no-tags',
+        'origin',
+        head
       ])
     } catch (e) {
       console.warn(
-        'Warning: Failed to unshallow repository. Results may be incomplete.'
+        'Warning: Failed to fetch required history. Results may be incomplete.'
       )
     }
   }

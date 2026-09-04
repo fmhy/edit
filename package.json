@@ -21,7 +21,6 @@
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
     "lint": "eslint --cache .",
     "lint:md": "node scripts/lint-markdown.js || true",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
     "prepare": "simple-git-hooks"
   },
   "simple-git-hooks": {
@@ -38,7 +37,6 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.23",
-    "@resvg/resvg-js": "^2.6.2",
     "@vueuse/core": "^14.4.0",
     "@vueuse/integrations": "^14.4.0",
     "consola": "^3.4.2",
@@ -56,7 +54,6 @@
     "unocss": "66.7.5",
     "vitepress": "^1.6.4",
     "vue": "^3.5.41",
-    "x-satori": "^0.5.1",
     "zod": "^4.4.3"
   },
   "devDependencies": {
