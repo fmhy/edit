@@ -30,15 +30,11 @@ const formattedText = computed(() => {
   return tag[0].toUpperCase() + tag.slice(1)
 })
 
-const colors = computed(() => {
-  return [
-    getHashColorFromString(props.text),
-    getHashColorFromString(props.text, 0.7),
-    getHashColorFromString(props.text, 0.5),
-    getHashColorFromString(props.text, 0.2),
-    getHashColorFromString(props.text, 0.1)
-  ]
-})
+const colors = computed(() => ({
+  text: getHashColorFromString(props.text),
+  border: getHashColorFromString(props.text, 0.2),
+  bg: getHashColorFromString(props.text, 0.1)
+}))
 </script>
 
 <template>
@@ -58,12 +54,12 @@ const colors = computed(() => {
 <style scoped>
 .feature-tag {
   --uno: 'text-sm px-2 py-.5 rounded-md select-none !decoration-none border border-solid h-max';
-  background-color: v-bind('colors[4]');
-  color: v-bind('colors[0]') !important;
-  border-color: v-bind('colors[3]');
+  background-color: v-bind('colors.bg');
+  color: v-bind('colors.text') !important;
+  border-color: v-bind('colors.border');
 }
 
 .feature-tag:hover {
-  background-color: v-bind('colors[3]');
+  background-color: v-bind('colors.border');
 }
 </style>

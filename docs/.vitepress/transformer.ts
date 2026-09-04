@@ -15,7 +15,7 @@
  */
 
 import type { Plugin } from 'vitepress'
-import { basename } from 'pathe'
+import { basename } from 'node:path'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 

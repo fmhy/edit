@@ -16,13 +16,15 @@
 
 import type { ThemeRegistry } from '../types'
 import { catppuccinTheme } from './catppuccin'
+import { colorThemes } from './colors'
 import { monochromeTheme } from './monochrome'
 import { monolithTheme } from './monolith'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
   monochrome: monochromeTheme,
-  monolith: monolithTheme
+  monolith: monolithTheme,
+  ...colorThemes
 }
 
-export { catppuccinTheme, monochromeTheme, monolithTheme }
+export { catppuccinTheme, monochromeTheme, monolithTheme, colorThemes }

@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from 'node:fs'
-import { join, resolve } from 'pathe'
+import { join, resolve } from 'node:path'
 
 export interface TooltipData {
   id: string

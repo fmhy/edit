@@ -14,50 +14,16 @@
  *  limitations under the License.
  */
 
-import type { Rule } from 'unocss'
 import { colors } from './docs/.vitepress/theme/utils/colors'
 import {
   defineConfig,
-  presetAttributify,
   presetIcons,
   presetUno,
-  presetWebFonts,
   transformerDirectives
 } from 'unocss'
 
-const colorScales = [
-  '50',
-  '100',
-  '200',
-  '300',
-  '400',
-  '500',
-  '600',
-  '700',
-  '800',
-  '900',
-  '950'
-] as const
-
-const colorPattern = Object.keys(colors).join('|')
-const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
-  const property =
-    type === 'text'
-      ? 'color'
-      : type === 'bg'
-        ? 'background-color'
-        : 'border-color'
-
-  return colorScales.map(
-    (scale) =>
-      [
-        new RegExp(`^${type}-(${colorPattern})-${scale}$`),
-        ([, color]) => ({ [property]: colors[color][scale] })
-      ] as const
-  )
-}
-
 export default defineConfig({
+  blocklist: ['container'],
   content: {
     pipeline: {
       exclude: [/\.md($|\?)/]
@@ -108,29 +74,6 @@ export default defineConfig({
     }
   },
   rules: [
-    // Brand color utilities
-    [
-      /^brand-(\d+)$/,
-      ([, d]) => ({ color: `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^bg-brand-(\d+)$/,
-      ([, d]) => ({ 'background-color': `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^border-brand-(\d+)$/,
-      ([, d]) => ({ 'border-color': `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^text-brand-(\d+)$/,
-      ([, d]) => ({ color: `var(--vp-c-brand-${d})` })
-    ] as const,
-
-    // Color scale utilities
-    ...createColorRules('text'),
-    ...createColorRules('bg'),
-    ...createColorRules('border'),
-
     [
       'kbd',
       {
@@ -148,7 +91,6 @@ export default defineConfig({
   ],
   presets: [
     presetUno(),
-    presetAttributify(),
     presetIcons({
       autoInstall: true,
       scale: 1.2,
@@ -163,11 +105,6 @@ export default defineConfig({
               r.text()
             )
         }
-      }
-    }),
-    presetWebFonts({
-      fonts: {
-        mono: 'Geist Mono'
       }
     })
   ],

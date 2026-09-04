@@ -41,6 +41,17 @@ import Tag from './components/Tag.vue'
 import Tooltip from './components/Tooltip.vue'
 import VideoFrame from './components/VideoFrame.vue'
 
+const applySeasonalBranding = () => {
+  const isJune = new Date().getMonth() === 5
+  document.documentElement.classList.toggle('june', isJune)
+
+  const favicon = document.querySelector<HTMLLinkElement>("link[rel='icon']")
+  if (favicon) {
+    favicon.href = isJune ? '/june_icon.webp' : '/fmhy.ico'
+    favicon.type = isJune ? 'image/webp' : 'image/x-icon'
+  }
+}
+
 export default {
   extends: DefaultTheme,
   Layout,
@@ -57,6 +68,8 @@ export default {
     loadProgress(router)
 
     if (typeof window !== 'undefined') {
+      applySeasonalBranding()
+
       const originalBefore = router.onBeforeRouteChange
       const originalAfter = router.onAfterRouteChanged
 
@@ -99,11 +112,6 @@ export default {
 
       router.onAfterRouteChanged = (to) => {
         const hasPendingSearch = !!pendingScrollQuery.value
-
-        // Re-apply the June nav logo swap after navigation (see config.mts).
-        ;(
-          window as unknown as { __fmhyApplyJuneLogo?: () => void }
-        ).__fmhyApplyJuneLogo?.()
 
         originalAfter?.(to)
 

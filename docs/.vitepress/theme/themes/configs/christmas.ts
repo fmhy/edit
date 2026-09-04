@@ -17,7 +17,6 @@
 import type { Theme } from '../types'
 
 export const christmasTheme: Theme = {
-  name: 'Christmas',
   displayName: 'Christmas',
   preview:
     'https://raw.githubusercontent.com/fmhy/edit/refs/heads/main/docs/.vitepress/theme/themes/configs/christmas_tree.png',
@@ -32,7 +31,6 @@ export const christmasTheme: Theme = {
       bg: '#f8fafc',
       bgAlt: '#eef2f5',
       bgElv: '#eef2f5',
-      bgMark: 'rgb(232, 232, 232)',
       text: {
         1: '#353638ff',
         2: '#334155',

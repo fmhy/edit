@@ -1,14 +1,11 @@
 import type { Theme } from '../types'
 
 export const monolithTheme: Theme = {
-  name: 'monolith',
   displayName: 'Monolith',
   preview: '',
   fonts: {
-    body: "'JetBrains Mono', monospace",
-    heading: "'JetBrains Mono', monospace"
+    body: "'JetBrains Mono', monospace"
   },
-  borderRadius: '0px',
   modes: {
     light: {
       brand: {
@@ -20,7 +17,6 @@ export const monolithTheme: Theme = {
       bg: '#F5FBFF',
       bgAlt: '#E8F4FD',
       bgElv: '#E8F4FD',
-      bgMark: '#D0E8F5',
       text: {
         1: '#0A0E1A',
         2: '#3A4560',
@@ -93,7 +89,6 @@ export const monolithTheme: Theme = {
       bg: '#06070B',
       bgAlt: '#0A0B12',
       bgElv: 'rgba(6, 7, 11, 0.95)',
-      bgMark: '#0D0F18',
       text: {
         1: '#D2F4FF',
         2: '#A8C5D6',

@@ -268,12 +268,6 @@ const handleDeleteBookmark = () => {
   deletingBookmark.value = null
 }
 
-// Handle SVG input
-const handleSvgInput = (event: Event) => {
-  const target = event.target as HTMLTextAreaElement
-  formData.value.customSvg = target.value
-}
-
 const handleKeyDown = (e: KeyboardEvent) => {
   if (
     props.isInputGloballyFocused ||

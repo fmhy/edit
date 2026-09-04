@@ -17,19 +17,18 @@
 export type DisplayMode = 'light' | 'dark'
 
 export interface ModeColors {
-  // Brand colors (optional - if not specified, ColorPicker values are used)
-  brand?: {
-    1?: string
-    2?: string
-    3?: string
-    soft?: string
+  // Brand colors
+  brand: {
+    1: string
+    2: string
+    3: string
+    soft: string
   }
 
   // Background colors
   bg: string
   bgAlt: string
   bgElv: string
-  bgMark?: string
 
   // Text colors (optional - if not specified, VitePress defaults are used)
   text?: {
@@ -102,25 +101,15 @@ export interface ModeColors {
 }
 
 export interface Theme {
-  name: string
   displayName: string
-  preview?: string // URL or path to theme preview image
-  logo?: string // URL or path to custom logo
+  preview?: string
   modes: {
     light: ModeColors
     dark: ModeColors
   }
   fonts?: {
     body?: string
-    heading?: string
   }
-  borderRadius?: string
-  spacing?: {
-    small?: string
-    medium?: string
-    large?: string
-  }
-  customProperties?: Record<string, string>
 }
 
 export interface ThemeRegistry {

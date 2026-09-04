@@ -102,3 +102,7 @@ declare module 'mark.js/src/vanilla.js' {
     unmark(options?: MarkOptions): void
   }
 }
+
+declare module '*.css'
+declare module '*.scss'
+declare module 'virtual:uno.css'

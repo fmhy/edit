@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { Switch as HeadlessSwitch } from '@headlessui/vue'
+import { SwitchRoot, SwitchThumb } from 'reka-ui'
 
-const props = defineProps<{
+defineProps<{
   modelValue: boolean
   disabled?: boolean
 }>()
@@ -12,15 +12,15 @@ const emit = defineEmits<{
 </script>
 
 <template>
-  <HeadlessSwitch
-    :model-value="props.modelValue"
-    :disabled="props.disabled"
+  <SwitchRoot
+    :model-value="modelValue"
+    :disabled="disabled"
     class="switch"
-    :class="{ enabled: props.modelValue, disabled: props.disabled }"
+    :class="{ enabled: modelValue, disabled: disabled }"
     @update:model-value="emit('update:modelValue', $event)"
   >
-    <span class="thumb" />
-  </HeadlessSwitch>
+    <SwitchThumb class="thumb" />
+  </SwitchRoot>
 </template>
 
 <style>
@@ -39,7 +39,7 @@ const emit = defineEmits<{
 }
 
 .switch.enabled {
-  background-color: var(--vp-c-brand);
+  background-color: var(--vp-c-brand-1);
 }
 
 .switch.disabled {

@@ -10,9 +10,9 @@ interface Post {
 
 // Group posts ONLY by Year to improve information density
 const groupedPosts = computed(() => {
-  const postArray: Post[] = Array.isArray(rawPosts)
+  const postArray = Array.isArray(rawPosts)
     ? rawPosts
-    : (Object.values(rawPosts).flat() as Post[])
+    : Object.values(rawPosts).flat()
 
   const groups: Record<string, Post[]> = {}
 
@@ -97,25 +97,6 @@ const formatDate = (timestamp: string | number): string => {
 </template>
 
 <style scoped>
-.VPBadge {
-  border: 1px solid transparent;
-  border-radius: 8px;
-  display: inline-flex;
-  margin-left: 2px;
-  padding: 0 10px;
-  line-height: 22px;
-  font-size: 12px;
-  font-weight: 500;
-  transform: translateY(-2px);
-  align-items: center;
-  gap: 0.2rem;
-  padding-right: 10px;
-  vertical-align: middle;
-  color: var(--vp-badge-tip-text);
-  background-color: transparent;
-  border-color: var(--vp-custom-block-tip-outline);
-}
-
 .posts-timeline {
   margin-top: 2.5rem;
 }

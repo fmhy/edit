@@ -17,7 +17,6 @@
 import type { Theme } from '../types'
 
 export const catppuccinTheme: Theme = {
-  name: 'catppuccin',
   displayName: 'Catppuccin',
   preview:
     'https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png',
@@ -32,7 +31,6 @@ export const catppuccinTheme: Theme = {
       bg: '#f8fafc',
       bgAlt: '#eef2f5',
       bgElv: '#eef2f5',
-      bgMark: '#1F1E2E',
       text: {
         1: '#353638ff',
         2: '#334155',
@@ -104,7 +102,6 @@ export const catppuccinTheme: Theme = {
       bg: '#1F1E2E',
       bgAlt: '#1E1E29',
       bgElv: '#1E1E29',
-      bgMark: '#1F1E2E',
       button: {
         brand: {
           bg: '#C5A5F6',
