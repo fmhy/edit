@@ -710,7 +710,6 @@
 * [DownloadHub](https://downloadhub.boston/) - Movies / TV / Sub / Dub / 1080p
 * [MoviesLeech](https://moviesleech.bar/) - Movies / TV / Sub
 * [KatMovieHD](https://katworld.net/?type=KatmovieHD) - Movies / TV / Anime / Sub / Dub / 1080p
-* [Cinevood](https://cinevood.net/) - Movies / TV / 1080p
 * [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
@@ -1303,12 +1302,12 @@
 ## ▷ Streaming / Стриминг
 
 * ⭐ **[Kinohub](https://on.kinohub.vip/)**, [2](https://tv.kinohub.vip/), [3](https://kinomix.web.app/) - Movies / TV / Anime / [Telegram](https://t.me/KinohubLive)
+* ⭐ **[KinoGo](https://kinogo.ec/)**, [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
 * ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
 * ⭐ **[AnimeLIB](https://animelib.org/)**, [2](https://v3.animelib.org) - Anime / Sub / Dub / 1080p (account required)
 * ⭐ **[AnimeGO](https://animego.me/)** - Anime / Sub / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
-* [KinoGo](https://kinogo.ec/), [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
 * [kinokong](https://kinokong.li/) - Movies / TV / Dub / 1080p
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
