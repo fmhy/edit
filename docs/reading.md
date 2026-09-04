@@ -243,7 +243,7 @@
 * [NovelGo](https://novelgo.id) - Online Reading
 * [Armaell's Library](https://armaell-library.net/) - Downloads
 * [Baka-Tsuki](https://www.baka-tsuki.org) - Online Reading
-* [NovelArchive](https://novelarchive.cc/) - Online Reading
+* [NovelArchive](https://novelarchive.cc/) - Online Reading / Downloads
 * [WuxiaWorld.com](https://www.wuxiaworld.com/) - Online Reading
 * [⁠WuxiaDreams](https://wuxiadreams.com/) - Online Reading
 * [AsianHobbyist](https://www.asianhobbyist.com/) - Online Reading

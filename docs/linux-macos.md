@@ -17,8 +17,7 @@
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
-* [⁠tony, btw](https://tonybtw.com/) - Linux Tutorials / Guides / [Discord]
-(https://discord.gg/nXZwDb8HB5)
+* [⁠tony, btw](https://tonybtw.com/) - Linux Tutorials / Guides / [Discord](https://discord.gg/nXZwDb8HB5)
 * [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
 * [Linux Roadmap](https://roadmap.sh/linux) - Linux Learning Roadmap
 * [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide

@@ -285,9 +285,9 @@
 * [Co-Optimus](https://www.co-optimus.com/) or [PlayCo-opGame](https://playco-opgame.com/) - Co-Op Game Databases
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
+* [CloudBase](https://cloudbase.gg/) or [⁠Cloudplay](https://cloudplay.now/) - Databases of Games with Cloud Support
 * [⁠Backwards Compatible](https://www.backwards-compatible.com/) - PS4 / PS5 Backwards Compatibility Database 
 * [⁠Works on WOA](https://www.worksonwoa.com/en/games/) - Windows on ARM Game Compatibility Database
-* [CloudBase](https://cloudbase.gg/) - Cloud Game Database
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 * [VNDB](https://vndb.org/) - Visual Novel Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database

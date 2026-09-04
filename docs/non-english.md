@@ -1654,12 +1654,17 @@
 
 * ⭐ **[Dizipal](https://dizipal1453.com/)** - Movies / TV / Sub / Dub / 1080p / Requires VPN
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
+* ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p / Region Locked
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.mx)** - Movies / Sub / Dub / 1080p
-* [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime
+* ⭐ **[OpenAnime](https://openani.me/)** - Anime / Region Locked
+* ⭐ **[AnimeciX](https://anm.cx/)** - Anime / Region Locked
+* [Dizilla](https://dizilla.to/), [2](https://selcukflix.co/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p / Region Locked
+* [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime 
 * [diziyo](https://diziyo.so/) - Movies / TV / Anime
 * [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p 
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
-* [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime
+* [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime / Region Locked
+* [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
@@ -1667,7 +1672,8 @@
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [Anizm](https://anizm.net/) - Anime
-* [TR Anime İzle](https://www.tranimeizle.co) - Anime
+* [TR Anime İzle](https://www.tranimeizle.co) - Anime / Region Locked
+* [Türk Anime](https://www.turkanime.co/) - Anime / Region Locked / [Downloader](https://github.com/KebabLord/turkanime-indirici) 
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
 * [belgeselx](https://belgeselx.com/) - Documentaries

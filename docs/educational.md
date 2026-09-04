@@ -982,7 +982,7 @@
 * ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** - Chess Training Software
 * ⭐ **[Chess Tempo](https://chesstempo.com/)** - Tactics Training / Endgame Solver
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Chess Database Software
-* [ChessGames](https://www.chessgames.com/) - Chess Database / Community
+* [ChessGames](https://www.chessgames.com/) or [⁠Lumbra's Gigabase](https://lumbrasgigabase.com/) - Chess Game Databases
 * [ChessLab](https://chesslab.me/) - Learning Community / [Discord](https://discord.com/invite/AA5G5f9wKC)
 * [⁠Chess Results](https://chess-results.com/) - Chess Tournament Results Database
 * [Listudy](https://listudy.org/en) - Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics
@@ -1860,6 +1860,7 @@
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [⁠Numla](https://numla.app/) / [GitHub](https://github.com/davidesantangelo/numla) or [Math Notepad](https://mathnotepad.com/) - Live Calculative Notepads
 * [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
+* [⁠CalcPlex](https://calcplex.com/) - Graphing Calculator Guides 
 
 ***
 

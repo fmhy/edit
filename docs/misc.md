@@ -1656,7 +1656,7 @@
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
 * [Super Snowflake Maker](https://supersnowflakemaker.com/) or [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
-* [Pointer Pointer](https://pointerpointer.com/) - Have Your Pointer Pointed At
+* [Pointer Pointer](https://pointerpointer.com/) or [PointerPointerClone](https://pointerpointerclone.shiprzq.workers.dev/) - Have Your Pointer Pointed At
 * [BubblesPop](https://bubblespop.netlify.app/), [2](https://brainteaser.top/bubblespop.html) - Pop Bubble Wrap
 * [Checkbox Life](https://huth.me/checkbox-life/) or [Checkbox Olympics](https://checkbox.toys/) - Checkbox Games
 * [Fidget Page](https://www.fidgetpage.com/) - Play with Fidget Spinner

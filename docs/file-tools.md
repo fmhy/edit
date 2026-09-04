@@ -333,7 +333,7 @@
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 30 Days After Last Download
 * ⭐ **[Mocha](https://mocha.my/)** - 15GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / 500MB Permanent (on signup) / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
