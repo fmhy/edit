@@ -59,6 +59,7 @@
 * [git.news](https://git.news/) - Project Index
 * [GitPlanet](https://gitplanet.com/) - Project Index
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
+* [Awesome Solo Founder OSS](https://github.com/princepal9120/awesome-solo-founder-oss) - OSS/Source-Available tools for solo founders
 
 ***
 
