@@ -593,6 +593,7 @@
 * ⭐ **[WatchSports(su)](https://watchsports.su/)** - Stream Aggregator
 * ⭐ **[DaddyLive](https://dlhd.st/)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
+* [LiveNest](https://livenest.vercel.app/) - Stream Aggregator
 * [⁠Futbol-X](https://www.futbol-x.xyz/) - Live Events / [Discord](https://discord.gg/UzHzerb6XY)
 * [HOOFOOT](https://hoofoot.ru/iptv/schedule) - Stream Aggregator
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
