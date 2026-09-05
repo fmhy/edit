@@ -39,6 +39,7 @@
 * [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
 * [FileMood](https://filemood.com/)
 * [BT4G](https://bt4gprx.com/)
+* [⁠The Black Hole Bay](https://theblackholebay.lol/) / [Discord](https://discord.gg/Qb2GQqW3Uq)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
 * [uIndex](https://uindex.org/)

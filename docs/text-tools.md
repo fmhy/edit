@@ -563,6 +563,7 @@
 * [DFonts](https://www.dfonts.org/)
 * [⁠FontYukle](https://www.fontyukle.net/)
 * [⁠Font.Download](https://font.download/)
+* [Free Font Download](https://www.freefontdownload.org/)
 * [Font Spring](https://www.fontspring.com/free)
 * [⁠FontBolt](https://www.fontbolt.com/)
 * [Best Font](https://best-font.com/)

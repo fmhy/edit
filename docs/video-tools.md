@@ -490,6 +490,7 @@
 * [Download Pirate](https://www.downloadpirate.com/) - **Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)** / [Discord](https://discord.gg/ucTvVtBz9Z)
 * [Ae Blender](https://www.aeblender.com/)
 * [HunterAE](https://hunterae.com/)
+* [⁠ScenePacks](https://t.me/moviescenepack)
 * [AETemp](https://t.me/AETemp)
 * [Visual Effects Pack](https://t.me/visual_effects_pack)
 * [AEDownloadPro](https://aedownloadpro.com/)

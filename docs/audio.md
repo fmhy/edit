@@ -613,16 +613,14 @@
 ## ▷ Game Soundtracks
 
 * ⭐ **[Khinsider](https://downloads.khinsider.com/)** or [⁠KHI-DL](https://khinsider.squid.wtf/) - Game Soundtracks / MP3 / FLAC / ALAC / [Bulk Downloader](https://github.com/madLinux7/khi-explorer)
-* [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3
-* [The 16-bit Audiophile Project](https://16bap.theclassicgamer.net/) - Retro Game Soundtracks / FLAC
-* [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
-* [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
-* [Cirrus Retro](https://cirrusretro.com/) - Retro Game Soundtracks / Web
+* [Zophar's Domain](https://www.zophar.net/music) - Retro Game Music Rips / MP3 320 Kbps / FLAC
+* [The 16-bit Audiophile Project](https://16bap.theclassicgamer.net/) - 16-bit Game Soundtracks / FLAC
+* [RetroTracks](https://retro.sx/) - Retro Game Soundtracks / MP3 128 Kbps
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
-* [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [HCS Forum](https://rentry.co/FMHYB64#hcs-forum) - Game Soundtracks
-* [exotica](https://www.exotica.org.uk/) - Amiga Game Soundtracks / Retro Gaming Music Wiki
-* [⁠OC Remix](https://ocremix.org/) - Game Music Remixes / Download / Torrent 
+* [⁠OC Remix](https://ocremix.org/) - Game Music Remixes / Download / Torrent
+* [NSF j](https://nsf.nesbbs.com/) - NES Music
+* [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
 * [⁠8Beats](https://8beats.co/) - Game Music Radio / [Discord](https://discord.gg/EB9CFRacgN)
 * [⁠CVGM](http://cvgm.net/) - Game Music Radio
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
@@ -632,8 +630,10 @@
 * [VGMRadio](https://vgmradio.com/) - Game Music Radio
 * [VGM](https://vgm.mmosvc.com/) - Game Music Radio
 * [⁠GTA Radio](https://gtaradio.net/) or [GTA Radio Nine](https://gtav-radio-nine.vercel.app/) - GTA Radio Stations
-* [NSF j](https://nsf.nesbbs.com/) - NES Music
-* [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
+* [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
+* [exotica](https://www.exotica.org.uk/) - Amiga Game Soundtracks / Retro Gaming Music Wiki
+* [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
+* [Cirrus Retro](https://cirrusretro.com/) - Retro Game Soundtracks / Web
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 
 ***
