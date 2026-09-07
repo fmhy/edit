@@ -17,6 +17,7 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.ac/)** or [BingeBox](https://bingebox.ac/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.vip/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* ⭐ **[AllFlix](https://allflix.org/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/x6dmEX4W6b)
 * ⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/) or [Hexa](https://hexa.su/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[67Movies](https://67movies.st/)** or [PhantomFlix](https://phantomflix.net/) - Movies / TV / Anime / Auto-Next
