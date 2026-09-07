@@ -1073,6 +1073,7 @@
 * [Amountle](https://www.amountle.dev/) - Daily Estimation Game
 * [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 * [Bestiefy](https://bestiefy.com/) - Friend Quizzes
+* [ThreeClue](https://threeclue.com/) - Daily Movie Guessing Game
 * [WTM](https://whatthemovie.com/), [Moviedle](https://moviedle.xyz/), [Actorle](https://actorle.com/) / [TV](https://actorle.tv/), [Kino.wtf](https://www.kino.wtf/), [Flickle](https://flickle.app/), [⁠Flickle](https://www.flickle.co/) or [Framed](https://framed.wtf/) - Movie / TV Guessing 
 * [⁠Letterrankd](https://www.letterrankd.com/) - Letterboxd Ratings Guessing Game
 * [Cinenerdle](https://www.cinenerdle.app/) - Movie Puzzles
