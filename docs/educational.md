@@ -1009,6 +1009,7 @@
 * [YottaChess](https://www.yottachess.com/) - Professional Player Database
 * [ChessBase](https://en.chessbase.com/) / [India](https://www.chessbase.in/) - Chess News, Articles & Tournaments
 * [Visual History of Chessmen](https://chesshistory.github.io/) - Chessmen History Guide
+* [ChessFrog](https://chessfrog.com/) - Play unlimited free chess puzzles online
 
 ***
 
