@@ -110,6 +110,7 @@
 ***
 
 * ⭐ **[Boomflix](https://boomflix.qzz.io/)**, [2](https://boomflix.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/whEBxM3WT2)
+* ⭐ **[CineGate](https://cinegate.net/)** - Movies / TV / Anime / 4K
 * ⭐ **[Atlantic](https://atlantic.st/)** - Movies / TV / Anime / Auto-Next / 4K
 * ⭐ **[Bingr](https://bingr.one/)** - Movies / TV / Anime / [Discord](https://discord.com/invite/Dxq6bFv4FP)
 * ⭐ **[NEPU](https://nepu.io/)**, [2](https://nepu.net/), [3](https://nepu.app/), [4](https://nepu.is/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
