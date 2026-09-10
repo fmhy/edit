@@ -26,7 +26,7 @@ Here you'll find some general guidelines for those who would like to start contr
 - **🗂️ Coding Libraries** - There are too many of them, and there are better places to find them.
 - **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.
 - **🎮 Multiplayer Hacks** - Don't submit any hacks or exploits that give an unfair advantage in multiplayer games.
-- **🖥️ Custom OSs** - We don't recommend people use these.
+- **🖥️ Custom Windows ISOs** - We don't recommend people use these.
 
 ### Adding a Site
 
