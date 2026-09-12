@@ -219,7 +219,6 @@
 * [uView](https://www.idruf.com/) - Video Player
 * [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - Video Player
 * [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player
-* [MoonPlayer](https://github.com/coslyk/moonplayer) - Video Player
 * [KikoPlay](https://kikoplay.fun/) - Video Player
 * [h5player](https://h5player.anzz.top/) - Add Features to HTML5 Video Players / [GitHub](https://github.com/xxxily/h5player)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
@@ -259,7 +258,7 @@
 * 🌐 **[igv's shaders](https://gist.github.com/igv)** - Various Shaders
 * [MPV Config Guide](https://thewiki.moe/tutorials/mpv/), [2](https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [Flower's MPV Config](https://github.com/flowerey/flower-mpv-config) - Automated MPV Configs
-* [ModernZ](https://github.com/Samillion/ModernZ), [tethys](https://github.com/Zren/mpv-osc-tethys) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
+* [ModernZ](https://github.com/Samillion/ModernZ) or [uosc](https://github.com/tomasklaen/uosc) - Alt User Interfaces
 * [Simple MPV WebUI](https://github.com/open-dynaMIX/simple-mpv-webui) - WebUI Controller
 * [MPV Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu)
 * [MPV Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) - Userscripts
@@ -293,10 +292,8 @@
 * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh), [⁠Duck Guides](https://duckkota.gitlab.io/guides/) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://trakt.tv/) - Media Trackers / List Creators
-* [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
-* [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer / [Discord](https://discord.com/invite/EbfftZ5Dd4)
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
 * [DMS](https://github.com/anacrolix/dms) - Media Server
@@ -310,7 +307,7 @@
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server / [Discord](https://discord.com/invite/E6Apw3aFaA)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
-* [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+* [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/media-server-downloads/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)

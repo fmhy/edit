@@ -198,7 +198,7 @@
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) - Mobile PC Ports / [Telegram](https://t.me/VAlpha_Official)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
-* [⁠Flying With Gauss](https://discord.gg/rjrx3JmQC) - GoldSrc Game Ports for Android + Other Platforms
+* [⁠Flying With Gauss](https://discord.gg/CqgMJC7zsx) - GoldSrc Game Ports for Android + Other Platforms
 * [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltaune + Undertale Mobile Ports
 
 ***
@@ -449,12 +449,15 @@
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
 * ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
-* ⭐ **[DOS Zone](https://dos.zone/)** / [Discord](https://discord.com/invite/hMVYEbG) or [⁠Retro Gaming](https://retrogaming.dpdns.org/) - Retro PC Browser Emulators 
+* ⭐ **[Retro Online](https://retroonline.net/)** - Retro PC Browser Emulator / [Discord](https://discord.gg/5CBvdysSnZ) / [Telegram](https://t.me/RetroOnlineNet)
+* ⭐ **[DOS Zone](https://dos.zone/)** - Retro PC Browser Emulator / [Discord](https://discord.com/invite/hMVYEbG) 
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console
 * ⭐ **[Play Classic Games](https://playclassic.games/)** - Retro Consoles / Multiple-Emulators
+* ⭐ **[CommodoreGames](https://www.commodoregames.net/)** or [C64Online](https://c64online.com/) - Commodore / C64 Browser Emulators
 * ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console / [Supported Systems](https://emulatorjs.org/docs/systems) / [Discord](https://discord.gg/6akryGkETU) / [GitHub](https://github.com/EmulatorJS/EmulatorJS)
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Multi-Console / [Discord](https://discord.gg/dTCnM2r5e5)
+* ⭐ **[RetroFab](https://itizso.itch.io/retrofab)** - Retro LCD Game Emulators
 * [⁠ArcadeSpace](https://www.arcadespace.org/) - Retro Consoles / Multiple-Emulators / Sign-Up Required
 * [⁠FreebieGames](https://freebie.games/) - Retro Consoles / Multiple-Emulators
 * [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console / [Discord](https://discord.gg/PtgKse35q7)
@@ -462,7 +465,6 @@
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
 * [PlayGames](https://playgames.onl/) - Retro Consoles
-* [Retro Online](https://retroonline.net/) - Retro Consoles / [Discord](https://discord.gg/5CBvdysSnZ) / [Telegram](https://t.me/RetroOnlineNet)
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
@@ -470,6 +472,7 @@
 * [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
 * [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
 * [Emupedia](https://emupedia.net/beta/) - Retro Consoles
+* [⁠Retro Gaming](https://retrogaming.dpdns.org/) - Retro PC Browser Emulator
 * [yag.im](https://yag.im/) - Retro Edutainment + Adventure Game Browser Emulator / Sign-Up Required / [Discord](https://discord.gg/N4QavHBBAG) / [GitHub](https://github.com/yag-im)
 * [DOS Games Archive](https://www.dosgamesarchive.com/), [Best DOS Games](https://bestdosgames.com/), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [DosGames](https://dosgames.com/), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [⁠Meowio](https://www.information-superhighway.net/meowio/) - NES Browser Emulator / Custom Music + Sounds
@@ -479,12 +482,10 @@
 * [Sega Play](https://sega-play.online/) - Sega Browser Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
-* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - Commodore / C64 Browser Emulators
 * [⁠BBC Micro Games Archive](https://bbcmicro.co.uk/) - BBC Micro Emulator
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum Browser Emulator
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
-* [RetroFab](https://itizso.itch.io/retrofab) - Retro LCD Game Emulators
 
 ***
 
@@ -1095,7 +1096,6 @@
 * [whatlang](https://whatlang.fun/) - Language Guessing Game / [GitHub](https://github.com/Inventoris/whatlang)
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [Google Feud](https://googlefeud.com/) - Guess What's Googled More
-* [Graphs](https://www.graphs.world/) - Graph Guessing Game
 * [English Sandwich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [GunGuesser](https://gunguesser.com/) - Guess Where Historical Guns are From
 * [Guess The Price](https://guesstheprice.net/) or [PricePoint](https://pricepoint.gg/) - Price Guessing Game

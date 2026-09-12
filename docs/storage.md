@@ -167,7 +167,7 @@
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
 * [⁠EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/) - Extreme Demon Enjoyment List / [Discord](https://discord.com/invite/pdeZY2FU3U)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
-* [UDL](https://udl.pages.dev/) or [Demonlist](https://demonlist.org/) - Unrated Demons Lists
+* [Demonlist](https://demonlist.org/) or [UDL](https://udl.pages.dev/) - Unrated Demons Lists
 * [IDL](https://insanedemonlist.com/) - Insane Demon List / [Discord](https://discord.com/invite/7JbFjRqSQ4)
 * [⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [MDL](https://mediumdemonslist.pages.dev/) - Medium Demon List / [Discord](https://discord.gg/CwjaCCZvsX)
@@ -214,7 +214,7 @@
 
 * [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
 
-[KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
+[KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
 
 ***
 
@@ -235,7 +235,7 @@
 
 ## Manga Downloaders
 
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [anime-dl](https://github.com/vrienstudios/anime-dl)
 
 ***
 
@@ -245,7 +245,7 @@
 * ⭐ **[Suwayomi](https://github.com/Suwayomi)**
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Suwayomi-Server)
 
-[AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/) / [GitHub](https://github.com/xgi/houdoku), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
+[AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/) / [GitHub](https://github.com/xgi/houdoku), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
 
 ### Self-Hosted
 

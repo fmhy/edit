@@ -1069,7 +1069,7 @@
 * [Vice City: Multiplayer](https://vc-mp.org/) - Multiplayer GTA:VC
 * [GTA Manager](https://func-vehicle.github.io/gtamanager/) - GTA V Business Manager
 * [GTA Downgraders](http://downgraders.rockstarvision.com/) - GTA Game Downgraders
-* [⁠GTASnP](https://gtasnp.com/) - Upload + Browse GTA Save Files 
+* [⁠GTASnP](https://gtasnp.com/) - Upload + Browse GTA Save Files
 
 ***
 
@@ -1078,6 +1078,7 @@
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
 * ⭐ **[UZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
 * ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [Odamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
+* [⁠Rip N' Tear Launcher](https://github.com/Zendevve/RNT-Launcher) - DOOM Mod Manager + Launcher / [Discord](https://discord.gg/Y4rDyTScPe)
 * [Classic DOOM](https://classicdoom.com/) - Doom Console Port Encyclopedia / Documents
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads
 * [Freedoom](https://freedoom.github.io/) - Open-Source Doom Assets
@@ -1130,7 +1131,8 @@
 * ⭐ **[GDDP](https://gddp.pro/)** / [Discord](https://discord.gg/gddp) or **[GD Demon Ladder](https://gdladder.com/)** / [Discord](https://discord.gg/gddl) - Practice & Improve Your Skills
 * [⁠GD Creator School](https://www.gdcreatorschool.com/) - GD Creator Guide / [Discord](https://discord.gg/gdlevels) / [GitHub](https://github.com/komatic5/gdcs2)
 * [GD Forum](https://gdforum.freeforums.net/) - ⁠Geometry Dash Forum
-* [⁠Global Stats Viewer](https://globalstatsviewer.com/), [⁠EDI](https://edi-d6y.pages.dev/) / [Discord](https://discord.gg/TEqvKS5H5N) or [⁠DashStats](https://dashstats.net/) / [Discord](https://discord.com/invite/Qumx6ZmNG7) - Global Stats / Leaderboards
+* [⁠Global Stats Viewer](https://globalstatsviewer.com/) or [⁠DashStats](https://dashstats.net/) / [Discord](https://discord.com/invite/Qumx6ZmNG7) - Global Stats / Leaderboards
+* [⁠EDI](https://edi-d6y.pages.dev/) - Hardest Completed Achievements / [Discord](https://discord.gg/TEqvKS5H5N)
 * [speedrun.gd](https://speedrun.gd/) - Speedrun Leaderboards / [Discord](https://discord.com/invite/5whXv5Y)
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
 * [⁠Icons Gallery](https://iconsgallery.pages.dev/) - Custom GD Icons
