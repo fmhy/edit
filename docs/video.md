@@ -821,7 +821,7 @@
 * [KimoiTV](https://kimoitv.com/) - Asian Drama
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / 4K / Requires Google Account / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [PSArips](https://psa.wf/) - Movies / TV / 4K
-* [Pahe](https://pahe.ink/) - Movies / TV / Anime / 4K / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pahe-note.md) / [Discord](https://discord.gg/4AvaCsd2J4)
+* [Pahe](https://pahe.ink/) - Movies / TV / Anime / 4K / [Bypass Adblock](https://greasyfork.org/en/scripts/592517-remove-anti-adblock-popup-advanced) / [Ratings Script](https://greasyfork.org/en/scripts/595505-pahe-movie-ratings-imdb-letterboxd) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pahe-note.md) / [Discord](https://discord.gg/4AvaCsd2J4)
 * [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [FlickyStream](https://flickystream.mov/) - Movies / TV / Anime / [Discord](https://discord.gg/the-raven)
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / [Telegram](https://t.me/+8OiKICptQwA4YTJk)
