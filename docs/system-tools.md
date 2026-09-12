@@ -304,6 +304,7 @@
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)
+* [TestMyGears](https://testmygears.com/) - In browser diagnostic tools to test monitors, keyboards, mice, controller and touchscreens for hardware faults.
 
 ***
 
