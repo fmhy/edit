@@ -6,14 +6,6 @@
 
 # ► Image Editing
 
-* 🌐 **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Image Creation Resources
-* ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
-* ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
-* [Croppola](https://croppola.com/), [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
-* [⁠PixelFrame](https://pixelframe.design/) - Custom Pop Culture Graphic Generator
-* [Scribus](https://www.scribus.net/) or [Quarkdown](https://quarkdown.com/) / [GitHub](https://github.com/iamgio/quarkdown) - Page Layout & Typesetting Programs
-* [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
-
 ***
 
 ## ▷ Editing Software
@@ -22,13 +14,14 @@
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, macOS, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
 * ⭐ **[ImageMagick](https://imagemagick.org/)** / Windows, macOS, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
-* [⁠Affinity](https://www.affinity.studio/) or [⁠AffinityOnLinux](https://github.com/ryzendew/Linux-Affinity-Installer) / Windows, macOS, Linux / [No Login Method](https://rentry.co/FMHYB64#affinity)
-* [⁠PaintFE](https://paintfe.com/) - Windows, macOS, Linux / [GitHub](https://github.com/kylejckson/PaintFE)
+* [⁠Affinity](https://www.affinity.studio/) / Windows, macOS / [Linux]([⁠AffinityOnLinux](https://github.com/ryzendew/Linux-Affinity-Installer)) / [No Login Method](https://rentry.co/FMHYB64#affinity)
+* [⁠PaintFE](https://paintfe.com/) / Windows, macOS, Linux / [GitHub](https://github.com/kylejckson/PaintFE)
 * [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
 * [⁠RapidRAW](https://www.getrapidraw.com/) / Windows, macOS, Linux / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW)
 * [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
+* [Scribus](https://www.scribus.net/) or [Quarkdown](https://quarkdown.com/) / [GitHub](https://github.com/iamgio/quarkdown) - Page Layout & Typesetting Programs / Windows, macOS, Linux
   
 ***
 
@@ -39,68 +32,61 @@
 * ⭐ **[Photopea](https://www.photopea.com/)** - Full-Featured
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Full-Featured
 * [⁠PaintFE (Web)](https://www.paintfe.com/online/) - Full-Featured
-* [Polarr](https://photoeditor.polarr.co/) - Multi-Tool
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
-* [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
 
 ***
 
 ## ▷ Content Removers
 
-* ⭐ **[wipe.photos](https://wipe.photos/)** or [HAMA](https://www.hama.app/) - Object Removers
-* ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / [GitHub](https://github.com/MangoLion/bgbye)
-* [Pixelcut](https://www.pixelcut.ai/) - Background Remover
-* [Change BG](https://www.change-bg.org/) - Background Remover
-* [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover
-* [Rembg](https://github.com/danielgatis/rembg) - Self-Hosted Background Remover
-* [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation
+* ⭐ **[Rembg](https://github.com/danielgatis/rembg)** / Background Remover / Windows, macOS, Linux, Docker
+* ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
+* [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
+* [Pixelcut](https://www.pixelcut.ai/) - Background Remover / Web
+* [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
+* [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 
 ***
 
 ## ▷ Upscale / Restore
 
-* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Hosted
-* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Self-Hosted / Web
-* ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
-* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
-* ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
-* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Requires Sign-Up
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Self-Hosted / Web
-* [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Web
+* ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/upscayl/upscayl)
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / Windows, macOS, Linux / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/) 
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
+* ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
+* [chaiNNer](https://chainner.app/) - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
+* [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Web / Requires Sign-Up
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / Windows, macOS, Linux
+* [Face Restoration](https://github.com/TencentARC/GFPGAN) or [CodeFormer](https://github.com/sczhou/CodeFormer) - Face Restoration Algorithms / Windows, macOS, Linux
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
-* [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
+* [Final2x](https://github.com/EutropicAI/Final2x) - Image Upscaling / Windows, macOS, Linux
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
-* [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Web
-* [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
-* [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
+* [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image & Video Upscaling / Windows
+* [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Windows, macOS, Linux
 
 ***
 
 ## ▷ Image Effects
 
-* ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
+* ⭐ **[⁠Grainrad](https://grainrad.com/)**, [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
+* ⭐ **[Mosh](https://moshpro.app/)** & [glitch2](https://akx.github.io/glitch2/) - Glitch Images
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
+* [⁠Lumo](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
-* [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
-* [PhotoJoiner](https://www.photojoiner.com/) or [⁠Collaigo](https://www.collaigo.com/) / [Discord](https://discord.gg/WbVXpRkWZv) (chrome) - Collage Makers / Editors
-* [⁠shabzefilters](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
-* [⁠Dot Shader](https://iamnoman.com/dot) - Halftone Image Filtering Tool 
+* [⁠Collaigo](https://www.collaigo.com/)- Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
 * [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
-* [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
+* [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator / Windows, macOS, Linux
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
 * [Mimi](https://mimi-panda.com/) - Turn Photos into Coloring Book Sketch
-* [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [⁠Dithering Studio](https://ditheringstudio.com/), [BDFM](https://bitmap.designfamilymarket.com/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering / Bitmap Generators
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
 * [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes / [GitHub](https://github.com/Tw1ddle/geometrize)
@@ -118,6 +104,10 @@
 ***
 
 # ► Image Creation
+
+* 🌐 **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Image Creation Resources
+* ↪️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
+* ↪️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
 
 ***
 
@@ -221,7 +211,7 @@
 ## ▷ Meme Tools
 
 * ⭐ **[Know Your Meme](https://knowyourmeme.com/)** or [FindThatMeme](https://findthatmeme.com/) - Meme Databases
-* [ImgFlip](https://imgflip.com/memegenerator) / [Remove Watermarks](https://greasyfork.org/en/scripts/485073), [2](https://greasyfork.org/scripts/470387), [Meme Generator](https://www.memegenerator.top/), [Meme Town](https://meme.town/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [ImgFlip](https://imgflip.com/memegenerator) / [Remove Watermarks](https://greasyfork.org/en/scripts/485073), [2](https://greasyfork.org/scripts/470387), [MemeBetter](https://memebetter.com/), [Classic Memes](https://classic.createa.meme/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [GreenScreenMemes](https://greenscreenmemes.com/) - Green Screen Memes
 * [TweetGen](https://www.tweetgen.com/) - Fake Tweet Creator
@@ -230,7 +220,6 @@
 * [⁠OneShot Textbox Generator](https://www.nikodev.xyz/textbox) - OneShot Text Box Generator
 * [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [⁠Iceberg Threads](https://icebergthreads.com/) - Iceberg Chart Generator
-* [Pokémon Battle Creator](http://www.pokemonbattlecreator.com/) - Pokémon Battle Scene Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [LowQualitymemes](https://www.lowqualitymemes.com/) - Low Quality / Cursed Meme Generator
@@ -683,6 +672,7 @@
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images / Web
 * [Bulk Image Resize](https://bulkimageresize.com/) - Image Resize / Web
 * [BulkResizePhotos](https://bulkresizephotos.com/) - Image Compress & Resize / Web
+* [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools / Web
 
 ***
 
