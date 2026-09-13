@@ -45,6 +45,7 @@
 * [Polotno Studio](https://studio.polotno.com/) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
+* [Anywebp](https://anywebp.com/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [RedKetchup](https://redketchup.io/) - Multi-Tool
 * [Mara](https://mara.photos/) - Multi-Tool
@@ -80,6 +81,7 @@
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Web
+* [Upscal](https://upscal.app/) - Image Upscaling / Win & Mac
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Self-Hosted
 
