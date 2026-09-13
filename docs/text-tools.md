@@ -533,6 +533,7 @@
 * [Fontsly](https://fontsly.com/) - Freeware
 * [FOSSFonts](https://fossfonts.com/) - Freeware
 * [Fonts4Free](https://www.fonts4free.net/) - Freeware
+* * [CaratteriSpeciali](https://caratterspeciali.it/) - Freeware
 * [FontSpace](https://www.fontspace.com/) - Freeware
 * [Online Fonts](https://online-fonts.com/) - Freeware
 * [CDNFonts](https://www.cdnfonts.com/) - Freeware
@@ -638,6 +639,7 @@
 * [BoldTextGenerator](https://boldtextgenerator.org/)
 * [FontGenOnline](https://fontgenonline.com/)
 * [TextEditor](https://texteditor.com/)
+* [CaratteriSpeciali](https://caratterspeciali.it/)
 * [CuteFontCopy](https://cutefontcopy.com/)
 * [FontGenerator.design](https://fontgenerator.design/)
 * [Font Generator Online](https://www.fontgeneratoronline.com/)
