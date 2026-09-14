@@ -266,10 +266,11 @@
 ***
 
 ## ▷ Telegram File Tools
+
 * [tdl](https://docs.iyear.me/tdl/) - File Download / Upload Tool / [GitHub](https://github.com/iyear/tdl)
 * [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) / [Telegram](https://t.me/CodeXBotz), [easy_share_bot](https://t.me/easy_share_bot) or [UploadBot](https://t.me/uploadbot) - Upload Files to Telegram
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
-* [MediaDownBot](https://t.me/mediadownbot), [WZML-X](https://github.com/SilentDemonSD/WZML-X), [⁠Quicksbot](https://t.me/quicksbot), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
+* [WZML-X](https://github.com/SilentDemonSD/WZML-X), [⁠Quicksbot](https://t.me/quicksbot), [Telegram Media Downloader](https://greasyfork.org/en/scripts/446342), [TopSaverBot](https://t.me/TopSaverBot), [CatdlBot](https://t.me/CatdlBot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Media Downloaders
 * [Musvkrobot](https://t.me/musvkrobot) - Video Downloader
 * [GdriveXbot](https://t.me/TheGdriveXBot) or [google-drive-telegram-bot](https://github.com/viperadnan-git/) - Google Drive Upload Bots
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
@@ -546,7 +547,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
-* ⭐ **[Nitter](https://codeberg.org/mv12star/shitter/wiki/Instances)** / **[xCancel](https://xcancel.com/)**, [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
+* ⭐ **[Nitter](https://codeberg.org/mv12star/shitter/wiki/Instances)**, [2](https://nitter.cf/), [3](https://xitter.cf/),  [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [xPrivate](https://xprivate.lol/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
@@ -640,13 +641,13 @@
 
 * ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikToks Insight Tools, Repost Viewer & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
+* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
+* [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
+* [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠TikTok Control Panel](https://github.com/ElectricArdvark/Tiktok-control-panel) - Control Panel / Extra Functionalities 
 * [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
-* [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
-* [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠TikTok Video Seeking](https://greasyfork.org/scripts/585042) - Enable Arrow Seeking for TikTok
-* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
-* [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
+* [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
 
 ***
 

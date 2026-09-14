@@ -116,7 +116,7 @@
 
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
 * [8mb.video](https://8mb.video/) - Compress / 2GB / [Discord](https://discord.com/invite/UzmzPfX)
-* [autocompressor](https://autocompressor.net/) - Compress / 2GB
+* [autocompressor](https://autocompressor.net/) - Compress / 2GB / [BlueSky](https://bsky.app/profile/autocompressor.net) / [Discord](https://discord.com/invite/8afxgEpxH4)
 * [Rotato](https://tools.rotato.app/) - Compress / 2GB
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 * [YouCompress](https://www.youcompress.com/) - Compress / 500MB

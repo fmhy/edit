@@ -287,7 +287,7 @@
 * [⁠AlterSend](https://github.com/denislupookov/altersend) - Local / Windows, macOS, Linux, Android, iOS
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, macOS, Linux, Android
-* [croc](https://github.com/schollz/croc) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
+* [croc](https://getcroc.com/ ) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
@@ -347,7 +347,6 @@
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
-* [⁠UpClouds](https://upclouds.to/) - 10GB / 30 Days After Last View
 * [⁠pone](https://pone.rs/) - 1GB / Forever
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 150GB / 90 Days

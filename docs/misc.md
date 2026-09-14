@@ -999,7 +999,8 @@
 * [⁠2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - Software Engineering Internship & New Grad Positions
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
-* [⁠Hiresail](https://hire.welhan.dev/calibrate) - Freelance Work / Swipe Style Search / Resume Generator 
+* [⁠Hiresail](https://hire.welhan.dev/calibrate) - Freelance Work / Swipe Style Search / Resume Generator
+* [⁠Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find Remote Frontend Jobs
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [Dribbble](https://dribbble.com/) - Designer Jobs
 * [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
@@ -1308,6 +1309,7 @@
 * [CheapCharts Books](https://www.cheapcharts.com/us/itunes/ebooks/on-sale) - Apple Books Deal Tracking
 * [CheapCharts Audiobooks](https://www.cheapcharts.com/us/itunes/audiobooks/on-sale) - Apple Books Audiobook Deal Tracking
 * [eReaderIQ](https://www.ereaderiq.com/) - Kindle Book Price Comparisons
+* [Omnibus Tracker](https://omnibusreaders.com/sales) - Comic Sales Tracking
 
 ***
 
@@ -1382,13 +1384,13 @@
 
 * 🌐 **[Mr Free Tools](https://mrfreetools.com/)** - Find Free Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
+* ⭐ **[⁠HeyTools](https://heytools.app/)** - Text / PDF / Image / Code
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
 * [⁠Ou0.cc](https://ou0.cc/) - Text / Social Media / Code / Multimedia
 * [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
 * [⁠Edge Tools](https://edgetools.io/) - Image / Text / PDF / Code
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
-* [⁠HeyTools](https://heytools.app/) - Text / PDF / Image / Code
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [⁠ClipZeal](https://clipzeal.com/) - Video / Audio / Image / GIF
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
@@ -1646,8 +1648,9 @@
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
-* [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
+* [⁠Stowaway](https://stowaway.live/) - Live 3D Flight Window Seat Simulator
+* [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Jellify](https://sc420.github.io/jellify-ur-website/) - Turn Websites to Jelly / [GitHub](https://github.com/sc420/jellify-ur-website)
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator

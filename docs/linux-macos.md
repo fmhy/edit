@@ -13,7 +13,7 @@
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
-* [Linux Journey](https://labex.io/linuxjourney) - Interactive Linux Guides
+* [Linux Journey](https://labex.io/linuxjourney) or [Tilde](https://tilde.club/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
@@ -162,7 +162,7 @@
 * ⭐ **[Btop](https://github.com/aristocratos/btop)** or [s-tui](https://github.com/amanusk/s-tui) - System Resource Monitors
 * ⭐ **[MangoHud](https://github.com/flightlessmango/MangoHud)** - System Resource Monitor Overlay / [GUI](https://github.com/radiolamp/mangojuice)
 * ⭐ **[⁠LACT](https://github.com/ilya-zlobintsev/LACT/)** - GPU Config + Monitor
-* ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch), [Macchina](https://github.com/Macchina-CLI/macchina) or [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - System Info Displays / Fetch Tools
+* ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Anifetch](https://github.com/Notenlish/anifetch), [Hyfetch](https://github.com/hykilpikonna/hyfetch), [Macchina](https://github.com/Macchina-CLI/macchina) or [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - System Info Displays / Fetch Tools
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [Impression](https://gitlab.com/adhami3310/Impression) or [Caligula](https://github.com/ifd3f/caligula) - Create Bootable USB Linux Drives
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
@@ -233,6 +233,7 @@
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal Player
 * [⁠tuifi](https://git.sr.ht/~matf/tuifi) - Terminal Audio Player for Hi-Fi Tidal
+* [⁠Volta](https://volta-music.com/) - Audio Streaming / Player / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Plugin-Based Streaming / [Discord](https://discord.gg/85jnfZGfV5) / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [cmus](https://cmus.github.io/) - Audio Player
 * [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player / [Discord](https://discord.com/invite/v4EmhES) / [GitHub](https://github.com/Taiko2k/Tauon)
@@ -602,7 +603,7 @@
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** - File Sharing App
 * ⭐ **[shottr](https://shottr.cc/)** or [⁠Better Shot](https://www.bettershot.site/) / [GitHub](https://github.com/KartikLabhshetwar/better-shot) - Screenshot Tools
 * ⭐ **[Aptonic](https://aptonic.com/)** - Drag-and-Drop Shelf / Quick File Access
-* [Ghostty](https://ghostty.org/) - GPU-Accelerated Terminal Emulator / [GitHub](https://github.com/ghostty-org/ghostty)
+* [Ghostty](https://ghostty.org/) - Terminal Emulator / [GitHub](https://github.com/ghostty-org/ghostty)
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client / [GitHub](https://github.com/Dimillian/IceCubesApp)
 * [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
@@ -702,6 +703,7 @@
 * [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
 * [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
 * [⁠Kaset](https://github.com/sozercan/kaset/) or [WAVE](https://waveapp.pages.dev/) - YouTube Music Clients
+* [⁠Volta](https://volta-music.com/) - Audio Streaming / Player / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) - Audio Equalizer
@@ -738,12 +740,13 @@
 * [⁠MacSteam](https://github.com/Selectively11/macSteam) - Steam Game + DLC Unlocker
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
-* [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
+* [PortingKit](https://www.portingkit.com/) - Run Windows Games on Mac
+* [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games on Mac
+* [⁠Highball](https://github.com/gauthierpiarrette/highball) - Run Windows Games on Apple Silicon
 * [⁠Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - Create Wine Wrapped Game Ports for Mac
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Mythic](https://getmythic.app/) - Epic Games Launcher / [Discord](https://discord.gg/58NZ7fFqPy)
 * [⁠MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) - Frame Generation + Upscaling Tool
-* [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
 * [r/MacGaming](https://www.reddit.com/r/macgaming/) - Mac Gaming Community / [Discord](https://discord.gg/MgJsb5m)
 * [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
 

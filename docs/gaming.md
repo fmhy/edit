@@ -15,7 +15,7 @@
 * ↪️ **[Game Download Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_game_launchers)** - Launchers with Built-In Downloading & Torrenting
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
 * ⭐ **[⁠GOG Revived](https://gog-rev.com/)** - Download / Torrent / GOG Games Only / [Discord](https://discord.gg/pH6avrdHHC)
@@ -269,7 +269,7 @@
 * [Peacock](https://thepeacockproject.org/) - Hitman World of Assassination Server Replacement / [GitHub](https://github.com/thepeacockproject/Peacock)
 * [⁠Lunar Tear](https://lunar-tear.com/) - NieR Reincarnation Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
-* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) / [GitHub](https://github.com/CleverRaven/Cataclysm-DDA/) or [⁠Cataclysm: Bright Nights](https://github.com/cataclysmbn/Cataclysm-BN) / [Discord](https://discord.gg/XW7XhXuZ89) - Cataclysm Fan Fork / Roguelike Survival RPG 
+* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) / [Wiki / Resources](https://www.reddit.com/r/cataclysmdda/comments/1tlw06n/) / [GitHub](https://github.com/CleverRaven/Cataclysm-DDA/) or [⁠Cataclysm: Bright Nights](https://github.com/cataclysmbn/Cataclysm-BN) / [Discord](https://discord.gg/XW7XhXuZ89) - Cataclysm Fan Fork / Roguelike Survival RPG 
 
 ***
 
@@ -498,6 +498,7 @@
 * [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [⁠Brain Bashers](https://www.brainbashers.com/) - Multiple Puzzle Games
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [⁠Murdoku](https://murdoku.com/play/) - Weekly Murder Mystery Puzzles / [Discord](https://discord.com/invite/frYbdPpkSH)

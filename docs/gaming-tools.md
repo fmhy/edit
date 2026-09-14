@@ -51,7 +51,7 @@
 
 ## ▷ Game Launchers
 
-* **Note** - Many of these launchers also allow you to download or torrent games directly within them.
+* **Note** - Many of these launchers also allow you to download or torrent games directly within them. If torrenting remember to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) and [bind](https://wispydocs.pages.dev/torrenting/) it to your [client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) if it allows.
 
 ***
 
@@ -712,7 +712,7 @@
 
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
-* [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SkLauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
+* [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
@@ -796,6 +796,7 @@
 * ⭐ **[Minecraft Java Flags](https://exa.y2k.diy/garden/jvm-args/)** - Java Edition Performance Tweaks
 * ⭐ **[MCPropertyEncyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/)** - Block Property Encyclopedia / [Discord](https://discord.com/invite/RUEVmTahYg)
 * [MCTools](https://mc-tools.net/) - Minecraft Creator Tools
+* [⁠bedrock.dev](https://bedrock.dev/) - Bedrock Documentation
 * [Report Inspector](https://misode.github.io/report/) or [mclo.gs](https://mclo.gs/) / [GitHub](https://github.com/aternosorg/mclogs-integration) - Logs Inspecting & Sharing
 * [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools & Calculators
 * [Enchant Order](https://iamcal.github.io/enchant-order/) - Minecraft Enchantment Ordering Tool
@@ -1076,7 +1077,7 @@
 ## ▷ Doom Tools
 
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - Doom Wiki
-* ⭐ **[UZDoom](https://www.zdoom.org/downloads)** - Doom Source Port
+* ⭐ **[UZDoom](https://www.zdoom.org/downloads)** - Doom Source Port / [GitHub](https://github.com/UZDoom/UZDoom)
 * ⭐ **[ZDaemon](https://www.zdaemon.org/)**, **[Doomseeker](https://doomseeker.drdteam.org/)**, [Odamex](https://odamex.net/), [DoomUtils](https://doomutils.ucoz.com/) or [Zandronum](https://zandronum.com/) / [Hosting / WADs](https://allfearthesentinel.com/) - Online Multiplayer Doom
 * [⁠Rip N' Tear Launcher](https://github.com/Zendevve/RNT-Launcher) - DOOM Mod Manager + Launcher / [Discord](https://discord.gg/Y4rDyTScPe)
 * [Classic DOOM](https://classicdoom.com/) - Doom Console Port Encyclopedia / Documents

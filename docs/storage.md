@@ -403,8 +403,8 @@
 * ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
-* [⁠3DIcons](https://3dicons.co/) - 3D SVG Icons
 * ⭐ **[SVGL](https://svgl.app/)**, [Dashboard Icons](https://dashboardicons.com/) or [selfh.st](https://selfh.st/icons/) / [GitHub](https://github.com/selfhst/icons) - Company / Program Icons
+* [⁠3DIcons](https://3dicons.co/) - 3D SVG Icons
 * [heroicons-animated](https://www.heroicons-animated.com/) or [lucide-animated](https://lucide-animated.com/) - Animated Icons
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 

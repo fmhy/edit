@@ -879,6 +879,7 @@
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
 * [NewPipe](https://newpipe.net/) - Multi-Platform Streaming / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [Redomi](https://github.com/acszo/Redomi/) - Multi-Platform Streaming
+* [⁠Volta](https://volta-music.com/) - Multi-Platform Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [Echo](https://echomusicdocs.vercel.app/) - Multi-Platform Streaming / [Discord](https://discord.com/invite/J3WvbBUU8Z) / [GitHub](https://github.com/brahmkshatriya/echo)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Multi-Platform Streaming / [Discord](https://discord.gg/85jnfZGfV5) / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [⁠Eclipse](https://eclipsemusic.app/) - Multi-Platform Streaming / [Discord](https://discord.gg/sNG37F27eY)
@@ -988,7 +989,7 @@
 
 * ↪️ **[Android TV / Firestick](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_android_tv_.2F_firestick)**
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioStreaming)**, [2](https://nuvio.tv/) - Movies / TV / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H)
+* ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioTV)**, [2](https://nuvio.tv/) - Movies / TV / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H)
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
@@ -1353,6 +1354,7 @@
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music / Ad-Free / FLAC
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / [Discord](https://discord.gg/64fVZ2QdZ9)
+* [⁠Volta](https://volta-music.com/) - Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [Audiomack](https://apps.apple.com/app/id921765888) - Streaming
 * [Deezer](https://apps.apple.com/app/id292738169) - Streaming / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Spotify](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - Streaming

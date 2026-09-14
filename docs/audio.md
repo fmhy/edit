@@ -8,7 +8,7 @@
 
 ## ▷ Streaming Apps
 
-* 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** or [Wiki Comparisons](https://wikipedia.org/wiki/Comparison_of_music_streaming_services) - Streaming Service Comparisons
+* 🌐 **[Wiki Comparisons](https://wikipedia.org/wiki/Comparison_of_music_streaming_services)** - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
@@ -18,6 +18,7 @@
 * [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
+* [⁠Volta](https://volta-music.com/) - Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
@@ -35,6 +36,7 @@
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
+* [⁠Volta](https://app.volta-music.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music / US Only
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
@@ -504,6 +506,7 @@
 * [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
 * [ElectronicFresh](https://electronicfresh.com/) - Electronic / MP3
 * [r/xTrill](https://reddit.com/r/xTrill) - Electronic / [Backup](https://reddit.com/r/xTrillBackup)
+* [⁠Die or DIY](https://dieordiy2.blogspot.com/) - Underground Electronic
 * [EssentialHouse](https://essentialhouse.club/) - House / MP3
 * [1Trance](https://1trance.org/) - Trance / MP3
 * [1Techno](https://1techno.org/) - Techno / MP3
@@ -516,11 +519,14 @@
 * [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
 * [Take Metal](https://takemetal.org/) - Metal / MP3
+* [⁠Old School Metal Music](https://oldschoolmetalmusicz.blogspot.com/) - Metal / MP3
 * [Cova-Argh!!!!](https://josephbarulho.blogspot.com/) - Metal / MP3
 * [Metalminos](https://metalminos.net/) - Metal / MP3
 * [In The Fog](https://in-the-fog.ru/) - Metal / MP3
 * [TechnicalDeathMetal](https://technicaldeathmetal.org/) - Metal / MP3
 * [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
+* [⁠With The Song Of Life](https://forwardwiththesong.blogspot.com/) - Classic Music / Compilations / MP3
+* [⁠Urban Asprines](https://urbanaspirines.blogspot.com/) - Classic Rock / Psychedelic / FLAC
 * [ProgRockVintage](https://www.progrockvintage.com/) - Classic Rock / MP3
 * [⁠Paradise of Garage Comps](https://paradiseofgaragecomps.blogspot.com/) - Garage Rock / MP3
 * [F.P.F.T.P.](https://fpftp.blogspot.com/) - Punk / MP3 / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -770,7 +776,7 @@
 ## ▷ Audio Players
 
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
-* ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Feature-Rich Audio Player / Windows, macOS, Linux, Android, iOS
+* ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Feature-Rich Audio Player / Windows, macOS, Android, iOS
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics) / [Wiki](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000)
 * ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android
@@ -787,6 +793,7 @@
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
+* [⁠Volta](https://volta-music.com/) / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [Snowify](https://snowify.cc/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
@@ -1028,6 +1035,7 @@
 * [⁠osci-render](https://osci-render.com/) - Audio-Visual Music Making Plugin / [GitHub](https://github.com/jameshball/osci-render)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Polyphonic Sampler
+* [MonkSynth](https://github.com/JonET/monksynth) - Monophonic Vocal Synthesizer Plugin / [Web](https://jonet.github.io/delaylama-web-demo/)
 * [Maim](https://github.com/ArdenButterfield/Maim) - Audio Distortion Plugin
 * [r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 

@@ -27,6 +27,8 @@
 * ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
 * [DevURLs](https://devurls.com/) - Dev News
 * [daily.dev](https://app.daily.dev/posts) - Dev News
+* [⁠Frontend Dogma](https://frontenddogma.com/) - Web Dev News Aggregator
+* [CyberInsider](https://cyberinsider.com/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
 * [hackertab.dev](https://hackertab.dev/) - Dev Browser Startpages / [GitHub](https://github.com/medyo/hackertab.dev)
 
@@ -165,8 +167,8 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** or [Forgejo](https://forgejo.org/compare/#only-develops-free-software) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
 * ⭐ **[Fork](https://git-fork.com/)** or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
-* ⭐ **[Codeberg](https://codeberg.org/)** / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [⁠git.gay](https://git.gay/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
-* [Gitea](https://about.gitea.com/) or [Forgejo](https://forgejo.org/) - Self-Hosted Repository Platforms
+* [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
+* [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
 * [GitKraken](https://www.gitkraken.com/), [Ungit](https://github.com/FredrikNoren/ungit) or [RelaGit](https://rela.dev/) - Git GUIs
@@ -231,7 +233,7 @@
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** / [Desktop App](https://www.docker.com/products/docker-desktop/) - Build, Manage and Run Apps in Containers
 * ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) - Root-less, Daemon-less, Open Source Docker Alternative / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose)
-* ⭐ **[Portainer](https://portainer.io/)**, [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
+* ⭐ **[Portainer](https://portainer.io/)**, [Dockhand](https://dockhand.pro/) / [GitHub](https://github.com/Finsys/dockhand), [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)** - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [LazyDocker](https://github.com/jesseduffield/lazydocker), [oxker](https://github.com/mrjackwills/oxker), [Arcane](https://getarcane.app/) / [GitHub](https://github.com/getarcaneapp/arcane) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
@@ -543,6 +545,7 @@
 * [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
 * [⁠Pi](https://pi.dev/) - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
 * [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)
+* [⁠cmux](https://cmux.com/) - Terminal Coding Agent / Emulator / macOS / [GitHub](https://github.com/manaflow-ai/cmux)
 * [⁠Poolside AI](https://docs.poolside.ai/api/overview) - Coding AI API
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
@@ -992,6 +995,7 @@
 * ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
+* [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App

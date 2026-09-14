@@ -149,6 +149,7 @@
 * [nLab Physics](https://ncatlab.org/nlab/show/higher+category+theory+and+physics) - Physics Encyclopedia
 * [Algodoo](https://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
+* [⁠Quantum Flytrap](https://quantumflytrap.com/) - Interactive Quantum Mechanics Virtual Lab
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
 * [Physics Forums](https://www.physicsforums.com/) - Physics / Science Forum
 * [Physics Olympiads](https://discord.gg/wyGAa49) - ISODN Physics Discord Community
@@ -327,6 +328,7 @@
 * [⁠Nature This Week](https://naturethisweek.com/) - View Nature / Biology News from any Location
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
 * [LibreTexts Biology](https://bio.libretexts.org/Bookshelves) - Biology Learning / Guides
+* [Bodily Oddities](https://vester.si/bodily-oddities/) - Human Anatomy Oddities Catalog 
 * [Project ⁠Alveus Sanctuary](https://www.alveussanctuary.org/) - 24/7 Educational Wildlife Live Streams / Conservation Project
 * [⁠BioNinja](https://ib.bioninja.com.au/) - IB Biology Reference / Study Guide
 * [⁠The Biology Project](https://biology.arizona.edu/) - Biology Problem Sets & Tutorials
@@ -345,7 +347,7 @@
 * [⁠BirdLife DataZone](https://datazone.birdlife.org/) - Bird Conservation Information
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
-* [Merlin](https://play.google.com/store/apps/details?id=com.labs.merlinbirdid.app) or [whoBIRD](https://f-droid.org/fr/packages/org.woheller69.whobird/) - Bird Picture / Sound Identification
+* [Merlin](https://play.google.com/store/apps/details?id=com.labs.merlinbirdid.app), [BirdNET](https://birdnet.cornell.edu/) or [whoBIRD](https://f-droid.org/fr/packages/org.woheller69.whobird/) - Bird Picture / Sound Identification
 * [Featherbase](https://www.featherbase.info/en/home) - Bird Feather Database
 * [BugGuide](https://bugguide.net/) - Insect Identification Community
 * [AntWeb](https://www.antweb.org/) - Ant Species Database
@@ -397,6 +399,8 @@
 * [Passmedicine](https://www.passmedicine.com/ucat/) - UCAT Practice Questions
 * [UCAT Score](https://codepen.io/souramoo/full/OJMQzVm) - UCAT Score Converter
 * [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - Community for Medical Anki Cards
+* [Erowid](https://www.erowid.org/), [dose.wiki/](https://dose.wiki/) or [Shroomery](https://www.shroomery.org/) - Educational Psychoactive Substance Reference
+* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Educational Psychonautics & Pharmacology Database
 
 ***
 
@@ -450,12 +454,12 @@
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](https://omgspace.net/) - Solar System Scale Model
 * [Astrogeology](https://astrogeology-usgs.hub.arcgis.com/pages/map-search) - Planetary Maps
-* [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
+* [⁠Eyes on Exoplanets](https://eyes.nasa.gov/apps/exo) or [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Explorers / Viewers
 * [ExoplanetArchive](https://exoplanetarchive.ipac.caltech.edu/) - Exoplanet Database
 * [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
 * [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
-* [ESAsky](https://sky.esa.int/) - Public Astronomical Data
+* [ESAsky](https://sky.esa.int/esasky/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) / [GitHub](https://github.com/Stellarium/stellarium) - Virtual Stellariums
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data / [Home Page](https://worldwidetelescope.org/home/) / [GitHub](https://github.com/WorldWideTelescope)
 * [ESA Hubble](https://esahubble.org/) / [X](https://x.com/hubble_space), [SpaceTelescopeLive](https://spacetelescopelive.org/) / [X](https://x.com/spacetelelive) or [HubbleSite](https://science.nasa.gov/mission/hubble/) / [X](https://x.com/NASAHubble) - Hubble Telescope Images
@@ -641,6 +645,7 @@
 * 🌐 **[⁠WW2 Links](https://ww2links.ca/)** - Educational WW2 Resources
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Armaments Museum / [X](https://x.com/Royal_Armouries)
+* [⁠Battle Order](https://www.battleorder.org/) - Historical Military Infographics / [X](https://x.com/battle_order)
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
 * [⁠World War II Database](https://ww2db.com/) or [⁠HyperWar](https://www.ibiblio.org/hyperwar/) - WW2 History Databases
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
@@ -651,6 +656,7 @@
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
+* [Shipbucket](https://www.shipbucket.com/) - Scale Drawings & Blueprints of Naval Ships / [Discord](https://discord.com/invite/5PHq8Dk)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
@@ -695,6 +701,7 @@
 * [Rulers.org](https://rulers.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
 * [OpenSanctions](https://www.opensanctions.org/) - Government Sanctions Database / [GitHub](https://github.com/opensanctions/opensanctions)
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [SIPRI Database](https://www.sipri.org/databases) - Global Military Data
 * [DataUNODC](https://data.unodc.org/) - Drug / Crime Statistics
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
@@ -829,8 +836,6 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [⁠ExplOri 22.5](https://225.designorigami.net/) - 22.5 Degree Origami Design Tool / [Discord](https://discord.com/invite/5YcGh8b9yC)
-* [Erowid](https://www.erowid.org/) or [Shroomery](https://www.shroomery.org/) - Psychoactive Information / Forum
-* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Psychonautics Wiki
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 
 ***
@@ -1042,7 +1047,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free), [⁠Language Link Database](https://universeofmemory.com/language-links-database/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
@@ -1473,6 +1478,7 @@
 * 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
 * ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - Computer Science Book Recommendations
 * ⭐ **[⁠The Borr Project](https://borr.dev/computer-science/)** / [Discord](https://discord.gg/uR2QS36pdH) or **[OSSU Comp Sci](https://github.com/ossu/computer-science)** / [PT-BR](https://github.com/ossu/computer-science-br) / [CN](https://github.com/ossu/computer-science-cn) / [Discord](https://discord.gg/wuytwK5s9h) - Computer Science Roadmap
+* ⭐ **[⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware)** - Computer Science Courses
 * ⭐ **[CS50](https://cs50.harvard.edu/x/)** - Harvard Computer Science Course / [Subreddit](https://www.reddit.com/r/cs50/) / [Telegram](https://t.me/cs50x) / [Discord](https://discord.com/invite/cs50) / [GitHub](https://github.com/cs50)
 * ⭐ **[NandGame](https://nandgame.com/)** - Computer Building Puzzle
 * ⭐ **[CraftingInterpreters](https://www.craftinginterpreters.com/)** - Scripting Language Implementation Book / [GitHub](https://github.com/munificent/craftinginterpreters)
@@ -1487,7 +1493,6 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
 * [CollegeCompendium](https://collegecompendium.org/) - Computer Science Courses
-* [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) - Computer Science Courses
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
@@ -1583,7 +1588,7 @@
 * [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/) or [WebHacking](https://webhacking.kr/) - Cybersecurity Challenges
 * [Skills for All](https://www.netacad.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
 * [⁠Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - Cybersecurity Learning Roadmap
-* [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [TryHackMe](https://tryhackme.com/), [⁠Root Me](https://www.root-me.org/?lang=en) / [Discord](https://discord.com/invite/rootme), [HackTheBox](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons / Learning
 * [Addielamarr](https://publish.obsidian.md/addielamarr/) or [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [⁠WeChall](https://www.wechall.net/) - Cybersecurity Practice Games + Rankings

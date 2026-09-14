@@ -66,7 +66,7 @@
 ## ▷ Upscale / Restore
 
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Hosted
-* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Self-Hosted / Web
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Self-Hosted / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
 * ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://chainner.app/)** - Image Upscaling / Self-Hosted / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
@@ -87,8 +87,8 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[Mosh](https://moshpro.app/)**, [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
-* [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
+* ⭐ **[Mosh](https://moshpro.app/)**, [PhotoFunia](https://photofunia.com/), [⁠Grainrad](https://grainrad.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
+* [glitch2](https://akx.github.io/glitch2/) or [GlitchyImage](https://glitchyimage.com/) - Glitch Images
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
 * [⁠Dual Shades](https://dual-shades.anmolagrawal.dev/) - Generate B&W Images w/ Colorized Subjects
@@ -169,7 +169,7 @@
 * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / Windows, macOS, Linux / [Guide](https://youtu.be/Z4Enx-Nb43E)
-* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, Linux, macOS / [GitHub](https://github.com/LibreSprite/LibreSprite)
+* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, macOS, Linux / [GitHub](https://github.com/LibreSprite/LibreSprite)
 * ⭐ **[Piskel](https://www.piskelapp.com/)** - Pixel Art Editor / Web
 * [rx](https://rx.cloudhead.io/) - Pixel Art Editor / macOS, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
 * [PixiEditor](https://pixieditor.net/) - Pixel Art Editor / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -422,7 +422,7 @@
 ***
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
-* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)** or **[Downloader.la](https://downloader.la/)** - Paid Stock Photo Downloaders
+* ⭐ **[DownPic](https://downpic.cc)** or **[Downloader.la](https://downloader.la/)** - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
 * [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
 * [Pixabay](https://pixabay.com/) - Stock Photos
@@ -617,7 +617,7 @@
 * [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-Platform CSG CAD Modeling
 * [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
 * [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
-* [CadHub](https://cadhub.xyz/), [CAD Mapper](https://cadmapper.com/) or [GrabCAD](https://grabcad.com/library) - Free CAD Files
+* [CadHub](https://cadhub.xyz/), [CAD Mapper](https://cadmapper.com/, [⁠CAD Blocks](https://cad-blocks.net/) or [GrabCAD](https://grabcad.com/library) - Free CAD Files
 
 ***
 
@@ -897,7 +897,7 @@
 * [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
-* [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) / [X](https://x.com/Blackmagic_News), [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee), [⁠LightZone](https://github.com/ktgw0316/LightZone) or [Lightroom Classic on Linux](https://github.com/6im0n/lightroom-classic-on-linux) - RAW Photo Editors / Windows, macOS, Linux
+* [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) / [X](https://x.com/Blackmagic_News), [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee), [FerrumPix](https://ferrumpix.app/) / [GitHub](https://github.com/Bitpainter75/FerrumPix), [⁠LightZone](https://github.com/ktgw0316/LightZone) or [Lightroom Classic on Linux](https://github.com/6im0n/lightroom-classic-on-linux) - RAW Photo Editors / Windows, macOS, Linux
 * [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
 * [⁠Photons to Photos](https://www.photonstophotos.net/) - Photographic Sensor Performance Data

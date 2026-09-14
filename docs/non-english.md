@@ -466,7 +466,7 @@
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
-* [Movix](https://movix.chat/) - Movies / TV / Anime / Use Adblocker / [Status](https://movix.online/)
+* [Movix](https://movix.chat/) - Movies / TV / Anime / Use Adblocker / [Status](https://movix.online/) / [GitHub](https://github.com/movixcorp/MovixOpenSource)
 * [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
 * [nakastream](https://nakastream.tv/) - Movies / TV / Anime / [Status](https://nakastream.wiki/) / [Telegram](https://t.me/nakastreamtv) / [Discord](https://discord.gg/SMyrCzWnhV)
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
@@ -535,7 +535,7 @@
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [animexx](https://www.animexx.de/) - German Anime Community
 * [WiiDatabase](https://wiidatabase.de/) - Nintendo Homebrew
-* [⁠BetterBahn](https://github.com/l2xu/betterbahn) - Train Changeover App
+* [⁠BetterBahn](https://betterbahn.eu/) - Train Changeover App / [Mobile](https://github.com/l2xu/betterbahn)
 * [⁠FirstWeek](https://www.firstweek.de/) or [All About Berlin](https://allaboutberlin.com/) - Expat Guides / Relocation Tools
 * [F-Online](https://app.f-online.at/) - Austrian Driving License Learning App
 * [Signsuisse](https://www.sgb-fss.ch/signsuisse/), [GebaerdenLernen](https://gebaerdenlernen.de/) or [SignDict](https://signdict.org) - German Sign Language Dictionaries / Learning
@@ -1017,6 +1017,7 @@
 * [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
 * [imvbox](https://www.imvbox.com/) - Movies / TV / Sub
 * [hikoca](https://persiamovbox.com/) - Movies / TV
+* [Cineverse](https://streaming.cineverse.com/) - Free w/ Ads
 * [ParsaTV](https://www.parsatv.com/) - Live TV
 * [Split TV](https://split-tv.co.il/) - Live News / Split Screen
 * [Awesome Persian Podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
@@ -1669,6 +1670,7 @@
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime / Region Locked
+* [⁠AniHub](https://anihub.com.tr/) - Anime / Region Locked
 * [Türk Anime](https://www.turkanime.co/) - Anime / Region Locked / [Downloader](https://github.com/KebabLord/turkanime-indirici) 
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons

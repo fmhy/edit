@@ -928,6 +928,7 @@
 ## ▷ Comic Tracking / Databases
 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
+* [Omnibus Tracker](https://omnibusreaders.com/) - Comic Tracking / Database / Releases / Sales Tracking / [Discord](https://discord.gg/8N3sgZbV5H)
 * [⁠Comic Vine](https://comicvine.gamespot.com/) - Comic Database / Forum
 * [⁠Grand Comics Database](https://www.comics.org/) - Comic Database
 * [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker

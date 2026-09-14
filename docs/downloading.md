@@ -100,7 +100,7 @@
 * [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) - Drive Sharing Community
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Open Directory Indexer
-* [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php) or [scene.org](https://files.scene.org/) - Demoscene Archives
+* [DemoZoo](https://demozoo.org/), [Pouet](https://www.pouet.net/prodlist.php), [Curio](https://curio.scene.org/) or [scene.org](https://files.scene.org/) - Demoscene Archives
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/) - Scene / Sub-Scene Database
 
