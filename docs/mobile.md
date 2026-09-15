@@ -1235,6 +1235,7 @@
 * [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
 * [Feather](https://github.com/khcrysalis/Feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
+* [CertDrop](https://certdrop.app/) - Apple Developer Certificate Provider / .p12 + .mobileprovision / iPhone & iPad
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - App Signer / Fork of Feather
 * [LiveContainer](https://github.com/LiveContainer/LiveContainer) - iOS App Container Launcher
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
