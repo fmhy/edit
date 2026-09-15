@@ -112,24 +112,24 @@
 
 ***
 
-* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+* ⭐ **[Internet Archive](https://archive.org/)** - Video / Audio / Books / Magazines / Newspapers / Game / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[r/DataHoarder](https://reddit.com/r/DataHoarder)** or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/) - Data Hoarding Communities
-* [MaxRelease](https://max-rls.com/) - Video / Audio / Magazines
-* [SCNLOG](https://scnlog.me/) - Video / Audio / ROMs / Books
-* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
-* [WorldSRC](https://www.worldsrc.net/) - Video / Audio
+* [MaxRelease](https://max-rls.com/) - Application / Audio / Movies / TV Shows / Magazines
+* [SCNLOG](https://scnlog.me/) - Movies / TV Shows / Games / Apps / Music / PDA / Ebooks / Foreign / XXX
+* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Movies / Music / Game / (e)Books / Applications / MViDz / TV
+* [WorldSRC](https://www.worldsrc.net/) - Movies / Games / Music / APK / Software / Series
 * [AditHD](https://www.adit-hd.com/) - Video / Audio / Books
 * [wJungle](https://wjungle.net/) - Audio / Books / NSFW / Requires Sign-Up
 * [Novanon](https://novanon.net/) - Audio / Magazines / Comics / Books / Courses
-* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
-* [Psycho downloads](https://psychodownloads.com/) - Audio / Books / Magazines
+* [ReleaseBB](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](https://rlsbb.in/) - Applications / Foreign Movies / Foreign TV Shows / Games / Magazines / Movies / Music / TV Shows / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
+* [Psycho downloads](https://psychodownloads.com/) - Applications / Movies / TV Shows / Music / Games
 * [Merlin Warez](https://merlinwz.com/) - Audio / Books / Audiobooks / Comics / Magazines
-* [1DDL](https://1ddl.org/) - Audio / Books / Comics / Magazines
-* [WarezLoad](https://warezload.net/index.php) - Audio / Books
-* [Katz DDL](https://katzddl.net/) - Audio / Books / NSFW
-* [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
-* [downTURK](https://www.downturk.net/) - Audio / Books
-* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
+* [1DDL](https://1ddl.org/) - Movies / TV Shows / Music / Games / eBooks / Application
+* [WarezLoad](https://warezload.net/index.php) - Films / TV Shows / Softwares / eBooks / Music / Games / WarezLoad Upload
+* [Katz DDL](https://katzddl.net/) - Application / Movies / TV / Music / Games / eBooks / Magazines / XXX
+* [TehParadox](https://www.tehparadox.net/) - Movies / TV / Softwares / eBooks / Magazine / Games / Music / Wallpapers / XXX
+* [downTURK](https://www.downturk.net/) - Software / Game / Design / eBooks / Magazines / AudioBooks / Movies / Music
+* [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / Movies / TV / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
 
 ***
 
