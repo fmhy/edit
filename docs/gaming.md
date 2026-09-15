@@ -708,6 +708,7 @@
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Level Share Square](https://levelsharesquare.com/) - Custom Mario Fangame Maps
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [⁠Cut the Rope Home](https://ctrhome.github.io/play/) - Cut the Rope Games
 * [Club Penguin Legacy](https://play.cplegacy.com/) or [Club Penguin Journey](https://cpjourney.net/) - ⁠Club Penguin Revivals / [Servers](https://penguintrack.com/)
 * [Snubby](https://rentry.co/FMHYB64#sr-game) - Browser Slime Rancher
@@ -733,11 +734,10 @@
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Discord](https://discord.gg/aB6ucmx) / [GitHub](https://github.com/bemusic/bemuse)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
-* [DB Evolution](https://www.txori.com/dbdevolution) - Dragon Ball Fighting Game
 * [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
-* [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game 
+* [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game / Requires Sign-Up
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game
 * [⁠Messenger](https://messenger.abeto.co/) - Relaxing 3D Delivery Game

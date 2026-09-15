@@ -694,7 +694,6 @@
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/), [Worlddata](https://www.worlddata.info/), [⁠OpenFactBook](https://openfactbook.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - World Data Visualizations
-* [EverySecond](https://everysecond.io/) - Visualize Per Second World Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [⁠CityPopulation](https://citypopulation.de/) - Location / Population Data
 * [City Data](https://www.city-data.com/) - US City Data

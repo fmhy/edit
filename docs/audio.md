@@ -385,7 +385,6 @@
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
-* [EzConv](https://ezconv.cc/) - YouTube / 320kb MP3
 * [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3
 * [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC

@@ -166,7 +166,7 @@
 * 🌐 **[Console](https://console.substack.com/)** - Search Projects on OpenSourceHub.io
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** or [Forgejo](https://forgejo.org/compare/#only-develops-free-software) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
-* ⭐ **[Fork](https://git-fork.com/)** or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
+* ⭐ **[Fork](https://git-fork.com/)** (infinite trial) or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
 * [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
@@ -968,12 +968,14 @@
 * [⁠3DSVG](https://3dsvg.design/) - 3D SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [SVGArtista](https://svgartista.net/) or [⁠SVG Studio](https://svgstudio.org/) - SVG Animation Tools
+* [⁠morphicons](https://www.morphicons.com/) - SVG Icon Morphing Tool / [GitHub](https://github.com/guillermolg00/morphicons)
 * [FrameSVG](https://framesvg.romelium.cc/) - GIF to Animated SVG / [GitHub](https://github.com/Romelium/FrameSVG)
 * [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn How to Code SVG Images
 * [SVGX](https://svgx.app/) - SVG Assets Manager
 * [Vector Express](https://vector.express/) - Vector Converters
 * [svgco](https://svgco.de/) or [⁠SVGFast](https://svgfast.com/) - Image to SVG Converters
+* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs

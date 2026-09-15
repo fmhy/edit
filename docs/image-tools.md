@@ -186,7 +186,6 @@
 * [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Editor / Windows, macOS, Linux, Android
 * [PixelartVillage](https://pixelartvillage.com/), [⁠Pixel Art Village](https://pixelartvillage.org/), [⁠Pixel Converter](https://pixel-converter.ameniwa.com/), [Pixel It](https://giventofly.github.io/pixelit/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixel Art Converters / Web
 * [GB Dot Converter](https://deepblizzard.itch.io/gb-dot-converter) - Image to Game Boy Style Art Converter / Web
-* [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [⁠Makapix Club](https://makapix.club/) - Pixel Art Sharing + Editor for LED/DIY Devices
 * [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor / Windows, macOS, Linux, Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
 * [⁠The Spriters Toolkit](https://tools.spriters-resource.com/) - Sprite Sheet Toolkit / Web

@@ -512,7 +512,7 @@
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)
 * [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
 * [RenderChan](https://morevnaproject.org/renderchan/) - 2D Animation Render Manager
-* [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
+* [Mandelbulber](https://mandelbulber.com/) / [GitHub](https://github.com/buddhi1980/mandelbulber2) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools

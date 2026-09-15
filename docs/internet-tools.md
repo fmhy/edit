@@ -572,11 +572,14 @@
 
 ***
 
-# ► Browser Startpages
+# ► Startpages / New Tab Pages
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
 * 🌐 **[Startpage Emporium](https://startpages.github.io/)** - Startpage Index
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
+* ⭐ **[Anori](https://anori.app/)** / [GitHub](https://github.com/OlegWock/anori)
+* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue)
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr)
 * ⭐ **[WebOasis](https://ndsamuelson.github.io/weboas-is/)**, [2](https://wobblemaster.blogspot.com/), [3](https://weboasis.pages.dev/), [4](https://parrotdevelopers.github.io/WebOasis/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * [r/startpages](https://www.reddit.com/r/startpages/)
 * [8bitdash](https://www.8bitdash.com/)
@@ -584,8 +587,19 @@
 * [Clippingmini](https://www.clippingmini.com/)
 * [Pearltrees](https://www.pearltrees.com/)
 * [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
+* [⁠KBNT](https://kbnt.ghomistty.com/)
 * [Cling](https://cling.com/)
 * [FMHY Startpage](https://fmhy.net/startpage)
+* [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
+* [mtab](https://github.com/maxhu08/mtab)
+* [nightTab](https://github.com/zombieFox/nightTab)
+* [⁠TablissNG](https://github.com/BookCatKid/TablissNG/)
+* [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab)
+* [hexagonTab](https://github.com/zombieFox/hexagonTab)
+* [Perfect Home](https://github.com/perfect-things/perfect-home)
+* [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
+* [Infinity New Tab](https://en.infinitynewtab.com/)
+* [Momentum](https://momentumdash.com/)
 * [⁠Re-Start](https://github.com/refact0r/re-start)
 * [Symbaloo](https://www.symbaloo.com/)
 * [Tixio](https://tixio.io/)
@@ -597,24 +611,6 @@
 * [AllMyFaves](https://allmyfaves.com/)
 * [start.me](https://start.me/)
 * [Combobox](https://combobox.me)
-
-***
-
-## ▷ Custom New Tab Pages
-
-* ⭐ **[Anori](https://anori.app/)** / [GitHub](https://github.com/OlegWock/anori)
-* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue)
-* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr)
-* [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
-* [mtab](https://github.com/maxhu08/mtab)
-* [nightTab](https://github.com/zombieFox/nightTab)
-* [⁠TablissNG](https://github.com/BookCatKid/TablissNG/)
-* [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab)
-* [hexagonTab](https://github.com/zombieFox/hexagonTab)
-* [Perfect Home](https://github.com/perfect-things/perfect-home)
-* [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
-* [Infinity New Tab](https://en.infinitynewtab.com/)
-* [Momentum](https://momentumdash.com/)
 
 ***
 
