@@ -984,7 +984,7 @@
 * [FamiStudio](https://famistudio.org/) - NES Audio Editor / [Discord](https://discord.gg/QRCMe595Pv) / [GitHub](https://github.com/BleuBleu/FamiStudio)
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Game Boy Audio Editor
 * [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Sequencer / Notation Editors
-* [Basic Pitch](https://basicpitch.spotify.com/) - Audio-to-MIDI Converter
+* [Basic Pitch](https://basicpitch.spotify.com/) or [MP3 to MIDI Tool](https://mp3tomiditool.com/) - Audio-to-MIDI Converters
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Fadr](https://fadr.com/) or [StemRoller](https://www.stemroller.com/) / [GitHub](https://github.com/stemrollerapp/stemroller) - STEM Creator / Editors
