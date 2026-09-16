@@ -960,6 +960,7 @@
 * [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
 * [⁠ChromieCraft](https://chromiecraft.com/en/) - F2P WoW Private Server / No Pay-to-Win / [Discord](https://discord.gg/3YaAywYDN7)
 * [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
+* [WoWMate](https://wow-mate.com) - WoW Live Arena Rankings, Player Analysis & Mate Finder
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 
