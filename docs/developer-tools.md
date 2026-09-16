@@ -40,7 +40,7 @@
 
 # ► Developer Tools
 
-* ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
+* ↪️ **[Data Visualization / Diagrams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
 * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ↪️ **[Markup Tools / Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
 * 🌐 **[⁠Awesome Minimalist](https://github.com/neiesc/awesome-minimalist)** - Curated Minimal Dev Frameworks
@@ -167,7 +167,7 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** or [Forgejo](https://forgejo.org/compare/#only-develops-free-software) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
 * ⭐ **[Fork](https://git-fork.com/)** (infinite trial) or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
-* [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [Drift](https://drift.lol/), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [sourcehut](https://sourcehut.org/), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
+* [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
@@ -229,7 +229,7 @@
 
 ## ▷ Docker Tools
 
-* 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
+* 🌐 **[Awesome Docker](https://average.joe.dev/awesome-docker/)** - Docker Services Index / [GitHub](https://github.com/veggiemonk/awesome-docker)
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** / [Desktop App](https://www.docker.com/products/docker-desktop/) - Build, Manage and Run Apps in Containers
 * ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) - Root-less, Daemon-less, Open Source Docker Alternative / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose)
@@ -504,6 +504,7 @@
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/) or [vsixhub](https://www.vsixhub.com/)
 * [VSCodium Guide](https://rentry.co/vscodiumguide) - Install Microsoft Marketplace Extensions
 * [VSCode Web](https://code.visualstudio.com/docs/setup/vscode-web) - VSCode Web Version / Guide
+* [⁠VSCode Neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim Mode for VSCode
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
 * [snippet-generator](https://snippet-generator.app/) - Snippet Generator
@@ -579,6 +580,7 @@
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [⁠Impeccable](https://impeccable.style/) / [GitHub](https://github.com/pbakaus/impeccable) or [⁠Taste Skill](https://www.tasteskill.dev/) / [GitHub](https://github.com/Leonxlnx/taste-skill) - Design Languages for AI Coding Agents
+* [⁠book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Convert Technical Books / Documents to Agent Skills
 * [⁠Anti Slop](https://github.com/miqdadbadjuber/anti-slop) - Prevent Coding Agents Generating Generic Code (aka slop) 
 * [Orca](https://onorca.dev/) - Agentic Development Environment / Parallel Agents / [GitHub](https://github.com/stablyai/orca)
 * [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
@@ -963,7 +965,7 @@
 
 * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
 * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
-* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [Lucide Studio](⁠https://studio.lucide.dev/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
 * [fffuel](https://fffuel.co/) - SVG Generators
 * [⁠3DSVG](https://3dsvg.design/) - 3D SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder

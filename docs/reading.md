@@ -447,6 +447,7 @@
 * [MangaTown](https://www.mangatown.com/)
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
+* [⁠Neoko](https://neoko.site/) / [Discord](https://discord.gg/bcw3dV6Jnt)
 * [MangaHub](https://mangahub.io/)
 * [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
@@ -961,6 +962,7 @@
 * [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
+* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations 
 * [⁠The Book Rex](https://thebookrex.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations

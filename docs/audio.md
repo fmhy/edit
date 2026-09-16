@@ -8,7 +8,7 @@
 
 ## ▷ Streaming Apps
 
-* 🌐 **[Wiki Comparisons](https://wikipedia.org/wiki/Comparison_of_music_streaming_services)** - Streaming Service Comparisons
+* 🌐 **[/music streaming/](https://rentry.co/musicstreaming)** or [Wiki Comparisons](https://wikipedia.org/wiki/Comparison_of_music_streaming_services) - Streaming Service Comparisons
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
@@ -49,7 +49,7 @@
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
 * [⁠VersusMedia](https://watch.versusmedia.com/music-channel) - Independent Music Video Feed
 * [Hype Machine](https://hypem.com/popular) - Rising
-* [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
+* [Bandcamp](https://bandcamp.com/discover/free-music) or [⁠Tent](https://forgejo.sny.sh/sun/Tent) - Free Music Release Platform
 * [Mirlo](https://mirlo.space/) - Free Music Release Platform
 * [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
 * [Audius](https://audius.co/) - User-Made Music
@@ -890,7 +890,7 @@
 
 ## ▷ Karaoke / Synced Lyrics
 
-* ⭐ **[LRCGET](https://github.com/tranxuanthang/lrcget)** - Download Synced Lyrics
+* ⭐ **[LRCGET](https://github.com/tranxuanthang/lrcget)** or [⁠MLDL](https://anik200.github.io/mldl/) - Download Synced Lyrics
 * ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search / [Uploader](https://lrclibup.boidu.dev/) / [GitHub](https://github.com/tranxuanthang/lrclib)
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) or [Karaoke Eternal](https://www.karaoke-eternal.com/) / [Discord](https://discord.gg/PgqVtFq) / [GitHub](https://github.com/bhj/KaraokeEternal/) - Karaoke Apps / Systems
 * [⁠Spotify Karaoke](https://github.com/haroldalan/spotify-karaoke) - Karaoke, Romanization + Translation for Spotify Web Player Lyrics

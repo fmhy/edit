@@ -13,6 +13,7 @@
 * ⭐ **[Ripped](https://ripped.guide/)** - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
 * ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Site Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Site Index
+* ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[privateersclub](https://privateers.wiki/)** - Game Site Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
@@ -218,8 +219,8 @@
 
 ## ▷ Drinks
 
+* ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
-* [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
 * [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
@@ -304,8 +305,8 @@
 # ► Vehicle
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
+*  [LEMON Manuals](https://lemon-manuals.la/), [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.land/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
-* [JDMFSM](https://jdmfsm.info/Auto/), [LEMON Manuals](https://lemon-manuals.la/), [Charm](https://charm.land/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
 * [⁠Auto Catalog Archive](https://autocatalogarchive.com/) - Vehicle Brochures
@@ -328,7 +329,7 @@
 # ► Sports
 
 * 🌐 **[Sports Stat Sites](https://rentry.co/7awch4b9)** - Stat Sites Index
-* 🌐 **[⁠EntertainMe](https://www.entertainme.fun/)** - Sports Calendars
+* 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** or [⁠EntertainMe](https://www.entertainme.fun/) - Sports Calendars
 * 🌐 **[Sports Games](https://rentry.co/c7zwkv9t)** - Mock Sports Draft Game Index
 * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
 * [Sofascore](https://www.sofascore.com/) or [⁠FlashScore](https://www.flashscore.com/) - Sport Scores, Standing & Schedules
@@ -337,6 +338,7 @@
 * [⁠spotrac](https://www.spotrac.com/) - Sports Financial Database / Contracts
 * [The Number Wall](https://thenumberwall.com/) - Jersey Number Database
 * [⁠PROGRID](https://www.progrid.org/) - NFL Calendar / Schedule Chart
+* [⁠CFB.guide](https://cfb.guide/) - College Football Schedule / Scores
 * [Tapology](https://www.tapology.com/) - Combat Sports Predictions
 * [dropkickd](https://dropkickd.com/) - Rate / Track Wrestling Events
 * [CageMatch](https://www.cagematch.net/) - Wrestling Promotion Database
@@ -475,6 +477,7 @@
 * [AP Transit](https://aptransit.co/) - NYC Live Subway Map
 * [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
 * [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
+* [⁠MTR Map](https://hkmtrmap.com/) - Hong Kong Railway Map
 * [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
 * [carto.tchoo](https://carto.tchoo.net/) - France Live Train Map
 * [RailRadar](https://railradar.in/railradar), [2](https://www.railjournal.in/) - India Live Train Map
@@ -546,7 +549,7 @@
 * [topographic-map](https://en-gb.topographic-map.com/), [⁠Caltopo](https://caltopo.com/map.html/) or [OpenTopoMap](https://opentopomap.org/) - Topographic Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS](https://earthquake.usgs.gov/earthquakes/map/) or [Seismic Explorer](https://seismic-explorer.concord.org/) - Earthquake Activity Maps
+* [USGS](https://earthquake.usgs.gov/earthquakes/map/), [EMSC](https://www.emsc.eu/) or [Seismic Explorer](https://seismic-explorer.concord.org/) - Earthquake Activity Maps
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 
 ***
@@ -588,8 +591,8 @@
 ## ▷ Infrastructure Maps
 
 * [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map / [GitHub](https://github.com/openinframap/openinframap/)
+* [⁠IODA](https://ioda.inetintel.cc.gatech.edu/) - Internet Infrastructure Outage Map 
 * [⁠Open Grid Work](https://opengridworks.com/) - Global Electricity Infrastructure Map
-* [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 * [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
 * [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
 * [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps
@@ -598,6 +601,7 @@
 * [⁠Community Network Map](https://communitynets.org/content/community-network-map) - Municipal Networks Map 
 * [Starlink Coverage](https://starlink.sx/) - Starlink Coverage Map / Tracker
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
+* [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 * [Fossil Fuel Map](https://www.fossilfuelmap.com/) - Fossil Fuel Map Dependency Map
 
 ***
@@ -758,10 +762,10 @@
 
 ## ▷ Physical Health
 
+* ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/calculate-your-bmi)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
-* ⭐ **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
@@ -1142,8 +1146,11 @@
 * [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
 * [PicClick](https://picclick.com/) - eBay Quick Search
 * [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
+* [Blu Ray Deals](https://www.blu-ray.com/deals/) - Blu Ray Price Comparisons / Deals
+* [JustWatch Deals](https://www.justwatch.com/us/on-sale) - Digital Movie + Show Deals
 * [⁠Suppose](https://www.suppose.tv/) - Compare TV Providers (US Only)
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
+* [⁠StreamCheck](https://search.streamcheck.pro/) - IPTV Provider Channel Checker
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
 * [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community / [Discord](https://discord.com/invite/fashionreps)

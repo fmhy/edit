@@ -284,7 +284,7 @@
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Google Quick Share](https://www.android.com/quick-share/) - Hybrid / Windows, Android, iOS
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
-* [⁠AlterSend](https://github.com/denislupookov/altersend) - Local / Windows, macOS, Linux, Android, iOS
+* [⁠AlterSend](https://github.com/denislupookov/altersend) - Online / Windows, macOS, Linux, Android, iOS
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, macOS, Linux, Android
 * [croc](https://getcroc.com/ ) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
@@ -334,7 +334,6 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / 500MB Permanent (with account) / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock**
-* [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
@@ -406,6 +405,7 @@
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Requires Sign-Up
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email
+* [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / Webmaster Only / **Use uBlock** / [Discord](https://discord.gg/jaNvVK5zqh)
 * [MultiUp.io](https://multiup.io/) (use uBlock) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below

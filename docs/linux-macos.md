@@ -163,7 +163,7 @@
 * ⭐ **[MangoHud](https://github.com/flightlessmango/MangoHud)** - System Resource Monitor Overlay / [GUI](https://github.com/radiolamp/mangojuice)
 * ⭐ **[⁠LACT](https://github.com/ilya-zlobintsev/LACT/)** - GPU Config + Monitor
 * ⭐ **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, [Archey4](https://github.com/HorlogeSkynet/archey4), [Anifetch](https://github.com/Notenlish/anifetch), [Hyfetch](https://github.com/hykilpikonna/hyfetch), [Macchina](https://github.com/Macchina-CLI/macchina) or [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - System Info Displays / Fetch Tools
-* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
+* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** or [⁠Snapper](https://github.com/openSUSE/snapper) - System Restore / Backup / Snapshots
 * [Impression](https://gitlab.com/adhami3310/Impression) or [Caligula](https://github.com/ifd3f/caligula) - Create Bootable USB Linux Drives
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Monitor / Log System Activity

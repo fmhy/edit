@@ -160,7 +160,7 @@
 
 ## ▷ Social Media Apps
 
-* 🌐 **[/reddit clients/](https://dan.valeena.dev/guides/reddit-clients)** - Reddit Client Comparisons / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
+* 🌐 **[/reddit clients/](https://dan.valeena.dev/guides/reddit-clients)** / [2](https://rentry.co/redditclients) - Reddit Client Comparisons / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ↪️ **[Social Media Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/)**
 * ↪️ **[YouTube Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)**
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
@@ -404,6 +404,8 @@
 * [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
 * [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner) - Scan & Digitize Documents
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
+* [⁠tone](https://tone.yojihan.com/en) - Stencil-Style Image Effect Editor
+
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
 * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
@@ -533,7 +535,7 @@
 * ↪️ **[QR Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_qr_code_tools)**
 * ↪️ **[Hacker News Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)**
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/mobile/)** / [GitHub](https://github.com/thunderbird/thunderbird-android) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/thunderbird.md), [Monocles](https://f-droid.org/packages/de.monocles.mail/) or [FairEmail](https://email.faircode.eu/) - Email Clients
-* ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
+* ⭐ **[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * [PairVPN Hotspot](https://pairvpn.com/hotspot), [Tetherfi](https://github.com/pyamsoft/tetherfi) or [NetShare](https://netshare.app/) - Create Wi-Fi Hotspots
 * [Wolfram Alpha](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Searchable Knowledge Base
 * [Glasswire](https://play.google.com/store/apps/details?id=com.glasswire.android), [⁠Traffic Light](https://github.com/leekleak/traffic-light/) or [DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data Usage Monitors
@@ -627,7 +629,7 @@
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
-* ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://play.google.com/store/apps/dev?id=7909003501452794484) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
+* ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://thesaurus.altervista.org/dictionary) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
 * [Markor](https://fossdroid.com/a/markor.html) or [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) - Text Editors
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers / Android
@@ -1001,6 +1003,7 @@
 * [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
+* [⁠Zangetsu](https://zangetsu.online/) - Movies / TV / Anime / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu)
 * [Z-Stream](http://zstream.mov/apps) - Movies / TV / Anime / P-Stream Fork
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
@@ -1141,6 +1144,7 @@
 * [Untold](https://apps.apple.com/app/id6451427834) - Voice Journal
 * [TrollRecorder](https://github.com/Lessica/TrollRecorder) - Call Recorder / **Check Local Call Recording Laws**
 * [PicsArt](https://picsart.com/apps) - Image Editor
+* [⁠tone](https://tone.yojihan.com/en) - Stencil-Style Image Effect Editor
 * [AnimeGen](https://github.com/cranci1/AnimeGen) - Anime Image Generator / [Discord](https://discord.gg/XR3SrmUbpd)
 * [PhotosBackup](https://rentry.co/FMHYB64#photosbackup) - Increase Google Photo Storage
 * [Picsew](https://apps.apple.com/app/id1208145167) - Screenshot Stitching
@@ -1291,7 +1295,7 @@
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
-* [Decrypted App Store](https://armconverter.com/decryptedappstore), [⁠unfaird](https://decrypt.34306.lol/) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
+* [⁠unfaird](https://decrypt.34306.lol/) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
 
 ***
 
@@ -1310,13 +1314,13 @@
 * [⁠Sa1y0miii](https://t.me/Sa1y0miii) - Tweaked Apps
 * [GLESign](https://t.me/glesign) - Tweaked Apps / Games & Game Ports
 * [TDMBest](https://t.me/tdmbest_ipas) - Game Ports
-* [⁠iOSDecrypted](https://t.me/+ZyDPcj76C99lNzQy) or [⁠IPA Vault](https://t.me/ipavault) - Modded Social Media Apps
+* [⁠IPA Vault](https://t.me/ipavault) - Modded Social Media Apps
 
 ***
 
 ## ▷ Social Media Apps
 
-* 🌐 **[/reddit clients/](https://dan.valeena.dev/guides/reddit-clients)** - Reddit Client Comparisons / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide) 
+* 🌐 **[/reddit clients/](https://dan.valeena.dev/guides/reddit-clients)** / [2](https://rentry.co/redditclients) - Reddit Client Comparisons / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide) 
 * ⭐ **[Kettu](https://www.raincord.dev/kettu)** or **[⁠raincord](https://www.raincord.dev/)** - Modded Discord Client / [Discord](https://discord.gg/qkdPGunwjW) / [Source Code](https://codeberg.org/cocobo1/Kettu) / [GitHub](https://github.com/C0C0B01/Kettu)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [⁠Hydra](https://hydraapp.io/) / [Discord](https://discord.com/invite/ypaD4KYJ3R) / [GitHub](https://github.com/dmilin1/hydra), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/redditfilter-note.md), [Apollo Reborn](https://apolloreborn.app/) / [Subreddit](https://www.reddit.com/r/ApolloReborn/) / [GitHub](https://github.com/Apollo-Reborn/Apollo-Reborn) or [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients

@@ -243,6 +243,7 @@
 * [LibreTexts Engineering](https://eng.libretexts.org/Bookshelves) - Engineering Learning / Guides
 * [⁠Lunchbox Sessions](https://www.lunchboxsessions.com/) - Interactive Mechanical / Electric Engineering Tutorials
 * [CESDB](https://www.cesdb.com/) or [LavTeam](https://lavteam.org/) - Engineering Software
+* [⁠MatWeb](https://www.matweb.com/) - Engineering Material Property Database
 * [⁠Animated Engines](https://animatedengines.com/) - Engine Animations / Explanations
 * [507 Movements](https://507movements.com/toc.html) - Mechanical Movement Animations
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -656,6 +657,7 @@
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
+* [⁠NavWeaps](https://www.navweaps.com/) - Naval Weapons, Technology and Reunion History 
 * [Shipbucket](https://www.shipbucket.com/) - Scale Drawings & Blueprints of Naval Ships / [Discord](https://discord.com/invite/5PHq8Dk)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
@@ -817,7 +819,7 @@
 * [Make it Yourself](https://makeityourself.org/), [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - DIY Projects / Crafts
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
-* [⁠Craft Yarn Council](https://www.craftyarncouncil.com/instructions_kn.php3) - Knitting + Crochet Learning
+* [⁠Craft Yarn Council](https://www.craftyarncouncil.com/instructions_kn.php3) or [Crocheting101](https://crocheting101.com/) / [2](https://discord.com/invite/uDqE9SQCdZ) - Knitting + Crochet Learning
 * [⁠BraceletBook](https://www.braceletbook.com/) - DIY Bracelet Pattern Database
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [ARRL](https://www.arrl.org/) - Amateur Radio Resources / Learning / [Exam Search](https://www.arrl.org/find-an-amateur-radio-license-exam-session) / [Question Pools](https://www.arrl.org/question-pools)
@@ -1237,7 +1239,6 @@
 * [⁠OpaLingo](https://www.opalingo.com/) - Macedonian Learning Site
 * [⁠Icelandic Online](https://icelandiconline.com/) - Icelandic Learning Courses
 * [⁠Latin & Ancient Greek](https://discord.com/invite/Latin) - Latin & Ancient Greek Learning Community / Discord
-* [⁠ancientgreek.jean.land](https://ancientgreek.jean.land/) - Ancient Greek Learning Site
 
 ***
 
@@ -1331,7 +1332,7 @@
 
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** / [GitHub](https://github.com/PanXProject/awesome-certificates) - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
-* 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
+* 🌐 **[r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)**, [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
 * 🌐 **[Roadmap](https://roadmap.sh/)** - Developer Roadmaps / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * 🌐 **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)** or [Professional Programming](https://github.com/charlax/professional-programming) - Software Engineer Resources
 * ↪️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
@@ -1655,7 +1656,7 @@
 
 * 🌐 **[IBResources](https://ibresources.cc/)** - International Baccalaureate Resources
 * ⭐ **[⁠AP FRQ Archive](https://apfrqs.com/)** or [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [FreeOnlineTest](https://www.freeonlinetest.in/), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
+* [FreeOnlineTest](https://www.freeonlinetest.in/), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/), [⁠ExamsNet](https://examsnet.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [DoubtNut](https://allen.in/dn) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)

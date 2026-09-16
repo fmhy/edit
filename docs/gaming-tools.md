@@ -698,6 +698,7 @@
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization & Admin Guides
 * [Paper](https://papermc.io/software/paper) / [Discord](https://discord.com/invite/papermc) / [GitHub](https://github.com/PaperMC/Paper), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) / [GitHub](https://github.com/PurpurMC/) or [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - Performance Server Software / [Plugins](https://hangar.papermc.io/)
 * [e4mc](https://modrinth.com/mod/e4mc), [⁠e4all](https://modrinth.com/mod/e4all) or [e4mc Retro](https://modrinth.com/mod/e4mc-retro) - Local Server Multiplayer Mods
+* [⁠Player Analytics](https://www.playeranalytics.net/) - Player Analytics Server Plugin
 * [GeyserMC](https://geysermc.org/) / [Discord](https://discord.com/invite/geysermc) / [GitHub](https://github.com/GeyserMC/Geyser) / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) or [ViaVersion](https://viaversion.com/) / [Discord](https://discord.com/invite/viaversion) / [GitHub](https://github.com/ViaVersion) - Server Cross-Play, Proxies & Tunnels
 * [Minekube Connect](https://connect.minekube.com/) / [Discord](https://discord.com/invite/HvQugYx) / [GitHub](https://github.com/minekube/connect-java) - Server Proxy
 * [GrimAC](https://modrinth.com/plugin/grimac) / [GitHub](https://github.com/GrimAnticheat/Grim) - Server Anti-Cheat

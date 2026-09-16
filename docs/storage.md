@@ -111,6 +111,7 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/NLnetLabs/unbound)
+* [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / [GitHub](https://github.com/PUT-Request/Artemis/)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver
 * [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
@@ -375,7 +376,7 @@
 ## SMS Verification Sites
 
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Sign-Up
-* ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
+* ⭐ **[us-phone-number](https://us-phone-number.com/)** or [mianfeijiema](https://mianfeijiema.com/) 
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**

@@ -61,7 +61,7 @@
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
 * [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty) 
-* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
+* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist), [Drift](https://drift.lol/) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
 
@@ -593,6 +593,7 @@
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
+* [⁠Hyperglot](https://hyperglot.rosettatype.com/) - Font Language Support Checker
 * [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 

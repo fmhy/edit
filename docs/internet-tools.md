@@ -10,7 +10,6 @@
 * [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/), [User Scanner](https://github.com/kaifcodec/user-scanner/) or [IUS](https://instantusername.com/) - Check Username Availability
-* [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Errors
 
 ***
 
@@ -171,7 +170,7 @@
 ## ▷ RSS Readers
 
 * ↪️ **[Android RSS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_rss_readers)**
-* ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / Multi-Platform / [Notifier](https://olsh.me/Feedly-Notifier/)
+* ⭐ **[Feedly](https://feedly.com/news-reader)** - RSS Reader / Multi-Platform / [Notifier](https://olsh.me/Feedly-Notifier/)
 * ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / Multi-Platform / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
 * ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader / Multi-Platform / Requires Sign-Up
 * ⭐ **[Feedbro](https://nodetics.com/feedbro/)**, [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/), [Brief](https://github.com/brief-rss/brief) or [Fraidycat](https://fraidyc.at/) - Browser Extensions
@@ -480,6 +479,7 @@
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [MailTicking](https://www.mailticking.com/) - Gmail / 2 Domains
+* [TempmailHub](https://tempmailhub.org/) - Gmail / 30 Mins / 1 Domain
 * [⁠Ghost Inbox (Gmail)](https://temp-gmail.ghostinbox.net/) or [⁠Ghost Inbox](https://ghostinbox.net/) - Gmail / 1 Day / 1 Day / 10 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains

@@ -34,7 +34,7 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881), [2](https://greasyfork.org/en/scripts/490940)
+* ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/490940)
 * ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
 * ⭐ **[Photopea](https://www.photopea.com/)** - Full-Featured
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Full-Featured
@@ -421,7 +421,7 @@
 ***
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
-* ⭐ **[DownPic](https://downpic.cc)** or **[Downloader.la](https://downloader.la/)** - Paid Stock Photo Downloaders
+* ⭐ **[Downloader.la](https://downloader.la/)** or [DownPic](https://downpic.cc) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
 * [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
 * [Pixabay](https://pixabay.com/) - Stock Photos
@@ -743,6 +743,7 @@
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
+* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos)
 * [QuickView](https://github.com/justnullname/QuickView)
 * [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
 * [PhotoQt](https://github.com/luspi/photoqt)

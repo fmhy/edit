@@ -30,7 +30,7 @@
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Scene Release Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [Glitchify Archives](https://glitchify.org/) - Download / ROM Repacks / [Discord](https://discord.gg/pH6avrdHHC)
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [appnetica](https://appnetica.com/) - Torrent / Pre-Installed / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/+MoOJzMf3MJgyMzZi)
+* [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installed / GOG Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/+MoOJzMf3MJgyMzZi)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [⁠Kryoto](https://kryo.to/) - Download / Pre-Installed
@@ -195,7 +195,7 @@
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun Mayhem](https://pixelgunmayhem.net/) / [Discord](https://discord.gg/edfRwZrJFD) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
 * [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II PC Ports / [Discord](https://discord.gg/GfX3pmC)
-* [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
+* [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled), [⁠RecompOne](https://github.com/BlackLabelHQ/RecompOne) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) - Mobile PC Ports / [Telegram](https://t.me/VAlpha_Official)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [⁠Flying With Gauss](https://discord.gg/CqgMJC7zsx) - GoldSrc Game Ports for Android + Other Platforms
@@ -1065,7 +1065,7 @@
 * ⭐ **[GuessTheGame](https://guessthe.game/)** or [Gamedle](https://www.gamedle.wtf/) - Game Guessing Games
 * [The Impossible Quiz](https://www.newgrounds.com/portal/view/365143) - Classic Quiz Browser Game 
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
-* [⁠Protobowl](https://protobowl.com/) - Multiplayer Quiz Bowl Sessions
+* [QBReader](https://www.qbreader.org/play/mp/) or [⁠Protobowl](https://protobowl.com/) - Multiplayer Quiz Bowl Sessions
 * [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
 * [Salty Trivia](https://haitouch.itch.io/salty-trivia) - Comedy Style Trivia Game / [Discord](https://discord.gg/95JWgy9gue)
 * [Online Jeopardy](https://jeopardy.app) - Multiplayer Jeopardy / [GitHub](https://github.com/howardchung/jeopardy)
@@ -1168,7 +1168,7 @@
 * [WorldGuessr](https://www.worldguessr.com/) - GeoGuessr Alt
 * [FreeGuessr](https://freeguessr.com/) - GeoGuessr Alt
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr
-* [Quizzity](https://david-peter.de/quizzity/) - City Guessing Game
+* [Quizzity](https://david-peter.de/quizzity/) or [⁠Sprawl Crawl](https://sprawlcrawl.com/) - City Guessing Games
 * [⁠TVGuessr](https://www.tvguessr.garden/) - Guess Countries by TV Channels
 * [Music Guessr](https://musicguessr.io/) - Guess Countries by Music
 * [Back Of Your Hand](https://backofyourhand.com/) - Local GeoGuessr
