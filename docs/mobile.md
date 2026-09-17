@@ -402,10 +402,9 @@
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [Material Photo Widget](https://github.com/fibelatti/photo-widget) - Homescreen Photo Widget
 * [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner) - Easily Scan & Digitize Photos
-* [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner) - Scan & Digitize Documents
+* [⁠Genius Scan](https://thegrizzlylabs.com/genius-scan) or [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner) - Scan & Digitize Documents
 * [Color Camera](https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera) - Change Image Colors
 * [⁠tone](https://tone.yojihan.com/en) - Stencil-Style Image Effect Editor
-
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [FFShare](https://github.com/caydey/ffshare) - Compress Videos / Images
 * [RealSR](https://github.com/tumuyan/RealSR-NCNN-Android), [Galaxy Enhance-X](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_untouched_apks) (search) or [Superimage](https://superimage.io/) - Image Upscalers
