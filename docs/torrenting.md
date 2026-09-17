@@ -31,14 +31,14 @@
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
+* [BT4G](https://bt4gprx.com/)
+* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
 * [FileMood](https://filemood.com/)
-* [BT4G](https://bt4gprx.com/)
 * [⁠The Black Hole Bay](https://theblackholebay.lol/) - DHT-Based / [Discord](https://discord.gg/Qb2GQqW3Uq)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)

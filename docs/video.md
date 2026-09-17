@@ -60,7 +60,7 @@
 * [All You Can Watch](https://allyoucanwatch.net/) - Movies / TV / Anime / [Telegram](https://t.me/allyoucanwatchh) / [Discord](https://discord.gg/allyoucanwatch)
 * [Flixtrz](https://flixtrz.com/) - Movies / TV / Anime / Auto-Next
 * [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / [Telegram](https://t.me/zxc_stream) / [Discord](https://discord.gg/yv7wJV97Jd)
-* [CinePro](https://cineby.gdn/), [SMovies](https://smovies.co/), [2](https://ffmovies.org/) or [CineFlix](https://fstream.app/) - Movies / TV / Anime
+* [CinePro](https://cineby.gdn/), [2](https://smovies.co/), [3](https://ffmovies.org/), [Cineby (dev)](https://cineby.smoviesx.workers.dev/) or [CineFlix](https://fstream.app/) - Movies / TV / Anime
 * [Boomflix](https://boomflix.qzz.io/), [2](https://boomflix.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/whEBxM3WT2)
 * [Watchott](https://watchott.org/) or [EmnexMovies](https://emnexmovies.tech/) - Movies / TV / Anime / [Discord](https://discord.gg/JurgbRCnR)
 * [Nextbox](https://nextbox.uno/), [2](https://next-box.su/) - Movies / TV / Anime / Auto-Next / [Status](https://nextwork.cc/) / [Telegram](https://t.me/nextbox_uno) / [Discord](https://discord.gg/UHYrFbvu4z)
