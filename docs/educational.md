@@ -1022,7 +1022,7 @@
 * ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [DnD-Books(4e,5e,5.5e)](https://github.com/nazdridoy/dnd-public) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
