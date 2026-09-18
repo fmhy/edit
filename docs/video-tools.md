@@ -81,7 +81,7 @@
 * [Recordly](https://recordly.dev/) / Windows, macOS, Linux / [GitHub](https://github.com/webadderallorg/Recordly)
 * [ShareX](https://getsharex.com/) / Windows / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 * [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / Windows, Linux / [GitHub](https://github.com/vkohaupt/vokoscreenNG)
-* [Cap](https://cap.so/) / Windows, macOS / [GitHub](https://github.com/CapSoftware/Cap)
+* [Cap](https://cap.so/) / Windows, macO, Linux, Web / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap)
 * [Shar.ec](https://shar.ec/) / Web
 * [ScreenREC](https://screen-rec.vercel.app/) / Web / [GitHub](https://github.com/heysagnik/screenREC)
 * [RecordScreen](https://recordscreen.io/) / Web
@@ -114,9 +114,9 @@
 
 ## ▷ Online Processing
 
+* ⭐ **[Autocompressor](https://autocompressor.net/)** - Compress / 2GB / [BlueSky](https://bsky.app/profile/autocompressor.net) / [Discord](https://discord.com/invite/8afxgEpxH4)
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
 * [8mb.video](https://8mb.video/) - Compress / 2GB / [Discord](https://discord.com/invite/UzmzPfX)
-* [Autocompressor](https://autocompressor.net/) - Compress / 2GB / [BlueSky](https://bsky.app/profile/autocompressor.net) / [Discord](https://discord.com/invite/8afxgEpxH4)
 * [Rotato](https://tools.rotato.app/) - Compress / 2GB
 * [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 * [YouCompress](https://www.youcompress.com/) - Compress / 500MB
