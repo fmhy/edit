@@ -235,10 +235,10 @@
 
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
-* [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
-* [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/TdQeMGz3A)
+* [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
+* [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
@@ -326,7 +326,7 @@
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)

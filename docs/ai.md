@@ -203,13 +203,12 @@
 * [Wan AI Image](https://create.wan.video/explore/image/generate?model=wan2.7-pro) - Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up
 * [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)
 * [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
-* [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
 * [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/app/image-to-image) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
 * [⁠PhotoGPT](https://photogpt.io/) - 8 Daily / Multiple Generators / Reset Limits w/ VPN
 * [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up
 * [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
 * [Z-GEN TURBO](https://z-gen-turbo.vercel.app/), [ImageFree](https://imagefree.net/), [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
-* [ERNIE (HF)](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
+* [ERNIE (HF)](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) Editing / Sign-Up
 * [LongCat AI](https://longcat.ai/chat/) - 100 Daily / Editing
 * [⁠ChatGPT Images](https://chatgpt.com/images/) - GPT Image 2 / 8 Daily / Sign-Up
 * [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / 15 Daily / Sign-Up / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
@@ -230,7 +229,6 @@
 * ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)**, [2](https://github.com/MoonRide303/Fooocus-MRE) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
 * ⭐ **[Mochi Diffusion](https://github.com/MochiDiffusion/MochiDiffusion)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/x2kartzxGv)
-* ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/t6rC5RaJQn) / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 * ⭐ **[⁠Amuse](https://github.com/saddam213/AmuseAI)** - Stable Diffusion / [X](https://x.com/Amuse_AI)
 * [SDNext](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Upscaling](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 * [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion)
@@ -321,7 +319,6 @@
 * [LOVO](https://lovo.ai/) / [Discord](https://discord.gg/vWHw5ZKEmk)
 * [SoundofText](https://soundoftext.com/) / No Sign-Up
 * [FreeTTS](https://freetts.com/)
-* [Hume](https://www.hume.ai/) / No Sign-Up
 * [NaturalReaders](https://www.naturalreaders.com/online/) / No Sign-Up
 * [AIVocal](https://aivocal.io/) / Requires Google Account
 * [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts) / No Sign-Up / [Colab](https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)

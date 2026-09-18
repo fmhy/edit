@@ -214,7 +214,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [⁠Spectacle](https://apps.kde.org/spectacle/) or [GPU Screen Recorder](https://git.dec05eba.com/gpu-screen-recorder/) / [GitHub](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - Screen Recorders
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE-MEDIA-DOWNLOADER) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
@@ -337,7 +337,7 @@
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
 * [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset 
-* [⁠Touhou Linux Guide](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
+* [⁠Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/), [2](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
 
 ***
 
@@ -684,11 +684,11 @@
 * ↪️ **[Streaming Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_apps)** / **[Torrent Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_streaming_apps)**
 * ↪️ **[Media Servers / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_media_servers)**
 * ↪️ **[Editing Software](https://rentry.co/FMHYB64#quick-guide)**
-* [IINA](https://iina.io/) - Video Player
-* [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
-* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
-* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co), [⁠Tight Studio](https://tight.studio/) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC / macOS / Infinite Free Trial
+* [IINA](https://iina.io/) - Video Player / [GitHub](https://github.com/iina/iina)
+* [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) / [GitHub](https://github.com/fer0n/Unwatched) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
+* [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
+* [Cap](https://cap.so/) / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) / [GitHub](https://github.com/wulkano/kap), [⁠Tight Studio](https://tight.studio/) / [Subreddit](https://www.reddit.com/r/TightStudio/) / [X](https://x.com/tight_studio) / [Discord](https://discord.gg/zNXQjXSJrJ) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
+* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC + macOS / Infinite Free Trial
 
 ***
 

@@ -305,7 +305,7 @@
 # ► Vehicle
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
-*  [LEMON Manuals](https://lemon-manuals.la/), [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.land/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
+* ⭐ **[Operation CHARM](https://charm.li/)**, [LEMON Manuals](https://lemon-manuals.la/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals

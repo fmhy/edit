@@ -747,9 +747,10 @@
 ## ▷ PHP
 
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
-* [3v4l](https://3v4l.org) - Online PHP Shell
+* [3v4l](https://3v4l.org) - PHP Shell / Web
+* [PHPStan](https://phpstan.org) - PHP Debugger / Web / [GitHub](https://github.com/phpstan/phpstan)
 * [⁠Composer](https://getcomposer.org/) - PHP Dependency Manager / [GitHub](https://github.com/composer/composer)
-* [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) - Run PHP Concurrently
+* [Spatie](https://spatie.be/open-source) - Run PHP Concurrently / [GitHub](https://github.com/spatie/fork)  
 
 ***
 

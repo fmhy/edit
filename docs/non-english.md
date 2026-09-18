@@ -461,7 +461,7 @@
 
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime / Discord Required
 * [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
-* [yablom](https://yablom.com/), [Kordoz](https://www.kordoz.com/) or [Dotriv](https://dotriv.com/) - Movies / TV / Anime
+* [yablom](https://yablom.com/), [ILMIV](https://ilmiv.com/) [kidraz](https://www.kidraz.com/), [Kordoz](https://www.kordoz.com/) or [Ofraz](https://ofraz.com/) - Movies / TV / Anime
 * [French Stream](https://french-stream.one/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
@@ -476,7 +476,6 @@
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [1jour1film0626](https://1jour1film0626.site/) or [wowfilms0626](https://wowfilms0626c.site/) - Movies / TV / Anime / [Telegram](https://t.me/+lAMYb22kXIUxZTY1)
-* [ILMIV](https://ilmiv.com/), [neobam](https://neobam.com/) or [kidraz](https://www.kidraz.com/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integral.top/) - Movies / TV / Anime
 * [flemmix](https://flemmix.kim/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
@@ -714,6 +713,7 @@
 * [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
 * [DesireMovies](https://desiremovies.my/) - Movies / TV / Sub / Dub / 1080p
+* [⁠CloudMoviez](https://new.cloudmoviez.shop/) - Movies / TV / Anime / 1080p
 * [Anime Dub Hindi](https://www.animedubhindi.link/) - Anime / Dub / 1080p
 * [Toonhub4u](https://toonhub4u.me/) - Anime / Cartoon / Dub / 1080p / Geoblocked / [Telegram](https://telegram.me/joinchat/oHRgJ6SMZ6c3OTI1)
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Music / FLAC
