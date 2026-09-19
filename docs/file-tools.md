@@ -28,7 +28,7 @@
 * ⭐ **JDownloader Tools** - [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/)
 * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
 * [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [Motrix Next](https://motrix-next.pages.dev/) - Download Manager / [GitHub](https://github.com/AnInsomniacy/motrix-next)
+* [Rayburst](https://rayburst.pages.dev) - Download Manager / [GitHub](https://github.com/AnInsomniacy/rayburst)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, macOS, Linux, Android
 * [imFile](https://imfile.org/) / Windows, macOS, Linux / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [⁠Aria2 Next](https://github.com/AnInsomniacy/aria2-next) or [aria2](https://aria2.github.io/) / [GitHub](https://github.com/aria2/aria2) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, macOS, Android 
@@ -90,8 +90,8 @@
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager / [GitHub](https://github.com/vanjac/chromafiler)
 * [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi) or [superfile](https://superfile.dev/) / [GitHub](https://github.com/yorukot/superfile) - Terminal File Managers
-* [One Commander](https://www.onecommander.com/) - File Manager
-* [Free Commander](https://freecommander.com/) - File Manager
+* [OneCommander](https://www.onecommander.com/) - File Manager
+* [FreeCommander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
 * [Files](https://files.community/) - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files) / [GitHub](https://github.com/files-community/Files)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager / [GitHub](https://github.com/derceg/explorerplusplus)
@@ -239,6 +239,7 @@
 * [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/TdQeMGz3A)
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
+* [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
@@ -326,7 +327,7 @@
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass (occasional  downtime)](https://pixeldrain-bypass.gamedrive.to/)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)

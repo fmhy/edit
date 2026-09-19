@@ -303,10 +303,9 @@
 * [⁠KikiVoice](https://kikivoice.ai/) / No Sign-Up
 * [AudioArena](https://audioarena.ai/) / No Sign-Up
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
-* [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) / No Sign-Up / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Kokoro TTS](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) or [⁠Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) / No Sign-Up / [Discord](https://discord.gg/QuGxSWBfQy) / [GitHub](https://github.com/hexgrad/kokoro) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [Ondoku](https://ondoku3.com/en/) / No Sign-Up
 * [⁠Speechma](https://speechma.com/) / No Sign-Up
-* [⁠Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) / No Sign-Up
 * [⁠Chatterbox](https://huggingface.co/spaces/ResembleAI/Chatterbox) / No Sign-Up / [GitHub](https://github.com/resemble-ai/chatterbox) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [⁠Audio.Z.AI](https://audio.z.ai/)
 * [AnyVoiceLab](https://anyvoicelab.com/long-form-text-to-speech-converter/) / No Sign-Up
@@ -330,6 +329,7 @@
 * ⭐ **[Applio](https://applio.org/)** - Voice Cloning / No Sign-Up / [Discord](https://discord.com/invite/wY7gmqTyEV) / [GitHub](https://github.com/IAHispano/Applio) / Windows, macOS, Linux
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (Locally) / [Discord](https://discord.gg/HcsmBBGyVk) / Windows, Linux
 * [Voice Changer](https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md) - Real-Time Voice Changer (W-Okada) / [GitHub](https://github.com/deiteris/voice-changer) / [Colab](https://colab.research.google.com/github/deiteris/voice-changer/blob/master-custom/Colab_RealtimeVoiceChanger.ipynb) / Windows, macOS, Linux, Web
+* [⁠VoiceStudio](https://voicestudio.sh/) - Voice Cloning / Windows, macOS, Linux / [GitHub](https://github.com/debpalash/VoiceStudio)
 * [Voice Models](https://voice-models.com/) - AI Voice Models and Guides / [Discord](https://discord.gg/3WJ8r6Bf5A)
 * [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) - Voice Cloning / No Sign-Up / Web
 * [AllVoiceLab](https://www.allvoicelab.com/) - Voice Cloning / Web

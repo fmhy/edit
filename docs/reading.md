@@ -193,7 +193,7 @@
 
 # ► Special Interest
 
-* ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+* ↪️ **[Survival / Preparedness](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_survival_.2F_preparedness)**
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy

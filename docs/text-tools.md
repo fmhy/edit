@@ -101,6 +101,7 @@
 * [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [⁠Transcrisper](https://transcrisper.com/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Audio Transcription Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
+* [⁠VoiceStudio](https://voicestudio.sh/) - Audio Transcription Software / [GitHub](https://github.com/debpalash/VoiceStudio)
 * [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool
 * [Handy](https://handy.computer/) - Audio Transcription Tool / [Discord](https://discord.gg/WVBeWsNXK4) / [GitHub](https://github.com/cjpais/Handy)
 * [⁠TransPocket](https://transpocket.com/) - Audio Transcription Tool
@@ -387,6 +388,7 @@
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) - Novel Editor
+* [⁠Neo](https://github.com/hughhowey/neo) - Novel Editor
 * [Novelist](https://beta.novelist.app) - Novel Editor
 * [Bibisco](https://bibisco.com/) - Novel Editor
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
@@ -423,7 +425,6 @@
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://to-do.office.com/)
-* [NullBoard](https://github.com/apankrat/nullboard)
 * [LunaTask](https://lunatask.app/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)

@@ -81,7 +81,7 @@
 * [Recordly](https://recordly.dev/) / Windows, macOS, Linux / [GitHub](https://github.com/webadderallorg/Recordly)
 * [ShareX](https://getsharex.com/) / Windows / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
 * [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) / Windows, Linux / [GitHub](https://github.com/vkohaupt/vokoscreenNG)
-* [Cap](https://cap.so/) / Windows, macO, Linux, Web / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap)
+* [Cap](https://cap.so/) / Windows, macOS, Linux, Web / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap)
 * [Shar.ec](https://shar.ec/) / Web
 * [ScreenREC](https://screen-rec.vercel.app/) / Web / [GitHub](https://github.com/heysagnik/screenREC)
 * [RecordScreen](https://recordscreen.io/) / Web
@@ -243,6 +243,7 @@
 * [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Player
 * [Mzelo](https://mzelo.com/) - Online Player
+* [⁠SyncUp](https://syncup.tv/) - Online Player
 * [CyTube](https://cytu.be/) - Online Player
 * [⁠CinevoSync](https://sync.cinevo.us/) - Online Player
 * [VideoTogether](https://videotogether.github.io/) - App
@@ -372,21 +373,22 @@
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / Windows, macOS, Linux / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * [Video Download Helper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
+* [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site / Windows, macOS, Linux
+* [VRKA](https://github.com/MaverickRox/VRKA) - Multi-Site / Windows, macOS, Linux
+* [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / Windows, macOS, Linux / [GitHub](https://github.com/neosubhamoy/neodlp)
+* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Windows, macOS, Linux / [Discord](https://discord.gg/uFNUXvFFmg)
+* [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
+* [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
-* [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site
-* [NeoDLP](https://neodlp.neosubhamoy.com/) - Multi-Site / [Extension](https://github.com/neosubhamoy/neodlp-extension) / [GitHub](https://github.com/neosubhamoy/neodlp)
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
 * [⁠Lostnode](https://dl.lostnode.lol/) - Multi-Site / Online
 * [⁠OFA Downloader](https://oneforalldownloader.com/) - Multi-Site / Online
 * [⁠YT-DLP Online](https://ytdlp.online/), [2](https://ytdlp.wiki/) - Multi-Site / Online
-* [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
-* [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Software / [Discord](https://discord.gg/uFNUXvFFmg)
-* [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
@@ -517,7 +519,7 @@
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [Glaxnimate](https://glaxnimate.org/) or [Trangram](https://www.trangram.com/) - Vector Animation Tools
 * [LibreSprite](https://libresprite.github.io/) / [GitHub](https://github.com/LibreSprite/LibreSprite), [GraphicsGale](https://graphicsgale.com/us/), [Poxil](https://poxil.vercel.app/) / [GitHub](https://github.com/F4tal1t/Poxil), [JPixel](https://pixelfromhell.itch.io/jpixel), [Aseprite](https://github.com/aseprite/aseprite) / [Guide](https://youtu.be/Z4Enx-Nb43E), [SpriteSheep](https://spritesheep.com/) / [Discord](https://discord.gg/cQBZV3FcEZ), [fizzy](https://fizzyed.it/) / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy), [KPix](https://github.com/krush62/KPix) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [⁠Wigglypaint](https://wigglypaint.com/) / [2](https://wigglypaint.net/) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
+* [⁠Wigglypaint](https://internet-janitor.itch.io/wigglypaint) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes
 * [Spritesheet Generator](https://spritesheetgenerator.online/) - Spritesheet Generator
 * [Animated Drawings](https://sketch.metademolab.com/), [⁠FliiipBook](https://www.fliiipbook.com/), [Mutsuacen](https://mutsuacen.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home) or [MotorPen](https://motorpen.com/) - Animate Drawings
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
