@@ -672,6 +672,7 @@
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
 * [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternatives
 * [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
+* [GetInDevice](https://getindevice.com/tumblr-video-downloader/) - Tumblr Media Downloader
 * [XKit](https://github.com/AprilSylph/XKit-Rewritten) - Tumblr Enhancement Extension
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Outbox for Tumblr](https://github.com/AprilSylph/Outbox-for-Tumblr) - Tumblr Outbox
