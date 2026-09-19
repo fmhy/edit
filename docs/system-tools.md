@@ -97,6 +97,7 @@
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows
 * [MacroRecorder](https://www.macrorecorder.com/) / Windows, macOS
 * [Organize](https://organize.readthedocs.io) - Automated File Manager / Windows, macOS, Linux, Docker / [GitHub](https://github.com/tfeldmann/organize)
+* [Forel](https://github.com/lab421/forel) - Automated File Manager / macOS
 
 ***
 
