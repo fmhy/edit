@@ -812,7 +812,6 @@
 * ↪️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
 * ↪️ **[Fashion / Clothing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_fashion_.2F_clothing)**
 * ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
-* ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
 * ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_puzzle_games)**
 * ⭐ **[Knots 3D](https://knots3d.com/)**, [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
@@ -838,6 +837,20 @@
 * [AXM Paper Space Scale Models](https://axmpapermodels.com/) - Spacecraft Paper Models
 * [⁠ExplOri 22.5](https://225.designorigami.net/) - 22.5 Degree Origami Design Tool / [Discord](https://discord.com/invite/5YcGh8b9yC)
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
+
+***
+
+## ▷ Survival / Preparedness
+
+* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)** or  [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
+* [SurvivalManual](https://github.com/ligi/SurvivalManual) - Survival Manual / [App](https://survivalmanual.github.io/)
+* [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) - Survival PDFs
+* [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
+* [⁠Wikiciv](https://wikiciv.org/) - Survival / Civilization Rebuilding Wiki / [Discord](https://discord.gg/ZzdmgSKtrE)
+* [CD3WD Project](https://www.cd3wdproject.org/) - Sustainable Development Information
+* [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe) - Preparedness Encyclopedia
+* [r/Preppers](https://www.reddit.com/r/preppers/) - Preparedness Subreddit
+* [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Preparedness File Sharing
 
 ***
 
@@ -1525,6 +1538,7 @@
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Visualization.info](https://visualization.info/) or [⁠Data Visualization Guide](https://data.europa.eu/apps/data-visualisation-guide/) - Learn About Data Visualization
 * [365Datascience](https://365datascience.com/) - Data Science Courses
+* [Data Science Intro Guide](https://florian-huber.github.io/data_science_course/) or [Data Science First Intro](https://python.datasciencebook.ca/) - Data Science with Python Intro Guides
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
 * [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
@@ -1645,6 +1659,7 @@
 * [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
+* [⁠ML For Beginners](https://github.com/microsoft/ML-For-Beginners) - Machine Learning Beginner Lessons 
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
 * [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer and LLM Visualizations
@@ -1811,7 +1826,7 @@
 
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
-* ⭐ **[OpenCalc](https://github.com/clementwzk/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
+* ⭐ **[OpenCalc](https://github.com/clementwzk/OpenCalc)**, [NerdCalci](https://github.com/vishaltelangre/NerdCalci), [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) - TI-84 Calculators
 * ⭐ **[Rink](https://rinkcalc.app/)**, [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [⁠OnlineConversion](https://onlineconversion.com/), [Frink](https://frinklang.org/fsp/frink.fsp) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators

@@ -76,6 +76,7 @@
 * [IMGUpscaler](https://imgupscaler.ai/) - Image Upscaling / Restoration / Video Upscaling / Web
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
+* [⁠Upscal](https://upscal.app/) - Image Upscaling / Web
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
@@ -129,7 +130,7 @@
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, macOS, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.app/) - Collaborative Drawing / Web
 * [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, macOS, Linux, Android, Web
-* [⁠Wigglypaint](https://beyondloom.com/tools/wigglypaint.html) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
+* [⁠Wigglypaint](https://internet-janitor.itch.io/wigglypaint) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
 * [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, macOS, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, macOS
 * [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -150,7 +151,7 @@
 * [tldraw](https://www.tldraw.com/) - Drawing / Sketching / Web
 * [Ok! So](https://okso.app/) - Drawing / Sketching / Web
 * [Kleki](https://kleki.com/) - Drawing / Sketching / Web
-* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Windows, macOS, Android, iOS
+* [Sketchbook](https://www.sketchbook.com/) - Drawing / Sketching / Android, iOS
 * [Fresco](https://www.adobe.com/products/fresco.html) - Drawing / Windows, iOS
 * [Concepts](https://concepts.app/) - Drawing / Sketching / Windows, Android, iOS
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool / Web
@@ -538,6 +539,7 @@
 * [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
 * [NASA 3D Resources](https://science.nasa.gov/3d-resources/) - NASA 3D Models
 * [⁠McMaster](https://www.mcmaster.com/) or [3D Find It](https://www.3dfindit.com/en/) - Industrial / Engineering 3D Models / 3D Printable Hardware Parts + Tools
+* [⁠BIMobject](https://www.bimobject.com/) - Architecture / Engineering BIM & 3D Models / Requires Sign-Up
 * [thebasemesh](https://www.thebasemesh.com/) - Mesh 3D Models
 * [BlenderKit](https://www.blendkit.com/) - 3D Model Library Integrated into Blender
 * [⁠Gridfinity](https://gridfinity.xyz/), [⁠Multiboard](https://multibuild.io/), [⁠openGrid](https://www.opengrid.world/) or [Jerrari Design](https://www.jerrari3d.com/) - 3D Storage Systems
@@ -616,7 +618,7 @@
 * [BRL-CAD](https://brlcad.org/) or [OpenSCAD](https://openscad.org/) - Cross-Platform CSG CAD Modeling
 * [LibreCAD](https://librecad.org/) or [QCAD](https://www.qcad.org/en/) - 2D CAD Modeling
 * [Mayo](https://github.com/fougue/mayo) - 3D CAD Viewer and Converter
-* [CadHub](https://cadhub.xyz/), [CAD Mapper](https://cadmapper.com/, [⁠CAD Blocks](https://cad-blocks.net/) or [GrabCAD](https://grabcad.com/library) - Free CAD Files
+* [CadHub](https://cadhub.xyz/), [CAD Mapper](https://cadmapper.com/), [⁠CAD Blocks](https://cad-blocks.net/) or [GrabCAD](https://grabcad.com/library) - Free CAD Files
 
 ***
 
@@ -646,7 +648,7 @@
 * [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [Face Swapper](https://faceswapper.ai/), [FaceSwapVideo](https://faceswapvideo.io/), [facy.ai](https://facy.ai/photo-face-swap), [AIFaceSwap](https://aifaceswap.io/) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
 * [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
-* [Cluttr](https://gitlab.com/bearjaws/cluttr), [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
+* [Cluttr](https://gitlab.com/bearjaws/cluttr), [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://docs.tagstud.io/) / [GitHub](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 
 ***
 

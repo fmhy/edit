@@ -141,6 +141,7 @@
 ## ▷ Database Tools
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
+* **[⁠Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)** - Database Resources
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
 * 🌐 **[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)** - MySQL Resources
@@ -584,6 +585,7 @@
 * [⁠Anti Slop](https://github.com/miqdadbadjuber/anti-slop) - Prevent Coding Agents Generating Generic Code (aka slop) 
 * [Orca](https://onorca.dev/) - Agentic Development Environment / Parallel Agents / [GitHub](https://github.com/stablyai/orca)
 * [Langfuse](https://langfuse.com/) - LLM Engineering & Debugging Platform / [GitHub](https://github.com/langfuse/langfuse)
+* [⁠Archify](https://github.com/tt-a1i/archify) - Turn Codebases into Diagrams
 * [⁠Ccusage](https://ccusage.com/) - Track Token Usage for AI Coding / [GitHub](https://github.com/ryoppippi/ccusage)
 * [⁠Code2prompt](https://github.com/mufeedvh/code2prompt) - Codebase To LLM Prompt
 * [Querit](https://www.querit.ai/) - AI Web Search API / [CLI](https://pypi.org/project/querit-cli/) / [MCP Server](https://github.com/querit-ai/querit-mcp) / [Discord](https://discord.com/invite/4xXsFA8Ed2) / [GitHub](https://github.com/querit-ai)
@@ -703,7 +705,7 @@
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
-* [Codioful](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
+* [Codioful](https://codioful.com/), [WebGradients](https://webgradients.com/) / [GitHub](https://github.com/itmeo/webgradients), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/) - CSS Animations
 
