@@ -468,6 +468,7 @@
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
+* [TempMail Cloud](https://tempmail.cloud/) - Free / Unlimited Inboxes with Account / 30+ Guest Inboxes / Password Protected / Reusable / 21+ Domains & Subdomains
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
