@@ -1035,7 +1035,7 @@
 * ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [DnD-Books(4e,5e,5.5e)](https://github.com/nazdridoy/dnd-public) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
@@ -1735,7 +1735,7 @@
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/en)**, [tldraw](https://www.tldraw.com/), [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
-* [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
+* [FreeForStudent](https://freeforstudents.org/), [⁠StudentBeans](https://www.studentbeans.com/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Temp .edu Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail) - Temp .edu Email Addresses
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
@@ -1792,7 +1792,6 @@
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android, iOS
 * [GradesCalculator](https://calculatecgpa.com) - Calculate CGPA & GPA
-* [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
 * [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos

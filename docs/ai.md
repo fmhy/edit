@@ -442,13 +442,12 @@
 * ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
 * [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
-* [⁠IUMB](https://pellaml.github.io/iumb/) - AI Mathematics Benchmarks / Leaderboard
 * [MathArena](https://matharena.ai/) - AI Mathematics Benchmarks / Competitions
 * [⁠Vals AI](https://www.vals.ai/) - AI Finance / Tax / Law Benchmarks
 * [⁠Simple Bench](https://simple-bench.com/) - AI Human Reasoning Benchmarks
 * [⁠SpeechMap.AI](https://speechmap.ai/) - AI Free Speech Benchmarks / [GitHub](https://github.com/xlr8harder/llm-compliance)
+* [⁠Tripstitch](https://tripstitch.app/benchmarks/) - AI Trip Planning Benchmarks
 * [⁠LLMs Bullshit Benchmark](https://petergpt.github.io/bullshit-benchmark/viewer/index.html) - Broken Premise Detection Benchmarks
-* [ChessArena](https://www.chessarena.ai/) - AI Chess Benchmarks
 * [⁠VoxelBench](https://voxelbench.ai/) - Minecraft AI Generation Benchmark
 
 ***

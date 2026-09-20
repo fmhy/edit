@@ -838,6 +838,7 @@
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [GN-Math](https://gn-math.dev/) - Browser Games / Ports / use Adblocker / [Discord](https://discord.com/invite/D4c9VFYWyU)
+* [Anko](https://useanko.xyz/g?source=anko) - Browser Games
 
 ***
 
@@ -920,6 +921,7 @@
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [⁠Voxiom](https://voxiom.io/) - Minecraft Inspired PVP FPS / [Discord](https://discord.gg/GBFtRcY)
 * [Debug Survivor](https://debug-survivor.leek.io/) - Dev Themed Roguelike Shooter
+* [⁠Redcoats](https://redcoats.io/) - Revolutionary War PVP FPS
 * [Venge](https://venge.io/) - PvP FPS
 * [ev.io](https://ev.io/) - PvP FPS
 * [Deadshot](https://deadshot.io/) - PvP FPS

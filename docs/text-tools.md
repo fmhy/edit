@@ -419,6 +419,7 @@
 * [Columns](https://columns.app/) - Checklists
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
+* [Mindwtr](https://mindwtr.app/) / [GitHub](https://github.com/dongdongbh/Mindwtr)
 * [SuperList](https://www.superlist.com/)
 * [dooit](https://github.com/dooit-org/dooit) / [Extras](https://github.com/dooit-org/dooit-extras)
 * [ToDo List](https://www.abstractspoon.com/) / [GitHub](https://github.com/abstractspoon)

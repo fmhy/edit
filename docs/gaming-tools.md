@@ -396,7 +396,7 @@
 * [⁠VaporLens](https://vaporlens.app/) - Steam Review Summaries / Insights
 * [Steam Link Dropdown](https://greasyfork.org/en/scripts/523078) - Add Piracy Site Links to Steam Store
 * [1337x Store Hover](https://greasyfork.org/scripts/533774) - Add Steam Store Hover Details to 1337x
-* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
+* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam / [GitHub](https://github.com/BrianLima/UWPHook)
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
 * [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) - Steam Currency Converter / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/steam-currency-converter-note.md) 

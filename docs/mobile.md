@@ -648,7 +648,7 @@
 
 * ⭐ **[Tasks](https://tasks.org/)** - Customizable To-Do App with Sync Support / Use F-Droid Version / [GitHub](https://github.com/tasks/tasks)
 * ⭐ **[SnapTick](https://github.com/vishal2376/snaptick)** - To-Do App with Pomodoro Timer
-* [Any.do](https://www.any.do/), [Orgzly-revived](https://www.orgzlyrevived.com/) / [GitHub](https://github.com/orgzly-revived/orgzly-android-revived), [Super Productivity](https://super-productivity.com/) / [GitHub](https://github.com/super-productivity/super-productivity) or [Taskito](https://taskito.io/) - To-Do Apps with Sync Support
+* [Any.do](https://www.any.do/), [Mindwtr](https://mindwtr.app/) / [GitHub](https://github.com/dongdongbh/Mindwtr), [Orgzly-revived](https://www.orgzlyrevived.com/) / [GitHub](https://github.com/orgzly-revived/orgzly-android-revived), [Super Productivity](https://super-productivity.com/) / [GitHub](https://github.com/super-productivity/super-productivity) or [Taskito](https://taskito.io/) - To-Do Apps with Sync Support
 * [Alkaa](https://github.com/igorescodro/alkaa), [Chaos Control 2](https://play.google.com/store/apps/details?id=com.tarasovmobile.cc2) or [Twos](https://www.twosapp.com/) - Simple To-Do Apps
 * [EverydayTasks](https://everydaytasks.jepfa.de/) - To-do App with Statistics
 

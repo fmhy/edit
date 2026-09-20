@@ -1668,7 +1668,6 @@
 * [Anizm](https://anizm.net/) - Anime
 * [TR Anime İzle](https://www.tranimeizle.co) - Anime / Region Locked
 * [⁠AniHub](https://anihub.com.tr/) - Anime / Region Locked
-* [Türk Anime](https://www.turkanime.co/) - Anime / Region Locked / [Downloader](https://github.com/KebabLord/turkanime-indirici) 
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
 * [belgeselx](https://belgeselx.com/) - Documentaries
