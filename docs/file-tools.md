@@ -333,12 +333,8 @@
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)
 * ⭐ **[Mocha](https://mocha.my/)** - 100GB / 20GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / 500MB Permanent (with account) / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
-* [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock**
-* [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
-* [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
@@ -371,25 +367,21 @@
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [Depositfiles](https://depositfiles.com/) - 10GB / 90 Days
-* [BowFile](https://bowfile.com/) - 20GB / 20 Days / **Use uBlock**
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
 * [Hexupload](https://hexload.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [FileFast](https://file.fast/) - 5GB / Unlimited
-* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / **Use uBlock**
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever
-* [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Signup / **Use uBlock**
 * [Filegoat](https://filego.at/) - 5GB / 90 Days After Last View
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [⁠JuiceBox](https://box.juicey.dev/) - 15GB / 14 Days
-* [UserDrive](https://usersdrive.com/) - 5GB / 65 Days / **Use uBlock**
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
@@ -406,7 +398,10 @@
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Requires Sign-Up
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email
-* [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / Webmaster Only / **Use uBlock** / [Discord](https://discord.gg/jaNvVK5zqh)
+* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / 500MB Permanent (with account) / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock**
+* [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / **Use uBlock**
 * [MultiUp.io](https://multiup.io/) (use uBlock) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) / [Discord](https://discord.gg/2yUEQPxTTU) or [Mirrored.to](https://www.mirrored.to/) - Multi Host Uploaders
 * [⁠PolyUploader](https://polyuploader.vercel.app/) / [GitHub](https://github.com/spel987/PolyUploader) or [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop Apps
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or Below
@@ -443,7 +438,6 @@
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / Forever / ~$15
 * [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro)
-* [1Cloud File](https://1cloudfile.com/) - 10GB / **Use Adblock**
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 
 ***

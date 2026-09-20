@@ -364,7 +364,7 @@
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
-* [YouT-ube](https://www.yout-ube.com/) or [⁠MUI](https://muitube.com/) - Use YouTube Full Window Player
+* [YouT-ube](https://www.yout-ube.com/) - Use YouTube Full Window Player
 * [YouTube Cinema](https://greasyfork.org/en/scripts/585902) - Expand YouTube Player to Fill Viewport 
 * [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [VacuumTube](https://github.com/shy1132/VacuumTube) - TV Version of YouTube on PC

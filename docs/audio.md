@@ -191,7 +191,7 @@
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
 * [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
-* [You are Listening To LA](https://youarelistening.to/) / [2](https://www.nts.live/shows/youarelisteningto) - Ambient City Sounds & Live Police Radio
+* [You are Listening To](https://youarelistening.to/) / [2](https://www.nts.live/shows/youarelisteningto) - Ambient City Sounds & Live Police Radio
 * [SF 10-33](https://somafm.com/player24/station/sf1033) - Ambient Music & Live San Francisco Emergency Radio
 * [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
 
