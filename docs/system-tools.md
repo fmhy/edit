@@ -391,7 +391,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Discord](https://discord.gg/4mFR9y9Snw)
+* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Subreddit](https://www.reddit.com/r/MAS_Activator) / [X](https://x.com/massgravel) / [Discord](https://discord.gg/4mFR9y9Snw), [2](https://discord.gg/j2yFsV5ZVC) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
 
 ***
