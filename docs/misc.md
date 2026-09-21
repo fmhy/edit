@@ -123,6 +123,7 @@
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games
 * [GamerPower](https://www.gamerpower.com/) - Games
+* [Loot Terminal](https://loot-games.x1vi.workers.dev/) - Free Game / Deal Tracker / [GitHub](https://github.com/X1Vi/loot-games)
 * [GrabFreeGames](https://grabfreegames.com/notifications) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
