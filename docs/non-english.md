@@ -607,7 +607,7 @@
 # ► Greek / Ελληνικά
 
 ## ▷ Streaming
-
+* [Tenies-space](https://www.tenies.space/) - Movies / TV / Live / Live Sports / Dub / sub / 4k / ads-free / multy-dub
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
 * [xrysoi](https://xrysoi.pro/), [2](https://tainiesonline.xyz) - Movies / TV
 * [filmatic](https://filmatic.online/) - Movies / TV
