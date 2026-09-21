@@ -36,6 +36,7 @@ export default defineConfig({
   },
   // Markdown is excluded from extraction, so keep classes authored or generated there explicit.
   safelist: [
+    'i-twemoji-glowing-star',
     'i-carbon:logo-bluesky',
     'i-carbon:logo-discord',
     'i-carbon:logo-github',
