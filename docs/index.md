@@ -7,7 +7,7 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: Uncondotional Love 🤍
+    title: Unconditional Love 🤍
     link: /posts/love
   image:
     src: test.png
