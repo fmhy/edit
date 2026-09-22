@@ -854,6 +854,7 @@
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
+* [Eskele](https://github.com/hossainalhaidari/eskele) - Customizable macOS Dock replacement
 
 ***
 
