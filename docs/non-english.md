@@ -1511,6 +1511,7 @@
 * [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+* [Doramasflix](https://doramasflix.co/) - Movies / TV
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
 * [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
@@ -1525,7 +1526,7 @@
 * [detodopeliculas](https://detodopeliculas.nu/) - Movies / TV
 * [verpeliculasonline](https://verpeliculasonline.org/), [2](https://ver-peliculas-online.org/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
-* [Gnula.se](https://ww3.gnulahd.nu/) - TV / Anime
+* [Gnula.se](https://ww3.gnulahd.nu/) - TV / Anime / [Mirrors](https://dominiosgnulahd.com/)
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [PelisForte](https://pelisforte.se/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
@@ -1534,7 +1535,7 @@
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [gnulaseries](https://gnulaseries.nu/) - TV
 * [Series Peruanas](https://seriesperu.com/) - TV / Drama
-* [Doramasflix](https://doramasflix.io/), [2](https://doramasflix.in/) - Asian Drama / Sub / Latino / [Telegram](https://t.me/s/doramasgodoramasiaflix)
+* [Doramasflix](https://doramasflix.co/) - Asian Drama / Sub / Latino / [Telegram](https://t.me/+BnaUn49pKwZkZDMx)
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / LATAM Only

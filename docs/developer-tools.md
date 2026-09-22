@@ -141,7 +141,7 @@
 ## ▷ Database Tools
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
-* **[⁠Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)** - Database Resources
+* 🌐 **[⁠Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)** - Database Resources
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
 * 🌐 **[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)** - MySQL Resources
