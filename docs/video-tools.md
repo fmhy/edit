@@ -270,6 +270,7 @@
 * [⁠mpv-autosub](https://github.com/davidde/mpv-autosub) - Subtitle Auto Downloader
 * [AutoSubSync MPV](https://github.com/joaquintorres/autosubsync-mpv) - Sub Sync
 * [MPV SponsorBlock](https://github.com/po5/mpv_sponsorblock), [2](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - SponsorBlock for MPV
+* [⁠JumpSkip](https://github.com/ElectricArdvark/jumpskip) - Intro / Outro Skipping Script for MPV 
 * [ThumbFast](https://github.com/po5/thumbfast) - MPV Thumbnails
 * [ArtCNN](https://github.com/Artoriuz/ArtCNN), [AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) or [Ani4k](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN) - Anime Upscaling
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5) or [CAS](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6) - AMD FidelityFX port

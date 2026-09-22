@@ -738,7 +738,7 @@
 
 ## ▷ Vexillology / Flags
 
-* ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)** / [2](https://www.crwflags.com/fotw/flags/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/) or [FlagLog](https://www.flaglog.com/) - Flag Databases
+* ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)**, [2](https://www.crwflags.com/fotw/flags/) / [Search](https://search.fotw.ethnia.org/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/) or [FlagLog](https://www.flaglog.com/) - Flag Databases
 * ⭐ **[FAME](https://zeljko-heimer-fame.from.hr/descr/index.html)** - Flag / Coat of Arms Database
 * [r/vexillology](https://www.reddit.com/r/vexillology//) - Vexillology / Flag Subreddit / [Flag Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/)
 * [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
@@ -1343,6 +1343,7 @@
 
 # ► Developer Learning
 
+* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** / [GitHub](https://github.com/PanXProject/awesome-certificates) - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)**, [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
@@ -1352,7 +1353,15 @@
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
 * ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
+* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P)
 * ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
+* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [Hackr.io](https://hackr.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [⁠W3Schools](https://www.w3schools.com/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
+* [Guru99](https://www.guru99.com/) - Software / Web Development
+* [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
+* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
+* [calmcode](https://calmcode.io/) - Video Tutorials
+* [zetcode](https://zetcode.com/) - Programming Notes / Ebooks
+* [Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/) - Programming Ebooks
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
 * [Beej's Guide to Git](https://beej.us/guide/) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
@@ -1373,7 +1382,6 @@
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [System Design 101](https://github.com/ByteByteGoHq/system-design-101) or [system-design-primer](https://github.com/donnemartin/system-design-primer) - System Design Guides
 * [CLIG](https://clig.dev/) - CLI Design Guide / [Discord](https://discord.gg/EbAW5rUCkE)
@@ -1399,20 +1407,6 @@
 * [The Linux Kernel](https://kernel.org/doc/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-
-***
-
-## ► Coding Tutorials
-
-* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
-* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P)
-* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [Hackr.io](https://hackr.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [⁠W3Schools](https://www.w3schools.com/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
-* [Guru99](https://www.guru99.com/) - Software / Web Development
-* [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
-* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
-* [calmcode](https://calmcode.io/) - Video Tutorials
-* [zetcode](https://zetcode.com/) - Programming Notes / Ebooks
-* [Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/) - Programming Ebooks
 
 ***
 

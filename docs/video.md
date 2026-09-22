@@ -337,6 +337,7 @@
 * ⭐ **[Re:ANIME](https://reanime.to/)**, [2](https://reanime.cz/), [3](https://reanime.wtf/) - Sub / Dub / Auto-Next / [Index](https://reindex.to/) / [Status](https://restatus.me/) / [Discord](https://discord.com/invite/QsqcnsryyK)
 * ⭐ **[⁠Anistream](https://anistream.one/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/kwgASavPvG)
 * ⭐ **[⁠Kazora](https://kazora.cc/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/V5AWy78VTv)
+* ⭐ **[⁠Lunar](https://lunarx.to/)** - Sub / Dub / [Telegram](https://t.me/lunarcommunity) / [Discord](https://discord.com/invite/NBBnhbFHBT)
 * [KuroAnime](https://kuroanime.lol/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/UsPMHMnXAy)
 * [⁠NekoWatch](https://nekowatch.xyz/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/52UrTJ3ytT)
 * [⁠JustAnime](https://justanime.to/) - Sub / Dub / Auto-Next / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust/) / [Discord](https://discord.gg/P3yqksmGun)
@@ -348,7 +349,6 @@
 * [Senshi](https://senshi.to/) - Sub / Dub / Auto-Next
 * [AniZone](https://anizone.to/) - Sub
 * [AniDoor](https://anidoor.me/) - Sub / Dub / Auto-Next
-* [⁠Lunar](https://lunarx.to/) - Sub / Dub / [Telegram](https://t.me/lunarcommunity) / [Discord](https://discord.com/invite/NBBnhbFHBT)
 * [AniSnatch](https://anisnatch.top/), [2](https://anisnatch.site/) - Sub / Dub / [Telegram](https://t.me/anisnatch) / [Discord](https://discord.com/invite/3zrNYqeT4e)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
 * [KoToTV](https://kototv.to/) - Sub / Dub / Auto-Next
@@ -1092,11 +1092,11 @@
 
 ## ▷ Recommendation Tools
 
-* ⭐ **[⁠Nothing To Watch](https://nothing-to-watch.port80.ch/)** - Interactive Movie Discovery Visualization / Uses 250MB / [GitHub](https://github.com/gnovotny/nothing-to-watch)
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [BestSimilar](https://bestsimilar.com/) - Movie Recommendations
 * [MovieLens](https://movielens.org/) - Movie Recommendations
+* [⁠Nothing To Watch](https://nothing-to-watch.port80.ch/) - Interactive Movie Discovery Visualization / Uses 250MB / [GitHub](https://github.com/gnovotny/nothing-to-watch)
 * [r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes

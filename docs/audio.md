@@ -174,7 +174,7 @@
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
-* [Rainyscope](https://rainyscope.com/) - Ambient Rain 
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.mvze.net/) - Simple Ambient Sound Mixers
 * [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
@@ -193,6 +193,7 @@
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [You are Listening To](https://youarelistening.to/) / [2](https://www.nts.live/shows/youarelisteningto) - Ambient City Sounds & Live Police Radio
 * [SF 10-33](https://somafm.com/player24/station/sf1033) - Ambient Music & Live San Francisco Emergency Radio
+* [The Sleeping Forecast](https://www.bbc.co.uk/programmes/p0cjyk2w/) or [The Shipping Forecast](https://www.bbc.co.uk/programmes/b006qfvv/) - Maritime Weather Broadcasts
 * [TheWhiteNoiseMachine](https://thewhitenoisemachine.com/) - White Noise Generator
 
 ***
@@ -1058,6 +1059,7 @@
 * [⁠SmoredBoard](https://www.smoredboard.com/) / [Discord](https://discord.gg/bkYY39VgQ2), [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Sound Show](https://soundshow.app/) / [Discord](https://discord.com/invite/8pGnfJyzNq), [Soundux](https://soundux.rocks/), [Amplitude Soundboard](https://amplitude-soundboard.dan0v.com/) / [GitHub](https://github.com/dan0v/AmplitudeSoundboard) or [Resanance](https://resanance.com/) - Soundboard Programs
 * [MyInstants](https://www.myinstants.com/index/us/), [101soundboards](https://www.101soundboards.com/), [Sound Instants](https://soundinstants.com/), [SoundboardGuys](https://soundboardguys.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [The Sounds Resource](https://sounds.spriters-resource.com/) - Game Sound Effects
+* [⁠SourceSFX](https://sourcesfx.com/) - Source Engine Sound Effects Database
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain), [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://www.bfxr.net/) / [GitHub](https://github.com/increpare/bfxr2), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sound Effect Creators
 * [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) or [Musical Artifacts](https://musical-artifacts.com/) - Soundfonts

@@ -397,7 +397,7 @@
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://developers.openai.com/api/docs/guides/prompt-engineering) or [Claude Prompts](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - Prompting Guides
 * [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
 * [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
-* [Jailbreak Listings](https://rentry.org/jb-listing) or [⁠Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - Prompt Directories / Jailbreaks
+* [Jailbreak Listings](https://rentry.org/jb-listing) - Prompt Directories / Jailbreaks
 * [⁠System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks) - AI System Prompts
 * [InjectPrompt Companion](https://companion.injectprompt.com/) - AI Jailbreak Prompt Assistant
 * [⁠Heretic](https://github.com/p-e-w/heretic) - AI Jailbreak / Anti-Censorship Tool / [Discord](https://discord.gg/gdXc48gSyT)

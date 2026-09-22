@@ -302,6 +302,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
+* [appnetica](https://appnetica.com/?platform=linux) - Linux Games
 * [LinUwUx](https://github.com/brcly/linuwux-runtime) - LD_PRELOAD Library for Hypervisor(-less) Denuvo Bypass
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
@@ -737,6 +738,7 @@
 * [CS.RIN.RU](https://cs.rin.ru/forum) - Mac Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* [appnetica](https://appnetica.com/?platform=mac) - Mac Games
 * [⁠MacSteam](https://github.com/Selectively11/macSteam) - Steam Game + DLC Unlocker
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
