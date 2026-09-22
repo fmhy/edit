@@ -973,6 +973,7 @@
 * [⁠Volunteers Base](https://volunteersbase.com/) - Volunteer Work Exchange / Work for Stay Network
 * [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
+* [Jobicy](https://jobicy.com/) - Remote Jobs / [Telegram](https://t.me/JobicyJobs)
 * [Jobspresso](https://jobspresso.co/) - Remote Jobs
 * [Remote Jobs](https://remotejobs.com/) - Remote Jobs
 * [himalayas](https://himalayas.app/) - Remote Jobs
