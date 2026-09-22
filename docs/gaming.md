@@ -183,7 +183,7 @@
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
-* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Install via Wheel Wizard
+* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Installed via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [⁠skate: recompiled](https://github.com/mchughalex/skate3recomp) - Skate 3 Xbox 360 Recompilation
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
