@@ -36,3 +36,7 @@ Show them a strength that defies all odds, that despite pain, despite the flaws 
 ***
 
 *"Well, I suppose it's an invitation, "won't you be my neighbor?" It's an invitation for somebody to be close to you. You know, I think everybody longs to be loved, and longs to know that he or she is lovable. And consequently, the greatest thing that we can do is to help somebody know that they're loved and capable of loving."* - Mister Rogers
+
+***
+
+https://redd.it/1wn7vfq
