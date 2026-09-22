@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: September Updates ⚡
-    link: /posts/sept-2026
+    title: Uncondotional Love 🤍
+    link: /posts/love
   image:
     src: test.png
     alt: FMHY Icon
