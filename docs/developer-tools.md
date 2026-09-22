@@ -643,7 +643,7 @@
 * [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
 * [Thonny](https://thonny.org/) - Python IDE
 * [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) - Android Python IDE + Learning
-* [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
+* [ty](https://github.com/astral-sh/ty) - Static Code Analyzer
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 
 ***
