@@ -74,7 +74,7 @@
 
 * ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
 * ⭐ **[Linkstack](https://linkstack.org)** / [GitHub](https://github.com/LinkStackOrg/LinkStack) or **[LittleLink](https://littlelink.io/)** - Unlimited / Custom URLs / Self-Hosted
-* ⭐ **[Carrd](https://carrd.co/)** - Unlimited / Custom URLs / Multiple Designs
+* ⭐ **[Carrd](https://carrd.com/)** - Unlimited / Custom URLs / Multiple Designs
 * [⁠WonderLink](https://en.wonderlink.de/) - Unlimited / Custom URLs
 * [BioSites](https://biosites.com/) - Unlimited / Custom URLs
 * [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
@@ -228,7 +228,6 @@
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
 * [OpenOwnership](https://register.openownership.org/) - Company Ownership Search
-* [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
 * [OffshoreLeaks](https://offshoreleaks.icij.org/) - Offshore Company Leaks Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
@@ -245,7 +244,7 @@
 
 ## ▷ Search Engines
 
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](https://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
@@ -399,7 +398,7 @@
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
 * [Kutt](https://kutt.to/) - Account Required / [GitHub](https://github.com/thedevs-network/kutt)
-* [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG` / [GitHub](https://github.com/bhutanio/anon.to)
+* [Anon.to](https://anon.to/) - Anonymous URLs `anon.to/7SWqpG` / [GitHub](https://github.com/bhutanio/anon.to)
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
 * [Wikimedia Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten Wikimedia Domain Links
 * [Suri](https://github.com/surishortlink/suri), [MPNG.IN](https://github.com/thewalkingtoast/mpngin), [Snapp](https://github.com/urania-dev/snapp), [Dub.co](https://github.com/dubinc/dub) or [Shlink](https://github.com/shlinkio/shlink) - Self-Hosted Link Shorteners
@@ -433,7 +432,7 @@
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
-* [scr.im](http://scr.im/) - Email Captcha Protection
+* [scr.im](https://scr.im/) - Email Captcha Protection
 
 ***
 
@@ -467,7 +466,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -552,7 +551,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager / [TUI](https://github.com/davep/braindrop)
-* [Start.me](https://about.start.me/) - Web-Based Manager
+* [Start.me](https://start.me/) - Web-Based Manager
 * [Bookmark Manager Zero](https://bmz.absolutezero.fyi/) - Firefox / Chrome Extension / Android
 * [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
 * [wallabag](https://wallabag.org/) - Web-Based Manager
@@ -906,7 +905,7 @@
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)**
 * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
-* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
+* ⭐ **[IntelTechniques](https://inteltechniques.com/)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** or [⁠OSINT Cabal](https://osintcabal.org/livecenter/live.html) - Online OSINT Tools / Web
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)

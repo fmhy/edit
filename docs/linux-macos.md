@@ -319,7 +319,7 @@
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [Minigalaxy](https://wijsman.de/minigalaxy/) - GOG Client
 * [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
-* [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
+* [⁠LVRA Wiki](https://vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
 * [Vice](https://eklonofficial.github.io/Vice-Website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
@@ -349,7 +349,7 @@
 * ↪️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
+* ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
@@ -558,7 +558,7 @@
 * 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
 * ⭐ **[i3wm](https://i3wm.org)** - Manual Tiling Window Manager / [Reference Card](https://i3wm.org/docs/refcard.html) / [GitHub](https://github.com/i3/i3)
 * ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) / [GitHub](https://github.com/qtile/qtile/) or [dwm](https://dwm.suckless.org) / [Source Code](https://git.suckless.org/dwm/log.html) - Dynamic Tiling Window Managers
-* ⭐ **[Hyprland](https://hypr.land/)** - Dynamic Tiling Wayland Compositor / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/) / [Test Configs](https://github.com/amarsbar/rice-cooker) /[Discord](https://discord.com/invite/hQ9XvMUjjr) / [GitHub](https://github.com/hyprwm/Hyprland)
+* ⭐ **[Hyprland](https://hypr.land/)** - Dynamic Tiling Wayland Compositor / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/) / [Test Configs](https://github.com/amarsbar/rice-cooker) / [Discord](https://discord.com/invite/hQ9XvMUjjr) / [GitHub](https://github.com/hyprwm/Hyprland)
 * ⭐ **[niri](https://github.com/YaLTeR/niri)** - Scrollable-Tiling Wayland Compositor
 * ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway) or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositors
 * [Waycheck](https://gitlab.freedesktop.org/serebit/waycheck) - Lists Protocols Implemented by a Wayland Compositor
@@ -664,7 +664,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers 
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://applite.app/) - Package Managers 
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** - Downloads (not torrents) / Login Required for some Files
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -820,7 +820,7 @@
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [MiddleClick](https://github.com/artginzburg/MiddleClick) - Middle / Scroll Click via 3 Finger Tap
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
-* [KeyClu](https://sergii.tatarenkov.name/keyclu/support/) - Shortcut CheatSheet for Current Application
+* [KeyClu](https://sergii.tatarenkov.name/apps/keyclu/) - Shortcut CheatSheet for Current Application
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [⁠FineTune](https://github.com/ronitsingh10/FineTune) - Volume Mixer / Per App Volume Control / Routing / EQ / Booster
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control

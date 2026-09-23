@@ -288,7 +288,7 @@
 * [⁠AlterSend](https://github.com/denislupookov/altersend) - Online / Windows, macOS, Linux, Android, iOS
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, macOS, Linux, Android
-* [croc](https://getcroc.com/ ) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
+* [croc](https://getcroc.com/) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
@@ -297,7 +297,7 @@
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/onionshare/onionshare)
 * [FileZilla](https://filezilla-project.org/) - FTP Client / Windows, macOS, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
 * [⁠Sendme](https://www.iroh.computer/sendme) / [GitHub](https://github.com/n0-computer/sendme) or [DashBeam](https://dashbeam.net/) / [GitHub](https://github.com/tonyantony300/dashbeam) - File Transfer CLIs
-* [termscp](https://termscp.veeso.dev/) - File Transfer TUI / [GitHub](https://github.com/veeso/termscp)
+* [termscp](https://termscp.rs/) - File Transfer TUI / [GitHub](https://github.com/veeso/termscp)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client / Windows
 * [⁠robocopy](https://learn.microsoft.com/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
@@ -352,7 +352,7 @@
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
-* [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
+* [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/price)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
@@ -431,7 +431,7 @@
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
 * [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
-* [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB / Forever / ~$15
+* [Cloudflare R2](https://www.cloudflare.com/products/r2/) - 10GB / Forever / ~$15
 * [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro)
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 

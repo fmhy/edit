@@ -87,7 +87,7 @@
 
 * ↪️ **[Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)** - App Giveaway Sites
 * ⭐ **[APKMirror](https://www.apkmirror.com/)** / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/toolbox-google-play-store/) / [Chrome](https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo) / [Installer](https://github.com/AbdurazaaqMohammed/AntiSplit-M)
-* ⭐ **[UpToDown](https://en.uptodown.com/android)**
+* ⭐ **[UpToDown](https://en.uptodown.com/)**
 * ⭐ **[APKCombo](https://apkcombo.com/)**
 * ⭐ **[Aurora Store](https://auroraoss.com/)** - Google Play Store Alt / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore) / [GitHub](https://github.com/whyorean/AuroraStore) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/aurora-note.md)
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
@@ -354,7 +354,7 @@
 * [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 * [APatch](https://github.com/bmax121/APatch)
 * [⁠Magisk Alpha](https://t.me/magiskalpha)
-* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
+* [ReSukiSU](https://resukisu.org/) / [Telegram](https://t.me/ReSukiSU/)
 * [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
 * [MTKClient](https://github.com/bkerler/mtkclient)
 * [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su)
@@ -627,14 +627,14 @@
 * ↪️ **[Android Note-Taking](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
-* ⭐ **[FUTO Voice](https://voiceinput.futo.org/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
+* ⭐ **[FUTO Voice](https://voiceinput.futo.tech/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
 * ⭐ **[Look Up](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Livio](https://thesaurus.altervista.org/dictionary) or [AARD2](https://github.com/itkach/aard2-android), [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) or [Ciyue](https://f-droid.org/packages/org.eu.mumulhl.ciyue/) - Dictionary Apps
 * [Markor](https://fossdroid.com/a/markor.html) or [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) - Text Editors
 * [Novelist](https://www.novelist.app/) - Writing App
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers / Android
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) - Document Editor / Reader
-* [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) or [LibreOffice Viewer](https://www.libreoffice.org/download/android-and-ios/) - Document Reader
+* [⁠Episteme Reader](https://github.com/Aryan-Raj3112/episteme) or [LibreOffice Viewer](https://www.libreoffice.org/download-other/#android-ios) - Document Reader
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [DiaryVault](https://github.com/SankethBK/diaryvault) - Diary App
 * [Read Aloud AI](https://readaloudai.com/android) / [Discord](https://readaloudai.com/discord) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Text to Speech 
@@ -847,8 +847,8 @@
 
 ## ▷ Android Manga
 
-* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/guides/ext/mihon), [4](https://github.com/Nyora-Manga/nyora-mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/), [4](https://yuzono.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
-* ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
+* ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/ext/mihon), [4](https://github.com/Nyora-Manga/nyora-mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/), [4](https://yuzono.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
+* ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [Futon](https://landing-futon.pages.dev) / [Discord](https://discord.gg/9sqBHXhwzz) / [GitHub](https://github.com/AppFuton/Futon/), [⁠Usagi](https://yumemi.moe/) / [Plugins](https://github.com/InvalidDavid/UMA) / [GitHub](https://github.com/UsagiApp/Usagi) or [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) / [Discord](https://discord.com/invite/sfPJSQNxfW) - Manga Readers / Kotatsu Forks
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
 * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Manga File Viewer
@@ -1002,7 +1002,6 @@
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [⁠Vyla Go](https://vyla.cc/), [2](https://vyla.qzz.io) - Movies / TV / Anime / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [⁠Zangetsu](https://zangetsu.online/) - Movies / TV / Anime / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu)
-* [Z-Stream](http://zstream.mov/apps) - Movies / TV / Anime / P-Stream Fork
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
 * [Syncler](https://syncler.net/) or [Syncler Beta](https://beta.syncler.net/) - Movies / TV / [Providers](https://www.reddit.com/r/providers4syncler/)
@@ -1045,11 +1044,11 @@
 ## ▷ Android Anime
 
 * 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/section/apps)**, [2](https://everythingmoe.org/section/mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/apps)** - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DailyAL](https://dailyanimelist.web.app/)** / [GitHub](https://github.com/JICA98/DailyAL), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
-* ⭐ **[Anikku](https://anikku-app.github.io/)** / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.com/invite/85jB7V5AJR) / [GitHub](https://github.com/komikku-app/anikku)
+* ⭐ **[Anikku](https://anikku-app.github.io/)** / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Discord](https://discord.com/invite/85jB7V5AJR) / [GitHub](https://github.com/komikku-app/anikku)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)
-* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
+* [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [⁠AniStation](https://www.anistation.top/)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [AnimeTV](https://animetv-fork.github.io/) / [Discord](https://discord.com/invite/zD6URsM4ms)
@@ -1255,7 +1254,7 @@
 * ⭐ **[wBlock](https://apps.apple.com/app/wblock/id6746388723)** - Safari Adblocker / [GitHub](https://github.com/0xCUB3/wBlock)
 * ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/), [2](https://justpaste.it/adguard) / [Pro](https://t.me/blatants) (requires patch) / [Subreddit](https://www.reddit.com/r/Adguard/)
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** - Adblock Browser
-* [Orion](https://kagi.com/orion/) - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
+* [Orion](https://orionbrowser.com/) - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
 * [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) - Safari Adblocker / [GitHub](https://github.com/uBlockOrigin/uBOL-home)
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 * [SponsorBlock for YT Music](https://github.com/dayanch96/SponsorBlock-YouTubeMusic) - Skip Non-Music Segments in YouTube Music

@@ -160,7 +160,7 @@
 # ► Reddit Tools
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
-* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
+* ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lindseysim.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) - Reddit Frontends / Viewers
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** or [Teamdoko Old Reddit](https://teamdoko.com/products/old-reddit-for-safari) - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
@@ -319,7 +319,7 @@
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Convert Audio Files and Upload to YouTube
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
-* [Amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Import Local Subtitles to YouTube / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
+* [Amara](https://amara.org/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Import Local Subtitles to YouTube / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [ChatReplay](https://chatreplay.stream/) - Livestream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - Livestream Chat Translator
 * [YT Boost Chat](https://greasyfork.org/en/scripts/520755) or [YT RM3](https://greasyfork.org/en/scripts/521342) - Reduce YouTube Chat Memory Usage
@@ -526,7 +526,7 @@
 * 🌐 **[TwitchAdSolutions](https://github.com/ryanbr/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
 * ⭐ **[AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra)** - Twitch Adblocker / Userscript Works Best
 * ⭐ **[VAFT Script](https://github.com/ryanbr/TwitchAdSolutions#scripts)** - Twitch Adblocker
-* [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
+* [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v1/must-read/proxies)
 * [PurpleAdblock](https://github.com/arthurbolsoni/Purple-adblock) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker
 * [PurpleTV](https://purpletv.aeong.win/) - Mobile Ad-Free Twitch App / [Alpha](https://t.me/pubTwAlpha) / [Telegram](https://t.me/pubTw)
@@ -632,7 +632,7 @@
 
 * ⭐ **[Instaloader](https://instaloader.github.io/)** - CLI Downloader / [GitHub](https://github.com/instaloader/instaloader)
 * [FastDL](https://fastdl.app/en2) or [SaveFromWeb](https://www.savefromweb.com/) - Online Downloaders
-* [Dumpor](https://dumpor.io/) / [2](https://greatfon.io/) or [anonyig](https://anonyig.com/) - Anonymous Story / Profile Viewers
+* [Dumpor](https://dumpor.io/) or [anonyig](https://anonyig.com/) - Anonymous Story / Profile Viewers
 * [IG Helper](https://greasyfork.org/en/scripts/404535) / [GitHub](https://github.com/SN-Koarashi/ig-helper/) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
 
 ***
@@ -687,6 +687,7 @@
 * 🌐 **[Fediverse.Party](https://fediverse.party/)** - Fediverse Software Index
 * 🌐 **[⁠FediDB](https://fedidb.com/)** - Fediverse Server List / Statistics
 * ⭐ **[Fediverse Observer](https://fediverse.observer/)** - Fediverse Instances
+* [Fediverse Near Me](https://umap.openstreetmap.fr/en/map/fediverse-near-me_828094)
 * [pixelfed](https://pixelfed.org/) - Decentralized Image Sharing Social Network / Requires Sign-Up / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools) / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid) / [GitHub](https://github.com/pixelfed/pixelfed)
 * [Nostr](https://nstart.me/), [2](https://nostr.com/) - Twitter Alternative / [Apps](https://nostrapps.com/) / [Resources](https://nostr.net/)
 * [FediDB](https://fedidb.org/) or [The Federation](https://the-federation.info/) - Network Statistics
@@ -708,7 +709,7 @@
 ## ▷ Mastodon Tools
 
 * 🌐 **[Awesome Mastodon](https://hueyy.github.io/awesome-mastodon/)**, [2](https://github.com/hyperupcall/awesome-mastodon) - Mastodon Resources
-* ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
+* ⭐ **[instances.social](https://instances.social/)** - Mastodon Instances
 * ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
 * [Phanpy](https://phanpy.social/) / [GitHub](https://github.com/cheeaun/phanpy) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
 * [Fediwall](https://fediwall.social/) - View Public Timelines / Hashtags

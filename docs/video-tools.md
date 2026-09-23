@@ -163,7 +163,7 @@
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Screenshot](https://jpgonline.com/screenshot) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
-* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
+* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.rocks/) - Now Playing Overlays
 * [⁠Twitch Poll Overlay](https://poll.ma.pe/) - ⁠Twitch Poll Overlay
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
@@ -224,7 +224,6 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
-* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 
@@ -293,7 +292,7 @@
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh), [⁠Duck Guides](https://duckkota.gitlab.io/guides/) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
-* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://trakt.tv/) - Media Trackers / List Creators
+* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://app.trakt.tv/) - Media Trackers / List Creators
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation

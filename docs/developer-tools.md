@@ -26,7 +26,7 @@
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Cybersecurity News
 * ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
 * [DevURLs](https://devurls.com/) - Dev News
-* [daily.dev](https://app.daily.dev/posts) - Dev News
+* [daily.dev](https://daily.dev/posts) - Dev News
 * [⁠Frontend Dogma](https://frontenddogma.com/) - Web Dev News Aggregator
 * [CyberInsider](https://cyberinsider.com/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
@@ -116,7 +116,7 @@
 ## ▷ Mobile Dev Tools
 
 * 🌐 **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS Development Resources
-* 🌐 **[Mobbin](https://mobbin.com/)** or [UISources](https://uisources.com/) - Mobile UI Resources
+* 🌐 **[Mobbin](https://mobbin.com/)** or [ScreensDesign](https://screensdesign.com/) - Mobile UI Resources
 * ↪️ **[App Mockups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_.2F_site_mockups)**
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * ⭐ **[Android Studio](https://developer.android.com/studio)** - App Creator / Builder
@@ -240,7 +240,7 @@
 * [LazyDocker](https://github.com/jesseduffield/lazydocker), [oxker](https://github.com/mrjackwills/oxker), [Arcane](https://getarcane.app/) / [GitHub](https://github.com/getarcaneapp/arcane) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
 * [Dockle](https://github.com/goodwithtech/dockle) - Image Linter
 * [Dive](https://github.com/wagoodman/dive) - Analyze Images
-* [WatchTower](http://watchtower.nickfedor.com/) - Container Automation / [GitHub](https://github.com/nicholas-fedor/watchtower)
+* [WatchTower](https://watchtower.nickfedor.com/) - Container Automation / [GitHub](https://github.com/nicholas-fedor/watchtower)
 * [Dozzle](https://dozzle.dev/) - Log Viewer
 * [Docker AutoHeal](https://github.com/willfarrell/docker-autoheal) - Container Monitor
 * [Diun](https://crazymax.dev/diun/) - Docker Notifications
@@ -253,7 +253,7 @@
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
 * [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [⁠VHS](https://github.com/charmbracelet/vhs) - Write Terminal GIFs as Code
-* [Charm](https://charm.sh/) - Add Backend to Terminal-Based Apps
+* [Charm](https://charm.land/) - Add Backend to Terminal-Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
@@ -272,7 +272,7 @@
 
 ## ▷ API Tools
 
-* 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [⁠PublicAPIs](https://publicapis.io/) or [Any API](https://any-api.com/) - API Indexes
+* 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [⁠PublicAPIs](https://publicapis.io/) - API Indexes
 * 🌐 **[Streaming Site APIs](https://rentry.co/FMHYB64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[Dev Scraping APIs](https://github.com/cporter202/scraping-apis-for-devs)** - ⁠Scraping APIs for Developers
@@ -603,7 +603,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
 * ⭐ **[⁠Unsloth](https://unsloth.ai/)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
-* [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
+* [ModelScope Finetuning](https://modelscope.ai/civision/model-training) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
 * [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
@@ -772,7 +772,7 @@
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, **[Tally](https://tally.so/)**, [FormBricks](https://github.com/formbricks/formbricks) or [Deformity](https://deformity.ai/) - Form Builders
 * ⭐ **[Playwright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
-* [Automa](https://extension.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
+* [Automa](https://www.goautoma.com/extension/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
@@ -782,7 +782,7 @@
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries / [Examples](https://github.com/ln-dev7/square-ui)
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
-* [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
+* [ElasticSearch](https://www.elastic.co/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Giscus](https://giscus.app/) or [Remarkbox](https://www.remarkbox.com/) - Site Comment Systems
@@ -808,7 +808,7 @@
 * [uMap](https://umap-project.org/) - Custom Embeddable Maps for Websites / [GitHub](https://github.com/umap-project/umap/)
 * [Google Map Themes](https://snazzymaps.com/) - Google Map Themes for Web Developers
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
-* [wsrv.nl](https://wsrv.nl/) or [Images.weserv.nl](https://images.weserv.nl/) - Image Caching / Delivery
+* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -831,7 +831,7 @@
 * ⭐ **[VitePress](https://vitepress.dev/)** - Static Site Generator
 * ⭐ **[Astro](https://astro.build/)** - Static Site Generator / [X](https://x.com/astrodotbuild) / [Discord](https://discord.com/invite/grF4GTXXYm) / [GitHub](https://github.com/withastro/astro)
 * ⭐ **[Docusaurus](https://docusaurus.io/)** - Static Markdown Website Generators / [GitHub](https://github.com/facebook/docusaurus)
-* ⭐ **[Carrd](https://carrd.co/)** - Simple Website Builder
+* ⭐ **[Carrd](https://carrd.com/)** - Simple Website Builder
 * [Retype](https://retype.com/) - Static Markdown Website Generator / [GitHub](https://github.com/retypeapp/retype)
 * [Zola](https://www.getzola.org/) - Static Markdown Website Generator
 * [Publii](https://getpublii.com/) - Static Markdown Website Generator / No Coding
@@ -864,7 +864,7 @@
 * ⭐ **[Color & Contrast](https://colorandcontrast.com/)** - Color / Contrast Guide
 * [Colors & Fonts](https://www.colorsandfonts.com/) - Quickly Copy Colors
 * [Khroma](https://www.khroma.co/) or [Paletton](https://paletton.com/) - Color Scheme Designers
-* [Palettte](https://palettte.app/) - Color Palette Editor
+* [Palettte](https://www.bairesdev.com/tools/color-palette-app/editor/) - Color Palette Editor
 * [Color Converter](https://ozdemir.dev/color-converter/) - Color Code Format Converter
 * [PaletteGenerator](https://palettegenerator.com/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [color.review](https://color.review/), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Palette Builders
@@ -907,7 +907,7 @@
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [vite](https://vite.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
-* [Dembrandt](http://dembrandt.com/) - Extract / Derive Site Design / [GitHub](https://github.com/dembrandt/dembrandt)
+* [Dembrandt](https://www.dembrandt.com/) - Extract / Derive Site Design / [GitHub](https://github.com/dembrandt/dembrandt)
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
@@ -953,7 +953,7 @@
 
 * 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
 * ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [Geofetcher](https://geofetcher.appsinprogress.com/) or [GTmetrix](https://gtmetrix.com/) - Test Webpage Speed
-* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
+* ⭐ **[Geekflare Tools](https://geekflare.com/tools/)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
 * [LambdaTest](https://www.testmuai.com/) - Cross Browser Testing Cloud
 * [Pa11y](https://pa11y.org/), [⁠Accessibility Support](https://a11ysupport.io/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
@@ -1013,7 +1013,7 @@
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://dnstwister.report/) - Typosquatting Checkers
+* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://www.dnstwister.com/) - Typosquatting Checkers
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [OONI](https://ooni.org/) - Check Site Location Availability
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
@@ -1133,7 +1133,6 @@
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 * [favicon-hash](https://favicon-hash.kmsec.uk/) - Favicon Hash Generator
-* [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) or [⁠OpenCVE](https://app.opencve.io/cve/) - CVE Details / Search
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
