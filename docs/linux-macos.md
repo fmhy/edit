@@ -145,7 +145,7 @@
 * [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [AM](https://github.com/ivan-hc/AM) - App Image Managers
-* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
+* [Pkgs](https://pkgs.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://codeberg.org/fosk/emplace) - System Package Sync
@@ -212,7 +212,7 @@
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [⁠Spectacle](https://apps.kde.org/spectacle/) or [GPU Screen Recorder](https://git.dec05eba.com/gpu-screen-recorder/) / [GitHub](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - Screen Recorders
+* [⁠Spectacle](https://apps.kde.org/spectacle/) or [GPU Screen Recorder](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr) - Screen Recorders
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE-MEDIA-DOWNLOADER) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
@@ -883,7 +883,7 @@
 * 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
 * [UnitedBSD](https://www.unitedbsd.com/) - BSD Forum / Community
 * [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
-* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Unix-Like Package Database
+* [Pkgs](https://pkgs.org/) - Searchable Unix-Like Package Database
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer

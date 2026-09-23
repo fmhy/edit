@@ -850,7 +850,6 @@
 * [SouPalt](https://soupault.net/) - Static Website Generator with HTML Element Tree
 * [Vvveb](https://www.vvveb.com/), [Universe](https://onuniverse.com/), [Google Sites](https://sites.google.com/) or [Odoo](https://www.odoo.com/app/website) - Drag & Drop Website Builders
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
-* [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
 ***

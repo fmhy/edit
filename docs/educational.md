@@ -120,7 +120,7 @@
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours 
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
-* [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
+* [Matterport](https://discover.matterport.com/) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
 * [360Cities](https://www.360cities.net/), [⁠Tas360](https://tas360.au/explore) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
@@ -1018,7 +1018,7 @@
 * [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) - Open-Source Neural Network Go AI
 * [The Interactive Way To Go](https://playgo.to/en) - Interactive Beginner Tutorial 
 * [Josekipedia](https://www.josekipedia.com/) - Dictionary for Corner Openings
-* [Waltheri's Go Pattern Search](http://ps.waltheri.net/) - Pro Game Pattern Search Engine
+* [Waltheri's Go Pattern Search](https://ps.waltheri.net/) - Pro Game Pattern Search Engine
 * [GoProblems](https://goproblems.com/) - Tactical Puzzle Database
 * [GoKibitz](https://gokibitz.com/) - Game Reviews and Community Feedback
 * [Baduk.club](https://baduk.club/map/) - Map of Go clubs and Players
@@ -1682,7 +1682,6 @@
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [⁠free-clep-prep](https://free-clep-prep.com/) or [ModernStates](https://modernstates.org/) - Free CLEP / DSST Exam Prep
-* [⁠NCERT Books](https://ncert.nic.in/textbook.php) - NCERT Practice Books
 * [nzqa.toasting](https://nzqa.toasting.me/) - Download NZQA Past Papers
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [⁠exam-mate](https://www.exam-mate.com/pastpapers), [⁠Study Hatch](https://studyhatch.com/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
@@ -1712,7 +1711,7 @@
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
@@ -1861,7 +1860,7 @@
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
-* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
+* [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
 * [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Affixes.org](https://www.affixes.org/) - Affixes
 * [Fraze.it](https://fraze.it/) - Sentence Search

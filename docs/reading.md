@@ -57,7 +57,6 @@
 * [Loyal Books](https://www.loyalbooks.com/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
-* [Ebookzy](https://ebookzy.com/) - Classics
 * [⁠By the Fireplace](https://bythefireplace.com/) - Classics
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
@@ -253,7 +252,6 @@
 * [FreeWebNovel](https://freewebnovel.com/) - Web Novels
 * [WebNovel.com](https://www.webnovel.com/) - Web Novels
 * [Royal Road](https://www.royalroad.com/) - Web Novels
-* [⁠Creative Novels](https://creativenovels.com/) - Web Novels
 * [Scribblehub](https://www.scribblehub.com/) - Web Novels
 * [Novels.pl](https://www.novels.pl/) - Novels / Audio Recordings
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
@@ -309,7 +307,7 @@
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
+* [Chronicling America](https://www.loc.gov/collections/chronicling-america/titles/)
 * [Kiosko](https://en.kiosko.net/)
 * [FultonHistory](https://fultonhistory.com/Fulton.html)
 * [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
@@ -351,7 +349,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.net/ebooks), [3](https://nepu.app/ebooks), [4](https://nepu.is/ebooks) / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
+* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.io/ebooks), [3](https://nepu.app/ebooks), [4](https://nepu.is/ebooks) / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [Mapple](https://mapple.fun/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
@@ -448,7 +446,6 @@
 * [⁠JustManga](https://justmanga.cc/)
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
-* [⁠Neoko](https://neoko.site/) / [Discord](https://discord.gg/bcw3dV6Jnt)
 * [MangaHub](https://mangahub.io/)
 * [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
@@ -492,7 +489,7 @@
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
 * [PDF Magaz](https://www.pdfmagaz.in/) - Novafile
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) - Novafile
-* [MagDownload](https://magdownload.org/) - Nitroflare
+* [MagDownload](https://magdownload.com/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [Retromags](https://www.retromags.com/), [⁠Out-of-Print Archive](https://www.outofprintarchive.com/) or [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) - Retro Gaming Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
@@ -719,7 +716,6 @@
 * [Alexandria](https://digital.library.ucsb.edu/) - Research Papers
 * [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
-* [Paperity](https://paperity.org/) - Research Papers
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [Local Models Papers](https://rentry.org/LocalModelsPapers) - LLM Related Research Papers
