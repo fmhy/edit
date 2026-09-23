@@ -224,7 +224,6 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
-* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 

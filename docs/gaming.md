@@ -183,7 +183,7 @@
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
-* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Install via Wheel Wizard
+* [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Installed via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [⁠skate: recompiled](https://github.com/mchughalex/skate3recomp) - Skate 3 Xbox 360 Recompilation
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
@@ -403,7 +403,6 @@
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
-* [SwitchROMS](https://switchroms.io/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [N R](https://nintendoroms.xyz/) - ROMs / Switch / 3DS / Wii / GCN / Requires Telegram / [Telegram](https://t.me/+VhTgmHwgmNk1NjY0)
@@ -652,7 +651,6 @@
 * [GameKnot](https://gameknot.com/) - Chess Platform
 * [SparkChess](https://www.sparkchess.com/) - Chess Platform
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess Without Turns
-* [⁠HEARTH](https://hexhearth.live/) - Hexagonal Chess
 * [⁠Blindfold Chess](https://www.blindfold-chess.online/) - Play Blindfold Chess Against Stockfish
 * [Echo Chess](https://echochess.com/) - Morph-Style Chess / [Discord](https://discord.gg/echochess)
 * [⁠Drawback Chess](https://www.drawbackchess.com/) - Drawback Modifier Style Chess / [Discord](https://discord.gg/FZ34XU7q2U)
@@ -833,12 +831,11 @@
 * 🌐 **[⁠UBGHub](https://ubghub.org/)** - Index of Unblocked Game Sites / [Discord](https://discord.gg/7CMSEmzBDC)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * ⭐ **[mizu](https://mizumath.com/study.html)** - Browser Games / [Discord](https://discord.gg/MwKRJkJrJB)
-* ⭐ **[⁠anko](https://useanko.xyz/)** - Browser Games / [Discord](https://discord.gg/anko)
+* ⭐ **[⁠anko](https://useanko.xyz/games)** - Browser Games / [Discord](https://discord.gg/anko)
 * [Truffled](https://truffled.lol/g) - Browser Games / Ports
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
 * [GN-Math](https://gn-math.dev/) - Browser Games / Ports / use Adblocker / [Discord](https://discord.com/invite/D4c9VFYWyU)
-* [Anko](https://useanko.xyz/g?source=anko) - Browser Games
 
 ***
 
@@ -881,7 +878,7 @@
 * [Really Boring Website](https://really.boring.website/) - Online Scattergories
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Betrayal](https://betrayal.io/) - Among Us Clone
-* [Death by AI](https://deathbyai.gg/) - Survival Plan Game
+* [Death by AI](https://deathbyai.gg/) - Survival Plan Game / [Discord](https://discord.com/invite/fJ6K66TXUe)
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacewar.md)
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
@@ -962,7 +959,7 @@
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
 * [Simpsons: Hit & Run Web](https://rentry.co/FMHYB64#tshr) - Browser Simpsons: Hit & Run
-* [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/)
+* [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/) / [Subreddit](https://www.reddit.com/r/PolyTrack/) / [Discord](https://discord.com/invite/NqEwseAcZ9)
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [⁠Swervle](https://swervle.com/) - Daily Racing Game / [Discord](https://discord.com/invite/sSP8ZEJ9Pn)

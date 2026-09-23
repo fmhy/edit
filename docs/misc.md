@@ -266,6 +266,7 @@
 * [Esphome](https://esphome.io/) - Home Assistant / IoT / [Discord](https://discord.com/invite/KhAMKrd) / [GitHub](https://github.com/esphome/esphome)
 * [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
 * [⁠Tasmota](https://github.com/arendst/Tasmota) - Local Smart Home Firmware
+* [OpenIPC](https://openipc.org/) - Open-Source Firmware for Closed-Source IP Cameras
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
 * [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -355,7 +356,7 @@
 # ► Travel
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org), [⁠DetourMap](https://detourmap.com/) or [WikiTravel](https://wikitravel.org/) - Travel Guides / Roadside Attraction Lists
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides / Roadside Attraction Lists
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
@@ -408,6 +409,7 @@
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [Terraink](https://terraink.app/) / [GitHub](https://github.com/yousifamanuel/terraink), [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
+* [Kiwix Maps](https://browse.library.kiwix.org/#lang=eng&category=&q=map) - Offline Downloadable Maps
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [TextToMap](https://www.textomap.com/) - Text-Based Map Search
 * [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
@@ -860,7 +862,7 @@
 * 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)** or **[TFS Tools](https://transfemscience.org/misc/)**
 * ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
 * ⭐ **[Gender Dysphoria Bible](https://genderdysphoria.fyi/)** - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
-* [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy), [Valerie](https://valerie.vg/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
+* [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy), [Valerie](https://valerie.vg/transfem-hrt-guide/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) or [⁠Trans Clinic Index](https://transclinicindex.org.uk/) (UK) - Gender Identity Clinics / Map
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
 * [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Therapy Resources / [Discord](https://discord.gg/8weEXE7RzU)
@@ -1722,13 +1724,14 @@
 ## ▷ Interesting
 
 * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
-* ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** or [InfiniteConvo](https://infiniteconvo.ai/) - Never-Ending AI Conversations
-* ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
+* ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending AI Conversations
+* ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
 * ⭐ **[TierMaker](https://tiermaker.com/)**, [GOATY](https://goaty.gg/) or [OpenTierBoy](https://www.opentierboy.com/) / [GitHub](https://github.com/infinia-yzl/opentierboy) - Create / Explore Tier Lists
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
 * [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Iceberg Charts](https://www.reddit.com/r/IcebergCharts/) or [⁠Iceberg Threads](https://icebergthreads.com/) - Explore Obscure Topics
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
+* [⁠MythBusters Results](https://mythresults.com/) - Tested MythBusters Myth Repository
 * [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish They Knew at Your Age
 * [spurious correlations](https://tylervigen.com/spurious-correlations) - Random Correlations
@@ -1900,7 +1903,6 @@
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites
-* [PrankHotline](https://prankhotline.com/) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) or [Pranx](https://pranx.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) or [Fake Update](https://fakeupdate.net/) - Fake System Update Pranks
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware

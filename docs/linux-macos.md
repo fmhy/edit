@@ -145,7 +145,7 @@
 * [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [AM](https://github.com/ivan-hc/AM) - App Image Managers
-* [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
+* [Pkgs](https://pkgs.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
 * [emplace](https://codeberg.org/fosk/emplace) - System Package Sync

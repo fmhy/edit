@@ -212,7 +212,7 @@
 * [ScreenToGif](https://nicke.tech/screentogif) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
 * [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, macOS, Linux / [GitHub](https://github.com/justinfrankel/licecap)
 * [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
-* [Ultimate 88x31 Generator](https://pixelwolf.net/PWapps/88x31/), [blinkies.cafe](https://blinkies.cafe/) / [GitHub](https://github.com/piconaut/blinkies.cafe) or [⁠88x31px Button Generator](https://88x31.datakra.sh/) - Create Retro Blinkie GIFs / 88x31 Badges
+* [blinkies.cafe](https://blinkies.cafe/) / [GitHub](https://github.com/piconaut/blinkies.cafe) or [⁠88x31px Button Generator](https://88x31.datakra.sh/) - Create Retro Blinkie GIFs / 88x31 Badges
 * [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons), [88x31 Collection](https://88x31.nl/) or [Web Badges World](https://web.badges.world/) - Download Retro 88x31 Web Badges / Blinkies
 * [⁠DotChibiko](https://dot-chibiko.chabo.tokyo/) or [⁠Minecraft Chibi Skin Maker](https://nogard.dev/tools/minecraft-chibi-skin-maker) - Generate Chibi Style GIFs from Minecraft Skins
 
@@ -861,7 +861,7 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [⁠ColorTones](https://colortones.aashuu.tech/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
+* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
 * [Clariss](https://www.clariss.xyz/), [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
 * [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes

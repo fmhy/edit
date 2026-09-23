@@ -197,7 +197,6 @@
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
-* 🌐 **[⁠TextEditors](http://texteditors.org/)** - Text Editor Index + Reviews
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / Windows / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
@@ -639,7 +638,6 @@
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [Text-Generator](https://text-generator.app/)
-* [BoldTextGenerator](https://boldtextgenerator.org/)
 * [FontGenOnline](https://fontgenonline.com/)
 * [TextEditor](https://texteditor.com/)
 * [CuteFontCopy](https://cutefontcopy.com/)

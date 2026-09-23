@@ -171,6 +171,7 @@
 * [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
+* [⁠Git Cheat Sheet](https://wizardzines.com/git-cheat-sheet.pdf) - Git Cheat Sheet
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
 * [GitKraken](https://www.gitkraken.com/), [Ungit](https://github.com/FredrikNoren/ungit) or [RelaGit](https://rela.dev/) - Git GUIs
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git TUIs
@@ -205,6 +206,7 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
 * [Graphite](https://graphite.com/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
+* [Mirrobot](https://mirrowel.github.io/Mirrobot-agent/?bot=Mirrobot-Agent) - Customizable AI GitHub Pull Request Review / [GitHub](https://github.com/Mirrowel/Mirrobot-agent)
 * [⁠Diffshub](https://diffshub.com/) - GitHub Diff Checker
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
@@ -214,7 +216,7 @@
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
+* [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) - Dynamically Generated GitHub Readme Stats
 * [Skill Icons](https://skillicons.dev/) or [⁠Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Skill Badges for GitHub Readme / Resumes
 * [For the Badge](https://forthebadge.com/) or [⁠Fancy Badges](https://jmcrafter26.github.io/badges/) / [GitHub](https://github.com/JMcrafter26/badges) - Custom GitHub Badges
 * [⁠Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator) - GitHub Profile Generator / Editor
@@ -850,7 +852,6 @@
 * [SouPalt](https://soupault.net/) - Static Website Generator with HTML Element Tree
 * [Vvveb](https://www.vvveb.com/), [Universe](https://onuniverse.com/), [Google Sites](https://sites.google.com/) or [Odoo](https://www.odoo.com/app/website) - Drag & Drop Website Builders
 * [Tails](https://devdojo.com/tails) - Tailwind CSS Website Builder
-* [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
 ***
@@ -1133,7 +1134,6 @@
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 * [favicon-hash](https://favicon-hash.kmsec.uk/) - Favicon Hash Generator
-* [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) or [⁠OpenCVE](https://app.opencve.io/cve/) - CVE Details / Search
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App

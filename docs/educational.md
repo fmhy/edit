@@ -842,7 +842,8 @@
 
 ## ▷ Survival / Preparedness
 
-* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)** or  [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
+* ↪️ **[Map Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
+* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**, [Kiwix Library](https://browse.library.kiwix.org/#lang=eng&category=&q=prep) or [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) - Survival Manual / [App](https://survivalmanual.github.io/)
 * [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) - Survival PDFs
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
@@ -1306,7 +1307,6 @@
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
-* [GSL](https://www.ayelefoundation.org/gsl/) - Ghanaian Sign Language Dictionary
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
@@ -1683,7 +1683,6 @@
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [⁠free-clep-prep](https://free-clep-prep.com/) or [ModernStates](https://modernstates.org/) - Free CLEP / DSST Exam Prep
-* [⁠NCERT Books](https://ncert.nic.in/textbook.php) - NCERT Practice Books
 * [nzqa.toasting](https://nzqa.toasting.me/) - Download NZQA Past Papers
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [⁠exam-mate](https://www.exam-mate.com/pastpapers), [⁠Study Hatch](https://studyhatch.com/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
@@ -1713,7 +1712,7 @@
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
@@ -1862,7 +1861,7 @@
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
-* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
+* [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
 * [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Affixes.org](https://www.affixes.org/) - Affixes
 * [Fraze.it](https://fraze.it/) - Sentence Search

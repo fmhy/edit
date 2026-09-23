@@ -256,11 +256,13 @@
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Tracking / Database / [Discord](https://discord.gg/cMjGusjbwg)
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Tracking / Database / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Tracking / Database / [Discord](https://discord.gg/v4SUud7)
+* [⁠AxekinDB](https://db.axekin.com/) - Game Data Database
 * [Incendar](https://incendar.com/), [⁠gamereleases.gg](https://gamereleases.gg/) or [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5) - Game Release Date Trackers
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Database
 * [IGDB](https://www.igdb.com/) - Game Database / [Discord](https://discord.com/invite/igdb)
 * [Moby Games](https://www.mobygames.com/) - Game Database / [Discord](https://discord.gg/8zWGTQp)
 * [GiantBomb](https://www.giantbomb.com/games/) - Game Database
+* [RAWG](https://rawg.io/) - Tracking / Database
 * [Grouvee](https://www.grouvee.com/) - Tracking / Database
 * [RankOne](https://www.rankone.global/) - Tracking / Database
 * [GG](https://ggapp.io/) - Tracking / Database
@@ -833,7 +835,7 @@
 
 * ⭐ **[Blockbench](https://www.blockbench.net/)** - Low Poly 3D Editor / [Discord](https://discord.com/invite/blockbench)
 * [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/) / [Discord](https://discord.com/invite/wfayQA6Dyc), [MiEX](https://bramstout.nl/en/miex/), [Minutor](https://seancode.com/minutor/) - Minecraft World Exporters
-* [BDStudio](https://eszesbalint.github.io/bdstudio/editor), [⁠BDEngine](https://bdengine.app/) or [⁠Bedrock Editor](https://github.com/Mojang/minecraft-editor) - 3D Editors
+* [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [⁠Bedrock Editor](https://github.com/Mojang/minecraft-editor) - 3D Editors
 * [Mine-imator](https://www.mineimator.com/) - Animation Tool / [2.0 Version](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) / [Forum](https://www.mineimatorforums.com/) / [Discord](https://discord.com/invite/GxFp6xv) / [GitHub](https://github.com/stuffbydavid/Mine-imator)
 * [Chunky](https://chunky-dev.github.io/docs/) - Photorealistic Renderer / [Discord](https://discord.com/invite/VqcHpsF) / [GitHub](https://github.com/chunky-dev/chunky)
 * [⁠Minecraft Generator](https://minecraftgenerator.com/) - Minecraft Model Generators
