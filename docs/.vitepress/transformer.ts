@@ -236,6 +236,7 @@ export function transform(text: string): string {
     .replace(/####/g, '###')
     // Replace emojis
     .replace(/⭐/g, ':star:')
+    .replace(/🌟/g, ':glowing-star:')
     .replace(/🌐/g, ':globe-with-meridians:')
     .replace(/↪/g, ':repeat-button:')
     // Replace note/warning/tip

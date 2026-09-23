@@ -1,3 +1,3 @@
 #### CinebyTV Note
 
-Note that CinebyTV is not affiliated with original Cineby site.
+Note that neither CinebyTV or Cineby (gdn) are affiliated with original Cineby site.
