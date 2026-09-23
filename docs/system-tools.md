@@ -176,7 +176,7 @@
 ## ▷ Virtual Machines
 
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** or [Simone's Computer](https://simone.computer/#/webdesktops) - Browser Operating Systems / VMs
-* 🌐 **[Virtual OS Museum](http://virtualosmuseum.org/)** - Multi Virtual Machine Compilation (1700+)
+* 🌐 **[Virtual OS Museum](https://virtualosmuseum.org/)** - Multi Virtual Machine Compilation (1700+)
 * ↪️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_emulators_on_android)**
 * ⭐ **[VMware Workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)** - Virtual Machine / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
 * ⭐ **[QEMU](https://www.qemu.org/)** - Virtual Machine / Use w/ Virt-Manager or Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
@@ -295,7 +295,7 @@
 * [Multi-Monitor Calculator](https://multimonitorcalculator.com/) - Dual-Monitor Setup Planning / Tests
 * [Wide Gamut](https://www.wide-gamut.com/) - Color Compatibility Test
 * [⁠ICC Profiles Guide](https://gist.github.com/Overimagine1/c0e5ebe60838e7dd0417549ea7aae260) - Guide for Finding ICC Profiles
-* [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
+* [Dead.Pixel](https://displaytech.org/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop for Only One Monitor
@@ -357,7 +357,7 @@
 * [VB-Audio](https://vb-audio.com/Cable/) - Virtual Audio Cable / Select Download on Homepage / Donation is Optional
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
-* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
+* [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/mic/) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 

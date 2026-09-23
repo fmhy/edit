@@ -163,7 +163,7 @@
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Screenshot](https://jpgonline.com/screenshot) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
-* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
+* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.rocks/) - Now Playing Overlays
 * [⁠Twitch Poll Overlay](https://poll.ma.pe/) - ⁠Twitch Poll Overlay
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
@@ -291,7 +291,7 @@
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh), [⁠Duck Guides](https://duckkota.gitlab.io/guides/) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
-* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://trakt.tv/) - Media Trackers / List Creators
+* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://app.trakt.tv/) - Media Trackers / List Creators
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
@@ -496,7 +496,7 @@
 ## ▷ Animation Tools
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Discord](https://discord.gg/9KPvQ4H), [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Discord](https://discord.gg/9KPvQ4H), [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://sketchup.trimble.com/en/plans-and-pricing/sketchup-free) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Extractor](https://fmodel.app/) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) 
 * [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Blender](https://www.blender.org/) / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [Discord](https://discord.com/invite/tooll3-823853172619083816) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
@@ -537,7 +537,7 @@
 * [Dareful](https://dareful.com/) - 4K Stock Videos
 * [Monzoom](https://www.monzoom.com/) - 4K Stock Videos
 * [BeachFrontBroll](https://www.beachfrontbroll.com/) - Stock Videos
-* [Videvo](https://www.videvo.net/) - Stock Videos
+* [Magnific](https://www.magnific.com/videos) - Stock Videos
 * [veed.io](https://www.veed.io/videos) - Stock Videos
 * [VidsPlay](https://www.vidsplay.com/) - Stock Videos
 * [MixKit](https://mixkit.co/) - Stock Videos

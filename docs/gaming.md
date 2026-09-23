@@ -382,7 +382,7 @@
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
-* [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [⁠MDK](https://mdk.cab/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
+* [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [⁠MDK](https://mdk.cab/) or [Arcade Database](https://adb.arcadeitalia.net/default.php) - Arcade MAME ROMs
 * [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
@@ -403,7 +403,8 @@
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
-* [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
+* [SwitchROMS](https://switchroms.io/) - ROMs / Switch
+* [SmallGames](https://smallgames.ch/) - ROMs / Switch / [Discord](https://discord.com/invite/rgttByzYRY)
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [N R](https://nintendoroms.xyz/) - ROMs / Switch / 3DS / Wii / GCN / Requires Telegram / [Telegram](https://t.me/+VhTgmHwgmNk1NjY0)
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
@@ -686,7 +687,7 @@
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [⁠Classic Klondike Solitaire](https://classicklondikesolitaire.com/free-solitaire-games), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, macOS, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
-* [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+* [Poker Now](https://www.pokernow.com/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 
 ***
 
@@ -793,7 +794,7 @@
 * [⁠Playlin](https://playlin.io/) or [⁠Listdle](https://listdle.com/) - Daily Game Aggregators
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
-* [TIC-80 Games](https://tic80.com/play?cat=0&sort=2) - TIC-80 Browser Games
+* [TIC-80 Games](https://tic80.com/play/games/top) - TIC-80 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
@@ -868,7 +869,7 @@
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
-* [Pixoguess](https://pixoguess.io/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
+* [Pixoguess](https://pixoguess.com/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game / [Discord](https://discord.com/invite/9R2PaHf4RG)
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Requires Sign-Up
@@ -913,7 +914,7 @@
 * ⭐ **[NZP](https://nzp.gay/)** - Browser Retro Zombies Recreation
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS
 * [Survev.io](https://survev.io/), [ZombsRoyale.io](https://zombsroyale.io/) or [Suroi](https://suroi.io/) / [Discord](https://discord.com/invite/j8pPtMa843) / [GitHub](https://github.com/HasangerGames/suroi) - Top-Down Battle Royale / Survev.io Based / [Discord](https://discord.gg/75RAK3p3K2)
-* [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Games
+* [OpenArena Live](https://kosmi.io/openarena) or [Q1K3](https://play.js13kgames.com/q1k3/) - Quake Inspired Games
 * [⁠Quakelike](https://leereilly.net/quakelike/) - Quake w/ Procedurally Generated Levels / [GitHub](https://github.com/leereilly/quakelike)
 * [WebLiero](https://www.webliero.com/) - Multiplayer Liero Clone
 * [⁠Voxiom](https://voxiom.io/) - Minecraft Inspired PVP FPS / [Discord](https://discord.gg/GBFtRcY)
@@ -1108,7 +1109,7 @@
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [⁠MCdle](https://www.mcdle.net/) or [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Guessing Games
 * [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
-* [Pokémon Infinite Heardle](https://pkmn-infinite-heardle.glitch.me/) - Pokémon Music Guessing
+* [Pokémon Infinite Heardle](https://nterrien.github.io/pkmn-infinite-heardle/) - Pokémon Music Guessing
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Owdle](https://owdle.guessing.day/) - Overwatch Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game

@@ -84,7 +84,7 @@
 * [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
 * [Poedit](https://poedit.com/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
-* [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
+* [Sign Translate](https://rylo.com/sign/translate/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
 * [⁠Braille Translator](https://wecapable.com/braille-translator/) - Braille Translator
 * [LingoJam](https://lingojam.com/) - Translator Creator
@@ -474,7 +474,7 @@
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [Discord](https://discord.gg/2uDybryKPe) / [GitHub](https://github.com/typst/typst) 
 * ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/), [⁠TeXPage](https://www.texpage.com/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
-* [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
+* [⁠Notepix](https://notepix.ai/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
@@ -537,7 +537,7 @@
 * ⭐ **[Font Piracy 101](https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90)** - Font Download Guide
 * ⭐ **[wFonts](https://wfonts.com/)**
 * ⭐ **[BeFonts](https://befonts.com/)**
-* [Free Fonts Family](https://freefontsfamily.org/)
+* [Free Fonts Family](https://freefontsfamily.com/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [⁠FontFreak](https://www.fontfreak.com/)
 * [FontsFree](https://fontsfree.net)

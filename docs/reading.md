@@ -21,7 +21,7 @@
 * [Bookracy](https://bookracy.com/) - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
-* [Library Land](https://library.land/) - Books / Online Reading
+* [Read From](https://readfrom.net/) - Books / Online Reading
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
@@ -289,7 +289,7 @@
 * [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
 * [⁠Asianfanfics](https://www.asianfanfics.com/) - Asian Fanfiction
 * [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](https://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
 * [fiction.live](https://fiction.live/) - Fanfiction
@@ -307,7 +307,7 @@
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
+* [Chronicling America](https://www.loc.gov/collections/chronicling-america/titles/)
 * [Kiosko](https://en.kiosko.net/)
 * [FultonHistory](https://fultonhistory.com/Fulton.html)
 * [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
@@ -349,11 +349,11 @@
 
 ## ▷ Streaming
 
-* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.net/ebooks), [3](https://nepu.app/ebooks), [4](https://nepu.is/ebooks) / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
+* ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.io/ebooks), [3](https://nepu.app/ebooks), [4](https://nepu.is/ebooks) / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
-* [Mapple](https://mapplee.com/audiobooks)
+* [Mapple](https://mapple.fun/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
-* [BookAudiobook](https://bookaudiobook.net/)
+* [BookAudiobook](https://bookaudiobooks.com/)
 * [CozyAudiobooks](https://cozyaudiobooks.com/category/) / Some NSFW
 * [Audiozaic](https://audiozaic.com/)
 * [Audio AZ](https://audioaz.com/)
@@ -389,7 +389,7 @@
 * [XOXO Comics](https://xoxocomic.com/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [OceComic](https://ocecomic.com/)
-* [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
+* [4chan /co/](https://boards.4chan.org/co/catalog#s=official%20win) - Weekly Downloads
 * [ZipComic](https://www.zipcomic.com/)
 * [Bookracy](https://bookracy.com/) - Download Comics / [Download Button](https://greasyfork.org/en/scripts/536768)
 * [⁠YSK Comics](https://www.ysk-comics.com/en) - Download Comics / Signup Required
@@ -489,7 +489,7 @@
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
 * [PDF Magaz](https://www.pdfmagaz.in/) - Novafile
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) - Novafile
-* [MagDownload](https://magdownload.org/) - Nitroflare
+* [MagDownload](https://magdownload.com/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines
 * [Retromags](https://www.retromags.com/), [⁠Out-of-Print Archive](https://www.outofprintarchive.com/) or [VGHF](https://archive.gamehistory.org/folder/9a193e8c-67e0-45ff-98d2-a33e85721cc4) - Retro Gaming Magazines
 * [PC Zone](https://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
@@ -561,7 +561,7 @@
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
 * [OpenStax College Textbooks](https://philschatz.com/books/) - Textbooks
 * [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
-* [TextBookGo](http://textbookgo.com/) - Textbooks
+* [TextBookGo](https://textbookgo.com/) - Textbooks
 * [Wikibooks](https://wikibooks.org/) - Open-Content Textbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
@@ -615,7 +615,7 @@
 * [World Radio History](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
-* [Radical Scatters](http://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
+* [Radical Scatters](https://radicalscatters.unl.edu/indices.html) - Emily Dickinson Fragments / Texts
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](https://vangoghletters.org/vg/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
@@ -713,10 +713,9 @@
 * [SocArXiv](https://osf.io/preprints/socarxiv) - Social Science Research Papers
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
-* [Alexandria](https://www.alexandria.ucsb.edu/) - Research Papers
+* [Alexandria](https://digital.library.ucsb.edu/) - Research Papers
 * [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
-* [Paperity](https://paperity.org/) - Research Papers
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [Local Models Papers](https://rentry.org/LocalModelsPapers) - LLM Related Research Papers
@@ -776,7 +775,7 @@
 * [Proquest](https://www.proquest.com/) - Journals / Articles
 * [MDPI](https://www.mdpi.com/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays
-* [E-International Relations](https://www.e-ir.info/) - International Relations Articles
+* [E-International Relations](https://www.e-ir.org/) - International Relations Articles
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
 * [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive

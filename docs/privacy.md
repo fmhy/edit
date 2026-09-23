@@ -199,7 +199,7 @@
 * [⁠Kicksecure Wiki](https://www.kicksecure.com/wiki) - Educational Guide / [Forum](https://forums.kicksecure.com/)
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
-* [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)
+* [Hostux](https://hostux.net/en/) - Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/) - Product Privacy Ratings
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
@@ -361,7 +361,7 @@
 * ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/), [⁠BrowserScan](https://www.browserscan.net/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
 * [ClearURLs](https://docs.clearurls.xyz) / [GitHub](https://github.com/ClearURLs/Addon) / [GitLab](https://gitlab.com/KevinRoebert/ClearUrls) or [URLCleaner](https://urlcleaner.net/) - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
-* [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
+* [Data Removal Guide](https://inteltechniques.com/workbook) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Cookie Free Fingerprinting Demonstration
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests

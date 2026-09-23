@@ -74,7 +74,7 @@
 
 * ⭐ **[Linktree](https://linktr.ee/)** - Unlimited / Custom URLs
 * ⭐ **[Linkstack](https://linkstack.org)** / [GitHub](https://github.com/LinkStackOrg/LinkStack) or **[LittleLink](https://littlelink.io/)** - Unlimited / Custom URLs / Self-Hosted
-* ⭐ **[Carrd](https://carrd.co/)** - Unlimited / Custom URLs / Multiple Designs
+* ⭐ **[Carrd](https://carrd.com/)** - Unlimited / Custom URLs / Multiple Designs
 * [⁠WonderLink](https://en.wonderlink.de/) - Unlimited / Custom URLs
 * [BioSites](https://biosites.com/) - Unlimited / Custom URLs
 * [AlsoAt](https://alsoat.app) - Unlimited / Custom URLs
@@ -103,7 +103,7 @@
 * ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat)
 * ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, macOS / [GitHub](https://github.com/mumble-voip/mumble)
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tlk.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
-* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [Source Code](https://dev.gajim.org/gajim/gajim)
+* ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [GitLab](https://gitlab.com/gajim/gajim)
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) or [Bolt](https://williamhorning.dev/bolt/) / [Self-Host](https://williamhorning.dev/lightning/) - Cross-Platform Chatbot Frameworks
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, macOS, Linux, Web
@@ -244,7 +244,7 @@
 
 ## ▷ Search Engines
 
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](https://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
@@ -432,7 +432,7 @@
 * [Useplaintext](https://useplaintext.email/) - How to Use Plaintext Email
 * [Got Your Back](https://github.com/GAM-team/got-your-back) - Backup Gmail Messages
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Emails, URLs, and Numbers from Text
-* [scr.im](http://scr.im/) - Email Captcha Protection
+* [scr.im](https://scr.im/) - Email Captcha Protection
 
 ***
 
@@ -551,7 +551,7 @@
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager / [TUI](https://github.com/davep/braindrop)
-* [Start.me](https://about.start.me/) - Web-Based Manager
+* [Start.me](https://start.me/) - Web-Based Manager
 * [Bookmark Manager Zero](https://bmz.absolutezero.fyi/) - Firefox / Chrome Extension / Android
 * [Bort](https://bort.io/) - Web-Based Manager / Requires Dropbox
 * [wallabag](https://wallabag.org/) - Web-Based Manager
@@ -905,7 +905,7 @@
 * 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - Awesome OSINT
 * ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)**
 * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
-* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
+* ⭐ **[IntelTechniques](https://inteltechniques.com/)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** or [⁠OSINT Cabal](https://osintcabal.org/livecenter/live.html) - Online OSINT Tools / Web
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
@@ -922,7 +922,7 @@
 
 ## ▷ OSINT Collections
 
-* [OSINT Combine](https://www.osintcombine.com/tools) - OSINT Investigation Tools
+* [OSINT Combine](https://www.osintcombine.com/free-osint-tools) - OSINT Investigation Tools
 * [Bellingcat](https://bellingcat.gitbook.io/toolkit) - Online Investigation Toolkit
 * [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
 * [The Pika's OSINT ToolBox](https://pikaosint.pages.dev/) - General Index / [GitHub](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox)

@@ -28,7 +28,7 @@
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [PlantText](https://www.planttext.com/) - UML Editor
 
-[DGM](https://dgm.sh/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [ParaView](https://www.paraview.org/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
+[DGM](https://app.dgmjs.dev/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [ParaView](https://www.paraview.org/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
 
 ***
 
@@ -60,7 +60,7 @@
 
 ## Dynamic DNS Services / Subdomains
 
-* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/application-services/products/dns/)**
+* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/products/dns/)**
 * ⭐ **[deSEC](https://desec.io/)**
 
 [DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
@@ -78,7 +78,7 @@
 ***
 
 * [RetroGames.cc](https://www.retrogames.cc/) - Retro Consoles / EmulatorJS
-* [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
+* [OldGameShelf](https://oldgames.app/) - Retro Consoles / EmulatorJS
 * [RetroGamesNexus](https://retrogamesnexus.com/) - Retro Consoles / EmulatorJS
 * [ClassicGameZone](https://classicgamezone.com/) - Retro Consoles / EmulatorJS
 * [retroplayonline](https://www.retroplayonline.com/) - Retro Consoles / EmulatorJS
@@ -241,7 +241,7 @@
 
 ### Trakt Tools
 
-[Apps](https://trakt.tv/apps) / [Recommendations](https://couchmoney.tv/) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [List Import](https://github.com/damienhaynes/TraktRater)
+[Apps](https://app.trakt.tv/apps) / [Recommendations](https://couchmoney.tv/) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [List Import](https://github.com/damienhaynes/TraktRater)
 
 
 ### Letterboxd Tools
@@ -293,14 +293,14 @@
 * [The Session](https://thesession.org/) - Traditional Irish Sheet Music
 * [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
 * [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
-* [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities
+* [Sheet Music Consortium](https://www.library.ucla.edu/about/programs/sheet-music-consortium/) - Search Universities
 * [Public Domain Sherpa](https://www.publicdomainsherpa.com/free-sheet-music.html) - Sheet Music Resources
 
 ***
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [AnyRGB](https://www.anyrgb.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [⁠PNGitem](https://www.pngitem.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [Pikist](https://www.pikist.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHut](https://pnghut.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [⁠PNGitem](https://www.pngitem.com/)
 
 ***
 
@@ -333,7 +333,7 @@
 
 * ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/en/#list) / [Web Proxy](https://free-proxy-list.net/en/web-proxy.html#list), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
+[Free-Proxy-List](https://free-proxy-list.net/#list) / [Web Proxy](https://free-proxy-list.net/web-proxy.html#list), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [premiumproxy](https://premiumproxy.net/), [Proxynova](https://www.proxynova.com/proxy-server-list), [⁠GetFreeProxy](https://getfreeproxy.com/) / [GitHub](https://github.com/gfpcom/free-proxy-list)
 
 ***
 
@@ -386,7 +386,7 @@
 * [heroicons-animated](https://www.heroicons-animated.com/) or [lucide-animated](https://lucide-animated.com/) - Animated Icons
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [Iconbuddy](https://iconbuddy.com/), [Devicon](https://devicon.dev/), [IconDuck](https://iconduck.com/), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composables.com/icons), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
+[Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [Iconbuddy](https://iconbuddy.com/), [Devicon](https://devicon.dev/), [Magnific](https://www.magnific.com/icons), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composables.com/icons), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
 
 ***
 

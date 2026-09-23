@@ -161,7 +161,7 @@
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [Port Forwarding Guide](https://wispydocs.pages.dev/torrenting/#port-forwarding)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
-* [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
+* [btcache](https://btcache.me/), [iTorrents](https://itorrents.net/) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator

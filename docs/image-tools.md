@@ -19,7 +19,7 @@
 * [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
 * [⁠RapidRAW](https://www.getrapidraw.com/) / Windows, macOS, Linux / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW)
-* [Paint.net](https://www.getpaint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
+* [Paint.net](https://paint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
 * [Scribus](https://www.scribus.net/) or [Quarkdown](https://quarkdown.com/) / [GitHub](https://github.com/iamgio/quarkdown) - Page Layout & Typesetting Programs / Windows, macOS, Linux
   
@@ -34,7 +34,7 @@
 * [⁠PaintFE (Web)](https://www.paintfe.com/online/) - Full-Featured
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
+* [Polotno Studio](https://polotno.com/studio) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
@@ -150,7 +150,7 @@
 * [minimator](https://minimator.maxwellito.com/) - Create Grid-Based Drawings / Web / [GitHub](https://github.com/maxwellito/minimator/)
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids / Web
 * [Animated Drawings](https://sketch.metademolab.com/), [FAIR Animated Drawings](https://fairanimateddrawings.com/site/home), [MotorPen](https://motorpen.com/) - Animate Drawings
-* [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
+* [DrawTab](https://docs.sevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 
 ***
 
@@ -337,7 +337,7 @@
 * [PNGTree](https://pngtree.com/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
-* [PSDLY](https://www.psdly.to/)
+* [PSDLY](https://www.psdly.co.uk/)
 * [Unblast](https://unblast.com/)
 * [Gift4Designer](https://gift4designer.net/)
 * [CGPerec](https://t.me/cgperec)
@@ -397,7 +397,7 @@
 * [MaxURL](https://qsniyg.github.io/maxurl/) - Larger Image Search / [GitHub](https://github.com/qsniyg/maxurl)
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
-* [Multicolr](https://labs.tineye.com/multicolr/) - Color-Based Image Search
+* [Multicolr](https://tineye.com/labs/multicolr) - Color-Based Image Search
 * [trace.moe](https://trace.moe/), [⁠Onegai](https://onegai.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search
 * [Pose Search](https://x6ud.github.io/pose-search/) - Pose Reference Image Search / [GitHub](https://github.com/x6ud/pose-search)
 * [⁠Angle Ref Search](https://angleref.com/) - Head Pose Reference Image Search
@@ -442,7 +442,7 @@
 * [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloader
 * [Flickr Commons](https://www.flickr.com/commons) - Public Photo Archives / [Downloader](https://github.com/beaufour/flickr-download)
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
-* [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Stock Photos / Vectors
+* [Nohat](https://nohat.cc/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Stock Photos / Vectors
 * [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Vector Images
 * [VectorPortal](https://www.vectorportal.com/) or [VectorStock](https://www.vectorstock.com/free-vectors) - Vector Images / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
@@ -721,7 +721,7 @@
 * ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)**
 * ⭐ **[FastStone](https://www.faststone.org/index.htm)**
 * ⭐ **[qView](https://interversehq.com/qview/)** / [GitHub](https://github.com/jurplel/qView)
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnview/)**
 * ⭐ **[Digikam](https://www.digikam.org/)** / [Source Code](https://invent.kde.org/graphics/digikam)
 * ⭐ **[ImageGlass](https://imageglass.org/)** / [GitHub](https://github.com/d2phap/ImageGlass)
 * [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
@@ -871,7 +871,7 @@
 * ↪️ **[Camera Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_cameras)** 
 * ↪️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
 * [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
-* [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
+* [Camera Wiki](https://camera-wiki.org/) - Camera Model Wiki
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [⁠DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) / [X](https://x.com/Blackmagic_News), [darktable](https://www.darktable.org/) / [GitHub](https://github.com/darktable-org/darktable), [⁠RapidRAW](https://www.getrapidraw.com/) / [Discord](https://discord.com/invite/cvFugZ2Hw8) / [GitHub](https://github.com/CyberTimon/RapidRAW), [RawTherapee](https://www.rawtherapee.com/) / [GitHub](https://github.com/RawTherapee/RawTherapee), [FerrumPix](https://ferrumpix.app/) / [GitHub](https://github.com/Bitpainter75/FerrumPix), [⁠LightZone](https://github.com/ktgw0316/LightZone) or [Lightroom Classic on Linux](https://github.com/6im0n/lightroom-classic-on-linux) - RAW Photo Editors / Windows, macOS, Linux
 * [HDRMerge](https://jcelaya.github.io/hdrmerge/) - RAW Photography HDR Merge Tool / [GitHub](https://github.com/jcelaya/hdrmerge)

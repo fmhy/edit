@@ -15,7 +15,7 @@
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
-* [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
+* [Sonora](https://github.com/nolight132/sonora) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Volta](https://volta-music.com/) - Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
@@ -142,7 +142,7 @@
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
-* ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
+* ⭐ **[Pocket Casts](https://pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
 * [Podchaser](https://www.podchaser.com/charts), [Podcast Index](https://podcastindex.org/) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
@@ -188,7 +188,7 @@
 * [Generative.fm](https://generative.fm/) - Generative Ambient Music
 * [NTS Field Recordings](https://www.nts.live/infinite-mixtapes/field-recordings), [Earth.fm](https://earth.fm/), [tree.fm](https://www.tree.fm/) or [Sounds of Maine](https://soundsofmaine.life/) - Field Recordings
 * [HaloMe](https://halome.nu/) - Halo Menu Screens
-* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
+* [CanvasCycle](https://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
 * [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [You are Listening To](https://youarelistening.to/) / [2](https://www.nts.live/shows/youarelisteningto) - Ambient City Sounds & Live Police Radio
@@ -343,7 +343,7 @@
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Synced Lyrics
 * [LoaderSpot](https://loadspot.vercel.app/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
-* [Opslagify](https://opslagify.deruever.nl/) - Calculate Storage Size of Spotify Library
+* [Opslagify](https://opslagify.app/) - Calculate Storage Size of Spotify Library
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
 * [Chart My Music](https://www.chartmymusic.com/spotify/) - Generate Spotify Collage
 * [Tierify](https://tierify.app/) - Create Spotify Tier Lists
@@ -364,7 +364,7 @@
 * [Spotlistr](https://www.spotlistr.com/) - Platform-to-Spotify Playlist Converter
 * [Playlistor](https://playlistor.io/) - Convert Apple Music Playlists to Spotify
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Better Shuffle for Playlists
-* [Sort Your Music](http://sortyourmusic.playlistmachinery.com/) - Sort Playlists / [GitHub](https://github.com/plamere/SortYourMusic)
+* [Sort Your Music](https://sortyourmusic.playlistmachinery.com/) - Sort Playlists / [GitHub](https://github.com/plamere/SortYourMusic)
 * [Spotify Dedup](https://spotify-dedup.com/) - Remove Duplicates in Playlists / [GitHub](https://github.com/JMPerez/spotify-dedup/)
 * [Share Liked Songs](https://nonnullish.github.io/share-liked-songs/) - Create Shareable Playlist from Liked Songs / [GitHub](https://github.com/nonnullish/share-liked-songs)
 * [Spotify Playlist Archive](https://spotifyplaylistarchive.com/) - Public Spotify Playlists Archive / [GitHub](https://github.com/mackorone/spotify-playlist-archive)
@@ -459,7 +459,7 @@
 * [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
 * [punk.cat](https://punkcata.blogspot.com/) - 320kb / MP3
-* [SongsLover](https://songslover.li/) - 256kb / MP3
+* [SongsLover](https://songslover.net/) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Internet Archive](https://archive.org/details/audio) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
@@ -512,7 +512,7 @@
 * [oVPN DJ Mixes](https://rentry.co/FMHYB64#ovpn-dj-mixes) - DJ Mixes
 * [⁠Grime Archive](https://www.grimearchive.org/) - Grime Livesets
 * [LOA2K](https://loa2k.neocities.org/) or [Nu Guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
-* [⁠Systems of Romance](https://www.systemsofromance.com/blog/) -  Post-Punk / Minimal Synth / MP3
+* [⁠Systems of Romance](https://www.systemsofromance.com/blog/) - Post-Punk / Minimal Synth / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC
 * [Nuclear Holocaust](https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [We Need Match](https://we-need-match.ru/) - Metal / FLAC / M4A
@@ -592,7 +592,7 @@
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
 * [Fugue](https://icons8.com/music) or [Free to Use](https://freetouse.com/music) - Music for Creators
 * [Chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
-* [⁠DOVA-SYNDROME](https://dova-s.jp/en/) - Royalty-Free Library
+* [⁠OpenTracks](https://opentracks.com/en/) - Royalty-Free Library
 * [tunetank](https://tunetank.com/) - Music for Videos
 * [⁠Sound Image](https://soundimage.org/) - Music for Games
 * [⁠Matthew C. Wright](https://matthewcwright.com/) - Royalty-Free Piano Music
@@ -633,7 +633,7 @@
 * [NSF j](https://nsf.nesbbs.com/) - NES Music
 * [HVSC](https://www.hvsc.c64.org/) - Commodore 64 Music
 * [⁠8Beats](https://8beats.co/) - Game Music Radio / [Discord](https://discord.gg/EB9CFRacgN)
-* [⁠CVGM](http://cvgm.net/) - Game Music Radio
+* [⁠CVGM](https://www.cvgm.net/) - Game Music Radio
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
 * [JetSetRadio](https://jetsetradio.live/), [2](https://jetsetradiofuture.live/) - Game Music Radio
 * [Rainwave](https://rainwave.cc/) - Game Music Radio
@@ -764,7 +764,7 @@
 * [Rarewares](https://www.rarewares.org/) - Rare Audio Software / Tools
 * [Vocaroo](https://vocaroo.com/) - Online Voice Recorder
 * [MusicKit](https://musickit.jull.dev/), [⁠Tuner](https://codeberg.org/thetwom/Tuner) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
-* [Tuner Ninja](https://tuner.ninja/) or [⁠Pano Tuner](https://panotuner.com/) - Instrument Tuners
+* [Tuner Ninja](https://tuner.ninja/) or [⁠Tonalics](https://tonalics.com/) - Instrument Tuners
 * [Tunebat](https://tunebat.com/) or [QO & SPECTRE](https://docs.google.com/spreadsheets/u/0/d/1QEvWoGa10BctJ1yqDgZl3IoY8bhB3AwbHzgCHjJ5neI/htmlview) - Music Key / BPM Databases
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
