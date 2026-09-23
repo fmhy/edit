@@ -88,7 +88,6 @@
 * ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (search) - Windows File Manager
 * [DoubleCMD](https://doublecmd.sourceforge.io/) / [GitHub](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) / [GitHub](https://github.com/mucommander/mucommander) - Cross-Platform File Managers
 * [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager / [GitHub](https://github.com/vanjac/chromafiler)
 * [Yazi](https://yazi-rs.github.io/) / [GitHub](https://github.com/sxyazi/yazi) or [superfile](https://superfile.dev/) / [GitHub](https://github.com/yorukot/superfile) - Terminal File Managers
 * [OneCommander](https://www.onecommander.com/) - File Manager
 * [FreeCommander](https://freecommander.com/) - File Manager
@@ -414,7 +413,7 @@
 * ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 (20TB Pro III) / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 (4TB Personal)
 * [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
-* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / [Client](https://github.com/SamSchott/maestral)
+* [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced)
 * [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
 * [VoidDrive](https://voiddrive.org/) - 30GB / Forever / ~$4.99 (1TB Basic)
 * [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)

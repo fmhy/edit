@@ -842,7 +842,8 @@
 
 ## ▷ Survival / Preparedness
 
-* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)** or [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
+* ↪️ **[Map Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
+* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**, [Kiwix Library](https://browse.library.kiwix.org/#lang=eng&category=&q=prep) or [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) - Survival Manual / [App](https://survivalmanual.github.io/)
 * [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) - Survival PDFs
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
@@ -1711,7 +1712,7 @@
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions 
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures

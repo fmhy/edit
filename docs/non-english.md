@@ -607,6 +607,7 @@
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
+* [xrysoi](https://tainiesonline.xyz) - Movies / TV
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.com.co/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
@@ -1448,7 +1449,6 @@
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
-* [granpirata](https://granpirata.com/) - Movies / TV / Animation / Latino
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
@@ -1501,6 +1501,8 @@
 * [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
+* [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
+* [Doramasflix](https://doramasflix.co/) - Movies / TV
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
 * [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
@@ -1644,7 +1646,7 @@
 * ⭐ **[AnimeciX](https://anm.cx/)** - Anime / Region Locked
 * [Dizilla](https://dizilla.to/), [2](https://selcukflix.com/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p / Region Locked
 * [Canlidizi](https://www.canlidizi14.com/) - Movies / TV / Anime 
-* [Yabancıdizi](https://yabancidizi.news/) - Movies / TV / Sub / Dub / 1080p 
+* [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p 
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Webteizle](https://webteizle.info/) - Movies / TV / Anime / Region Locked
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
@@ -1747,7 +1749,9 @@
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
-* [⁠Courseware](https://www.hcmut-courseware.org/courses) - Courses
+* [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses
+
+unofficial Ho Chi Minh City University of Technology course index
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
 

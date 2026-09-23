@@ -48,7 +48,6 @@
 * ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation / Windows, macOS, Linux /
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
 * ⭐ **[Free for Developers](https://free-for.dev/)** - Tool Index / [GitHub](https://github.com/ripienaar/free-for-dev)
-* [Useful Tools](https://trolologuy.github.io/useful-tools/) - Tool Index / [GitHub](https://github.com/trolologuy/useful-tools)
 * [Tiny Helpers](https://tiny-helpers.dev/) - Tool Index / [GitHub](https://github.com/stefanjudis/tiny-helpers)
 * [Tiny Tools](https://tinytools.directory/) - Tool Index
 * [Free For Life](https://free.hrsn.dev/) - Tool Index / [GitHub](https://github.com/wdhdev/free-for-life/)
@@ -142,7 +141,6 @@
 
 * 🌐 **[DB Engines](https://db-engines.com/en/ranking)** or [DBDB](https://dbdb.io/stats) - Database Rankings
 * 🌐 **[⁠Awesome DB Tools](https://github.com/mgramin/awesome-db-tools)** - Database Resources
-* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Tools
 * 🌐 **[Awesome Big Data](https://github.com/oxnr/awesome-bigdata)** - Big Data Resources
 * 🌐 **[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)** - MySQL Resources
 * ⭐ **[DB Browser](https://sqlitebrowser.org/)** / Windows, macOS, Linux, [SQLook](https://sqlook.com/) or [SQL Lite Studio](https://letos.org/) - SQLite Browsers
@@ -171,6 +169,7 @@
 * [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
+* [⁠Git Cheat Sheet](https://wizardzines.com/git-cheat-sheet.pdf) - Git Cheat Sheet
 * [git-sim](https://github.com/initialcommit-com/git-sim) - Visually Simulate Git Operations Before Running
 * [GitKraken](https://www.gitkraken.com/), [Ungit](https://github.com/FredrikNoren/ungit) or [RelaGit](https://rela.dev/) - Git GUIs
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/gitui-org/gitui) - Git TUIs
@@ -205,6 +204,7 @@
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) or [Active-Forks](https://techgaun.github.io/active-forks/index.html) / [GitHub](https://github.com/techgaun/active-forks) - Find Active GitHub Forks
 * [Graphite](https://graphite.com/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
 * [SemanticDiff](https://app.semanticdiff.com/) - Review Pull Requests using Language Aware Diff
+* [Mirrobot](https://mirrowel.github.io/Mirrobot-agent/?bot=Mirrobot-Agent) - Customizable AI GitHub Pull Request Review / [GitHub](https://github.com/Mirrowel/Mirrobot-agent)
 * [⁠Diffshub](https://diffshub.com/) - GitHub Diff Checker
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
@@ -214,7 +214,7 @@
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats
+* [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) - Dynamically Generated GitHub Readme Stats
 * [Skill Icons](https://skillicons.dev/) or [⁠Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Skill Badges for GitHub Readme / Resumes
 * [For the Badge](https://forthebadge.com/) or [⁠Fancy Badges](https://jmcrafter26.github.io/badges/) / [GitHub](https://github.com/JMcrafter26/badges) - Custom GitHub Badges
 * [⁠Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator) - GitHub Profile Generator / Editor
@@ -251,7 +251,6 @@
 ## ▷ CLI Tools
 
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_cli_cheat_sheets)**
-* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
 * [⁠VHS](https://github.com/charmbracelet/vhs) - Write Terminal GIFs as Code
 * [Charm](https://charm.land/) - Add Backend to Terminal-Based Apps
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
@@ -491,9 +490,9 @@
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
 * [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [Neovim wiki (GUIs)](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
-* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [Vim Plug](https://github.com/junegunn/vim-plug) or [vim-pathogen](https://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
-* [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
+* [oil.nvim](https://github.com/stevearc/oil.nvim) or [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua) - Vim Tree Explorer
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
 * [The Ultimate vimrc](https://github.com/amix/vimrc) - Vim Config
 * [Vim Markdown](https://github.com/preservim/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Vim Markdown Plugins
@@ -645,7 +644,7 @@
 * [uv](https://github.com/astral-sh/uv) - Python Package / Project Manager
 * [Thonny](https://thonny.org/) - Python IDE
 * [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) - Android Python IDE + Learning
-* [pylyzer](https://github.com/mtshiba/pylyzer) - Static Code Analyzer
+* [ty](https://github.com/astral-sh/ty) - Static Code Analyzer
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 
 ***
@@ -776,7 +775,7 @@
 * [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [⁠Networking Toolbox](https://networkingtoolbox.net/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
-* [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [⁠OG Image Generator](https://www.ogimage.website/) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews / Graph Images
+* [⁠OG Image Generator](https://www.ogimage.website/) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews / Graph Images
 * [⁠Tech Playground](https://tech-playground.com/) - Playground for Server-Side Tech
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries / [Examples](https://github.com/ln-dev7/square-ui)
