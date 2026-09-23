@@ -639,7 +639,7 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikToks Insight Tools, Repost Viewer & more / [Telegram](https://t.me/tiktracksite)
+* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive/Lookup/Monitoring, Story/Repost/Video Viewer, Link Tracker & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
