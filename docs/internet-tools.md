@@ -228,7 +228,6 @@
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
 * [OpenOwnership](https://register.openownership.org/) - Company Ownership Search
-* [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
 * [OffshoreLeaks](https://offshoreleaks.icij.org/) - Offshore Company Leaks Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
@@ -377,12 +376,12 @@
 * ⭐ **[spoo.me](https://spoo.me/)** - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
-* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
+* [SmartLnks](https://smartlnks.com/) - `smartlnks.com/pti`
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [X.gd](https://x.gd/) - `x.gd/rcg0Z`
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
-* [By.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
+* [By.com.vn](https://by.com.vn/) - `byvn.net/XXty`
 * [ujeb link](https://ujeb.link/) - `ujeb.link/sqkwpd`
 * [Bly.to](https://blyto.com/) - `bly.to/3e04d1`
 * [Kurzlinks](https://kurzlinks.de/) - `kurzlinks.de/fgt6`
@@ -391,13 +390,13 @@
 * [tny.lv](https://tny.lv/) - `tny.lv/QYg05` / [GitHub](https://github.com/YOURLS/YOURLS)
 * [⁠h1.nu](https://h1.nu/) - `h1.nu/1isSI`
 * [u.to](https://u.to/) - `u.to/jc85Ig`
-* [Walee](https://wal.ee/) - `wal.ee/zluqo`
+* [Walee](https://wal.ee/) - `wal.ee/zk0oh`
 * [momou](https://ige.li/) - `ige.li/gq3ig`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [⁠ha.mr](https://ha.mr/) - `ha.mr#~[I0c'H6Sgv0HA]B-b` / [GitHub](https://github.com/p2r3/ha.mr)
+* [⁠ha.mr](https://ha.mr/) - `ha.mr/#~[I0c'H6Sgv0HA]B-b` / [GitHub](https://github.com/p2r3/ha.mr)
 * [ej.uz](https://ej.uz/), [2](https://sald.us/) - `ej.uz/t8ar`
 * [Goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Chrome Extension](https://chromewebstore.google.com/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
-* [AI6](https://ai6.net/) - `ai6.net/nm3tyz`
+* [AI6](https://ai6.net/) - `ai6.net/ApPCO4z`
 * [Kutt](https://kutt.to/) - Account Required / [GitHub](https://github.com/thedevs-network/kutt)
 * [Anon.to](https://anon.to/) - Anonymous URLs `anon.to/7SWqpG` / [GitHub](https://github.com/bhutanio/anon.to)
 * [Thinfi](https://thinfi.com/) - Password Protected Short Links / `thinfi.com/q8aw`
@@ -467,7 +466,7 @@
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
-* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [iMail](http://imail.edu.vn/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
+* [EduMail](https://edumailfree.com/), [Zenvex](https://zenvex.dev/) / [2](https://tempsmail.org/free-edu-mail) / [3](https://www.emailgenerator.org/) / [4](https://edumail.su/) / [5](https://run2mail.com/), [GetEduMail](https://getedumail.com/), [mtempmail](https://mtempmail.com/), [⁠Freetempmail](https://freetempmail.com/), [VanishInbox](https://vanishinbox.com/temp-edu-email), [⁠InstantEduMail](https://instantedumail.com/) or [etempmail](https://eTempMail.com/) - .Edu (pl) Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
@@ -847,6 +846,7 @@
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/jsvine/waybackpack) / [Browser Extension](https://github.com/internetarchive/wayback-machine-webextension), [2](https://vegetableman.github.io/vandal/) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Auto Load](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)
 * ⭐ **[Web Archives](https://github.com/dessant/web-archives)** or [Resurrect Pages Fork](https://github.com/Albirew/resurrect-pages-isup-edition) - Browser Extensions
 * ⭐ **[CachedView](https://cachedview.nl/)** or [Quick Cache](https://cybdetective.com/quickcacheandarhivesearch.html) - Aggregate Cache Results
+* [Archive.today](https://archive.is/) / [.li](https://archive.li/) / [.ph](https://archive.ph/) / [.vn](https://archive.vn/) / [.fo](https://archive.fo/) / [.md](https://archive.md/) - Archive Web Pages / Paywall Bypass
 * [Ghost Archive](https://ghostarchive.org/) - Archive Web Pages
 * [WebArchive.io](https://www.webarchive.io/) - Archive Web Pages
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archiving Project / Wiki / Full Site Archive

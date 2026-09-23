@@ -738,7 +738,7 @@
 
 ## ▷ Vexillology / Flags
 
-* ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)** / [2](https://www.crwflags.com/fotw/flags/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/) or [FlagLog](https://www.flaglog.com/) - Flag Databases
+* ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)**, [2](https://www.crwflags.com/fotw/flags/) / [Search](https://search.fotw.ethnia.org/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/) or [FlagLog](https://www.flaglog.com/) - Flag Databases
 * ⭐ **[FAME](https://zeljko-heimer-fame.from.hr/descr/index.html)** - Flag / Coat of Arms Database
 * [r/vexillology](https://www.reddit.com/r/vexillology//) - Vexillology / Flag Subreddit / [Flag Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/)
 * [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
@@ -842,7 +842,8 @@
 
 ## ▷ Survival / Preparedness
 
-* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)** or  [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
+* ↪️ **[Map Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
+* ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**, [Kiwix Library](https://browse.library.kiwix.org/#lang=eng&category=&q=prep) or [OffGridDownload](https://t.me/offgriddownload) - Survival Book Collections
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) - Survival Manual / [App](https://survivalmanual.github.io/)
 * [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) - Survival PDFs
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
@@ -1306,7 +1307,6 @@
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
-* [GSL](https://www.ayelefoundation.org/gsl/) - Ghanaian Sign Language Dictionary
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
@@ -1343,6 +1343,7 @@
 
 # ► Developer Learning
 
+* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
 * 🌐 **[Awesome Certificates](https://panx.io/awesome-certificates/)** / [GitHub](https://github.com/PanXProject/awesome-certificates) - Dev Course Indexes
 * 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube Dev Channels Indexes
 * 🌐 **[r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)**, [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
@@ -1352,7 +1353,15 @@
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/) or [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git Command Lists
 * ⭐ **[OpenVim](https://openvim.com/)** - Interactive Vim Tutorials
+* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P)
 * ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/) or [Learn SQL](https://sqlbolt.com/) - SQL Lessons / Practice
+* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [Hackr.io](https://hackr.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [⁠W3Schools](https://www.w3schools.com/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
+* [Guru99](https://www.guru99.com/) - Software / Web Development
+* [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
+* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
+* [calmcode](https://calmcode.io/) - Video Tutorials
+* [zetcode](https://zetcode.com/) - Programming Notes / Ebooks
+* [Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/) - Programming Ebooks
 * [First Timers Only](https://www.firsttimersonly.com/) - Contribution Guide for Beginners
 * [Beej's Guide to Git](https://beej.us/guide/) or [Git Tips](https://github.com/git-tips/tips) - Git Guides / Tips
 * [Oh My Git!](https://ohmygit.org/) or [Oh Shit, Git!?!](https://ohshitgit.com/) - Git Learning Game
@@ -1373,7 +1382,6 @@
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [System Design 101](https://github.com/ByteByteGoHq/system-design-101) or [system-design-primer](https://github.com/donnemartin/system-design-primer) - System Design Guides
 * [CLIG](https://clig.dev/) - CLI Design Guide / [Discord](https://discord.gg/EbAW5rUCkE)
@@ -1399,20 +1407,6 @@
 * [The Linux Kernel](https://kernel.org/doc/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://apps.gnome.org/Workbench) - Learn / Experiment with Gnome / [GitHub](https://github.com/workbenchdev/Workbench)
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-
-***
-
-## ► Coding Tutorials
-
-* 🌐 **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - Project Based Learning Resources
-* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** - Advanced Coding Tutorials / [Discord](https://discord.gg/DeqUD2P)
-* [Programiz](https://www.programiz.com/), [TutorialKart](https://www.tutorialkart.com/), [Ultimate Programming](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [Hackr.io](https://hackr.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [⁠W3Schools](https://www.w3schools.com/) or [Tpoint Tech](https://www.tpointtech.com/) / [Telegram](https://t.me/tpointtech) - General Coding Tutorials
-* [Guru99](https://www.guru99.com/) - Software / Web Development
-* [Codelabs](https://codelabs.developers.google.com/) - Project Based Tutorials
-* [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn to Develop SHA-256
-* [calmcode](https://calmcode.io/) - Video Tutorials
-* [zetcode](https://zetcode.com/) - Programming Notes / Ebooks
-* [Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/) - Programming Ebooks
 
 ***
 
@@ -1689,7 +1683,6 @@
 * [r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [⁠free-clep-prep](https://free-clep-prep.com/) or [ModernStates](https://modernstates.org/) - Free CLEP / DSST Exam Prep
-* [⁠NCERT Books](https://ncert.nic.in/textbook.php) - NCERT Practice Books
 * [nzqa.toasting](https://nzqa.toasting.me/) - Download NZQA Past Papers
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
 * [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [⁠exam-mate](https://www.exam-mate.com/pastpapers), [⁠Study Hatch](https://studyhatch.com/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
@@ -1719,7 +1712,7 @@
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
 * ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
+* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
 * [JEE Books](https://t.me/+iHmGydsEO343ODk1) - JEE Books Archives
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
@@ -1868,7 +1861,7 @@
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [StarlingDB](https://starlingdb.org/) - Advanced Linguistics Dictionary
 * [Phrontistery](https://phrontistery.info/) - Obscure Word Dictionary
-* [Unionpedia](https://en.unionpedia.org/), [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
+* [Lexipedia](https://www.lexipedia.com/) or [VisuWords](https://visuwords.com/) - Word Connections / Visualizers
 * [Eunoia](https://eunoia.world/) - Words with No Translation
 * [Affixes.org](https://www.affixes.org/) - Affixes
 * [Fraze.it](https://fraze.it/) - Sentence Search

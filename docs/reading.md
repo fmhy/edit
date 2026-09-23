@@ -57,7 +57,6 @@
 * [Loyal Books](https://www.loyalbooks.com/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
-* [Ebookzy](https://ebookzy.com/) - Classics
 * [⁠By the Fireplace](https://bythefireplace.com/) - Classics
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
@@ -253,7 +252,6 @@
 * [FreeWebNovel](https://freewebnovel.com/) - Web Novels
 * [WebNovel.com](https://www.webnovel.com/) - Web Novels
 * [Royal Road](https://www.royalroad.com/) - Web Novels
-* [⁠Creative Novels](https://creativenovels.com/) - Web Novels
 * [Scribblehub](https://www.scribblehub.com/) - Web Novels
 * [Novels.pl](https://www.novels.pl/) - Novels / Audio Recordings
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
@@ -448,7 +446,6 @@
 * [⁠JustManga](https://justmanga.cc/)
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
-* [⁠Neoko](https://neoko.site/) / [Discord](https://discord.gg/bcw3dV6Jnt)
 * [MangaHub](https://mangahub.io/)
 * [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
@@ -832,7 +829,6 @@
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
 * [Hermetic International](https://www.hermetics.net/) - Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
-* [HolyBooks](https://holybooks.com/) - Religious Texts
 * [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Esoterica / Occult
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
