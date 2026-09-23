@@ -61,7 +61,7 @@
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
 * [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty) 
-* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
+* [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist), [Drift](https://drift.lol/) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
 
@@ -76,7 +76,7 @@
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox), [⁠KISS Translator](https://github.com/fishjar/kiss-translator/blob/dev/README.en.md) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [⁠Mozhi](https://codeberg.org/aryak/mozhi#instances) - Multi Translation Engine Frontend
-* [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
+* [LibreTranslate](https://libretranslate.com/), [2](https://translate.disroot.org/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator) - Online
 * [Yandex Translator](https://translate.yandex.com/) - Online
@@ -101,6 +101,7 @@
 * [SpeechTexter](https://www.speechtexter.com/), [VoiceToText](https://voicetotext.org/), [⁠Transcrisper](https://transcrisper.com/), [Dictation](https://dictation.io/speech), [oTranscribe](https://otranscribe.com/) or [TalkTyper](https://talktyper.com/) - Browser-Based Audio Transcription Tools
 * [Revoldiv](https://revoldiv.com/) or [Turboscribe](https://turboscribe.ai/) - AI-Based Transcriptions
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription Software
+* [⁠VoiceStudio](https://voicestudio.sh/) - Audio Transcription Software / [GitHub](https://github.com/debpalash/VoiceStudio)
 * [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool
 * [Handy](https://handy.computer/) - Audio Transcription Tool / [Discord](https://discord.gg/WVBeWsNXK4) / [GitHub](https://github.com/cjpais/Handy)
 * [⁠TransPocket](https://transpocket.com/) - Audio Transcription Tool
@@ -138,7 +139,7 @@
 ***
 
 * ⭐ **[Harper](https://writewithharper.com/)** - Web App / Extension / [Discord](https://discord.com/invite/JBqcAaKrzQ) / [GitHub](https://github.com/automattic/harper)
-* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
+* [QuillBot](https://quillbot.com/grammar-check) - Web App / [Extension](https://quillbot.com/app)
 * [Grammarly](https://www.grammarly.com/grammar-check) - Web App / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write) - Web App
@@ -196,7 +197,6 @@
 # ► Text Editors
 
 * 🌐 **[List of Text Editors](https://wikipedia.org/wiki/List_of_text_editors)** - Text Editor / Notepad Index
-* 🌐 **[⁠TextEditors](http://texteditors.org/)** - Text Editor Index + Reviews
 * ↪️ **[Android Text Editor](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_text_tools)**
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** - Notepad & Code Editor / Windows / [GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus)
@@ -387,6 +387,7 @@
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) - Novel Editor
+* [⁠Neo](https://github.com/hughhowey/neo) - Novel Editor
 * [Novelist](https://beta.novelist.app) - Novel Editor
 * [Bibisco](https://bibisco.com/) - Novel Editor
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
@@ -417,13 +418,13 @@
 * [Columns](https://columns.app/) - Checklists
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
+* [Mindwtr](https://mindwtr.app/) / [GitHub](https://github.com/dongdongbh/Mindwtr)
 * [SuperList](https://www.superlist.com/)
 * [dooit](https://github.com/dooit-org/dooit) / [Extras](https://github.com/dooit-org/dooit-extras)
 * [ToDo List](https://www.abstractspoon.com/) / [GitHub](https://github.com/abstractspoon)
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://to-do.office.com/)
-* [NullBoard](https://github.com/apankrat/nullboard)
 * [LunaTask](https://lunatask.app/)
 * [ToDoZero](https://todozero.com/)
 * [LifeAt](https://lifeat.io/)
@@ -593,6 +594,7 @@
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Type Terms](https://avark.agency/typeterms/) - Typography Cheat Sheet
 * [The Good Line-Height](https://thegoodlineheight.com/) - Typography Scaling Editor
+* [⁠Hyperglot](https://hyperglot.rosettatype.com/) - Font Language Support Checker
 * [So You Need A Typeface 2.0](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 * [Type Design Resources](https://typedesignresources.com/) or [Free Faces](https://www.freefaces.gallery/) - Typeface Resources
 
@@ -603,6 +605,7 @@
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** or [⁠Refont](https://refont.ai/) - Custom AI Font Generators
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators / 3D Text
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
+* [⁠PixelFrame](https://pixelframe.design/) - Custom Pop Culture Font / Graphic Generator
 * [⁠gradient text generator](https://lovewich.neocities.org/widgets/gradient-text), [Text Color Fader](https://patorjk.com/text-color-fader/) or [⁠Colorize FUN](https://colorize.fun/) - Rainbow Text Generator
 * [Fast3DText](https://fast3dtext.com/), [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
@@ -635,7 +638,6 @@
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [Text-Generator](https://text-generator.app/)
-* [BoldTextGenerator](https://boldtextgenerator.org/)
 * [FontGenOnline](https://fontgenonline.com/)
 * [TextEditor](https://texteditor.com/)
 * [CuteFontCopy](https://cutefontcopy.com/)
