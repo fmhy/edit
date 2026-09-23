@@ -232,7 +232,6 @@
 * [Easy Notes](https://github.com/Kin69/EasyNotes) - Minimal Note-Taking / Android
 * [⁠Org Mode](https://orgmode.org/) - CLI Note-Taking / Windows, macOS, Linux
 * [ColorNote](https://www.colornote.com/) - Minimal Note-Taking / Android
-* [NotePad](https://github.com/mshdabiola/NotePad) - Note-Taking / Drawing / Android
 * [Notebook](https://www.zoho.com/notebook/mobile-app.html) - Note-Taking / Drawing / Android
 * [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects / Android
 * [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE / All Platforms
