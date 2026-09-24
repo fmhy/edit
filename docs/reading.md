@@ -10,6 +10,7 @@
 * ⭐ **[Anna's Archive](https://annas-archive.gl/)**, [2](https://annas-archive.pk), [3](https://annas-archive.gd) - Books / Comics / [Mirrors](https://en.wikipedia.org/wiki/Anna's_Archive) / [Deploy Locally](https://software.annas-archive.gl/AnnaArchivist/annas-archive) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://z-library.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/), [5](https://articles.sk/), [6](https://z-library.im/), [7](https://z-lib.sk/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.xyz/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+* ⭐ **[Bookracy](https://bookracy.com/)** - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / Torrents / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
@@ -18,7 +19,6 @@
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [BDeBooks](https://bdebooks.com/en/ebooks/) - Books / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books
-* [Bookracy](https://bookracy.com/) - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [Read From](https://readfrom.net/) - Books / Online Reading
@@ -170,9 +170,7 @@
 ***
 
 * 🌐 **[Kindle Jailbreak Guide](https://kindlemodding.org/jailbreaking/index.html)** - Jailbreak Guides / Index
-* ⭐ **[KindleForge](https://github.com/KindleTweaks/KindleForge)** – App Installer
 * ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
-* ⭐ **[KindleFetch](https://github.com/justrals/KindleFetch)** - Kindle Book Download CLI
 * [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Kindle Modding / Jailbreak Discord
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [LARK](https://kindlemodshelf.me/lark) - Libre Audiobook Player
@@ -222,7 +220,7 @@
 * ⭐ **[NovelCool](https://www.novelcool.com/)** - Online Reading
 * ⭐ **[WuxiaClick](https://wuxia.click/)** - Online Reading
 * ⭐ **[⁠NovelFire](https://novelfire.net/)** or [NovelPhoenix](https://novelphoenix.com/) - Online Reading
-* [LNORI](https://lnori.com/) - Online Reading
+* [LNORI](https://lnori.com/) - Online Reading / Downloads
 * [Wuxiabox](https://www.wuxiabox.com/) - Online Reading
 * [⁠Cyrisia](https://cyrisia.com/) - Online Reading
 * [WuxiaSpot](https://www.wuxiaspot.com/) - Online Reading
@@ -405,7 +403,7 @@
 * [⁠Comic Studio](https://comic.studio/browse) - Webcomics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Requires Tor
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3) - Comic Downloaders
+* [Comics Downloader](https://github.com/Girbons/comics-downloader), [⁠yoink](https://github.com/Rigil-Kent/yoink-go), [Comic Library Utilities](https://clucomics.org/) / [GitHub](https://github.com/allaboutduncan/comic-utils), [Mylar3](https://github.com/mylar3/mylar3) - Comic Downloaders
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Comic Reader
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Comic Translate](https://github.com/ogkalu2/comic-translate) - Comic Translator
@@ -487,7 +485,7 @@
 * [World Mags](https://www.worldmags.net/) - Nitroflare / Novafile
 * [PDF Dude](https://pdfdude.com/) - Novafile
 * [PDF Magazines Download](https://pdf-magazines-download.com/) - Novafile
-* [PDF Magaz](https://www.pdfmagaz.in/) - Novafile
+* [PDF Magaz](https://www.pdfmagaz.in/) - Novafile / Some NSFW
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) - Novafile
 * [MagDownload](https://magdownload.com/) - Nitroflare
 * [WholeEarth](https://wholeearth.info/) - Whole Earth Science Magazines

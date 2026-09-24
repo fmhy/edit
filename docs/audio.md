@@ -381,9 +381,9 @@
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[Monochrome](https://monochrome.st/)** - FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
-* [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
+* [Antra Web](https://antra.hoshi.cfd/) - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
 * [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3
@@ -860,9 +860,9 @@
 * ⭐ **[Shazam](https://www.shazam.com/)** / macOS, Android, iOS, Web / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Desktop App](https://github.com/BayernMuller/vibra), [2](https://github.com/zemoto/WhatAmIHearing) / [Extensions](https://github.com/FoxRefire/Librezam)
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** or [r/NameThatSong](https://reddit.com/r/NameThatSong) - Song ID Communities
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
+* [Song Finder](https://songfinder.dev/) / Web
 * [AudioTag](https://audiotag.info/) / Web
-* [SongFinder](https://songfinder.dev/) / Web
-* [⁠SongFinder.gg](https://songfinder.gg/) / Web
+* [⁠SongFinder (gg)](https://songfinder.gg/) / Web
 * [SoundHound](https://www.soundhound.com/soundhound) / Android, iOS
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) / Android
 * [Audire](https://github.com/alexmercerind/audire) / Android
@@ -1053,6 +1053,7 @@
 * [SoundGator](https://www.soundgator.com/) - Sound Effects
 * [GDC](https://sonniss.com/gameaudiogdc) - Sound Effects
 * [⁠BigSoundBank](https://bigsoundbank.com/) - Sound Effects
+* [⁠FourOnDaFloor](https://fourondafloor.com/) - Sound Effects
 * [Citizen DJ](https://citizen-dj.labs.loc.gov/) - Sound Effects
 * [Free Adobe SFX](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html) - Sound Effects
 * [r/LoopKits](https://www.reddit.com/r/loopkits/), [Freesound](https://freesound.org/), [Voicy](https://www.voicy.network/), [looperman](https://www.looperman.com/loops) or [SampleSwap](https://sampleswap.org/) - User-Submitted Samples

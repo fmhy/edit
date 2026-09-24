@@ -1619,6 +1619,7 @@
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * [⁠your ai slop bores me](https://youraislopbores.me/) - Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
+* [⁠Page Rage](https://page-rage.com/) - Destroy Any Web Page
 * [The ⁠Museum of All Things](https://may.as/moat/) - 3D Virtual Wikipedia Museum / [GitHub](https://github.com/m4ym4y/museum-of-all-things)
 * [VentScape](https://www.ventscape.life/rage) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [AfterTheBeep](https://afterthebeep.tel/) - Public Voicemail

@@ -93,6 +93,7 @@
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler / Windows
 * [AutoIt](https://www.autoitscript.com/) / Windows
 * [Tinytask](https://tinytask.net/) / Windows
+* [⁠CrossMacro](https://github.com/alper-han/CrossMacro) / Windows, macOS, Linux
 * [OculiX](https://oculix.org/) / Windows, macOS, Linux / [GitHub](https://github.com/oculix-org/Oculix)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows
 * [MacroRecorder](https://www.macrorecorder.com/) / Windows, macOS

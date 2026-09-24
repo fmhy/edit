@@ -31,7 +31,7 @@
 * [Rayburst](https://rayburst.pages.dev) - Download Manager / [GitHub](https://github.com/AnInsomniacy/rayburst)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, macOS, Linux, Android
 * [imFile](https://imfile.org/) / Windows, macOS, Linux / [GitHub](https://github.com/imfile-io/imfile-desktop)
-* [⁠Aria2 Next](https://github.com/AnInsomniacy/aria2-next) or [aria2](https://aria2.github.io/) / [GitHub](https://github.com/aria2/aria2) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, macOS, Android 
+* [⁠Aria2 Next](https://github.com/AnInsomniacy/aria2-next) or [aria2](https://aria2.github.io/) / [GitHub](https://github.com/aria2/aria2) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, macOS, Android
 * [Persepolis](https://persepolisdm.github.io/) - Download Manager / Windows, macOS, Linux / [GitHub](https://github.com/persepolisdm/persepolis)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager / Windows, macOS, Linux / [GitHub](https://github.com/pyload/pyload)
 * [ArrowDL](https://www.arrow-dl.com/) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/) / [Chrome](https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio) / Windows, macOS, Linux / [GitHub](https://github.com/setvisible/ArrowDL)
@@ -334,7 +334,7 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
-* [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
+* [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days w/ Account
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
@@ -354,7 +354,7 @@
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
-* [⁠Stashr](https://stashr.wtf/) - 1GB / 30 Days After Last Download
+* [⁠Stashr](https://stashr.wtf/) - 1GB / Forever
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Signup
@@ -389,9 +389,8 @@
 * [4d2.sh](https://4d2.sh/) - 1GB / 730 Days Max
 * [pasted.sh](https://pasted.sh/) - 1GB / Forever / [GitHub](https://github.com/amnexya/pasted)
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
-* [⁠Lufi](https://upload.adminforge.de/) - 2GB / 30 Days
+* [⁠Lufi](https://upload.adminforge.de/), [2](https://upload.disroot.org/) - 2GB / 30 Days
 * [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
-* [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
 * [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Requires Sign-Up
 * [Clicknupload](https://clicknupload.click) - 10GB / 8 Days / Requires Sign-Up
 * [Smash](https://fromsmash.com/) - 2GB / 7 Days / Requires Email

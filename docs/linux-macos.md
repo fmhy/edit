@@ -11,15 +11,15 @@
 ***
 
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guides / [Manuals](https://man.archlinux.org/)
-* [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
-* [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
 * [Linux Journey](https://labex.io/linuxjourney) or [Tilde](https://tilde.club/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
-* [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
-* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
 * [⁠tony, btw](https://tonybtw.com/) - Linux Tutorials / Guides / [Discord](https://discord.gg/nXZwDb8HB5)
 * [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
 * [Linux Roadmap](https://roadmap.sh/linux) - Linux Learning Roadmap
+* [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
+* [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
+* [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
+* [⁠Fedora Noble Guide](https://github.com/wz790/Fedora-Noble-Setup) - Fedora Setup Guide
 * [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
@@ -322,7 +322,7 @@
 * [Vice](https://eklonofficial.github.io/Vice-Website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
-* [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
+* [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control), [⁠LACT](https://github.com/ilya-zlobintsev/LACT/) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
 * [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine

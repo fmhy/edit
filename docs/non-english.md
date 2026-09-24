@@ -1449,6 +1449,7 @@
 * [Gatonplayseries](https://gatonplayseries.com/) - Movies / TV / Latino / Anime
 * [Peliculas Google Drive](https://www.peliculasgd.net/) - Movies / Latino
 * [TodoDVDFull](https://www.tododvdfull.com/) - Movies / Latino
+* [Info Real](https://rentry.co/FMHYB64#info-real) - Argentine Films
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
@@ -1503,6 +1504,7 @@
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
 * [Doramasflix](https://doramasflix.co/) - Movies / TV
+* [⁠El Videoclub Argento](https://www.elvideoclubargento.com.ar/) - Argentine Films
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
 * [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
@@ -1544,6 +1546,8 @@
 * [JKAnime](https://jkanime.net/) - Anime / Sub
 * [Animejara](https://animejara.com/) - Anime / Sub / [Discord](https://discord.com/invite/MTzZTPffXs)
 * [TioAnime](https://tioanime.com/) - Anime / Sub
+* [⁠InfinityAnime](https://infinityanime.net/) - Anime
+* [Animed23](https://animed23.com/) - Anime / [Telegram](https://t.me/+8nmOjT1PWFczZDhh)
 * [veranimes](https://wwv.veranimes.net/) - Anime
 * [animeav1](https://animeav1.com/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
@@ -1574,18 +1578,22 @@
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Librivox](https://librivox.org/search?primary_key=5&search_category=language&search_page=1&search_form=get_results&search_order=alpha) - Audiobooks
+* [Nova](https://novelasligeras.net/) - Manga / Light Novels
+* [⁠Yupmanga](https://www.yupmanga.com/) - Manga / Light Novels
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](https://heavenmanga.com/) - Manga
+* [⁠Ikigai Mangas](https://ikigaimangas.com/) - Manga 
 * [InManga](https://inmanga.com/) - Manga
 * [absorbiendomangas2](https://absorbiendomangas2.blogspot.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
+* [Scanlation](https://olympusxyz.com/) - Manga
+* [⁠M440](https://m440.in/) - Manga
 * [anzmangashd](https://www.anzmanga25.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga
 * [SkyMangas](https://www.skymangas.com/) - Manga / [Discord](https://discord.com/invite/4aS7HBNFkf)
 * [faneo](https://www.faneo.es/) - Manga
 * [⁠RN scalation](https://rncalation.online/) - Manga / [Discord](https://discord.com/invite/drzqCgaZgU)
 * [⁠Capibaratraductor](https://capibaratraductor.com/) - Manga
-* [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [novenadimension](https://foro.novenadimension.com/) - Comics / Downloads

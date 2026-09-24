@@ -546,7 +546,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
-* ⭐ **[Nitter](https://funkstelle.hoffnungfuerdiezukunft.net/)**, [2](https://nr.evilasswebsite.com/), [3](https://tw1tter.com/), [5](https://nr.evilasswebsite.com/) / [Instances](https://codeberg.org/mv12star/shitter/wiki/Instances) / [2](https://status.d420.de/) / [.onion](http://zcbxmgileoovnup5k4yj4w6r3vicqpawqc6b33rnmmsqy6n4micpzoad.onion/), [⁠Twitee](https://twitee.co/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
+* ⭐ **[Nitter](https://funkstelle.hoffnungfuerdiezukunft.net/)**, [2](https://nr.evilasswebsite.com/), [3](https://tw1tter.com/), [4](https://nr.evilasswebsite.com/) / [Instances](https://codeberg.org/mv12star/shitter/wiki/Instances) / [2](https://status.d420.de/) / [.onion](http://zcbxmgileoovnup5k4yj4w6r3vicqpawqc6b33rnmmsqy6n4micpzoad.onion/), [⁠Twitee](https://twitee.co/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/) or [⁠Twitter Viewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
@@ -638,7 +638,7 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikToks Insight Tools, Repost Viewer & more / [Telegram](https://t.me/tiktracksite)
+* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive / Lookup / Monitor / Viewer / Link Tracker & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders

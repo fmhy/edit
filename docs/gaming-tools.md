@@ -134,6 +134,7 @@
 * [DualSense Tester](https://ds.daidr.me/) - Web ⁠DualSense Tester / [GitHub](https://github.com/daidr/dualsense-tester)
 * [Calibration GUI](https://dualshock-tools.github.io/) - Web DualSense Calibration Tool / Requires Chromium / [GitHub](https://github.com/dualshock-tools/dualshock-tools.github.io)
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Decrease DS4/5 Input Lag / [Video](https://youtu.be/x0wcJM4FtXQ)
+* [⁠Web 8BitDo](https://web.8bitdo.com/) - Browser Firmware Updater for 8BitDo Controllers
 * [HidHide](https://docs.nefarius.at/projects/HidHide/) - Input Device Firewall
 * [⁠KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Split Multiple Keyboards into 4 Unique Virtual Xbox 360 Controllers
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
@@ -682,7 +683,7 @@
 * [The Minecraft Archive Project](https://map.crummy.com/) or [Omniarchive](https://omniarchive.net/) / [Discord](https://discord.com/invite/udX5PRKayw) - Minecraft History & Version Archives
 * [Minemev](https://minemev.com/) or [MCBuild](https://mcbuild.org/) - Minecraft Farm / Build Schematics
 * [Block Palettes](https://www.blockpalettes.com/), [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) or [HueBlocks](https://1280px.github.io/hueblocks/) / [GitHub](https://github.com/1280px/hueblocks) - Block Color Palettes & Gradients
-* [Blockmatic](https://blockmatic.trafficlunar.net/) / [GitHub](https://github.com/trafficlunar/blockmatic), [MinecraftArt](https://minecraftart.org/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Pixel Art Editors & Image Importers
+* [Blockmatic](https://blockmatic.trafficlunar.net/) / [GitHub](https://github.com/trafficlunar/blockmatic), [MinecraftArt](https://minecraftart.org/), [MC Pixel Art Generator](https://minecraftpixelartgenerator.com/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Pixel Art Editors & Image Importers
 * [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) / [Discord](https://discord.com/invite/ccleaf) - Text Generators & Icons
 * [Note Block Studio](https://noteblock.studio/) / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS) - Audio Composer
 * [MiniMessageViewer](https://webui.advntr.dev/) / [Discord](https://discord.com/invite/MMfhJ8F) / [GitHub](https://github.com/KyoriPowered/adventure-webui) - MiniMessage web viewer

@@ -740,10 +740,13 @@
 
 * ⭐ **[Flags of the World](https://www.fotw.info/flags/index.html)**, [2](https://www.crwflags.com/fotw/flags/) / [Search](https://search.fotw.ethnia.org/), [Vexilo](https://vexilo.org/), [Flagid](https://flagid.org/) or [FlagLog](https://www.flaglog.com/) - Flag Databases
 * ⭐ **[FAME](https://zeljko-heimer-fame.from.hr/descr/index.html)** - Flag / Coat of Arms Database
-* [r/vexillology](https://www.reddit.com/r/vexillology//) - Vexillology / Flag Subreddit / [Flag Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/)
+* [r/vexillology](https://www.reddit.com/r/vexillology//) or [⁠r/flags](https://www.reddit.com/r/flags/) - Vexillology / Flag Subreddits
 * [Vexillology Discord](https://discord.gg/vex) - Vexillology / Flag Discord Community
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
+* [Flag Meanings](https://www.reddit.com/r/vexillology/wiki/meaningof/) - Flag Meaning Breakdowns by r/vexillology
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
+* [⁠HOTW](https://www.heraldry-wiki.com/) - Coat of Arms Database / Wiki
+* [⁠r/heraldry](https://www.reddit.com/r/heraldry/) - Heraldry / Coat of Arms Subreddit
 * [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [Vexillologists](https://vexillologists.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
 * [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
@@ -1037,6 +1040,7 @@
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
 * [DnD-Books(4e,5e,5.5e)](https://github.com/nazdridoy/dnd-public) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [⁠The Homebrewery](https://www.naturalcrit.com/) - D&D Custom Rulebook Creator / [GitHub](https://github.com/naturalcrit/homebrewery)
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
@@ -1477,6 +1481,7 @@
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
+* [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
 * [Pixactly](https://pixactly.app/) - Test Pixel Dimension Orientation
 
 ***
@@ -1763,7 +1768,6 @@
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
-* [SciSpace](https://scispace.com/), [⁠Bohrium](https://www.bohrium.com/), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Chatbots
 * [⁠StudyKit](https://studytoolkit.vercel.app/) - Online Study Tools
 * [⁠Studyn](https://studyn.org/) - Discord Bot w/ Study Tracking, Stats, Anki Integration and more
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers

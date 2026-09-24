@@ -473,7 +473,7 @@
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
 * [freeillustrations](https://freeillustrations.xyz/), [Kitbitz](https://kitbitz.art/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
-* [⁠Old Book Illustrations](https://www.oldbookillustrations.com/) - Public Domain Illustrations
+* [⁠Old Book Illustrations](https://www.oldbookillustrations.com/) or [⁠FreeVintageIllustrations](https://freevintageillustrations.com/) - Public Domain / Vintage Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru App / Android
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader

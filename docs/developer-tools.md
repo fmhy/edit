@@ -62,7 +62,7 @@
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [choose-a-license](https://writefreesoftware.org/learn/participate/choose-a-license/), [tl;drLegal](https://www.tldrlegal.com/), [SPDX License List](https://spdx.org/licenses/) or [ChooseALicense](https://choosealicense.com/) - License Picking Guides / Lists
-* [Eternal Terminal](https://eternalterminal.dev/), [Termius](https://termius.com/) - SSH Clients / Servers
+* [Eternal Terminal](https://eternalterminal.dev/) or [Termius](https://termius.com/) - SSH Clients / Servers
 * [Beszel](https://beszel.dev/) - Dev Data Dashboard / [iOS App](https://github.com/Loriage/Beszel-Swift-App)
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client
 * [Webhook.site](https://webhook.site/) - Webhook Tools
@@ -166,7 +166,7 @@
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** or [Forgejo](https://forgejo.org/compare/#only-develops-free-software) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
 * ⭐ **[Fork](https://git-fork.com/)** (infinite trial) or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
-* [⁠git.gay](https://git.gay/), [GitHub](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
+* [⁠git.gay](https://git.gay/), [GitHub.com](https://github.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
 * [⁠Git Cheat Sheet](https://wizardzines.com/git-cheat-sheet.pdf) - Git Cheat Sheet
@@ -540,6 +540,7 @@
 * [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/) / [GitHub](https://github.com/robertpiosik/CodeWebChat)
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
+* [OpenChamber](https://openchamber.dev/) - Coding AI  / [GitHub](https://github.com/openchamber/openchamber)
 * [⁠ZCode](https://zcode.z.ai/) - Coding AI / [GitHub](https://github.com/zai-org/ZCode)
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / MiMo 2.5
@@ -579,6 +580,7 @@
 * ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback 
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
+* [CC Switch](https://ccswitch.io/en/) - AI Coding Agent Manager / [GitHub](https://github.com/farion1231/cc-switch)
 * [⁠Impeccable](https://impeccable.style/) / [GitHub](https://github.com/pbakaus/impeccable) or [⁠Taste Skill](https://www.tasteskill.dev/) / [GitHub](https://github.com/Leonxlnx/taste-skill) - Design Languages for AI Coding Agents
 * [⁠book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Convert Technical Books / Documents to Agent Skills
 * [⁠Anti Slop](https://github.com/miqdadbadjuber/anti-slop) - Prevent Coding Agents Generating Generic Code (aka slop) 
@@ -754,6 +756,7 @@
 ## ▷ PHP
 
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
+* [⁠Laravel Herd](https://herd.laravel.com/windows) - PHP Dev Environment
 * [3v4l](https://3v4l.org) - PHP Shell / Web
 * [PHPStan](https://phpstan.org) - PHP Debugger / Web / [GitHub](https://github.com/phpstan/phpstan)
 * [⁠Composer](https://getcomposer.org/) - PHP Dependency Manager / [GitHub](https://github.com/composer/composer)
@@ -985,6 +988,7 @@
 * [Vector Express](https://vector.express/) - Vector Converters
 * [svgco](https://svgco.de/) or [⁠SVGFast](https://svgfast.com/) - Image to SVG Converters
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
+* [⁠Book Of Shapes](https://bookofshapes.com/) - Customizable SVG Shape & Patterns
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
@@ -1113,7 +1117,6 @@
 
 * 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Checking Techniques Index
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)**, [horsicq](https://ntinfo.biz/) / [GitHub](https://github.com/horsicq/) or [⁠CheckFileType](https://www.checkfiletype.com/) - File Type Identification Tools
-* [⁠Threat Actor](https://www.shenouda.nl/threat-actor/) or [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat Actor Intelligence Platforms
 * [Nuclei](https://docs.projectdiscovery.io/opensource/nuclei/overview) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
@@ -1142,7 +1145,8 @@
 * 🌐 **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_cybersecurity)**
-* [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/), [Exploit DB](https://www.exploit-db.com/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
+* [⁠Threat Actor](https://www.shenouda.nl/threat-actor/) or [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat Actor Intelligence Platforms
+* [Advisory Database](https://github.com/github/advisory-database), [⁠VEXRA](https://redteam.asia/exploit-repo/), [ThreatFox](https://threatfox.abuse.ch/), [Exploit DB](https://www.exploit-db.com/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [Bazaar](https://bazaar.abuse.ch/), [MalShare](https://malshare.com/), [URLhaus](https://urlhaus.abuse.ch/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search / Indexes
 * [ThreatMap](https://threatmap.checkpoint.com/), [Threat Radar](https://radar.offseq.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources

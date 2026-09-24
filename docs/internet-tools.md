@@ -380,6 +380,7 @@
 * [TinyURL](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tinyurl-note.md)
 * [refer.is](https://refer.is/) - `refer.is/gpdvk7zf`
 * [X.gd](https://x.gd/) - `x.gd/rcg0Z`
+* [nolog.link](https://nolog.link/) - `nolog.link/s/rITQhH`
 * [Bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [By.com.vn](https://by.com.vn/) - `byvn.net/XXty`
 * [ujeb link](https://ujeb.link/) - `ujeb.link/sqkwpd`
