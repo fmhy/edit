@@ -386,6 +386,7 @@
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker
 * [⁠FULU Bounties](https://bounties.fulu.org/) - Console DRM Removal Bounties
+* [RUNEAutoCracker](https://github.com/Mush-iii/RUNEAutoCracker) - An automatic Steam DRM removal & crack tool using the RUNE steam emulator
 
 ***
 
