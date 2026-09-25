@@ -607,7 +607,6 @@
 ## ▷ Streaming
 
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses / Dub / 720p
-* [xrysoi](https://tainiesonline.xyz) - Movies / TV
 * [filmatic](https://filmatic.online/) - Movies / TV
 * [gamatotv](https://gamatotv.com.co/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
@@ -1353,7 +1352,7 @@
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
 * ⭐ **[Flibusta](https://flibusta.is/)** - Books / [.onion](http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/) / [.i2p](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/)
-* [Knowledge Base](https://dontaz.github.io/), [2](https://dontaz.pages.dev/), [3](https://dontaz.vercel.app/) - Educational Recommendations
+[Knowledge Base](https://dontaz.com/knowledge-base), [2](https://dontaz.github.io/), [3](https://dontaz.pages.dev/), [4](https://dontaz.vercel.app/) - Educational Recommendations
 * [VK Book DL Pages](https://redd.it/kne0ba)
 * [Twirpx](https://www.twirpx.com/) - Books / Educational
 * [alleng](https://www.alleng.org/) - Textbooks
@@ -1504,9 +1503,12 @@
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
 * [Doramasflix](https://doramasflix.co/) - Movies / TV
+* [fuegocine](https://www.fuegocine.com//) - Movies / TV / [Telegram](https://t.me/Cine_Fuego)
+* [⁠Pelisgo](https://pelisgo.online/) -  Movies / TV / [Telegram](https://t.me/pelisgochat)
 * [⁠El Videoclub Argento](https://www.elvideoclubargento.com.ar/) - Argentine Films
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
+* [Plex Spanish](https://watch.plex.tv/es/on-demand/category/en-espanol) / [Live TV](https://watch.plex.tv/es/live-tv) - Free w/ Ads
 * [Pluto Spanish](https://pluto.tv/) - Free w/ Ads
 * [tele-libre](https://tele-libre.live/) - Live TV
 * [⁠Teleonline](https://teleonline.org/) - Live TV
@@ -1582,18 +1584,23 @@
 * [⁠Yupmanga](https://www.yupmanga.com/) - Manga / Light Novels
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](https://heavenmanga.com/) - Manga
+* [ShadowManga](https://shademanga.com/) - Manga / [Telegram](https://t.me/+ABwdbE41wtMzMGM0) / [Discord](https://discord.com/invite/WFyMxAreEr)
 * [⁠Ikigai Mangas](https://ikigaimangas.com/) - Manga 
 * [InManga](https://inmanga.com/) - Manga
+* [kumanga](https://www.kumanga.com/) - Manga / Some NSFW
 * [absorbiendomangas2](https://absorbiendomangas2.blogspot.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
 * [Scanlation](https://olympusxyz.com/) - Manga
+* [mangavault](https://mangavault.lat/) - Manga / Some NSFW / [Discord](https://discord.com/invite/GEzeWRRShM)
+* [⁠Spnmanga](https://www.spnmanga.com/) - Manga
 * [⁠M440](https://m440.in/) - Manga
 * [anzmangashd](https://www.anzmanga25.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga
+* [manhwaweb](https://manhwaweb.top/) - Manhwa / Manga / Some NSFW / [Discord](https://discord.com/invite/BRY6qya8uc)
 * [SkyMangas](https://www.skymangas.com/) - Manga / [Discord](https://discord.com/invite/4aS7HBNFkf)
 * [faneo](https://www.faneo.es/) - Manga
 * [⁠RN scalation](https://rncalation.online/) - Manga / [Discord](https://discord.com/invite/drzqCgaZgU)
-* [⁠Capibaratraductor](https://capibaratraductor.com/) - Manga
+* [⁠Capibaratraductor](https://capibaratraductor.com/) - Manga / [Discord](https://discord.com/invite/xJqCWAUxVt)
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [novenadimension](https://foro.novenadimension.com/) - Comics / Downloads
