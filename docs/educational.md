@@ -828,6 +828,7 @@
 * [Perry Morse](https://www.perry.qa/morse), [Morse Typing Trainer](https://morse.withgoogle.com/learn/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [Lock Picking 101](https://www.lockpicking101.com/) - Lock Picking Forum
 * [LibraryOfJuggling](https://libraryofjuggling.com/) - Juggling Technique Database
+* [Subskills](https://subskills.xyz/) - Sport Tutorials Indexed by Technique / [iOS](https://apps.apple.com/app/id6810049311)
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [⁠Online Coin Club](https://onlinecoin.club/) - Coin Collectors Database / Info
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
