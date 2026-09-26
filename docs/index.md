@@ -1,7 +1,8 @@
 ---
-title: Welcome
+title: FMHY
+titleTemplate: false
 layout: home
-description: The largest collection of free stuff on the internet!
+description: FMHY is a community-curated directory of free websites, apps, tools and resources for streaming, gaming, reading, privacy, learning and more.
 
 hero:
   name: freemediaheckyeah

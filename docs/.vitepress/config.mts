@@ -28,7 +28,7 @@ const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title | FMHY',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
@@ -38,12 +38,12 @@ export default defineConfig({
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: meta.hostname
+    hostname: meta.hostname,
+    transformItems: (items) =>
+      items.filter(({ url }) => !url.replace(/\/$/, '').endsWith('/sandbox'))
   },
   head: [
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
-    ['meta', { name: 'og:type', content: 'website' }],
-    ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/fmhy.ico' }],
     [
       'link',
@@ -60,7 +60,6 @@ export default defineConfig({
       'link',
       { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }
     ],
-    ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',
       { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }

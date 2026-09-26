@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /assets/
-Disallow: /*.png$
-Disallow: /*.svg$
-Disallow: /*.ico$
 Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://fmhy.net/sitemap.xml

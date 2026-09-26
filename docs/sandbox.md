@@ -1,5 +1,6 @@
 ---
 title: Sandbox
+noindex: true
 ---
 
 ### Sandbox

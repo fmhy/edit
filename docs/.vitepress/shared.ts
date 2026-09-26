@@ -20,9 +20,9 @@ import type { DefaultTheme } from 'vitepress'
 
 export const meta = {
   name: 'freemediaheckyeah',
-  description: 'The largest collection of free stuff on the internet!',
+  description:
+    'FMHY is a community-curated directory of free websites, apps, tools and resources for streaming, gaming, reading, privacy, learning and more.',
   hostname: 'https://fmhy.net',
-  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
     nsfw: true

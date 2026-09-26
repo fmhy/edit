@@ -186,7 +186,7 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio-tools/g,
-      '/audio-tools'
+      '/audio#audio-tools'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/game-tools/g,
