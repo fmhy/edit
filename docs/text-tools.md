@@ -262,28 +262,26 @@
 * ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
-* [Browserpad](https://browserpad.org/) - Local Saves
+* [Browserpad](https://browserpad.org/) - Local  / [GitHub](https://github.com/Browserpad/browserpad)
 * [⁠Chaxus](https://edit.chaxus.com/) - Local Saves / [GitHub](https://github.com/ranuts/document)
 * [Online Notepad](https://onlinenotep.ad) - Local Saves
-* [Notepad](https://notepad.js.org/) - Local Saves
+* [Notepad](https://notepad.js.org/) - Local Saves / [GitHub](https://github.com/amitmerchant1990/notepad)
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
 * [notepad-online.net](https://notepad-online.net/) - Local Saves
 * [ssavr](https://www.ssavr.com/) - Local Saves
 * [notepad-online.com](https://notepad-online.com/) - Local Saves
 * [JustNotePad](https://justnotepad.com/) - Local Saves
 * [NotesOnline](https://notesonline.org/) - Local Saves
-* [PasteePad](https://pasteepad.com/) - Local Saves
-* [Notes](https://notes.xtra.wtf/) - Local / Cloud Saves
+* [PasteePad](https://pasteepad.com/) - Local Saves / [GitHub](https://github.com/glauberramos/pastee)
+* [Notes](https://notes.xtra.wtf/) - Local / Cloud Saves / [GitHub](https://github.com/xtrafr/notes)
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
-* [dDocs](https://docs.fileverse.io/) - Cloud Saves
+* [dDocs](https://docs.fileverse.io/) - Cloud Saves / [GitHub](https://github.com/fileverse/fileverse-ddocs)
 * [NimbleText](https://nimbletext.com/Live) - Cloud Saves
 * [ZippyJot](https://www.zippyjot.com/) - Cloud Saves
-* [KiloDoc](https://www.kilodoc.com/) - Cloud Saves
-* [TinyList](https://tinylist.app/) - Cloud Saves
+* [TinyList](https://tinylist.app/) - Cloud Saves / [GitHub](https://github.com/baggachipz/tinylist)
 * [TextSlave](https://www.textslave.com/) - Cloud Saves
-* [AnyTextEditor](https://anytexteditor.com/) - Cloud Saves
 
 ***
 

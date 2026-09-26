@@ -227,7 +227,7 @@
 
 ## ▷ Internet Radio
 
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/)
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
@@ -380,9 +380,10 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
-* ⭐ **[Monochrome](https://monochrome.st/)** - FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.st/)** -  Multi-Site / FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
+* [⁠Popify](https://popify.cc/) - Spotify / FLAC / AAC / OGG / MP3
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
@@ -698,7 +699,6 @@
 * [⁠Pitchfork](https://pitchfork.com/) or [The Fork](https://the-fork.vercel.app/) - Reviews
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
-* [Charts and Culture](https://pastebin.com/uRDJVGkL) - Music Recommendation Directory
 * [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
@@ -894,6 +894,7 @@
 * ⭐ **[LRCLIB](https://lrclib.net/)** - Synced Lyrics Search / [Uploader](https://lrclibup.boidu.dev/) / [GitHub](https://github.com/tranxuanthang/lrclib)
 * [lrc.red](https://lrc.red/) - Download Synced Lyrics
 * [Karaoke Mugen](https://mugen.karaokes.moe/en/) or [Karaoke Eternal](https://www.karaoke-eternal.com/) / [Discord](https://discord.gg/PgqVtFq) / [GitHub](https://github.com/bhj/KaraokeEternal/) - Karaoke Apps / Systems
+* [⁠Karaoke Studio](https://karaoke.zoryva.me/) - Online Karaoke Player + Mobile Remote
 * [⁠Spotify Karaoke](https://github.com/haroldalan/spotify-karaoke) - Karaoke, Romanization + Translation for Spotify Web Player Lyrics
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify Synced Lyrics
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Spotify Synced Lyrics

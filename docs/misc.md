@@ -22,6 +22,7 @@
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
+* [Wispy Docs](https://wispydocs.pages.dev/) - List of Guides by Wispy
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
@@ -612,6 +613,7 @@
 * ⭐ **[Google Earth](https://www.google.com/earth/about/versions/)** - Earth Viewer
 * [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
 * [GeoHack](https://geohack.toolforge.org/) - Uncensored Google Satellite View / Coordinates Info / [GitHub](https://github.com/magnusmanske/geohack)
+* [⁠GeoWhisperer](https://www.geowhisperer.org/) - Compare Satellite Images from Different Times
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
 * [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
 * [Copernicus Browser](https://browser.dataspace.copernicus.eu/) - Copernicus Satellite Image Map / Database
@@ -1190,6 +1192,7 @@
 * [Technical City](https://technical.city/) - Tech / Hardware Comparisons
 * [Techspecs](https://techspecs.io/) - Tech / Hardware Comparisons
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers, Phones, Speakers, etc.
+* [VRcompare](https://vr-compare.com/) - VR & AR Headset Comparisons
 * [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
 * [DrawTab](https://docs.sevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [⁠OscarLiang.com](https://oscarliang.com/) - FPV Drone Equipment Reviews

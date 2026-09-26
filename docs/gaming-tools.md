@@ -203,7 +203,7 @@
 
 ## ▷ Game Maps
 
-* 🌐 **[Map Genie](https://mapgenie.io/)**, [GamerMaps](https://www.gamermaps.net/), [IGN Maps](https://ign.com/maps), [GameMaps](https://www.gamemaps.com/), [THGL](https://www.th.gl/) or [VGMaps](https://www.vgmaps.com/) - Game Map Indexes
+* 🌐 **[Map Genie](https://mapgenie.io/)**, [GamerMaps](https://www.gamermaps.net/), [IGN Maps](https://ign.com/maps), [VGMaps](https://www.vgmaps.com/), [⁠Better VGMaps](https://vgmaps.de/), [GameMaps](https://www.gamemaps.com/) or [THGL](https://www.th.gl/) - Game Map Indexes
 * [noclip](https://noclip.website/) - Explore Game Maps
 * [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
 * [bspview](https://sbuggay.github.io/bspview) - Explore Quake & GoldSRC Maps / [GitHub](https://github.com/sbuggay/bspview)
@@ -319,7 +319,6 @@
 * [⁠Nodal](https://nodal.gg/) - Game Recommendations
 * [⁠/V/'s Recommended Games Wiki](https://vsrecommendedgames.miraheze.org/) - Game Recommendations
 * [⁠Emulation Collection](https://docs.google.com/spreadsheets/d/1bYIhExnaQXYyWLnna1WJPLMvXnmSlq2tvazDL3eQ3z0) - Game Recommendation Chart / 7+ Metacritic
-* [Charts and Culture](https://pastebin.com/uRDJVGkL) - Game Recommendation Directory
 * [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [MiniReview](https://minireview.io/) - Mobile Game Recommendations / Reviews / [Discord](https://discord.gg/TJq6EXfm7f)
@@ -824,6 +823,7 @@
 * [MinecraftCapes](https://minecraftcapes.net/) / [Discord](https://discord.com/engage/jqRU9SN) or [Modrinth Capes](https://modrinth.com/mod/capes) - Custom Capes
 * [⁠Cosmetica](https://cosmetica.cc/) - Custom Capes + Cosmetics Fabric Mod
 * [Minecraft Heads](https://minecraft-heads.com/) / [Discord](https://discord.com/engage/K7yxDD2HP3), [ArmorTrims](https://www.armortrims.com/) or [Minetrim](https://minetrim.com/) - Heads & Armor Trim Generators
+* [⁠Vanilla RTX](https://github.com/cubeir/Vanilla-RTX-App) - Bedrock RTX Pack Manager
 * [ConvertMCPack](https://convertmcpack.net/) - Pack Converters
 * [PackCrafter](https://packcrafter.net/) - Resource Pack Creator
 * [⁠ResourcePack](https://resourcepack.net/) - Resource & Texture Packs

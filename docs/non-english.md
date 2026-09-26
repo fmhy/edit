@@ -1429,7 +1429,8 @@
 * [Zinfinal](https://zinfinal.com/) - Video / Audio / Reading / Latino / Castilian / Signup Required / [Discord](https://discord.com/invite/TyxzVb5xPA)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
-* [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup Required
+* [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup 
+* [SomosMovies](https://somosmovies.org/) -  Movies / TV / 1080p
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino

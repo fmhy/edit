@@ -132,7 +132,7 @@
 ## ▷ FFmpeg Tools
 
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
-* [ffmpeg-web](https://ffmpeg-web.netlify.app/) / [GitHub](https://github.com/Dinoosauro/ffmpeg-web), [FFmpeg Online](https://ffmpeg.wide.video/), [⁠ffmpeg webCLI](https://tejaswigowda.com/ffmpeg-webCLI/) / [GitHub](https://github.com/tejaswigowda/ffmpeg-webCLI) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) / [GitHub](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg Web Apps
+* [ffmpeg-web](https://ffmpeg-web.netlify.app/) / [GitHub](https://github.com/Dinoosauro/ffmpeg-web), [FFmpeg Online](https://ffmpeg.wide.video/), [⁠ffmpeg webCLI](https://tejaswigowda.com/ffmpeg-webCLI/) / [GitHub](https://github.com/tejaswigowda/ffmpeg-webCLI), [⁠CompressO](https://compresso.codeforreal.com/) / [GitHub](https://github.com/codeforreal1/compressO) or [ffmpegwasm](https://ffmpegwasm.netlify.app/) / [2](https://ffmpeg.gcc.ac.cn/) / [GitHub](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg Web Apps
 * [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmpeg Guides
 * [ASM Lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons / Multiple Languages
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://ffmpeg-commander.com/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
@@ -235,7 +235,7 @@
 * ⭐ **[Watch2Gether](https://w2g.tv/)** - Online Player
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
-* ⭐ **[WatchParty](https://www.watchparty.me/)** - Online / Virtual Browser
+* ⭐ **[WatchParty](https://www.watchparty.me/)** - Online / Virtual Browser / [Discord](https://discord.gg/3rYj5HV) / [GitHub](https://github.com/howardchung/watchparty)
 * ⭐ **[neko](https://neko.m1k1o.net/)** - Docker Virtual Browser / [GitHub](https://github.com/m1k1o/neko)
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [OpenTogetherTube](https://opentogethertube.com/) or [TurtleTV](https://turtletv.app/) - Online Player

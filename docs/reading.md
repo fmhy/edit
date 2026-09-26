@@ -24,6 +24,7 @@
 * [Read From](https://readfrom.net/) - Books / Online Reading
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
+* [⁠Dynasty](https://t.me/dynastyapprovals) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
 * [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
@@ -922,6 +923,7 @@
 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
 * [Omnibus Tracker](https://omnibusreaders.com/) - Comic Tracking / Database / Releases / Sales Tracking / [Discord](https://discord.gg/8N3sgZbV5H)
+* [⁠VerseDb](https://versedb.com/) - Comic Tracking / Database / Releases / [Discord](https://discord.gg/mbtqVH8R9n)
 * [⁠Comic Vine](https://comicvine.gamespot.com/) - Comic Database / Forum
 * [⁠Grand Comics Database](https://www.comics.org/) - Comic Database
 * [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
@@ -951,7 +953,6 @@
 * ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** or **[LibraryThing Awards](https://www.librarything.com/award)** - Book Awards + Winning Book Index
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * [GoodBooks](https://www.goodbooks.io/) or [Read This Twice](https://readthistwice.com/) - Book Recommendations by Influential People
-* [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations 

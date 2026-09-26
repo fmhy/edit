@@ -501,6 +501,7 @@
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [⁠Brain Bashers](https://www.brainbashers.com/) - Multiple Puzzle Games
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
+* [⁠0x00-8191](https://0x00-8191.com/) - Cipher, Signal & Riddle Style Puzzles 
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [⁠Murdoku](https://murdoku.com/play/) - Weekly Murder Mystery Puzzles / [Discord](https://discord.com/invite/frYbdPpkSH)
 * [Murdle](https://murdle.com/) - Daily Murder Mystery
@@ -757,6 +758,7 @@
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **[Flash Museum](https://flashmuseum.net/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
+* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator

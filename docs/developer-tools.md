@@ -1116,6 +1116,7 @@
 # ► Cybersecurity Tools
 
 * 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Checking Techniques Index
+* 🌐 **[⁠Cyber Threat Intelligence](https://www.shenouda.nl/threat-intelligence-platform-comparison/)** - CTI Directory & Pricing Explorer 
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)**, [horsicq](https://ntinfo.biz/) / [GitHub](https://github.com/horsicq/) or [⁠CheckFileType](https://www.checkfiletype.com/) - File Type Identification Tools
 * [Nuclei](https://docs.projectdiscovery.io/opensource/nuclei/overview) / [GitHub](https://github.com/projectdiscovery/nuclei), [Synk](https://security.snyk.io/) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software

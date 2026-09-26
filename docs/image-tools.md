@@ -567,6 +567,7 @@
 
 ## ▷ 3D Modeling Tools
 
+* [⁠ilove3d](https://ilove3d.app/) - 3D Model Tools / Web
 * [Embossify](https://www.embossify.com/), [⁠Image to 3D](https://image-to-3d.ai/) or [Tripo3D](https://studio.tripo3d.ai/) - Image to 3D Model Converters
 * [⁠Kiri:Moto](https://grid.space/kiri/) - Web-Based 3D Model Slicer 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
@@ -878,6 +879,7 @@
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
 * [⁠Photons to Photos](https://www.photonstophotos.net/) - Photographic Sensor Performance Data
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
+* [⁠DOF Simulator](https://dofsimulator.net/) - Interactive Depth of Field & Bokeh Simulator
 * [MagicLantern](https://www.magiclantern.fm/) - Custom Canon EOS Firmware / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC)
 * [CHDK](https://chdk.fandom.com/wiki/CHDK) - Custom Canon PowerShot Firmware
 * [fSpy](https://fspy.io/) - Still Image Camera Matching

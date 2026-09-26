@@ -143,6 +143,7 @@
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
 * [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable
 * [⁠Just The QR Code](https://justthefuckingqrco.de/) - Generator / Customizable
+* [⁠Midas QR](https://midasqr.is-local.org/) - Generator / Customizable / [Github](https://github.com/Jimm144/midas-qr)
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
@@ -344,6 +345,7 @@
 
 ## ▷ Redirect Bypass
 
+* 🌐 **[Bypass Site Index / Status](https://rentry.co/FMHYB64#abs)**
 * ⭐ **[Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)** - Bypass Link Shorteners / [Userscript](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js)
 * ⭐ **[Evade](https://skipped.lol)** - Ad-Links Bypasser / [Userscript](https://skipped.lol/evade/evade.user.js) / [Discord](https://discord.gg/gM5vzY4fPW)
 * ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad-Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord) / [GitHub](https://github.com/bypass-vip)
@@ -483,6 +485,15 @@
 * [TempmailHub](https://tempmailhub.org/) - Gmail / 30 Mins / 1 Domain
 * [⁠Ghost Inbox (Gmail)](https://temp-gmail.ghostinbox.net/) or [⁠Ghost Inbox](https://ghostinbox.net/) - Gmail / 1 Day / 1 Day / 10 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
+
+* [TempMail Cloud](https://tempmail.cloud/) - Forever / Forever (w/ account) / 21 Domains
+
+Temp Mail / 
+
+
+Keeps Domains + Mail Forever (w/ account)
+
+
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://mailporary.com/) - Forever / 1 Day / 3 Domains
@@ -617,7 +628,7 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://privacytests.org/)** or [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) - Compare Popular Browsers
+* 🌐 **[Browser Comparisons](https://privacytests.org/)**, **[⁠BrowserPedia](https://browserpedia.com/)**or **[Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm)** - Browser Comparisons / Databases
 * 🌐 **[Desktop Browser List](https://nerdyslacker.github.io/desktop-web-browsers/)** - Desktop Browser Index / [GitHub](https://github.com/nerdyslacker/desktop-web-browsers)
 * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**

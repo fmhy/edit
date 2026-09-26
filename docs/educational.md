@@ -236,6 +236,7 @@
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [BOMwiki](https://bomwiki.com/) - Product Blueprint Components Database / [X](https://x.com/protosphinx) / [GitHub](https://github.com/BOMWiki)
+* [⁠Hackster.io](https://www.hackster.io/) - Hardware Learning / Project Sharing 
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
@@ -698,7 +699,7 @@
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [⁠CityPopulation](https://citypopulation.de/) - Location / Population Data
 * [City Data](https://www.city-data.com/) - US City Data
-* [Rulers.org](https://rulers.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
+* [Rulers.org](https://rulers.org/), [⁠World Statesmen](https://www.worldstatesmen.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
 * [OpenSanctions](https://www.opensanctions.org/) - Government Sanctions Database / [GitHub](https://github.com/opensanctions/opensanctions)
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
 * [SIPRI Database](https://www.sipri.org/databases) - Global Military Data
@@ -930,6 +931,7 @@
 * [Pedro's Pixel Art Tutorials](https://saint11.art/blog/pixel-art-tutorials/) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
 * [MetPublications](https://www.metmuseum.org/met-publications/all) - Art Learning Books
 * [GraphicsCodex](https://graphicscodex.com/) - 3D Computer Graphic Guides
+* [⁠The Etherington Brothers](https://theetheringtonbrothers.blogspot.com/) - Drawing / Animation Tutorials
 * [DrawingNow](https://www.drawingnow.com/) or [⁠Drawing Tutorials](https://www.drawingtutorials101.com/) - Learn to Draw
 * [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
@@ -1002,9 +1004,10 @@
 * [Syzygy Tables](https://syzygy-tables.info/) - 7-Piece Endgame Tablebase Explorer
 * [The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
 * [ChessGames](https://www.chessgames.com/) - Historic Master Games Archive & Discussion
+* [Chess Results](https://chess-results.com/) - FIDE Tournament Results Database
+* [⁠Olympiad Stats](https://www.olympiadstats.fun/) - Chess Olympiad Statistics / Round Analysis
 * [365Chess](https://www.365chess.com/) - Chess Database / Opening Explorer
 * [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
-* [Chess Results](https://chess-results.com/) - FIDE Tournament Results Database
 * [YottaChess](https://www.yottachess.com/) - Professional Player Database
 * [ChessBase](https://en.chessbase.com/) / [India](https://www.chessbase.in/) - Chess News, Articles & Tournaments
 * [Visual History of Chessmen](https://chesshistory.github.io/) - Chessmen History Guide
@@ -1041,13 +1044,12 @@
 * ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
 * [Avrae](https://avrae.io/) - D&D Automation Discord Bot
 * [DnD-Books(4e,5e,5.5e)](https://github.com/nazdridoy/dnd-public) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Rulebooks / Manuals
-* [⁠The Homebrewery](https://www.naturalcrit.com/) - D&D Custom Rulebook Creator / [GitHub](https://github.com/naturalcrit/homebrewery)
+* [⁠The Homebrewery](https://www.naturalcrit.com/) / [GitHub](https://github.com/naturalcrit/homebrewery) or [GM Binder](https://www.gmbinder.com/) - Custom Rulebook & Document Creators
+* [r/UnearthedArcana](https://www.reddit.com/r/UnearthedArcana/) - D&D Homebrew Content Subreddit
 * [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
 * [⁠DiceCloud](https://dicecloud.com/) - D&D 5e Character Manager / [GitHub](https://github.com/ThaumRystra/DiceCloud/)
 * [⁠DMHeroes](https://dmheroes.com/) - D&D NPC Generator / [Classic](http://classic.dmheroes.com/)
 * [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
-* [GM Binder](https://www.gmbinder.com/) - 5E Homebrew Document Editors
-* [D&D Wiki](https://www.dandwiki.com/) - D&D Homebrew Wiki
 
 ***
 
@@ -1082,7 +1084,7 @@
 * [⁠Chimahon](https://github.com/sohilsayed/chimahon) - Learn Languages via Manga, Novels & Anime / Android
 * [⁠Lingotype](https://www.lingotype.app/) - Learn Languages via Typing
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community
-* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
+* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/), [⁠WikDict](https://www.wikdict.com/) or [Reverso](https://reverso.net/) - Translation Dictionaries
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [Refold](https://refold.la/) - Language Learning Roadmap
@@ -1260,6 +1262,7 @@
 * [⁠OpaLingo](https://www.opalingo.com/) - Macedonian Learning Site
 * [⁠Icelandic Online](https://icelandiconline.com/) - Icelandic Learning Courses
 * [⁠Latin & Ancient Greek](https://discord.com/invite/Latin) - Latin & Ancient Greek Learning Community / Discord
+* [⁠EIEOL](https://lrc.la.utexas.edu/) - Early Indo-European Language Lessons & Lexicon
 
 ***
 
@@ -1609,6 +1612,7 @@
 * [⁠Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - Cybersecurity Learning Roadmap
 * [TryHackMe](https://tryhackme.com/), [⁠Root Me](https://www.root-me.org/?lang=en) / [Discord](https://discord.com/invite/rootme), [HackTheBox](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons / Learning
 * [Addielamarr](https://publish.obsidian.md/addielamarr/) or [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
+* [⁠Cyber Intel Handbook](https://www.shenouda.nl/cti-handbook/) - OSINT & Threat Intelligence Guide
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [⁠WeChall](https://www.wechall.net/) - Cybersecurity Practice Games + Rankings
 * [⁠BreachLab](https://breachlab.org/) - Learn Offensive Security
