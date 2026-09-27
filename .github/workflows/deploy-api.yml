@@ -5,6 +5,11 @@ on:
   push:
     paths:
       - 'api/**'
+      - 'docs/.vitepress/types/Feedback.ts'
+      - 'nitro.config.ts'
+      - 'wrangler.toml'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
     branches:
       - main
   workflow_dispatch:
