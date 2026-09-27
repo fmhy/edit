@@ -682,6 +682,7 @@
 * [reaConverter](https://online.reaconverter.com/) - Image Converter / Web
 * [Knvrt](https://www.knvrt.one/) - Image Converter / Web
 * [Raw Pics](https://raw.pics.io/) - Convert RAW images to jpg/png / Web
+* [FileOnTap](https://fileontap.com/heic-to-png/) - Free Browser-Based HEIC to PNG Converter, Files Never Uploaded / Web
 
 ***
 
