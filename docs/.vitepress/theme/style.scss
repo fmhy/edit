@@ -485,7 +485,7 @@ html.june {
 
 /* Global theme styles for the dropdown to ensure correct box appearance */
 .v-popper--theme-theme-selector .v-popper__inner {
-  --appearance-panel-surface: var(--vp-c-bg-elv);
+  --appearance-panel-surface: var(--vp-c-bg);
 
   background: var(--appearance-panel-surface);
   border: 1px solid var(--vp-c-divider);
@@ -646,15 +646,7 @@ html.theme-view-transition * {
   transition: none !important;
 }
 
-/* Keep transient overlays — the mobile nav screen and the theme-selector
- * dropdown popper — out of the view-transition snapshots so they never appear
- * inside the radial reveal (and so the dropdown hides instantly on click).
- * Scope to `.v-popper__popper` so only the teleported popover is hidden:
- * floating-vue also stamps `.v-popper--theme-theme-selector` onto the trigger
- * wrapper around the navbar toggle button, and hiding that would blank out the
- * sun/moon icon for the whole reveal. */
-html.theme-view-transition .VPNavScreen,
-html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
+html.theme-view-transition .VPNavScreen {
   display: none !important;
 }
 

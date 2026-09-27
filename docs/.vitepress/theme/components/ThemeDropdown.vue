@@ -42,7 +42,7 @@ onUnmounted(() => {
         :distance="12"
         placement="bottom-end"
         :triggers="['click']"
-        :popper-triggers="['click']"
+        :popper-triggers="[]"
         :auto-hide="true"
       >
         <button
@@ -57,7 +57,7 @@ onUnmounted(() => {
         </button>
 
         <template #popper>
-          <AppearancePanel close-on-select @request-close="closeDropdown" />
+          <AppearancePanel />
         </template>
       </VDropdown>
     </div>
