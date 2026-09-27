@@ -17,10 +17,10 @@
 * [Rope](https://github.com/Hillobar/Rope) - Video Face Swap Tools / Windows / [Discord](https://discord.com/invite/EcdVAFJzqp)
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media Discussion / Web
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools / Windows
-* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder / Windows, macOS, Linux, Docker 
+* [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder / Windows, macOS, Linux, Docker
 * [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Change Default MKV Subtitle / Audio Tracks / Windows, macOS, Linux / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
 * [untrunc](https://github.com/anthwlock/untrunc) or [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files / Docker
-* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows / macOS / Linux
+* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
 
 ***
 
