@@ -4,6 +4,16 @@ html {
 
 :root {
   --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
+  --fmhy-c-accent-subtle: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 7%,
+    var(--vp-c-bg)
+  );
+  --fmhy-c-accent-muted: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 13%,
+    var(--vp-c-bg)
+  );
 
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
@@ -143,12 +153,14 @@ html[data-theme='monochrome'] {
   text-decoration-style: solid;
   text-decoration-color: transparent;
   -webkit-text-decoration-color: transparent;
-  transition: text-decoration-color 0.25s;
+  transition:
+    text-decoration-color 0.25s,
+    color 0.25s;
 
   &:hover {
-    color: var(--vp-c-brand-1);
-    text-decoration-color: var(--vp-c-brand-1);
-    -webkit-text-decoration-color: var(--vp-c-brand-1);
+    color: var(--vp-c-brand-2);
+    text-decoration-color: var(--vp-c-brand-2);
+    -webkit-text-decoration-color: var(--vp-c-brand-2);
   }
 }
 
@@ -176,12 +188,42 @@ html[data-theme='monochrome'] {
   }
 }
 
-/* Custom scrollbar */
+.VPSidebarItem.is-link > .item > .link {
+  margin-inline: -8px;
+  padding-inline: 8px;
+  border-radius: 6px;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
+}
+
+.VPSidebarItem.is-link > .item > .link:hover {
+  background: var(--fmhy-c-accent-subtle);
+}
+
+.VPSidebarItem.is-active > .item > .link,
+.VPSidebarItem.is-active > .item > .link:hover {
+  background: var(--fmhy-c-accent-muted);
+}
+
+#VPSidebarNav > .group:last-of-type > .VPSidebarItem.level-0 {
+  padding-bottom: 0;
+}
+
 .VPSidebar::-webkit-scrollbar {
   block-size: 4px;
   border-end-end-radius: 14px;
   border-start-end-radius: 14px;
   inline-size: 4px;
+}
+
+.VPSidebar::-webkit-scrollbar-thumb {
+  background-color: var(--vp-c-divider);
+  border-radius: 14px;
+}
+
+.VPSidebar::-webkit-scrollbar-thumb:hover {
+  background-color: var(--vp-c-text-3);
 }
 
 /**
