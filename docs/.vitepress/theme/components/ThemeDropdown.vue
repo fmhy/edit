@@ -48,6 +48,7 @@ onUnmounted(() => {
         <button
           type="button"
           class="theme-dropdown-toggle"
+          :class="{ active: shown }"
           title="Appearance and themes"
           aria-label="Appearance and themes"
         >
@@ -103,7 +104,8 @@ onUnmounted(() => {
   cursor: pointer;
   border-radius: 8px;
 
-  &:hover {
+  &:hover,
+  &.active {
     color: var(--vp-c-text-1);
     background: var(--vp-c-default-soft);
   }
