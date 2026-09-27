@@ -4,6 +4,7 @@ html {
 
 :root {
   --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
+
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
@@ -442,9 +443,11 @@ html.june {
 
 /* Global theme styles for the dropdown to ensure correct box appearance */
 .v-popper--theme-theme-selector .v-popper__inner {
-  background: var(--vp-c-bg);
+  --appearance-panel-surface: var(--vp-c-bg-elv);
+
+  background: var(--appearance-panel-surface);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   padding: 6px;
   color: var(--vp-c-text-1);
@@ -458,18 +461,46 @@ html.june {
   display: none;
 }
 
-/* Override VPFlyout hover behavior when manually controlled */
-.VPFlyout.click-based-flyout:hover .menu {
-  opacity: 0 !important;
-  visibility: hidden !important;
-  transform: translateY(0) !important;
-  /* Reset transform if any */
-}
+@media (max-width: 1279px) {
+  .VPNavScreenAppearance,
+  .VPNavBarExtra .item.appearance {
+    display: block !important;
+  }
 
-.VPFlyout.click-based-flyout.open .menu {
-  opacity: 1 !important;
-  visibility: visible !important;
-  transform: translateY(0) !important;
+  .VPNavScreenAppearance {
+    --appearance-panel-surface: var(--vp-c-bg);
+
+    background: transparent !important;
+    border-radius: 0 !important;
+    padding: 4px !important;
+  }
+
+  .VPNavScreenAppearance > .text,
+  .VPNavBarExtra .item.appearance > .label {
+    display: none;
+  }
+
+  .VPNavBarExtra .item.appearance {
+    --appearance-panel-surface: var(--vp-c-bg-elv);
+
+    min-width: 0 !important;
+    margin-inline: 0;
+    padding: 0 !important;
+  }
+
+  .VPNavBarExtra .appearance-action {
+    margin-inline: 0;
+  }
+
+  .VPNavBarExtra .VPMenu {
+    width: 220px;
+    padding: 6px;
+  }
+
+  .VPNavBarExtra .VPMenu > .group {
+    margin-inline: -6px;
+    padding-inline: 6px;
+  }
 }
 
 .VPLocalNav .VPLocalNavOutlineDropdown {
