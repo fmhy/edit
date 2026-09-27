@@ -181,6 +181,7 @@
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - Desktop App / Local Models / [X](https://x.com/Amuse_AI)
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 * [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
+* - [AI Make Song](https://www.aimakesong.com/) - Up-To-5-Minute Videos / Freemium / Sign-Up / Daily Credits
 
 ***
 
