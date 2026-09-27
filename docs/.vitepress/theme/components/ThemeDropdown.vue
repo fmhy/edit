@@ -1,13 +1,11 @@
 <script setup lang="ts">
-import { inject, onMounted, onUnmounted, ref } from 'vue'
+import { onMounted, onUnmounted, ref } from 'vue'
 import AppearancePanel from './AppearancePanel.vue'
 
 const dropdownRef = ref<{
   hide: (options?: { skipDelay?: boolean }) => void
 } | null>(null)
 const shown = ref(false)
-
-const closeScreen = inject<() => void>('close-screen', () => {})
 
 const closeDropdown = () => {
   dropdownRef.value?.hide({ skipDelay: true })
@@ -32,7 +30,7 @@ onUnmounted(() => {
 <template>
   <div class="theme-dropdown-wrapper">
     <div class="compact-theme-picker">
-      <AppearancePanel close-on-select @request-close="closeScreen" />
+      <AppearancePanel />
     </div>
 
     <div class="desktop-theme-picker">
