@@ -15,7 +15,7 @@
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
-* [Sonora](https://github.com/nolight132/sonora) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
+* [Sonora](https://sonorahq.org/) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Volta](https://volta-music.com/) - Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
@@ -380,7 +380,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
-* ⭐ **[Monochrome](https://monochrome.st/)** -  Multi-Site / FLAC / AAC / MP3 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.st/)** - Multi-Site / FLAC / AAC / MP3 / E-AC3 / AC-4 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [⁠Popify](https://popify.cc/) - Spotify / FLAC / AAC / OGG / MP3
@@ -718,6 +718,7 @@
 * [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
 * [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
+* [NTS Focus](https://rentry.co/ntsinfocus) or [NTS Guide To](https://rentry.co/ntsguideto) - NTS Episode Indexes
 * [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
@@ -797,7 +798,7 @@
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
 * [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
-* [Sonora](https://github.com/nolight132/sonora) - Audio Player / Subsonic Player / Windows, macOS, Linux / [Discord](https://discord.gg/a8N8Tx23rV)
+* [Sonora](https://sonorahq.org/) - Audio Player / Subsonic Player / Windows, macOS, Linux / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
 * [Exaile](https://exaile.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/exaile/exaile)
 * [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, macOS, Linux
 * [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, macOS, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)

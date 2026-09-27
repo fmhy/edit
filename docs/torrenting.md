@@ -37,7 +37,7 @@
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
-* [Cleanbay](https://cleanbay.netlify.app/)
+* [Cleanbay](https://cleanbay.netlify.app/) / [GitHub](https://github.com/Gr3atWh173/cleanbay#contributing)
 * [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
 * [⁠The Black Hole Bay](https://theblackholebay.lol/) - DHT-Based / [Discord](https://discord.gg/Qb2GQqW3Uq)
 * [snowfl](https://snowfl.com/)

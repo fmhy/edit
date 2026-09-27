@@ -23,11 +23,11 @@
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[ZeiGames](https://zeigames.com/)** - Download / Pre-Installed / Multiplayer / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
-* ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
 * ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
+* [SteamUnderground](https://steamunderground.net/) - Download / Pre-Installed / Use Adblock / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * [scene cat](https://rentry.co/FMHYB64#scene-cat) - Scene Release Download / [Discord](https://discord.gg/wXdNEhf73x)
 * [Glitchify Archives](https://glitchify.org/) - Download / ROM Repacks / [Discord](https://discord.gg/pH6avrdHHC)
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -758,7 +758,7 @@
 * ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
 * ⭐ **[Flash Museum](https://flashmuseum.net/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
-* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports
+* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw) / [GitHub](https://github.com/wasmdotrip/wasm.rip)
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
