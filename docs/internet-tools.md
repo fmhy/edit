@@ -41,16 +41,16 @@
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[KeePassXC](https://keepassxc.org/)** / [Guide](https://keepassxc.org/docs/KeePassXC_GettingStarted) / [Resources](https://github.com/lgg/awesome-keepass) / Windows, macOS, Linux / [GitHub](https://github.com/keepassxreboot/keepassxc)
 * ⭐ **[Bitwarden](https://bitwarden.com/)** / All Platforms / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://x.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
-* ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms
+* ⭐ **[Proton Pass](https://proton.me/pass)** / All Platforms / [X](https://x.com/proton_pass) / [Subreddit](https://www.reddit.com/r/ProtonPass) / [GitHub](https://github.com/protonpass)
 * ⭐ **[KeePass](https://keepass.info/)** / [Plugins](https://keepass.info/plugins.html) / [Resources](https://github.com/lgg/awesome-keepass) / [3rd-party Extension](https://tusk.subdavis.com/) / Windows
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)** or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
-* ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / macOS, iOS
-* [AuthPass](https://authpass.app/) / All Platforms
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)** / [GitHub](https://github.com/Kunzisoft/KeePassDX) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass Clients / Android
+* ⭐ **[KeePassium](https://keepassium.com/)** - Keepass Client / macOS, iOS / [Subreddit](https://www.reddit.com/r/KeePassium/) / [GitHub](https://github.com/keepassium/KeePassium)
+* [AuthPass](https://authpass.app/) / All Platforms / [Discord](https://discord.gg/Nuraxmc) / [GitHub](https://github.com/authpass/authpass)
 * [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Self-Hosted
-* [LessPass](https://lesspass.com/) / Stateless Password Manager / Android, iOS, Web
+* [LessPass](https://lesspass.com/) / Stateless Password Manager / Android, iOS, Web / [GitHub](https://github.com/lesspass/lesspass)
 * [KeeWeb](https://keeweb.info/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
-* [Strongbox](https://strongboxsafe.com/) / macOS, iOS
+* [Strongbox](https://strongboxsafe.com/) / macOS, iOS / [GItHub](https://github.com/strongbox-password-safe/strongbox)
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
 * [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux / [GitHub](https://github.com/gopasspw/gopass)
 
@@ -485,15 +485,7 @@
 * [TempmailHub](https://tempmailhub.org/) - Gmail / 30 Mins / 1 Domain
 * [⁠Ghost Inbox (Gmail)](https://temp-gmail.ghostinbox.net/) or [⁠Ghost Inbox](https://ghostinbox.net/) - Gmail / 1 Day / 1 Day / 10 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
-
 * [TempMail Cloud](https://tempmail.cloud/) - Forever / Forever (w/ account) / 21 Domains
-
-Temp Mail / 
-
-
-Keeps Domains + Mail Forever (w/ account)
-
-
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
 * [NiceMail](https://mailporary.com/) - Forever / 1 Day / 3 Domains
