@@ -222,6 +222,14 @@ function selectCategory(id: string) {
   shouldResetScroll.value = true
 }
 
+function onCategoryWheel(event: WheelEvent) {
+  const el = event.currentTarget as HTMLElement
+  if (el.scrollWidth <= el.clientWidth) return
+  if (Math.abs(event.deltaX) >= Math.abs(event.deltaY)) return
+  event.preventDefault()
+  el.scrollLeft += event.deltaY
+}
+
 const customMetadata = shallowRef<
   Record<string, { l?: string[]; s?: string[]; u?: string[]; su?: string[] }>
 >({})
@@ -2383,6 +2391,7 @@ function isSamePageComparison(destPath: string) {
           <div
             v-if="filterText && visibleCategories.length"
             class="category-filters"
+            @wheel="onCategoryWheel"
           >
             <button
               type="button"
@@ -3368,13 +3377,47 @@ svg {
   gap: 6px;
   flex-shrink: 0;
   overflow-x: auto;
-  scrollbar-width: none;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
   padding: 0 4px 2px;
   margin-top: -6px;
 }
 
-.category-filters::-webkit-scrollbar {
-  display: none;
+@supports not selector(::-moz-progress-bar) {
+  .category-filters {
+    margin-bottom: -6px;
+  }
+
+  .category-filters::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .category-filters::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .category-filters::-webkit-scrollbar-thumb {
+    border: 2px solid transparent;
+    border-radius: 999px;
+    background-color: var(--vp-c-text-3);
+    background-clip: content-box;
+  }
+
+  .category-filters::-webkit-scrollbar-thumb:hover {
+    background-color: var(--vp-c-text-2);
+  }
+}
+
+@supports selector(::-moz-progress-bar) {
+  .category-filters {
+    padding-bottom: 8px;
+    margin-bottom: -8px;
+    scrollbar-color: var(--vp-c-text-3) transparent;
+  }
+
+  .category-filters:hover {
+    scrollbar-color: var(--vp-c-text-2) transparent;
+  }
 }
 
 .category-chip {
