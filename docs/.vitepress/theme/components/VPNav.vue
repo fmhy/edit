@@ -38,13 +38,24 @@ let lastNavScrollY = 0
 watch(y, (newY) => {
   if (!inBrowser) return
 
-  if (document.documentElement.classList.contains('vp-resizing')) {
+  if (newY <= 0) {
+    setMobileNavHidden(false)
+    lastNavScrollY = 0
+    return
+  }
+
+  if (width.value >= 960) {
+    setMobileNavHidden(false)
     lastNavScrollY = newY
     return
   }
 
-  // If a search scroll-to-match operation is active, lock the navbar state
-  if (document.documentElement.classList.contains('vp-search-scrolling')) {
+  const diff = newY - lastNavScrollY
+
+  if (
+    document.documentElement.classList.contains('vp-resizing') ||
+    document.documentElement.classList.contains('vp-search-scrolling')
+  ) {
     lastNavScrollY = newY
     return
   }
@@ -55,35 +66,31 @@ watch(y, (newY) => {
     return
   }
 
-  // If mobile Table of Contents dropdown is open, do not hide the nav bar.
-  // NOTE: This selector depends on VitePress internal DOM structure; update if VitePress changes class names.
-  if (document.querySelector('.VPLocalNavOutlineDropdown .items')) {
+  const isTocOpen = !!document.querySelector(
+    '.VPLocalNavOutlineDropdown .items'
+  )
+
+  if (diff > 0 && isTocOpen) {
     lastNavScrollY = newY
     return
   }
 
-  // If at top, show
-  if (newY <= 0) {
-    setMobileNavHidden(false)
-    lastNavScrollY = 0
-    return
-  }
-
-  // Only apply on mobile (< 960px usually)
-  if (width.value < 960) {
-    const diff = newY - lastNavScrollY
-    if (Math.abs(diff) > SCROLL_THRESHOLD) {
-      setMobileNavHidden(diff > 0)
-      lastNavScrollY = newY
-    }
-  } else {
-    setMobileNavHidden(false)
+  if (Math.abs(diff) > SCROLL_THRESHOLD) {
+    setMobileNavHidden(diff > 0)
+    lastNavScrollY = newY
   }
 })
 
 onMounted(() => {
   setMobileNavHidden(isHidden.value)
   lastNavScrollY = y.value
+})
+
+watch(isScreenOpen, (open) => {
+  if (open) {
+    setMobileNavHidden(false)
+    lastNavScrollY = y.value
+  }
 })
 
 // Watch width to reset if resizing to desktop
