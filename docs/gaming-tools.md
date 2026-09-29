@@ -338,7 +338,7 @@
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
 * [⁠SyncNon-SteamGames](https://github.com/IGnGr/SyncNon-SteamGames) - Automatically Add Non-Steam Games + Fetch Images
 * [⁠CloudRedirect](https://github.com/Selectively11/CloudRedirect) - Steam Cloud Save Redirection Tool
-* [⁠Achievement Watcher](https://github.com/darktakayanagi/Achievement-Watcher) / [Setup Guide](https://breadcloud.net/blog/achievements-guide/) or [⁠Achievements](https://github.com/PSerban93/Achievements) - Multi-Platform Achievement Parsers
+* [⁠Achievement Watcher](https://github.com/darktakayanagi/Achievement-Watcher) / [Setup Guide](https://breadcloud.net/blog/achievements-guide/) or [⁠Achievements](https://github.com/PSerban93/Achievements) - Achievement Parsers
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) or [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Managers
 * [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [⁠VSThemes Steam](https://vsthemes.org/en/steam/) - Custom Steam Profiles
