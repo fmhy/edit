@@ -384,7 +384,7 @@
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [⁠Popify](https://popify.cc/) - Spotify / FLAC / AAC / OGG / MP3
-* [⁠Octave](https://octavestreaming.com/) - Multi-Site / LAC / Dolby Atmos / AAC (320) / MP3 (128) / [Discord](https://discord.gg/5cZAbW3Tbg)
+* [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / AAC (320) / MP3 (128) / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3

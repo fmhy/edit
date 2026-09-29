@@ -19,11 +19,11 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Best Wiki ever. Wifey has stage 4 cancer. I am a working joe keeping this household afloat on warehouse wages while supporting our family. Finding this wiki has kept us close to our old way of life for free-fifty, lol! Books for the paperwhite, movies, TV, gaming, education, etc., etc. There is so much here that has enhanced our lives. And I find more in the depths every time I go exploring. Please don't ever quit updating/adding to this library of awesomeness! Anyway, I just wanted to drop an anonymous thank you for everything here. Amazing resource. Happy to have a carefully curated list instead of roaming blind into the internet wilds. You are doing some amazing works here. Basically my homepage now. Infinite Kudos!"*
 
+* *"I am elderly and poor. Being able to watch movies and TV at home for free is saving my mental health. Your service is essential to so many people who need relief from the hardships of life at this time in history and from failing health after a lifetime of work."*
+
 * *"That's why I love FMHY so much. Before id spend hours and hours every day trying to hunt useful websites for myself."*
 
 * *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
-
-* *"No bs, and has all the info I need to gain free access to media."*
 
 * *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
 
