@@ -24,7 +24,7 @@
 * [Tencent AI Studio](https://aistudio.tencent.com/) - ⁠Hy3 / Unlimited / Sign-Up
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.6-Pro / MiMo-V2.6 flash / Sign-Up 
 * [Grok](https://grok.com/) - Grok 4.5 / Agent / Traffic-Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
-* [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.1 (Think Deeper) / Sign-Up / Unlimited
+* [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.2 (Think Deeper) / Sign-Up / [Limits](https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas)
 * [Claude](https://claude.ai/) - Claude Sonnet 5 / Requires Sign-Up + Sometimes Phone # / [Add Features](https://github.com/Nagi-ovo/voyager) / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [⁠Chat Motif](https://chat.motiftech.io/chat) - Motif 3 / Unlimited
 * [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 / Agent / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
