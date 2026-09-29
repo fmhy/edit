@@ -22,7 +22,9 @@
 * [Paint.net](https://paint.net/index.html) / Windows / [GitHub](https://github.com/paintdotnet)
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
 * [Scribus](https://www.scribus.net/) or [Quarkdown](https://quarkdown.com/) / [GitHub](https://github.com/iamgio/quarkdown) - Page Layout & Typesetting Programs / Windows, macOS, Linux
-  
+* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) / macOS
+* [SeaShore](https://sourceforge.net/projects/seashore/) / macOS
+
 ***
 
 ## ▷ Online Editors

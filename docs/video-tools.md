@@ -20,11 +20,10 @@
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder / Windows, macOS, Linux, Docker
 * [MkvDefaultTrackChanger](https://mkvdefaulttrackchanger.pages.dev/) - Change Default MKV Subtitle / Audio Tracks / Windows, macOS, Linux / [GitHub](https://github.com/MikeMoolenaar/MkvDefaultTrackChanger)
 * [untrunc](https://github.com/anthwlock/untrunc) or [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files / Docker
-* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
 
 ***
 
-## ▷ Disc Utilities
+## ▷ Physical Media Tools
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html) - CD / DVD Burning / Windows
 * [DVDStyler](https://sourceforge.net/projects/dvdstyler/)- CD / DVD Burning / Windows, macOS, Linux
@@ -35,6 +34,7 @@
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping / Windows
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) / Web
 * [Redump](https://redump.info/) - Disc Preservation Info Project / Web
+* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
 
 ***
 
@@ -48,7 +48,7 @@
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up / Use Adblock
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / Allows Hotlinking
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
+* ⭐ **[Gofile](https://gofile.io/)** - 1TB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 15 Days After Last View (w/ Account)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Requires Sign-Up
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Requires Sign-Up

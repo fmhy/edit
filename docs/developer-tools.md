@@ -1013,7 +1013,7 @@
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
 * [InstantDomain](https://instantdomainsearch.com/), [DomainTyper](https://domaintyper.com/), [⁠Micro Domains](https://micro.domains/), [IWantMyName](https://iwantmyname.com/), [Whois](https://www.whois.com/), [Domainr](https://domainr.com) or [Atlaq](https://atlaq.com) - Domains
-* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App
+* [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App / [GitHub](https://github.com/funilrys/PyFunceble)
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://www.dnstwister.com/) - Typosquatting Checkers
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
@@ -1024,24 +1024,24 @@
 * [⁠Instances (Vantage)](https://instances.vantage.sh/) - Compare AWS, Azure, and GCP Instances / [GitHub](https://github.com/vantage-sh/ec2instances.info) 
 * [⁠Val Town](https://www.val.town/) - Serverless Scripting and Sharing
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Sandstorm](https://sandstorm.org/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
-* [overscript](https://overscript.net/) - Imageboard Hosting
+* [Sandstorm](https://sandstorm.org/) / [GitHub](https://github.com/sandstorm-io/sandstorm), [Cosmos](https://cosmos-cloud.io/) / [GitHub](https://github.com/azukaar/cosmos-server) or [Cloudron](https://www.cloudron.io/) - Web App Hosts
+* [overscript](https://overscript.net/) - Imageboard Hosting / [GitHub](https://github.com/tanami/overscript)
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
-* [MyBB](https://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [HumHub](https://www.humhub.com), [HubZilla](https://hubzilla.org/page/info/discover) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [MyBB](https://www.mybb.com/) / [GitHub](https://github.com/mybb), [FreeFlarum](https://freeflarum.com/) or [phpBB](https://www.phpbb.com/) / [GitHub](https://github.com/phpbb) - Forum Hosting
+* [HumHub](https://www.humhub.com) / [GitHub](https://github.com/humhub), [Hubzilla](https://hubzilla.org/page/info/home) / [GitLab](https://framagit.org/hubzilla/core) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D](https://github.com/HDInnovations/UNIT3D) - Private Tracker Hosting
-* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
+* [OpenPanel](https://openpanel.com/) / [GitHub](https://github.com/stefanpejcic/openpanel) or [Moonlight](https://moonlightpanel.xyz/) / [GitHub](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [24x7](https://www.site24x7.com/tools.html) - Various Hosting Tools
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Checkmate](https://github.com/bluewave-labs/Checkmate), [⁠Gatus](https://gatus.io/) / [GitHub](https://github.com/TwiN/gatus) or [UptimeRobot](https://uptimerobot.com/) - Uptime Monitors
-* [Kener](https://kener.ing/) or [cstate](https://github.com/cstate/cstate) - Self-Hosted Status Pages
-* [redirect.name](https://redirect.name/) - URL Forwarding
+* [Uptime Kuma](https://uptime.kuma.pet/) / [GitHub](https://github.com/louislam/uptime-kuma), [Checkmate](https://checkmate.so/) / [GitHub](https://github.com/bluewave-labs/Checkmate), [⁠Gatus](https://gatus.io/) / [GitHub](https://github.com/TwiN/gatus) or [UptimeRobot](https://uptimerobot.com/) - Uptime Monitors
+* [Kener](https://kener.ing/) / [GitHub](https://github.com/rajnandan1/kener) or [cState](https://cstate.uncascade.com/) / [GitHub](https://github.com/cstate/cstate) - Self-Hosted Status Pages
+* [redirect.name](https://redirect.name/) - URL Forwarding / [GitHub](https://github.com/frolic/redirect.name)
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 * [AtSameIP](https://intercode.info/webtools/atsameip/) - Find Websites on the Same IP
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [CloudFlare DDNS Updater](https://github.com/K0p1-Git/cloudflare-ddns-updater/) - Cloudflare Dynamic DNS Auto-Update Script
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) / [GitHub](https://github.com/lewdev/meta-tag-gen), [OpenGraph](https://www.opengraph.xyz/) or [MetaTags](https://metatags.io/) - Meta Tag Generators
 
 ***
 

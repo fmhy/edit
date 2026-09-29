@@ -446,8 +446,8 @@
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
 * [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, macOS, Linux
-* [Outlook](https://outlook.live.com/owa/) / Windows, macOS, Linux, iOS, Web
-* [eM Client](https://www.emclient.com/) / Windows, macOS, Linux, Android, iOS
+* [Outlook](https://outlook.live.com/owa/) / Windows, macOS, Android, iOS, Web
+* [eM Client](https://www.emclient.com/) / Windows, macOS, Android, iOS
 * [Spike](https://www.spikenow.com/) / Windows, macOS, Android, iOS, Web
 * [Canary](https://canarymail.io/) / Windows, macOS, Android, iOS
 * [Twobird](https://www.twobird.com/) / Windows, macOS, Android, iOS
@@ -620,7 +620,7 @@
 
 # ► Browser Tools
 
-* 🌐 **[Browser Comparisons](https://privacytests.org/)**, **[⁠BrowserPedia](https://browserpedia.com/)**or **[Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm)** - Browser Comparisons / Databases
+* 🌐 **[Browser Comparisons](https://privacytests.org/)**, **[⁠BrowserPedia](https://browserpedia.com/)** or **[Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm)** - Browser Comparisons / Databases
 * 🌐 **[Desktop Browser List](https://nerdyslacker.github.io/desktop-web-browsers/)** - Desktop Browser Index / [GitHub](https://github.com/nerdyslacker/desktop-web-browsers)
 * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**

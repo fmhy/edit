@@ -185,7 +185,7 @@
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor / Windows, macOS, Linux / [GitHub](https://github.com/evpo/EncryptPad)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor / Windows / [GitHub](https://github.com/0x7c13/Notepads)
 * [FastNotes](https://fastedit.frozenassassine.de/) - Text Editor / Windows / [GitHub](https://github.com/FrozenAssassine/Fastedit)
-* [Kompad](https://github.com/hudy9x/kompad) - Text Editor / Web Based
+* [Kompad](https://github.com/hudy9x/kompad) - Text Editor / Web
 * [Sublime Text](https://www.sublimetext.com/) - Text Editor / Windows, macOS, Linux / [Package Manager](https://packagecontrol.io/)
 * [Zim Wiki](https://zim-wiki.org/) - Wiki Text Editor / Windows, macOS, Linux / [GitHub](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) - TomBoy-Based Text Editor / Windows, macOS, Linux
@@ -264,6 +264,7 @@
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local  / [GitHub](https://github.com/Browserpad/browserpad)
 * [⁠Chaxus](https://edit.chaxus.com/) - Local Saves / [GitHub](https://github.com/ranuts/document)
+* [EdenText](https://edentext.app/) - Local Saves / [GitHub](https://github.com/stffnb/edentext)
 * [Online Notepad](https://onlinenotep.ad) - Local Saves
 * [Notepad](https://notepad.js.org/) - Local Saves / [GitHub](https://github.com/amitmerchant1990/notepad)
 * [onlinenotepad](https://onlinenotepad.org/) - Local Saves
