@@ -1797,6 +1797,7 @@ unofficial Ho Chi Minh City University of Technology course index
 * [COMI](https://comi.mobi/) - Manga / Manhwa / Manhua / Novel
 * [Sonako](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) - Light Novels / [Facebook](https://www.facebook.com/SonakoWiki/)
 * [TruyenFull](https://truyenfull.live/) - Manga / Light Novels
+* [VNovel](https://vnovel.online/) - Light Novels / Manga / No Ads / No Sign-Up
 * [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Babla](https://vn.bab.la/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
 
