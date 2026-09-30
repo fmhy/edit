@@ -341,6 +341,7 @@
 * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [audiobooks_English](https://t.me/audiobooks_English) - Telegram
 * [Audible (selected)](https://t.me/+GV_tJ_U7em04YjU9) - Telegram
+* [⁠Dynasty](https://t.me/dynastyapprovals) - Telegram
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
