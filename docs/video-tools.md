@@ -26,7 +26,7 @@
 ## ▷ Physical Media Tools
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html) - CD / DVD Burning / Windows
-* [DVDStyler](https://sourceforge.net/projects/dvdstyler/)- CD / DVD Burning / Windows, macOS, Linux
+* [DVDStyler](https://sourceforge.net/projects/dvdstyler/) - CD / DVD Burning / Windows, macOS, Linux
 * [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping / Windows
 * [MakeMKV](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053), [2](https://cable.ayra.ch/makemkv/) - Create MKV from Blu-ray / DVD / Windows
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer / Windows, Linux

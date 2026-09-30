@@ -27,6 +27,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [MyPublicWiFi](https://www.mypublicwifi.com/) - Turn PC into Wi-Fi Hotspot
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
+* [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
@@ -256,7 +257,6 @@
 * [Google](https://google.com/) / [AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50)
 * [Lycos](https://www.lycos.com/)
 * [WebCrawler](https://www.webcrawler.com/)
-* [Million Short](https://millionshort.com/)
 * [Andi](https://andisearch.com/)
 * [Yandex](https://yandex.com/)
 * [Vuhuv](https://vuhuv.com/)

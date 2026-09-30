@@ -130,6 +130,7 @@
 * [TehParadox](https://www.tehparadox.net/) - Audio / Books / Magazines / ROMs
 * [downTURK](https://www.downturk.net/) - Audio / Books
 * [SoftArchive](https://softarchive.download/), [2](https://softarchive.is/), [3](https://sanet.lc/), [4](https://sanet.st/), [5](https://sanet.sb/), [6](https://soft.ac/), [7](https://sanet.ws/) - Audio / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md)
+* [⁠ReleaseHive](https://releasehive.com/) - Video / Audio / Books / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
 
 ***
 

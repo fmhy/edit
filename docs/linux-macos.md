@@ -89,7 +89,7 @@
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)**, [GearLever](https://github.com/mijorus/gearlever) or [⁠AppManager](https://github.com/kem-a/AppManager) - Integrate AppImages to App Launchers
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
-* ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [vicinae](https://www.vicinae.com/) / [GitHub](https://github.com/vicinaehq/vicinae), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers / Keystroke Launchers
+* ⭐ **[vicinae](https://www.vicinae.com/)** / [GitHub](https://github.com/vicinaehq/vicinae), **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers / Keystroke Launchers
 * ⭐ **[FreeRDP](https://www.freerdp.com/)** / [GitHub](https://github.com/FreeRDP/FreeRDP), [⁠Remmina](https://remmina.org/) or [⁠Apache Guacamole](https://guacamole.apache.org/) - Remote Desktop Clients 
 * ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
 * [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux / [Discord](https://discord.com/invite/XRD3mQA) / [GitHub](https://github.com/darlinghq/darling)
@@ -431,7 +431,7 @@
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
-* [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/), [SeaFile](https://www.seafile.com/en/home/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
+* [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/), [Cloudreve](https://cloudreve.org/) / [GitHub](https://github.com/cloudreve/Cloudreve/), [SeaFile](https://www.seafile.com/en/home/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
 * [⁠SilverBullet](https://silverbullet.md/) - Self-Hosted Markdown Note-Taking
@@ -815,7 +815,7 @@
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
 * [⁠EasyDMG](https://github.com/jeff-schumann/EasyDMG) - Automated DMG Installation Tool
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
-* [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
+* [Mos](https://mos.caldis.me/) / [GitHub](https://github.com/Caldis/Mos/blob/master/README.enUS.md), [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping / Smooth Scrolling
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [MiddleClick](https://github.com/artginzburg/MiddleClick) - Middle / Scroll Click via 3 Finger Tap
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
