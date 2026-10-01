@@ -1207,7 +1207,7 @@
 ## ▷ Chinese
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
-* 🌐 **[⁠Heavenly Path](https://heavenlypath.notion.site/)** / [Discord](https://discord.gg/chinesejourney), [Cantonese Sheik](https://www.cantonese.sheik.co.uk/), [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
+* 🌐 **[⁠Heavenly Path](https://heavenlypath.notion.site/)** / [Discord](https://discord.gg/chinesejourney), [Cantonese Sheik](https://www.cantonese.sheik.co.uk/), [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning Apps
@@ -1454,7 +1454,7 @@
 * ⭐ **[Odin Project](https://www.theodinproject.com/)**, [2](https://www.freecodecamp.org/learn/the-odin-project/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course / [Discord](https://study.cs.helsinki.fi/discord/join/fullstack)
 * ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://sadgrl.online/guides/) - Site Development Guides
-* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)**, [CSS Tip](https://css-tip.com/) or [⁠HTML Hobbyist](https://www.htmlhobbyist.com/)- HTML/CSS Learning Sites
+* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)**, [CSS Tip](https://css-tip.com/) or [⁠HTML Hobbyist](https://www.htmlhobbyist.com/) - HTML/CSS Learning Sites
 * ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, [Learn PHP](https://odan.github.io/learn-php/) or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript Learning Sites
 * [⁠Cloud Cost Handbook](https://handbook.vantage.sh/) - Public Cloud Hosting Cost Guide / [GitHub](https://github.com/vantage-sh/handbook.vantage.sh)
@@ -1921,4 +1921,4 @@
 * [⁠Cite Unseen](https://meta.wikimedia.org/wiki/Cite_Unseen) - Adds Reliability Symbols to Sources / Account Required
 * [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool / [GitHub](https://github.com/codeledge/entitree)
 * [Wiki Timeline](https://wiki-timeline.com/) - Create Timelines from Wiki Articles
-* [The ⁠Museum of All Things](https://may.as/moat/) / [GitHub](https://github.com/m4ym4y/museum-of-all-things) or [⁠The Endless Museum](https://theendlessmuseum.com/)- 3D Virtual Wikipedia Museums
+* [The ⁠Museum of All Things](https://may.as/moat/) / [GitHub](https://github.com/m4ym4y/museum-of-all-things) or [⁠The Endless Museum](https://theendlessmuseum.com/) - 3D Virtual Wikipedia Museums
