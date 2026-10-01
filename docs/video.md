@@ -86,7 +86,7 @@
 * [StreamVaults](https://streamvaults.ru/) or [ReelStream](https://rreelstream.live/) - Movies / TV / Anime / [Telegram](https://t.me/streamvaultscrew)
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 * [Vegeta TV](http://vegetatv.duckdns.org/) - Movies / TV / Anime
-
+* 
 ***
 
 ## ▷ P-Stream Forks
@@ -257,7 +257,8 @@
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / Requires UK VPN (windscribe) / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [FlixHouse](https://flixhouse.com/) - Indie Movies
 * [Cineverse](https://streaming.cineverse.com/) - Persian Movies / TV w/ English Subs
-
+* [Voobin AI Movies](https://www.voobin.com/) - AI Movies / TV / Anime / Invest
+  
 ***
 
 ## ▷ Video Streaming
