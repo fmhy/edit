@@ -77,6 +77,7 @@
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [overmind](https://github.com/DarthSim/overmind) - Process Managers
 * [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
+* [Forgex](https://forgex.r-kinetics.com/) - Vibe coding platform for backend orchestration layer
 
 ***
 
