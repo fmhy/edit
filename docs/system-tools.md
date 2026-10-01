@@ -133,7 +133,6 @@
 * [Moonlight](https://moonlight-stream.org/) or [Artemis](https://github.com/ClassicOldSong/moonlight-android) (android) - Gaming Remote Desktop Client / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
 * [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
-* [CoScreen](https://www.coscreen.co/) / Windows, macOS
 * [p2p.kiwi](https://p2p.kiwi/) / Windows, macOS, Linux / [GitHub](https://github.com/dont-be-evil-company/p2p.kiwi)
 * [⁠DWS](https://www.dwservice.net/) / Windows, macOS, Linux
 * [Remote Desktop Connection](https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c) - Built Into Windows / Windows / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rdc.md)
