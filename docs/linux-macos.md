@@ -570,6 +570,7 @@
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositor
 * [⁠wayscriber](https://wayscriber.com/) - Wayland Screen Annotation / [GitHub](https://github.com/devmobasa/wayscriber)
 * [picom](https://github.com/yshui/picom) - Compositor for Standalone X11 Window Managers / [Docs](https://picom.app/) / [GitHub](https://github.com/yshui/picom)
+* [⁠Noctalia](https://github.com/noctalia-dev/noctalia-shell) - Customizable Wayland Desktop Shell
 * [Polybar (X11)](https://polybar.github.io/) / [Themes](https://github.com/adi1090x/polybar-themes) / [GitHub](https://github.com/polybar/polybar), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 
 ***

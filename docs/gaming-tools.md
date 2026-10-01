@@ -117,7 +117,7 @@
 
 ***
 
-## ▷ Controller Tools
+## ▷ Controller / Input Tools
 
 * **Note** - Many third party PC controllers can be switched between Xinput and DirectInput mode by holding home/menu/analog/mode button. It can fix compatibility issues in some cases.
 
