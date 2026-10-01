@@ -84,7 +84,7 @@
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [⁠Lumo](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
-* [⁠Collaigo](https://www.collaigo.com/)- Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
+* [⁠Collaigo](https://www.collaigo.com/) - Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
 * [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator / Windows, macOS, Linux
