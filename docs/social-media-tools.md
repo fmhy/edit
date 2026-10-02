@@ -762,7 +762,7 @@
 # ► 4chan Tools
 
 * [⁠4chan-neXT](https://4chan-next.com/) - 4chan Features Userscript 
-* [Chan](https://github.com/moffatman/chan) - 4chan Mobile Apps
+* [Chance](https://github.com/moffatman/chan) - 4chan Mobile Apps
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats

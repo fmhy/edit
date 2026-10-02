@@ -41,6 +41,7 @@
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [kirmalk](https://kirmalk.com/kr19) - Movies / TV
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV
+* [⁠ahwak tv](https://yam.ahwaktv.net/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
 * [witanime](https://www.witanime.net/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.me/) - Anime
@@ -1091,7 +1092,7 @@
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
 * [Docer PL](https://docer.pl/) - Books / [Downloader](https://github.com/seszele64/docer-downloader) / [Firefox Extension](https://addons.mozilla.org/firefox/addon/docer-downloader/)
-* [podreczniki](https://podreczniki.cfd/), [2](https://podreczniki.lol/) - Textbooks 
+* [podreczniki](https://podreczniki.cfd/), [2](https://podreczniki.lol/) - Textbooks / [Telegram](https://t.me/podrecznikowo)
 * [Shinden](https://shinden.pl/) - Manga / [Discord](https://discord.gg/xyH5uS6)
 
 ***
