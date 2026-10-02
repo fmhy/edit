@@ -317,7 +317,6 @@
 
 * ⭐ **[Google Docs](https://www.google.com/docs/about/)** / [HTML Converter](https://github.com/evbacher/gd2md-html) / [Templates](https://gdoc.io/)
 * ⭐ **[CryptPad](https://cryptpad.fr/)** / [Instances](https://cryptpad.org/instances/)
-* [Mattermost](https://mattermost.com/)
 * [Codeshare](https://codeshare.io/)
 * [HackMD](https://hackmd.io/)
 * [Taskade](https://www.taskade.com/)
