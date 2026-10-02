@@ -146,6 +146,22 @@ html[data-theme='monochrome'] {
   }
 }
 
+.vp-doc .fmhy-page-header {
+  h1 {
+    color: var(--vp-c-brand-1);
+    text-decoration-line: underline;
+  }
+
+  p {
+    margin: 0.5rem 0 0;
+    color: #000;
+  }
+}
+
+.dark .vp-doc .fmhy-page-header p {
+  color: var(--vp-c-text-2);
+}
+
 .vp-doc a {
   color: var(--vp-c-brand-1);
   text-decoration: underline;
