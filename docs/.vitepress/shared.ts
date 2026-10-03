@@ -114,38 +114,35 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
+  { text: '📚 Beginners Guide', link: '/beginners-guide' },
   { text: '📑 Changelog', link: '/posts/changelog-sites' },
-  { text: '📖 Glossary', link: 'https://fluffle.cc/piracyglossary' },
   {
-    text: '💾 Backups',
-    link: '/other/backups'
-  },
-  {
-    text: '🌱 Ecosystem',
+    text: '🛠️ Tools',
     items: [
-      { text: '🌐 Search', link: '/posts/search' },
-      { text: '❓ FAQs', link: '/other/FAQ' },
+      { text: '🚀 Startpage', link: '/startpage' },
+      { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
+      { text: '🛡️ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       {
         text: '🔖 Bookmarks',
         link: 'https://github.com/mian196/fmhy-bookmarks-extension'
       },
-      { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
-      { text: '🚀 Startpage', link: '/startpage' },
-      { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
+      { text: '🖥️ Selfhosting', link: '/other/selfhosting' }
+    ]
+  },
+  {
+    text: '➕ More',
+    items: [
+      { text: '❓ FAQs', link: '/other/FAQ' },
+      { text: '🤝 Contributing', link: '/other/contributing' },
+      { text: '💬 Feedback', link: '/feedback' },
+      { text: '💾 Backups', link: '/other/backups' },
+      { text: '📖 Piracy Glossary', link: 'https://fluffle.cc/piracyglossary' },
+      { text: '🕊️ SFW FMHY', link: 'https://fmhy.xyz/' },
+      { text: '🎨 Wallpapers', link: '/other/wallpapers' },
       {
         text: '💡 Site Hunting',
         link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
-      },
-      {
-        text: '😇 SFW FMHY',
-        link: 'https://fmhy.xyz/'
-      },
-      {
-        text: '🏠 Selfhosting',
-        link: '/other/selfhosting'
-      },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-      { text: '💙 Feedback', link: '/feedback' }
+      }
     ]
   }
 ]

@@ -53,8 +53,6 @@ docs/.vitepress/theme/themes/
 - `ColorPicker.vue`:
   - Renders selectable theme swatches (generated color themes and preset themes).
   - Calls `setTheme(themeName)` on click, updating the active theme in the central registry.
-- `ThemeSelector.vue`:
-  - Displays the currently active theme's display name in the sidebar options card.
 
 ## Theme Registry (`configs/index.ts`)
 
