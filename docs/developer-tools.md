@@ -811,6 +811,7 @@
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
 * [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
+* [OpenPWA](https://openpwa.net/) - PWA Compatibility Tables / Reference
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
