@@ -383,6 +383,7 @@
 * [SCrawler](https://github.com/AAndyProgram/SCrawler) - Multi-Site / Windows, macOS, Linux / [Discord](https://discord.gg/uFNUXvFFmg)
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
+* [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / Online
 * [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
 * [yoink.tools](https://yoink.tools/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
@@ -393,7 +394,7 @@
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
 * [Piner](https://piner.io/) - Pinterest / Online
 * [⁠ReelSave](https://reelsave.app/) - Instagram
-* [iTeraPlay](https://iteraplay.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox
+* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 * [DRM Bypass Toolkit](https://rentry.co/FMHYB64#dbt) - DRM Bypass Guide

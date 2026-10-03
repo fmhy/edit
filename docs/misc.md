@@ -59,7 +59,6 @@
 * [LibHunt](https://www.libhunt.com/) - Project Index
 * [bestofjs](https://bestofjs.org/) - Project Index
 * [git.news](https://git.news/) - Project Index
-* [GitPlanet](https://gitplanet.com/) - Project Index
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
 
 ***
@@ -668,7 +667,7 @@
 * [Spike News](https://readspike.com/), [2](https://spike.news/)
 * [Upstract](https://upstract.com/) - Single Page News Aggregator
 * [newstel](https://newstel.vercel.app/) - Telegram Channel News Aggregator
-* [AllSides](https://www.allsides.com/) or [⁠100.news](https://100.news/) - Political News Aggregators
+* [AllSides](https://www.allsides.com/) - Political News Aggregators
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Requires Sign-Up
 * [World Monitor](https://worldmonitor.app/) / [Tech Version](https://tech.worldmonitor.app/) / [GitHub](https://github.com/koala73/worldmonitor, [OSIRIS](https://osirisai.live/), [⁠Conflictly](https://www.conflictly.app/) or [⁠World-Monitor](https://world-monitor.com/) - Real-Time News Aggregators / Monitors / Maps
@@ -861,7 +860,7 @@
 * 🌐 **[Trans Healthcare Resources](https://transharmreduction.org/healthcare-resources)** or **[TFS Tools](https://transfemscience.org/misc/)**
 * ⭐ **[Trans Papers](https://docs.google.com/spreadsheets/d/1d9KKqP9IHa5ZxU84a_Jf0vIoAh7e8nj_lCW27KbYBh0/)** - Academic Papers on Transgender Health & Sociology
 * ⭐ **[Gender Dysphoria Bible](https://genderdysphoria.fyi/)** - Gender Dysphoria Learning / Guidance / [GitHub](https://github.com/GenderDysphoria/GenderDysphoria.fyi)
-* [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy), [Valerie](https://valerie.vg/transfem-hrt-guide/) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
+* [Trans Harm Reduction](https://transharmreduction.org/), [PGHRT](https://pghrt.diy) or [DIY HRT Directory 2.0](https://diyhrt.info/) - HRT Safety Guides / [Testing](https://transharmreduction.org/hrt-testing)
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) or [⁠Trans Clinic Index](https://transclinicindex.org.uk/) (UK) - Gender Identity Clinics / Map
 * [FTM Resource Guide](https://www.ftmguide.org/) - FTM Resources / Guidance
 * [⁠Trans Voice Party](https://transvoice.party/) - Trans Voice Therapy Resources / [Discord](https://discord.gg/8weEXE7RzU)
@@ -1539,7 +1538,6 @@
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) - Panoramic Photography
 * [⁠The Hong Kong Phantasm](https://www.hkphantasm.com/) - Hong Kong Slide Photography Archive
-* [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [TheOfficeStareMachine](http://theofficestaremachine.com/) - The Office Video Emotion Search
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps
@@ -1568,7 +1566,6 @@
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [⁠3place](https://3place.world/) - Infinite Online 3D Pixel Art Globe
-* [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [Monsterland](https://monsterland.net/) - Collaborative Monster Drawing
@@ -1643,7 +1640,7 @@
 * [Nicky Case](https://ncase.me/) - Interactive Social Simulations / Puzzles
 * [Cafe and Diner](https://www.cafeanddiner.com/) - Browser Mystery Game
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
-* [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game / [Discord](https://discord.gg/CfS6yTtjZj)
+* [New Campaign Trail](https://www.newcampaigntrail.com/) - Presidential Campaign Game
 * [2020 Game](https://2020game.io/) - Play Through 2020
 * [Terminal 00](https://angusnicneven.com/), [corru.observer](https://corru.observer/), [lomando](https://lomando.com/main.html) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites / Horror Games
 * [Windows93](https://www.windows93.net/) - Windows 93 Emulator
@@ -1842,7 +1839,7 @@
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
-* [OpenChaos.dev](https://www.openchaos.dev/) - Evolving Open-Source Project Governed by Community Votes / [GitHub](https://github.com/skridlevsky/openchaos)
+* [OpenChaos.dev](https://www.openchaos.dev/) - Evolving Open-Source Project Governed by Community Votes
 * [Grant Kot](https://grantkot.com/) - Toys / Games
 * [R74n](https://r74n.com/) - Toys / Games
 * [Oimo](https://oimo.io/works) - Toys / Games
@@ -1888,7 +1885,7 @@
 * [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
 * [⁠Roastdit](https://roastdit.kadoa.com/) - Reddit Profile Roasting AI 
 * [ShindanMaker](https://en.shindanmaker.com/) - Diagnoses / Fortune AI
-* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/), [LMSPTFY](https://lmsptfy.com/) or [GIYBF](https://giybf.com/) - Remind People that Search Engines Exist
+* [LMGTFY](https://lmgtfy2.com/), [LMDDGTFY](https://lmddgtfy.net/) or [LMSPTFY](https://lmsptfy.com/) - Remind People that Search Engines Exist
 * [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
 * [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
 * [Purrli](https://purrli.com/) - Cat Purr Generator

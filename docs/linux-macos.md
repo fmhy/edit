@@ -22,7 +22,6 @@
 * [⁠Fedora Noble Guide](https://github.com/wz790/Fedora-Noble-Setup) - Fedora Setup Guide
 * [Zero to Nix](https://zero-to-nix.com/) - Nix Learning Guide
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
-* [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 * [⁠Wikiman](https://github.com/filiparag/wikiman) - Offline Linux Documentation Search
 
 ***
@@ -849,7 +848,7 @@
 * [Pictogram](https://pictogramapp.com/), [macOSicons](https://macosicons.com/) / [Discord](https://discord.gg/f4mTRyyTkT) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
 * [Tintd](https://www.tintd.app/) - Change Folder Colors
 * [MacPaper](https://github.com/naomisphere/macpaper/) - Mac Wallpaper Manager
-* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
+* [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App / [Gallery](https://dynamicwallpaper.club/gallery)
 * [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps

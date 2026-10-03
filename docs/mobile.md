@@ -183,7 +183,7 @@
 * [Dumpus](https://github.com/dumpus-app/dumpus-app) - View Discord Data / Self-Host for Privacy / [Discord](https://androz2091.fr/discord)
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
-* [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4chan Apps
+* [Kuroba](https://github.com/Adamantcheese/Kuroba) or [Chance](https://github.com/moffatman/chan) - 4chan Apps
 * [TikTokModCloud](https://t.me/TikTokModCloud), [2](https://t.me/modsfortt) - Modded TikTok Client
 * [Telegram-Themer](https://github.com/therxmv/Telegram-Themer) or [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet) / [Telegram](https://t.me/tgmonet) - Telegram Theme Creators
 * [InstaEclipse](https://github.com/ReSo7200/InstaEclipse/) - Modded Instagram Client
@@ -840,7 +840,7 @@
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta) / [F-Droid](https://f-droid.org/packages/org.wikipedia/)
 * [WikWok](https://github.com/terrakok/Wikwok) - Random Wiki Article Viewer
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) or [Bubble2](https://github.com/edeso/bubble2) - Comic Readers
-* [LNReader](https://github.com/LNReader/lnreader) / [Discord](https://discord.com/invite/QdcWN4MD63), [QuickNovel](https://github.com/LagradOst/QuickNovel), [Ranobe](https://github.com/ranobe-org/ranobe), [⁠Zangetsu](https://zangetsu.online/) / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu) or [IReader](https://ireaderorg.netlify.app/) - Light Novels
+* [LNReader](https://github.com/LNReader/lnreader) / [Discord](https://discord.com/invite/QdcWN4MD63), [QuickNovel](https://github.com/LagradOst/QuickNovel), [Ranobe](https://github.com/ranobe-org/ranobe), [⁠Zangetsu](https://zangetsu.online/) / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu), [⁠Bunori](https://github.com/bunoriapp/bunori) / [Discord](https://discord.gg/WzpTJuS4JT) or [IReader](https://ireaderorg.netlify.app/) - Light Novels
 * [SoftGoods](https://softgoods.app/) - Fanfiction
 * [Bionic Reading](https://play.google.com/store/apps/details?id=com.bionic_reading_app) - Reading Fixation Points
 
@@ -862,7 +862,7 @@
 # ► Android Audio
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
-* ⭐ **[⁠Seal+](https://github.com/MaheshTechnicals/Sealplus)** or [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
+* ⭐ **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus) or [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
 * ⭐ **[YTDLnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * ⭐ **[SpotiFLAC-Mobile](https://spotiflac.zarz.moe/)** - Multi-Site Audio Downloader / Playlists / Converts from Spotify / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) / [GitHub](https://github.com/spotiflacapp/SpotiFLAC-Mobile)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
@@ -884,6 +884,7 @@
 * [Echo](https://echomusicdocs.vercel.app/) - Multi-Platform Streaming / [Discord](https://discord.com/invite/J3WvbBUU8Z) / [GitHub](https://github.com/brahmkshatriya/echo)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Multi-Platform Streaming / [Discord](https://discord.gg/85jnfZGfV5) / [GitHub](https://github.com/TheVolecitor/BeatBoss)
 * [⁠Eclipse](https://eclipsemusic.app/) - Multi-Platform Streaming / [Discord](https://discord.gg/sNG37F27eY)
+* [⁠Shimu](https://help.shiopa.com/docs/shimu#get-shimu) - Streaming
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android) - Streaming
 * [Soundbound App](https://soundbound.app/) - Streaming / Download / [Telegram](https://t.me/soundboundofficial)
 * [Saturn](https://github.com/Sheathed/Saturn) or [Refreezer](https://github.com/DJDoubleD/refreezer) - Deezer / FLAC / Requires Premium (Firehawk52)
@@ -1343,7 +1344,7 @@
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [Discord](https://discord.com/invite/5G8hpgHkXB) / [GitHub](https://github.com/chatsen/chatsen)
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights
-* [Chan](https://github.com/moffatman/chan) - 4chan App
+* [Chance](https://github.com/moffatman/chan) - 4chan App
 * [Monal](https://monal-im.org) - XMPP App / [GitHub](https://github.com/monal-im/Monal)
 * [Watusi](https://watusi.fouadraheb.com/) - WhatsApp Patchers / [GitHub](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
@@ -1362,6 +1363,7 @@
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
 * [Demus](https://demus.app/) - Streaming
+* [⁠Shimu](https://help.shiopa.com/docs/shimu#get-shimu) - Streaming
 * [Soundcloud](https://soundcloud.com/download) - Streaming / [Tweak](https://github.com/Rov3r/scmusicplus)
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music / Ad-Free / FLAC
 * [⁠Lyra](https://lyramusic.app/) - YouTube Music / [Discord](https://discord.gg/64fVZ2QdZ9)
@@ -1442,7 +1444,8 @@
 ## ▷ iOS YouTube Apps
 
 * ⭐ **[Yattee](https://github.com/yattee/yattee)** - YouTube Player
-* [⁠YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA) - YouTube IPA Builder 
+* [⁠YouProEXTRA](https://github.com/mrdrvt99/YouProEXTRA) - YouTube IPA Builder
+* [⁠YTKACE](https://github.com/itzzace/ytkace) - Modded YouTube App
 * [⁠uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - Modded YouTube App
 * [MaxTube](https://github.com/Mark02-2012/MaxTube) - Modded YouTube App
 * [⁠ProTube](https://apps.apple.com/app/protube-block-ads-on-video/id6748081431) - YouTube App

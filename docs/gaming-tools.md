@@ -685,7 +685,7 @@
 * [Minemev](https://minemev.com/) or [MCBuild](https://mcbuild.org/) - Minecraft Farm / Build Schematics
 * [Block Palettes](https://www.blockpalettes.com/), [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) or [HueBlocks](https://1280px.github.io/hueblocks/) / [GitHub](https://github.com/1280px/hueblocks) - Block Color Palettes & Gradients
 * [Blockmatic](https://blockmatic.trafficlunar.net/) / [GitHub](https://github.com/trafficlunar/blockmatic), [MinecraftArt](https://minecraftart.org/), [MC Pixel Art Generator](https://minecraftpixelartgenerator.com/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Pixel Art Editors & Image Importers
-* [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) / [Discord](https://discord.com/invite/ccleaf) - Text Generators & Icons
+* [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) - Text Generators & Icons
 * [Note Block Studio](https://noteblock.studio/) / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS) - Audio Composer
 * [MiniMessageViewer](https://webui.advntr.dev/) / [Discord](https://discord.com/invite/MMfhJ8F) / [GitHub](https://github.com/KyoriPowered/adventure-webui) - MiniMessage web viewer
 * [SkyCrypt](https://sky.shiiyu.moe/) / [GitHub](https://github.com/SkyCryptWebsite/SkyCrypt-Frontend) or [Plancke](https://plancke.io/) - Hypixel Player Stats
@@ -870,7 +870,7 @@
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
-* [RuneForge](https://runeforge.dev/) - Custom LoL Skins / [Discord](https://discord.com/invite/runeforge)
+* [RuneForge](https://runeforge.dev/) - Custom LoL Skins
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
 

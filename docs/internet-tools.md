@@ -88,7 +88,7 @@
 ## ▷ Captcha Tools
 
 * ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver / [Improve Success Rate](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buster-note.md)
-* [NopeCHA](https://nopecha.com/) - Auto Captcha Solver / [Requires Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw)
+* [NopeCHA](https://nopecha.com/) - Auto Captcha Solver / [Requires Tokens](https://nopecha.com/manage)
 * [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) - hCaptcha Demo / Get Captcha Tokens
 * [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) or [reCAPTCHA test](https://patrickhlauke.github.io/recaptcha/) - reCAPTCHA Demos / Get Captcha Tokens
@@ -109,6 +109,7 @@
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) or [Bolt](https://williamhorning.dev/bolt/) / [Self-Host](https://williamhorning.dev/lightning/) - Cross-Platform Chatbot Frameworks
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, macOS, Linux, Web
+* [Valour](https://valour.gg/) - Communication Platform / Discord Alt / Windows, Linux, Android, Web / [GitHub](https://github.com/Valour-Software/Valour)
 * [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
 * [WeeChat](https://weechat.org/) - Chat App / macOS, Linux
 * [Spacebar](https://github.com/spacebarchat/spacebarchat) - Self-Hosted Chat Platform / Server Infrastructure
@@ -273,7 +274,7 @@
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
 * ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
-* ⭐ **[Rave Search](https://ravebooksearch.com/)**, [2](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8), [3](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [5](https://cse.google.com/cse?cx=e9657e69c76480cb8), [6](https://recherche-ebook.fr/en/) - Search Reading Sites
+* ⭐ **[Rave Search](https://ravebooksearch.com/)**, [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites

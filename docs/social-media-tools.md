@@ -140,8 +140,8 @@
 
 * 🌐 **[Discord Servers](https://discord.com/servers)** - Server Index
 * 🌐 **[Disdex](https://disdex.io/)** - Server Index / [Discord](https://discord.gg/C5M7ZGHDhH)
-* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives / [Discord](https://discord.gg/WrbMdWHfNd)
-* [GuildFinder](https://www.guildfinder.org/) - Server Index / [Discord](https://discord.com/invite/unfocused)
+* 🌐 **[Alternatives to MEE6](https://alternativestomee6.com/)** - MEE6 Alternatives
+* [GuildFinder](https://www.guildfinder.org/) - Server Index
 * [DISBOARD](https://disboard.org/) - Server Index
 * [Discords.com](https://discords.com/) - Server / Bot Index
 * [Discord Me](https://discord.me/) - Server / Bot Index
@@ -312,6 +312,7 @@
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
+* [YT Data Tools](https://ytdt.digitalmethods.net/) - ⁠YouTube Data Tools
 * [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
 * [⁠Thumbs Up](https://thumbsup.tv/) - Preview YouTube Thumbnails / Titles
@@ -356,6 +357,7 @@
 * ⭐ **[FreeTube](https://freetubeapp.io/)** - Local YouTube Frontend / [GitHub](https://github.com/FreeTubeApp/FreeTube)
 * ⭐ **[Invidious](https://invidious.io/)** or [Materialious](https://materialio.us/) - YouTube Frontend / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui) / [GitHub](https://github.com/iv-org/invidious/)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
+* [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Use YouTube Full Window Player / Bypass uBO Delay 
 * [YTCH](https://ytch.tv/), [Channel Surfer](https://channelsurfer.tv/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube / Custom Channels
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note-Taking Frontend
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
@@ -364,7 +366,6 @@
 * [⁠FocusTube](https://focustube.mathy.li/) - YouTube Frontend / [GitHub](https://github.com/helbetmathias/focustube)
 * [Piped](https://piped.private.coffee/) - YouTube Frontend / Requires Sign-Up / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
-* [YouT-ube](https://www.yout-ube.com/) - Use YouTube Full Window Player
 * [YouTube Cinema](https://greasyfork.org/en/scripts/585902) - Expand YouTube Player to Fill Viewport 
 * [YewTube](https://github.com/mps-youtube/yewtube) - Terminal YouTube Players
 * [VacuumTube](https://github.com/shy1132/VacuumTube) - TV Version of YouTube on PC
@@ -761,8 +762,8 @@
 
 # ► 4chan Tools
 
-* [⁠4chan-neXT](https://4chan-next.com/) - 4chan Features Userscript 
-* [Chance](https://github.com/moffatman/chan) - 4chan Mobile Apps
+* [⁠4chan-neXT](https://4chan-next.com/) - 4chan Features Userscript
+* [Chance](https://github.com/moffatman/chan) - 4chan Mobile App
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4chan Thread
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats

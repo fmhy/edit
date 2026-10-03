@@ -33,7 +33,7 @@
 * ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[⁠Octave](https://octavestreaming.com/)** - Browser Music / Lossless / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -386,7 +386,9 @@
 * [⁠Popify](https://popify.cc/) - Spotify / FLAC / AAC / OGG / MP3
 * [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / 320 AAC / 128 MP3 / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
+* [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [TIDAL DL](https://tidal-dl.pages.dev/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
+* [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / 320kb MP3
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
 * [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3
@@ -610,7 +612,7 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/music)**, [2](https://everythingmoe.org/section/music) - Otaku Music Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks
-* ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/), [2](https://discord.gg/hfjBQXpXJq) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
+* ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Forum](https://squid-board.org/) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/) / [Discord](https://discord.com/invite/x23SFbE)
 * [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) - Soundtracks
 * [RenovationRecords](https://renovatiorecords.blogspot.com/) - HQ Movies Soundtracks
 * [⁠Adtunes](https://adtunes.com/) - Commercial / Trailer Media Soundtrack Community
@@ -677,7 +679,7 @@
 * [⁠VocaDB](https://vocadb.net/), [⁠TouhouDB](https://touhoudb.com/), or [⁠UtaiteDB](https://utaitedb.net/) - Anime / Doujin Music Databases / [VocaDB Discord](https://discord.com/invite/3bwXQNXKCz) / [TouhouDB Discord](https://discord.com/invite/GscZYEE) / [UtaiteDB Discord](https://discord.com/invite/hEY9JDb)
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [⁠Six Degrees of Hip-Hop](https://www.sixdegreesofhiphop.com/) - Hip-Hop Connections Map
-* [Odesli](https://odesli.co/) - Song / Podcast Platform Search / [Telegram Bot](https://t.me/odesli_bot)
+* [Odesli](https://odesli.co/) / [Telegram Bot](https://t.me/odesli_bot) or [Squigly](https://squigly.link/) - Song / Podcast Platform Search
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists Between Services
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [Talpa Search](https://www.talpasearch.com/) - Find Albums by Describing Them
@@ -961,7 +963,7 @@
 * ↪️ **[Separate Voice / Instrumentals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_voice_removal_.2F_separation)**
 * ⭐ **[AudioSEX](https://audiosex.pro/)**, [KVR Audio](https://www.kvraudio.com/) or [VI-CONTROL](https://vi-control.net/community/) - Audio Production Forums / News
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials
-* [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)
+* [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game
 * [⁠OpenUtau](https://www.openutau.com/) - Vocal Synth / Singing Platform / [Guides](https://utauguides.carrd.co/) / [GitHub](https://github.com/stakira/OpenUtau)
 * [Tonocracy](https://tonocracy.com/), [NeuralAmpModeler](https://www.neuralampmodeler.com/), [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Guitar Tones, Effects & Virtual Amps
 * [Tone3000](https://tone3000.com/) - Guitar Tone Profiles

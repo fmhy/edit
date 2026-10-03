@@ -134,7 +134,7 @@
 * [AutoDraw](https://www.autodraw.com/) - AI Drawing Tool / Web
 * [⁠VibePaintAI](https://vibepaint-ai-795372324720.us-west1.run.app/) - AI Painting Tool / Web
 * [⁠Provector](https://start.provector.app/) - Vector Editor / Web / [GitHub](https://github.com/diaoliu/provector)
-* [Graphite](https://graphite.art) - Vector Editor / Web / [Subreddit](https://www.reddit.com/r/graphite/) / [Discord](https://discord.com/invite/uMjBz5N68W) / [GitHub](https://github.com/GraphiteEditor/Graphite)
+* [Graphite](https://graphite.art) - Vector Editor / Web / [Subreddit](https://www.reddit.com/r/graphite/) / [GitHub](https://github.com/GraphiteEditor/Graphite)
 * [⁠Vectorpea](https://www.vectorpea.com/) - Vector Editor / Web
 * [Tilda](https://tilda.cc/lp/vector/) - Vector Editor / Web
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
@@ -372,7 +372,7 @@
 
 * 🌐 **[designer](https://start.me/p/jj0JAp/designer)** - Image Download Site Indexes
 * ↪️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
-* ⭐ **[gallery-dl](https://codeberg.org/mikf/gallery-dl)** / [Discord](https://discord.gg/rSzQwRvGnE), [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
+* ⭐ **[gallery-dl](https://codeberg.org/mikf/gallery-dl)** / [Discord](https://discord.gg/rSzQwRvGnE), [⁠Rip Anything From Anywhere](https://anything.rip/), [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [same.energy](https://same.energy/) - Visual Search Engine
 * [Dezoomify](https://dezoomify.ophir.dev/) - Download Zoomable Images
 * [OpenMoji](https://openmoji.org/) or [JoyPixels](https://www.joypixels.com/) - Emojis
@@ -527,7 +527,6 @@
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Handz](https://www.handz.design/) - 3D Hand Models
-* [Generated Photos](https://generated.photos/) - AI Generated Model Photos
 * [Archive3D](https://free3d.io/) - Furniture / Accessories / Vehicle 3D Models
 * [poly.pizza](https://poly.pizza/) - Low Poly 3D Models
 * [RIGModels](https://rigmodels.com/) - Rig / Animate 3D Models
@@ -636,7 +635,7 @@
 * [Unwatermark](https://unwatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Ransomware-Encrypted Image Recovery Tool
-* [FaceFusion](https://github.com/facefusion/facefusion), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [Face Swapper](https://faceswapper.ai/), [FaceSwapVideo](https://faceswapvideo.io/) or [AIFaceSwap](https://aifaceswap.io/) - Face Swapping
+* [FaceFusion](https://github.com/facefusion/facefusion), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a) or [FaceSwapVideo](https://faceswapvideo.io/) - Face Swapping
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://docs.tagstud.io/) / [GitHub](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 

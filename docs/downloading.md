@@ -223,11 +223,12 @@
 
 * 🌐 **[Debrid Services Comparison](https://debridcompare.pages.dev/)** / [GitHub](https://github.com/fynks/debrid-services-comparison)
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
-* ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
+* ⭐ **[TorBox](https://torbox.app/)** - Paid / Requires Sign-Up / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba), [2](https://gitlab.com/forgiving/yatba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
 * [⁠NullBeat](https://nullbeat.thevolecitor.qzz.io/) - TorBox-Based Hi-Res Audio & CD FLAC Ripper
-* [⁠Debridr](https://debridr.com/) or [⁠Get4All](https://get4all.org/) (use ubo) - Bypass Premium Link Limits / Use UBO + [Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)
-* [iTeraPlay](https://iteraplay.com/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
+* [⁠Debridr](https://debridr.com/) or [⁠Get4All](https://get4all.org/) (use ubo) - Premium Link Bypass / Use UBO + [Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)
+* [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site Bypass
+* [iTeraPlay](https://iteraplay.com/), [Terabox Downloader](https://getindevice.com/terabox-downloader/), [⁠TeraBox Gen](https://terabox.hnn.workers.dev/), [TeraFetch](https://terafetch.com/) or [1024TeraDL](https://1024teradl.com/) - ⁠TeraBox Video Downloaders
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [Debrid Media Manager](https://debridmediamanager.com/), [⁠Debrid Vault](https://debridvault.elfhosted.com/) or [Debrid Vault + Eclipse](https://discord.gg/B3QKzPRjhM) - ⁠Debrid Managers / Cloud Managers
 * [Pixeldrain Limit Bypass](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)

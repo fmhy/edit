@@ -13,16 +13,19 @@
 * ⭐ **[Bookracy](https://bookracy.com/)** - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / Torrents / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
-* ⭐ **[Rave Search](https://ravebooksearch.com/)**, [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
+* ⭐ **[Unglue.it](https://unglue.it/)** - Books
+* ⭐ **[Rave Search](https://ravebooksearch.com/)**, [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
+* [Open Library](https://openlibrary.org/) - Books / [GitHub](https://github.com/internetarchive/openlibrary)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [BDeBooks](https://bdebooks.com/en/ebooks/) - Books / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books / Download / Forum
+* [Manybooks](https://manybooks.net/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
-* [Read From](https://readfrom.net/) - Books / Online Reading
-* [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
+* [BAEN](https://www.baen.com/allbooks/category/index/id/2012) 
+* [Read From](https://readfrom.net/) or [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [⁠Dynasty](https://t.me/dynastyapprovals) - Books / Telegram
 * [eBooks1001](https://ebooks1001.com/) - Books / Download / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
@@ -43,30 +46,20 @@
 ## ▷ Public Domain
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
-* ⭐ **[Unglue.it](https://unglue.it/)**
 * [Wikisource](https://wikisource.org)
-* [Open Library](https://openlibrary.org/) / [GitHub](https://github.com/internetarchive/openlibrary)
-* [Page by Page Books](https://www.pagebypagebooks.com/)
 * [Standard EBooks](https://standardebooks.org/)
-* [Manybooks](https://manybooks.net/)
-* [JustFreeBooks](https://www.justfreebooks.info/)
 * [Global Grey](https://www.globalgreyebooks.com/index.html)
 * [The Literature Network](https://www.online-literature.com/)
 * [DPLA](https://dp.la/)
 * [Fadedpage](https://www.fadedpage.com/)
 * [E-Book Mecca](https://ebook-mecca.com/)
-* [Planet eBook](https://www.planetebook.com/)
 * [Loyal Books](https://www.loyalbooks.com/)
-* [Planet Publish](https://www.planetpublish.com/)
-* [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
 * [⁠By the Fireplace](https://bythefireplace.com/) - Classics
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
 * [The H.P. Lovecraft Archive](https://www.hplovecraft.com/) - Complete H.P. Lovecraft Writings Archive
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
 * [GrimmStories](https://www.grimmstories.com/) or [AndersenStories](https://www.andersenstories.com/) - Fairy Tales
-* [Wikibooks](https://www.wikibooks.org/) - Wikimedia Community
-* [Hoopla](https://www.hoopladigital.com/) - Requires Library Card
 * [Public Domain Review](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
 * [⁠Distributed Proofreaders](https://www.pgdp.net/) - Help Digitize Public Domain Books to Ebooks
 
@@ -102,7 +95,7 @@
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Readest](https://readest.com/)** - Ebook Reader / All Platforms / [Subreddit](https://reddit.com/r/readest) / [Discord](https://discord.gg/gntyVNk3BJ) / [GitHub](https://github.com/readest/readest)
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / Linux, Android / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib), [3](https://omer-faruq.github.io/koreader-plugin-index/) / [Settings Guide](https://rentry.co/koreadersettings) / [GitHub](https://github.com/koreader/koreader)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / All Platforms / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows / [GitHub](https://github.com/sumatrapdfreader/sumatrapdf)
 * [Sioyek](https://sioyek.info/) - PDF Reader / Windows, macOS, Linux / [GitHub](https://github.com/ahrm/sioyek)
@@ -172,7 +165,7 @@
 ***
 
 * 🌐 **[Kindle Jailbreak Guide](https://kindlemodding.org/jailbreaking/index.html)** - Jailbreak Guides / Index
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib), [3](https://omer-faruq.github.io/koreader-plugin-index/) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
 * [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Kindle Modding / Jailbreak Discord
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [LARK](https://kindlemodshelf.me/lark) - Libre Audiobook Player
@@ -289,7 +282,7 @@
 * [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
 * [⁠Asianfanfics](https://www.asianfanfics.com/) - Asian Fanfiction
 * [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](https://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Liminal Archives](http://liminal-archives.wikidot.com/), [The Backrooms Wiki](https://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
 * [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
 * [fiction.live](https://fiction.live/) - Fanfiction
@@ -339,8 +332,6 @@
 * [Book Radio](https://bookradio.vercel.app/)
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [LitGu.ru](https://litgu.ru/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [audiobooks_English](https://t.me/audiobooks_English) - Telegram
-* [Audible (selected)](https://t.me/+GV_tJ_U7em04YjU9) - Telegram
 * [⁠Dynasty](https://t.me/dynastyapprovals) - Telegram
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
@@ -448,6 +439,7 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
+* [⁠bManga](https://bmanga.dedyn.io/) 
 * [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -858,7 +850,7 @@
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
-* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible
+* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/), [Bible Hub](https://biblehub.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
 * [eSword](https://e-sword.net/) - Christian Bible Desktop App
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity Literature
 * [Bibliothek der Kirchenväter](https://bkv.unifr.ch/en/works?versionLanguage=eng) - Ancient Christian Literature
@@ -1018,7 +1010,7 @@
 * [⁠Manga & Comic Converter](https://www.mangaconverter.com/) - Comic / Manga to Book Converter / Web / [GitHub](https://github.com/NilsLeo/kcc-cloud)
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
-* [WorldCat](https://www.worldcat.org/), [Libby](https://libbyapp.com/) / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
+* [WorldCat](https://www.worldcat.org/), [Hoopla](https://www.hoopladigital.com/), [Libby](https://libbyapp.com/) / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip), [LibrarySearch](https://librarysearch.gre.ac.uk/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 * [⁠Library Technology](https://librarytechnology.org/libraries/) - Global Library Database
 * [How to Get Library Card Online](https://rentry.co/9b3vdo)
 * [⁠⁠ReciproCard](https://reciprocard.com/) - Find Library Cards for Reciprocal Borrowing

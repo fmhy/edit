@@ -148,7 +148,7 @@
 ## Geometry Dash Demon Lists
 
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
-* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [Discord](https://discord.com/invite/hfGJ8jMp) / [GitHub](https://github.com/stadust/pointercrate)
+* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
 * [⁠EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/) - Extreme Demon Enjoyment List / [Discord](https://discord.com/invite/pdeZY2FU3U)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
@@ -160,7 +160,7 @@
 * [NWL](https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA) - Non-Listworthy Extreme Demon List / [Discord](https://discord.gg/vW88ZFtTY2)
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
-* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
+* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
 * [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
 * [Nine Circles Demonlist](https://ninecirclesdemonlist.com/) / [Doc](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)

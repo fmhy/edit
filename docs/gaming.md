@@ -180,8 +180,8 @@
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
-* [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [GitHub](https://github.com/HarbourMasters/Shipwright)
+* [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) / [Discord](https://discord.gg/AWZThJ4dPf) or [⁠2Ship2Harkinian](https://github.com/2ship2harkinian/2ship2harkinian) / [Discord](https://discord.com/invite/sxrPyuh697) - Majora's Mask Ports
 * [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Installed via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [⁠skate: recompiled](https://github.com/mchughalex/skate3recomp) - Skate 3 Xbox 360 Recompilation
@@ -264,7 +264,7 @@
 * [Age of the Ring](https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) - LOTR: The Battle for Middle-Earth II Revival Mod / [Discord](https://discord.com/invite/MB8Kj9N)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
 * [OpenNox](https://github.com/opennox/opennox) - Nox Revival Project / [Discord](https://discord.gg/HgDUeXhAyW)
-* [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project / [Discord](https://discord.gg/zUuABEc6at)
+* [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project
 * [Peacock](https://thepeacockproject.org/) - Hitman World of Assassination Server Replacement / [GitHub](https://github.com/thepeacockproject/Peacock)
 * [⁠Lunar Tear](https://lunar-tear.com/) - NieR Reincarnation Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
@@ -432,7 +432,7 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
-* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games** / [Discord](https://discord.gg/BVc63GqV7Y)
+* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
@@ -492,7 +492,7 @@
 
 * 🌐 **[Think Labyrinth](https://www.astrolog.org/labyrnth.htm)** - Encyclopedia of Maze Algorithms and Resources
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
+* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/), [⁠GuessDash](https://guessdash.com/) or [Arkadium](https://www.arkadium.com/) - Daily Word, Guessing & Puzzle Games
 * [⁠ThinkyGames](https://thinkygames.com/games/?free=true&platforms=Web) - Indie Puzzle Games 
 * [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
@@ -557,7 +557,7 @@
 * ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
 * [⁠Forkyz](https://gitlab.com/Hague/forkyz) - Multi-Platform Crossword App / [Sources](https://hague.gitlab.io/forkyz/)
 * [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
-* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords / [Discord](https://discord.gg/PwvKmJE6Xp)
+* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
@@ -733,7 +733,7 @@
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Discord](https://discord.gg/aB6ucmx) / [GitHub](https://github.com/bemusic/bemuse)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
-* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
+* [Rooms](https://rooms.xyz/) - Room Design Game
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
 * [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game
@@ -762,7 +762,7 @@
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
-* [Y8](https://www.y8.com/) - Browser Game Aggregator / [Discord](https://discord.com/invite/ba9yXh)
+* [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 * [⁠Plays.org](https://plays.org/) - Browser Game Aggregator
 * [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator

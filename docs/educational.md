@@ -151,13 +151,13 @@
 * [⁠Quantum Flytrap](https://quantumflytrap.com/) - Interactive Quantum Mechanics Virtual Lab
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
 * [Physics Forums](https://www.physicsforums.com/) - Physics / Science Forum
-* [Physics Olympiads](https://discord.gg/wyGAa49) - ISODN Physics Discord Community
 * [Unihedron](https://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf) - Electromagnetic Radiation Spectrum Chart
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) or [DoublePendulum](https://theabbie.github.io/DoublePendulum/) - Pendulum Simulators
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/), [OpenFOAM](https://www.openfoam.com/) / [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) - Fluid Dynamics & Heat Transfer
+* [⁠Mago Fluid](https://magofluid.gaia3d.com/) - Debris-Flow + Tsunami Simulation
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
 * [WebGL Water](https://madebyevan.com/webgl-water/) - Water Simulation
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
@@ -1466,7 +1466,7 @@
 * [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) - Network Analysis Learning
 * [Aquent Gymnasium](https://thegymnasium.com/) or [CodeAnalogies](https://www.codeanalogies.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
-* [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/) / [Discord](https://discord.gg/V8jcS8d2H5), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
+* [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [⁠The Copenhagen Book](https://thecopenhagenbook.com/) - Web App Auth Guidelines
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
@@ -1742,10 +1742,10 @@
 # ► Educational Tools
 
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
+* ↪️ **[Whiteboards / Handwritten Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_whiteboards_.2F_handwritten)**
 * ↪️ **[Presentation / Slideshare Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
-* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/en)**, [tldraw](https://www.tldraw.com/), [DGM](https://app.dgmjs.dev/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/), [⁠StudentBeans](https://www.studentbeans.com/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Temp .edu Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail) - Temp .edu Email Addresses
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
@@ -1787,7 +1787,7 @@
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://incitefulmed.com/academic/) - Find Connected Literature via Citations
-* [PLText](https://pltext.com/), [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
+* [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search

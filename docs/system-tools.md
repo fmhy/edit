@@ -460,7 +460,7 @@
 
 * ⭐ **[Catppuccin](https://catppuccin.com/)** - Custom App Theme / [Discord](https://discord.gg/r6Mdz5dpFc)
 * ⭐ **[Dracula](https://draculatheme.com/)** - Custom App Theme / [Discord](https://discord.com/invite/yDcFsrYuq9)
-* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme / [Discord](https://discord.gg/r6wf35KVJW)
+* [Rosé Pine](https://rosepinetheme.com/) - Custom App Theme
 * [Aura Theme](https://github.com/daltonmenezes/aura-theme) - Custom App Theme
 * [theme.park](https://theme-park.dev/) - Custom App Theme
 * [⁠Tokyo Night](https://tokyonight.org/) - Custom App Theme
