@@ -13,7 +13,6 @@
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** - Torrent
 * [YT Video Essay Hall of Fame](https://docs.google.com/spreadsheets/d/1pMlfjJ4gb0vMt2xrQITBMzWypNHMj-lWKkK1KC6EjxA/edit?gid=88681539) - YouTube Video Essay Archive / [Frontend](https://heyitsdean.github.io/Video-Essay-Hall-Of-Fame/)
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
-* [IHaveNoTV](https://ihavenotv.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
 * [Media Burn Archive](https://mediaburn.org/)
 * [ARTE](https://www.arte.tv/)
