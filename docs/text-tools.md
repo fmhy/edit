@@ -97,6 +97,7 @@
 * ⭐ **[Turboscribe](https://turboscribe.ai/)** or [Revoldiv](https://revoldiv.com/) - AI-Based Transcriptions / Web
 * ⭐ **[Whisper](https://github.com/openai/whisper)** - Audio Transcription / Windows, macOS, Linux / [WebUI](https://huggingface.co/spaces/hf-audio/whisper-large-v3), [2](https://ggml.ai/whisper.cpp/)
 * [WhisperX](https://github.com/m-bain/whisperX) - Advanced Whisper with timestamps / Windows, macOS, Linux
+* [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Local Audio Transcription CLI / Live Microphone / Windows, macOS, Linux
 * [⁠Transcrisper](https://transcrisper.com/), [Dictation](https://dictation.io/speech) or [oTranscribe](https://otranscribe.com/) - Audio Transcription Tools / Web
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Audio Transcription / Windows, macOS, Linux
 * [Buzz](https://github.com/chidiwilliams/buzz) - Audio Transcription Tool / Windows, macOS, Linux
