@@ -33,6 +33,9 @@ const files =
       ]
 let hasErrors = false
 
+let totalErrors = 0
+const filesWithErrors = new Set()
+
 // Only emit ANSI colors when writing to an interactive terminal
 const useColor =
   !process.env.NO_COLOR &&
@@ -104,7 +107,18 @@ function localTargetExists(sourceFile, rawTarget) {
   return candidates.some((candidate) => fs.existsSync(candidate))
 }
 
-console.log('🔍 Scanning markdown files for formatting issues...\n')
+const isUnicodeSupported = Boolean(
+  process.env.CI ||
+  process.env.WT_SESSION ||
+  process.env.VSCODE_INJECTION ||
+  process.env.TERM_PROGRAM ||
+  (process.env.TERM && process.env.TERM !== 'dumb')
+)
+
+const icon = isUnicodeSupported ? '🔍' : '[INFO] >>>'
+console.log(
+  `${color('1;33', icon)} ${color('1;37', 'Scanning markdown files for formatting issues...\n')}`
+)
 
 files.forEach((file) => {
   // Skip anything that isn't a readable regular file
@@ -181,7 +195,11 @@ files.forEach((file) => {
     let errors = []
     // Record an error, optionally with the offending substring of `line` so the
     // reporter can underline exactly where the problem is.
-    const addError = (message, match) => errors.push({ message, match })
+    const addError = (message, match, index = -1) =>
+      errors.push({ message, match, index })
+
+    const isCatalogEntry =
+      /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️|🌟)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(line)
 
     const headingMatch = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/)
     if (headingMatch) {
@@ -220,177 +238,257 @@ files.forEach((file) => {
       }
     }
 
-    // Check 1: Starred links must be bolded
-    // Pattern: * ⭐ [Link] -> Bad
-    // Pattern: * ⭐ **[Link] -> Good
-    // Only applies to list items starting with * or -
-    if (/^\s*[*+-]\s+⭐/.test(line)) {
-      // It's a starred list item.
-      // Check if the text immediately following "⭐ " starts with "**"
-      // We look for the star, then optional spaces, then ensure "**" follows.
-      if (!/⭐\s*\*\*/.test(line)) {
-        addError('Starred item not bolded (expected * ⭐ **Link**)', '⭐')
+    // ---------------------------------------------------------------------
+    // Check 1: Starred, Superstar, Index, and Redirect links must be bolded
+    // ---------------------------------------------------------------------
+
+    // Pattern: * ⭐ **[Link]... or * 🌐 **[Link]...
+    // Uses the 'u' flag so surrogate pairs (🌟, 🌐) and variation selectors (\uFE0F) are processed as single characters
+    const featuredMatch = line.match(/^\s*[*+-]\s+([⭐🌟🌐]|↪\uFE0F?)(.*)/u)
+    if (featuredMatch) {
+      const fullEmoji = featuredMatch[1]
+      const restOfLine = featuredMatch[2]
+
+      // Check if the content immediately following the emoji (ignoring whitespace) starts with '**'
+      if (!/^\s*\*\*/.test(restOfLine)) {
+        let iconName = 'Featured'
+        if (fullEmoji.includes('⭐')) iconName = 'Starred'
+        else if (fullEmoji.includes('🌟')) iconName = 'Superstar'
+        else if (fullEmoji.includes('🌐')) iconName = 'Index'
+        else if (fullEmoji.includes('↪')) iconName = 'Redirect'
+
+        const matchIdx = line.indexOf(fullEmoji)
+        addError(
+          `${iconName} link not bolded (expected: ${fullEmoji} **[Link](URL)**)`,
+          fullEmoji,
+          matchIdx !== -1 ? matchIdx : 0
+        )
       }
     }
 
+    // ---------------------------------------------------------------------
     // Check 2: Space between ] (
-    const bracketParenMatch = line.match(/\]\s+\(http/)
-    if (bracketParenMatch) {
-      addError(
-        'Space between bracket and parenthesis in link',
-        bracketParenMatch[0]
-      )
+    // ---------------------------------------------------------------------
+
+    const bracketParenMatch = line.matchAll(/\]\s+\(http/g)
+    for (const m of bracketParenMatch) {
+      addError('Space between bracket and parenthesis in link', m[0], m.index)
     }
 
+    // ---------------------------------------------------------------------
     // Check 3: Missing closing bracket ]
+    // ---------------------------------------------------------------------
+
     // Pattern: [Text(http...
     // We look for [ followed by (http without ] in between.
-    const missingBracketMatch = line.match(/\[[^\]]*\(http/)
-    if (missingBracketMatch) {
-      addError('Possible missing closing bracket "]"', missingBracketMatch[0])
+    const missingBracketMatch = line.matchAll(/\[[^\]]*\(http/g)
+    for (const m of missingBracketMatch) {
+      addError('Possible missing closing bracket "]"', m[0], m.index)
     }
 
+    // ---------------------------------------------------------------------
     // Check 4: Missing closing parenthesis )
+    // ---------------------------------------------------------------------
+
     // Pattern: [Text](http...  where it ends without )
     // We look for "](http..." followed by space or end of line, but NOT ending with )
     // regex: \]\(http[^)]*($|\s) matches "](http://url" at EOL or "](http://url "
-    const missingParenMatch = line.match(/\]\((http[^)]+?)($|\s)/)
-    if (missingParenMatch) {
-      addError(
-        `Possible broken link (missing closing parenthesis or trailing space): ${missingParenMatch[1]}`,
-        missingParenMatch[1]
-      )
+    const missingParens = line.matchAll(/\]\((http[^)\s]*)/g)
+    for (const m of missingParens) {
+      // Check if the link is missing a closing parenthesis on this line
+      // by verifying that the text after the URL does not cleanly close it.
+      const remainder = line.slice(m.index + m[0].length)
+      if (!remainder.startsWith(')') && !m[0].endsWith(')')) {
+        addError(
+          `Possible broken link (missing closing parenthesis or trailing space)`,
+          m[1],
+          m.index + 2
+        )
+      }
     }
 
+    // ---------------------------------------------------------------------
     // Check 5: Double parenthesis in link
+    // ---------------------------------------------------------------------
+
     // specific pattern: ](url))
     // This is often valid if inside parenthesis: (See [Link](url))
     // We only flag if parentheses are UNBALANCED in the line.
-    const doubleParenMatch = line.match(/\]\([^)]+\)\)/)
-    if (doubleParenMatch) {
+    const doubleParenMatch = line.matchAll(/\]\(([^)]+?)\)\)/g)
+    for (const m of doubleParenMatch) {
       const openParens = (line.match(/\(/g) || []).length
       const closeParens = (line.match(/\)/g) || []).length
       if (closeParens > openParens) {
         addError(
           'Double closing parenthesis in link (Unbalanced)',
-          doubleParenMatch[0]
+          m[0],
+          m.index
         )
       }
     }
 
+    // ---------------------------------------------------------------------
     // Check 6: Double spaces
+    // ---------------------------------------------------------------------
+
     // We want to avoid double spaces in the text, but ignore leading indentation.
     // We trim start of line to ignore indentation, then check for "  ".
-    const trimmedLine = line.trimStart()
-    const doubleSpaceMatch = trimmedLine.match(/ {2,}/)
-    if (doubleSpaceMatch) {
-      addError('Double space detected', doubleSpaceMatch[0])
+    const leadSpaceLength = line.length - line.trimStart().length
+    const doubleSpaceMatch = line.trimStart().matchAll(/ {2,}/g)
+    for (const m of doubleSpaceMatch) {
+      addError('Double space detected', m[0], leadSpaceLength + m.index)
     }
 
-    // Check 7: Broken Bold Syntax
-    // Pattern: ** Text**, **Text **, or ** Text **
-    // We temporarily replace inline code to avoid false positives
-    const boldLine = line.replace(/`[^`]+`/g, 'PLACEHOLDER')
-    if (boldLine.includes('**')) {
-      const parts = boldLine.split('**')
-      // Check odd segments (inside the stars)
-      for (let i = 1; i < parts.length; i += 2) {
-        // Ensure we have a closing pair on this line
-        if (i + 1 < parts.length) {
-          const text = parts[i]
-          if (text.length > 0 && (/^\s/.test(text) || /\s$/.test(text))) {
+    // ---------------------------------------------------------------------
+    // Check 7: Broken Bold Syntax (Unclosed tags & improper spacing)
+    // ---------------------------------------------------------------------
+
+    // 1. Skip thematic break / horizontal rule lines like ***, ---, or * * *
+    if (!/^\s*(?:\*|\-|_){3,}\s*$/.test(line)) {
+      // 2. Strip inline code blocks to prevent false positives inside backticks
+      const lineNoCode = line.replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
+
+      // 3. Count exact occurrences of double asterisks '**'
+      const doubleAsteriskMatches = [...lineNoCode.matchAll(/\*\*/g)]
+      if (doubleAsteriskMatches.length % 2 !== 0) {
+        const lastMatch =
+          doubleAsteriskMatches[doubleAsteriskMatches.length - 1]
+        addError(
+          'Unclosed or broken bold syntax (mismatched ** tags)',
+          '**',
+          lastMatch.index
+        )
+      }
+
+      // 4. Check for leading/trailing space inside bold tags: ** text** or **text **
+      const boldMatches = lineNoCode.matchAll(/\*\*([^*]+)\*\*/g)
+      for (const m of boldMatches) {
+        const text = m[1]
+        if (text.length > 0 && (/^\s/.test(text) || /\s$/.test(text))) {
+          addError(
+            'Broken bold syntax (leading or trailing space inside **)',
+            m[0],
+            m.index
+          )
+        }
+      }
+    }
+
+    // ---------------------------------------------------------------------
+    // Check 8: Asymmetric spaces around slash & Compound words
+    // ---------------------------------------------------------------------
+
+    const lineForChecks = line
+      .replace(/<!--[\s\S]*?-->/g, (m) => ' '.repeat(m.length))
+      .replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
+      .replace(/https?:\/\/[^\s)\]]+/g, (m) => ' '.repeat(m.length))
+
+    if (!/^\s*link:/i.test(line)) {
+      const slashes = lineForChecks.matchAll(/\//g)
+
+      for (const match of slashes) {
+        const i = match.index
+
+        // Check if there are spaces directly adjacent to the slash
+        const spaceBefore = i === 0 || /\s/.test(lineForChecks[i - 1])
+        const spaceAfter =
+          i === lineForChecks.length - 1 || /\s/.test(lineForChecks[i + 1])
+
+        // Capture the full non-space clusters touching the slash
+        const beforeMatch = lineForChecks.slice(0, i).match(/(\S+)$/)
+        const wordBeforeFull = beforeMatch ? beforeMatch[1] : ''
+
+        const afterMatch = lineForChecks.slice(i + 1).match(/^(\S+)/)
+        const wordAfterFull = afterMatch ? afterMatch[1] : ''
+
+        // --- GLOBAL EXCEPTIONS ---
+        if (wordAfterFull.startsWith('>')) continue // Ignore HTML tags />
+        if (wordBeforeFull.endsWith('<')) continue // Ignore HTML tags </
+
+        // Ignore leading slashes in relative URLs like [Text](/path) or [Text](./path)
+        if (wordBeforeFull.endsWith('(')) continue
+
+        // Ignore relative path links (e.g., ./LICENSE, ../docs)
+        if (wordBeforeFull.endsWith('.') || wordAfterFull.startsWith('.'))
+          continue
+        if (wordBeforeFull.includes('/') || wordAfterFull.includes('/'))
+          continue
+
+        // Clean off surrounding punctuation for word/abbr checks
+        const pureWordBefore = wordBeforeFull.replace(/^[^\w]+|[^\w]+$/g, '')
+        const pureWordAfter = wordAfterFull.replace(/^[^\w]+|[^\w]+$/g, '')
+
+        // Ignore abbreviations, dates, and common shorthand (w/, r/, 10/11, w/o)
+        if (/^(w|r|u|c)$/i.test(pureWordBefore)) continue
+        if (
+          pureWordBefore.toLowerCase() === 'w' &&
+          pureWordAfter.toLowerCase() === 'o'
+        )
+          continue
+        if (/^\d+$/.test(pureWordBefore) && /^\d+$/.test(pureWordAfter))
+          continue
+
+        // --- BLOCK A: Missing space after ("Word /Word") ---
+        if (spaceBefore && !spaceAfter) {
+          addError(
+            `Missing space after slash: "/${wordAfterFull}"`,
+            `/${wordAfterFull}`,
+            i
+          )
+        }
+
+        // --- BLOCK B: Missing space before ("Word/ Word") ---
+        else if (!spaceBefore && spaceAfter) {
+          const startIndex = i - wordBeforeFull.length
+          addError(
+            `Missing space before slash: "${wordBeforeFull}/"`,
+            `${wordBeforeFull}/`,
+            startIndex
+          )
+        }
+
+        // --- BLOCK C: Missing spaces on BOTH sides ("Word/Word") ---
+        else if (!spaceBefore && !spaceAfter) {
+          // Strictly target layout mistakes touching Markdown structural anchors: )/[ or ]/( or [/path/]
+          const isStructuralMarkdownError =
+            /\]|\)/.test(wordBeforeFull) || /^\[|^\(/.test(wordAfterFull)
+
+          if (isStructuralMarkdownError) {
+            const matchString = `${wordBeforeFull}/${wordAfterFull}`
+            const startIndex = i - wordBeforeFull.length
             addError(
-              `Broken bold syntax (leading/trailing space) in "**${text}**"`,
-              `**${text}**`
+              `Missing spaces around slash: "${matchString}"`,
+              matchString,
+              startIndex
             )
           }
         }
       }
     }
-    // Check 8: Asymmetric spaces around slash
-    // Strip tokens that legitimately contain slashes / comments so they don't
-    // generate false positives. Replacements are blanked (not placeholders)
-    // because any word-shaped placeholder would itself be matched by the
-    // slash regex below and re-flagged.
-    //   - URLs (http://...)
-    //   - HTML comments (<!-- /search-exclude -->)
-    //   - Inline code (`elenemigos.com`, `w/ account`)
-    const lineForChecks = line
-      .replace(/<!--[\s\S]*?-->/g, ' ')
-      .replace(/`[^`]+`/g, ' ')
-      .replace(/https?:\/\/[^\s)]+/g, ' ')
 
-    // Ignore VitePress sidebar links (e.g. "link: /foo")
-    if (!/^\s*link:/i.test(line)) {
-      // A. Missing space after slash: " /Word"
-      // Exception: /> (HTML close tag)
-      // Exception: /Word/ (Path/Board e.g. /co/)
-      const missingSpaceAfter = lineForChecks.matchAll(/\s\/(\S+)/g)
-      for (const match of missingSpaceAfter) {
-        const wordAfter = match[1]
-        if (wordAfter.startsWith('>')) continue // Ignore />
-        // Ignore paths (e.g. /bin), subreddits (/r/foo), or compound words (Word/Word)
-        if (wordAfter.includes('/')) continue
-
-        addError(
-          `Missing space after slash (e.g. "Word /Word"): "${match[0]}"`,
-          `/${wordAfter}`
-        )
-        break
-      }
-
-      // B. Missing space before slash: "Word/ "
-      // Exceptions: w/ (with), r/ (reddit), u/ (user), c/ (community)
-      // The leading non-word anchor keeps "(w/" from sticking "(" onto the
-      // captured abbreviation and breaking the allow-list match.
-      const missingSpaceBefore = lineForChecks.matchAll(
-        /(?:^|[^\w/])([\w.+-]+)\/\s/g
-      )
-      for (const match of missingSpaceBefore) {
-        const wordBefore = match[1]
-        // Allow common abbreviations: w/, r/, u/, c/
-        if (/^(w|r|u|c)$/i.test(wordBefore)) continue
-
-        addError(
-          `Missing space before slash (e.g. "Word/ Word"): "${match[0]}"`,
-          `${wordBefore}/`
-        )
-        break
-      }
-
-      // C. Double slash separated by spaces: "/ /"
-      const doubleSlashMatch = lineForChecks.match(/\/\s+\//)
-      if (doubleSlashMatch) {
-        addError(
-          'Double slash with spaces detected (e.g. "/ /")',
-          doubleSlashMatch[0]
-        )
-      }
-    }
-
-    // Check 9: Adjacent links without separator (e.g. "Text [Link]" instead of "Text / [Link]")
-    const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
-      'docs/beginners-guide.md',
-      'docs/unsafe.md'
-    ]
-
-    const isCatalogEntry =
-      /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(line)
+    // ---------------------------------------------------------------------
+    // Check 9: Duplicate primary resource URLs in the same section
+    // ---------------------------------------------------------------------
 
     if (isCatalogEntry) {
       const primaryLinkMatch = line.match(
-        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
+        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️|🌟)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
       )
+
       if (primaryLinkMatch) {
+        const primaryUrl = primaryLinkMatch[2]
         const normalizedName = normalizeText(primaryLinkMatch[1])
-        const normalizedUrl = normalizePrimaryUrl(primaryLinkMatch[2])
+        const normalizedUrl = normalizePrimaryUrl(primaryUrl)
         const sectionPath = headingStack.filter(Boolean).join(' > ')
         const duplicateKey = `${sectionPath}\u0000${normalizedName}\u0000${normalizedUrl}`
         const firstLine = primaryUrlsBySection.get(duplicateKey)
+
         if (firstLine) {
+          const urlStartIndex = line.indexOf(primaryUrl, primaryLinkMatch.index)
           addError(
             `Duplicate primary resource URL in the same section (first seen on line ${firstLine})`,
-            primaryLinkMatch[2]
+            primaryUrl,
+            urlStartIndex !== -1 ? urlStartIndex : primaryLinkMatch.index
           )
         } else {
           primaryUrlsBySection.set(duplicateKey, lineNum)
@@ -398,176 +496,220 @@ files.forEach((file) => {
       }
     }
 
-    if (
-      isCatalogEntry &&
-      !FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some((ignoredFile) =>
+    // ---------------------------------------------------------------------
+    // Check 10: Adjacent links without separator
+    // ---------------------------------------------------------------------
+
+    const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
+      'docs/beginners-guide.md',
+      'docs/unsafe.md'
+    ]
+
+    const isIgnoredFile = FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(
+      (ignoredFile) =>
         path.normalize(file).endsWith(path.normalize(ignoredFile))
-      )
-    ) {
+    )
+
+    if (isCatalogEntry && !isIgnoredFile) {
       const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
       let match
+
+      const allowedChars = new Set([
+        '/',
+        '-',
+        ',',
+        '(',
+        '&',
+        '>',
+        ':',
+        '|',
+        '*',
+        '!',
+        '.',
+        '?',
+        ';',
+        '_',
+        '⭐',
+        '🌐',
+        '🌟',
+        '↪️',
+        '+',
+        '#',
+        '►',
+        '▷'
+      ])
+
+      const allowedWords = [
+        'or',
+        'and',
+        'a',
+        'an',
+        'the',
+        'use',
+        'using',
+        'via',
+        'with',
+        'in',
+        'on',
+        'at',
+        'by',
+        'to',
+        'for',
+        'from',
+        'check',
+        'see',
+        'try',
+        'requires',
+        'including',
+        'includes',
+        'that',
+        'this',
+        'here',
+        'your',
+        'our',
+        'of',
+        'about',
+        'their',
+        'join',
+        'getting',
+        'most',
+        'like',
+        'every',
+        'being',
+        'mostly',
+        'highly',
+        'up',
+        'we',
+        'optionally',
+        'these',
+        'linux',
+        'mac',
+        'macos',
+        'windows',
+        'android',
+        'ios',
+        'web',
+        'desktop',
+        'mobile',
+        'firefox',
+        'chrome'
+      ]
+
+      const allowedWordsRegex = new RegExp(
+        `(?:^|[^a-zA-Z0-9])(?:${allowedWords.join('|')})$`,
+        'i'
+      )
+
       while ((match = linkRegex.exec(line)) !== null) {
         const index = match.index
         if (index === 0) continue
 
         const preceding = line.slice(0, index)
 
-        // Ignore if line starts with valid list marker followed immediately by this link
-        // e.g. "* [Link]" or "- [Link]" or "1. [Link]"
+        // Ignore start-of-line markers, star badges, or bold/italic prefixes
         if (/^\s*([*+-]|\d+\.)\s*$/.test(preceding)) continue
-        // Ignore if Starred item "* ⭐ [Link]"
         if (/^\s*[*+-]\s+⭐\s*$/.test(preceding)) continue
-        // Ignore if link is preceded by bold/italic markers only (start of line)
+        if (/^\s*[*+-]\s+🌐\s*$/.test(preceding)) continue
+        if (/^\s*[*+-]\s+🌟\s*$/.test(preceding)) continue
+        if (/^\s*[*+-]\s+↪️\s*$/.test(preceding)) continue
         if (/^\s*[*+-]\s+[*_]+\s*$/.test(preceding)) continue
 
         const trimmedPreceding = preceding.trimEnd()
         if (trimmedPreceding.length === 0) continue
 
-        // Check last character
+        // Check if last character is an allowed separator symbol
         const lastChar = trimmedPreceding.slice(-1)
-        // Allowed: separators, openers, end of sentences
-        // ! for images (![Alt]), * for bold, ( for parens, etc.
-        const allowedChars = [
-          '/',
-          '-',
-          ',',
-          '(',
-          '&',
-          '>',
-          ':',
-          '|',
-          '*',
-          '!',
-          '.',
-          '?',
-          ';',
-          '_',
-          '⭐',
-          '+',
-          '#',
-          '►',
-          '▷'
-        ]
-        if (allowedChars.includes(lastChar)) continue
+        if (allowedChars.has(lastChar)) continue
 
-        // Check for allowed functional words (prepositions, conjunctions, determiners, etc.)
-        // to avoid flagging sentences like "Try a [VPN]" or "Use [Adblock]"
-        const allowedWords = [
-          'or',
-          'and',
-          'a',
-          'an',
-          'the',
-          'use',
-          'using',
-          'via',
-          'with',
-          'in',
-          'on',
-          'at',
-          'by',
-          'to',
-          'for',
-          'from',
-          'check',
-          'see',
-          'try',
-          'requires',
-          'including',
-          'includes',
-          'that',
-          'this',
-          'here',
-          'your',
-          'our',
-          'of',
-          'about',
-          'their',
-          'join',
-          'getting',
-          'most',
-          'like',
-          'every',
-          'being',
-          'mostly',
-          'highly',
-          'up',
-          'we',
-          'optionally',
-          // OS / platform / browser qualifiers that commonly precede [Guide], [GitHub], etc.
-          'linux',
-          'mac',
-          'macos',
-          'windows',
-          'android',
-          'ios',
-          'web',
-          'desktop',
-          'mobile',
-          'firefox',
-          'chrome'
-        ]
-        const wordRegex = new RegExp(
-          `(^|[^a-zA-Z0-9])(${allowedWords.join('|')})$`,
-          'i'
-        )
-        if (wordRegex.test(trimmedPreceding)) continue
+        // Check if preceding word is an allowed functional word/qualifier
+        if (allowedWordsRegex.test(trimmedPreceding)) continue
 
         addError(
           `Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`,
-          match[0]
+          match[0],
+          index
         )
       }
     }
 
-    // Check 13: Duplicate Descriptions
+    // ---------------------------------------------------------------------
+    // Check 11: Duplicate Descriptions within a single entry
+    // ---------------------------------------------------------------------
+
+    const normalizedFilePath = path.normalize(file)
+
     const isTempMailSection =
-      normalizedPath === 'docs/internet-tools.md' &&
+      normalizedFilePath.endsWith(path.normalize('docs/internet-tools.md')) &&
       currentHeader.includes('Temp Mail')
+
     const isStaticHostingSection =
-      normalizedPath === 'docs/developer-tools.md' &&
+      normalizedFilePath.endsWith(path.normalize('docs/developer-tools.md')) &&
       currentHeader.includes('Static Page Hosting')
+
     if (line.includes('/') && !isTempMailSection && !isStaticHostingSection) {
-      const BLOCK_SPLIT = '___BLOCK_SPLIT___'
-      const lineCleanedLinks = line
-        .replace(/<!--[\s\S]*?-->/g, '')
-        .replace(/`[^`]+`/g, '')
-        .replace(/(\*\*|__)?\[[^\]]+\]\([^)]+\)(\*\*|__)?/g, BLOCK_SPLIT)
-      const blocks = lineCleanedLinks.split(BLOCK_SPLIT)
+      // Find where description text starts (after ") - ")
+      const dashMatch = line.match(/\)\s*-\s+/)
 
-      blocks.forEach((block) => {
-        if (!block || !block.includes('/')) return
+      if (dashMatch) {
+        const descStartIndex = dashMatch.index + dashMatch[0].length
+        const descriptionText = line.slice(descStartIndex)
 
-        // Split by " / " (slash surrounded by spaces) to avoid matching paths (/bin), w/ (w/ acc), TCP/IP
-        // This assumes standard formatting (Check 8 enforces spaces)
-        const parts = block.split(/\s+\/\s+/)
-        if (parts.length < 2) return
+        // Split by spaced slashes " / "
+        const parts = descriptionText.split(/\s+\/\s+/)
 
-        const seenDescriptions = new Set()
-        parts.forEach((part) => {
-          let desc = part.trim()
-          desc = desc.replace(/^[\s\-\*⭐]+/, '').replace(/[\s\-\*⭐]+$/, '')
+        if (parts.length >= 2) {
+          const seenDescriptions = new Map()
+          let currentOffsetInLine = descStartIndex
 
-          if (!desc) return
+          parts.forEach((part) => {
+            const leadingMatch = part.match(/^[\s\-\*⭐]*/)
+            const leadingLength = leadingMatch ? leadingMatch[0].length : 0
 
-          const checkDesc = desc.toLowerCase()
-          if (seenDescriptions.has(checkDesc)) {
-            addError(`Duplicate description detected: "${desc}"`, desc)
-          } else {
-            seenDescriptions.add(checkDesc)
-          }
-        })
-      })
+            const desc = part
+              .trim()
+              .replace(/^[\s\-\*⭐]+/, '')
+              .replace(/[\s\-\*⭐]+$/, '')
+
+            if (desc) {
+              const exactDescIndex = currentOffsetInLine + leadingLength
+              const checkDesc = desc.toLowerCase()
+
+              if (seenDescriptions.has(checkDesc)) {
+                // Pass exactDescIndex as the 3rd argument (index)
+                addError(
+                  `Duplicate description detected: "${desc}"`,
+                  desc,
+                  exactDescIndex
+                )
+              } else {
+                seenDescriptions.set(checkDesc, exactDescIndex)
+              }
+            }
+
+            // Move cursor past this part + the 3 chars of " / "
+            currentOffsetInLine += part.length + 3
+          })
+        }
+      }
     }
 
-    // Check 14: Link Label Mismatch
+    // ---------------------------------------------------------------------
+    // Check 12: Link Label Mismatch
+    // ---------------------------------------------------------------------
+
     // Ensures that labels like "Subreddit", "GitHub", "Discord", etc. point to the correct domain
     const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
     let lm
+
     while ((lm = linkMatchRegex.exec(line)) !== null) {
+      const matchText = lm[0] // Full text e.g. "[Discord](https://example.com)"
+      const labelText = lm[1] // Inside brackets e.g. "Discord"
+      const rawUrlText = lm[2] // Inside parens e.g. "https://example.com"
+      const matchIndex = lm.index // Exact index where `[` begins on the line
+
       let parsedUrl
       try {
-        parsedUrl = new URL(lm[2])
+        parsedUrl = new URL(rawUrlText)
       } catch {
         continue
       }
@@ -594,7 +736,12 @@ files.forEach((file) => {
           parsedUrl.pathname.toLowerCase().startsWith('/fmhy/fmhy/wiki/'))
 
       const isKnownLabelRedirect = (label) => {
-        if (LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href)) return true
+        if (
+          typeof LABEL_REDIRECT_EXCEPTIONS !== 'undefined' &&
+          LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href)
+        ) {
+          return true
+        }
         if (label !== 'discord') return false
         return (
           hostname.startsWith('discord.') ||
@@ -636,11 +783,10 @@ files.forEach((file) => {
         }
       ]
 
-      const trimmedLabel = normalizeText(lm[1])
+      const trimmedLabel = normalizeText(labelText)
 
       for (const check of checks) {
         // Exact match check for keywords to avoid flagging descriptive names like "GitHub Dorks"
-        // Also allow "r/" prefix check separately
         if (trimmedLabel === check.key) {
           if (
             !isFmhyInternalReference &&
@@ -648,8 +794,9 @@ files.forEach((file) => {
             !check.domains.some(hostnameMatches)
           ) {
             addError(
-              `Link label mismatch: Label "${lm[1]}" points to non-${check.key} domain: ${lm[2]}`,
-              lm[0]
+              `Link label mismatch: Label "${labelText}" points to non-${check.key} domain (${rawUrlText})`,
+              matchText,
+              matchIndex
             )
           }
         }
@@ -659,8 +806,9 @@ files.forEach((file) => {
       if (/^r\/[a-zA-Z0-9_]+$/.test(trimmedLabel)) {
         if (!isFmhyInternalReference && !hostnameMatches('reddit.com')) {
           addError(
-            `Link label mismatch: Subreddit label "${lm[1]}" points to non-reddit domain: ${lm[2]}`,
-            lm[0]
+            `Link label mismatch: Subreddit label "${labelText}" points to non-reddit domain (${rawUrlText})`,
+            matchText,
+            matchIndex
           )
         }
       }
@@ -674,34 +822,44 @@ files.forEach((file) => {
         !hostnameMatches('t.co')
       ) {
         addError(
-          `Link label mismatch: Label "X" points to non-X/Twitter domain: ${lm[2]}`,
-          lm[0]
+          `Link label mismatch: Label "X" points to non-X/Twitter domain (${rawUrlText})`,
+          matchText,
+          matchIndex
         )
       }
     }
 
-    // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)
-    if (!isSeparatedEnglishCheck) {
-      // Prepare clean line for text-based checks (remove URLs and Markdown links)
-      // Remove entire link block: [Text](Url) -> "__LINK__" to avoid merging adjacent words
-      const lineCleaned = line
-        .replace(/https?:\/\/[^\s)]+/g, '')
-        .replace(/\[[^\]]+\]\([^)]*\)/g, '__LINK__')
+    // ---------------------------------------------------------------------
+    // Checks 13, 14, 15: English-specific linting (Repeated words, Typos, Article usage)
+    // ---------------------------------------------------------------------
 
-      // Check 10: Repeated words (e.g. "the the")
-      const repeatedWordMatch = lineCleaned.match(/\b([a-zA-Z]+)\s+\1\b/i)
-      if (repeatedWordMatch) {
-        const word = repeatedWordMatch[1].toLowerCase()
-        // Allow specific repeated words
-        if (!['puyo', 'duran', 'agar', 'hocus'].includes(word)) {
-          addError(
-            `Repeated word detected: "${repeatedWordMatch[0]}"`,
-            repeatedWordMatch[0]
-          )
+    if (!isSeparatedEnglishCheck) {
+      // Create a sanitized line for text checks: strip URLs and inline links
+      // Preserves character indices 1:1 by replacing matches with equivalent whitespace padding
+      const lineCleaned = line
+        .replace(/https?:\/\/[^\s)]+/g, (m) => ' '.repeat(m.length))
+        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => ' '.repeat(m.length))
+
+      // ---------------------------------------------------------------------
+      // Check 13: Repeated Words (e.g., "the the", "and and")
+      // ---------------------------------------------------------------------
+
+      // Allowlist for legitimate adjacent repeated words (proper nouns, games, tech)
+      const allowedRepeatedWords = new Set(['puyo', 'duran', 'agar', 'hocus'])
+
+      // Find adjacent identical words separated by whitespace
+      const repeatedWordMatches = lineCleaned.matchAll(/\b([a-zA-Z]+)\s+\1\b/gi)
+      for (const m of repeatedWordMatches) {
+        const word = m[1].toLowerCase()
+        if (!allowedRepeatedWords.has(word)) {
+          addError(`Repeated word detected: "${m[1]}"`, m[0], m.index)
         }
       }
 
-      // Check 11: Common Typos (curated hardcoded list)
+      // ---------------------------------------------------------------------
+      // Check 14: Common Typos
+      // ---------------------------------------------------------------------
+
       const commonTypos = {
         teh: 'the',
         adn: 'and',
@@ -728,71 +886,249 @@ files.forEach((file) => {
         relevent: 'relevant',
         sucessful: 'successful',
         untill: 'until',
-        wierd: 'weird'
+        wierd: 'weird',
+        whereever: 'wherever'
       }
+
       for (const [typo, correction] of Object.entries(commonTypos)) {
-        const typoRegex = new RegExp(`\\b${typo}\\b`, 'i')
-        const typoMatch = lineCleaned.match(typoRegex)
-        if (typoMatch) {
+        const typoRegex = new RegExp(`\\b${typo}\\b`, 'gi')
+        const typoMatches = lineCleaned.matchAll(typoRegex)
+        for (const m of typoMatches) {
           addError(
-            `Possible typo: "${typo}" (should be "${correction}")`,
-            typoMatch[0]
+            `Possible typo: "${m[0]}" (should be "${correction}")`,
+            m[0],
+            m.index
           )
         }
       }
 
-      // Check 12: Basic A/An Grammar
-      const aAnMatch = line.match(/\b(a)\s+([aeio]\w+)/i)
-      if (aAnMatch) {
-        const word = aAnMatch[2].toLowerCase()
-        // Vowel-letter words that start with a consonant SOUND correctly take "a":
-        // "one"/"once" (w-sound) and "eu-" words like euro/European (y-sound).
-        const startsWithConsonantSound =
-          word === 'one' || word === 'once' || word.startsWith('eu')
-        if (!startsWithConsonantSound) {
-          addError(
-            `Incorrect article "a" usage: "${aAnMatch[0]}" (should be "an")`,
-            aAnMatch[0]
-          )
-        }
-      }
+      // ---------------------------------------------------------------------
+      // Check 15: Basic A/An Grammar
+      // ---------------------------------------------------------------------
 
-      const anAMatch = line.match(/\b(an)\s+([bcdfghjklmnpqrstvwxyz]\w+)/i)
-      if (anAMatch) {
-        const word = anAMatch[2]
-        const isAcronym = /^[A-Z0-9]+$/.test(word)
-        // Words starting with a silent "h" correctly take "an" (an hour, an honest
-        // review). Match on stems so inflections are covered (honest/honesty/honorable).
-        const isSilentH = /^(hour|honest|hono[u]?r|heir|homage)/i.test(word)
-        // Letter-name formats like "m3u"/"h1" are read letter-by-letter; a consonant
-        // letter with a vowel-sounding name (f/h/l/m/n/r/s/x) + a digit takes "an".
-        const isLetterName = /^[fhlmnrsx]\d/i.test(word)
-        if (!isAcronym && !isSilentH && !isLetterName) {
+      // // PHONETIC EXCEPTIONS
+      const requiresAn = ['hour', 'honor', 'honest', 'heir']
+      const requiresA = [
+        'one',
+        'once',
+        'use',
+        'user',
+        'utility',
+        'universe',
+        'university',
+        'unicorn',
+        'union',
+        'united',
+        'euro',
+        'european',
+        'euphemism',
+        'unique',
+        'luks'
+      ]
+
+      const articleRegex = /\b(a|an)\s+([a-z0-9]+)\b/gi
+
+      for (const match of line.matchAll(articleRegex)) {
+        const articleUsed = match[1].toLowerCase()
+        const nextWordRaw = match[2]
+        const nextWordLower = nextWordRaw.toLowerCase()
+
+        let shouldBeAn = false
+
+        // KNOWN PHONETIC EXCEPTION
+        if (requiresAn.includes(nextWordLower)) {
+          shouldBeAn = true
+        } else if (requiresA.includes(nextWordLower)) {
+          shouldBeAn = false
+        }
+        // ACRONYM CHECK
+        else if (/^[A-Z0-9]*[A-Z][A-Z0-9]*$/.test(nextWordRaw)) {
+          const vowelSoundingLetters = [
+            'A',
+            'E',
+            'F',
+            'H',
+            'I',
+            'L',
+            'M',
+            'N',
+            'O',
+            'R',
+            'S',
+            'X'
+          ]
+          shouldBeAn = vowelSoundingLetters.includes(nextWordRaw[0])
+        }
+        // STANDARD SPELLING RULE
+        else {
+          const startsWithVowel = /^[aeiou]/i.test(nextWordLower)
+          shouldBeAn = startsWithVowel
+        }
+
+        if (articleUsed === 'a' && shouldBeAn) {
           addError(
-            `Incorrect article "an" usage: "${anAMatch[0]}" (should be "a")`,
-            anAMatch[0]
+            `Incorrect article "a" usage: "${match[0]}" (should be "an")`,
+            match[0],
+            match.index
+          )
+        } else if (articleUsed === 'an' && !shouldBeAn) {
+          addError(
+            `Incorrect article "an" usage: "${match[0]}" (should be "a")`,
+            match[0],
+            match.index
           )
         }
       }
     }
 
+    // ---------------------------------------------------------------------
+    // Check 16: Catalog entry hierarchy order (Index > Redirect > Superstar > Star > Regular)
+    // ---------------------------------------------------------------------
+
+    if (isCatalogEntry) {
+      const getTier = (str) => {
+        const badgeMatch = str.match(/^\s*[*+-]\s+([🌐🌟⭐]|↪\uFE0F?)/u)
+        if (!badgeMatch) return 5
+        const badge = badgeMatch[1]
+        if (badge.includes('🌐')) return 1 // Tier 1: Index
+        if (badge.includes('↪')) return 2 // Tier 2: Redirect
+        if (badge.includes('🌟')) return 3 // Tier 3: Superstar
+        if (badge.includes('⭐')) return 4 // Tier 4: Star
+        return 5 // Tier 5: Regular
+      }
+
+      const isCatalogLine = (str) =>
+        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️?|🌟)\s+)?(?:\*\*)?\[[^\]]+\]/u.test(str)
+
+      let start = index
+      while (start > 0 && isCatalogLine(lines[start - 1])) {
+        start--
+      }
+
+      let end = index
+      while (end < lines.length - 1 && isCatalogLine(lines[end + 1])) {
+        end++
+      }
+
+      const N = end - start + 1
+
+      if (N > 1) {
+        const blockTiers = []
+        for (let k = start; k <= end; k++) {
+          blockTiers.push(getTier(lines[k]))
+        }
+
+        const dp = new Array(N).fill(1)
+        const parent = new Array(N).fill(-1)
+
+        for (let i = 0; i < N; i++) {
+          for (let j = 0; j < i; j++) {
+            if (blockTiers[j] <= blockTiers[i]) {
+              if (dp[j] + 1 > dp[i]) {
+                dp[i] = dp[j] + 1
+                parent[i] = j
+              }
+            }
+          }
+        }
+
+        let maxLen = 0
+        let maxIdx = -1
+        for (let i = 0; i < N; i++) {
+          if (dp[i] >= maxLen) {
+            maxLen = dp[i]
+            maxIdx = i
+          }
+        }
+
+        const inLNDS = new Set()
+        let curr = maxIdx
+        while (curr !== -1) {
+          inLNDS.add(curr)
+          curr = parent[curr]
+        }
+
+        const localIdx = index - start
+
+        if (!inLNDS.has(localIdx)) {
+          const currentTier = blockTiers[localIdx]
+          const titleMatch = line.match(/\[[^\]]+\]/)
+          const offendingMatch = titleMatch
+            ? titleMatch[0]
+            : line.trim().slice(0, 20)
+          const matchIndex = titleMatch
+            ? line.indexOf(titleMatch[0])
+            : line.indexOf('*')
+
+          addError(
+            `Hierarchy violation, Wrong or missing featured emoji: Tier ${currentTier} entry is out of sequence in this block`,
+            offendingMatch,
+            matchIndex !== -1 ? matchIndex : 0
+          )
+        }
+      }
+    }
+
+    // ---------------------------------------------------------------------
+    // REPORTER
+    // ---------------------------------------------------------------------
+
     if (errors.length > 0) {
       hasErrors = true
-      const trimmed = line.trim()
-      errors.forEach(({ message, match }) => {
-        // file:line - Error (in red/cyan)
-        console.log(
-          `${color(36, `${relativePath}:${lineNum}`)} - ${color(31, message)}`
-        )
-        // Source line (dimmed)
-        console.log(`  ${color(90, trimmed)}`)
-        // Underline the offending span with carets (compiler-style), aligned
-        // under the 2-space-indented source line above. Works with or without
-        // color, which matters for captured logs (VS Code, CI) that show plain text.
-        const idx = match ? trimmed.indexOf(match) : -1
-        if (idx !== -1) {
-          const caret = ' '.repeat(2 + idx) + '^'.repeat(match.length || 1)
-          console.log(color(31, caret))
+      totalErrors += errors.length
+      filesWithErrors.add(file)
+
+      const cleanPath = relativePath.replace(/\\/g, '/')
+      const locationStr = color('1;36', cleanPath) + color(36, `:${lineNum}`)
+
+      // Single Line Header (clean file:line location without per-line badges)
+      console.log(locationStr)
+
+      let searchOffset = 0
+
+      // Loop through each individual error on this line
+      errors.forEach((err) => {
+        const message = typeof err === 'string' ? err : err.message
+        const match = typeof err === 'string' ? err : err.match || null
+        const index = typeof err === 'string' ? -1 : err.index
+
+        let idx =
+          index !== undefined && index !== -1
+            ? index
+            : match
+              ? line.indexOf(match, searchOffset)
+              : -1
+
+        // Bulleted Error Message
+        console.log(`  ${color('38;5;141', '- ' + message)}`)
+
+        if (idx !== -1 && match) {
+          searchOffset = idx + 1
+
+          const contextLength = 23
+          const start = Math.max(0, idx - contextLength)
+          const end = Math.min(line.length, idx + match.length + contextLength)
+
+          const prefix = (start > 0 ? '... ' : '  ') + line.slice(start, idx)
+          const offendingText = line.slice(idx, idx + match.length)
+          const suffix =
+            line.slice(idx + match.length, end) +
+            (end < line.length ? ' ...' : '')
+
+          const highlightedMatch = color('43;30', offendingText)
+
+          // Indented context line (+2 spaces for bullet alignment)
+          console.log(
+            `  ${color(90, prefix)}${highlightedMatch}${color(90, suffix)}`
+          )
+
+          // Indented Carets matching context slice (+2 spaces)
+          const visualCaretIndex = prefix.length + 2
+          const caret =
+            ' '.repeat(visualCaretIndex) + '^'.repeat(match.length || 1)
+          console.log(color('1;33', caret))
+        } else {
+          console.log(`    ${color(90, line.trim().slice(0, 80))}`)
         }
       })
     }
@@ -800,8 +1136,21 @@ files.forEach((file) => {
 })
 
 if (!hasErrors) {
-  console.log('✅ No formatting issues found.')
+  const successIcon = isUnicodeSupported ? '✅' : '[OK]'
+  console.log(
+    `${color('1;32', successIcon)} ${color('1;32', 'No formatting issues found.')}\n`
+  )
 } else {
-  // console.log('\n❌ Issues found. Please review.');
+  const errorIcon = isUnicodeSupported ? '❌ ' : '[ERROR] >>>'
+  const issueLabel =
+    totalErrors === 1
+      ? '1 formatting issue'
+      : `${totalErrors} formatting issues`
+  const fileCount = filesWithErrors.size
+  const fileLabel = fileCount === 1 ? ' 1 file' : ` ${fileCount} files`
+
+  console.log(
+    `\n${color('1;31', errorIcon)} ${color('1;31', `${issueLabel} found across${fileLabel}.`)}\n`
+  )
   process.exit(1)
 }
