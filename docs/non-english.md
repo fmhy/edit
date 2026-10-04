@@ -1507,7 +1507,6 @@
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
-* [Doramasflix](https://doramasflix.co/) - Movies / TV
 * [⁠Descargatepelis](https://descargatepelis.com/) - Movies / TV / [Telegram](https://t.me/descargatepelis_oficial)
 * [fuegocine](https://www.fuegocine.com//) - Movies / TV / [Telegram](https://t.me/Cine_Fuego)
 * [⁠Pelisgo](https://pelisgo.online/) -  Movies / TV / [Telegram](https://t.me/pelisgochat)
