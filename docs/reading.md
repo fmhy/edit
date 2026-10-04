@@ -447,6 +447,7 @@
 * [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [Toonily](https://toonily.com/) - Manhwa / Some NSFW
+* [LilyManga](https://lilymanga.net/) - Yuri / Some NSFW
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga

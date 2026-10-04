@@ -138,6 +138,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '💾 Backups', link: '/other/backups' },
       { text: '📖 Piracy Glossary', link: 'https://fluffle.cc/piracyglossary' },
       { text: '🕊️ SFW FMHY', link: 'https://fmhy.xyz/' },
+      { text: '🏷️ FMHY Badge', link: 'https://jmcrafter26.github.io/badges/cozy/?search=fmhy' },
       { text: '🎨 Wallpapers', link: '/other/wallpapers' },
       {
         text: '💡 Site Hunting',

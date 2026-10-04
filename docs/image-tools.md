@@ -53,7 +53,7 @@
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
-* [Pixelcut](https://www.pixelcut.ai/) - Background Remover / Web
+* [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 
@@ -584,6 +584,7 @@
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
+* [⁠AutoRemesher](https://github.com/huxingyi/autoremesher) - Automatic Quad Remeshing Tool
 * [Ninja Ripper](https://gamebanana.com/tools/5638) / [2](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
 
 ***
@@ -813,6 +814,7 @@
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
 * [GIFYU](https://gifyu.com/) - 50MB (100MB w/ Account) / Forever
 * [ThumbSnap](https://thumbsnap.com/) - 48MB / Forever
+* [⁠AnonPic](https://anonpic.net/) - 32MB / Forever
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
 * [⁠Img Fish](https://img.fish/) - 95MB / Forever

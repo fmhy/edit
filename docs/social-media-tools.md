@@ -590,7 +590,8 @@
 
 * 🌐 **[BlueskyDirectory](https://blueskydirectory.com/)** - Bluesky Resources
 * 🌐 **[⁠ATStore](https://atstore.fyi/)** - AT Protocol Based Web Apps
-* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative 
+* ⭐ **[Bluesky](https://bsky.app/)** - Federated Twitter Alternative
+* [⁠WitchSky](https://witchsky.app/) - Bluesky Frontend
 * [Follower Bridge](https://github.com/kawamataryo/sky-follower-bridge) - Import Following from Twitter/X
 * [Twitter/X Import](https://tangled.org/marcomaroni.it/twitter-to-bluesky) - Import Tweets from Twitter/X
 * [Tuisky](https://github.com/sugyan/tuisky) - TUI Client
