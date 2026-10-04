@@ -1290,6 +1290,7 @@
 * ⭐ **[KinoGo](https://kinogo.ec/)**, [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
 * ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
 * ⭐ **[AnimeLIB](https://animelib.org/)** - Anime / Sub / Dub / 1080p (account required) / [Telegram](https://t.me/mangalib_social)
+* ⭐ **[AnimeGO](https://animego.me/)** - Anime / Sub / Dub / 1080p / Region Locked
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.es/) - Movies / TV / Dub / 1080p
@@ -1462,7 +1463,7 @@
 
 ## ▷ Torrenting / Torrentear
 
-* ⭐ **[MejorTorrent](https://www36.mejortorrent.eu/)** - Movies / TV / Documentaries / Castilian / [Status](https://privtr.ee/@mejortorrent)
+* ⭐ **[MejorTorrent](https://www36.mejortorrent.eu/)**, [2](https://www46.mejortorrent.eu/) - Movies / TV / Documentaries / Castilian / [Status](https://privtr.ee/@mejortorrent)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * [DonTorrent](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/) / [Status](https://privtr.ee/@dontorrent) / [Telegram](https://t.me/s/DonTorrent)
 * [EliteTorrent](https://www.elitetorrent.com/) - Movies / TV
@@ -1582,6 +1583,7 @@
 * [mangavault](https://mangavault.lat/) - Manga / Some NSFW / [Discord](https://discord.com/invite/GEzeWRRShM)
 * [⁠Spnmanga](https://www.spnmanga.com/) - Manga
 * [⁠M440](https://m440.in/) - Manga
+* [⁠Animebbg](https://animebbg.net/) - Manga
 * [anzmangashd](https://www.anzmanga25.com/) - Manga
 * [vermanhwa](https://vermanhwa.com/) - Manga
 * [manhwaweb](https://manhwaweb.top/) - Manhwa / Manga / Some NSFW / [Discord](https://discord.com/invite/BRY6qya8uc)

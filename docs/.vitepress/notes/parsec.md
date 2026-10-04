@@ -1,3 +1,3 @@
 #### Parsec
 
-Note that Linux cannot be the host for Parsec.
+Note that Linux and Android cannot be the host for Parsec.

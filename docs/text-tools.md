@@ -135,7 +135,7 @@
 * [Writing Tools](https://github.com/theJayTea/WritingTools) / Windows, macOS, Linux
 * [QuillBot](https://quillbot.com/grammar-check) / Web / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
 * [DeepL Write](https://www.deepl.com/write) / Web
-* [⁠Kagi Proofread](https://translate.kagi.com/proofread) / Web
+* [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Signup Required / Web
 
 ***
 
@@ -260,6 +260,9 @@
 * [OurBoard](https://www.ourboard.io/) - Whiteboard
 * [Whiteboard.fi](https://whiteboard.fi/) - Whiteboard
 * [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
+* [LucidSpark](https://lucid.co/lucidspark) - Idea / Collaboration Whiteboards
+* [Creately](https://creately.com/) - Idea / Collaboration Whiteboards
+* [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
 
 ***
 
@@ -270,7 +273,7 @@
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite / [Web](https://edit.chaxus.com/)
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) / [macOS](https://massgrave.dev/office_for_mac) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
-* [Ziziyi](https://office.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
+* [Ziziyi](https://office.ziziyi.com/), [2](https://o.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
 * [Office365Version](https://www.office365versions.com/) - Office 365 Version History
 
 ***
@@ -554,6 +557,7 @@
 * ⭐ **[wFonts](https://wfonts.com/)**
 * ⭐ **[BeFonts](https://befonts.com/)**
 * [Free Fonts Family](https://freefontsfamily.com/)
+* [Tunera Type Foundry](https://www.tunera.xyz/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [⁠FontFreak](https://www.fontfreak.com/)
 * [FontsFree](https://fontsfree.net)

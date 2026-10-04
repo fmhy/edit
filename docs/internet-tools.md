@@ -483,6 +483,7 @@
 * [TempMail Cloud](https://tempmail.cloud/) - Forever / Forever (w/ account) / 21 Domains
 * [Temporary-Mail](https://temporary-mail.net/) - Forever / 11 Domains
 * [48hr.email](https://48hr.email/) - Forever / 2 Days / 7 Domains
+* [⁠MeowMail](https://meowmail.in/) - 1 Hour / 1 Hour / 4 Domains
 * [NiceMail](https://mailporary.com/) - Forever / 1 Day / 3 Domains
 * [⁠Temporary Mail](https://mail.sunls.de/) - 10 Days / 3 Domains / [GitHub](https://github.com/sunls24/tmail/blob/main/README-en.md)
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
