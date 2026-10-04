@@ -18,27 +18,28 @@
 * ⭐ **[AnkerGames](https://ankergames.to/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
-* ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / Use Adblock / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep) 
+* ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep)
+* ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[⁠GOG Revived](https://gog-rev.com/)** - Download / Torrent / GOG Games Only / [Discord](https://discord.gg/pH6avrdHHC)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / PW: `online-fix.me` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/onlinefix) / [Discord](https://discord.gg/yExgFYncMD)
-* ⭐ **[ZeiGames](https://zeigames.com/)** - Download / Pre-Installed / Multiplayer / Use Adblock / [Discord](https://discord.gg/6KWStFYSTj)
+* ⭐ **[ZeiGames](https://zeigames.com/)** - Download / Pre-Installed / Multiplayer / [Discord](https://discord.gg/6KWStFYSTj)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / PW: `www.ovagames.com` / [Requires Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Requires Sign-Up
 * ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / PW: `404`
-* [scene cat](https://rentry.co/FMHYB64#scene-cat) - Scene Release Download / [Discord](https://discord.gg/wXdNEhf73x)
+* [warez-chan](https://rentry.co/FMHYB64#warez-chan) - Scene Release Downloads
 * [Glitchify Archives](https://glitchify.org/) - Download / ROM Repacks / [Discord](https://discord.gg/pH6avrdHHC)
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installed / GOG Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/+MoOJzMf3MJgyMzZi)
-* [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
-* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use Adblock / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
+* [⁠Cracked-Games](https://cracked-games.org/) - Download / [Discord](https://discord.com/invite/hG4TEBTBjw)
+* [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
 * [⁠IceQueens Portables](https://game-box.win/) - Torrent / Download / Portables
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [GamePCFull](https://gamepcfull.com/) - Download
-* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/NotSteamGG/) / [Discord](https://discord.com/invite/Rw6AT3hZZE)
-* [⁠The Dark Games](https://the-dark-games.com/) - Download / Pre-Installed / Use Adblock / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
+* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/NotSteamGG/) / [Discord](https://discord.com/invite/Rw6AT3hZZE)
+* [⁠The Dark Games](https://the-dark-games.com/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [⁠GOG Archive](https://gog.squid.wtf/) or [FreeGOGPCGames](https://freegogpcgames.com/) / [Hash Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/freegogpcgames-note.md) - Torrent / GOG Games Archives
 * [⁠The Vulpes Archives](https://rentry.co/the-vulpes-archives) - Download
 * [RuTracker Uploaders](https://rentry.co/rutrackertrustedgameuploaders) - ⁠Trusted RuTracker Game Uploaders
@@ -179,8 +180,8 @@
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
-* [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) - Majora's Mask Port / [Discord](https://discord.gg/AWZThJ4dPf)
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [GitHub](https://github.com/HarbourMasters/Shipwright)
+* [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) / [Discord](https://discord.gg/AWZThJ4dPf) or [⁠2Ship2Harkinian](https://github.com/2ship2harkinian/2ship2harkinian) / [Discord](https://discord.com/invite/sxrPyuh697) - Majora's Mask Ports
 * [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Installed via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)
 * [⁠skate: recompiled](https://github.com/mchughalex/skate3recomp) - Skate 3 Xbox 360 Recompilation
@@ -263,7 +264,7 @@
 * [Age of the Ring](https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) - LOTR: The Battle for Middle-Earth II Revival Mod / [Discord](https://discord.com/invite/MB8Kj9N)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation / [Discord](https://discord.com/invite/NvF3pdV)
 * [OpenNox](https://github.com/opennox/opennox) - Nox Revival Project / [Discord](https://discord.gg/HgDUeXhAyW)
-* [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project / [Discord](https://discord.gg/zUuABEc6at)
+* [r/MinecraftStoryMode](https://www.reddit.com/r/MinecraftStoryMode/) - Minecraft Story Mode Revival Project
 * [Peacock](https://thepeacockproject.org/) - Hitman World of Assassination Server Replacement / [GitHub](https://github.com/thepeacockproject/Peacock)
 * [⁠Lunar Tear](https://lunar-tear.com/) - NieR Reincarnation Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
@@ -431,7 +432,7 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
-* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games** / [Discord](https://discord.gg/BVc63GqV7Y)
+* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
@@ -482,6 +483,7 @@
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [⁠BBC Micro Games Archive](https://bbcmicro.co.uk/) - BBC Micro Emulator
 * [QAOP](https://torinak.com/qaop/games) - ZX Spectrum Browser Emulator
+* [⁠JavaGames](https://javagames.cc/) - Java 2 Micro (J2ME) Browser Emulator / [Discord](https://discord.gg/MYNtyZNFBa)
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
 
@@ -491,7 +493,7 @@
 
 * 🌐 **[Think Labyrinth](https://www.astrolog.org/labyrnth.htm)** - Encyclopedia of Maze Algorithms and Resources
 * ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/) or [Arkadium](https://www.arkadium.com/) - Daily Word + Puzzle Games
+* [⁠Puzzmo](https://www.puzzmo.com/), [Ponder Club](https://ponderclub.co/), [⁠GuessDash](https://guessdash.com/) or [Arkadium](https://www.arkadium.com/) - Daily Word, Guessing & Puzzle Games
 * [⁠ThinkyGames](https://thinkygames.com/games/?free=true&platforms=Web) - Indie Puzzle Games 
 * [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games / [Discord](https://discord.gg/YJp77jFzWv)
 * [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
@@ -556,7 +558,7 @@
 * ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
 * [⁠Forkyz](https://gitlab.com/Hague/forkyz) - Multi-Platform Crossword App / [Sources](https://hague.gitlab.io/forkyz/)
 * [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
-* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords / [Discord](https://discord.gg/PwvKmJE6Xp)
+* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
@@ -668,7 +670,9 @@
 * ↪️ **[Tabletop Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_tabletop_tools)**
 * ⭐ **[World of Card Games](https://worldofcardgames.com/)** - Multiplayer Card Games
 * ⭐ **[Codenames](https://codenames.game/)** - Party Card Game
-* [⁠Cardlike](https://cardlike.io/), [2](https://channa.itch.io/cardlike) - Balatro-Style Game 
+* [⁠Cardlike](https://cardlike.io/), [2](https://channa.itch.io/cardlike) - Balatro-Style Game
+* [⁠FizzPoker](https://www.fizzpoker.com/), [Poker Now](https://www.pokernow.com/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [CardGames.io](https://cardgames.io/) - Multiplayer Card Games
 * [247Games](https://www.247games.com/) - Multiplayer Card Games
 * [CardzMania](https://www.cardzmania.com/) - Multiplayer Card Games
@@ -685,8 +689,6 @@
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards Using Wikidata
 * [Solitaired](https://solitaired.com/), [Solitr](https://www.solitr.com/), [⁠Classic Klondike Solitaire](https://classicklondikesolitaire.com/free-solitaire-games), [Solitaire Owl](https://solitaireowl.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Online Solitaire
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, macOS, Linux / [GitHub](https://github.com/shlomif/PySolFC)
-* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
-* [Poker Now](https://www.pokernow.com/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 
 ***
 
@@ -732,7 +734,7 @@
 * [Rhythm Plus](https://rhythm-plus.com), [2](https://rhythmplus.io/) - Rhythm Game / [Discord](https://discord.com/invite/ZGhnKp4) / [GitHub](https://github.com/henryzt/Rhythm-Plus-Music-Game)
 * [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Discord](https://discord.gg/aB6ucmx) / [GitHub](https://github.com/bemusic/bemuse)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Letter Tile Rhythm Game
-* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
+* [Rooms](https://rooms.xyz/) - Room Design Game
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
 * [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game
@@ -761,7 +763,7 @@
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator
 * [Game-Game](https://game-game.com/) - Browser Game Aggregator
 * [Flash Library](https://rentry.co/FMHYB64#software-library-flash) - Browser Game Aggregator
-* [Y8](https://www.y8.com/) - Browser Game Aggregator / [Discord](https://discord.com/invite/ba9yXh)
+* [Y8](https://www.y8.com/) - Browser Game Aggregator
 * [Alfy](https://www.alfy.com/) - Browser Game Aggregator
 * [⁠Plays.org](https://plays.org/) - Browser Game Aggregator
 * [Miniplay](https://www.miniplay.com/) - Browser Game Aggregator

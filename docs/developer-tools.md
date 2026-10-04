@@ -234,7 +234,7 @@
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** / [Desktop App](https://www.docker.com/products/docker-desktop/) - Build, Manage and Run Apps in Containers
 * ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) - Root-less, Daemon-less, Open Source Docker Alternative / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose)
-* ⭐ **[Portainer](https://portainer.io/)**, [Dockhand](https://dockhand.pro/) / [GitHub](https://github.com/Finsys/dockhand), [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
+* ⭐ **[Portainer](https://portainer.io/)** / [GitHub](https://github.com/portainer/portainer), [Dockhand](https://dockhand.pro/) / [GitHub](https://github.com/Finsys/dockhand), [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)** - Compose Docker Files
 * ⭐ **[Docker Hub](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [LazyDocker](https://github.com/jesseduffield/lazydocker), [oxker](https://github.com/mrjackwills/oxker), [Arcane](https://getarcane.app/) / [GitHub](https://github.com/getarcaneapp/arcane) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
@@ -528,7 +528,6 @@
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / Muse Spark 1.3 / MiMo-2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
-* ⭐ **[Aider](https://aider.chat/)** - Terminal Coding Agent / [Discord](https://discord.com/invite/Y7X7bhMQFV) / [GitHub](https://github.com/Aider-AI/aider)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenChamber](https://openchamber.dev/) - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
@@ -773,7 +772,7 @@
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, **[Tally](https://tally.so/)**, [FormBricks](https://github.com/formbricks/formbricks) or [Deformity](https://deformity.ai/) - Form Builders
-* ⭐ **[Playwright](https://playwright.dev/)**, [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
+* ⭐ **[Playwright](https://playwright.dev/)**, [Browser Use](https://browser-use.com/) / [Harness](https://browser-harness.com/) / [GitHub](https://github.com/browser-use/browser-use), [Selenium](https://www.selenium.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://www.goautoma.com/extension/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
 * [⁠cron-job](https://cron-job.org/) - Web-Based Cron Job / Automation Scheduler
 * [Flounder](https://flounder.online/) - Website Building Discussion
@@ -1007,7 +1006,7 @@
 * 🌐 **[FreeHosts](https://freehosts.eu/)** or **[Awesome-Web-Hosting](https://nuhmanpk.github.io/Awesome-Web-Hosting/)** / [GitHub](https://github.com/nuhmanpk/Awesome-Web-Hosting) - Free Hosting Provider Indexes
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://vpsfilter.com/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
-* ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
+* ⭐ **[TLDES](https://tldes.com/)**, [TLDHub](https://tldhub.com/), [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
 * ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide

@@ -18,7 +18,6 @@
 * [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery 
 * [Textify](https://ramensoftware.com/textify) or [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) / [GitHub](https://github.com/simon-knuth/scanner) or [NAPS2](https://www.naps2.com/) - Scanner Apps
-* [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - Text to Handwriting Converters
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing / [GitHub](https://github.com/docusealco/docuseal)
 * [Asciify](https://asciify.dev/) - ASCII Character Reference Chart
 
@@ -32,6 +31,7 @@
 * ⭐ **[Fluffle](https://fluffle.cc/)** - Markdown Support / Custom URLs / [Styling](https://fluffle.cc/docs/markdown) / [Source Code](https://git.0x8e.net/t/fluffle) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/fluffle-note.md)
 * ⭐ **[Yasosu](https://yaso.su/)** - Multi-Syntax / Markdown Support / Custom URLs / [Telegram](https://t.me/yaso_updates)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
+* [Paster](https://paster.net/) - Multi-Syntax / Markdown Support
 * [Text.is](https://text.is/) - Markdown Support
 * [Bpaste](https://bpa.st/), [2](https://bpa.st/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/supakeen/pinnwand)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
@@ -135,7 +135,7 @@
 * [Writing Tools](https://github.com/theJayTea/WritingTools) / Windows, macOS, Linux
 * [QuillBot](https://quillbot.com/grammar-check) / Web / [Extension](https://quillbot.com/app) / [Features](https://rentry.co/FMHYB64#quill)
 * [DeepL Write](https://www.deepl.com/write) / Web
-* [⁠Kagi Proofread](https://translate.kagi.com/proofread) / Web
+* [⁠Kagi Proofread](https://translate.kagi.com/proofread) - Signup Required / Web
 
 ***
 
@@ -236,12 +236,33 @@
 * [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects / Android
 * [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE / All Platforms
 * [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / All Platforms / [Web](https://app.standardnotes.com/) / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
+* [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
+* [Moe Memos](https://memos.moe/) - Self-Hosted Note-Taking App / Android
+
+***
+
+## ▷ Whiteboards / Handwritten
+
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/)
+* ⭐ **[OpenBoard](https://openboard.ch/en)** - Whiteboard
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / Windows, macOS, Linux / [GitHub](https://github.com/xournalpp/xournalpp)
+* [rNote](https://rnote.flxzt.net/) - Handwritten Notes / Windows, macOS, Linux / [GitHub](https://github.com/flxzt/rnote)
 * [Notein](https://www.notein.ai/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Handwritten Notes / Android
-* [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
-* [Moe Memos](https://memos.moe/) - Self-Hosted Note-Taking App / Android
+* [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - Text to Handwriting Converters
+* [tldraw](https://www.tldraw.com/) - Whiteboard
+* [DGM](https://app.dgmjs.dev/) - Whiteboard
+* [NotebookCast](https://www.notebookcast.com/) - Whiteboard
+* [WebWhiteboard](https://webwhiteboard.com/) - Whiteboard
+* [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4) - Whiteboard
+* [WBO](https://wbo.ophir.dev/) - Whiteboard
+* [OurBoard](https://www.ourboard.io/) - Whiteboard
+* [Whiteboard.fi](https://whiteboard.fi/) - Whiteboard
+* [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
+* [LucidSpark](https://lucid.co/lucidspark) - Idea / Collaboration Whiteboards
+* [Creately](https://creately.com/) - Idea / Collaboration Whiteboards
+* [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
 
 ***
 
@@ -252,7 +273,7 @@
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite / [Web](https://edit.chaxus.com/)
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) / [macOS](https://massgrave.dev/office_for_mac) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
-* [Ziziyi](https://office.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
+* [Ziziyi](https://office.ziziyi.com/), [2](https://o.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
 * [Office365Version](https://www.office365versions.com/) - Office 365 Version History
 
 ***
@@ -340,7 +361,7 @@
 * 🌐 **[MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)** - Text Embedding AI Leaderboard
 * [⁠QSV](https://github.com/dathere/qsv) or [Xan](https://github.com/medialab/xan) - CSV CLI Toolkits
 * [⁠Proton Sheets](https://proton.me/drive/sheets) / [Discord](https://discord.com/invite/proton), [DOCX Editor](https://www.docx-editor.dev/editor) / [GitHub](https://github.com/eigenpal/docx-editor), [⁠dSheets](https://sheets.fileverse.io/) or [EditCSVOnline](https://editcsv.com/) - Online Spreadsheet Viewers / CSV Editors
-* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
+* [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [⁠SmoothCSV](https://smoothcsv.com/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Framacalc](https://framacalc.org/) or [EtherCalc](https://ethercalc.net/) / [GitHub](https://github.com/audreyt/ethercalc) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [⁠Excel Easy](https://www.excel-easy.com/) - Excel / Spreadsheet Guide 
@@ -362,7 +383,7 @@
 * ⭐ **[NovelWriter](https://novelwriter.io/)** - Novel Editor
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
-* [Writality](https://www.writality.com/) - Novel Editor / [Discord](https://discord.gg/SFQvne7re)
+* [Writality](https://www.writality.com/) - Novel Editor
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) - Novel Editor
@@ -372,7 +393,7 @@
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
 * [⁠Heavyweight](https://heavyweight.cc/) - Generate Important-Looking Letters 
-* [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
+* [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
@@ -381,7 +402,6 @@
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
 * [Label Buddy](https://jeromedockes.github.io/labelbuddy/labelbuddy/current/) - Annotation Tool / [GitHub](https://github.com/jeromedockes/labelbuddy)
-* [rNote](https://rnote.flxzt.net/) - Annotation Tool / [GitHub](https://github.com/flxzt/rnote)
 * [MonsterWriter](https://www.monsterwriter.com/) - Thesis Writing / Note-Taking
 * [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer) - Note-Taking App for Writers / Android
 
@@ -537,6 +557,7 @@
 * ⭐ **[wFonts](https://wfonts.com/)**
 * ⭐ **[BeFonts](https://befonts.com/)**
 * [Free Fonts Family](https://freefontsfamily.com/)
+* [Tunera Type Foundry](https://www.tunera.xyz/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [⁠FontFreak](https://www.fontfreak.com/)
 * [FontsFree](https://fontsfree.net)

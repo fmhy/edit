@@ -102,7 +102,7 @@ export const christmasTheme: Theme = {
       },
       bg: 'rgb(26, 26, 26)',
       bgAlt: 'rgb(23, 23, 23)',
-      bgElv: 'rgba(23, 23, 23, 0.8)',
+      bgElv: '#242424',
       button: {
         brand: {
           bg: '#155C2F',

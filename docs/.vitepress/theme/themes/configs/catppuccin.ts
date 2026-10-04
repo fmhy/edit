@@ -26,7 +26,7 @@ export const catppuccinTheme: Theme = {
         1: '#9345ed',
         2: '#7c3aed',
         3: '#ad82dfff',
-        soft: '#a78bfa'
+        soft: '#f5f0ff'
       },
       bg: '#f8fafc',
       bgAlt: '#eef2f5',
@@ -45,8 +45,8 @@ export const catppuccinTheme: Theme = {
           hoverText: 'rgba(42, 40, 47)',
           hoverBg: '#a78bfa',
           activeBorder: '#a78bfa',
-          activeText: 'rgba(42, 40, 47)',
-          activeBg: '#8b5cf6'
+          activeText: '#ffffff',
+          activeBg: '#7c3aed'
         },
         alt: {
           bg: '#484848',
@@ -97,7 +97,7 @@ export const catppuccinTheme: Theme = {
         1: '#CBA6F6',
         2: '#7c3aed',
         3: '#ad82dfff',
-        soft: '#a78bfa'
+        soft: '#35274a'
       },
       bg: '#1F1E2E',
       bgAlt: '#1E1E29',

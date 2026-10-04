@@ -22,6 +22,7 @@
 * [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Userscript](https://github.com/AdguardTeam/PopupBlocker)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://www.bsbsb.top/) - Skip Sponsored Bilibili Ads / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)
+* [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Bypass YouTubes Forced uBO Player Delay
 
 ***
 
@@ -53,18 +54,16 @@
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
 * [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
-* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
 * [Tiarap](https://doh.tiar.app/) - DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)
 * [Rethink DNS](https://rethinkdns.com/configure) - DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
-* [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)
 * [AdGuard DNS](https://adguard-dns.io/) - Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)
 * [Control D](https://controld.com/free-dns) - Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
+* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [GitHub](https://github.com/nextdns/nextdns)
 * [NxFilter](https://nxfilter.org/) - Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [Source Code](https://codeberg.org/tblock/tblock)
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
-* [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
 
 ***
@@ -80,6 +79,7 @@
 * [Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
 * [neodevhost](https://github.com/neodevpro/neodevhost)
 * [1Hosts](https://o0.pages.dev/) / [2](https://badmojr.github.io/1Hosts/) / [GitHub](https://github.com/badmojr/1Hosts)
+* [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
 
 ***
 
@@ -169,7 +169,7 @@
 * [⁠DataRequests](https://www.datarequests.org/) - GDPR Request Generator / Tools / [GitHub](https://github.com/datenanfragen)
 * [Surfer Protocol](https://github.com/Surfer-Org/Protocol) - Multi-Platform User Data Exporter / [Discord](https://discord.gg/5KQkWApkYC)
 * [GnuPG](https://gnupg.org/) - Data / Communication Encryption Tool / [Installer](https://www.gpg4win.org/) / [Key Manager](https://github.com/orhun/gpg-tui)
-* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [One Time Secrets](https://ots.fyi/) / [GitHub](https://github.com/Luzifer/ots), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
+* [PrivNote](https://privnote.com/), [PrivateBin](https://privatebin.net/), [One Time Secrets](https://ots.fyi/) / [GitHub](https://github.com/Luzifer/ots), [SafeNote](https://safenote.co/) / [GitHub](https://github.com/devrolabs), [Burn.Link](https://burn.link/), [s.cr](https://s.cr/), [Yopass](https://yopass.se/) / [GitHub](https://github.com/jhaals/yopass), [Hemmelig](https://hemmelig.app/) / [GitHub](https://github.com/HemmeligOrg/Hemmelig.app), [Nyanbin](https://nyan.ist/) / [GitHub](https://github.com/feelmypain/nyanbin), [Burn My Note](https://www.burnmynote.link/) or [OneTimeSecret](https://onetimesecret.com/) / [GitHub](https://github.com/onetimesecret/onetimesecret) - Self-Destructing Messages / Private Notes
 * [⁠Portable Secret](https://alcazarsec.github.io/portable-secret/) - Self-Contained HTML Files that Decrypt Locally in Browser / [GitHub](https://github.com/alcazarsec/portable-secret)
 * [Forensic Focus](https://www.forensicfocus.com/forums/) - Digital Forensics Discussion Forums / [Discord](https://discord.gg/97zKvTXHeS)
 * [SurveillanceWatch](https://www.surveillancewatch.io/) - Surveillance Company Connections

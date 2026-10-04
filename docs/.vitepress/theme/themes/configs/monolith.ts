@@ -12,7 +12,7 @@ export const monolithTheme: Theme = {
         1: '#D81B70',
         2: '#2D0B80',
         3: '#0047B8',
-        soft: '#3AA8D8'
+        soft: '#E8F4FD'
       },
       bg: '#F5FBFF',
       bgAlt: '#E8F4FD',
@@ -20,7 +20,7 @@ export const monolithTheme: Theme = {
       text: {
         1: '#0A0E1A',
         2: '#3A4560',
-        3: '#6B7B9A'
+        3: '#53627B'
       },
       button: {
         brand: {
@@ -84,20 +84,20 @@ export const monolithTheme: Theme = {
         1: '#F42A8B',
         2: '#3A0CA3',
         3: '#005EFF',
-        soft: '#46C7FF'
+        soft: '#2A1730'
       },
       bg: '#06070B',
       bgAlt: '#0A0B12',
-      bgElv: 'rgba(6, 7, 11, 0.95)',
+      bgElv: '#0E101A',
       text: {
         1: '#D2F4FF',
         2: '#A8C5D6',
-        3: '#467085'
+        3: '#7596A8'
       },
       button: {
         brand: {
-          bg: '#F42A8B',
-          border: '#F42A8B',
+          bg: '#D81B70',
+          border: '#D81B70',
           text: '#FFFFFF',
           hoverBorder: '#D81B70',
           hoverText: '#FFFFFF',
@@ -118,7 +118,7 @@ export const monolithTheme: Theme = {
           bg: '#0D1B2A',
           border: '#005EFF',
           text: '#46C7FF',
-          textDeep: '#005EFF'
+          textDeep: '#46C7FF'
         },
         tip: {
           bg: '#0D2818',
@@ -136,7 +136,7 @@ export const monolithTheme: Theme = {
           bg: '#2D0A0A',
           border: '#DC2626',
           text: '#F87171',
-          textDeep: '#DC2626'
+          textDeep: '#F87171'
         }
       },
       selection: {

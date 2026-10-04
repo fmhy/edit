@@ -1,205 +1,67 @@
 <script setup lang="ts">
-import type { DisplayMode } from '../themes/types'
-import { useData } from 'vitepress'
-import { computed, inject, onMounted, onUnmounted, ref } from 'vue'
-import { useTheme } from '../themes/themeHandler'
-import { revealThemeChange } from '../themes/themeTransition'
+import { onMounted, onUnmounted, ref } from 'vue'
+import AppearancePanel from './AppearancePanel.vue'
 
-const { mode, amoledEnabled, setAppearance } = useTheme()
-
-// VitePress runs VueUse's `useDark` whenever `appearance` is enabled in config,
-// and that re-applies the `.dark` class from its own storage key on every load.
-// Keep its `isDark` in step with our handler so (a) consumers like Tag.vue read
-// the right mode and (b) VueUse never fights our class on the next page load.
-const { isDark } = useData()
-
-const closeScreen = inject('close-screen', null) as (() => void) | null
-
-const wrapperRef = ref<HTMLElement | null>(null)
 const dropdownRef = ref<{
   hide: (options?: { skipDelay?: boolean }) => void
 } | null>(null)
 const shown = ref(false)
 
-interface ModeChoice {
-  mode: DisplayMode
-  label: string
-  icon: string
-  isAmoled?: boolean
-}
-
-const modeChoices: ModeChoice[] = [
-  { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
-  { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
-  {
-    mode: 'dark',
-    label: 'AMOLED',
-    icon: 'i-ph-moon-stars-duotone',
-    isAmoled: true
-  }
-]
-
-const currentChoice = computed(() => {
-  const current = mode.value
-  if (current === 'dark' && amoledEnabled.value) {
-    return modeChoices[2] // AMOLED option
-  }
-  return (
-    modeChoices.find((choice) => choice.mode === current && !choice.isAmoled) ||
-    modeChoices[0]
-  )
-})
-
-const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
-  event?.stopPropagation()
-
-  // Close every dropdown surface up front. `skipDelay` makes floating-vue
-  // commit the hide synchronously rather than on its delayed timer, so the
-  // popover is genuinely closed before the view transition snapshots the page
-  // (otherwise it is only CSS-hidden during the reveal and pops back when the
-  // transition restores the live DOM at the end).
+const closeDropdown = () => {
   dropdownRef.value?.hide({ skipDelay: true })
   shown.value = false
-  wrapperRef.value?.closest('.VPFlyout')?.classList.remove('open')
-  closeScreen?.()
-
-  if (isActiveChoice(choice)) {
-    return
-  }
-
-  await revealThemeChange(event, choice.mode === 'dark', () => {
-    if (choice.isAmoled) {
-      setAppearance('dark', true)
-    } else {
-      setAppearance(choice.mode, false)
-    }
-    // Mirror into VitePress's appearance state (same value our handler just set,
-    // so it's idempotent) so it persists and never reverts the class on reload.
-    isDark.value = choice.mode === 'dark'
-  })
-
-  // The view transition restores the live DOM when it finishes; re-assert the
-  // close so floating-vue can never leave the popover re-shown afterwards.
-  dropdownRef.value?.hide({ skipDelay: true })
 }
 
-const isActiveChoice = (choice: ModeChoice) => {
-  const current = mode.value
-  if (choice.isAmoled) {
-    return current === 'dark' && amoledEnabled.value
-  }
-  return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
-}
-
-let cleanupFlyout: (() => void) | null = null
-let parentOverrideTimeout: ReturnType<typeof setTimeout> | null = null
-
-// Logic to override the parent VPFlyout behavior to be click-based
-const setupParentFlyoutOverride = () => {
-  // Tear down any previous setup so listeners don't accumulate on re-runs.
-  if (cleanupFlyout) cleanupFlyout()
-
-  if (!wrapperRef.value) return
-
-  const flyout = wrapperRef.value.closest('.VPFlyout')
-  if (!flyout) return
-
-  // Add class to disable CSS hover via global style
-  flyout.classList.add('click-based-flyout')
-
-  // Find the toggle button
-  const button = flyout.querySelector('button')
-  if (!button) return
-
-  // Click handler for toggle
-  const toggleFlyout = () => {
-    flyout.classList.toggle('open')
-  }
-
-  button.addEventListener('click', toggleFlyout)
-
-  // Global click listener to close when clicking outside
-  const closeFlyout = (e: MouseEvent) => {
-    if (!flyout.contains(e.target as Node)) {
-      flyout.classList.remove('open')
-      shown.value = false
-    }
-  }
-
-  document.addEventListener('click', closeFlyout)
-  cleanupFlyout = () => {
-    flyout.classList.remove('click-based-flyout')
-    button.removeEventListener('click', toggleFlyout)
-    document.removeEventListener('click', closeFlyout)
-  }
+let desktopMedia: MediaQueryList | null = null
+const handleResponsiveLayoutChange = () => {
+  closeDropdown()
 }
 
 onMounted(() => {
-  // defer slightly to ensuring DOM is ready
-  parentOverrideTimeout = setTimeout(setupParentFlyoutOverride, 100)
+  desktopMedia = window.matchMedia('(min-width: 1280px)')
+  desktopMedia.addEventListener('change', handleResponsiveLayoutChange)
 })
 
 onUnmounted(() => {
-  if (parentOverrideTimeout) {
-    clearTimeout(parentOverrideTimeout)
-  }
-  if (cleanupFlyout) {
-    cleanupFlyout()
-  }
+  desktopMedia?.removeEventListener('change', handleResponsiveLayoutChange)
 })
 </script>
 
 <template>
-  <div ref="wrapperRef" class="theme-dropdown-wrapper">
-    <VDropdown
-      ref="dropdownRef"
-      v-model:shown="shown"
-      class="theme-dropdown"
-      theme="theme-selector"
-      :distance="12"
-      placement="bottom-end"
-      :triggers="['click']"
-      :popper-triggers="['click']"
-      :auto-hide="true"
-    >
-      <button
-        type="button"
-        class="theme-dropdown-toggle"
-        :title="currentChoice.label"
-        :aria-label="`Theme: ${currentChoice.label}`"
-      >
-        <ClientOnly>
-          <!-- Swap the icon instantly (no out-in fade): during a theme change
-               the navbar is frozen in the view-transition snapshot, and an
-               out-in gap would freeze an empty icon for the whole reveal. A
-               plain class swap keeps the new icon in the snapshot so it changes
-               as the reveal wipes across. -->
-          <div :class="[currentChoice.icon, 'text-xl']" />
-        </ClientOnly>
-      </button>
+  <div class="theme-dropdown-wrapper">
+    <div class="compact-theme-picker">
+      <AppearancePanel />
+    </div>
 
-      <template #popper>
-        <div class="theme-dropdown-content">
-          <button
-            v-for="(choice, index) in modeChoices"
-            :key="index"
-            v-close-popper
-            class="theme-dropdown-item"
-            :class="{ active: isActiveChoice(choice) }"
-            @click="selectMode(choice, $event)"
-          >
-            <Transition name="fade" mode="out-in">
-              <div :key="choice.label" :class="[choice.icon, 'text-lg']" />
-            </Transition>
-            <span>{{ choice.label }}</span>
-            <div
-              v-if="isActiveChoice(choice)"
-              class="i-ph-check text-lg ml-auto"
-            />
-          </button>
-        </div>
-      </template>
-    </VDropdown>
+    <div class="desktop-theme-picker">
+      <VDropdown
+        ref="dropdownRef"
+        v-model:shown="shown"
+        class="theme-dropdown"
+        theme="theme-selector"
+        :distance="12"
+        placement="bottom-end"
+        :triggers="['click']"
+        :popper-triggers="[]"
+        :auto-hide="true"
+      >
+        <button
+          type="button"
+          class="theme-dropdown-toggle"
+          :class="{ active: shown }"
+          title="Appearance and themes"
+          aria-label="Appearance and themes"
+        >
+          <ClientOnly>
+            <div class="i-ph-palette-duotone text-xl" />
+          </ClientOnly>
+        </button>
+
+        <template #popper>
+          <AppearancePanel />
+        </template>
+      </VDropdown>
+    </div>
   </div>
 </template>
 
@@ -217,6 +79,16 @@ onUnmounted(() => {
   height: 100%;
 }
 
+.desktop-theme-picker {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.compact-theme-picker {
+  display: none;
+}
+
 .theme-dropdown-toggle {
   display: flex;
   justify-content: center;
@@ -224,61 +96,36 @@ onUnmounted(() => {
   width: 36px;
   height: 36px;
   color: var(--vp-c-text-2);
-  transition: color 0.5s;
+  transition:
+    color 0.25s,
+    background-color 0.25s;
   background: transparent;
   border: none;
   cursor: pointer;
   border-radius: 8px;
 
-  &:hover {
-    color: var(--vp-c-text-1);
-    background: var(--vp-c-bg);
-    transition:
-      color 0.25s,
-      background 0.25s;
-  }
-}
-
-.theme-dropdown-content {
-  min-width: 180px;
-}
-
-.theme-dropdown-item {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  width: 100%;
-  padding: 8px 12px;
-  background: transparent;
-  border: none;
-  border-radius: 6px;
-  color: var(--vp-c-text-1);
-  cursor: pointer;
-  transition: background 0.2s;
-  font-size: 14px;
-  text-align: left;
-
-  &:hover {
-    background: var(--vp-c-bg);
-  }
-
+  &:hover,
   &.active {
-    color: var(--vp-c-brand-1);
-    font-weight: 500;
-  }
-
-  span {
-    flex: 1;
+    color: var(--vp-c-text-1);
+    background: var(--vp-c-default-soft);
   }
 }
 
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.25s ease;
-}
+@media (max-width: 1279px) {
+  .theme-dropdown-wrapper {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
 
-.fade-enter-from,
-.fade-leave-to {
-  opacity: 0;
+  .desktop-theme-picker {
+    display: none;
+  }
+
+  .compact-theme-picker {
+    display: block;
+    min-width: 0;
+    width: 100%;
+  }
 }
 </style>

@@ -411,9 +411,8 @@
 
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
 * [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
-* [GGNTW](https://ggntw.com/steam)
+* [GGNTW](https://ggntw.com/steam) - Login Required
 * [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD)
-* [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2)
 * [Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader)
 * [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader)
 * [Wallpaper Engine Workshop Downloader](https://gitlab.com/steamautocracks/wallpaperengineworkshopdownloader)
@@ -685,7 +684,7 @@
 * [Minemev](https://minemev.com/) or [MCBuild](https://mcbuild.org/) - Minecraft Farm / Build Schematics
 * [Block Palettes](https://www.blockpalettes.com/), [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) or [HueBlocks](https://1280px.github.io/hueblocks/) / [GitHub](https://github.com/1280px/hueblocks) - Block Color Palettes & Gradients
 * [Blockmatic](https://blockmatic.trafficlunar.net/) / [GitHub](https://github.com/trafficlunar/blockmatic), [MinecraftArt](https://minecraftart.org/), [MC Pixel Art Generator](https://minecraftpixelartgenerator.com/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Pixel Art Editors & Image Importers
-* [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) / [Discord](https://discord.com/invite/ccleaf) - Text Generators & Icons
+* [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) - Text Generators & Icons
 * [Note Block Studio](https://noteblock.studio/) / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS) - Audio Composer
 * [MiniMessageViewer](https://webui.advntr.dev/) / [Discord](https://discord.com/invite/MMfhJ8F) / [GitHub](https://github.com/KyoriPowered/adventure-webui) - MiniMessage web viewer
 * [SkyCrypt](https://sky.shiiyu.moe/) / [GitHub](https://github.com/SkyCryptWebsite/SkyCrypt-Frontend) or [Plancke](https://plancke.io/) - Hypixel Player Stats
@@ -870,7 +869,7 @@
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
 * [SmiteGuru](https://smite.guru/) - Smite Leaderboards
-* [RuneForge](https://runeforge.dev/) - Custom LoL Skins / [Discord](https://discord.com/invite/runeforge)
+* [RuneForge](https://runeforge.dev/) - Custom LoL Skins
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
 
@@ -1033,6 +1032,7 @@
 * [⁠Smogon](https://www.smogon.com/) - Competitive Pokémon Guides / [Discord](https://discord.gg/smogon)
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
 * [PKMDS](https://pkmds.app/) / [GitHub](https://github.com/codemonkey85/PKMDS-Blazor) or [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editors
+* [⁠PKForge](https://github.com/sofianeelhor/PKForge) - Pokémon Save Editor & Bank / Android / [Discord](https://discord.gg/bMtzZmTDfu)
 * [⁠Sky Editor](https://projectpokemon.org/home/files/file/1509-sky-editor-save-editor-for-pokemon-mystery-dungeon/) - Mystery Dungeon Save File Editor
 * [PMD Generators](https://syphist.com/pmd/) - Pokémon Mystery Dungeon Generators
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
