@@ -23,7 +23,7 @@ import {
 } from 'unocss'
 
 export default defineConfig({
-  blocklist: ['container'],
+  blocklist: ['container', 'outline'],
   content: {
     pipeline: {
       exclude: [/\.md($|\?)/]
@@ -56,13 +56,7 @@ export default defineConfig({
     'i-simple-icons:docker',
     'i-logos:docker-icon',
     'h-1em',
-    'w-1em',
-    'text-4xl',
-    'dark:text-text-2',
-    'text-black',
-    'font-extrabold',
-    'lg:text-5xl',
-    'lg:leading-[3.5rem]'
+    'w-1em'
   ],
   theme: {
     colors: {

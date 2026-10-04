@@ -9,15 +9,15 @@ export const monochromeTheme: Theme = {
         1: '#000000',
         2: '#1a1a1a',
         3: '#333333',
-        soft: '#666666'
+        soft: '#F0F0F0'
       },
       bg: '#FFFFFF',
       bgAlt: '#F5F5F5',
-      bgElv: 'rgba(255, 255, 255, 0.95)',
+      bgElv: '#FFFFFF',
       text: {
         1: '#000000',
         2: '#333333',
-        3: '#808080'
+        3: '#737373'
       },
       button: {
         brand: {
@@ -32,9 +32,9 @@ export const monochromeTheme: Theme = {
           activeBg: '#000000'
         },
         alt: {
-          bg: '#808080',
+          bg: '#666666',
           text: '#FFFFFF',
-          hoverBg: '#666666',
+          hoverBg: '#525252',
           hoverText: '#FFFFFF'
         }
       },
@@ -80,15 +80,15 @@ export const monochromeTheme: Theme = {
         1: '#FFFFFF',
         2: '#E0E0E0',
         3: '#CCCCCC',
-        soft: '#999999'
+        soft: '#333333'
       },
       bg: '#1a1a1a',
       bgAlt: '#171717',
-      bgElv: 'rgba(26, 26, 26, 0.95)',
+      bgElv: '#242424',
       text: {
         1: '#FFFFFF',
         2: '#CCCCCC',
-        3: '#808080'
+        3: '#8A8A8A'
       },
       button: {
         brand: {

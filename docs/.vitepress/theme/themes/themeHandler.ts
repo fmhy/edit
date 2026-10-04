@@ -157,7 +157,7 @@ export class ThemeHandler {
     if (this.state.value.currentMode === 'dark' && this.amoledEnabled.value) {
       bgColor = '#000000'
       bgAltColor = '#000000'
-      bgElvColor = 'rgba(0, 0, 0, 0.9)'
+      bgElvColor = '#121212'
     }
 
     // Apply brand colors

@@ -147,20 +147,26 @@ export const excluded = [
   'startpage.md'
 ]
 
+function escapeHtml(value: string) {
+  return value
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;')
+}
+
 export function getHeader(id: string) {
-  const title =
-    '<div class="space-y-2 not-prose"><h1 class="text-4xl font-extrabold tracking-tight text-primary underline lg:text-5xl lg:leading-[3.5rem]">'
-
-  const description = '<p class="text-black dark:text-text-2">'
-
+  const title = '<div class="fmhy-page-header"><h1>'
+  const description = '<p>'
   const feedback = meta.build.api ? '<Feedback />' : ''
-
   const data = headers[id]
+
   let header = '---\n'
   header += `title: "${data.title}"\n`
   header += `description: ${data.description}\n`
   header += '---\n'
-  header += `${title}${data.title}</h1>\n`
-  header += `${description}${data.description}</p></div>\n\n${feedback}\n\n`
+  header += `${title}${escapeHtml(data.title)}</h1>\n`
+  header += `${description}${escapeHtml(data.description)}</p></div>\n\n${feedback}\n\n`
   return header
 }

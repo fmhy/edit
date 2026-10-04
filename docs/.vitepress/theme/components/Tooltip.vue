@@ -23,11 +23,12 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
     placement="auto"
   >
     <button
-      aria-label="Tooltip"
-      class="tooltip-trigger text-primary relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.2em] w-[1.5em]"
+      type="button"
+      :aria-label="title || 'More information'"
+      class="tooltip-trigger text-primary relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.5em] w-[1.5em] overflow-visible align-middle"
     >
       <div
-        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.3em] h-[1.3em] bg-current transition-all"
+        class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.2em] h-[1.2em] bg-current transition-all"
         :style="{
           mask: `url(${resolvedIcon}) no-repeat center / contain`,
           '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`
@@ -36,16 +37,10 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
     </button>
 
     <template #popper>
-      <div
-        class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 max-w-md max-h-md border-2 border-solid flex flex-col transition-all overflow-hidden"
-      >
-        <div class="overflow-y-auto p-4">
-          <h3
-            v-if="title"
-            class="text-$vp-c-text-1 mb-2 text-lg font-semibold"
-            v-text="title"
-          />
-          <div class="text-$vp-c-text-1 text-sm content vp-doc">
+      <div class="tooltip-card">
+        <div class="tooltip-content">
+          <h3 v-if="title" class="tooltip-title" v-text="title" />
+          <div class="tooltip-body vp-doc">
             <slot />
           </div>
         </div>
@@ -53,6 +48,54 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
     </template>
   </VDropdown>
 </template>
+
+<style scoped lang="scss">
+.tooltip-trigger {
+  @media (pointer: coarse) {
+    &::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      min-width: 36px;
+      min-height: 36px;
+    }
+  }
+}
+
+.tooltip-card {
+  display: flex;
+  flex-direction: column;
+  max-width: min(28rem, calc(100vw - 32px));
+  max-height: min(28rem, calc(100dvh - 32px));
+  overflow: hidden;
+}
+
+.tooltip-content {
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.tooltip-title {
+  margin: 0 0 8px;
+  color: var(--vp-c-text-1);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+.tooltip-body {
+  color: var(--vp-c-text-1);
+  font-size: 14px;
+  line-height: 1.6;
+
+  :deep(a.tooltip-source-link) {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+</style>
 
 <style>
 .v-popper__popper {
@@ -67,10 +110,5 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
   box-shadow: none !important;
   border: none !important;
   padding: 0 !important;
-}
-
-.vp-doc a.tooltip-source-link {
-  color: inherit;
-  text-decoration: none;
 }
 </style>
