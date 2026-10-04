@@ -7,7 +7,7 @@
 # ► Documentaries
 
 * 🌐 **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)** - YouTube Documentary Channels
-* ⭐ **[IHaveNoTV](https://ihavenotv.com)**
+* ⭐ **[IHaveNoTV](https://ihavenotv.com/)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/Julmik647/filterlists), [2](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** - Torrent
@@ -1631,7 +1631,7 @@
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/projects/juice-shop) - Learn Pentesting
 * [How DNS Works](https://howdns.works/) - Learn DNS
 * [How DNSSEC Works](https://howdnssec.works/) - Learn DNSSEC
-* [CryptoPals](https://cryptopals.com/) or [Overview of Cryptography](https://www.garykessler.net/library/crypto.html) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
+* [CryptoPals](https://cryptopals.com/), [Overview of Cryptography](https://www.garykessler.net/library/crypto.html) or [cryptohack](https://cryptohack.org/) - Cryptography Learning
 * [⁠CrypTool](https://www.cryptool.org/) - Interactive Cryptology Learning / Puzzles
 * [How HTTPS Works](https://howhttps.works/) - Learn HTTPS
 

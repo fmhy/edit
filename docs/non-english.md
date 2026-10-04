@@ -1420,7 +1420,7 @@
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [latabernadelcangrejo](https://www.latabernadelcangrejo.eu/) - Video / Audio / Signup 
-* [SomosMovies](https://somosmovies.org/) -  Movies / TV / 1080p
+* [SomosMovies](https://somosmovies.org/) - Movies / TV / 1080p
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian
 * [LatinoMegaHD](https://www.latinomegahd.net/) - Movies / TV / 4K / 1080p / Latino
@@ -1493,7 +1493,7 @@
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)
 * [⁠Descargatepelis](https://descargatepelis.com/) - Movies / TV / [Telegram](https://t.me/descargatepelis_oficial)
 * [fuegocine](https://www.fuegocine.com//) - Movies / TV / [Telegram](https://t.me/Cine_Fuego)
-* [⁠Pelisgo](https://pelisgo.online/) -  Movies / TV / [Telegram](https://t.me/pelisgochat)
+* [⁠Pelisgo](https://pelisgo.online/) - Movies / TV / [Telegram](https://t.me/pelisgochat)
 * [⁠El Videoclub Argento](https://www.elvideoclubargento.com.ar/) - Argentine Films
 * [Zoowomaniacos](https://zoowomaniacos.org/) - Movies / TV / Rare Films
 * [Tubi Spanish](https://tubitv.com/category/spanish_language) - Free w/ Ads / May Require VPN
