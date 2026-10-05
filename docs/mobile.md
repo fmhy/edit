@@ -1108,7 +1108,7 @@
 * [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls) - iOS Settings URL List
 * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [⁠CAPlayground](https://caplayground.vercel.app/) - Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / [GitHub](https://github.com/CAPlayground/CAPlayground)
-* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Locally AI](https://apps.apple.com/app/id6741426692), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
@@ -1248,7 +1248,7 @@
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
 * [Feather](https://github.com/claration/feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - App Signer / Fork of Feather
-* [LiveContainer](https://github.com/LiveContainer/LiveContainer) - iOS App Container Launcher
+* [LiveContainer](https://github.com/LiveContainerMirror/LiveContainer) - iOS App Container Launcher
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
 * [Cyan](https://github.com/asdfzxcvbn/pyzule-rw) - Modify IPAs / Inject Tweaks
 
@@ -1290,7 +1290,7 @@
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Safari to Translate
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Safari to Translate / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
-* [⁠ShrubLibrary](https://shrublibrary.pages.dev/) - IPA Repo Aggregator / Search Engine
+* [⁠ShrubLibrary](https://shrublibrary.pages.dev/) - IPA Repo Aggregator / Search Engine / [Discord](https://discord.gg/Zt3cgdSvkd)
 * [AppDB](https://appdb.to) - App Library
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Request](https://iosvizor.com/suggest/) / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source

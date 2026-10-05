@@ -54,12 +54,12 @@
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
 * [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
 * [Tiarap](https://doh.tiar.app/) - DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)
 * [Rethink DNS](https://rethinkdns.com/configure) - DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)
 * [AdGuard DNS](https://adguard-dns.io/) - Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)
 * [Control D](https://controld.com/free-dns) - Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
+* [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
 * [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [GitHub](https://github.com/nextdns/nextdns)
 * [NxFilter](https://nxfilter.org/) - Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [Source Code](https://codeberg.org/tblock/tblock)
@@ -406,9 +406,8 @@
 * ⭐ **[IVPN](https://www.ivpn.net/)** - Paid / [No-Log](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [No Port Forwarding](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [Firefox VPN](https://support.mozilla.org/en-US/kb/built-in-vpn) - Free / 50GB Monthly
 * [Nym](https://nym.com/) - Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)
-* [RiseupVPN](https://riseup.net/en/vpn) - Free / Unlimited / No Port Forwarding / [GitHub](https://github.com/riseupnet)
+* [RiseupVPN](https://riseup.net/en/vpn) / [GitHub](https://github.com/riseupnet) or [Bitmask](https://bitmask.net/) / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn) - Free / Unlimited / No Port Forwarding
 * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
-* [Bitmask](https://bitmask.net/) - Free / Unlimited / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn)
 
 ***
 
