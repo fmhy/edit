@@ -832,6 +832,7 @@
 ***
 
 * 🌐 **[⁠UBGHub](https://ubghub.org/)** - Index of Unblocked Game Sites / [Discord](https://discord.gg/7CMSEmzBDC)
+* ⭐ **[Obsidian](https://playobsidian.com/)** - Unblocked browser games and emulators / [GitHub](http://github.com/titaniumnetwork-dev/Obsidian/) / [Discord](http://discord.gg/unblock)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * ⭐ **[mizu](https://mizumath.com/study.html)** - Browser Games / [Discord](https://discord.gg/MwKRJkJrJB)
 * ⭐ **[⁠anko](https://useanko.xyz/games)** - Browser Games / [Discord](https://discord.gg/anko)
