@@ -1834,6 +1834,7 @@
 
 ## ▷ Calculators
 
+* ⭐ **[Casio Online Scientific Calculator](https://scientificcalculatorfree.com/)** - Calculators
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
 * ⭐ **[OpenCalc](https://github.com/clementwzk/OpenCalc)**, [NerdCalci](https://github.com/vishaltelangre/NerdCalci), [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
