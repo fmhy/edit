@@ -1035,6 +1035,7 @@
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [Just Player](https://github.com/moneytoo/Player)
+* [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Telegram Video Player / [Website](https://tmplayer.org)
 * [⁠Night Video Player](https://play.google.com/store/apps/details?id=com.rz.night.player)
 * [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) / [Codec](https://github.com/USBhost/MX_FFmpeg)
 * [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
