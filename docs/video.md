@@ -202,6 +202,7 @@
 * [Heartive](https://heartivelovestv.pages.dev/) - Movies / TV / Anime
 * [CineGo](https://cinego.co/) - Movies / TV
 * [Moviepire](https://moviepire.org/), [2](https://phland.org/) - Movies / TV / Anime / [Telegram](https://t.me/hdoboxapk2)
+* [histream](https://histream.dpdns.org/) - Movies / TV / Anime / 4K / Auto-Next
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
