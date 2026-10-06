@@ -593,6 +593,7 @@
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - Music / Sound Effects
 * [UppBeat](https://uppbeat.io/) - Music for Creators / Freemium
 * [BenSound](https://www.bensound.com/) - Popular Library / Freemium
+* [Thematic](https://hellothematic.com/) - Free Music from Independent Artists / Freemium
 * [Unminus](https://www.unminus.com/) - Professional Tracks
 * [Free Music Archive](https://freemusicarchive.org/) - Curated Library
 * [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library / CC0 License
