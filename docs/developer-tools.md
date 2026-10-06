@@ -1007,7 +1007,7 @@
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://vpsfilter.com/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ⭐ **[TLDES](https://tldes.com/)**, [TLDHub](https://tldhub.com/), [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
+* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
@@ -1015,7 +1015,6 @@
 * [Pyfunceble](https://pyfunceble.github.io/#/) - Domain Availability App / [GitHub](https://github.com/funilrys/PyFunceble)
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist), [HaveIBeenSquatted](https://haveibeensquatted.com) or [DNSTwister](https://www.dnstwister.com/) - Typosquatting Checkers
-* [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [OONI](https://ooni.org/) - Check Site Location Availability
 * [Server Hunter](https://www.serverhunter.com/) or [ServerSearcher](https://www.serversearcher.com/) - Search / Compare Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
@@ -1205,7 +1204,7 @@
 
 * ⭐ **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * [mitmproxy](https://mitmproxy.org/) - Analyze and modify HTTPS traffic / [OpenAPI Converter](https://github.com/alufers/mitmproxy2swagger) / [GitHub](https://github.com/mitmproxy/mitmproxy)
-* [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
+* [HTTPToolkit](https://httptoolkit.com/) / [Pro](https://github.com/xenos1337/httptoolkit-patcher) - Intercept, Debug, and Mock HTTP(S)
 * [TLSRef](https://configurator.tlsref.org/) - SSL Configuration Generator
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)

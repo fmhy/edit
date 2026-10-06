@@ -453,7 +453,7 @@
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [⁠London Live](https://london.pengrubin.com/) - London Public Transport Map
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
-* [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) - Hong Kong Public Transport Map
+* [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) or [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) - Hong Kong Public Transport Maps
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
@@ -969,7 +969,7 @@
 
 * 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** or [Established Remote](https://github.com/yanirs/established-remote) - Remote Job Resources
 * 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - Remote Friendly Company Index / [GitHub](https://github.com/remoteintech/remote-jobs)
-* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
+* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board / Avoid Ads
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
 * [r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
 * [⁠Volunteers Base](https://volunteersbase.com/) - Volunteer Work Exchange / Work for Stay Network
@@ -1088,7 +1088,6 @@
 * [ETFDB](https://etfdb.com/) - ETF Databases
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
-* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 
 ***
 
@@ -1227,7 +1226,7 @@
 * [SuggestALaptop Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) - Laptop Suggestions / [Subreddit](https://www.reddit.com/r/SuggestALaptop/) / [Discord](https://discord.gg/pes68JM)
 * [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
-* [⁠Mini PC Guide / Comparisons](https://docs.google.com/spreadsheets/d/1MSVzjTK5bubSo7_pltKbWausKWoVUYynNdouj4GlIdE)
+* [⁠MiniPCs.zip](https://minipcs.zip/) or [⁠Mini PC Doc](https://docs.google.com/spreadsheets/d/1MSVzjTK5bubSo7_pltKbWausKWoVUYynNdouj4GlIdE) - Mini PC Price Comparisons 
 * [⁠MoboMaps](https://mobomaps.com/) - Motherboard Visualizations / Info
 * [⁠Cybenetics PSU Benchmarks](https://www.cybenetics.com/index.php?option=psu-performance-database) or [PSU Tier List](https://psutierlist.org/) / [Document](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) / [Discord](https://discord.gg/qkrJy3hDa8) - PSU Buying Guides / Benchmarks
 * [CPU Scout](https://www.cpuscout.com/) - eBay CPU Price Tracker

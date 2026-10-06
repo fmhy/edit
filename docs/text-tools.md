@@ -25,6 +25,7 @@
 
 ## ▷ Pastebins
 
+* 🌐 **[⁠Awesome Pastebins](https://github.com/lorien/awesome-pastebins)** - Pastebin Index
 * ⭐ **[PrivateBin](https://privatebin.net/)**, **[Paste.to](https://paste.to/)**, [NoteBin](https://notebin.de/), [TxtBin](https://txtbin.org/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[GitHub Gists](https://gist.github.com/)** or [GitLab Snippets](https://docs.gitlab.com/user/snippets/) - Multi-Syntax / Requires Sign-Up
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
@@ -525,6 +526,7 @@
 * [uncut.wtf](https://uncut.wtf/) - Open Source
 * [Beautiful Web Type](https://beautifulwebtype.com/) - Open Source
 * [FontRepo](https://www.fontrepo.com/) - Open Source
+* [Tunera Type Foundry](https://www.tunera.xyz/) - Open Source
 * [Bunny Fonts](https://fonts.bunny.net/) - Open Source
 * [Google Fonts](https://fonts.google.com/) - Commercial Use / [Self-Host](https://gwfh.mranftl.com/fonts) / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
@@ -557,7 +559,6 @@
 * ⭐ **[wFonts](https://wfonts.com/)**
 * ⭐ **[BeFonts](https://befonts.com/)**
 * [Free Fonts Family](https://freefontsfamily.com/)
-* [Tunera Type Foundry](https://www.tunera.xyz/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [⁠FontFreak](https://www.fontfreak.com/)
 * [FontsFree](https://fontsfree.net)

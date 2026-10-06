@@ -735,6 +735,7 @@
 * [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv)
 * [oculante](https://github.com/woelper/oculante)
+* [⁠Zeiger](https://zeigerviewer.com/)
 * [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos)
 * [QuickView](https://github.com/justnullname/QuickView)
 * [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)

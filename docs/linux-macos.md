@@ -242,7 +242,7 @@
 * [Fooyin](https://www.fooyin.org/) - Audio Player / [GitHub](https://github.com/fooyin/fooyin)
 * [Gapless](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
-* [AudioTube](https://invent.kde.org/multimedia/audiotube), [WAVE](https://waveapp.pages.dev/), [ytermusic](https://github.com/ccgauche/ytermusic/), [⁠Mixtapes](https://github.com/m-obeid/Mixtapes) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
+* [AudioTube](https://invent.kde.org/multimedia/audiotube), [WAVE](https://waveapp.pages.dev/) / [GitHub](https://github.com/ayman708-UX/WAVE), [ytermusic](https://github.com/ccgauche/ytermusic/), [⁠Mixtapes](https://github.com/m-obeid/Mixtapes) or [Monophony](https://gitlab.com/zehkira/monophony) - YouTube Music Clients
 * [cliamp](https://www.cliamp.stream/) / [GitHub](https://github.com/bjarneo/cliamp), [MOC](https://moc.daper.net/) or [Kew](https://github.com/ravachol/kew) - TUI Audio Players
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) or [DZR](https://github.com/yne/dzr) - Deezer Clients / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
@@ -703,7 +703,7 @@
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [SoundSeer](https://github.com/jonathangarelick/SoundSeer) - Spotify in Menu Bar
 * [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
-* [⁠Kaset](https://github.com/sozercan/kaset/) or [WAVE](https://waveapp.pages.dev/) - YouTube Music Clients
+* [⁠Kaset](https://github.com/sozercan/kaset/) or [WAVE](https://waveapp.pages.dev/) / [GitHub](https://github.com/ayman708-UX/WAVE) - YouTube Music Clients
 * [⁠Volta](https://volta-music.com/) - Audio Streaming / Player / [Discord](https://discord.com/invite/HBuCQyBqE2)
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
@@ -825,7 +825,6 @@
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
 * [MacThrottle](https://github.com/angristan/MacThrottle) - Menu Bar Thermal Throttling Tracker
-* [AlDente](https://apphousekitchen.com/) - Charging Manager
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [AirBattery](https://github.com/lihaoyun6/AirBattery) or [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Device Battery Trackers
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller

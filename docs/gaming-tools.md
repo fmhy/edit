@@ -1165,7 +1165,7 @@
 * [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes
 * [Roblox Tools](https://thecsdev.com/tool/roblox-tools/) - Roblox Assets Downloader 
-* [Dripzels](https://dripzels.com/) or [ingame.clothing](https://ingame.clothing/) - Preview Avatar Clothing
+* [Dripzels](https://dripzels.com/) - Preview Avatar Clothing
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 
 ***

@@ -74,14 +74,14 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.st/)**
 * **Downloading: [lucida](https://lucida.to/) / [Nicotine+](https://nicotine-plus.org/)**
 * **Android: [⁠ArchiveTune](https://archivetune.koiiverse.cloud/) / [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
-* **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.vercel.app/) / [spoti.pw](https://t.me/eeveespotify_hazel)**
+* **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.vercel.app/) / [Chroma (Hazel)](https://t.me/eeveespotify_hazel)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
 ***
 
 ### Gaming
 
-* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.to/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 

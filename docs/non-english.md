@@ -40,10 +40,11 @@
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [kirmalk](https://kirmalk.com/kr19) - Movies / TV
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV
-* [⁠ahwak tv](https://yam.ahwaktv.net/) - Movies / TV
+* [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
 * [witanime](https://www.witanime.net/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.me/) - Anime
+* [⁠Anime Phoenix](https://anime-phoenix.com/) - Anime
 * [Kawaii Anime](https://kirmalk.com/) - Anime
 * [Anime Slayer](https://animeslayer.to/) - Anime / 1080p / [Android App](https://anslayer.com/) / [Discord](https://discord.gg/DNfGhF2RhQ)
 * [animezid](https://animezid.cam/) - Anime / Cartoons
@@ -145,7 +146,6 @@
 * [Diaosi Forum](https://assbbs.com/) - Piracy Discussion Forum
 * [assrt](https://assrt.net/), [srtku](https://srtku.com/) or [zimuku](https://zimuku.org/) - Subtitles
 * [Bangumi](https://bangumi.moe/) - Anime Subtitles
-* [Tool.lu](https://tool.lu/) - Online Tools
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -277,7 +277,6 @@
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [qqszz](https://www.35ppt.com/) - Books / Light-Novels / Requires Sign-Up
-* [yodu](https://www.yodu.org/) - Books / Light-Novels
 * [256zw](https://www.256zw.org/) - Light-Novels
 * [Readfine](https://t.me/Readfine) - FanFiction / [Discussion](https://t.me/ReadfineChat) 
 * [shuge](https://www.shuge.org/) - Rare / Ancient Books
@@ -313,7 +312,6 @@
 * [godamanga.site](https://godamh.com/) - Manga
 * [xmanhua.com](https://xmanhua.com/) - Manga / Some NSFW
 * [manhuagui](https://www.manhuagui.com/) - Manga
-* [colamanga](https://www.yoyomanga.com/) - Manga
 * [dumanwu](https://dumanwu.com/) - Manga
 * [mkzhan](https://www.mkzhan.com/) - Manga
 * [manhuapi](https://www.manhuapi.cc/) - Manga

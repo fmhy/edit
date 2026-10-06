@@ -185,7 +185,7 @@
 
 # ► Special Interest
 
-* ↪️ **[Survival / Preparedness](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_survival_.2F_preparedness)**
+* ↪️ **[Survival / Preparedness](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_survival_.2F_preparedness)**
 * ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
 * [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
 * [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
@@ -351,7 +351,7 @@
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
-* [WAVE](https://waveapp.pages.dev/) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3) - Audiobook Apps / Windows, macOS, Linux, Android, iOS
+* [WAVE](https://waveapp.pages.dev/) / [GitHub](https://github.com/ayman708-UX/WAVE) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3) - Audiobook Apps / Windows, macOS, Linux, Android, iOS
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
 ***

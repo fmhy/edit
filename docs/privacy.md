@@ -383,7 +383,6 @@
 * [Degoog](https://github.com/degoog-org/degoog) - Metasearch / [GitHub](https://github.com/fccview/degoog)
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [LibreY](https://github.com/Ahwxorg/librey/) - Metasearch
-* [⁠Nilch](https://nilch.org/) - AI Free / Metasearch
 * [search!](https://search.tiago.zip/) - AI Free / Metasearch / [GitHub](https://github.com/tiagozip/metasearch)
 * [Mojeek](https://www.mojeek.com/) - Independent / [Subreddit](https://www.reddit.com/r/mojeek/)
 * [YaCy](https://yacy.net/) - Decentralized / P2P Independent / [GitHub](https://github.com/yacy/yacy_search_server)

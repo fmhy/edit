@@ -15,7 +15,7 @@
 * ↪️ **[Game Download Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_game_launchers)** - Launchers with Built-In Downloading & Torrenting
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/forum)** - Download / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
-* ⭐ **[AnkerGames](https://ankergames.to/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
+* ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
 * ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep)
@@ -172,7 +172,7 @@
 * 🌐 **[Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)** - Game Decompilations / Ports
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Decompilations / Ports
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports
-* [⁠PortsDR](https://portsdr.com/) - Game Decompilations / Ports
+* 🌐 **[⁠PortsDR](https://portsdr.com/)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
 * [⁠decomp.dev](https://decomp.dev/) - Decompilation Progress Reports / Tracking
@@ -193,7 +193,7 @@
 * [SRB2Kart](https://mb.srb2.org/threads/srb2kart.25868/) / [GitHub](https://github.com/STJr/Kart-Public) or [RingRacers](https://github.com/KartKrewDev/RingRacers) - Open-Source Sonic Kart Games
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU) or [Pixel Gun Mayhem](https://pixelgunmayhem.net/) / [Discord](https://discord.gg/edfRwZrJFD) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
-* [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II PC Ports / [Discord](https://discord.gg/GfX3pmC)
+* [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II/III PC Ports / [Discord](https://discord.gg/GfX3pmC)
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled), [⁠RecompOne](https://github.com/BlackLabelHQ/RecompOne) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) - Mobile PC Ports / [Telegram](https://t.me/VAlpha_Official)
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
@@ -210,8 +210,7 @@
 * ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2 / [Plugins](https://openrct2plugins.org/) / [Subreddit](https://www.reddit.com/r/openrct2/) / [Discord](https://discord.gg/ZXZd8D8) / [GitHub](https://github.com/OpenRCT2/OpenRCT2)
 * ⭐ **[OpenBOR](https://github.com/DCurrent/openbor)** - 2D Side Scrolling / Beat 'Em Up Engine / [Wiki / Forum](https://www.chronocrash.com/) / [Resources](https://www.chronocrash.com/forum/resources/categories/openbor.2/)
 * [Locomalito](https://locomalito.com/) or [RetroSpec](https://retrospec.sgn.net/) - Classic Game Remakes
-* [Mugen](https://emulation.gametechwiki.com/index.php/Mugen) - 2D Fighting Game Engine / [Resources](https://mugenguild.com/), [2](https://mugenfreeforall.com/), [3](https://www.andersonkenya1.net/), [4](https://juegosdemugen.com/en/)
-* [Ikemen GO](https://ikemen-engine.github.io/) - 2D Fighting Game Engine / [Guides](https://ikemengo.com/) / [Discord](https://discord.com/invite/QWxxwjE) / [GitHub](https://github.com/ikemen-engine/Ikemen-GO)
+* [Mugen](https://emulation.gametechwiki.com/index.php/Mugen) / [Resources](https://mugenguild.com/), [2](https://mugenfreeforall.com/), [3](https://www.andersonkenya1.net/), [4](https://juegosdemugen.com/en/) or [Ikemen GO](https://ikemen-engine.github.io/) / [Guides](https://ikemengo.com/) / [Discord](https://discord.com/invite/QWxxwjE) / [GitHub](https://github.com/ikemen-engine/Ikemen-GO) - 2D Fighting Game Engines / [Select-Screen Editor](https://vselect.neocities.org/)
 * [⁠ZVitor](https://www.zvitor.com/home.html) - OpenBOR / MUGEN Fighting Game Index
 * [Super Smash Flash](https://www.supersmashflash.com/) / [Discord](https://discord.com/invite/mcleodgaming) or [Smash Crusade](https://smash-crusade.itch.io/crusade) / [Forum](https://projectcrusade.forumotion.com/) / [Discord](https://discord.com/invite/9WBn6u65Fg) - Flash Super Smash Bros.
 * [Luanti](https://www.luanti.org/) / [Discord](https://discord.gg/minetest) / [GitHub](https://github.com/luanti-org), [Classicube](https://www.classicube.net/) / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube) or [Cubyz](https://pixelguys.github.io/Cubyz-Website/) - Open-Source Minecraft Clones / Alternatives

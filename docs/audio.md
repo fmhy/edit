@@ -13,7 +13,7 @@
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
-* [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC
+* [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC / [GitHub](https://github.com/ayman708-UX/WAVE)
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [Sonora](https://sonorahq.org/) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
@@ -290,20 +290,21 @@
 ## ▷ Genre Specific Radio
 
 * 🌐 **[⁠Unify.fm](https://www.unify.fm/)** - Independent Electronic Radio Index
-* [⁠WQXR](https://www.wqxr.org/streams/), [⁠The Classical Station](https://theclassicalstation.org/) or [NTS Sheet Music](https://www.nts.live/infinite-mixtapes/sheet-music) - Classical Music Radio
-* [NTS Poolside](https://www.nts.live/infinite-mixtapes/poolside) or [Pool Suite](https://poolsuite.net/) - Summer Radio
-* [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
-* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
-* [NTS Otaku](https://www.nts.live/infinite-mixtapes/otaku) or [Openings Moe](https://openings.moe/) - Anime Theme Radio
-* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
-* [420.moe](https://420.moe/) - 420 Radio
+* [Di.fm](https://www.di.fm/) - Electronic Radio
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [TechnoBase](https://www.technobase.fm), [TranceBase](https://www.trancebase.fm), [HouseTime](https://www.HouseTime.fm) or [HardBase](https://www.HardBase.fm) - Electronic Radio / [Discord](https://discord.com/invite/xFRcWdNUkY)
-* [Di.fm](https://www.di.fm/) - Electronic Radio
-* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore
 * [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
+* [⁠Death.FM](https://death.fm/) - Metal Radio / Community 
+* [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore Radio
+* [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
+* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
+* [⁠WQXR](https://www.wqxr.org/streams/), [⁠The Classical Station](https://theclassicalstation.org/) or [NTS Sheet Music](https://www.nts.live/infinite-mixtapes/sheet-music) - Classical Music Radio
+* [NTS Poolside](https://www.nts.live/infinite-mixtapes/poolside) or [Pool Suite](https://poolsuite.net/) - Summer Radio
+* [NTS Otaku](https://www.nts.live/infinite-mixtapes/otaku) or [Openings Moe](https://openings.moe/) - Anime Theme Radio
+* [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
+* [420.moe](https://420.moe/) - 420 Radio
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 
 ***

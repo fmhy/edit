@@ -1104,7 +1104,7 @@
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
 * [MORT](https://github.com/killkimno/MORT) or [Textractor](https://github.com/Artikash/Textractor) - Learn Languages via Games
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
+* [LearnWithOliver](https://www.learnwitholiver.com/) or [⁠Rosetta Stone (Flashcards)](https://www.rosettastone.com/flashcards) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/), [VocabTest](https://www.vocabtest.com/), [My Little Word Land](https://mylittlewordland.com/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/), [⁠Conjuguemos](https://www.conjuguemos.com/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
