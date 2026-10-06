@@ -289,6 +289,12 @@ html.june {
   }
 }
 
+html.halloween {
+  .VPNavBarTitle .logo {
+    content: url('/hall.png');
+  }
+}
+
 .base64 {
   min-width: 100%;
   width: 0px;
