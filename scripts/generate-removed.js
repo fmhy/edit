@@ -453,7 +453,7 @@ async function generateRemovedSites() {
             'rev-list',
             '--first-parent',
             '--max-parents=0',
-            `--since-as-filter=${DAYS} days ago`,
+            `--since=${DAYS} days ago`,
             historyHead
           ],
           { encoding: 'utf8' }
@@ -548,7 +548,7 @@ async function generateRemovedSites() {
     'log',
     '-z',
     '--first-parent',
-    `--since-as-filter=${DAYS} days ago`,
+    `--since=${DAYS} days ago`,
     '--format=%H%x00%P%x00%s%x00%ct',
     historyHead,
     '--',
