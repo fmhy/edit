@@ -41,6 +41,30 @@ import Tag from './components/Tag.vue'
 import Tooltip from './components/Tooltip.vue'
 import VideoFrame from './components/VideoFrame.vue'
 
+const removalDateFormat = new Intl.DateTimeFormat('en-US', {
+  dateStyle: 'long',
+  timeZone: 'UTC'
+})
+
+function removedDateTooltip(date: string): string {
+  const removedAt = new Date(`${date}T00:00:00Z`)
+  const now = new Date()
+  const today = Date.UTC(
+    now.getUTCFullYear(),
+    now.getUTCMonth(),
+    now.getUTCDate()
+  )
+  const days = Math.round((today - removedAt.getTime()) / 86_400_000)
+  const relative =
+    days === 0
+      ? 'Today'
+      : days > 0
+        ? `${days} day${days === 1 ? '' : 's'} ago`
+        : `In ${-days} day${days === -1 ? '' : 's'}`
+
+  return `<strong>${relative}</strong><br><time datetime="${date}">${removalDateFormat.format(removedAt)}</time>`
+}
+
 const applySeasonalBranding = () => {
   const isJune = new Date().getMonth() === 5
   document.documentElement.classList.toggle('june', isJune)
@@ -65,6 +89,12 @@ export default {
     app.component('Post', Post)
     app.component('Feedback', Feedback)
     app.component('Tooltip', Tooltip)
+    app.config.globalProperties.$removedDateTooltip = removedDateTooltip
+    app.config.globalProperties.$removedDateTriggers =
+      typeof window !== 'undefined' &&
+      !window.matchMedia('(hover: hover)').matches
+        ? ['click']
+        : ['hover', 'focus']
     loadProgress(router)
 
     if (typeof window !== 'undefined') {

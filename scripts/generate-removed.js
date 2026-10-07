@@ -858,7 +858,7 @@ async function generateRemovedSites() {
               ? `<span class="removed-site-description">- ${escapeText(description)}</span>`
               : ''
 
-            output += `- <span class="removed-site-name">${cleanSearchable}</span><!-- search-exclude -->${cleanHidden}<span class="removed-site-meta">· ${prLink}[${site.hash.slice(0, 7)}](${commitLink})</span><!-- /search-exclude -->\n`
+            output += `- <button type="button" class="removed-site-name" v-tooltip="{ content: () => $removedDateTooltip('${site.date}'), html: true, triggers: $removedDateTriggers, autoHide: true }">${cleanSearchable}</button><!-- search-exclude -->${cleanHidden}<span class="removed-site-meta">· ${prLink}[${site.hash.slice(0, 7)}](${commitLink})</span><!-- /search-exclude -->\n`
           }
           output += '\n'
         }
