@@ -2,7 +2,7 @@
 
 You can select the bottom checkbox which translates to "I can't enter the answer."
 
-or try this prompt in a AI chatbot: 
+Or try this prompt in an AI chatbot: 
 
 "Transcribe this handwritten Russian text and calculate the total number.
 
