@@ -2,6 +2,7 @@ import { execFileSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
 import { createMarkdownRenderer } from 'vitepress'
+import headers from '../docs/.vitepress/transformer/headers.json' with { type: 'json' }
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
@@ -49,6 +50,23 @@ function normalizeName(name) {
     .replace(/\s+/g, ' ')
     .trim()
     .toLowerCase()
+}
+
+function categoryForFile(file) {
+  const name = file.replace(/^docs\//, '')
+  return (
+    headers[name]?.title ||
+    name
+      .replace(/\.md$/, '')
+      .split('/')
+      .map((part) =>
+        part
+          .split('-')
+          .map((word) => word[0].toUpperCase() + word.slice(1))
+          .join(' ')
+      )
+      .join(' / ')
+  )
 }
 
 function normalizeUrl(value) {
@@ -222,11 +240,29 @@ function parseInlineLinks(markdown, children) {
 function parseDocument(markdown, source) {
   const urls = new Set()
   const bullets = []
+  const headings = []
   const lines = source.split('\n')
   const hasAttributes =
     source.includes('{') || markdown.utils.unescapeAll(source).includes('{')
   markdown.core.ruler[hasAttributes ? 'enable' : 'disable']('curly_attributes')
-  for (const token of markdown.parse(source, { cacheInline: !hasAttributes })) {
+  const tokens = markdown.parse(source, { cacheInline: !hasAttributes })
+  for (let index = 0; index < tokens.length; index++) {
+    const token = tokens[index]
+    if (token.type === 'heading_open') {
+      const heading = tokens[index + 1]
+      const level = Number(token.tag.slice(1))
+      const title = (heading?.children || [])
+        .filter((child) =>
+          ['text', 'code_inline', 'image'].includes(child.type)
+        )
+        .map((child) => child.content)
+        .join('')
+        .replace(/^[►▷\s]+/, '')
+        .replace(/\s+/g, ' ')
+        .trim()
+      headings[level - 1] = title
+      headings.length = level
+    }
     if (token.type === 'html_block') {
       for (const url of extractHtmlUrls(markdown, token.content)) urls.add(url)
     }
@@ -242,6 +278,7 @@ function parseDocument(markdown, source) {
       bullets.push({
         text,
         links,
+        section: headings.filter(Boolean),
         lineNum: start + 1,
         endLine: end,
         source: token.content
@@ -512,7 +549,7 @@ async function generateRemovedSites() {
     '-z',
     '--first-parent',
     `--since-as-filter=${DAYS} days ago`,
-    '--format=%H%x00%P%x00%s',
+    '--format=%H%x00%P%x00%s%x00%ct',
     historyHead,
     '--',
     'docs/'
@@ -547,10 +584,13 @@ async function generateRemovedSites() {
   if (!commits) {
     commits = []
     const fields = logOutput.split('\0')
-    for (let index = 0; index + 2 < fields.length; index += 3) {
+    for (let index = 0; index + 3 < fields.length; index += 4) {
       const hash = fields[index]
       const parent = fields[index + 1].split(' ')[0]
       const msg = fields[index + 2]
+      const date = new Date(Number(fields[index + 3]) * 1000)
+        .toISOString()
+        .slice(0, 10)
       if (!hash) continue
       const diff = execFileSync(
         'git',
@@ -602,7 +642,7 @@ async function generateRemovedSites() {
           )
         })
       }
-      commits.push({ hash, msg, changes })
+      commits.push({ hash, msg, date, changes })
     }
     try {
       fs.mkdirSync('docs/.vitepress/cache', { recursive: true })
@@ -621,7 +661,7 @@ async function generateRemovedSites() {
   }
 
   // Historical primary occurrences can establish ambiguous grouped peers.
-  for (const { hash, msg, changes } of commits) {
+  for (const { hash, msg, date, changes } of commits) {
     const addedUrls = new Set(
       changes.flatMap(({ addedUrls }) => [...addedUrls])
     )
@@ -640,6 +680,7 @@ async function generateRemovedSites() {
               ...resource,
               description,
               file: change.file,
+              section: bullet.section,
               lineNum: bullet.lineNum
             })
         }
@@ -729,12 +770,10 @@ async function generateRemovedSites() {
         description: item.description,
         url: item.url,
         file: item.file,
+        section: item.section,
         lineNum: item.lineNum,
         hash,
-        msg: msg
-          .trim()
-          .replace(/:?\s*updated \d+ pages/i, '')
-          .trim(),
+        date,
         pr: prMatch ? prMatch[1] : null
       })
     }
@@ -748,10 +787,37 @@ async function generateRemovedSites() {
     }
   }
 
-  const sortedRemoved = Array.from(uniqueRemoved.values())
+  const sortedRemoved = Array.from(uniqueRemoved.values()).sort((a, b) =>
+    b.date.localeCompare(a.date)
+  )
+  const byPage = new Map()
+  for (const site of sortedRemoved) {
+    const page = categoryForFile(site.file)
+    if (!byPage.has(page)) byPage.set(page, new Map())
+    const sections = byPage.get(page)
+    const major = site.section[0] || 'Unsectioned'
+    const minor = site.section.slice(1).join(' › ')
+    if (!sections.has(major)) sections.set(major, new Map())
+    const subsections = sections.get(major)
+    if (!subsections.has(minor)) subsections.set(minor, [])
+    subsections.get(minor).push(site)
+  }
+
+  const stripLinks = (text) =>
+    text
+      .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+      .replace(/https?:\/\/[^\s)]+/g, '')
+      .replace(/\s+/g, ' ')
+
+  const escapeText = (text) =>
+    text
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/[\\`*_[\]]/g, '\\$&')
 
   // Generate Markdown
-  let output = `# ► Recently Removed Sites\n\n`
+  let output = ''
   output += `<!-- search-exclude -->\n`
   output += `This page lists sites that were removed from the wiki in the last ${DAYS} days. This helps you find sites that may have gone down or were moved.\n\n`
   output += `> [!TIP]\n`
@@ -761,42 +827,42 @@ async function generateRemovedSites() {
   if (sortedRemoved.length === 0) {
     output += `No sites were removed in the last ${DAYS} days.\n`
   } else {
-    for (const site of sortedRemoved) {
-      const fileHash = crypto
-        .createHash('sha256')
-        .update(site.file)
-        .digest('hex')
-      const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
-      const prLink = site.pr
-        ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
-        : ''
+    for (const [page, sections] of [...byPage].sort(([a], [b]) =>
+      a.localeCompare(b)
+    )) {
+      output += `## ${escapeText(page)}\n\n`
+      for (const [section, subsections] of [...sections].sort(([a], [b]) =>
+        a.localeCompare(b)
+      )) {
+        output += `### ${escapeText(section)}\n\n`
+        for (const [subsection, sites] of [...subsections].sort(([a], [b]) =>
+          a.localeCompare(b)
+        )) {
+          if (subsection) output += `#### ${escapeText(subsection)}\n\n`
+          for (const site of sites) {
+            const fileHash = crypto
+              .createHash('sha256')
+              .update(site.file)
+              .digest('hex')
+            const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
+            const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
+            const prLink = site.pr
+              ? `[PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr}) · `
+              : ''
 
-      // Strip all hyperlinks from the searchable and hidden parts
-      // We keep the PR and commit links separate
-      const stripLinks = (t) =>
-        t
-          .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // Remove markdown links: [text](url) -> text
-          .replace(/https?:\/\/[^\s)]+/g, '') // Remove raw URLs
-          .replace(/\s+/g, ' ') // Collapse multiple spaces
+            const cleanSearchable = escapeText(stripLinks(site.name).trim())
+            const description = stripLinks(site.description || '')
+              .trim()
+              .replace(/^[-–—]\s*/, '')
+            const cleanHidden = description
+              ? `<span class="removed-site-description">- ${escapeText(description)}</span>`
+              : ''
 
-      const escapeText = (text) =>
-        text
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/[\\`*_[\]]/g, '\\$&')
-
-      const cleanSearchable = escapeText(stripLinks(site.name).trim())
-      const cleanHidden = site.description
-        ? ` ${escapeText(stripLinks(site.description).trim())}`
-        : ''
-
-      const cleanMsg = site.msg
-        ? `: ${escapeText(stripLinks(site.msg).trim())}`
-        : ''
-
-      output += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`
+            output += `- <span class="removed-site-name">${cleanSearchable}</span><!-- search-exclude -->${cleanHidden}<span class="removed-site-meta">· ${prLink}[${site.hash.slice(0, 7)}](${commitLink})</span><!-- /search-exclude -->\n`
+          }
+          output += '\n'
+        }
+      }
     }
   }
 

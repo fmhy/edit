@@ -1,4 +1,5 @@
 import { meta } from '../constants'
+import headerData from './headers.json'
 
 /**
  *  Copyright (c) 2025 taskylizard. Apache License 2.0.
@@ -19,124 +20,7 @@ interface Header {
   [file: string]: { title: string; description: string }
 }
 
-export const headers: Header = {
-  'privacy.md': {
-    title: 'Adblocking / Privacy',
-    description: 'Adblocking, Privacy, VPNs, Proxies, Antiviruses'
-  },
-  'ai.md': {
-    title: 'Artificial Intelligence',
-    description: 'Chatbots, Text Generators, Image Generators, Chatbot Tools'
-  },
-  'mobile.md': {
-    title: 'Android / iOS',
-    description: 'Apps, Jailbreaking, Android Emulators'
-  },
-  'audio.md': {
-    title: 'Music / Podcasts / Radio',
-    description: 'Stream Audio, Download Audio, Torrent Audio'
-  },
-  'beginners-guide.md': {
-    title: 'Beginners Guide',
-    description: 'A Guide for Beginners + FAQs'
-  },
-  'downloading.md': {
-    title: 'Downloading',
-    description: 'Download Sites, Software Sites, Open Directories'
-  },
-  'educational.md': {
-    title: 'Educational',
-    description: 'Courses, Documentaries, Learning Resources'
-  },
-  'gaming.md': {
-    title: 'Gaming / Emulation',
-    description: 'Download Games, ROMs, Gaming Tools'
-  },
-  'linux-macos.md': {
-    title: 'Linux / macOS',
-    description: 'Apps, Software Sites, Gaming'
-  },
-  'misc.md': {
-    title: 'Miscellaneous',
-    description: 'Extensions, Indexes, News, Health, Food, Fun'
-  },
-  'nsfwpiracy.md': {
-    title: 'NSFW',
-    description: 'NSFW Indexes, Streaming, Downloading'
-  },
-  'non-english.md': {
-    title: 'Non-English',
-    description: 'International Free Sites'
-  },
-  'reading.md': {
-    title: 'Books / Comics / Manga',
-    description: 'Books, Comics, Magazines, Newspapers'
-  },
-  'gaming-tools.md': {
-    title: 'Gaming Tools',
-    description: 'Gaming Optimization, Game Launchers, Multiplayer'
-  },
-  'developer-tools.md': {
-    title: 'Developer Tools',
-    description: 'Git, Hosting, App Dev, Software Dev'
-  },
-  'image-tools.md': {
-    title: 'Image Tools',
-    description: 'Image Editors, Generators, Compress'
-  },
-  'audio-tools.md': {
-    title: 'Audio Tools',
-    description: 'Audio Players, Audio Editors, Audio Downloaders'
-  },
-  'system-tools.md': {
-    title: 'System Tools',
-    description: 'System Tools, Hardware Tools, Windows ISOs, Customization'
-  },
-  'file-tools.md': {
-    title: 'File Tools',
-    description: 'Download Managers, File Hosting, File Archivers'
-  },
-  'video-tools.md': {
-    title: 'Video Tools',
-    description: 'Video Players, Video Editors, Live Streaming, Animation'
-  },
-  'text-tools.md': {
-    title: 'Text Tools',
-    description: 'Text Editors, Pastebins, Fonts, Translators'
-  },
-  'internet-tools.md': {
-    title: 'Internet Tools',
-    description: 'Browsers, Extensions, Search Engines'
-  },
-  'social-media-tools.md': {
-    title: 'Social Media Tools',
-    description: 'Discord Tools, Reddit Tools, YouTube Tools'
-  },
-  'storage.md': {
-    title: 'Storage',
-    description: 'Sections too big to fit on main pages'
-  },
-  'torrenting.md': {
-    title: 'Torrenting',
-    description: 'Torrent Clients, Torrent Sites, Trackers'
-  },
-  'video.md': {
-    title: 'Movies / TV / Anime',
-    description: 'Stream Videos, Download Videos, Torrent Videos'
-  },
-  'base64.md': {
-    title: 'Base64',
-    description: 'Base64 storage'
-  },
-  'unsafe.md': {
-    title: 'Unsafe Sites',
-    description: 'Unsafe/harmful sites to avoid.'
-  },
-  'recently-removed.md': {
-    title: 'Recently Removed Sites',
-    description: 'List of sites recently removed from the wiki'
-  }
-} as const
+export const headers: Header = headerData
 
 export const excluded = [
   'readme.md',
@@ -165,6 +49,7 @@ export function getHeader(id: string) {
   let header = '---\n'
   header += `title: "${data.title}"\n`
   header += `description: ${data.description}\n`
+  if (id === 'recently-removed.md') header += 'editLink: false\noutline: 2\n'
   header += '---\n'
   header += `${title}${escapeHtml(data.title)}</h1>\n`
   header += `${description}${escapeHtml(data.description)}</p></div>\n\n${feedback}\n\n`

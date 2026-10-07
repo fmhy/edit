@@ -34,6 +34,7 @@ export function transformsPlugin(): Plugin {
         !id.includes('other')
       ) {
         const header = getHeader(_id)
+        if (_id === 'recently-removed.md') return header + code
         const contents = transform(code)
 
         if (_id === 'beginners-guide.md') {
