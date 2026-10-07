@@ -297,6 +297,7 @@
 * [ISODN Chemistry](https://discord.gg/cf7RN82) - ISODN Chemistry Discord Community
 * [Arkivoc](https://www.arkat-usa.org/) - Journals
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
+* [Chempirical](https://chempirical.com/) - Chemistry Calculators / Structure Editor / Compound Database
 * [Chemexper Chemical Directory](https://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](https://orgsyn.org/Default.aspx) - Chemistry Prep Guides
 
