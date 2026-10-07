@@ -226,8 +226,8 @@ export function transform(text: string): string {
     )
 
   _text = replaceUnderscore(_text)
-    .replace(/\/#(\d)/g, '/#_$1') // Prefix headings starting with numbers
-    .replace(/#(\d)/g, '#_$1') // Prefix headings starting with numbers
+    // Prefix numeric heading fragments only inside Markdown destinations.
+    .replace(/(\]\([^\s)]*)#(\d)/g, '$1#_$2')
     .replace(/(\]\(\s*)\/\s*(\#[^)\s]*?\s*\))/g, '$1$2')
     .replace(/\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n/gm, '')
