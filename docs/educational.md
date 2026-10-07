@@ -996,6 +996,7 @@
 * [Listudy](https://listudy.org/en) - Spaced Repetition Openings, Blind Tactics & Endgames
 * [Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
 * [Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
+* [⁠Chessort](https://chessort.com/) - Chess Move Evaluation Training
 * [Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Learn / Practice Chess
 * [⁠Chess Frog](https://chessfrog.com/) - Chess Challenges

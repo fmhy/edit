@@ -241,7 +241,6 @@
 ## ▷ Customization
 
 * ⭐ **[r/AndroidThemes](https://www.reddit.com/r/androidthemes/)** - Android Themes Subreddit
-* ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)** - Wallpapers
 * ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** - Minimal Wallpapers / [App](https://github.com/not-ayan/Wallwidgy_Android/) / [GitHub](https://github.com/not-ayan/wallwidgy)
 * [ColorBlendr](https://mahmud0808.github.io/ColorBlendr/) - Theme Manager / Requires Shizuku / [GitHub](https://github.com/Mahmud0808/ColorBlendr)
 * [⁠Iconify](https://github.com/Mahmud0808/Iconify), [⁠Essentials](https://github.com/sameerasw/essentials) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
@@ -253,6 +252,7 @@
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Wallpapers / Custom Icon Packs
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
+* [Mobile Abyss](https://mobile.alphacoders.com/) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
 * [r/Amoledbackgrounds](https://www.reddit.com/r/Amoledbackgrounds/) - Amoled Wallpapers ⁠
 * [Diffuse](https://diffuse.app/) - Live Audio Wallpapers
@@ -1082,14 +1082,15 @@
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes / [Converter](https://convert.pipepipe.dev/)
-* ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[Seal](https://github.com/JunkFood02/Seal)**, [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus), [Seal](https://github.com/JunkFood02/Seal), [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [ReVanced Manager](https://revanced.app/) or [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [⁠Flow](https://flowapp-website.vercel.app/) - Ad-Free YouTube / [GitHub](https://github.com/A-EDev/Flow)
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / Peertube / media.ccc.de / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
+* [⁠NewTube](https://github.com/aleixrodriala/newtube) -  Ad-Free YouTube / SponsorBlock
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube 
 * [⁠Litube](https://github.com/HydeYYHH/litube) - Ad-Free YouTube
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube) or [⁠SkyTubeLegacy](https://github.com/SkyTubeTeam/SkyTubeLegacy) - YouTube Player
-* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / BitChute / SponsorBlock / ReturnYTDislikes
+* [BravePipe](https://github.com/bravepipeproject/BravePipe) - Ad-Free YouTube / Peertube / media.ccc.de / Rumble / BitChute / ReturnYTDislikes
 * [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) - YouTube Player
 
 ***
@@ -1311,7 +1312,7 @@
 ## ▷ Telegram Channels
 
 * ⭐ **[Blatant's IPA Library](https://blatants.fyi/)**, [2](https://t.me/blatants) - Tweaked Apps / [Telegram](https://t.me/blatantbruh) 
-* ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** - Decrypted iOS Apps
+* ⭐ **[Eevee IPA Decrypter](https://t.me/eeveedecrypterbot)** or [FastDecryptBot](https://t.me/FastDecryptBot) - iOS App Decrypters
 * [⁠Jayden’s IPAs](https://t.me/compiledipas) - Tweaked Apps
 * [binnichtaktivsipas](https://t.me/binnichtaktivsipas) - Tweaked Apps
 * [IPA Dark](https://t.me/ipa_dark) - Games
@@ -1342,7 +1343,7 @@
 * [OldLander](https://github.com/OctoNezd/oldlander) - Improve Old Reddit
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Improved Reddit Comment Navigation
 * [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
-* [Frosty](https://www.frostyapp.io/) - Twitch Client / [GitHub](https://github.com/tommyxchow/frosty)
+* [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) or [⁠TwitchUnblock](https://github.com/MXFia19/TwitchUnblock) - Twitch Clients
 * [Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [Discord](https://discord.com/invite/5G8hpgHkXB) / [GitHub](https://github.com/chatsen/chatsen)
 * [Graysky](https://graysky.app/), [Skeets](https://www.skeetsapp.com/) or [Bluesky Social](https://apps.apple.com/app/bluesky-social/id6444370199) - Bluesky Clients
 * [⁠Bluesky Tracker](https://blueskytracker.app/) - Bluesky Network Manager / Insights

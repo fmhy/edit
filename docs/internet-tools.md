@@ -456,9 +456,9 @@
 
 ***
 
-* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 30+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
+* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / 30+ Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain

@@ -19,7 +19,8 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [X](https://x.com/SponsorBlock) / [Subreddit](https://www.reddit.com/r/SponsorBlock/) / [Discord](https://discord.gg/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads
-* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Userscript](https://github.com/AdguardTeam/PopupBlocker)
+
+* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://www.bsbsb.top/) - Skip Sponsored Bilibili Ads / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)
 * [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Bypass YouTubes Forced uBO Player Delay
@@ -430,7 +431,7 @@
 * [Algo VPN](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/) - Cloud VPN / [GitHub](https://github.com/trailofbits/algo)
 * [SShuttle](https://sshuttle.readthedocs.io/en) - SSH VPN Server / [GitHub](https://github.com/sshuttle/sshuttle)
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Simple VPN Server
-* [Openconnect](https://ocserv.gitlab.io/www/index.html) - SSL VPN Server
+* [ocserv](https://ocserv.gitlab.io/www/index.html) - SSL VPN Server
 
 ***
 

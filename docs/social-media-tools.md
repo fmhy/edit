@@ -512,6 +512,7 @@
 
 * ⭐ **[Chatterino](https://chatterino.com/)** / [2](https://github.com/SevenTV/chatterino7), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Clients
 * [Twitch App](https://gitlab.com/linuxbombay/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
+* [⁠TwitchUnblock](https://test2-fawn-eta.vercel.app/) - Twitch Frontend / Web / [GitHub](https://github.com/MXFia19/TwitchUnblock-Web)
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MultiTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [⁠100 Multiview](https://www.100multiview.com/twitch), [Twitch3D](https://hjjg200.github.io/twitch3d/), [MultiStre.am](https://multistre.am/), [MultiStreamer](https://multistreamer.tv/), [⁠Viewington](https://viewington.com/watch) or [TwitchTheater](https://twitchtheater.tv/) - Twitch Multi-Stream

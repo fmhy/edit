@@ -320,7 +320,6 @@
 * [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [⁠LVRA Wiki](https://vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
 * [Vice](https://eklonofficial.github.io/Vice-Website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
-* [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [⁠Amethyst Mod Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) or [Limo](https://github.com/limo-app/limo) - Mod Managers
 * [ssprea-nvidia-control](https://github.com/ssprea/ssprea-nvidia-control), [⁠LACT](https://github.com/ilya-zlobintsev/LACT/) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - GPU Overclocking Tools
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
@@ -813,6 +812,7 @@
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstaller / [GitHub](https://github.com/alienator88/Pearcleaner)
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller / Custom Resolutions / HDR Control
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
+* [OpenDisplay](https://opendisplay.app/) - Use iOS Devices as Secondary macOS Monitors / [GitHub](https://github.com/peetzweg/opendisplay)
 * [⁠EasyDMG](https://github.com/jeff-schumann/EasyDMG) - Automated DMG Installation Tool
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Mos](https://mos.caldis.me/) / [GitHub](https://github.com/Caldis/Mos/blob/master/README.enUS.md), [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping / Smooth Scrolling

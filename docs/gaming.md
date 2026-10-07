@@ -431,10 +431,12 @@
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
-* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
-* [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
+* [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
+* [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
+* [GFS Catalog](https://catalog.gfs-dlps.workers.dev/) - ROMs / PS5 / [Telegram](https://t.me/+N6JTm3sdls04NzU9)
+* [Pippo Library](https://pippo26442999.github.io/.exFAT/) - ROMs / PS5 / PW: pippo
 * [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
 

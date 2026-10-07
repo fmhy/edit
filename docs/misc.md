@@ -401,7 +401,7 @@
 * 🌐 **[Soar](https://soaratlas.com/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
 * ⭐ **[nakarte](https://nakarte.me/)** - Multi-Map Aggregator
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [⁠Institute for the Study of War](https://understandingwar.org/), [ACLED](https://acleddata.com/conflict-data), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
+* ⭐ **[⁠Institute for the Study of War](https://understandingwar.org/)**, **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/conflict-data), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/), [⁠World-Monitor](https://world-monitor.com/), [⁠SitDeck](https://sitdeck.com/), [⁠Iran War Map](https://iranwarmap.com/), [⁠Conflictly](https://www.conflictly.app/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflict Maps
 * [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
 * [Terraink](https://terraink.app/) / [GitHub](https://github.com/yousifamanuel/terraink), [⁠CartoArt](https://carto-art.vercel.app/) or [Map to Poster](https://github.com/originalankur/maptoposter) - Map Poster / Art Generators
 * [FreeMapTools](https://www.freemaptools.com/) - Map Tools
@@ -453,7 +453,7 @@
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [⁠London Live](https://london.pengrubin.com/) - London Public Transport Map
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
-* [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) or [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) - Hong Kong Public Transport Maps
+* [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) or [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) - Hong Kong Public Transport Maps
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
 * [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
 * [kakaomap](https://map.kakao.com/) - Map of South Korea
@@ -1684,7 +1684,6 @@
 * [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
-* [Odyssey](https://experience.odyssey.ml/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
@@ -1725,7 +1724,6 @@
 ## ▷ Interesting
 
 * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
-* ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending AI Conversations
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
 * ⭐ **[TierMaker](https://tiermaker.com/)**, [GOATY](https://goaty.gg/) or [OpenTierBoy](https://www.opentierboy.com/) / [GitHub](https://github.com/infinia-yzl/opentierboy) - Create / Explore Tier Lists
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
@@ -1743,6 +1741,7 @@
 * [⁠Internet Checkpoint](https://internetcheckpoint.page/) - Archive of taia777 "Internet OST Checkpoints" / Life Stories / [Discord](https://discord.gg/Qwt7m8CFVn) / [GitHub](https://github.com/geauser/internetcheckpoint)
 * [⁠moltbook](https://www.moltbook.com/) - A Social Network for AI Agents
 * [Chirper](https://chirper.ai/) - AI Generated X.com
+* [InfiniteConversation](https://infiniteconversation.com/) - Never-Ending AI Conversations
 * [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
 * [⁠Museum of Failure](https://museumoffailure.com/) - Failed Products / Services History
 * [⁠Detective Board](https://www.detectiveboard.io/) - Make / Explore Community Detective Boards

@@ -17,13 +17,14 @@
 * 🌟 **[PopcornMovies](https://popcornmovies.ac/)** or [BingeBox](https://bingebox.ac/) - Movies / TV / Anime / Auto-Next
 * 🌟 **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
 * 🌟 **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.win/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* 🌟 **[7Movies](https://7movies.ac/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF) / [Telegram](https://t.me/+0XhCnzzvCt9hMTNl)
 * 🌟 **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/), [3](https://shuttletv.me/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/wsPmVB7ZJZ)
 * 🌟 **[Atlantic](https://atlantic.st/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/ekUMJ7WVnW)
-* 🌟 **[7Movies](https://7movies.ac/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF) / [Telegram](https://t.me/+0XhCnzzvCt9hMTNl)
 * 🌟 **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Stellar](https://stellar.gdn/)** - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/wncJByPPDU)
 * ⭐ **[67Movies](https://67movies.st/)** or [PhantomFlix](https://phantomflix.net/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[MeowTV](https://meowtv.ru/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-raven)
+* ⭐ **[Movie Night](https://movienig.ht/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)
 * ⭐ **[bCine](https://cineyz.com/)** or [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/6ZXNmPedkG)
 * ⭐ **[ArrowTV](https://arrowtv.net/)**, [2](https://neonflix.st/) or [Cinezo](https://www.cinezo.st/), [2](https://www.flikhub.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/yWWKfMbtm3)
 * ⭐ **[Streamo](https://streamo.pro/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/qn3xdYS69)
@@ -31,8 +32,6 @@
 * ⭐ **[Vivarium](https://vivarium.su/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jT6daX7q2u)
 * ⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Spacedom](https://spacedom.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/6NU9thcPYs)
-* ⭐ **[Movie Night](https://movienig.ht/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/kPJ2yJxYng)
-* [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/spenflix)
 * [FlyStream](https://flystream.net/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/flystream)
 * [Chillflix](https://chillflix.lol/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+jXrFnrO-TYA4ZGMy) / [Discord](https://discord.gg/6r5KTZgqXV)
 * [MovieBite](https://moviebite.org/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
@@ -398,6 +397,7 @@
 * [Kawaii Anime](https://kawaiianime.cc/) - Sub / Dub
 * [FireAnime](https://fireani.me/) - Sub
 * [⁠9anime](https://9animstv.to/) - Sub / Dub
+* [MultiAnime](https://multinime.site/) - Sub / Dub
 * [PirateXplay](https://piratexplay.cc/home) - Sub / [Mirrors](https://piratexplay.com/)
 * [Kuroiru](https://kuroiru.co/) / [Subreddit](https://www.reddit.com/r/StreamingAnime/) / [Discord](https://discord.com/invite/ys6NASYQSd) or [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) - Multi-Site Anime Search
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub
@@ -596,17 +596,18 @@
 * [⁠StreamFree](https://streamfree.top/), [2](https://strmfree.st/) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.pl/) / [Status](https://strumyk.domains/)
-* [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
 * [BINTV](https://www.bintv.cc/), [2](https://cosectv.com/) / [Status](https://www.bintv.link/) / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * [Watch Footy](https://watchfooty.st/) / [Mirrors](https://wfty.link/)
 * [NTV](https://ntv.cx/), [2](https://ntvs.cx/) / [Discord](https://discord.gg/uY3ud5gcpW)
 * [LiveTV](https://livetv.sx/enx/)
 * [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/)
+* [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)
 * [Cinevid](https://cinevid.st/iptv/schedule)
 * [DaddyLiveHD](https://daddylive.mov/), [2](https://daddylive.app/), [3](https://daddylive.li/) / [Mirrors](https://rentry.co/daddylivehd) / [Telegram](https://t.me/addlist/khVpZrgJToIxNTJl) / [Discord](https://discord.gg/qc4jksxk7a)
 * [Reedstreams](https://reedstreams.to/), [2](https://reedstreams.st/) - Stream Aggregator / [Mirrors](https://reedstreams.link/) / [Discord](https://discord.gg/fGfgxcnXUv)
 * [xyzstreams](https://xyzstreams.st/)
+* [⁠AuraSports](https://aurasports.xyz/)
 * [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/), [3](https://www.futbol-x.sryze.cc/) - Live Events / [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
 * [Sportsurge](https://v2.sportsurge.net/)
 * [⁠Matchora](https://matchora.to/)
@@ -991,10 +992,11 @@
 * ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) or [1Tube](https://www.1tube.org/torrent) - Multi-Site Search
+* [⁠DVDeez](https://dvdeez.top/) - DVD + Bluray ISOs
+* [Youplex Torrents](https://youplex.cc/) - Movies / TV / Anime / 4K
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
 * [LimeTorrents](https://www.limetorrents.fun/) - Movies / TV
 * [Heartive](https://heartivelovestv.pages.dev/) - Movies / TV / Anime
-* [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K
 * [CinemaCity](https://cinemacity.cc/) - Movies / TV / Anime / [Telegram](https://t.me/CinemaCity_rip)
 * [⁠Kontrast](https://kontrast.top/) - Movies / TV
 * [TorrentSurf](https://torrentsurf.to/) - Movies / TV
@@ -1084,11 +1086,11 @@
 
 ## ▷ Recommendation Tools
 
-* ⭐ **[They Shoot Pictures](https://www.theyshootpictures.com/)** - Movie Top 1000 List
-* ⭐ **[MDBList](https://mdblist.com/)** or [FlickMetrix](https://flickmetrix.com/) - Combine IMDb, Metacritic & Letterboxd Ratings
-* ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations
+* ⭐ **[They Shoot Pictures](https://www.theyshootpictures.com/)** - Critic's Consensus / Top 1000
+* ⭐ **[MDBList](https://mdblist.com/)** or [FlickMetrix](https://flickmetrix.com/) - Rating Aggregation / Filtering
+* ⭐ **[TasteDive](https://tastedive.com/)** - Similar Movie Recommendations
 * ⭐ **[The Criterion Closet](https://thecriterioncloset.com/)** - Curated World Cinema / 3D Criterion Collection / [Popular Picks](https://closet-picks.com/)
-* ⭐ **[Sight and Sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/)** - Movie Top 250 List
+* ⭐ **[Sight and Sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/)** - ritics' and Directors' Film Polls / Top 250
 * ⭐ **[Series Graph](https://seriesgraph.com/)**, [Ratings Graph](https://www.ratingraph.com/), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode / Movie Rating Graphs
 * [⁠FilmDilemma](https://filmdilemma.com/) - Movie Recommendations
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
