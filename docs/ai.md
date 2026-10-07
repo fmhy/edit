@@ -180,6 +180,7 @@
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - Desktop App / Local Models / [X](https://x.com/Amuse_AI)
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 * [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
+* [Genjutsu AI](https://genjutsu-ai.org/) - Multiple Models / Video & Image Generation / Freemium / Sign-Up
 
 ***
 
