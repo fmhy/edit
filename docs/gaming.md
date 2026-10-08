@@ -169,6 +169,7 @@
 * 🌐 **[Game Decompilations](https://decomps.fun/)**, [2](https://decomps.samidy.com/), [3](https://rentry.co/Decomps) - Game Decompilations / Ports / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
 * 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations / Ports
 * 🌐 **[Awesome Game Decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations / Ports
+* 🌐 **[Game Decomps That Arent Vibe Coded](https://backloggd.com/u/WumpaGem/list/game-decompsrecomps-that-arent-vibe-coded/)** - Game Decompilations / Ports
 * 🌐 **[Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)** - Game Decompilations / Ports
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Decompilations / Ports
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports
@@ -648,7 +649,7 @@
 * 🌐 **[ChessVariants](https://www.chessvariants.com/index/favorites.php)** - Chess Variant Encyclopedia
 * ↪️ **[Chess Learning / Practice](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
 * ⭐ **[Lichess](https://lichess.org/)** - Chess Platform / [Discord](https://discord.com/invite/lichess) / [GitHub](https://github.com/lichess-org)
-* ⭐ **Lichess Tools** - [Mobile Apps](https://lichess.org/app) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extra Functionality](https://lichess.org/page/extend) / [Game Database](https://database.lichess.org/)
+* ⭐ **Lichess Tools** - [Mobile Apps](https://lichess.org/app) / [Prettier UI](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Enhancement Extension](https://siderite.dev/LiChessTools/) / [Extra Functionality](https://lichess.org/page/extend) / [Game Database](https://database.lichess.org/)
 * ⭐ **[PyChess](https://www.pychess.org/)** - Chess Platform / [Discord](https://discord.gg/aPs8RKr) / [GitHub](https://github.com/gbtami/pychess-variants)
 * [Chess.com](https://www.chess.com/) - Chess Platform / [Discord](https://discord.gg/3VbUQME)
 * [GameKnot](https://gameknot.com/) - Chess Platform
@@ -1024,6 +1025,7 @@
 * ⭐ **[OpenFront](https://openfront.io/)** / [Wiki](https://openfront.wiki/) / [Subreddit](https://www.reddit.com/r/OpenFront/) / [Discord](https://discord.gg/k22YrnAzGp) / [GitHub](https://github.com/openfrontio/openfrontio), [⁠LANDS.io](https://lands.io/) / [Discord](https://discord.gg/landsio) or [Territorial.io](https://territorial.io/) / [Discord](https://discord.com/invite/pthqvpTXmh) - Conquest / War Style Games
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
 * [⁠FreeCiv-Web](https://freecivweb.com/) - Civilization Remake / [GitHub](https://github.com/Lexxie9952/fcw.org-server)
+* [⁠Gem Tower Defense](https://www.gemtowerdefense.com/) - Gem Combo-Style Tower Defense
 * [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
 * [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War

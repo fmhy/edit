@@ -643,9 +643,9 @@
 
 * ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive / Lookup / Monitor / Viewer / Link Tracker & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
-* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
+* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠TikTok Control Panel](https://github.com/ElectricArdvark/Tiktok-control-panel) - Control Panel / Extra Functionalities 
 * [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)

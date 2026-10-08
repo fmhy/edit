@@ -252,6 +252,7 @@
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
+* [⁠Last Minute Engineers](https://lastminuteengineers.com/) - Electronics Engineering Learning
 * [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526) (linux), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
@@ -1064,6 +1065,7 @@
 * [⁠Rebrickable](https://rebrickable.com/) - LEGO Collection Manager / Build Ideas
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop), [LeoCAD](https://www.leocad.org/) / [GitHub](https://github.com/leozide/leocad) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building / 3D Editors
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brickfact](https://brickfact.com/) - LEGO Set Database / Price Tracker
 * [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool
 * [⁠MinifigScan](https://pacolabs.com/MinifigScan/) - LEGO Minifigure Blind Box Identification Tool 

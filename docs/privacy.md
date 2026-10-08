@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Many sites contain ads, popups or redirects, so we [highly recommend](https://fmhy.net/beginners-guide#adblocking) using an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://x.com/gorhill/status/1033706103782170625) / [2](https://xcancel.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version.
+* **Note** - Many sites contain ads, popups or redirects, so we [highly recommend](https://fmhy.net/beginners-guide#adblocking) using an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://x.com/gorhill/status/1033706103782170625) / [2](https://xxcancel.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version.
 
 ***
 
@@ -19,7 +19,6 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [X](https://x.com/SponsorBlock) / [Subreddit](https://www.reddit.com/r/SponsorBlock/) / [Discord](https://discord.gg/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads
-
 * [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) or [PopUpOFF](https://popupoff.org/) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://www.bsbsb.top/) - Skip Sponsored Bilibili Ads / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)
@@ -215,7 +214,8 @@
 * [I2P](https://i2p.net/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
 * [Freenet](https://freenet.org/) - Decentralized P2P Web / [GitHub](https://github.com/freenet/web)
 * [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
-* [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
+* [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI
+* [⁠wifit3](https://github.com/derv82/wifit3) - USB Wi-Fi Auditing Tool
 * [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [OPNsense](https://opnsense.org/) - Firewall / [GitHub](https://github.com/opnsense)
@@ -406,7 +406,7 @@
 * ⭐ **[IVPN](https://www.ivpn.net/)** - Paid / [No-Log](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [No Port Forwarding](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [Firefox VPN](https://support.mozilla.org/en-US/kb/built-in-vpn) - Free / 50GB Monthly
 * [Nym](https://nym.com/) - Paid / [5-Hop Mixnet](https://nym.com/mixnet) / [Subreddit](https://www.reddit.com/r/nym/) / [GitHub](https://github.com/nymtech/nym)
-* [RiseupVPN](https://riseup.net/en/vpn) / [GitHub](https://github.com/riseupnet) or [Bitmask](https://bitmask.net/) / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn) - Free / Unlimited / No Port Forwarding
+* [RiseupVPN](https://riseup.net/en/vpn) / [GitHub](https://github.com/riseupnet), [Calyx VPN](https://f-droid.org/packages/org.calyxinstitute.vpn/) (android) or [Bitmask](https://bitmask.net/) / [Android](https://0xacab.org/leap/bitmask_android) / [GitLab](https://0xacab.org/leap/bitmask-vpn) - Free / Unlimited / No Port Forwarding
 * [PrivadoVPN](https://privadovpn.com/freevpn) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 
 ***

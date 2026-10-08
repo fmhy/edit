@@ -1005,7 +1005,7 @@
 * [⁠FlixQuest](https://flixquest.beamlak.dev/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
-* [⁠Vyla Go](https://vyla.cc/go), [2](https://vyla.qzz.io) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/Vyla/) / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
+* [⁠Vyla Go](https://vyla.cc/products/go), [2](https://vyla.qzz.io) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/Vyla/) / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [⁠Zangetsu](https://zangetsu.online/) - Movies / TV / Anime / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu)
 * [OnStream](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires SPlayer
 * [FilmPlus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires BPlayer
@@ -1288,10 +1288,10 @@
 * 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [⁠Departures](https://departures.to/) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TestFlight App Indexes
 * 🌐 **[⁠App Store Tracker](https://appstoretracker.com/)** - App Store Analytics / Tracker 
 * 🌐 **[iOS Console Emulators](https://www.reddit.com/r/EmulationOniOS/wiki/emulators)** - Gaming Emulator Index
+* ⭐ **[⁠ShrubLibrary](https://shrublibrary.pages.dev/)** - IPA Repo Aggregator / Search Engine / [Discord](https://discord.gg/Zt3cgdSvkd) / [GitHub](https://github.com/zoinkdoggie94/ShrubLibrary)
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
 * [IPALibrary](https://ipalibrary.me/) - Tweaked Apps / Use Safari to Translate
 * [4PDA](https://4pda.to/forum/) - Tweaked Apps / Use Safari to Translate / [Captcha Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/captcha-4pda.md)
-* [⁠ShrubLibrary](https://shrublibrary.pages.dev/) - IPA Repo Aggregator / Search Engine / [Discord](https://discord.gg/Zt3cgdSvkd)
 * [AppDB](https://appdb.to) - App Library
 * [iOSVizor](https://iosvizor.com/) - Tweaked Apps / [Request](https://iosvizor.com/suggest/) / [Telegram](https://t.me/iosvizor)
 * [DriftyWinds](https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json) - AltStore App Source

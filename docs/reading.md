@@ -151,6 +151,7 @@
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/e-readers/) - Compare E-Readers
+* [⁠eBook Fonts Showcase](https://ebook-fonts.nicoverbruggen.be/) - Custom E-Reader Typography + Font Preview Tool
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
 * [⁠ReaderBackdrop](https://www.readerbackdrop.com/) - Wallpapers for E-Readers
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
@@ -889,7 +890,8 @@
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
 * ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
-* [⁠Book Notification](https://www.booknotification.com/) - Book / Author Release Notifications 
+* [⁠Book Notification](https://www.booknotification.com/) - Book / Author Release Notifications
+* [⁠Bookfeed.io](https://bookfeed.io/) - Author Release RSS Feeds
 * [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
 * [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
 * [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations

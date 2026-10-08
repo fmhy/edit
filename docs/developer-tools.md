@@ -70,7 +70,7 @@
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [⁠bin](https://github.com/marcosnils/bin) - Binary Manager / Windows, macOS, Linux
-* [N8N](https://n8n.io/) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
+* [N8N](https://github.com/n8n-io/n8n) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
 * [⁠lastversion](https://github.com/dvershinin/lastversion) - Find / Download Latest Project Releases 
 * [Sentry](https://sentry.io/) or [Darkly](https://launchdarkly.com/) - Error Tracking Platforms
 * [Mockaroo](https://mockaroo.com/) or [Mockium](https://softwium.com/mockium/) - Generate Test Data
@@ -1173,6 +1173,7 @@
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - Encrypted DNS Providers & Resources / [Public Servers](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers) / [iOS + macOS Configs](https://github.com/paulmillr/encrypted-dns)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [DNS Propagation](https://dnsaudit.io/tools/dns-propagation-check) - DNS Checker
+* [⁠DNS.is](https://dns.is/) - DNS Resolution Check
 * [⁠DNS Coffee](https://dns.coffee/) - DNS Search History Tool 
 * [MXToolBox](https://mxtoolbox.com/) - MX Record Lookup Tool
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security

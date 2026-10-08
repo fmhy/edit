@@ -281,7 +281,7 @@
 
 ## ▷ Online Editors
 
-* ⭐ **[Zen](https://zen.unit.ms/)** - Local Saves
+* ⭐ **[nanotype](https://nanotype.app/)** - Local Saves
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
 * [Browserpad](https://browserpad.org/) - Local  / [GitHub](https://github.com/Browserpad/browserpad)

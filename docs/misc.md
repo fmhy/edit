@@ -121,7 +121,7 @@
 * [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
 * [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
-* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games
+* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games / [Extension](https://gg.deals/extension/) / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * [GamerPower](https://www.gamerpower.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/notifications) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
@@ -1281,7 +1281,7 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multi-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Multi-Platform / [Extension](https://gg.deals/extension/) / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Extension](https://augmentedsteam.com/) / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠Dark Pattern Games](https://www.darkpattern.games/) - Addictive Mobile Game Mechanic Avoidance Database
@@ -1325,11 +1325,13 @@
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
 * [Misprint](https://www.misprint.com/) - Buy / Sell Pokémon Cards
 * [⁠ThePriceDex](https://www.thepricedex.com/) - Pokémon Card Price Tracking
+* [PkmnCards](https://pkmncards.com/), [Pokéllector](https://www.pokellector.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
 * [The Toy Pool](https://thetoypool.com/) - Multi-Brand Toy & Doll Database
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
+* [⁠Brickfact](https://brickfact.com/) - LEGO Set Database / Price Tracker
 * [⁠MinifigScan](https://pacolabs.com/MinifigScan/) - LEGO Minifigure Blind Box Identification Tool
 * [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
