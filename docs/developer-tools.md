@@ -302,6 +302,7 @@
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot / [GitHub](https://github.com/codebam/cf-workers-telegram-bot)
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
+* [Xora](https://xora.sh/) - Cloud FFmpeg API for media jobs
 
 ***
 
