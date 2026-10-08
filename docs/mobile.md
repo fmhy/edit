@@ -522,7 +522,7 @@
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
-* [⁠HMA-OSS](https://github.com/frknkrc44/HMA-OSS) or [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) (root) - Hide Applist
+* [⁠HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - Hide Applist
 * [JustUseApp](https://justuseapp.com/) - App Subscription Reviews
 
 ***
@@ -1414,7 +1414,7 @@
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/NuvioMedia/NuvioStreaming) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* [⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
 * [Shiopa Mobile](https://help.shiopa.com/docs/) - Movies / TV / Anime
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [Pojobox](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players

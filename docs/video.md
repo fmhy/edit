@@ -73,11 +73,11 @@
 * [NOVA](https://novahd.cc/) - Movies / TV / Anime / Auto-Next
 * [Zoryva X](https://zoryva.me/) - Movies / TV / Anime / Auto-Next
 * [Youplex](https://youplex.site/) - Movies / TV / Anime / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
+* [PopcornTime](https://popwatch.to/) - Movies / TV / Anime / Auto-Next
 * [NetPlay](https://netplayz.icu/) or [Cinelove](https://cinelove.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/ScreenScapee)
 * [GreyBox](https://greywatchbox.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/8Cujv2VNp)
 * [Kofi](https://kofi.mov/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JsJqRzrjaG)
-* [PopcornTime](https://popwatch.to/) - Movies / TV / Anime / Auto-Next
 * [frameXTV](https://framextv.tech/) - Movies / TV / Anime / [Discord](https://discord.gg/vPCHZ6PgRX)
 * [StreamVaults](https://streamvaults.ru/) or [ReelStream](https://rreelstream.live/) - Movies / TV / Anime / [Telegram](https://t.me/streamvaultscrew)
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
@@ -353,7 +353,7 @@
 * 🌐 **[The Index](https://theindex.moe/library/anime)** - Anime Site Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Anime Site Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ↪️ **[Anime Streaming Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming_apps)**
-* ⭐ **[Miruro](https://www.miruro.com/)**, [2](https://miruro.tv), [3](https://miruro.bz), [4](https://miruro.cx), [5](https://miruro.to) - Hard Subs / Soft Subs / Dub / Auto-Next / [Status](https://status.miruro.com/) / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.com/invite/pjsdJp96mY) / [GitHub](https://github.com/Miruro-no-kuon/Miruro)
+* ⭐ **[Miruro](https://www.miruro.com/)**, [2](https://miruro.tv), [3](https://miruro.bz), [4](https://miruro.cx), [5](https://miruro.to) - Hard Subs / Soft Subs / Dub / Auto-Next / [Status](https://status.miruro.com/) / [Subreddit](https://www.reddit.com/r/miruro/) / [Discord](https://discord.com/invite/pjsdJp96mY)
 * ⭐ **[animepahe](https://animepahe.pw/)** - Hard Sub / Dub / Some NSFW / [Enhancements](https://update.greasyfork.org/scripts/520048/AnimePahe%20Improvements.user.js) / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kaa.lt/)** - Sub / Dub / Auto-Next / [Telegram](https://t.me/kickassanimev3) / [Discord](https://discord.gg/6EGTnNQAaV)
 * ⭐ **[MKissa](https://mkissa.to/)** or [All Manga](https://allmanga.to/) - Sub / Dub / [Discord](https://discord.com/invite/6nce6cyJyM)

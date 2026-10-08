@@ -166,7 +166,7 @@
 ***
 
 * 🌐 **[Kindle Jailbreak Guide](https://kindlemodding.org/jailbreaking/index.html)** - Jailbreak Guides / Index
-* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Z-Library Plugin](https://github.com/OctoNezd/zlibrary.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib), [3](https://omer-faruq.github.io/koreader-plugin-index/) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
+* ⭐ **[KOReader](https://koreader.rocks/)** - Ebook Reader / [Minimal UI](https://github.com/AnthonyGress/zen_ui.koplugin) / [Plugins](https://kindlemodshelf.me/plugins), [2](https://github.com/koreader/contrib), [3](https://omer-faruq.github.io/koreader-plugin-index/) / [Settings Guide](https://rentry.co/koreadersettings) / [Patches](https://kindlemodshelf.me/patches) / [App Store](https://github.com/omer-faruq/appstore.koplugin) / [GitHub](https://github.com/koreader/koreader)
 * [Kindle Modding Community](https://discord.com/invite/wDbbZTF5QF) - Kindle Modding / Jailbreak Discord
 * [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
 * [LARK](https://kindlemodshelf.me/lark) - Libre Audiobook Player

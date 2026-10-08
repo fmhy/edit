@@ -11,7 +11,7 @@
 # ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires Sign-Up
-* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://github.com/RutrackerOrg/rutracker-proxy)
+* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
 * [1337x](https://1337x.to/home/), [2](https://x1337x.cc/), [3](https://1337x.st/), [4](https://x1337x.ws/), [5](https://x1337x.eu/) - Video / Audio / [Mirrors](https://1337x-status.org/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)

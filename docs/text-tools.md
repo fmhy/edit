@@ -472,7 +472,7 @@
 
 ## ▷ Markdown Editors
 
-* ⭐ **[MarkD](https://markd.it/)** / [GitHub](https://github.com/itzcozi/markd/)
+* ⭐ **[MarkD](https://markd.it/)**
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
 * [⁠Markdown Monster](https://markdownmonster.west-wind.com/) / [GitHub](https://github.com/RickStrahl/MarkdownMonster) 
 * [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
