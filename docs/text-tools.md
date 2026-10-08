@@ -284,7 +284,7 @@
 * ⭐ **[nanotype](https://nanotype.app/)** - Local Saves
 * ⭐ **[Proton Docs](https://proton.me/drive/docs)** - Local / Cloud Saves / [Discord](https://discord.com/invite/proton)
 * [Leaflet](https://leaflet.pub/) - Cloud Saves / Customizable / [Examples](https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082)
-* [Browserpad](https://browserpad.org/) - Local  / [GitHub](https://github.com/Browserpad/browserpad)
+* [Browserpad](https://browserpad.org/) - Local / [GitHub](https://github.com/Browserpad/browserpad)
 * [⁠Chaxus](https://edit.chaxus.com/) - Local Saves / [GitHub](https://github.com/ranuts/document)
 * [EdenText](https://edentext.app/) - Local Saves / [GitHub](https://github.com/stffnb/edentext)
 * [Online Notepad](https://onlinenotep.ad) - Local Saves

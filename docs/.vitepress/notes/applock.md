@@ -1,3 +1,3 @@
 #### AppLock Note
 
-Note this is a privacy utility meant to prevent common snooping, its not claiming to be a security tool, and will not stop forensic analysis.
+Note this is a privacy utility meant to prevent common snooping, it's not claiming to be a security tool, and will not stop forensic analysis.
