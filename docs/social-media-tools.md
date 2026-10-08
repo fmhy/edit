@@ -641,7 +641,7 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive / Lookup / Monitor / Viewer / Link Tracker & more / [Telegram](https://t.me/tiktracksite)
+* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
