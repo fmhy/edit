@@ -168,6 +168,7 @@ files.forEach((file) => {
   const headingStack = []
   const seenHeadings = new Map()
   const primaryUrlsBySection = new Map()
+  const hierarchyCache = new Map()
 
   lines.forEach((line, index) => {
     const lineNum = index + 1
@@ -1013,45 +1014,50 @@ files.forEach((file) => {
       const N = end - start + 1
 
       if (N > 1) {
-        const blockTiers = []
-        for (let k = start; k <= end; k++) {
-          blockTiers.push(getTier(lines[k]))
-        }
+        const cacheKey = `${start}:${end}`
+        let inLNDS = hierarchyCache.get(cacheKey)
+        if (!inLNDS) {
+          const blockTiers = []
+          for (let k = start; k <= end; k++) {
+            blockTiers.push(getTier(lines[k]))
+          }
 
-        const dp = new Array(N).fill(1)
-        const parent = new Array(N).fill(-1)
+          const dp = new Array(N).fill(1)
+          const parent = new Array(N).fill(-1)
 
-        for (let i = 0; i < N; i++) {
-          for (let j = 0; j < i; j++) {
-            if (blockTiers[j] <= blockTiers[i]) {
-              if (dp[j] + 1 > dp[i]) {
-                dp[i] = dp[j] + 1
-                parent[i] = j
+          for (let i = 0; i < N; i++) {
+            for (let j = 0; j < i; j++) {
+              if (blockTiers[j] <= blockTiers[i]) {
+                if (dp[j] + 1 > dp[i]) {
+                  dp[i] = dp[j] + 1
+                  parent[i] = j
+                }
               }
             }
           }
-        }
 
-        let maxLen = 0
-        let maxIdx = -1
-        for (let i = 0; i < N; i++) {
-          if (dp[i] >= maxLen) {
-            maxLen = dp[i]
-            maxIdx = i
+          let maxLen = 0
+          let maxIdx = -1
+          for (let i = 0; i < N; i++) {
+            if (dp[i] >= maxLen) {
+              maxLen = dp[i]
+              maxIdx = i
+            }
           }
-        }
 
-        const inLNDS = new Set()
-        let curr = maxIdx
-        while (curr !== -1) {
-          inLNDS.add(curr)
-          curr = parent[curr]
+          inLNDS = new Set()
+          let curr = maxIdx
+          while (curr !== -1) {
+            inLNDS.add(curr)
+            curr = parent[curr]
+          }
+          hierarchyCache.set(cacheKey, inLNDS)
         }
 
         const localIdx = index - start
 
         if (!inLNDS.has(localIdx)) {
-          const currentTier = blockTiers[localIdx]
+          const currentTier = getTier(lines[index])
           const titleMatch = line.match(/\[[^\]]+\]/)
           const offendingMatch = titleMatch
             ? titleMatch[0]
