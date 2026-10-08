@@ -100,7 +100,7 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/NLnetLabs/unbound)
-* [⁠Tiarap](https://tiar.app/)
+* ⭐ **[⁠Tiarap](https://tiar.app/)**
 * [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / [GitHub](https://github.com/PUT-Request/Artemis/)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver
 * [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)

@@ -451,7 +451,7 @@
 * [⁠GPS Visualizer](https://www.gpsvisualizer.com/) - Create Maps + Profiles from GPS Data
 * [Wikiroutes](https://wikiroutes.info/), [⁠Travic](https://travic.app/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
-* [⁠London Live](https://london.pengrubin.com/) - London Public Transport Map
+* [⁠London Live](https://london.pengrubin.com/) or [SmartLDN](https://labs.palapple.com/smartldn) - London Public Transport Maps
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
 * [⁠HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) / [GitHub](https://github.com/keithligh/hk-traffic-intelligence) or [⁠Hong Kong Transit 3D](https://hktransit3d.pages.dev/) - Hong Kong Public Transport Maps
 * [Mini Map Macau](https://mini-map-macau.app/) - Macau Public Transport Map / [GitHub](https://github.com/asdfghj1237890/mini-macau)
@@ -1726,10 +1726,10 @@
 ## ▷ Interesting
 
 * ↪️ **[Learning Sites & Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_learning_sites)**
+* ⭐ **[The Pudding](https://pudding.cool/)** - Explains Ideas w/ Visual Essays
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Rank Engine](https://www.pubmeeple.com/ranking-engine), [Topsters](https://topsters.org/), [Listography](https://listography.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Ranked Lists
 * ⭐ **[TierMaker](https://tiermaker.com/)**, [GOATY](https://goaty.gg/) or [OpenTierBoy](https://www.opentierboy.com/) / [GitHub](https://github.com/infinia-yzl/opentierboy) - Create / Explore Tier Lists
 * [Wiki List of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists) - Index of Wiki Lists
-* [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Iceberg Charts](https://www.reddit.com/r/IcebergCharts/) or [⁠Iceberg Threads](https://icebergthreads.com/) - Explore Obscure Topics
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [⁠MythBusters Results](https://mythresults.com/) - Tested MythBusters Myth Repository

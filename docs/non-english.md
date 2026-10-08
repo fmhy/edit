@@ -17,9 +17,9 @@
 
 ## ▷ Downloading / تحميل
 
+* ⭐ **[egydead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Stardima](https://www.stardima.com/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV / Anime / Hard Subs
-* [egydead](https://tv10.egydead.live/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FilmCity](https://m.filmcity12.com/) - Movies
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -33,8 +33,8 @@
 
 ## ▷ Streaming / البث
 
+* ⭐ **[egydead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [egydead](https://tv10.egydead.live/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [egybest](https://egybest.la/) - Movies / TV / Anime
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -1036,8 +1036,8 @@
 
 * 🌐 **[Polish Kodi Addons](https://github.com/mtr81/kodi_addons)**
 * 🌐 **[FilmWeb](https://www.filmweb.pl/vod/free)** - Free w/ Ads Service Index
+* ⭐ **[Shinden](https://shinden.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
 * ⭐ **[Obejrzyj](https://www.obejrzyj.to/)** - Movies / TV
-* ⭐ **[OgladajAnime](https://ogladajanime.pl/)** - Anime / Sub / 1080p
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
 * ⭐ **[Strumyk](https://strumyk.pk/)** or [Strims24](https://strims24.pl/) - Stream Aggregator / [Status](https://strumyk.domains/)
 * [Virpe](https://virpe.cc/) - Movies / TV
@@ -1063,8 +1063,8 @@
 * [FrixySubs](https://frixysubs.pl/) - Anime / Sub / 1080p
 * [Nana Subs](https://nanasubs.com/) - Anime / Sub / 1080p
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
+* [OgladajAnime](https://ogladajanime.pl/) - Anime / Sub / 1080p
 * [Desu-Online](https://desu-online.pl/) - Anime / Sub / 1080p
-* [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
 * [Sport TVP](https://sport.tvp.pl/) - Live Sports
 * [35mm](https://35mm.online/) - Film Archive / [Database](https://filmpolski.pl/fp/index.php)
 * [dokumentalne](https://dokumentalne.net/) - Documentaries

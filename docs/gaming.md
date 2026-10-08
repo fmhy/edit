@@ -181,7 +181,7 @@
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
-* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [GitHub](https://github.com/HarbourMasters/Shipwright)
+* [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port / [Discord](https://discord.com/invite/harbourmaster) / [GitHub](https://github.com/HarbourMasters/Shipwright)
 * [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) / [Discord](https://discord.gg/AWZThJ4dPf) or [⁠2Ship2Harkinian](https://github.com/2ship2harkinian/2ship2harkinian) / [Discord](https://discord.com/invite/sxrPyuh697) - Majora's Mask Ports
 * [Wiicompiled](https://github.com/patchzyy/wiicompiled) - Mario Kart Wii Recompilation w/ Unlocked Framerate / Can Be Installed via Wheel Wizard
 * [Beyond All Reason](https://www.beyondallreason.info/) - Open-Source Total Annihilation / Supreme Commander / [Discord](https://discord.gg/beyond-all-reason) / [GitHub](https://github.com/beyond-all-reason)

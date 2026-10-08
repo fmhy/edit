@@ -714,6 +714,7 @@
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [Local Models Papers](https://rentry.org/LocalModelsPapers) - LLM Related Research Papers
+* [⁠Aftergleam](https://aftergleam.app/) - Research Paper Reader / Android / [GitHub](https://github.com/jakobkreft/Aftergleam)
 * [Legal Core](https://core.ac.uk/) - Papers / Academic
 * [Dataone](https://www.dataone.org/) - Datasets
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
