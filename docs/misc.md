@@ -1233,6 +1233,7 @@
 * [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1ExFofRZOk9BP2-gp0jtMHPmnStkHlkG_3KmqQNgwyBc/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/), [⁠PricePerGig](https://pricepergig.com/), [List of Disks](https://www.listofdisks.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Trackers
+* [GraphicCardPrices](https://graphiccardprices.com/local-llm-gpu-guide/) - Local LLM GPU Buying Guide / Amazon US Recorded Prices / New and Used Filters
 * [EveryMac](https://everymac.com/) - Mac Info Database
 
 ***
