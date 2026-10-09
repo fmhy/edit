@@ -88,6 +88,8 @@
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator / EmulatorJS
+* [ClassicEmu](https://classicemu.com/) - Retro Consoles / EmulatorJS
+* [EmuGamers](https://emugamers.com/) - Retro Consoles / EmulatorJS
 * [PlayRetroGames](https://www.playretrogames.com/) - Retro Consoles / NeptunJS
 * [PlayEmulator](https://playemulator.online/) - Retro Consoles / NeptunJS
 * [8bbit](https://www.8bbit.com/) - NES Browser Emulator / NeptunJS
