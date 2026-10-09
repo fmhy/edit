@@ -29,7 +29,6 @@
 * [⁠The Playstation Datacenter](https://psxdatacenter.com/) - Playstation Data Index 
 * [FRAMED](https://framedsc.com/index.htm) - In-Game Screenshotting Tips
 * [NIWA](https://www.niwanetwork.org/) - Nintendo Independent Wiki Alliance / [Discord](https://discord.gg/59Mq6qB)
-* [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [The Models Resource](https://models.spriters-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites / [Discord](https://discord.gg/tsr)
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
@@ -731,7 +730,9 @@
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [⁠OneClient](https://polyfrost.org/projects/oneclient) - Feature-Rich Launcher
 * [ATLauncher](https://atlauncher.com/) / [Discord](https://discord.com/invite/B7TrrzH) / [GitHub](https://github.com/ATLauncher/ATLauncher), [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic), [FjordLauncher](https://github.com/unmojang/FjordLauncher) or [PandoraLauncher](https://pandora.moulberry.com/) / [GitHub](https://github.com/Moulberry/PandoraLauncher) - Desktop Modpack Launchers
-* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher), [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher), [WineGDK](https://github.com/Weather-OS/WineGDK) / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) or [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launchers / Windows, macOS, Linux
+* [LeviLauncher](https://levilauncher.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / Windows
+* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS, Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK) 
+* [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launcher / Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
 
 ***
@@ -1115,7 +1116,7 @@
 * [MK8DX Builder](https://mk8dxbuilder.com/) - Kart Builder
 * [MKCentral](https://www.mariokartcentral.com/mkc/) - Mario Kart Tournaments
 * [r/MarioKart](https://www.reddit.com/r/mariokart/) or [r/MarioKartWii](https://www.reddit.com/r/MarioKartWii/) - Mario Kart Subreddits
-* [Mario Kart World Discord](https://discord.gg/mario-kart-world) - Mario Kart World Lobbies / Community / Avoids Intermission Tracks
+* [Mario Kart World Discord](https://discord.com/invite/HNnMhE53zj) - Mario Kart World Lobbies / Community / Avoids Intermission Tracks
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - Rebalanced MKWii Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [Mario Kart Wii Deluxe](https://mkwiiki.org/wiki/Mario_Kart_Wii_Deluxe) - Custom MKWii Tracks / [Discord](https://discord.com/invite/tRVhfWSkf2)
 * [TTs Online](https://redd.it/ie6gi7) - MKWii Online Time Trials Mod
@@ -1202,7 +1203,7 @@
 * 🌐 **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** or **[itch.io Undertale](https://itch.io/games/tag-undertale)** - Fan Game Indexes / Indie Tributes
 * ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** - Main Gameplay & Lore Databases / [Discord](https://discord.com/invite/zp2q7UFuWh)
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - Datamining / Modding Tool
-* [Undertale: New Hope](https://discord.gg/QMrzvQrSj) - Deltarune + Undertale Mobile Ports
+* [Undertale: New Hope](https://discord.gg/Xahw79DNDE) - Deltarune + Undertale Mobile Ports
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - Latest Developer Updates
 * [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) or [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/) - Ingame Dialogue Dump
 * [Starmen.net Forum](https://forum.starmen.net/forum/RadDog/undertale) - Historical Community / Requires Sign-Up

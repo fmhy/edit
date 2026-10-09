@@ -292,6 +292,7 @@
 * [croc](https://getcroc.com/) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
+* [SEAL](https://seal.net/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, macOS, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
@@ -328,7 +329,7 @@
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 1TB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/) / [2](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 * ⭐ **[Mocha](https://mocha.my/)** - 150GB / 20GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
 * ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
@@ -336,14 +337,15 @@
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / Requires Signup / [Discord](https://discord.gg/TrSHTfUaSN)
-* [FileDitch](https://new.fileditch.com/) - 150GB / 90 Days / [Discord](https://discord.gg/gACnap5kKx)
+* [FileDitch](https://new.fileditch.com/) - 150GB / 45 Days / [Discord](https://discord.gg/gACnap5kKx)
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days w/ Account
-* [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
+* [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Requires Signup
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / Up to 30GB (active) / 1 Year (inactive)
 * [⁠pone](https://pone.rs/) - 1GB / Forever
 * [⁠MaraFile](https://marafile.cc/) - 1GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
@@ -363,7 +365,6 @@
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Signup
 * [⁠Transfr](https://www.transfr.me/) - 100GB / 7 Days
-* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / Unlimited / 1 Year
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
@@ -419,13 +420,13 @@
 * [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced)
 * [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
+* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year (Inactive) / ~$9.24 (1-100TB Flexible)
 * [VoidDrive](https://voiddrive.org/) - 30GB / Forever / ~$4.99 (1TB Basic)
 * [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)
 * [pCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
 * [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
 * [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$3.66 for 3TB
-* [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 (1-100TB Flexible)
 * [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 (3TB Business)
 * [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)

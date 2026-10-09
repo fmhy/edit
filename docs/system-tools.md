@@ -300,7 +300,7 @@
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop for Only One Monitor
 * [⁠Virtual Display Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Virtual Display Driver
-* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor
+* [Deskreen](https://deskreen.com/) / [GitHub](https://github.com/pavlobu/deskreen), [⁠BetterCast](https://bettercast.online/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device / Tablet as Secondary Monitor
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DaltonLens](https://daltonlens.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Filters
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [GitHub](https://github.com/nvaccess/nvda)

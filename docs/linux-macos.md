@@ -812,7 +812,7 @@
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstaller / [GitHub](https://github.com/alienator88/Pearcleaner)
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller / Custom Resolutions / HDR Control
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
-* [OpenDisplay](https://opendisplay.app/) - Use iOS Devices as Secondary macOS Monitors / [GitHub](https://github.com/peetzweg/opendisplay)
+* [OpenDisplay](https://opendisplay.app/) - Use iOS Device as Secondary macOS Monitor / [GitHub](https://github.com/peetzweg/opendisplay)
 * [⁠EasyDMG](https://github.com/jeff-schumann/EasyDMG) - Automated DMG Installation Tool
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Mos](https://mos.caldis.me/) / [GitHub](https://github.com/Caldis/Mos/blob/master/README.enUS.md), [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping / Smooth Scrolling

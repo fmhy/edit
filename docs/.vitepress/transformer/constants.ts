@@ -58,7 +58,7 @@ export const headers: Header = {
   },
   'misc.md': {
     title: 'Miscellaneous',
-    description: 'Extensions, Indexes, News, Health, Food, Fun'
+    description: 'Indexes, News, Health, Food, Fun, Sports'
   },
   'nsfwpiracy.md': {
     title: 'NSFW',

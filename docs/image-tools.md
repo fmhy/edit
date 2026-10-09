@@ -49,7 +49,7 @@
 
 ## ▷ Content Removers
 
-* ⭐ **[Rembg](https://github.com/danielgatis/rembg)** / Background Remover / Windows, macOS, Linux, Docker
+* ⭐ **[Rembg](https://github.com/danielgatis/rembg)** - Background Remover / Windows, macOS, Linux, Docker
 * ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
@@ -61,7 +61,7 @@
 
 ## ▷ Upscale / Restore
 
-* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
+* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database / [Discord](https://discord.gg/cpAUpDK) / [GitHub](https://github.com/OpenModelDB/open-model-database)
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / Windows, macOS, Linux / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/) 
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
@@ -247,6 +247,7 @@
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 * ⭐ **[Muzli](https://search.muz.li/)**, [⁠Fuse.kiwi](https://www.fuse.kiwi/) or [⁠Cosmos](https://www.cosmos.so/) - Design Inspiration Sites
+* [⁠everywhere.tools](https://everywhere.tools/) - Design Tools / Web 
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
 * [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History / Archive
 * [⁠AIGA Design Archives](https://designarchives.aiga.org/) - Graphic Design History / Archive

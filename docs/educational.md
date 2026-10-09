@@ -1625,6 +1625,7 @@
 * [⁠BreachLab](https://breachlab.org/) - Learn Offensive Security
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [⁠Software Sandboxing](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/) - Software Sandboxing Guide
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
 * [CrackMyApp](https://crackmy.app/) / [Discord](https://discord.gg/cx3sMjKhch) or [crackmes](https://crackmes.one/) / [Discord](https://discord.com/invite/2pPV3yq) - Reverse Engineering Challenges
 * [⁠Reverse Engineering Academy](https://reverseengineering.vercel.app/) - Interactive Reverse Engineering Lessons

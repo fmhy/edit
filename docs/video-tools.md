@@ -439,9 +439,9 @@
 
 ## ▷ Online Editors
 
+* ⭐ **[Mastershot](https://mastershot.app/)**
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** - Use Chromium Browser
-* ⭐ **[Mastershot](https://mastershot.app/)** - Requires Sign-Up
 * [Klippy](https://www.klippy.pro/) / [Discord](https://discord.gg/xJVXbQVPZP)
 * [FreeCut](https://www.freecut.net/), [2](https://freecut-sandy.vercel.app/) / [GitHub](https://github.com/walterlow/freecut)
 * [Panzoid](https://panzoid.com/)
