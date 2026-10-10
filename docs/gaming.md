@@ -801,7 +801,7 @@
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
-
+* [GamesMom](https://gamesmom.com/) - Kids Educational Browser Games
 ***
 
 ## ▷ Indie Browser Games
