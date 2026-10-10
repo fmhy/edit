@@ -815,7 +815,7 @@
 * [OpenDisplay](https://opendisplay.app/) - Use iOS Device as Secondary macOS Monitor / [GitHub](https://github.com/peetzweg/opendisplay)
 * [⁠EasyDMG](https://github.com/jeff-schumann/EasyDMG) - Automated DMG Installation Tool
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
-* [Mos](https://mos.caldis.me/) / [GitHub](https://github.com/Caldis/Mos/blob/master/README.enUS.md), [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping / Smooth Scrolling
+* [Mos](https://mos.caldis.me/) / [GitHub](https://github.com/Caldis/Mos/blob/master/README.enUS.md), [LinearMouse](https://linearmouse.app/), [MacMouseFix](https://macmousefix.com/) or [LinguaX](https://linguax.app/) - Mouse Remapping / Smooth Scrolling
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [MiddleClick](https://github.com/artginzburg/MiddleClick) - Middle / Scroll Click via 3 Finger Tap
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
