@@ -1,8 +1,8 @@
-#### Captcha 4PDA 
+#### Captcha 4PDA
 
 You can select the bottom checkbox which translates to "I can't enter the answer."
 
-Or try this prompt in an AI chatbot: 
+Or try this prompt in an AI chatbot:
 
 "Transcribe this handwritten Russian text and calculate the total number.
 

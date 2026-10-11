@@ -63,7 +63,7 @@
 
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database / [Discord](https://discord.gg/cpAUpDK) / [GitHub](https://github.com/OpenModelDB/open-model-database)
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/upscayl/upscayl)
-* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / Windows, macOS, Linux / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/) 
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / Windows, macOS, Linux / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/)
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
 * ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
 * [chaiNNer](https://chainner.app/) - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
@@ -87,7 +87,7 @@
 * ⭐ **[Mosh](https://moshpro.app/)**, [⁠Image Glitcher](https://patorjk.com/image-glitcher/) or [glitch2](https://akx.github.io/glitch2/) - Glitch Images
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [⁠Lumo](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
-* [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum) 
+* [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum)
 * [⁠Collaigo](https://www.collaigo.com/) - Collage Maker / [Discord](https://discord.gg/WbVXpRkWZv)
 * [VHS-Engine](https://vhs-engine.netlify.app/) - VHS Effect Editor ⁠
 * [AIDraw](https://ai-draw.tokyo/en/) or [⁠FiniteCurve](https://www.finitecurve.com/) - Turn Photos into Line Art
@@ -247,7 +247,7 @@
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**
 * ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
 * ⭐ **[Muzli](https://search.muz.li/)**, [⁠Fuse.kiwi](https://www.fuse.kiwi/) or [⁠Cosmos](https://www.cosmos.so/) - Design Inspiration Sites
-* [⁠everywhere.tools](https://everywhere.tools/) - Design Tools / Web 
+* [⁠everywhere.tools](https://everywhere.tools/) - Design Tools / Web
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
 * [People’s Graphic Design Archive](https://peoplesgdarchive.org/) - Graphic Design History / Archive
 * [⁠AIGA Design Archives](https://designarchives.aiga.org/) - Graphic Design History / Archive
@@ -564,7 +564,7 @@
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [ModelViewer](https://modelviewer.dev/), [3DViewer](https://3dviewer.net/) or [F3D](https://f3d.app/) - 3D Model Viewers
-* [⁠BumpMesh](https://bumpmesh.com/) - 3D Model Texture Editor 
+* [⁠BumpMesh](https://bumpmesh.com/) - 3D Model Texture Editor
 * [Armorpaint](https://armorpaint.org/) - 3D Painting / [GitHub](https://github.com/armory3d/armorpaint)
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [MagicaVoxel](https://ephtracy.github.io/) or [Goxel](https://goxel.xyz/) - Voxel Art Editor / Interactive Path Tracing Renderer
@@ -575,7 +575,7 @@
 
 * [⁠ilove3d](https://ilove3d.app/) - 3D Model Tools / Web
 * [Embossify](https://www.embossify.com/), [⁠Image to 3D](https://image-to-3d.ai/) or [Tripo3D](https://studio.tripo3d.ai/) - Image to 3D Model Converters
-* [⁠Kiri:Moto](https://grid.space/kiri/) - Web-Based 3D Model Slicer 
+* [⁠Kiri:Moto](https://grid.space/kiri/) - Web-Based 3D Model Slicer
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
@@ -593,12 +593,12 @@
 ## ▷ 3D Printing
 
 * 🌐 **[Awesome 3D Printing](https://github.com/ad-si/awesome-3d-printing)** - 3D Printing Resources
-* [Polymaker](https://wiki.polymaker.com/) / [Discord](https://discord.com/invite/polymaker) or [Teaching Tech](https://teachingtechyt.github.io/index.html) / [GitHub](https://github.com/teachingtechYT/teachingtechYT.github.io) - 3D Printer Guides / Learning 
+* [Polymaker](https://wiki.polymaker.com/) / [Discord](https://discord.com/invite/polymaker) or [Teaching Tech](https://teachingtechyt.github.io/index.html) / [GitHub](https://github.com/teachingtechYT/teachingtechYT.github.io) - 3D Printer Guides / Learning
 * [3D Printer Recs](https://redd.it/1bh9jud) - Hobbyist 3D Printer Recommendations
-* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices 
+* [⁠SpoolScout](https://www.spoolscout.com/) - Search / Compare 3D Printing Filament Prices
 * [⁠step.parts](https://www.step.parts/) - 3D Printing Step Files
 * [OrcaSlicer](https://www.orcaslicer.com/) / [X](https://x.com/real_OrcaSlicer) / [Discord](https://discord.gg/P4VE9UY9gJ) / [GitHub](https://github.com/OrcaSlicer/OrcaSlicer), [⁠PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) / [GitHub](https://github.com/prusa3d/PrusaSlicer), [⁠CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) or [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
-* [⁠keygen](https://keygen.co/) - Print High-Quality Copies of Your Keys 
+* [⁠keygen](https://keygen.co/) - Print High-Quality Copies of Your Keys
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
 ***
@@ -799,7 +799,7 @@
 * [TurboImageHost](https://www.turboimagehost.com/) - 20MB / Forever
 * [⁠gotohp](https://rentry.co/FMHYB64#gotohp) - Save Morphe Session for Unlimited Google Photo Uploads
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
-* [⁠Google Photos Deduper](https://github.com/mtalcott/google-photos-deduper) - Google Photos Duplicate Remover 
+* [⁠Google Photos Deduper](https://github.com/mtalcott/google-photos-deduper) - Google Photos Duplicate Remover
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/Xentraxx/GooglePhotosTakeoutHelper_Neo) / [Migration Tool](https://github.com/garzj/google-photos-migrate)
 
 ***
@@ -878,7 +878,7 @@
 
 # ► Photography / Cameras
 
-* ↪️ **[Camera Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_cameras)** 
+* ↪️ **[Camera Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_cameras)**
 * ↪️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android Camera Resources / Tools
 * [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
 * [Camera Wiki](https://camera-wiki.org/) - Camera Model Wiki

@@ -108,7 +108,7 @@
 * 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [GitHub](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/) / [GitHub](https://github.com/eugeny/tabby), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) / [Plugins](https://github.com/michaelbrusegard/awesome-wezterm) / [GitHub](https://github.com/wezterm/wezterm) - Terminal Emulators / Windows
-* [psmux](https://psmux.pages.dev/) - Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux) 
+* [psmux](https://psmux.pages.dev/) - Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux)
 * [Zellij](https://zellij.dev/) - Terminal Multiplexer / Windows, macOS, Linux / [GitHub](https://github.com/zellij-org/zellij)
 * [PowerShell](https://github.com/powershell/powershell) - Microsoft PowerShell / Windows, macOS, Linux
 * [BusyBox](https://frippery.org/busybox/) - Unix Commands for Windows / Windows / [GitHub](https://github.com/rmyorston/busybox-w32) / [GitLab](https://gitlab.com/rmyorston/busybox-w32)
@@ -347,7 +347,7 @@
 * ↪️ **[Audio Equipment Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_audio_equipment)**
 * ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) / [7.1 Surround](https://hesuvi.net/) / [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dolby-access-atmos-note.md) or [FXSound](https://www.fxsound.com/) - Audio Equalizers
 * ⭐ **[VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)** - Audio Mixers / Multi-Device Playback / [Banana](https://vb-audio.com/Voicemeeter/banana.htm)
-* ⭐ **[AutoEQ](https://autoeq.app/)**, [⁠EQ By Ear](https://eqbyear.com/) or [⁠PEQdB](https://peqdb.com/) / [Discord](https://discord.gg/B7e8cM76PM) - Create Custom Equalizer Presets 
+* ⭐ **[AutoEQ](https://autoeq.app/)**, [⁠EQ By Ear](https://eqbyear.com/) or [⁠PEQdB](https://peqdb.com/) / [Discord](https://discord.gg/B7e8cM76PM) - Create Custom Equalizer Presets
 * ⭐ **[AudioRelay](https://audiorelay.net/)** / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [SnapCast](https://github.com/badaix/snapcast) or [SonoBus](https://sonobus.net/) - Sync Audio Input/Output between Devices
 * [⁠IEM EQ Guide](https://iem-eq-guide.pages.dev/) - In-Ear Monitor Equalizer Guide
 * [SteelSeries Sonar](https://steelseries.com/gg/sonar) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise Cancelling Software
@@ -385,7 +385,7 @@
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
 * [EtchDroid](https://etchdroid.app/) / [GitHub](https://github.com/etchdroid/etchdroid) or [⁠Ventoid](https://github.com/GPLaider/Ventoid) - Create Bootable USB Drives via Android
-* [⁠Grub2Win](https://sourceforge.net/projects/grub2win/) - Windows > Linux Dual-Booting Tool 
+* [⁠Grub2Win](https://sourceforge.net/projects/grub2win/) - Windows > Linux Dual-Booting Tool
 
 ***
 
@@ -415,7 +415,7 @@
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [Troubleshooting Flowcharts](https://www.fonerbooks.com/pcrepair.htm) - PC Troubleshooting Flowcharts
 * [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
-* [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - WinPE Builder Tool 
+* [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - WinPE Builder Tool
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
 * [PC Help Hub](https://discord.gg/pchh) - Tech Support Discord
 * [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
@@ -439,7 +439,7 @@
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
 * [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) / [Discord](https://discord.gg/translucenttb), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization / [Old School Style](https://github.com/dremin/RetroBar)
-* [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension 
+* [⁠Sweezy Cursors](https://sweezy-cursors.com/) - Custom Animated Cursors / Requires no Extension
 * [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Accent Color Customization
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Search Customization
 * [ElevenClock](https://www.marticliment.com/elevenclock/) - Clock Customization
