@@ -1,6 +1,6 @@
 #### Buster Note
 
-The client app simulates user interactions which greatly improves the success rate of buster. You can download the app through the extensions option page, or from the link below: 
+The client app simulates user interactions which greatly improves the success rate of buster. You can download the app through the extensions option page, or from the link below:
 
 https://github.com/dessant/buster-client
 

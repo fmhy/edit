@@ -15,7 +15,7 @@
 * ⭐ **[Paperless-ngx](https://docs.paperless-ngx.com)** / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://papra.app/en/) / [GitHub](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Diffr](https://loilo.github.io/diffr/) / [GitHub](https://github.com/loilo/diffr), [TextCompare](https://www.textcompare.org/), [OnlineTextCompare](https://onlinetextcompare.com/) or [CompareText](https://www.comparetext.io/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
-* [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery 
+* [⁠Unredact](https://github.com/leedrake5/unredact) - PDF Redaction Text Recovery
 * [Textify](https://ramensoftware.com/textify) or [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) / [GitHub](https://github.com/simon-knuth/scanner) or [NAPS2](https://www.naps2.com/) - Scanner Apps
 * [DocuSeal](https://www.docuseal.com/) - Free Document Signing / [GitHub](https://github.com/docusealco/docuseal)
@@ -39,7 +39,7 @@
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax / [Proxy](https://pastebinp.com/)
 * [⁠Ghostbin](https://ghostbin.linuxbox.ninja/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/borrougagnou/spectre-updated)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
-* [Paste](https://paste.boxlabs.uk/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/boxlabss/PASTE) 
+* [Paste](https://paste.boxlabs.uk/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/boxlabss/PASTE)
 * [⁠Codepasta](https://codepasta.app/) - Multi-Syntax / Markdown Support
 * [lesma](https://lesma.eu/) - Multi-Syntax / [GitLab](https://gitlab.com/ogarcia/lesma)
 * [Pastee](https://pastee.dev/) - Multi-Syntax / [Discord](https://discord.com/invite/WQJ8z5G)
@@ -50,7 +50,7 @@
 * [pastemyst](https://paste.myst.rs/) - Multi-Syntax / [GitHub](https://github.com/codemyst/pastemyst)
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax
-* [snippet.host](https://snippet.host/) - Multi-Syntax / [.onion](http://snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion/) / [Status](https://bit.ly/snippethoststatus) 
+* [snippet.host](https://snippet.host/) - Multi-Syntax / [.onion](http://snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion/) / [Status](https://bit.ly/snippethoststatus)
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [⁠Memochō](https://bin.kv2.dev/) / [GitHub](https://github.com/SitiSchu/memocho) or [bin](https://basedbin.fly.dev/) - Minimal Pastebins
 * [txt.fyi](https://txt.fyi/) - Plain Text
@@ -58,7 +58,7 @@
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Support
 * [Sparked Paste](https://paste.sparked.host/) - Plain Text / Syntax Highlighting / [GitHub](https://github.com/sparkedhost/paste)
 * [Riseup Pad](https://pad.riseup.net/) - WYSIWYG Pastebin
-* [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty) 
+* [itty.bitty](https://itty.bitty.site/) - Site / Pastebin / [GitHub](https://github.com/arfct/itty-bitty)
 * [Opengist](https://opengist.io/) / [Demo](https://demo.opengist.io/) / [Discord](https://discord.gg/9Pm3X5scZT) / [GitHub](https://github.com/thomiceli/opengist), [Drift](https://drift.lol/) or [MicroBin](https://microbin.eu/) / [GitHub](https://github.com/szabodanika/microbin) - Self-Hosted Pastebins
 
 ***
@@ -80,9 +80,9 @@
 * [Yandex Translator](https://translate.yandex.com/) - Online
 * [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
-* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese / Chinese Translator 
+* [⁠Sakana Translate](https://chat.sakana.ai/translate) - English > Japanese / Chinese Translator
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
-* [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
+* [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool
 * [Poedit](https://poedit.com/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://rylo.com/sign/translate/) - Text to Sign-Language Video Translator
@@ -162,7 +162,7 @@
 
 * ⭐ **[Monkeytype](https://monkeytype.com/)** - Custom Touch Typing Tests / [Discord](https://discord.com/invite/monkeytype) / [GitHub](https://github.com/monkeytypegame/monkeytype)
 * ⭐ **[keybr](https://www.keybr.com/)** - Custom Touch Typing Practice / [GitHub](https://github.com/aradzie/keybr.com)
-* [⁠Layouts Wiki](https://layouts.wiki/) - Alt Typing Layouts Wiki 
+* [⁠Layouts Wiki](https://layouts.wiki/) - Alt Typing Layouts Wiki
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
 * [Typ.ing](https://typ.ing/), [Typings](https://typings.gg/), [⁠TypeGG](https://typegg.io/) / [Discord](https://discord.com/invite/64v955z) or [typing.works](https://typing.works/) - Typing Tests
 * [⁠ttyper](https://github.com/max-niederman/ttyper) or [⁠Smassh](https://github.com/kraanzu/smassh) - Typing Test TUIs
@@ -365,7 +365,7 @@
 * [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [⁠SmoothCSV](https://smoothcsv.com/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Framacalc](https://framacalc.org/) or [EtherCalc](https://ethercalc.net/) / [GitHub](https://github.com/audreyt/ethercalc) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
-* [⁠Excel Easy](https://www.excel-easy.com/) - Excel / Spreadsheet Guide 
+* [⁠Excel Easy](https://www.excel-easy.com/) - Excel / Spreadsheet Guide
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
 * [ExcelJet](https://exceljet.net/formulas) or [Excel Functions](https://www.excelfunctions.net/) - Excel Formulas
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
@@ -393,7 +393,7 @@
 * [Bibisco](https://bibisco.com/) - Novel Editor
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
 * [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
-* [⁠Heavyweight](https://heavyweight.cc/) - Generate Important-Looking Letters 
+* [⁠Heavyweight](https://heavyweight.cc/) - Generate Important-Looking Letters
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
@@ -474,7 +474,7 @@
 
 * ⭐ **[MarkD](https://markd.it/)**
 * ⭐ **[HedgeDoc](https://hedgedoc.org/)**
-* [⁠Markdown Monster](https://markdownmonster.west-wind.com/) / [GitHub](https://github.com/RickStrahl/MarkdownMonster) 
+* [⁠Markdown Monster](https://markdownmonster.west-wind.com/) / [GitHub](https://github.com/RickStrahl/MarkdownMonster)
 * [Zettlr](https://www.zettlr.com/) / [GitHub](https://github.com/Zettlr/Zettlr)
 * [Dillinger](https://dillinger.io/)
 * [Tinymarkdwn Editor](https://jmcrafter26.github.io/tinymarkdwn-editor/) / [GitHub](https://github.com/JMcrafter26/tinymarkdwn-editor)
@@ -492,7 +492,7 @@
 
 ## ▷ LaTeX Tools
 
-* ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [Discord](https://discord.gg/2uDybryKPe) / [GitHub](https://github.com/typst/typst) 
+* ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [Discord](https://discord.gg/2uDybryKPe) / [GitHub](https://github.com/typst/typst)
 * ⭐ **[Overleaf](https://www.overleaf.com/)**, [LyX](https://www.lyx.org/), [⁠TeXPage](https://www.texpage.com/) or [TeXStudio](https://texstudio.org/) - LaTeX Editors
 * [⁠Notepix](https://notepix.ai/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTeX Editors
 * [⁠SimpleTex](https://simpletex.cn/) - Convert Images to LaTeX / Markdown

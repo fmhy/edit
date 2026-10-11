@@ -9,7 +9,7 @@
 * ⭐ **[shots.so](https://shots.so/)** - Mockup Creator / Editor
 * [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
-* [Screenshot Rocks](https://screenshot.rocks/) - Create Screenshot Mockups of Websites / [GitHub](https://github.com/daveearley/screenshot.rocks) 
+* [Screenshot Rocks](https://screenshot.rocks/) - Create Screenshot Mockups of Websites / [GitHub](https://github.com/daveearley/screenshot.rocks)
 
 [PostSpark](https://postspark.app/), [Mockup World](https://www.mockupworld.co/), [DeviceShots](https://deviceshots.com/), [MockMagic](https://www.mockmagic.com/), [zippypixels](https://zippypixels.com/), [Mockuphone](https://mockuphone.com/), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/), [LS Graphics](https://www.ls.graphics/), [Picasso](https://getpicasso.com/), [mrmockup](https://mrmockup.com/free-mockups/), [mockupnest](https://mockupnest.com/), [Jam Mockup](http://t.me/+Hp5DjFnpWXdhMTBi)
 
@@ -365,7 +365,7 @@
 ## SMS Verification Sites
 
 * ⭐ **[gettempnumber](https://gettempnumber.com/)**
-* ⭐ **[us-phone-number](https://us-phone-number.com/)** or [mianfeijiema](https://mianfeijiema.com/) 
+* ⭐ **[us-phone-number](https://us-phone-number.com/)** or [mianfeijiema](https://mianfeijiema.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**
@@ -377,7 +377,7 @@
 ## SVG Icons
 
 * 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)** or **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** - Icon Site Indexes
-* ⭐ **[Iconify](https://iconify.design/)** - Icon Collections 
+* ⭐ **[Iconify](https://iconify.design/)** - Icon Collections
 * ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
@@ -404,7 +404,7 @@
 * [Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) - Clean Code for TypeScript
 * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
-* [tRPC](https://trpc.io/) - Build Typesafe TypeScript APIs
+* [tRPC](https://trpc.io/) - Build Type-Safe TypeScript APIs
 
 ***
 

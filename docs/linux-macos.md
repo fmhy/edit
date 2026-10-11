@@ -89,7 +89,7 @@
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)**, [GearLever](https://github.com/mijorus/gearlever) or [⁠AppManager](https://github.com/kem-a/AppManager) - Integrate AppImages to App Launchers
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * ⭐ **[Vicinae](https://www.vicinae.com/)** / [GitHub](https://github.com/vicinaehq/vicinae), **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers / Keystroke Launchers
-* ⭐ **[FreeRDP](https://www.freerdp.com/)** / [GitHub](https://github.com/FreeRDP/FreeRDP), [⁠Remmina](https://remmina.org/) or [⁠Apache Guacamole](https://guacamole.apache.org/) - Remote Desktop Clients 
+* ⭐ **[FreeRDP](https://www.freerdp.com/)** / [GitHub](https://github.com/FreeRDP/FreeRDP), [⁠Remmina](https://remmina.org/) or [⁠Apache Guacamole](https://guacamole.apache.org/) - Remote Desktop Clients
 * ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
 * [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux / [Discord](https://discord.com/invite/XRD3mQA) / [GitHub](https://github.com/darlinghq/darling)
 * [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
@@ -197,7 +197,7 @@
 * [G-Helper Linux](https://github.com/utajum/g-helper-linux) - Armoury Crate Replacement for ASUS Laptops
 * [systemctl-tui](https://github.com/rgwood/systemctl-tui) - TUI for systemd
 * [nosystemd](https://nosystemd.org/) or [⁠Init Freedom](https://www.devuan.org/os/init-freedom) - Alternatives to systemd
-* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon 
+* [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
 
 ***
 
@@ -225,7 +225,7 @@
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
-* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md) 
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * ⭐ **[SongRec](https://songrec.fossplant.re/)** / [GitHub](https://github.com/marin-m/SongRec) or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * ⭐ **[⁠LibrePods](https://github.com/kavishdevar/librepods)** - Use AirPod Features on Linux
@@ -293,7 +293,7 @@
 * ⭐ **[SLSsteam](https://cs.rin.ru/forum/viewtopic.php?f=29&t=146352&hilit=SLSsteam)** - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Auto Install / Update](https://github.com/Deadboy666/h3adcr-b) / [Discord](https://discord.com/invite/j3ZzjeV4eQ) / [GitHub](https://github.com/AceSLS/SLSsteam)
 * ⭐ **[Accela](https://github.com/ciscosweater/enter-the-wired)** - Steam Game + DLC Unlocker / [Setup Guide](https://redd.it/1tniqhc)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility Tool Managers
-* ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC) 
+* ⭐ **[GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom)** - Custom Proton Version / [Discord](https://discord.com/invite/6y3BdzC)
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games / Requires Sign-Up
 * ⭐ **[johncena141](https://rentry.co/FMHYB64#johncena141)** - Linux Games / [Support](https://gitlab.com/jc141x/portal) / [Launcher](https://github.com/AbdelrhmanNile/UnderTaker141)
@@ -335,7 +335,7 @@
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
-* [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset 
+* [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset
 * [⁠Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/), [2](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
 
 ***
@@ -414,7 +414,7 @@
 * ↪️ **[Selfhosted Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_offline_galleries)**
 * ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) or [Organizr](https://github.com/causefx/Organizr) - Home Server Startpages / Dashboards
 * [Glance](https://github.com/glanceapp/glance) - Feed Dashboard
-* [⁠ThingsBoard](https://github.com/thingsboard/thingsboard) - IoT Device Manager / Visualizer / Data Collection 
+* [⁠ThingsBoard](https://github.com/thingsboard/thingsboard) - IoT Device Manager / Visualizer / Data Collection
 * [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
 * [r/SelfHosted Wiki](https://wiki.r-selfhosted.com/) - Self-Hosting Guides / Resources / Community / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
@@ -583,7 +583,7 @@
 * [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings Editor
 * [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux Theme
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
-* [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma 
+* [AeroThemePlasma](https://github.com/WackyIdeas/aerothemeplasma) / [2](https://gitgud.io/wackyideas/aerothemeplasma) or [VistaThemePlasma](https://gitgud.io/catpswin56/vistathemeplasma/) - Windows 7 / Vista Themes for KDE Plasma
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
 * [⁠Waywallen](https://github.com/waywallen/waywallen), [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [⁠Wallpiper](https://github.com/shdwmtr/wallpiper) - Wallpaper Engine Translation Layer for Linux
@@ -663,7 +663,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://applite.app/) - Package Managers 
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://applite.app/) - Package Managers
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** - Downloads (not torrents) / Login Required for some Files
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -802,7 +802,7 @@
 * ⭐ **[⁠Vorssaint](https://vorssaint.com/)** - Menu Bar Toolkit / [GitHub](https://github.com/vorssaint/vorssaint-utils)
 * ⭐ **[Alfred](https://www.alfredapp.com/)**, [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) or [SOL](https://sol.ospfranco.com/) - Keystroke Launchers / Spotlight Replacements / [Alfred Workflows / Themes](https://www.packal.org/)
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
-* [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet 
+* [⁠Mac Terminal for Humans](https://www.macterminal.cc/commands) - macOS Terminal Cheat Sheet
 * [MuMuPlayer](https://www.mumuplayer.com/), [NoxPlayer](https://www.bignox.com/) or [Genymotion](https://www.genymotion.com/download/) - Android on macOS
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [Conky](https://conky.cc/) / [GitHub](https://github.com/brndnmtthws/conky), [Stats](https://mac-stats.com/) / [GitHub](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors / [Conky Colors](https://github.com/helmuthdu/conky_colors)
@@ -831,7 +831,7 @@
 * [WhatCable](https://whatcable.uk/) - Cable Capability Identifier / [GitHub](https://github.com/darrylmorley/whatcable)
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
-* [⁠Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting Tool 
+* [⁠Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting Tool
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets

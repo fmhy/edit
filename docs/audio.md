@@ -249,7 +249,7 @@
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
 * [⁠The Lot Radio](https://www.thelotradio.com/) - Independent Internet Radio
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
-* [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio 
+* [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio
 * [Tilderadio](https://tilderadio.org/) - Community Radio
 * [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [⁠Rinse FM](https://www.rinse.fm/) - London-Based Community Radio
@@ -296,7 +296,7 @@
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [TechnoBase](https://www.technobase.fm), [TranceBase](https://www.trancebase.fm), [HouseTime](https://www.HouseTime.fm) or [HardBase](https://www.HardBase.fm) - Electronic Radio / [Discord](https://discord.com/invite/xFRcWdNUkY)
 * [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
-* [⁠Death.FM](https://death.fm/) - Metal Radio / Community 
+* [⁠Death.FM](https://death.fm/) - Metal Radio / Community
 * [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore Radio
 * [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
 * [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
@@ -353,7 +353,7 @@
 * [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Art
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
-* [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV 
+* [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV
 
 ***
 

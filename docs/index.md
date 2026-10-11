@@ -162,7 +162,7 @@ onMounted(() => {
 
   let clickCount = 0;
   const heroImage = document.querySelector('.VPImage.image-src');
-  
+
   const handleClick = () => {
     clickCount += 1;
     if (clickCount === 5) {

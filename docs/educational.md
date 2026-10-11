@@ -36,7 +36,7 @@
 * ↪️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
-* ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses 
+* ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses
 * ⭐ **[Class Central](https://www.classcentral.com/)** - Search for Courses
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
@@ -116,7 +116,7 @@
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [BelowTheSurface](https://belowthesurface.amsterdam/en) - Archeological Object DB of Amsterdam
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
-* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours 
+* [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://discover.matterport.com/) - Explore Real Places Digitally
@@ -174,7 +174,7 @@
 * ↪️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Wumbo](https://wumbo.net/)** - Math Reference Site
-* ⭐ **[⁠The Borr Project](https://borr.dev/math/)** / [Discord](https://discord.gg/uR2QS36pdH) or **[OSSU Math](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) / [Discord](https://discord.gg/wuytwK5s9h) - Math Roadmaps 
+* ⭐ **[⁠The Borr Project](https://borr.dev/math/)** / [Discord](https://discord.gg/uR2QS36pdH) or **[OSSU Math](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) / [Discord](https://discord.gg/wuytwK5s9h) - Math Roadmaps
 * ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)** / [YouTube](https://www.youtube.com/channel/UCHZwMwa96o5gwBmVaIj_zVA) or [MathDash](https://mathdash.com/) - Adaptive Problem Solving
 * ⭐ **[BetterExplained](https://betterexplained.com/)** - Math Guides / Courses
 * ⭐ **[Pauls Online Math Notes](https://tutorial.math.lamar.edu/)**, [⁠Immortal's Maths Problems](https://www.math.umd.edu/~immortal/), [⁠Evan Chen](https://web.evanchen.cc/) or [LibreTexts Math](https://math.libretexts.org/Bookshelves) - Math Practice / Guides
@@ -213,7 +213,7 @@
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
 * [Brainstellar Puzzles](https://brainstellar.com/puzzles) - Puzzles from Quant Interviews
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
-* [⁠VibeMathed](https://vibemathed.com/) - Index of Mathematical Problems Solved by AI 
+* [⁠VibeMathed](https://vibemathed.com/) - Index of Mathematical Problems Solved by AI
 * [LibreTexts Statistic](https://stats.libretexts.org/Bookshelves) - Statistic Practice / Guides
 * [IMS](https://github.com/OpenIntroStat/ims) - Introduction to Modern Statistics
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Statistics & Probability Tutorials
@@ -235,7 +235,7 @@
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [BOMwiki](https://bomwiki.com/) - Product Blueprint Components Database / [X](https://x.com/protosphinx) / [GitHub](https://github.com/BOMWiki)
-* [⁠Hackster.io](https://www.hackster.io/) - Hardware Learning / Project Sharing 
+* [⁠Hackster.io](https://www.hackster.io/) - Hardware Learning / Project Sharing
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
@@ -329,7 +329,7 @@
 * [⁠Nature This Week](https://naturethisweek.com/) - View Nature / Biology News from any Location
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
 * [LibreTexts Biology](https://bio.libretexts.org/Bookshelves) - Biology Learning / Guides
-* [Bodily Oddities](https://bodilyoddities.com/) - Human Anatomy Oddities Catalog 
+* [Bodily Oddities](https://bodilyoddities.com/) - Human Anatomy Oddities Catalog
 * [Project ⁠Alveus Sanctuary](https://www.alveussanctuary.org/) - 24/7 Educational Wildlife Live Streams / Conservation Project
 * [⁠BioNinja](https://ib.bioninja.com.au/) - IB Biology Reference / Study Guide
 * [⁠The Biology Project](https://biology.arizona.edu/) - Biology Problem Sets & Tutorials
@@ -368,7 +368,7 @@
 * ↪️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
 * ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Radiopaedia](https://radiopaedia.org/)** or [Radiology Assistant](https://radiologyassistant.nl/) - Radiology Resources
-* ⭐ **[⁠Stop the Bleed](https://www.stopthebleed.org/get-trained/)** - Free First Aid Video Courses / Resources 
+* ⭐ **[⁠Stop the Bleed](https://www.stopthebleed.org/get-trained/)** - Free First Aid Video Courses / Resources
 * [MDCalc](https://www.mdcalc.com/), [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Sites / Tools
 * [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://sites.ucsd.edu/clinicalmedguide/) or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
 * [LibreTexts Med](https://med.libretexts.org/Bookshelves) - Medical Learning / Guides
@@ -659,7 +659,7 @@
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
-* [⁠NavWeaps](https://www.navweaps.com/) - Naval Weapons, Technology and Reunion History 
+* [⁠NavWeaps](https://www.navweaps.com/) - Naval Weapons, Technology and Reunion History
 * [Shipbucket](https://www.shipbucket.com/) - Scale Drawings & Blueprints of Naval Ships / [Discord](https://discord.com/invite/5PHq8Dk)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
@@ -965,7 +965,7 @@
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
 * [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
-* [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer 
+* [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
 * [Roux Trainers](https://onionhoney.github.io/roux-trainers/) - Learn Roux Solving Method
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wiki / Community Forum
@@ -1025,12 +1025,12 @@
 * 🌐 **[Go Magic: How to Play Go](https://gomagic.org/how-to-play-go-rules/)** - Beginner Go Tutorial
 * 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** - Reddit community for Go / Baduk / Weiqi
 * ⭐ **[Online Go Server (OGS)](https://online-go.com/)** - Modern Online Go Platform / [GitHub](https://github.com/online-go)
-* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** - Comprehensive Go Wikipedia 
+* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** - Comprehensive Go Wikipedia
 * ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** - Go Board & SGF Editor
 * [⁠Kaya](https://kayago.app/) - Go (Baduk/Weiqi) Board Analysis Tool / [GitHub](https://github.com/kaya-go/kaya)
 * [Black to Play](https://blacktoplay.com/) - Go Puzzles
 * [KataGo](https://katagotraining.org/) or [KaTrain](https://github.com/sanderland/katrain) - Open-Source Neural Network Go AI
-* [The Interactive Way To Go](https://playgo.to/en) - Interactive Beginner Tutorial 
+* [The Interactive Way To Go](https://playgo.to/en) - Interactive Beginner Tutorial
 * [Josekipedia](https://www.josekipedia.com/) - Dictionary for Corner Openings
 * [Waltheri's Go Pattern Search](https://ps.waltheri.net/) - Pro Game Pattern Search Engine
 * [GoProblems](https://goproblems.com/) - Tactical Puzzle Database
@@ -1066,9 +1066,9 @@
 * [⁠Mecabricks Workshop](https://www.mecabricks.com/en/workshop), [LeoCAD](https://www.leocad.org/) / [GitHub](https://github.com/leozide/leocad) or [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Virtual LEGO Building / 3D Editors
 * [Brickset](https://brickset.com/), [⁠BrickEconomy](https://www.brickeconomy.com/) or [Bricklink](https://www.bricklink.com/) - LEGO Set Database / Reviews / Marketplaces
 * [⁠Brickfact](https://brickfact.com/) - LEGO Set Database / Price Tracker
-* [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts 
+* [⁠Brick Hound](https://brickhound.com/) - LEGO Deal Alerts
 * [Brickognize](https://brickognize.com/) - LEGO Brick / Minifigure Identification Tool
-* [⁠MinifigScan](https://pacolabs.com/MinifigScan/) - LEGO Minifigure Blind Box Identification Tool 
+* [⁠MinifigScan](https://pacolabs.com/MinifigScan/) - LEGO Minifigure Blind Box Identification Tool
 
 ***
 
@@ -1350,7 +1350,7 @@
 * [Ithkuil by Example](https://v8.zsnout.com/ithkuil/learn/) - Ithkuil Learning
 * [Ithkuil](https://ithkuil.net/) - Ithkuil Learning / Focused on Logical Precision
 * [The Toaq Language](https://toaq.net/) - Toaq Learning Wiki / Course / Focused on Formal Logic / [Discord](https://discord.com/invite/BjRry9QtwY)
-* [⁠Viossa Diskordserver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language 
+* [⁠Viossa Diskordserver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language
 * [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity
 * [Xextan](https://xextan.github.io/) - Xextan Language Learning / Focused on Simplicity + Ease of Learning / [Wiki](https://xextan.miraheze.org/wiki/Main_Page) / [Discord](https://discord.gg/4Wz7EeQJ2g)
 * [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
@@ -1389,7 +1389,7 @@
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) or [⁠VittaScience](https://en.vittascience.com/code) - Interactive Programming Learning
 * [CloudSkillsBoost](https://www.skills.google/paths) - Programming Courses
-* [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses 
+* [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials
@@ -1581,7 +1581,7 @@
 * [VisuAlgo](https://visualgo.net/) or [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Data Structure & Algorithm Visualizations
 * [Algorithm Visualizer](https://algorithm-visualizer.org/), [⁠Staying](https://staying.fun/en) or [Sorting Algorithms Visualizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/algo-visualizers) - Visualize Code Algorithms
 * [CSES Problemset](https://cses.fi/problemset/) - Collection of Algorithmic Programming Problems
-* [Memery Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
+* [Memory Spy](https://memory-spy.wizardzines.com/) - Learn how Bytes Represent Variables
 
 ***
 
@@ -1661,7 +1661,7 @@
 * [Game Math](https://gamemath.com/book/intro.html) - Mathematics Lessons for Game Devs
 * [The Book of Shaders](https://thebookofshaders.com/) - Fragment Shaders Guide
 * [EmuDev](https://emudev.org/) - Emulator Development Information / [Discord](https://discordapp.com/invite/dkmJAes)
-* [⁠EmuDevs](https://afska.github.io/emudevz/) - NES Emulator Development Learning Game 
+* [⁠EmuDevs](https://afska.github.io/emudevz/) - NES Emulator Development Learning Game
 * [QB64SourceCode](https://www.qb64tutorial.com/) - QB64 Game Programming Tutorials
 * [8bitWorkshop](https://8bitworkshop.com/) - Retro Game Programming Tutorials
 
@@ -1675,7 +1675,7 @@
 * [LLM Course](https://github.com/mlabonne/llm-course), [DeepLearningWizard](https://www.deeplearningwizard.com/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3) or [⁠Anthropic Courses](https://anthropic.skilljar.com/) - Machine Learning Courses
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
 * [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap) - Machine Learning Roadmap / Guide
-* [⁠ML For Beginners](https://github.com/microsoft/ML-For-Beginners) - Machine Learning Beginner Lessons 
+* [⁠ML For Beginners](https://github.com/microsoft/ML-For-Beginners) - Machine Learning Beginner Lessons
 * [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources / Guide
 * [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt) or [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer and LLM Visualizations
@@ -1718,11 +1718,11 @@
 * 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
 * [SAT Slayer](https://www.satslayer.org/), [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
-* [⁠Sat DB](https://www.satdbfor.me/) - SAT Practice Exams / Questions / Requires Sign-Up 
+* [⁠Sat DB](https://www.satdbfor.me/) - SAT Practice Exams / Questions / Requires Sign-Up
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/practice/practice-tests) - SAT Practice Exams / Questions
 * [1600.lol](https://1600.lol/) - SAT Practice Exams / Questions
-* [⁠Bluebooky](https://bluebooky.org/) - SAT Practice Exams / Questions / Signup Required 
+* [⁠Bluebooky](https://bluebooky.org/) - SAT Practice Exams / Questions / Signup Required
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 
@@ -1855,7 +1855,7 @@
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [⁠Numla](https://numla.app/) / [GitHub](https://github.com/davidesantangelo/numla) or [Math Notepad](https://mathnotepad.com/) - Live Calculative Notepads
 * [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
-* [⁠CalcPlex](https://calcplex.com/) - Graphing Calculator Guides 
+* [⁠CalcPlex](https://calcplex.com/) - Graphing Calculator Guides
 
 ***
 

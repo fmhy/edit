@@ -24,7 +24,7 @@
 * [Manybooks](https://manybooks.net/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
-* [BAEN](https://www.baen.com/allbooks/category/index/id/2012) 
+* [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
 * [Read From](https://readfrom.net/) or [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [⁠Dynasty](https://t.me/dynastyapprovals) - Books / Telegram
@@ -441,7 +441,7 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
-* [⁠bManga](https://bmanga.dedyn.io/) 
+* [⁠bManga](https://bmanga.dedyn.io/)
 * [Like Manga](https://likemanga.ink/)
 * [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -560,7 +560,7 @@
 * [Wikibooks](https://wikibooks.org/) - Open-Content Textbooks
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
-* [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks 
+* [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 
 ***
 
@@ -699,7 +699,7 @@
 * [OA.mg](https://oa.mg/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
-* [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search 
+* [Ai2 Asta](https://asta.allen.ai/) - AI Scientific Paper Search
 * [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [⁠Pidantuan](https://www.pidantuan.com/) - Scientific Paper Sharing Community / Requires Sign-Up
@@ -725,13 +725,13 @@
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals / [Search](https://www.pubmedisearch.com/)
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
-* [⁠JMIR Publications](https://jmirpublications.com/) - Health / Medicine Journals 
+* [⁠JMIR Publications](https://jmirpublications.com/) - Health / Medicine Journals
 * [⁠PubMed Central](https://pmc.ncbi.nlm.nih.gov/) - Biomedical / Life Science Journals
 * [medRxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [bioRxiv](https://www.biorxiv.org/) - Biology Preprints
 * [Bioline](https://www.bioline.org.br/) - Bioscience Journals
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
-* [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments 
+* [⁠PubPeer](https://pubpeer.com/) - View Scientific Research Criticism / Comments
 * [Catalyzex](https://www.catalyzex.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [Censored Planet](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.com/) - Find Connected Academic Papers
@@ -905,13 +905,13 @@
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
-* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools 
+* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [⁠Fantastic Fiction](https://www.fantasticfiction.com/) - Fiction Tracking / Database
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki 
+* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
 * [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
 
@@ -953,7 +953,7 @@
 * [GoodBooks](https://www.goodbooks.io/) or [Read This Twice](https://readthistwice.com/) - Book Recommendations by Influential People
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
-* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations 
+* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations
 * [⁠The Book Rex](https://thebookrex.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
