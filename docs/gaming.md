@@ -169,7 +169,7 @@
 * 🌐 **[Game Decompilations](https://decomps.fun/)**, [2](https://decomps.samidy.com/), [3](https://rentry.co/Decomps) - Game Decompilations / Ports / [GitHub](https://github.com/SamidyFR/Game-Decompilations)
 * 🌐 **[RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games)** - Game Decompilations / Ports
 * 🌐 **[Awesome Game Decompilations](https://github.com/CharlotteCross1998/awesome-game-decompilations)** - Game Decompilations / Ports
-* 🌐 **[Game Decomps That Arent Vibe Coded](https://backloggd.com/u/WumpaGem/list/game-decompsrecomps-that-arent-vibe-coded/)** - Game Decompilations / Ports
+* 🌐 **[Game Decomps That Arent Vibe Coded](https://backloggd.com/u/WumpaGem/list/game-decompsrecomps-that-arent-vibe-coded/)** / [2](https://docs.google.com/document/d/17BgdKswrijiXCysCcE6Jk8fLoV8JuIzjLRxV2-MFXeo/) - Game Decompilations / Ports
 * 🌐 **[Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)** - Game Decompilations / Ports
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Decompilations / Ports
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports

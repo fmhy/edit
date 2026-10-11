@@ -321,9 +321,9 @@
 
 * 🌐 **[⁠Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)** - Bioinformatics Learning Resources + Tools
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
-* ⭐ **[Animalia](https://animalia.bio/)** or [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Rediscovered Animal / Plant Database
+* [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [⁠Wayne's Word](https://www.waynesword.net/) - Biology and Botany Information / Learning
 * [Biology Online](https://www.biologyonline.com/) - Biology Articles
 * [⁠Nature This Week](https://naturethisweek.com/) - View Nature / Biology News from any Location
@@ -336,6 +336,7 @@
 * [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [Video](https://youtu.be/w9R6zrdl6jM) / [GitHub](https://github.com/chrxh/alien)
 * [⁠Map of Life](https://mol.org/) - Interactive Map of Species Distributions
+* [⁠Movebank](https://www.movebank.org/cms/webapp) - Animal Tracking Map / Database
 * [Metazooa](https://metazooa.com/) - Species Connection Game
 * [⁠Phenome10K](https://www.phenome10k.org/) - Biological / Palaeontological 3D Scans
 * [RecentlyExtinctSpecies](https://recentlyextinctspecies.com/) - Recently Extinct Species Database
@@ -1645,7 +1646,7 @@
 * 🌐 **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev), [MagicTools](https://github.com/ellisonleao/magictools), [Newgrounds Wiki: Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources) or [The VG Resource](https://www.vg-resource.com/) - Learning Resources
 * ↪️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
 * ⭐ **[Brackeys](https://brackeys.com/)** - Game Dev Tutorials
-* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
+* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community / [Discord](https://discord.com/invite/reddit-gamedev)
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [CodeWisp](https://codewisp.ai/) - Interactive Beginner Game Dev Learning
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide

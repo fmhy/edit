@@ -122,12 +122,12 @@
 
 * ↪️ **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App / Windows, macOS, Linux, Android / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Docs](https://docs.krita.org/en/) / [GitHub](https://github.com/KDE/krita)
+* ⭐ **[Inkscape](https://inkscape.org/)** - Drawing / Sketching / Windows, macOS, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting / Web / [GitHub](https://github.com/viliusle/miniPaint)
 * ⭐ **[Pinta](https://www.pinta-project.com/)** - Painting App / Windows, macOS, Linux / [GitHub](https://github.com/PintaProject/Pinta)
 * [Magma](https://magma.com/), [⁠MagicalDraw](https://draw.kuku.lu/) or [malmal](https://malmal.app/) - Collaborative Drawing / Web
 * [DrawPile](https://drawpile.net/) - Collaborative Drawing / Windows, macOS, Linux, Android, Web
 * [⁠Wigglypaint](https://internet-janitor.itch.io/wigglypaint) or [FizzPaint](https://fizzpaint.ameniwa.com/) - Browser Painting / Animated Brushes / Web
-* [Inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, macOS, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, macOS
 * [PixiEditor](https://pixieditor.net/) - Vector Editor / Painting App / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
 * [KRESKA.art](https://kreska.art/) - Browser Painting / Drawing / Web

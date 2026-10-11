@@ -54,7 +54,7 @@
 
 ***
 
-* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / Windows / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
+* ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Guide](https://api.playnite.link/docs/) / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / Windows / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
 * ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Downloader / Torrent Client / Achievement Support / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / Windows, Linux / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
 * ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / Windows, Linux / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / Windows / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
@@ -606,7 +606,7 @@
 * [r/3DSPiracy](https://www.reddit.com/r/3dspiracy/) or [3DSHacks](https://reddit.com/r/3dshacks/) - 3DS Modding Subreddit
 * [FlagBrew](https://github.com/FlagBrew) - 3DS Homebrew Apps / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation Discord Server
-* [TomodachiShare](https://tomodachishare.com/) - Tomodachi Life + Miitopia Mii Archive / Codes / [Discord](https://discord.gg/48cXBFKvWQ) / [GitHub](https://github.com/trafficlunar/tomodachi-share)
+* [TomodachiShare](https://tomodachishare.com/) - Tomodachi Life + Miitopia Mii Archive / Codes / [GitHub](https://github.com/trafficlunar/tomodachi-share)
 
 ***
 
@@ -1125,7 +1125,7 @@
 * [MaxVRList](https://maxvrlist.com/) - VR Leaderboards / [Discord](https://discord.gg/S8HcYawzhx)
 * [xer](https://xer.fr/mkw) - MKWii Item Probabilities
 * [MK8DX Prob](https://japan-mk.blog.jp/mk8dx/note4/prob.html) - MK8DX Item Probabilities
-* Tockdom Wikis - [MKWii](https://mkwiiki.org/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis / [Discord](https://discord.gg/pppFCpWtFJ)
+* Tockdom Wikis - [MKWii](https://mkwiiki.org/wiki/Main_Page) / [MK8](https://mk8.tockdom.com/) / [MK3DS](https://mk3ds.com/) / [MKDS](https://wiki.dshack.org/) / [MKDD](https://mkdd.org/) - Custom Mario Kart Wikis
 * [Custom Track Tutorial](https://mkwiiki.org/wiki/Custom_Track_Tutorial) - How to Make Custom MKWii Tracks
 * [MKW Texture Hacks](https://mkwiiki.org/wiki/Texture_Hack_Distribution) - Custom MKWii Textures
 * [ShortCat](https://shortcat.pro/) - MK8DX Strategy Guide
@@ -1159,7 +1159,7 @@
 ## ▷ Roblox Tools
 
 * ⭐ **[RoSeal](https://www.roseal.live/)** / [Discord](https://discord.gg/YemzCFaQPC) / [GitHub](https://github.com/RoSeal-Extension/RoSeal), [RoValra](https://rovalra.com/) / [Discord](https://discord.gg/aw6rEnFSjV) / [GitHub](https://github.com/NotValra/RoValra), [RoLocate](https://oqarshi.github.io/Invite/rolocate/) / [GitHub](https://github.com/Oqarshi/RoLocate), [BTRoblox](https://github.com/AntiBoomz/BTRoblox), [RoGold](https://rogold.live/free) / [Discord](https://discord.com/invite/XMHn9zV3UA) or [RoPro](https://ropro.io/) / [Discord](https://discord.com/invite/8JXKupGY89) - Enhance Roblox Website / Add Features / Extensions
-* ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** or [Fishstrap](https://fishstrap.app) - Roblox Player + Studio Bootstrapper / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
+* ⭐ **[Fishstrap](https://fishstrap.app)** or **[Bloxstrap](https://bloxstraplabs.com/)** / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap) - Roblox Player + Studio Bootstrapper
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Rolimon's](https://www.rolimons.com/games) or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Analytics / Stats
 * [Better Discovery](https://www.roblox.com/games/15317947079/) - Find Roblox Games
