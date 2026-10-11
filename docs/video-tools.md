@@ -240,7 +240,7 @@
 * ⭐ **[neko](https://neko.m1k1o.net/)** - Docker Virtual Browser / [GitHub](https://github.com/m1k1o/neko)
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [OpenTogetherTube](https://opentogethertube.com/) or [TurtleTV](https://turtletv.app/) - Online Player
-* [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
+* [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Player
 * [Mzelo](https://mzelo.com/) - Online Player
 * [⁠SyncUp](https://syncup.tv/) - Online Player
