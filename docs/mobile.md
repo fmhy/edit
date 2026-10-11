@@ -852,6 +852,7 @@
 
 * ⭐ **[Mihon](https://mihon.app/)** - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://wotaku.wiki/ext/mihon), [4](https://github.com/Nyora-Manga/nyora-mihon) / [Endorsed Forks](https://mihon.app/forks/), [2](https://github.com/nekomangaorg/Neko), [3](https://komikku-app.github.io/), [4](https://yuzono.github.io/) / [Avoid Fakes](https://mihon.app/news/2025-11-05-potential-threat) / [Discord](https://discord.gg/mihon) / [GitHub](https://github.com/mihonapp/mihon)
 * ⭐ **[Dantotsu](https://discord.com/invite/4HPZ5nAWwM)** - Manga Reader / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
+* [Madomi](https://pawakalabs.com/products/madomi/) - Manga Reader / Manga Translator / Freemium / [Extensions](https://keiyoushi.github.io/extensions/), [Discord](https://discord.com/invite/rGkPJju9zD)
 * [Futon](https://landing-futon.pages.dev) / [Discord](https://discord.gg/9sqBHXhwzz) / [GitHub](https://github.com/AppFuton/Futon/), [⁠Usagi](https://yumemi.moe/) / [Plugins](https://github.com/InvalidDavid/UMA) / [GitHub](https://github.com/UsagiApp/Usagi) or [⁠Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) / [Discord](https://discord.com/invite/sfPJSQNxfW) - Manga Readers / Kotatsu Forks
 * [⁠Zangetsu](https://zangetsu.online/) - Manga Reader / [Discord](https://discord.gg/F8wX2eN8Yw) / [GitHub](https://github.com/Spyou/Zangetsu)
 * [Mangayomi](https://github.com/kodjodevf/mangayomi) - Manga Reader / [Discord](https://discord.com/invite/EjfBuYahsP)
@@ -1465,6 +1466,7 @@
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Extensions](https://inkdex.github.io/) / [Discord](https://discord.paperback.moe/)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader / [Extensions](https://github.com/Nyora-Manga/nyora-aidoku) / [GitHub](https://github.com/Aidoku/Aidoku)
+* ⭐ **[Madomi](https://pawakalabs.com/products/madomi/)** - Manga Reader / Manga Translator / Freemium / [Extensions](https://keiyoushi.github.io/extensions/), [Discord](https://discord.com/invite/rGkPJju9zD)
 * ⭐ **[Tachimanga](https://tachimanga.app/)** - Manga Reader / Freemium / [Discord](https://discord.gg/8aMcdYdaBz)
 * ⭐ **[Readera](https://readera.org/)** - Ebook Reader
 * [Suwatte](https://github.com/suwatte) - Comic Reader / [Discord](https://discord.gg/8wmkXsT6h5)
