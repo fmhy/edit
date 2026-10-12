@@ -491,6 +491,7 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [⁠bindhosts](https://github.com/bindhosts/bindhosts) - Systemless Adblocking for Rooted Android
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
+* [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna), [SlipNet](https://github.com/anonvector/SlipNet) / [Troubleshooting](https://t.me/SlipNet_app) / [Telegram](https://t.me/slipnet_chat), [⁠WhiteDNS](https://github.com/iampedii/WhiteDNS) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass
 
 ***
 
