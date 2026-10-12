@@ -1850,6 +1850,7 @@
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
 * [vCalc](https://vcalc.com/) - Calculators
+* [Slope Calculators](https://slopecalculators.com/) - Slope / Gradient Calculators
 * [MatrixCalc](https://matrixcalc.org/en/) - Matrix Calculator
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
