@@ -254,7 +254,6 @@
 * [TheOldNet](https://theoldnet.com/) or [Old'aVista](https://www.oldavista.com/) - Oldschool / Retro Site Search Engines
 * [OceanHero](https://oceanhero.today/) - Ocean Protection Search Engine
 * [Ecosia](https://www.ecosia.org/) - Plant Trees via Search
-* [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
 * [Bing](https://www.bing.com/)
 * [Google](https://google.com/) / [AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50)
 * [Lycos](https://www.lycos.com/)

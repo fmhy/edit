@@ -84,7 +84,7 @@
 
 ## ▷ Local AI Frontends
 
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Desktop App / [Presets / Themes](https://discord.gg/MU5FKZvuT7) / [Android](https://docs.sillytavern.app/installation/android-(termux)/) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Desktop App / [Presets / Themes](https://discord.gg/MU5FKZvuT7) / [Android](https://docs.sillytavern.app/installation/android-(termux)) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
 * ⭐ **[Open WebUI](https://openwebui.com/)** - Web UI / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
 * ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
 * ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)

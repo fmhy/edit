@@ -111,6 +111,7 @@
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
 * [DNS for Family](https://dnsforfamily.com/)
+* [DNS Forge](https://dnsforge.de/)
 * [Hurricane Electric](https://dns.he.net/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)

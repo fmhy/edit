@@ -253,7 +253,7 @@
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [⁠Last Minute Engineers](https://lastminuteengineers.com/) - Electronics Engineering Learning
-* [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526) (linux), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
+* [Falstad](https://www.falstad.com/circuit/), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
@@ -1012,6 +1012,7 @@
 * [The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
 * [ChessGames](https://www.chessgames.com/) - Historic Master Games Archive & Discussion
 * [Chess Results](https://chess-results.com/) - FIDE Tournament Results Database
+* [⁠Chess Second](https://chess-second.com/) - FIDE Player Stats, Rating Histories & Opponent Scouting
 * [⁠Olympiad Stats](https://www.olympiadstats.fun/) - Chess Olympiad Statistics / Round Analysis
 * [365Chess](https://www.365chess.com/) - Chess Database / Opening Explorer
 * [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
@@ -1787,6 +1788,7 @@
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
 * [⁠StudyKit](https://studytoolkit.vercel.app/) - Online Study Tools
 * [⁠Studyn](https://studyn.org/) - Discord Bot w/ Study Tracking, Stats, Anki Integration and more
+* [⁠Study Together](https://discord.gg/study) - Study / Productivity Focused Server
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Scientific Articles
 * [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)

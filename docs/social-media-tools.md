@@ -448,7 +448,7 @@
 
 ## ▷ YouTube Archiving
 
-* ⭐ **[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)** - Multi-Site Archive Search / Try Refreshing or Re-searching / [GitHub](https://github.com/TheTechRobo/youtubevideofinder/)
+* ⭐ **[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)** / [GitHub](https://github.com/TheTechRobo/youtubevideofinder/) or [⁠Archivarix](https://archivarix.net/) - Multi-Archive Search Engines
 * [Tubeup](https://github.com/bibanon/tubeup) - YouTube Video to IA Uploader
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [yark](https://github.com/Owez/yark) - YouTube Channel Archiver

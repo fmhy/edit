@@ -57,6 +57,7 @@
 * [Hexupload](https://hexload.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
 * [⁠Streamain](https://streamain.com/) - Unlimited / Forever
+* [⁠CryptFiles](https://cryptfiles.cloud/) - Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [⁠AnonMP4](https://anonmp4.to/) - 20GB / Forever
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days

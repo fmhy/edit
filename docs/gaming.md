@@ -160,7 +160,7 @@
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
-* [whdload](https://www.whdload.de/) - Amiga Games
+* [whdload](https://www.whdload.de/) - Amiga Games6
 
 ***
 
@@ -610,6 +610,7 @@
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
 * [⁠Bomb Party Local](https://cyfam.github.io/bombpartylocal/game) - Word Game Practice
+* [Quackle](https://www.quackle.org/) - Scrabble AI, Game Analysis & Strategy Trainer / Windows, macOS, Linux / [GitHub](https://github.com/quackle/quackle)
 
 ***
 

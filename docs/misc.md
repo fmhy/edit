@@ -1413,6 +1413,7 @@
 * [MajorGeeks Tools](https://tools.majorgeeks.com/) - Social Media / Text / Image / Code
 * [OmniTools](https://omnitools.app/) - Social Media / Text / Image / Code
 * [⁠ToolKnit](https://toolknit.com/) - Image / Video / PDF / Audio / File
+* [⁠WebBrowserTools](https://webbrowsertools.com/) - Code / Text / Image
 * [IPVoid](https://www.ipvoid.com/) - Text / IP
 * [AppsCyborg](https://appscyborg.com/) - File Conversion / Media
 * [Online Tools](https://onlinetools.com/) - File-Specific Tools
