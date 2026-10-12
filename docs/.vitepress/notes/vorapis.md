@@ -4,4 +4,4 @@ Disable uBlock Origin (or any other ad blocker such as Brave Shields) for YouTub
 
 Firefox: Disable enhanced tracking prevention (shield in URL bar).
 
-Vorapis blocks ads and displays dislike count by itself, compatible with DeArrow and SponsorBlock.
+VORAPIS blocks ads and displays dislike counts itself. It is compatible with DeArrow and SponsorBlock.
