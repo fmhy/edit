@@ -1090,6 +1090,7 @@
 * [ETFDB](https://etfdb.com/) - ETF Databases
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
+* [SpotGoldValue](https://spotgoldvalue.com/) - Gold Melt Value Calculators
 
 ***
 
