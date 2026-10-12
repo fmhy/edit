@@ -100,7 +100,7 @@
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows / [GitHub](https://github.com/sumatrapdfreader/sumatrapdf)
 * [Sioyek](https://sioyek.info/) - PDF Reader / Windows, macOS, Linux / [GitHub](https://github.com/ahrm/sioyek)
 * [Foxit](https://www.foxit.com/pdf-reader/) - PDF Reader / All Platforms / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)(search) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
-* [⁠BookOrbit](https://bookorbit.app/) / [GitHub](https://github.com/bookorbit/bookorbit) or [⁠Grimmory](https://grimmory.org/) / [GitHub](https://github.com/grimmory-tools/grimmory) - Ebook Managers / Readers / Self-Hosted
+* [⁠BookOrbit](https://bookorbit.app/) / [GitHub](https://github.com/bookorbit/bookorbit) / [ShadowLib Plugin](https://github.com/campfireshuffle/bookorbit-shadowlib-plugin) or [⁠Grimmory](https://grimmory.org/) / [GitHub](https://github.com/grimmory-tools/grimmory) - Ebook Managers / Readers / Self-Hosted
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Ebook Reader / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / Windows, macOS, Android, iOS
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, macOS
