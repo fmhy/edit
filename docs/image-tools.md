@@ -34,6 +34,7 @@
 * ⭐ **[Pixlr](https://pixlr.com/)** - Simple Editor / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/490940)
 * ⭐ **[Lunapic](https://lunapic.com/)** - Multi-Tool
 * ⭐ **[Photopea](https://www.photopea.com/)** - Full-Featured
+* [PhotoFresco](https://photofresco.com/) - Full-Featured
 * [BitMappery](https://www.igorski.nl/application/bitmappery/) - Full-Featured
 * [⁠Schist](https://try.schist.app/) - Full-Featured / [GitHub](https://github.com/Infrawrench/schist)
 * [⁠PaintFE (Web)](https://www.paintfe.com/online/) - Full-Featured
