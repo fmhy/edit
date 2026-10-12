@@ -37,7 +37,7 @@
 * [BingeBang](https://bingebang.st/) - Movies / TV / Anime / Auto-Next / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)
 * [Cinema (BZ)](https://cinema.army/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/cinemabz)
 * [SvStream](https://svstream.cc/), [2](https://nomorflix.cc/), [3](https://diostream.cc/) - Movies / TV / Anime / Auto-Next / [Status](https://nomorflix.com/)
-* [Cinex](https://cinex.lol/) or [Cinemove](https://cinemove.cc/) or - Movies / TV / Anime / Auto-Next / 4K
+* [Cinex](https://cinex.lol/) or [Cinemove](https://cinemove.cc/) - Movies / TV / Anime / Auto-Next / 4K
 * [Vuflix](https://vuflix.co/) - Movies / TV / Anime / Auto-Next
 * [bCine](https://cineyz.com/) or [ZXCSTREAM](https://zxcprime.icu/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/6ZXNmPedkG)
 * [Movish](https://movish.to/) or [LatestMovies](https://latestmovies.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FsbU2BQcjQ)
