@@ -868,6 +868,7 @@
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg) / Windows
 * [Song Finder](https://songfinder.dev/) / Web
 * [AudioTag](https://audiotag.info/) / Web
+* [⁠SongFinder](https://songfinder.tech/) / Web
 * [⁠SongFinder (gg)](https://songfinder.gg/) / Web
 * [SoundHound](https://www.soundhound.com/soundhound) / Android, iOS
 * [Audile](https://github.com/aleksey-saenko/MusicRecognizer) / Android
