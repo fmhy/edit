@@ -129,7 +129,7 @@
 ## ▷ Roleplaying Chatbots
 
 * 🌐 **[Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
-* ⭐ **[Perchance](https://perchance.org/ai-character-chat)**, [2](https://perchance.org/urv-ai-chat) or [Custom Api](https://perchance.org/amoled-chat) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* ⭐ **[Perchance](https://perchance.org/ai-character-chat)**, [2](https://perchance.org/urv-ai-chat) or [Custom API](https://perchance.org/amoled-chat) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
 * ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Roleplaying Models / [Presets / Themes](https://discord.gg/MU5FKZvuT7) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
 * ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / [Guide](https://wikia.schneedc.com/bot-creation/intro) / [Resources](https://clarasguide.valeena.workers.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
 * ⭐ **[Agnai](https://agnai.chat/)** - Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW / [Discord](https://discord.com/invite/DAn38sA8Qj)
@@ -142,7 +142,7 @@
 * [Verba](https://verba.ink/) - Roleplaying + Images / Unlimited / [Discord](https://discord.gg/verba)
 * [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
 * [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
-* [Crossing the Uncanny Valley](https://www.sesame.com/blog/crossing-the-uncanny-valley-of-voice#demo) - Realistic AI Voice Chatlooks
+* [Crossing the Uncanny Valley](https://www.sesame.com/blog/crossing-the-uncanny-valley-of-voice#demo) - Realistic AI Voice Chat
 * [⁠your ai slop bores me](https://youraislopbores.me/) - Interactive Human AI Roleplaying
 * [GobboNet](https://goblincorps.com/gobbonet) - Self-Hosted Roleplaying Models / [GitHub](https://github.com/ElodineOfficial/gobbonet)
 * [⁠Lumiverse](https://lumiverse.chat/) - Self-Hosted Roleplaying Models
@@ -249,7 +249,7 @@
 * ⭐ **[A Traveler's Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
 * [⁠ImagePromptGuru](https://imagepromptguru.net/) or [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) / [Colab](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb), [2](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb) - Determine Image Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Extension for Automatic1111
-* [AI Horde](https://stablehorde.net/) - Stable Diffusion GPU Hoarde / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)
+* [AI Horde](https://stablehorde.net/) - Stable Diffusion GPU Horde / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/) / [Discord](https://discord.gg/3DxrhksKzn) / [GitHub](https://github.com/Haidra-Org/AI-Horde)
 * [IOPaint](https://www.iopaint.com/) - Image Fill / Item Removal / [Colab](https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
 

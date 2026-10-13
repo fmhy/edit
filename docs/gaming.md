@@ -1155,7 +1155,7 @@
 * [⁠PokéClicker](https://www.pokeclicker.com) - Incremental Pokémon Game / [Wiki](https://wiki.pokeclicker.com) / [Discord](https://discord.gg/a6DFe4p) / [GitHub](https://github.com/pokeclicker/pokeclicker)
 * [⁠Pokelike](https://pokelike.xyz/) - Pokémon Roguelike / [Discord](https://discord.gg/YsakfWStYq)
 * [PokéVoid](https://pokevoid.com/) - Pokémon Roguelike / PokéRogue Alt / [Wiki](https://pokevoid.wiki/) / [Discord](https://discord.gg/xsQummMK3H)
-* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
+* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokémon-Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [TCG ONE](https://tcg.one/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 
 ***
