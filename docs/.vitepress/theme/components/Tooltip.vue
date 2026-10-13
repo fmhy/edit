@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useMediaQuery } from '@vueuse/core'
 import { withBase } from 'vitepress'
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 
 const props = withDefaults(defineProps<{ title?: string; icon?: string }>(), {
   icon: '/note.svg'
@@ -10,19 +10,30 @@ const props = withDefaults(defineProps<{ title?: string; icon?: string }>(), {
 const resolvedIcon = computed(() => withBase(props.icon))
 
 const isHoverable = useMediaQuery('(hover: hover)')
-const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
+const triggers = computed(() =>
+  isHoverable.value ? ['hover', 'click'] : ['click']
+)
+const trigger = ref<HTMLButtonElement>()
+const content = ref<HTMLElement>()
+
+function restoreFocus() {
+  const popper = content.value?.closest('.v-popper__popper')
+  if (popper?.contains(document.activeElement)) trigger.value?.focus()
+}
 </script>
 
 <template>
   <VDropdown
     :triggers="triggers"
-    :popper-triggers="triggers"
+    :popper-triggers="['hover']"
     :delay="{ show: 50, hide: 50 }"
     :auto-hide="true"
     :distance="15"
     placement="auto"
+    @hide="restoreFocus"
   >
     <button
+      ref="trigger"
       type="button"
       :aria-label="title || 'More information'"
       class="tooltip-trigger text-primary relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.5em] w-[1.5em] overflow-visible align-middle"
@@ -37,7 +48,7 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
     </button>
 
     <template #popper>
-      <div class="tooltip-card">
+      <div ref="content" class="tooltip-card">
         <div class="tooltip-content">
           <h3 v-if="title" class="tooltip-title" v-text="title" />
           <div class="tooltip-body vp-doc">
