@@ -354,7 +354,6 @@
 * [TheRomDepot](https://theromdepot.com/) - ROMs / Requires Sign-Up
 * [BlueRoms](https://www.blueroms.ws/) - ROMs / Torrents
 * [ROMsFun](https://romsfun.com/) or [ROMsPURE](https://ROMspure.cc/) - ROMs
-* [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Arquivista ROMs](https://rentry.co/FMHYB64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYB64#finalburn-neo) - ROMs / Zip
 * [Romsie](https://roms2000.com/) - ROMs
@@ -375,6 +374,7 @@
 * [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
+* [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / Use Adblock / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360 / Avoid PC Games
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
@@ -620,7 +620,7 @@
 * 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
 * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
-* ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
+* ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20), [⁠Cockatrice](https://cockatrice.github.io/) / [Discord](https://discord.gg/3Z9yzmA) / [GitHub](https://github.com/Cockatrice/Cockatrice) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 * [⁠BoardGameplay](https://boardgameplay.com/) - Online Board Games / [Discord](https://discord.gg/EC5ZvQa7M5)
 * [FlyOrDie](https://www.flyordie.com/) - Online Board Games
 * [⁠VirtualTabletop](https://virtualtabletop.io/) - Online Board Games / [GitHub](https://github.com/ArnoldSmith86/virtualtabletop)
@@ -949,6 +949,7 @@
 * ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
+* [⁠Surfd](https://surfd.net/) - CS:Source-Style Surfing / [Discord](https://discord.gg/D5CYH7SBs6)
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [⁠Vector](https://vector.game/) - 2D Platformer
@@ -964,7 +965,6 @@
 * 🌐 **[⁠drifted](https://www.drifted.com/)** - Drifting-Focused Browser Games
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
-* [Simpsons: Hit & Run Web](https://rentry.co/FMHYB64#tshr) - Browser Simpsons: Hit & Run
 * [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/) / [Subreddit](https://www.reddit.com/r/PolyTrack/) / [Discord](https://discord.com/invite/NqEwseAcZ9)
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game

@@ -235,7 +235,7 @@
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [BOMwiki](https://bomwiki.com/) - Product Blueprint Components Database / [X](https://x.com/protosphinx) / [GitHub](https://github.com/BOMWiki)
-* [⁠Hackster.io](https://www.hackster.io/) - Hardware Learning / Project Sharing 
+* [⁠Hackster.io](https://www.hackster.io/) - Hardware Learning / Project Sharing
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
@@ -374,7 +374,7 @@
 * [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://sites.ucsd.edu/clinicalmedguide/) or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
 * [LibreTexts Med](https://med.libretexts.org/Bookshelves) - Medical Learning / Guides
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) - Anatomy Guides
-* [AnatomyLearning](https://anatomylearning.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
+* [AnatomyLearning](https://anatomylearning.com/), [⁠Clara Atlas](https://claraseg.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) - Histology Guides
@@ -387,6 +387,7 @@
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
 * [DeployedMedicine](https://deployedmedicine.com/) (Sign-Up) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
+* [⁠Lifesaver](https://lifesaver.org.uk/) - Interactive CPR / First Aid Training Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research
@@ -1118,6 +1119,7 @@
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
+* [⁠Thai-Language](http://www.thai-language.com/) - Thai Learning Resources / Dictionary
 * [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mori-note.md)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
@@ -1324,8 +1326,9 @@
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
-* [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
+* [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
+* [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary 
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI

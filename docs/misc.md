@@ -392,6 +392,7 @@
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [⁠OpenAirportMap](https://openairportmap.org/) - Airport Maps
 * [⁠METAR-TAF](https://metar-taf.com/) - Airport Weather Tracking Tool
+* [Delay Compensation](https://www.shenouda.nl/airline/) - Flight Delay & Refund Compensation Calculator
 * [⁠ADSB.im](https://adsb.im/) - ADSB Tracking for Single Board Computers
 
 ***
