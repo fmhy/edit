@@ -160,7 +160,7 @@
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
-* [whdload](https://www.whdload.de/) - Amiga Games
+* [whdload](https://www.whdload.de/) - Amiga Games6
 
 ***
 
@@ -354,7 +354,6 @@
 * [TheRomDepot](https://theromdepot.com/) - ROMs / Requires Sign-Up
 * [BlueRoms](https://www.blueroms.ws/) - ROMs / Torrents
 * [ROMsFun](https://romsfun.com/) or [ROMsPURE](https://ROMspure.cc/) - ROMs
-* [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Arquivista ROMs](https://rentry.co/FMHYB64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYB64#finalburn-neo) - ROMs / Zip
 * [Romsie](https://roms2000.com/) - ROMs
@@ -371,10 +370,10 @@
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [Romspedia](https://www.romspedia.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
-* [RetroZone](https://retrozone.co/) - ROMs / [Discord](https://discord.gg/662GhC76tJ)
 * [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
+* [⁠EpicROMs](https://epicroms.net/roms/) - ROMs / Use Adblock / [Subreddit](https://www.reddit.com/r/EpicRoms/)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360 / Avoid PC Games
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
@@ -512,6 +511,7 @@
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [⁠hack the terminal](https://bash.tv/mallory/hack-terminal) or [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) - Fallout Terminal Hacking Games
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [⁠Decelerate](https://dlc.kernal.bid/) - Tile Matching Game
 * [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
 * [⁠Squishy Billiards](https://squishybilliards.com/) - Daily Billiards Puzzle Game / [Discord](https://discord.gg/fkRCcvkhZh)
 * [⁠Pips](https://www.nytimes.com/games/pips) - Daily Domino Puzzle
@@ -610,6 +610,7 @@
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
 * [⁠Bomb Party Local](https://cyfam.github.io/bombpartylocal/game) - Word Game Practice
+* [Quackle](https://www.quackle.org/) - Scrabble AI, Game Analysis & Strategy Trainer / Windows, macOS, Linux / [GitHub](https://github.com/quackle/quackle)
 
 ***
 
@@ -619,7 +620,7 @@
 * 🌐 **[Pub Meeple](https://www.pubmeeple.com/rankings)** - Community Board Game Rankings
 * ↪️ **[Tabletop Tools & Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_tabletop_tools)**
 * ↪️ **[Go / Baduk / Weiqi Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7__go_.2F_baduk_.2F_weiqi)**
-* ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
+* ⭐ **[Roll20](https://roll20.net/)** / [Discord](https://discord.gg/roll20), [⁠Cockatrice](https://cockatrice.github.io/) / [Discord](https://discord.gg/3Z9yzmA) / [GitHub](https://github.com/Cockatrice/Cockatrice) or [Rolisteam](https://rolisteam.org/) / [Discord](https://discord.gg/MrMrQwX) - Online Virtual Tabletop Platforms
 * [⁠BoardGameplay](https://boardgameplay.com/) - Online Board Games / [Discord](https://discord.gg/EC5ZvQa7M5)
 * [FlyOrDie](https://www.flyordie.com/) - Online Board Games
 * [⁠VirtualTabletop](https://virtualtabletop.io/) - Online Board Games / [GitHub](https://github.com/ArnoldSmith86/virtualtabletop)
@@ -948,6 +949,7 @@
 * ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
+* [⁠Surfd](https://surfd.net/) - CS:Source-Style Surfing / [Discord](https://discord.gg/D5CYH7SBs6)
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [⁠Vector](https://vector.game/) - 2D Platformer
@@ -963,7 +965,6 @@
 * 🌐 **[⁠drifted](https://www.drifted.com/)** - Drifting-Focused Browser Games
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
-* [Simpsons: Hit & Run Web](https://rentry.co/FMHYB64#tshr) - Browser Simpsons: Hit & Run
 * [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/) / [Subreddit](https://www.reddit.com/r/PolyTrack/) / [Discord](https://discord.com/invite/NqEwseAcZ9)
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
@@ -1096,7 +1097,7 @@
 * [⁠Distrodle](https://distro.fedesito.me/) - Linux Distro Guessing Game
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [Muzify](https://muzify.com/) (Sign-Up), [Musicle](https://musicle.app/), [Songdle](https://statt-land-song.ch/songdle), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
-* [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
+* [DanceMusic](https://dancemusic.wtf/) or [⁠EDMdle](https://edmdle.vercel.app/) - Electronic Music Guessing Games
 * [⁠Musicle](https://musicle.fun/) - Daily Music Connections Game
 * [⁠CluesBySam](https://cluesbysam.com/) - Clue Style Guessing Game
 * [whatlang](https://whatlang.fun/) - Language Guessing Game / [GitHub](https://github.com/Inventoris/whatlang)

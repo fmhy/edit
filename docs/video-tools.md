@@ -57,6 +57,7 @@
 * [Hexupload](https://hexload.com/) - 15GB / 30 Days
 * [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Requires Sign-Up
 * [⁠Streamain](https://streamain.com/) - Unlimited / Forever
+* [⁠CryptFiles](https://cryptfiles.cloud/) - Unlimited / Forever
 * [Vidmoly](https://vidmoly.me/) - 15TB / 1 Year
 * [⁠AnonMP4](https://anonmp4.to/) - 20GB / Forever
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
@@ -212,7 +213,7 @@
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [Firefox Note](https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users) / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
-* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp)
+* [PotPlayer](https://potplayer.tv/) - Video Player / [Twitch Addon](https://github.com/TwitchPotPlayer/TwitchPotPlayer) / [YouTube Addon](https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp) / [Guide](https://tennojim.xyz/article/media_stack_diy)
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
 * [GridPlayer](https://github.com/vzhd1701/gridplayer), [AVPlayer](http://www.awesomevideoplayer.com/) or [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player with Smart Translation

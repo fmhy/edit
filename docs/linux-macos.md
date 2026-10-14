@@ -429,6 +429,7 @@
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
+* [Linkwarden](https://linkwarden.app/) / [GitHub](https://github.com/linkwarden/linkwarden), [KaraKeep](https://karakeep.app/) / [GitHub](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/), [⁠nextDash](https://github.com/jordibrouwer/nextdash) or [linkding](https://linkding.link/) / [GitHub](https://github.com/sissbruecker/linkding) - Self-Hosted Bookmark Managers
 * [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/), [Cloudreve](https://cloudreve.org/) / [GitHub](https://github.com/cloudreve/Cloudreve/), [SeaFile](https://www.seafile.com/en/home/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
@@ -470,7 +471,7 @@
 
 ## ▷ Android on Linux
 
-* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [Magisk Installer](https://github.com/mistrmochov/WaydroidSU) / [GitHub](https://github.com/waydroid)
+* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [Magisk Installer](https://github.com/mistrmochov/WaydroidSU) / [WayDroid-ATV Images](https://github.com/WayDroid-ATV/waydroid-builds) / [GitHub](https://github.com/waydroid)
 * [Redroid](https://github.com/remote-android/redroid-doc) or [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC
@@ -851,6 +852,7 @@
 * [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
+* [⁠RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Script to turn off Apple Intelligence
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
 
 ***

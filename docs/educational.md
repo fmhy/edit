@@ -92,7 +92,6 @@
 * [⁠Art of Memory](https://artofmemory.com/) - Memory Improvement Book, Games, and Forums
 * [Information Is Beautiful](https://informationisbeautiful.net/), [The Pudding](https://pudding.cool/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [r/coolguides](https://www.reddit.com/r/coolguides/top/?screen_view_count=2&t=all) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
-* [⁠Academy Network](https://academynetwork.net/) - Decentralized Guide Sharing App
 * [⁠Astral Codex Ten (ACX)](https://www.astralcodexten.com/) or [Read Scott Alexander](https://readscottalexander.com/) - Science, Psychology, and Philosophy Blog
 * [Common Misconceptions](https://wikipedia.org/wiki/List_of_common_misconceptions) - Common Misconception Index
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
@@ -132,7 +131,7 @@
 
 * ↪️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_science_news)**
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
-* [LabXchange](https://www.labxchange.org/) or [JavaLab](https://javalab.org/en/) - Interactive Science Simulations
+* [LabXchange](https://www.labxchange.org/), [⁠UCAR Center Simulations](https://scied.ucar.edu/interactive) or [JavaLab](https://javalab.org/en/) - Interactive Science / Math Simulations
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
 * [BOINC](https://boinc.berkeley.edu/) - Donate Idle CPU + GPU Resources to Scientific Research / [Manager](https://boinc.berkeley.edu/central/) / [Number Theory](https://numberfields.asu.edu/NumberFields/) / [Humanitarian](https://worldcommunitygrid.org/) / [Subreddit](https://www.reddit.com/r/BOINC/)
 
@@ -253,7 +252,7 @@
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulators
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [⁠Last Minute Engineers](https://lastminuteengineers.com/) - Electronics Engineering Learning
-* [Falstad](https://www.falstad.com/circuit/), [⁠Fritzing](https://gist.github.com/RyanLua/fc2457d87641bb39754278b01a647526) (linux), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
+* [Falstad](https://www.falstad.com/circuit/), [SKiDL](https://devbisme.github.io/skidl/) / [GitHub](https://github.com/devbisme/skidl), [atopile](https://start.atopile.io/), [EasyEDA](https://easyeda.com/editor) or [LibrePCB](https://librepcb.org/) - Electronic Circuit Design / Simulation Tools
 * [⁠The Pinouts Book](https://pinouts.org/) - Pinout Function Reference Guide
 * [Circuit Steps](https://circuitsteps.com/) - Circuit Analysis Tool
 * [BatteryUniversity](https://batteryuniversity.com/articles) - Learn About Batteries
@@ -277,6 +276,7 @@
 * [ChemicalAid](https://www.chemicalaid.com/), [⁠WebQC](https://www.webqc.org/) or [Chemequations](https://chemequations.com/en/) - Chemistry Calculators / Element Tables
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm) or [NIST](https://webbook.nist.gov/chemistry/) - Chemistry Wikis
+* [⁠Chempirical](https://chempirical.com/) - Chemistry Tools / Web
 * [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor), [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html) or [PeriodicVideos](http://www.periodicvideos.com/) - Chemistry Lessons
 * [ChemistrySteps](https://www.chemistrysteps.com/), [⁠ChemQuiz](https://chemquiz.net/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides
@@ -348,6 +348,7 @@
 * [eBird](https://ebird.org/), [Audubon](https://www.audubon.org/) or [AllAboutBirds](https://www.allaboutbirds.org/) - Bird Species Databases / IDs
 * [⁠BirdLife DataZone](https://datazone.birdlife.org/) - Bird Conservation Information
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
+* [⁠Koreaves](https://koreaves.com/gis/) - Korean Regional Bird Evidence Explorer
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
 * [Merlin](https://play.google.com/store/apps/details?id=com.labs.merlinbirdid.app), [BirdNET](https://birdnet.cornell.edu/) or [whoBIRD](https://f-droid.org/fr/packages/org.woheller69.whobird/) - Bird Picture / Sound Identification
 * [Featherbase](https://www.featherbase.info/en/home) - Bird Feather Database
@@ -374,7 +375,7 @@
 * [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://sites.ucsd.edu/clinicalmedguide/) or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
 * [LibreTexts Med](https://med.libretexts.org/Bookshelves) - Medical Learning / Guides
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) - Anatomy Guides
-* [AnatomyLearning](https://anatomylearning.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
+* [AnatomyLearning](https://anatomylearning.com/), [⁠Clara Atlas](https://claraseg.com/) or [BioDigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) - Histology Guides
@@ -387,6 +388,7 @@
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
 * [DeployedMedicine](https://deployedmedicine.com/) (Sign-Up) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
+* [⁠Lifesaver](https://lifesaver.org.uk/) - Interactive CPR / First Aid Training Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
 * [⁠Folding@home](https://foldingathome.org/) - Donate Idle PC to Disease Research
@@ -541,7 +543,7 @@
 * [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - LOX/Kerosene Liquid Rocket Info / Resources / Documentation
 * [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
-* [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
+* [ThrustCurve](https://github.com/JohnCoker/thrustcurve3) - Rocket Motor Performance Database
 * [⁠MIT Rocket Team](https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home) - Official MIT Rocket Team Wiki / Wiki / Resources
 * [⁠Jacobs Rocketry](https://www.jacobsrocketry.com/) - Rocketry Info / Manuals
 * [Tripoli Rocketry](https://www.tripoli.org/) or [⁠NAR](https://www.nar.org/) / [Facebook](https://www.facebook.com/groups/2255560886/) - High-Powered Rocket Resources / Info
@@ -1012,6 +1014,7 @@
 * [The Week In Chess](https://theweekinchess.com/) - Weekly PGN Chess Game Archives
 * [ChessGames](https://www.chessgames.com/) - Historic Master Games Archive & Discussion
 * [Chess Results](https://chess-results.com/) - FIDE Tournament Results Database
+* [⁠Chess Second](https://chess-second.com/) - FIDE Player Stats, Rating Histories & Opponent Scouting
 * [⁠Olympiad Stats](https://www.olympiadstats.fun/) - Chess Olympiad Statistics / Round Analysis
 * [365Chess](https://www.365chess.com/) - Chess Database / Opening Explorer
 * [2700chess](https://2700chess.com/) - Live Ratings for Super Grandmasters
@@ -1101,7 +1104,7 @@
 * [Language Drops](https://languagedrops.com/) / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [OkyDoky](https://www.okydoky.app/) - Language Learning App with Thematic Vocab
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [FSI Language Courses](https://www.fsi-language-courses.org/), [2](https://www.livelingua.com/fsi/) / [X](https://x.com/fsi_languages) - Language Learning Courses
 * [DLIFLC](https://gloss.dliflc.edu/) - Language Learning Quizzes
-* [⁠Danobang](https://danobang.com/) or [Ba Ba Dum](https://babadum.com/) - Language Learning Games
+* [⁠Danobang](https://danobang.com/), [⁠Digital Dialects](https://www.digitaldialects.com/) or [Ba Ba Dum](https://babadum.com/) - Language Learning Games / Interactive
 * [LanguageGuide](https://www.languageguide.org/) - Visual Language Learning
 * [clozemaster](https://www.clozemaster.com/) - Context-Based Language Learning
 * [Sounter](https://sounter.com/), [LingoClip](https://lingoclip.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
@@ -1117,6 +1120,7 @@
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
+* [⁠Thai-Language](http://www.thai-language.com/) - Thai Learning Resources / Dictionary
 * [Tōku Reo](https://www.tokureo.maori.nz/) - Māori Language Learning Show / [Info](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mori-note.md)
 * [Itchy Feet Comic](https://files.catbox.moe/lq6s85.png) - Asian Script Differentiation Guide
 
@@ -1323,8 +1327,9 @@
 * [⁠SooSL](https://www.soosl.net/) - Create Custom Sign Language Dictionaries
 * [ASL-LEX](https://asl-lex.org/) - ASL Visual Connections Map / [Visualization](https://asl-lex.org/visualization/)
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
-* [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
+* [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
+* [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary 
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
@@ -1551,6 +1556,7 @@
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Visualization.info](https://visualization.info/) or [⁠Data Visualization Guide](https://data.europa.eu/apps/data-visualisation-guide/) - Learn About Data Visualization
 * [365Datascience](https://365datascience.com/) - Data Science Courses
+* [⁠Kaggle Learn](https://www.kaggle.com/learn) - Data Science Learning 
 * [Data Science Intro Guide](https://florian-huber.github.io/data_science_course/) or [Data Science First Intro](https://python.datasciencebook.ca/) - Data Science with Python Intro Guides
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
@@ -1764,6 +1770,7 @@
 * [⁠Extracurriculars.org](https://extracurriculars.org/) / [Discord](https://discord.gg/SGEtqcaSRu), [snow.day](https://www.snow.day/) or [Talem](https://www.talem.org/extracurriculars) - Extracurricular Search
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [⁠CSRankings](https://csrankings.org/) - Publication Activity of Computer Science Colleges per Topic
+* [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Wordwall](https://wordwall.net/) - Lesson Creator
@@ -1781,21 +1788,21 @@
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
-* ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
+* ⭐ **[Refseek](https://www.refseek.com/)** or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
 * [Driftly](https://github.com/DP-Hridayan/Driftly) - Class Attendance Tracker / Android
 * [⁠StudyKit](https://studytoolkit.vercel.app/) - Online Study Tools
 * [⁠Studyn](https://studyn.org/) - Discord Bot w/ Study Tracking, Stats, Anki Integration and more
+* [⁠Study Together](https://discord.gg/study) - Study / Productivity Focused Server
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Scientific Articles
-* [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
+* [MyBib](https://www.mybib.com/), [CiteMaker](https://www.citemaker.com/), [Formatically](https://formatically.com/), [ZoteroBib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://incitefulmed.com/academic/) - Find Connected Literature via Citations
 * [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
-* [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Foam](https://foambubble.github.io/) - Knowledge Management System
 * [Zotero](https://www.zotero.org/) - Research Assistant
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
