@@ -143,7 +143,7 @@
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
 * [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable
 * [⁠Just The QR Code](https://justthefuckingqrco.de/) - Generator / Customizable
-* [⁠Midas QR](https://midasqr.is-local.org/) - Generator / Customizable / [Github](https://github.com/Jimm144/midas-qr)
+* [⁠Midas QR](https://midasqr.is-local.org/) - Generator / Customizable / [GitHub](https://github.com/Jimm144/midas-qr)
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
