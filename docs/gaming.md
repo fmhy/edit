@@ -370,7 +370,6 @@
 * [ROM-Collections](https://rentry.co/FMHYB64#rom-collections) - ROMs
 * [Romspedia](https://www.romspedia.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
-* [RetroZone](https://retrozone.co/) - ROMs / [Discord](https://discord.gg/662GhC76tJ)
 * [ROMSPack](https://www.romspack.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs / [Discord](https://discord.gg/BQPzkwj)
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
@@ -512,6 +511,7 @@
 * [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
 * [JetHolt](https://jetholt.com/hacking/), [⁠hack the terminal](https://bash.tv/mallory/hack-terminal) or [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) - Fallout Terminal Hacking Games
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [⁠Decelerate](https://dlc.kernal.bid/) - Tile Matching Game
 * [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
 * [⁠Squishy Billiards](https://squishybilliards.com/) - Daily Billiards Puzzle Game / [Discord](https://discord.gg/fkRCcvkhZh)
 * [⁠Pips](https://www.nytimes.com/games/pips) - Daily Domino Puzzle
@@ -1097,7 +1097,7 @@
 * [⁠Distrodle](https://distro.fedesito.me/) - Linux Distro Guessing Game
 * [More or Less](https://moreorless.io/) - More or Less Guessing
 * [Muzify](https://muzify.com/) (Sign-Up), [Musicle](https://musicle.app/), [Songdle](https://statt-land-song.ch/songdle), [⁠Whatsamusic](https://whatsamook.games/mu) / [Discord](https://discord.gg/NM7x5R6), [Bandle](https://bandle.app/), [Spotle](https://spotle.io/) or [Lofidle](https://lofidle.com/) - Music / Song Guessing Games
-* [DanceMusic](https://dancemusic.wtf/) - Electronic Music Genre Guessing Game
+* [DanceMusic](https://dancemusic.wtf/) or [⁠EDMdle](https://edmdle.vercel.app/) - Electronic Music Guessing Games
 * [⁠Musicle](https://musicle.fun/) - Daily Music Connections Game
 * [⁠CluesBySam](https://cluesbysam.com/) - Clue Style Guessing Game
 * [whatlang](https://whatlang.fun/) - Language Guessing Game / [GitHub](https://github.com/Inventoris/whatlang)
