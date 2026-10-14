@@ -87,6 +87,7 @@
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
 * [Coders Tool](https://www.coderstool.com/)
+* [FastTools](https://fasttools.me/) - Lightweight, Client-Side Developer Utilities & Fee Calculators
 * [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 
 ***
