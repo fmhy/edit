@@ -49,7 +49,7 @@
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
 * [BatUtil](https://github.com/abbodi1406/BatUtil) / [2](https://gitlab.com/stdout12/batutil) / [3](https://codeberg.org/stdout12/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - System Scripts
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - System App Tweaking
-* [Wox](https://github.com/Wox-launcher/Wox), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Asyar](https://asyar.org/) / [GitHub](https://github.com/Xoshbin/asyar), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
+* [Wox](https://github.com/Wox-launcher/Wox), [Vicinae](https://www.vicinae.com/) / [GitHub](https://github.com/vicinaehq/vicinae), [Listary](https://www.listary.com/), [Raycast](https://www.raycast.com/) / [FMHY Search](https://www.raycast.com/akshit_mehta/fmhy-search), [Flow Launcher](https://www.flowlauncher.com/) / [FMHY Search](https://github.com/iamshamit/fmhy-search-flow-launcher), [Asyar](https://asyar.org/) / [GitHub](https://github.com/Xoshbin/asyar), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke / App Launchers
 * [Kando](https://kando.menu/) - App Launcher / Pie Menu / [Discord](https://discord.gg/hZwbVSDkhy) / [GitHub](https://github.com/kando-menu/kando)
 * [Cerebro App](https://cerebroapp.com/) - Tweaked System Navigation / [GitHub](https://github.com/cerebroapp/cerebro)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Tweaked System Menu
@@ -92,7 +92,7 @@
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v) / Windows / [GitHub](https://github.com/AutoHotkey/AutoHotkey)
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler / Windows
 * [AutoIt](https://www.autoitscript.com/) / Windows
-* [Tinytask](https://tinytask.net/) / Windows
+* [TinyTask](https://tinytask.net/) - Find "Free" Button on Homepage / Windows
 * [⁠CrossMacro](https://github.com/alper-han/CrossMacro) / Windows, macOS, Linux
 * [OculiX](https://oculix.org/) / Windows, macOS, Linux / [GitHub](https://github.com/oculix-org/Oculix)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows

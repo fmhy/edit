@@ -153,7 +153,7 @@
 * [CopyChar](https://copychar.cc/) - Special Characters Index
 * [Graphemica](https://graphemica.com/) - Typography Reference
 * [Unifoundry](https://unifoundry.com/) - Unifont Repository
-* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/), [2](https://www.textemoji.org/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
+* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/) / [2](https://www.textemoji.org/), [cutesymbols.io](https://cutesymbols.io/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP) - Custom Font & Emojis / Windows
 
 ***
@@ -256,6 +256,7 @@
 * [DGM](https://app.dgmjs.dev/) - Whiteboard
 * [NotebookCast](https://www.notebookcast.com/) - Whiteboard
 * [WebWhiteboard](https://webwhiteboard.com/) - Whiteboard
+* [Drawnix](https://drawnix.com/) - Whiteboard / [GitHub](https://github.com/plait-board/drawnix/blob/develop/README_en.md)
 * [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4) - Whiteboard
 * [WBO](https://wbo.ophir.dev/) - Whiteboard
 * [OurBoard](https://www.ourboard.io/) - Whiteboard

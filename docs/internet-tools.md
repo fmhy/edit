@@ -104,7 +104,7 @@
 * ↪️ **[⁠XMPP Clients / Resources](https://xmpp.org/getting-started/)**
 * ⭐ **[Stoat](https://stoat.chat/)** - Communication Platform / Discord Alt / All Platforms / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/stoatchat/awesome-stoat)
 * ⭐ **[Mumble](https://www.mumble.info/)** - Voice Chat / Windows, macOS / [GitHub](https://github.com/mumble-voip/mumble)
-* ⭐ **[Hack.chat](https://hack.chat/)**, [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to) or [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) - Minimal / Chats that Work Without Sign-Up / Web
+* ⭐ **[Hack.chat](https://hack.chat/)**, [gobrooms](https://gobrooms.app/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to) or [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) - Minimal Chats that Work Without Sign-Up / Web
 * ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [GitLab](https://gitlab.com/gajim/gajim)
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) or [Bolt](https://williamhorning.dev/bolt/) / [Self-Host](https://williamhorning.dev/lightning/) - Cross-Platform Chatbot Frameworks
@@ -548,6 +548,7 @@
 
 ## ▷ Bookmark Managers
 
+* ↪️ **[Self-Hosted Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)** - Cross-Platform Manager / [TUI](https://github.com/davep/braindrop)
 * [Start.me](https://start.me/) - Web-Based Manager
@@ -567,7 +568,6 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://linkwarden.app/) / [GitHub](https://github.com/linkwarden/linkwarden), [KaraKeep](https://karakeep.app/) / [GitHub](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://linkding.link/) / [GitHub](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 
@@ -715,7 +715,7 @@
 * [Allow Right Click](https://webextension.org/listing/allow-right-click.html) - Force Enable Right Click / [GitHub](https://github.com/lunu-bounir/allow-right-click)
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images / [GitHub](https://github.com/A9T9/Copyfish/)
-* [Max Focus](https://maxfoc.us/) - Preview Links
+* [Max Focus](https://maxfoc.us/) or [⁠Prelook](https://prelook.coldstoneboy.cn/) / [GitHub](https://github.com/xrr2016/extensions/blob/main/README.en.md) - Preview Links
 * [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
@@ -912,6 +912,7 @@
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
 * [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - OSINT Guides
+* [⁠UK-OSINT](https://uk-osint.net/) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web's Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
 * [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
