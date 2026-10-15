@@ -118,10 +118,10 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic) 
+* [Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
+* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
 * [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
@@ -399,7 +399,7 @@
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [cobalt](https://cobalt.tools/) - SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * [squid.wtf](https://squid.wtf/) - KHInsider / JioSaavn / FLAC
-* [saavn-dl](https://saavn-dl.pages.dev) - JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
+* [Rhythmax](https://saavn.odskyler.com/) - TIDAL / JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
 
 ***
 
