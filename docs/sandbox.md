@@ -9,7 +9,7 @@ Testing info
 :::
 
 :::tip
-Testing tip 
+Testing tip
 :::
 
 :::warning

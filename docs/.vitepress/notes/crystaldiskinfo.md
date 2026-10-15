@@ -1,3 +1,3 @@
-#### CrystalDiskInfo 
+#### CrystalDiskInfo
 
 Avoid versions labeled "Ads".

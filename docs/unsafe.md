@@ -50,7 +50,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
-* P30Download - Uploaded version of malwarebytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1). 
+* P30Download - Uploaded version of malwarebytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1).
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)

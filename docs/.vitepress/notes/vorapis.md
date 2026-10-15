@@ -1,7 +1,7 @@
 #### VORAPIS Fix
 
-Disable ublock (or any other ad blocker such as brave sheilds) for youtube.com.
+Disable uBlock Origin (or any other ad blocker such as Brave Shields) for YouTube.com.
 
-Firefox: Disable enhanced tracking prevention (shield in url bar).
+Firefox: Disable enhanced tracking prevention (shield in URL bar).
 
-Vorapis blocks ads and displays dislike count by itself, compatible with dearrow and sponsorblock.
+VORAPIS blocks ads and displays dislike counts itself. It is compatible with DeArrow and SponsorBlock.
