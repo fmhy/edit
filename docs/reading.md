@@ -418,7 +418,7 @@
 * 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.gg/kaganeto)
+* ⭐ **[Kagane](https://kagane.si/)** / [Mirrors](https://kagane.org/) / [Discord](https://discord.gg/kaganeto)
 * ⭐ **[⁠Comix](https://comix.to/)**, [2](https://comix.ws/) / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 * ⭐ **[MangaDot](https://mangadot.net/)** / [Matrix](https://fuckdm.ca/)
 * ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -461,7 +461,7 @@
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Manga App / Windows, macOS, Linux, Android, iOS / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * [Seanime](https://seanime.app/) - Self-Hosted Manga App / [Discord](https://discord.com/invite/3AuhRGqUqh)
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
-* [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Koharu](https://koharu.rs/) / [GitHub](https://github.com/mayocream/koharu), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
+* [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Koharu](https://koharu.rs/) / [GitHub](https://github.com/koharu-rs/koharu), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 
 ***

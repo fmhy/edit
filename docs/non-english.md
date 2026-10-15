@@ -725,7 +725,7 @@
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.now/) - Tamil Movies / TV / Dub / 1080p / 720p
-* [1Shows](http://1shows.bz), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-one) / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
+* [1Shows](http://1shows.bz), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies
 * [tamilbulb](https://tamilbulb.cc/) - Tamil Movies
 * [tamilblasters](https://www.1tamilblasters.tech/) - Movies / TV / Anime
@@ -1736,8 +1736,8 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim5.org/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
-* [⁠Sofaflix](https://sofaflix.shop/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
+* [⁠Tram Phim](https://tramphim.tech/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
+* [⁠Sofaflix](https://sofaflix.beer/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p

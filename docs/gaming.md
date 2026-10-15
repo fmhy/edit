@@ -176,7 +176,6 @@
 * 🌐 **[⁠PortsDR](https://portsdr.com/)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
-* [⁠decomp.dev](https://decomp.dev/) - Decompilation Progress Reports / Tracking
 * [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
@@ -1156,7 +1155,8 @@
 * [⁠PokéClicker](https://www.pokeclicker.com) - Incremental Pokémon Game / [Wiki](https://wiki.pokeclicker.com) / [Discord](https://discord.gg/a6DFe4p) / [GitHub](https://github.com/pokeclicker/pokeclicker)
 * [⁠Pokelike](https://pokelike.xyz/) - Pokémon Roguelike / [Discord](https://discord.gg/YsakfWStYq)
 * [PokéVoid](https://pokevoid.com/) - Pokémon Roguelike / PokéRogue Alt / [Wiki](https://pokevoid.wiki/) / [Discord](https://discord.gg/xsQummMK3H)
-* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokémon-Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
+* [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
+* [⁠PokéSurvivor](https://pokesurvivor.com/) - Pokémon-Style Vampire Survivors
 * [TCG ONE](https://tcg.one/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 
 ***

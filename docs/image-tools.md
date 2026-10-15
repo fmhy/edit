@@ -70,6 +70,7 @@
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Web / Requires Sign-Up
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / Windows, macOS, Linux
 * [Face Restoration](https://github.com/TencentARC/GFPGAN) or [CodeFormer](https://github.com/sczhou/CodeFormer) - Face Restoration Algorithms / Windows, macOS, Linux
+* [⁠bigger.pics](https://bigger.pics/) - Image Upscaling / Web
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [⁠Upscal](https://upscal.app/) - Image Upscaling / Web
@@ -462,18 +463,19 @@
 ## ▷ Art / Illustrations
 
 * ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
-* ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart
+* ⭐ **[ArtStation](https://www.artstation.com/)** - Online Art Gallery / Fanart
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
 * ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [⁠Gsbooru](https://safe.gsbooru.org/), [Sankaku Complex](https://www.sankakucomplex.com/), [Safebooru](https://safebooru.org/), [TBIB](https://tbib.org/) or [yande.re](https://yande.re/) - Anime-Style Image Booru's / [Downloader](https://github.com/kuanyui/BooruShinshi)
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [GitHub](https://github.com/hydrusnetwork/hydrus)
 * [⁠Kultura](https://kultura.art/) - Art Discovery / Curation Platform
-* [Buzzly](https://buzzly.art/) - User-Made Art / Fanart
-* [⁠Sheezy.Art](https://sheezy.art/) - User-Made Art / Fanart
-* [Artfol](https://www.artfol.app/) - User-Made Art / Fanart
-* [Cara](https://cara.app/) - User-Made Art / Fanart
-* [DeviantArt](https://www.deviantart.com/) - User-Made Art / Fanart
-* [InkBlot](https://inkblot.art/) - User-Made Art / Fanart / Requires Sign-Up
+* [Buzzly](https://buzzly.art/) - Online Art Gallery / Fanart
+* [⁠Sheezy.Art](https://sheezy.art/) - Online Art Gallery / Fanart
+* [⁠Artgram](https://www.artgram.co/) - Online Art Gallery / Fanart / [Discord](https://discord.com/invite/tB227mBqfk)
+* [Artfol](https://www.artfol.app/) - Online Art Gallery / Fanart
+* [Cara](https://cara.app/) - Online Art Gallery / Fanart
+* [DeviantArt](https://www.deviantart.com/) - Online Art Gallery / Fanart
+* [InkBlot](https://inkblot.art/) - Online Art Gallery / Fanart / Requires Sign-Up
 * [⁠Zerochan](https://www.zerochan.net/?p=1) - Japanese Fanart / Some NSFW / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
 * [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations

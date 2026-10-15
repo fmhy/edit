@@ -798,7 +798,6 @@
 * [Caffeine](https://webextension.org/listing/caffeine.html) - Prevent OS from Sleeping
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
 * [Amino](https://amino.dev/) - Customize Webpage CSS
-* [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
 
 ***

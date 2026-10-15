@@ -104,6 +104,8 @@
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[Bootleg.fm](https://bootleg.fm/)** - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/)** - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
@@ -118,10 +120,8 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic) 
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
 * [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
@@ -178,6 +178,7 @@
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
 * [Rainyscope](https://rainyscope.com/) - Ambient Rain
+* [FlowTunes](https://www.flowtunes.app/) - Customizable Ambient Sound Mixer
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.mvze.net/) - Simple Ambient Sound Mixers
 * [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
@@ -389,7 +390,7 @@
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / 320 AAC / 128 MP3 / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
-* [TIDAL DL](https://tidal.odskyler.com/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
+* [Rhythmax TIDAL Downloader](https://tidal.odskyler.com/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / 320kb MP3
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
@@ -399,7 +400,7 @@
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [cobalt](https://cobalt.tools/) - SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * [squid.wtf](https://squid.wtf/) - KHInsider / JioSaavn / FLAC
-* [saavn-dl](https://saavn-dl.pages.dev) - JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
+* [Rhythmax JioSaavn Downloader](https://saavn.odskyler.com/) - JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
 
 ***
 

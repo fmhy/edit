@@ -307,7 +307,7 @@
 # ► Vehicle
 
 * 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
-* ⭐ **[Operation CHARM](https://charm.li/)**, [LEMON Manuals](https://lemon-manuals.la/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
+* [LEMON Manuals](https://lemon-manuals.la/), [JDMFSM](https://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/), [iFitIt Vehicle](https://www.ifixit.com/Device/Car_and_Truck) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
@@ -767,13 +767,13 @@
 
 ## ▷ Physical Health
 
+* ⭐ **[The Fitness Wiki](https://thefitness.wiki/)** - Fitness Information Wiki
 * ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/calculate-your-bmi)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
 * [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
-* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [NOOP](https://rentry.co/FMHYB64#noop) - Offline WHOOP Companion App
 * [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
@@ -1758,6 +1758,7 @@
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
+* [⁠Read QR By Hand](https://noel-friedrich.github.io/read-qr-by-hand) - Learn How-To Read QR by Hand
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](https://trackdollar.com/) - Dollar Tracking
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux Kernel Source Code Words

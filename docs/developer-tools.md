@@ -1233,6 +1233,7 @@
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering / [Plugins](https://github.com/x64dbg/x64dbg/wiki/Plugins)
 * [⁠Reverse Engineering](https://discord.gg/reverse-engineering-391398885819547652) (discord) - Reverse Engineering Community
 * [⁠LemmeDebug](https://greasyfork.org/en/scripts/537775) - Disable Anti-Devtools for Reverse Engineering / Debugging
+* [REA](https://rea.tools/) - Reverse Engineering Tools for AI Agents / [GitHub](https://github.com/morluto/rea)
 * [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [Discord](https://discord.gg/YBey7CR9jf) / [GitHub](https://github.com/radareorg/radare2)
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script
@@ -1244,4 +1245,3 @@
 * [MSTG](https://mas.owasp.org/) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [Malimite](https://github.com/LaurieWired/Malimite) - iOS / macOS Decompiler
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
-

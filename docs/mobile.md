@@ -1316,7 +1316,7 @@
 * [⁠Legacy Store](https://legacystore.app/) / [GitHub](https://github.com/samhenrigold/jangle) or [iOSObscura](https://archive.org/details/iOSObscura) / [Search](https://iosapps.litten.ca/) - Classic App Archives / Search
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
-* [ARM Store](https://armconverter.com/store/us), [⁠unfaird](https://decrypt.34306.lol/) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
+* [ARM Store](https://armconverter.com/store/us) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
 
 ***
 
@@ -1374,7 +1374,7 @@
 * ⭐ **[MaxMusic](https://github.com/Mark02-2012/MaxMusic)** - Modded YouTube Music / Ad-Free
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
 * [SpotC++](https://spotc.yodaluca.dev/) - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
-* [⁠Taurus](https://github.com/samj-exe/taurus) - Spotify / Ad-Free / Sideloaded
+* [⁠Taurus](https://github.com/samj-exe/taurus) - Spotify / Ad-Free / Sideloaded / [Discord](https://discord.gg/DVD7vZdDx)
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
 * [Demus](https://demus.app/) - Streaming
@@ -1416,6 +1416,7 @@
 * [HealthyMinds](https://www.humin.org/wellbeing-tools/app) - Meditation
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
+* [FlowTunes](https://apps.apple.com/us/app/flowtunes-music-for-focus/id6502615308) = Customizable Ambient Sound Mixer
 * [Insight Timer](https://apps.apple.com/app/id337472899) - Meditation / Sleep Sounds
 
 ***

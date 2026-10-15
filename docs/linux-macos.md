@@ -285,10 +285,10 @@
 
 ## ▷ Linux Gaming
 
+* ↪️ **[Linux Game Launchers / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_game_launchers)**
 * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_deck)**
 * ⭐ **[Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** or **[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)** - Game Compatibility Database / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV)
-* ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher), **[Lutris](https://lutris.net/)** / [Discord](https://discord.com/invite/Pnt5CuY) / [GitHub](https://github.com/lutris), or [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Game Launchers
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
 * ⭐ **[SLSsteam](https://cs.rin.ru/forum/viewtopic.php?f=29&t=146352&hilit=SLSsteam)** - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Auto Install / Update](https://github.com/Deadboy666/h3adcr-b) / [Discord](https://discord.com/invite/j3ZzjeV4eQ) / [GitHub](https://github.com/AceSLS/SLSsteam)
 * ⭐ **[Accela](https://github.com/ciscosweater/enter-the-wired)** - Steam Game + DLC Unlocker / [Setup Guide](https://redd.it/1tniqhc)

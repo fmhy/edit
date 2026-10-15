@@ -413,7 +413,6 @@
 
 * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
 * ↪️ **[Calendars / Events](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_calendars_.2F_events)**
-* ⭐ **[Goblin.tools](https://goblin.tools/ToDo)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search)
 * ⭐ **[Super Productivity](https://super-productivity.com/)** / [GitHub](https://github.com/super-productivity/super-productivity)
 * [Columns](https://columns.app/) - Checklists
