@@ -105,7 +105,7 @@
 
 * 🌐 **[Awesome TUI](https://github.com/rothgar/awesome-tuis)** - TUI App Index
 * 🌐 **[⁠Awesome Terminals](https://github.com/cdleon/awesome-terminals)** - Terminal Emulator List
-* 🌐 **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)** or [Command Line Tools](https://github.com/learn-anything/command-line-tools) - Command Line Resources
+* 🌐 **[Command Line Tools](https://github.com/learn-anything/command-line-tools)** - Command Line Resources
 * ⭐ **[ss64](https://ss64.com/)** - Command Line Reference Index
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [GitHub](https://github.com/microsoft/terminal/), [Tabby](https://tabby.sh/) / [GitHub](https://github.com/eugeny/tabby), [MobaXterm](https://mobaxterm.mobatek.net/) or [WezTerm](https://wezfurlong.org/wezterm/) / [Plugins](https://github.com/michaelbrusegard/awesome-wezterm) / [GitHub](https://github.com/wezterm/wezterm) - Terminal Emulators / Windows
 * [psmux](https://psmux.pages.dev/) - Windows Tmux / Windows / [GitHub](https://github.com/psmux/psmux) 

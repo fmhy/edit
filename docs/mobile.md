@@ -1316,7 +1316,7 @@
 * [⁠Legacy Store](https://legacystore.app/) / [GitHub](https://github.com/samhenrigold/jangle) or [iOSObscura](https://archive.org/details/iOSObscura) / [Search](https://iosapps.litten.ca/) - Classic App Archives / Search
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [IPATool](https://github.com/majd/ipatool) - Search / Download App Packages
-* [ARM Store](https://armconverter.com/store/us), [⁠unfaird](https://decrypt.34306.lol/) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
+* [ARM Store](https://armconverter.com/store/us) or [AnyIPA](https://anyipa.me/) / [Telegram](https://t.me/AnyIPAme) / [Discord](https://discord.gg/c233DYUzsw) - Decrypted iOS Apps
 
 ***
 

@@ -60,7 +60,7 @@
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / Windows / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - Game Launcher / Linux / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * ⭐ **[Lutris](https://lutris.net/)** - Game Launcher / Linux / [Discord](https://discord.com/invite/Pnt5CuY) / [GitHub](https://github.com/lutris)
-* [⁠Kryoto Desktop](https://kryo.to/desktop) - Game Launcher / Downloader / Windows, Linux / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep) / [GitHub](https://github.com/kyrotooooo/kryoto-desktop)
+* [⁠Kryoto Desktop](https://kryo.to/desktop) - Game Launcher / Downloader / Achievements / Windows, Linux / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep) / [GitHub](https://github.com/kyrotooooo/kryoto-desktop)
 * [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher/) - Unofficial Game Launcher / Torrent Client / Downloader / Windows, Linux / [Discord](https://discord.gg/cXaBWdcUSF)
 * [Orbit](https://github.com/MarchTheDev/Orbit) - Game Launcher / Windows, Linux
 * [⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Game Launcher / Linux

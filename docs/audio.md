@@ -104,6 +104,8 @@
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[Bootleg.fm](https://bootleg.fm/)** - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/)** - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
@@ -118,8 +120,6 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets

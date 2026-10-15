@@ -1776,6 +1776,7 @@
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [Internet-In-A-Box](https://internet-in-a-box.org/) - Create Free Offline Learning Hotspots / [GitHub](https://github.com/iiab/iiab)
+* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 
 ***
 
@@ -1816,11 +1817,10 @@
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://incitefulmed.com/academic/) - Find Connected Literature via Citations
 * [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
-* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
 * [Foam](https://foambubble.github.io/) - Knowledge Management System
 * [Zotero](https://www.zotero.org/) - Research Assistant
-* [Catma](https://catma.de/) - Research Markup & Analysis Tool
+* [CATMA](https://catma.de/) - Research Markup & Analysis Tool
 * [Scrible](https://www.scrible.com/) - Research / Writing Platform
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
