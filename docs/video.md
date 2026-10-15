@@ -162,6 +162,7 @@
 * [321Movies](https://321movies.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/5CETfHBD7R)
 * [FRAME](https://www.framemovie.online/) - Movies / TV / Anime
 * [KiraStreams](https://kirastreams.pages.dev/) - Movies / TV / Anime
+* [saikoplay](https://saikoplay.vercel.app/) - Movies / TV / Anime
 * [Flyflix](https://flyflix.net/) - Movies / TV / Anime / [Discord](https://discord.gg/sssvheMsVT)
 * [Cinesu](https://cine.su/) - Movies / TV / Anime / [Discord](https://discord.gg/Ss2x86nsvK)
 * [FluxTV](https://fluxtv.co.uk/) - Movies / TV / Anime / [Status](https://rentry.co/fluxtv)
