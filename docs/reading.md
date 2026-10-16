@@ -976,8 +976,7 @@
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
-
-***
+* [Online Bangla Books](http://inkbd.com/) - Online Bangla Book (বাংলা বই) - Free Bengali Boi, pdf, eBook and Lyrics
 
 ## ▷ Comic Recommendations
 
