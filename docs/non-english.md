@@ -1477,6 +1477,7 @@
 
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / Signup Required / Castilian / Latino
 * ⭐ **[PelisForte](https://pelisforte.se/)** - Movies / TV / [Telegram](https://t.me/+AoDIyo4alws1OGMx)
+* ⭐ **[AnimeAV1](https://animeav1.com/)** - Anime
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
@@ -1537,7 +1538,6 @@
 * [⁠InfinityAnime](https://infinityanime.net/) - Anime
 * [Animed23](https://animed23.com/) - Anime / [Telegram](https://t.me/+8nmOjT1PWFczZDhh)
 * [veranimes](https://wwv.veranimes.net/) - Anime
-* [animeav1](https://animeav1.com/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime / Sub
 * [estrenosanime](https://estrenosanime.net/) - Anime
 * [animeonline](https://ww3.animeonline.ninja/) - Anime / Sub

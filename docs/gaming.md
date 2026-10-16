@@ -910,6 +910,7 @@
 * [⁠Redcoats](https://redcoats.io/) - Revolutionary War PVP FPS
 * [Venge](https://venge.io/) - PvP FPS
 * [ev.io](https://ev.io/) - PvP FPS
+* [⁠StickFrag](https://stickfrag.com/) - PvP FPS
 * [Deadshot](https://deadshot.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
 * [⁠Kirka.io](https://kirka.io/) - PvP FPS

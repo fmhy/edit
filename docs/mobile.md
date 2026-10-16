@@ -1417,7 +1417,7 @@
 * [HealthyMinds](https://www.humin.org/wellbeing-tools/app) - Meditation
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [Tide.fm](https://apps.apple.com/app/id1077776989) - Meditation / Sleep Sounds
-* [FlowTunes](https://apps.apple.com/us/app/flowtunes-music-for-focus/id6502615308) = Customizable Ambient Sound Mixer
+* [FlowTunes](https://apps.apple.com/us/app/flowtunes-music-for-focus/id6502615308) - Customizable Ambient Sound Mixer
 * [Insight Timer](https://apps.apple.com/app/id337472899) - Meditation / Sleep Sounds
 
 ***

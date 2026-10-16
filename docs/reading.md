@@ -412,6 +412,10 @@
 
 ## ▷ Manga
 
+* **Note** - Keep in mind many manga sites may also include adult content, some allow you to filter it out in their settings.
+
+***
+
 * 🌐 **[Wotaku](https://wotaku.wiki/websites#manga)** - Manga Site Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * 🌐 **[The Index](https://theindex.moe/library/manga)** - Manga Site Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/section/manga)** - Manga Site Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
@@ -422,7 +426,7 @@
 * ⭐ **[Kagane](https://kagane.si/)** / [Mirrors](https://kagane.org/) / [Discord](https://discord.gg/kaganeto)
 * ⭐ **[⁠Comix](https://comix.to/)**, [2](https://comix.ws/) / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 * ⭐ **[MangaDot](https://mangadot.net/)** / [Matrix](https://fuckdm.ca/)
-* ⭐ **[Weeb Central](https://weebcentral.com/)** / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
 * ⭐ **[⁠OniSaga](https://onisaga.com/)**
 * ⭐ **[MangaDex](https://mangadex.org/)** - Account Required / [Downloader](https://mangadex-dl.mansuf.link/) / [Wiki](https://wikidex.tr25.es/) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
@@ -446,13 +450,13 @@
 * [MangaHub](https://mangahub.io/)
 * [⁠bManga](https://bmanga.dedyn.io/)
 * [Like Manga](https://likemanga.ink/)
-* [Scans.gg](https://scans.gg/changelog) / Some NSFW / [Discord](https://discord.gg/cYFgYu66rx)
+* [Scans.gg](https://scans.gg/changelog) / [Discord](https://discord.gg/cYFgYu66rx)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
-* [Toonily](https://toonily.com/) - Manhwa / Some NSFW
-* [LilyManga](https://lilymanga.net/) - Yuri / Some NSFW
+* [Toonily](https://toonily.com/) - Manhwa
+* [LilyManga](https://lilymanga.net/) - Yuri
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga

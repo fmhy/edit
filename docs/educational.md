@@ -1117,6 +1117,7 @@
 * [Vocatra](https://esite.ch/vocatra/), [⁠Conjuguemos](https://www.conjuguemos.com/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [LingYourLanguage](https://omniglot.eu/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
+* [⁠Elara Archive](https://www.elararchive.org/) - Endangered Language Video + Audio Archive
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
