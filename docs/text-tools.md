@@ -84,7 +84,7 @@
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
 * [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool
 * [Poedit](https://poedit.com/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
-* [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
+* [Morsecode World](https://morsecode.world/) or [The Morse Lab](https://themorselab.com/) - Morse Code Translation Tools
 * [Sign Translate](https://rylo.com/sign/translate/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
 * [⁠Braille Translator](https://wecapable.com/braille-translator/) - Braille Translator

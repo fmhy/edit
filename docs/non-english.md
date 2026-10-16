@@ -270,6 +270,7 @@
 * [99csw.com](https://99csw.com/) - Fiction / Non-fiction
 * [nunubook.com](https://nunubook.com/) - Fiction / Non-fiction
 * [haodoo](https://haodoo.org/) - Fiction
+* [Wenku](https://wenku.mojimoon.top/) - Fiction / Non-fiction
 * [24hbook](https://24hbook.com/) - Fiction / Non-fiction
 * [5165.org](https://5165.org/) - Fiction / Nonfiction
 * [52shuku](https://www.52shuku.net/) - Books / Light-Novels
@@ -1367,6 +1368,7 @@
 * [MangaPoisk](https://mangapoisk.me/) - Manga
 * [ReManga](https://remanga.org/) - Manga / Comics / [Telegram](https://t.me/Remanga) / [Discord](https://discord.gg/5UHGXajYPD)
 * [Manga Hub](https://mangahub.ru/) - Manga
+* [⁠Com-X](https://com-x.life/) - Comics
 * [mmnt](https://www.mmnt.ru/) - Document Search
 * [Samlib](http://samlib.ru/) - Document Search
 * [militera](http://militera.org/) - Military History

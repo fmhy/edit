@@ -182,6 +182,7 @@
 * [Focus Reading](https://github.com/gmacahia/focus-reading.lua) - Bionic Reading / Guided Dots for Kindle
 * [KWordle](https://github.com/crizmo/KWordle/) - Wordle for Kindle
 * [Simon Tatham's Puzzles](https://github.com/kbarni/kindlepuzzles) – Kindle Port of [Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+* [⁠kindle-weather-dashboard](https://kindle.hrincar.eu/weather/config.html) - Weather Display for Kindle / Requires Jailbreak / [GitHub](https://github.com/matopeto/kindle-weather-dashboard)
 
 ***
 

@@ -55,6 +55,7 @@
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
 * [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
+* [⁠BrainDeadBackgroundRemover](https://github.com/BizaNator/BrainDeadBackgroundRemover) - Background Remover / Windows
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 
 ***
@@ -176,6 +177,7 @@
 * [PyDPainter](https://pydpainter.org/) - Bitmap Graphics Editor / Windows, macOS, Linux / [GitHub](https://github.com/mriale/PyDPainter)
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool / Windows, macOS
 * [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor / Web
+* [⁠Xprite](https://xprite.cc/) - Pixel Art Editor / Web / [GitHub](https://github.com/rhinoc/xprite)
 * [fizzy](https://fizzyed.it/) - Pixel Art Editor / Windows, macOS, Linux / [Web App](https://fizzyed.it/app/) / [GitHub](https://github.com/fizzyedit/fizzy)
 * [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor / Web
 * [⁠Poxil](https://poxil.vercel.app/) - Pixel Art Editor / Web / [GitHub](https://github.com/F4tal1t/Poxil)

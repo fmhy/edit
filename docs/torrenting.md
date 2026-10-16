@@ -125,7 +125,6 @@
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up / [SDK](https://github.com/webtor-io/embed-sdk-js) / [Self-Host](https://github.com/webtor-io/self-hosted)
 * [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
 * [⁠SonicBit](https://sonicbit.net/) - 4GB
-* [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***
 
