@@ -1598,7 +1598,9 @@
 
 ## ▷ UI / UX
 
-* [design.tips](https://www.designer.tips/) or [Utopia](https://utopia.fyi/) - Design Tips
+* ⭐ **[Nielsen Norman Group](https://www.nngroup.com/articles/) - Learn UX & Usability Research
+* ⭐ **[IxDF](https://ixdf.org/library) - Learn UX design
+* * [design.tips](https://www.designer.tips/) or [Utopia](https://utopia.fyi/) - Design Tips
 * [HackDesign](https://hackdesign.org/) or [Sky Design](https://github.com/josephgoksu/sky-design) - UI / Webdesign Courses
 * [Can't Unsee](https://cantunsee.space/) - UI Design Test
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
