@@ -37,6 +37,7 @@
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses
+* ⭐ **[Gresham College](https://www.gresham.ac.uk/)** - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos)
 * ⭐ **[Class Central](https://www.classcentral.com/)** - Search for Courses
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
@@ -48,7 +49,6 @@
 * [OLI](https://oli.cmu.edu/independent-learner-courses/) - Courses
 * [Video Lectures](https://videolectures.net/) - Lectures
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
-* [Gresham College](https://www.gresham.ac.uk/) - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
 
@@ -831,6 +831,7 @@
 * [⁠Low Tech Magazine](https://solar.lowtechmagazine.com/) - Sustainable DIY Tech Guides
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [⁠Craft Yarn Council](https://www.craftyarncouncil.com/instructions_kn.php3) or [Crocheting101](https://crocheting101.com/) / [2](https://discord.com/invite/uDqE9SQCdZ) - Knitting + Crochet Learning
+* [Antique Pattern Library](https://www.antiquepatternlibrary.org/) - Antique Pattern Library / Knitting + Crochet
 * [⁠BraceletBook](https://www.braceletbook.com/) - DIY Bracelet Pattern Database
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [ARRL](https://www.arrl.org/) - Amateur Radio Resources / Learning / [Exam Search](https://www.arrl.org/find-an-amateur-radio-license-exam-session) / [Question Pools](https://www.arrl.org/question-pools)

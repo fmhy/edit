@@ -388,7 +388,6 @@
 * [yt_clipper](https://github.com/exwm/yt_clipper) - Crop YouTube Videos / Create Clips
 * [Looptube](https://www.looptube.xyz/) - Loop YouTube Videos / Segments
 * [YourCodecs](https://github.com/undecV/YourCodecs) - Enable / Disable Player Codecs
-* [Video Speed Controller](https://github.com/igrigorik/videospeed) - Control Speed of YouTube Videos
 
 ***
 

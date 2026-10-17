@@ -1094,6 +1094,7 @@
 
 * 🌐 **[Pirataria Megathread](https://pirataria.link)** - Portuguese /r/Piracy Mega / [Subreddit](https://www.reddit.com/r/pirataria/)
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
+* 🌐 **[Tudo Que Você Precisa](https://rentry.co/FMHYB64#tudo-que-voc%C3%AA-precisa)** - Portuguese TTRPG Resources
 * [SAPO](https://www.sapo.pt) - Search
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
 * [Legendas.net](https://legendas.net) or [Legenda Oficial](https://legendei.net/) - Subtitles

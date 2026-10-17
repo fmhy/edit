@@ -50,11 +50,11 @@
 ## ▷ Content Removers
 
 * ⭐ **[Rembg](https://github.com/danielgatis/rembg)** - Background Remover / Windows, macOS, Linux, Docker
-* ⭐ **[BG Bye](https://bgbye.io/)** - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
 * [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
+* [BG Bye](https://bgbye.io/) - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [⁠BrainDeadBackgroundRemover](https://github.com/BizaNator/BrainDeadBackgroundRemover) - Background Remover / Windows
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 

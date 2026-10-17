@@ -418,6 +418,19 @@
 
 ***
 
+## ▷ Site Info / Legitimacy
+
+* ↪️ **[Domain / DNS Info](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)**
+* ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - Detects if Current Site is Trusted / Untrusted / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
+* ⭐ **[URL Void](https://www.urlvoid.com/)** - 35 Blocklist Engines Scan
+* ⭐ **[URLScan](https://urlscan.io/)** - Detailed Report / API
+* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)** - Basic Safety Rating / Content Tags
+* [IsLegitSite](https://www.islegitsite.com/) - 9 Blocklist Engines Scan
+* [ZScaler](https://zulu.zscaler.com/)
+* [Talos](https://talosintelligence.com/) - Reputation Rating / Content Tags / Blocklist Flag
+
+***
+
 # ► Email Tools
 
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
@@ -700,7 +713,7 @@
 * [Read Aloud](https://readaloud.app/) - Text to Speech / [Discord](https://readaloudai.com/discord) / [GitHub](https://github.com/ken107/read-aloud)
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper), [Infy Scroll](https://addons.mozilla.org/en-US/firefox/addon/infy-scroll/) or [AutoPagerize](http://autopagerize.net/) - Merges a Site's "Next" Pages
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
-* [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
+* [GlobalSpeed](https://github.com/polywock/globalSpeed) or [Video Speed Controller](https://github.com/igrigorik/videospeed) -  Control Speed of Videos
 * [Indie Wiki Buddy](https://getindie.wiki/) - Redirect Fandom / Fextralife to Indie Wikis / [Redirect List](https://getindie.wiki/listings/)
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms with Fake Data
 * [External App Button](https://webextension.org/listing/external-application-button.html) - Connect Browser to External Apps
