@@ -32,6 +32,7 @@
 * ⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/) - Movies / TV / Anime / 4K / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * ⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - Movies / TV / Anime / Auto-Next
 * ⭐ **[Spacedom](https://spacedom.live/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/6NU9thcPYs)
+* ⭐ **[Veridium](https://veridium.crosmakesgames.com/)** - Movies / TV / Anime / Live-Sports
 * [Chillflix](https://chillflix.lol/), [Vuflix](https://vuflix.co/) or [Toflix](https://toflix.co/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/6r5KTZgqXV)
 * [moanatv.](https://lfmx.app/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/EPHJzCZEq)
 * [Cinetaro](https://cinetaro.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/2UPkZwn9v)
