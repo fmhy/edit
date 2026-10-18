@@ -328,7 +328,6 @@
 * ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning / Link Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Torrents / [Invites](https://www.myanonamouse.net/inviteapp.php) / [Ratio Warnings](https://greasyfork.org/en/scripts/416189)
 * [Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Multi-Site Audiobook Search
-* [AudioBooksBee](https://audiobooksbee.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LibriVox](https://librivox.org/)
@@ -340,6 +339,8 @@
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) - Audiobook Download Apps
+* [AudioBooksBee](https://audiobooksbee.com/) / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
+
 ***
 
 ## ▷ Streaming
@@ -666,7 +667,7 @@
 
 ## ▷ Academic Papers
 
-* ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+* ↪️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ⭐ **[Sci-Hub](https://sci-hub.ru/)** - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/en/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)

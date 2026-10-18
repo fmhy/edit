@@ -54,6 +54,7 @@
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
 * [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
+* [Cutout](https://scadavide55.github.io/cutout/) - Background Remover / Web / [GitHub](https://github.com/scadavide55/cutout)
 * [BG Bye](https://bgbye.io/) - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [⁠BrainDeadBackgroundRemover](https://github.com/BizaNator/BrainDeadBackgroundRemover) - Background Remover / Windows
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
@@ -192,7 +193,6 @@
 * [⁠The Spriters Toolkit](https://tools.spriters-resource.com/) - Sprite Sheet Toolkit / Web
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator / Web
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Sprite Sheet Editor / Windows, macOS, Linux, Android
-* [GIF to Frames](https://giftoframes.com/) - GIF to Sprite Sheet / Web
 * [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids / Web / [Discord](https://discord.com/invite/8sCEAspmBV) / [GitHub](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 * [Pixel Reconstructor](https://i-win.neocities.org/pixel/), [Pixel Refiner](https://pixel-refiner.app/), [Pixel Art Upscaler](https://imaginarycatlab.com/free-pixel-art-upscaler.html), [⁠Pixel Art Fixer](https://www.retrodiffusion.ai/tools/pixel-art-fixer/) / [GitHub](https://github.com/Retro-Diffusion/pixel-art-fixer) or [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - ⁠Pixel Art Upscalers / Web
 
@@ -480,12 +480,12 @@
 * [InkBlot](https://inkblot.art/) - Online Art Gallery / Fanart / Requires Sign-Up
 * [⁠Zerochan](https://www.zerochan.net/?p=1) - Japanese Fanart / Some NSFW / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
+* [freeillustrations](https://freeillustrations.xyz/), [⁠CocoMaterial](https://cocomaterial.com/), [Kitbitz](https://kitbitz.art/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Illustrations
 * [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
-* [freeillustrations](https://freeillustrations.xyz/), [Kitbitz](https://kitbitz.art/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Misc Illustrations
 * [⁠Old Book Illustrations](https://www.oldbookillustrations.com/) or [⁠FreeVintageIllustrations](https://freevintageillustrations.com/) - Public Domain / Vintage Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru App / Android
@@ -911,7 +911,7 @@
 * ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking / [GitHub](https://github.com/Shawn-Shan/fawkes)
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [CameraSummary](https://camerasummary.com/) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [2](https://github.com/FrankBijnen/ExifToolGui/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
+* [exiftool](https://exiftool.org/) / [GUI](https://github.com/FrankBijnen/ExifToolGui/) / [GitHub](https://github.com/exiftool/exiftool), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html) - Image EXIF Data Editors
 * [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [GeoSpy](https://geospy.net/)

@@ -17,9 +17,9 @@
 * ⭐ **[Virgil Software Search](https://virgil.samidy.com/?engine=software)**, [2](https://virgil-search.pages.dev/?engine=software) / [GitHub](https://github.com/SamidyFR/Virgil) or [Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4) - Multi-Site Software Search
 * ⭐ **[CracksURL](https://cracksurl.com/)** / [Download Guide](https://cracksurl.com/how-to-download/) / [Telegram](https://t.me/+Fu_l5ukw7wNkMDll), [2](https://t.me/+8zQaYybFs_wyMzhl)
 * ⭐ **[Soft98](https://soft98.ir/)** - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[LRepacks](https://lrepacks.net/)** - Use Adblock + [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[Nsane Forums](https://www.nsaneforums.com/)** - Requires Sign-Up
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Requires Sign-Up / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
+* ⭐ **[LRepacks](https://lrepacks.net/)** - Avoid Redirects / Use Adblock + [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[AlternativeTo](https://alternativeto.net/)** or [European Alternatives](https://european-alternatives.eu/) - Crowdsourced Recommendations
 * [DownloadHa](https://www.downloadha.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Moum](https://moum.top/en/)

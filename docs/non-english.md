@@ -24,6 +24,7 @@
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [⁠Sama3y - سماعي](https://www.sama3y.net/) - Music / Classical / Forum / Sign-Up Required
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 
@@ -681,7 +682,7 @@
 * ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.bi/)** - Movies / TV / 1080p / 4K
-* ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
+* ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[ToonsHub](https://www.toonshub.my.id/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.lease/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
@@ -1356,6 +1357,7 @@
 * [booktracker](https://booktracker.org/) - Books / Audiobooks / Comics / Magazines / NSFW
 * [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Literature
 * [AniLabX](https://anilabx.xyz/) - Manga / Comics / Light Novels
+* [⁠HexNovels](https://hexnovels.me/) - Light Novels / Web Novels
 * [Gameland](https://gameland.ru/archive/) - Country of Games Magazine Archive
 * [MangaLIB](https://mangalib.me/) - Manga / Comics / [Telegram](https://t.me/mangalib_social)
 * [MangaPoisk](https://mangapoisk.me/) - Manga
@@ -1752,7 +1754,7 @@
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
 * ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Study References
-* ⭐ **[Thoát Porn Luận](https://thu-tram.github.io/tpl/)** - Porn Quitting Guide / EasyPeasy Translation
+* [Thoát Porn Luận](https://thu-tram.github.io/tpl/) - Porn Quitting Guide / EasyPeasy Translation
 * [Thivien](https://www.thivien.net/) - Poetry
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books

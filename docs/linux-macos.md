@@ -141,7 +141,7 @@
 * [KDE Applications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE Apps & Themes
 * [Flatpak](https://flatpak.org/) - Sandboxed Package Manager / [Manage Permissions](https://github.com/tchx84/flatseal)
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) / [GUI](https://github.com/Homebrew/BrewUI), [2](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) - Searchable Linux Package Database
@@ -436,7 +436,9 @@
 * [⁠SilverBullet](https://silverbullet.md/) - Self-Hosted Markdown Note-Taking
 * [Lightning](https://williamhorning.dev/lightning/) - Self-Hosted Cross-Platform Chatbot Framework
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
-* [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [Moe Memos](https://memos.moe/) (android) or [Kept](https://www.keepitkept.xyz/) / [GitHub](https://github.com/ericerkz/kept) - Self-Hosted Note-Taking
+* [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/) - Multi-Source Addon + Debrid Aggregator / [Discord](https://discord.com/invite/zRq8dVh5rJ) / [GitHub](https://github.com/Viren070/AIOStreams)
 * [⁠AIOMetadata](https://github.com/cedya77/aiometadata) - Multi-Source Metadata & Catalogs Addon / [Public Instances](https://uptime.ibbylabs.dev/aiometadata)
@@ -451,7 +453,7 @@
 * ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - Disk Usage Analyzers / CLI
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [Discord](https://discord.com/invite/JmasSPCcz3) / [GitHub](https://github.com/sayanarijit/xplr), [logo-ls](https://github.com/Yash-Handa/logo-ls) or [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) - File Explorers / Search
 * [The Filesystem Hierarchy Standard](https://i.ibb.co/Mx53xj3R/image.png), [2](https://files.catbox.moe/2390ha.png), [3](https://i.imgur.com/0vfM4dm.png) - Linux Filesystem Chart
-* [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
+* [Dolphin](https://userbase.kde.org/Dolphin) / [Source Code](https://invent.kde.org/system/dolphin), [Strata](https://stratafiles.io/) / [GitHub](https://github.com/lgse/strata) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [PeaZip](https://peazip.github.io/) / [GitHub](https://github.com/peazip/PeaZip/), [pigz](https://zlib.net/pigz/) / [GitHub](https://github.com/madler/pigz), [p7zip](https://p7zip.sourceforge.net/) or [GNU Gzip](https://www.gnu.org/software/gzip/) - File Archivers / Unzippers / Compression
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
@@ -616,7 +618,7 @@
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [Linux for T2](https://t2linux.org/) - Install Linux on Apple T2 Devices / [GitHub](https://github.com/t2linux)
 * [CrossOver](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) - Run Windows Software on Mac
-* [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
+* [PortingKit](https://www.portingkit.com/) - Run Windows Games / Programs on Mac
 * [PlayCover](https://playcover.io/) - Run iOS Apps on Apple Silicon Macs / [GitHub](https://github.com/PlayCover/PlayCover)
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [OrbStack](https://orbstack.dev/) - Docker Client
@@ -664,7 +666,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://applite.app/) - Package Managers
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/Homebrew/BrewUI), [2](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://applite.app/) - Package Managers
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** - Downloads (not torrents) / Login Required for some Files
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -709,6 +711,7 @@
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
+* [⁠Silkwave Clarity](https://www.silkwave.ai/silkwave-clarity) - Noise Suppression Software
 * [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
@@ -766,7 +769,7 @@
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
-* [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
+* [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall / [GitHub](https://github.com/objective-see/LuLu)
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
 * [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor
 * [SuspiciousPackage](https://www.mothersruin.com/software/SuspiciousPackage/get.html) - Analyze PKG Files

@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/) or [⁠Nadeko](https://nadeko.net/), [⁠Meowing](https://meowing.de/) - Frontend Indexes
+* 🌐 **[Disroot](https://disroot.org/en/#services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/), [⁠Meowing](https://meowing.de/) or [adminForge](https://adminforge.de/#services)- Frontend Indexes
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -159,6 +159,7 @@
 
 # ► Reddit Tools
 
+* 🌐 **[⁠B0tRank](https://www.botrank.net/)** - Reddit Bot Database
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lindseysim.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) - Reddit Frontends / Viewers
@@ -334,8 +335,8 @@
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
 * ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
-* [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
+* [TubeMod](https://github.com/Pedro-Gregorio/TubeMod), [Unhook](https://unhook.app/) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
@@ -604,7 +605,6 @@
 # ► Facebook Tools
 
 * [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
-* [Social Tools](https://chromewebstore.google.com/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd) - Block "Sending" & "Seen" Facebook Chat Indicators
 * [⁠FB Login Wall Remover](https://greasyfork.org/en/scripts/548145) - Remove Facebook Login Wall
 * [Charcoal Dark Mode](https://chromewebstore.google.com/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas
@@ -641,6 +641,7 @@
 * ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/), [TokSave](https://toksave.social/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
+* [TikTok Tools](https://omar-thing.site/) - TikTok User Finder / Search / Story Viewer / Downloader / Link Tracker & more
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader

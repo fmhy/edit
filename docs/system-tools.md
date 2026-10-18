@@ -166,7 +166,6 @@
 
 * ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** - Tiling Window Manager
-* ⭐ **[WorkSpacer](https://workspacer.org/)** - Tiling Window Manager / [GitHub](https://github.com/workspacer/workspacer)
 * [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) - Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)
 * [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
 * [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
@@ -264,7 +263,7 @@
 ## ▷ Disk Tools
 
 * 🌐 **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - File Storage Resources
-* ⭐ **[WizTree](https://www.diskanalyzer.com/)**, [TreeSize](https://www.jam-software.com/treesize) or [WinDirStat](https://windirstat.net/) / [GitHub](https://github.com/windirstat/windirstat/) - Disk Usage Analyzers
+* ⭐ **[WizTree](https://www.diskanalyzer.com/)**, **[WinDirStat](https://windirstat.net/)** / [GitHub](https://github.com/windirstat/windirstat/), or [TreeSize](https://www.jam-software.com/treesize) - Disk Usage Analyzers
 * ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)** or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) or [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Partition Managers
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices

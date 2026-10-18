@@ -129,17 +129,17 @@
 * [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/) - Online Sandbox
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Local Sandbox Environment / [Guide](https://clarasguide.valeena.workers.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Local Virtual Machine Sandbox Environment
+* [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 
 ***
 
 ## ▷ Online Scanners
 
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** - Online File Scanner / [Scan Results Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/) / [CLI](https://github.com/VirusTotal/vt-cli) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
-* ⭐ **[Hybrid Analysis](https://hybrid-analysis.com/)** - Online File Scanner
+* [Hybrid Analysis](https://hybrid-analysis.com/) - Online File Scanner
 * [Jotti](https://virusscan.jotti.org/en) - Online File Scanner
 * [Filescan.io](https://www.filescan.io/) or [⁠MetaDefender Cloud](https://metadefender.com/) - Online File Scanner / [X](https://x.com/filescan_itsec) / [GitHub](https://github.com/filescanio)
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner / [GitHub](https://github.com/JusticeRage/Manalyze)
-* [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
 
 ***
 
@@ -446,7 +446,7 @@
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [Censor Tracker](https://censortracker.org/) / [Telegram](https://t.me/CensorTracker_feedback) / [GitHub](https://github.com/censortracker/censortracker), [SmartProxy](https://github.com/salarcode/SmartProxy), [FoxyProxy](https://getfoxyproxy.org/) or [ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - Local DNS Proxy
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) or [DNSCrypt](https://dnscrypt.info/) / [GitHub](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS Encryption Proxy
+* [DNSCrypt](https://dnscrypt.info/) / [GitHub](https://github.com/DNSCrypt/dnscrypt-proxy) - Local DNS Encryption Proxy
 
 ***
 
@@ -463,7 +463,6 @@
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Proxy Server
 * [Scramjet](https://docs.titaniumnetwork.org/proxies/scramjet/) / [GitHub](https://github.com/MercuryWorkshop/scramjet/) or [Nebula](https://github.com/NebulaServices/Nebula) - Web Proxy Server
 * [Nginx Proxy Manager](https://nginxproxymanager.com) - Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
-
 
 ***
 

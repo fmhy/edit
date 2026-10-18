@@ -443,6 +443,7 @@
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
+* [⁠AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - Native AI Coding Agent
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Editor
 * [diohub](https://github.com/NamanShergill/diohub), [PuppyGit](https://github.com/catpuppyapp/PuppyGit) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android Git Clients
 * [GitSync](https://github.com/ViscousPot/GitSync) - Android Git Remote Repo Sync

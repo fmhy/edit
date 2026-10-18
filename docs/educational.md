@@ -133,6 +133,7 @@
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [LabXchange](https://www.labxchange.org/), [⁠UCAR Center Simulations](https://scied.ucar.edu/interactive) or [JavaLab](https://javalab.org/en/) - Interactive Science / Math Simulations
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
+* [LabPlot](https://labplot.org/), [PubQ Studio](https://pubq-studio.onrender.com/) or [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotters
 * [BOINC](https://boinc.berkeley.edu/) - Donate Idle CPU + GPU Resources to Scientific Research / [Manager](https://boinc.berkeley.edu/central/) / [Number Theory](https://numberfields.asu.edu/NumberFields/) / [Humanitarian](https://worldcommunitygrid.org/) / [Subreddit](https://www.reddit.com/r/BOINC/)
 
 ***
@@ -197,7 +198,6 @@
 * [CLP](https://personal.math.ubc.ca/~CLP/) - Calculus Textbooks
 * [Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) or [⁠Learn Mathematics](https://donkuri.github.io/learn-mathematics/) - Mathematics Book Recommendations
 * [MathJax](https://www.mathjax.org/) - JavaScript Math Display
-* [LabPlot](https://labplot.org/) or [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotters
 * [MathOnline](http://mathonline.wikidot.com/), [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [⁠Art of Problem Solving](https://www.youtube.com/channel/UCHZwMwa96o5gwBmVaIj_zVA), [Flipped Mastery](https://www.flippedmath.com/), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [⁠Andy Math](https://andymath.com/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
@@ -625,6 +625,7 @@
 
 ## ▷ Tech History
 
+* ↪️ **[Gaming History / Preservation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_history_.2F_preservation)**
 * ⭐ **[⁠Historical Tech Tree](https://www.historicaltechtree.com/)** / [Discord](https://discord.gg/e96JwQjUmX) or [Calculating Empires](https://calculatingempires.net/) - Historical Discovery / Tech Timelines
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [Museum of Obsolete Media](https://obsoletemedia.org/) - Physical Media Format Wiki / History
@@ -638,7 +639,6 @@
 * [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
 * [⁠ObsoleteSony](https://www.obsoletesony.com/) or [WalkmanLand](https://walkman.land/) - Portable Audio Player History / Databases
-* [⁠Game Boy Hardware Database](https://gbhwdb.gekkio.fi/) - Game Boy Console & Cartridge Archive
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [InfoMesh](https://infomesh.org/) - Web History / Info
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info

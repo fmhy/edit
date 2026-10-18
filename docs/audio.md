@@ -105,9 +105,6 @@
 * ⭐ **[Bootleg.fm](https://bootleg.fm/)** - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/)** - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
-* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
-* ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
-* ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
 * [OperaVision](https://operavision.eu/) or [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
@@ -120,12 +117,6 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
-* [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
-* [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
-* [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
-* [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
-* [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
@@ -137,6 +128,20 @@
 * [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
 * [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
 * [Phish.in](https://phish.in/) - Phish Live Archive / [Discord](https://discord.gg/KZWFsNN)
+
+***
+
+## ▷ DJ Mixes / Livesets
+
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
+* ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
+* ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
+* [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
+* [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
+* [⁠BassBlog](https://bassblog.pro/) - DJ Mixes / Livesets
+* [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
+* [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
+* [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
 
 ***
 
@@ -172,7 +177,7 @@
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
-* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Playlists
+* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)** or **[Music For Programming](https://musicforprogramming.net/latest/)**, [⁠Hearts of Space](https://www.hos.com/) - Ambient Music Stations / Playlists
 * ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain

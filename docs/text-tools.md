@@ -9,7 +9,7 @@
 * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_to_text_.2F_ocr)**
 * ↪️ **[Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_text_to_speech)**
 * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
-* ↪️ **[Study / Research](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
+* ↪️ **[Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
 * ⭐ **[TextFixer](https://www.textfixer.com/)**, [SortMyList](https://sortmylist.com/) , [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * ⭐ **[Paperless-ngx](https://docs.paperless-ngx.com)** / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://papra.app/en/) / [GitHub](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
@@ -146,6 +146,7 @@
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [EmojiDB](https://emojidb.org/) or [Emoji Picker](https://github-emoji-picker.vercel.app/) - Emoji Indexes
 * ⭐ **[Slackmojis](https://slackmojis.com/)** - Custom Emojis
 * ⭐ **[Amp What](https://www.amp-what.com/)** - Unicode Index
+* [Animated Fluent Emojis](https://animated-fluent-emoji.vercel.app/) - Microsoft Fluent Animated Emojis / [GitHub](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [Asciify Unicode](https://asciify.dev/unicode) - ASCII & Unicode Reference
@@ -196,6 +197,7 @@
 
 ## ▷ Note-Taking
 
+* ↪️ **[Self-Hosted Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.gg/obsidianmd)
 * ⭐ **Obsidian Tools** - [Publish Notes](https://docs.forestry.md/) / [Note Sync](https://synch.run/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://obsidian.md/help/) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[Anytype](https://anytype.io/)** / E2EE / Windows, macOS, Linux, Android, iOS / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
@@ -237,8 +239,6 @@
 * [Walling](https://walling.app/) or [Workflowy](https://play.google.com/store/apps/details?id=com.workflowy.android) - Note-Taking Apps for Projects / Android
 * [⁠Crypt.ee](https://crypt.ee/) - Encrypted Notes / E2EE / All Platforms
 * [Standard Notes](https://standardnotes.com/) - Encrypted Notes / E2EE / All Platforms / [Web](https://app.standardnotes.com/) / [Discord](https://discord.com/invite/9VNW3kK554) / [GitHub](https://github.com/standardnotes/app)
-* [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
-* [Moe Memos](https://memos.moe/) - Self-Hosted Note-Taking App / Android
 
 ***
 
@@ -440,7 +440,7 @@
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)** [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster) - ASCII Paint Tools
-* [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image / Video to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art
 * [Image to Braille](https://505e06b2.github.io/Image-to-Braille/) - Convert Images to Braille
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters

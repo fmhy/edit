@@ -119,7 +119,7 @@
 
 ## ▷ File Encryption
 
-* ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
+* ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
 * [age](https://github.com/FiloSottile/age) or [⁠rage](https://github.com/str4d/rage) - File Encryptor
 * [REM](https://rem.liriliri.io/) - File Encryptor / Rclone GUI / [GitHub](https://github.com/liriliri/rem)
@@ -282,6 +282,7 @@
 * [Photon](https://photondev.netlify.app/) - Local / Windows, macOS, Linux, Android / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Local / All Platforms / [Source Code](https://kdeconnect.kde.org/get-involved.html)
 * [Wormhole](https://wormhole.app/) - Online / Web / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/webtorrent/wormhole-crypto)
+* [SEAL](https://seal.net/) - Online / Browser Encryption / No signup / Web
 * [Warpinator](https://github.com/linuxmint/warpinator) - Local / Windows, Linux, Android
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Google Quick Share](https://www.android.com/quick-share/) - Hybrid / Windows, Android, iOS
@@ -293,7 +294,7 @@
 * [croc](https://getcroc.com/) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui) / [GitHub](https://github.com/schollz/croc)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
-* [SEAL](https://seal.net/) - Online / Web
+* [Free Transfer](https://transfert.free.fr/upload) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, macOS, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
@@ -333,7 +334,7 @@
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / Signup Required for Upload / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pixeldrain.md)
 * ⭐ **[Mocha](https://mocha.my/)** - 150GB (w/ Account) / 20GB / 30 Days After Last Download / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
-* ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
+* ⭐ **[0807](https://0807.st/)** or [0908](https://0908.st/) - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[⁠DropDrive](https://dropdrive.org/)** - 100GB / 60 Days After Last Download / [Discord](https://discord.com/invite/YSABtmnD7a)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
@@ -353,6 +354,7 @@
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh)
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
+* [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
@@ -361,6 +363,7 @@
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [⁠Stashr](https://stashr.wtf/) - 1GB / Forever
+* [Upload.bg](https://upload.bg/) - 10GB / 30 Days
 * [⁠Zipyshare](https://zipyshare.com/) - 5GB / 7 Days After Last Download / Longer for Smaller Files
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
@@ -380,14 +383,19 @@
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever
+* [⁠2share](https://2share.su/) - 2GB / Forever
+* [⁠NippyDrop](https://nippydrop.com/) - 2GB / 90 Days
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Requires Signup
 * [Filegoat](https://filego.at/) - 5GB / 90 Days After Last View
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [⁠SendGB](https://www.sendgb.com/) - 5GB / 7 Days
 * [⁠JuiceBox](https://box.juicey.dev/) - 15GB / 14 Days
+* [⁠Dosya Upload](http://www.dosyaupload.com/) - 4GB / 60 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Codeberg](https://codeberg.org/Fijxu/patchy)
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Workupload](https://workupload.com/) - 2GB / 90 Days
 * [Send](https://send.vis.ee/) - 2.5GB / 3 Days / 10 Downloads / [CLI](https://github.com/timvisee/ffsend) / [Instances](https://gitlab.com/timvisee/send-instances)

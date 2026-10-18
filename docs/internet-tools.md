@@ -17,9 +17,10 @@
 
 * ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli), **[Cloudflare Speed Test](https://speed.cloudflare.com/)** / [CLI](https://github.com/kavehtehrani/cloudflare-speed-cli), **[OpenSpeedTest](https://openspeedtest.com/)** / [GitHub](https://github.com/openspeedtest/Speed-Test) or **[LibreSpeed](https://librespeed.org/)** / [GitHub](https://github.com/librespeed/speedtest) - Speed Tests
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
-* [Pinging](https://www.pinging.net/), [GlobalPing](https://globalping.io/) or [PingTracer](https://github.com/bp2008/pingtracer) - Network Testing / Ping Monitors
-* [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
+* [GlobalPing](https://globalping.io/) - Global Network Testing
+* [Pingify API](https://pingify-api.vercel.app/) or [PingTracer](https://github.com/bp2008/pingtracer) - Network Latency / Ping Testing
+* [Pinging](https://www.pinging.net/), [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance / Connection Checks
 * [Wireshark](https://www.wireshark.org/) - Network Protocol Analyzer / [Profiles](https://github.com/amwalding/wireshark_profiles)
 * [Trippy](https://trippy.cli.rs/) - Network Diagnostic Tool
 * [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - Network Tools
@@ -141,7 +142,7 @@
 
 * ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
-* [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable
+* [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable / [GitHub](https://github.com/ente-toys/qr)
 * [⁠Just The QR Code](https://justthefuckingqrco.de/) - Generator / Customizable
 * [⁠Midas QR](https://midasqr.is-local.org/) - Generator / Customizable / [GitHub](https://github.com/Jimm144/midas-qr)
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
@@ -713,7 +714,7 @@
 * [Read Aloud](https://readaloud.app/) - Text to Speech / [Discord](https://readaloudai.com/discord) / [GitHub](https://github.com/ken107/read-aloud)
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper), [Infy Scroll](https://addons.mozilla.org/en-US/firefox/addon/infy-scroll/) or [AutoPagerize](http://autopagerize.net/) - Merges a Site's "Next" Pages
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
-* [GlobalSpeed](https://github.com/polywock/globalSpeed) or [Video Speed Controller](https://github.com/igrigorik/videospeed) -  Control Speed of Videos
+* [GlobalSpeed](https://github.com/polywock/globalSpeed) or [Video Speed Controller](https://github.com/igrigorik/videospeed) - Control Speed of Videos
 * [Indie Wiki Buddy](https://getindie.wiki/) - Redirect Fandom / Fextralife to Indie Wikis / [Redirect List](https://getindie.wiki/listings/)
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms with Fake Data
 * [External App Button](https://webextension.org/listing/external-application-button.html) - Connect Browser to External Apps

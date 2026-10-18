@@ -176,7 +176,7 @@
 * 🌐 **[⁠PortsDR](https://portsdr.com/)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
-* [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
+* [Quiver Launcher](https://quiverlauncher.com/) / [GitHub](https://github.com/tgeorgiadis/quiver-launcher) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
@@ -280,7 +280,7 @@
 * [Handhelds Wiki](https://handhelds.wiki/) - Retro Handhelds Wiki / Emulation Guides⁠
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [TOSEC](https://rentry.co/FMHYB64#tosec) - The Old School Emulation Center
-* [CloudRetro](https://cloudretro.io/) - Cloud Gaming Service for Emulators / [GitHub](https://github.com/giongto35/cloud-game)
+* [CloudRetro](https://github.com/giongto35/cloud-game) - Cloud Gaming Service for Emulators
 * [Two-Torial](https://re-two-torial.xyz/) - Arcade Game Emulation Guides
 * [⁠EmulationRevival](https://emulationrevival.github.io/) - Xbox Series Emulation Guide
 * [Emulation Collective](https://discord.com/invite/7pcAbZzpXj) - Xbox One/Series X|S UWP Emulation Discord
@@ -332,7 +332,7 @@
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[LoLROMs](https://rentry.co/FMHYB64#lolroms)** - ROMs
 * ⭐ **[RuTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** (sign-up required) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [CDRomance](https://cdromance.org/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [ROMhacking](https://www.romhacking.net/), [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations / Hacks
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** (sign-up required) / [Subreddit](https://www.reddit.com/r/RetroGameTalk/), [CDRomance](https://cdromance.org/), [⁠ROMHack.ing](https://www.romhack.ing/) / [Discord](https://discord.gg/uAufcgz), [ROMhacking](https://www.romhacking.net/) or [⁠ROMHack Plaza](https://romhackplaza.org/) / [Discord](https://discord.gg/5CKzeWmZZU) - ROM Fan Translations / Hacks
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [RomsTime](https://romstime.com/) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more / [Discord](https://discord.gg/zueusZt)
@@ -719,6 +719,7 @@
 * [⁠HALDANE-4](https://haldane4.denisbondare.com/) - ASCII Horror Game
 * [Dino Swords](https://dinoswords.gg/) - Chrome Dino With Weapons
 * [Rooms](https://rooms.xyz/) - Room Design Game
+* [⁠Crazy Cattle 3D](https://crazycattle3d.github.io/) - Sheep Battle Royale
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [⁠Minigolfle](https://minigolfle.com/) - Browser Mini Golf
 * [⁠Pen Fight](https://www.penfight.xyz/) - Pen Fight Game
@@ -1150,7 +1151,7 @@
 * [⁠PokéOne](https://pokeonecommunity.com/) - Pokémon MMO / [Discord](https://discord.com/invite/bNYRTFn)
 * [⁠PokéClicker](https://www.pokeclicker.com) - Incremental Pokémon Game / [Wiki](https://wiki.pokeclicker.com) / [Discord](https://discord.gg/a6DFe4p) / [GitHub](https://github.com/pokeclicker/pokeclicker)
 * [⁠Pokelike](https://pokelike.xyz/) - Pokémon Roguelike / [Discord](https://discord.gg/YsakfWStYq)
-* [PokéVoid](https://pokevoid.com/) - Pokémon Roguelike / PokéRogue Alt / [Wiki](https://pokevoid.wiki/) / [Discord](https://discord.gg/xsQummMK3H)
+* [PokéVoid](https://pokevoid.com/) - Pokémon Roguelike / PokéRogue Alt / [Discord](https://discord.gg/xsQummMK3H)
 * [Pokemon Auto Chess](https://pokemon-auto-chess.com/) - Pokemon Style Teamfight Tactics / [Discord](https://discord.gg/6JMS7tr) / [GitHub](https://github.com/keldaanCommunity/pokemonAutoChess)
 * [⁠PokéSurvivor](https://pokesurvivor.com/) - Pokémon-Style Vampire Survivors
 * [TCG ONE](https://tcg.one/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
