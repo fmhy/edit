@@ -101,7 +101,6 @@
 * [banglaclassicbooks](https://banglaclassicbooks.blogspot.com/) - Books
 * [allbanglaboi](https://allbanglaboi.com/) - Books
 * [granthagara](https://granthagara.com/) - Books
-* [bookspointer](https://bookspointer.com/) - Books
 * [jyotirjagat](https://jyotirjagat.wordpress.com/) - Books
 * [⁠Banglabook](https://www.banglabook.org/) - Books
 * [SovietBooksinBengali](https://sovietbooksinbengali.blogspot.com/) - Soviet Books
@@ -165,7 +164,6 @@
 * [Hack Game](https://hack-games.com/) - Incremental Games
 * [Funn](https://fuun.fun/) - Fun Sites
 * [V2EX](https://v2ex.com/), [CNBlogs](https://www.cnblogs.com/) or [ZongScan](https://www.zongscan.com/) - Developer / Programming Forums
-* [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [HelloGitHub](https://hellogithub.com/) - GitHub Projects
 * [hkslbrowser](http://www.cslds.org/hkslbrowser/index.jsp) or [special.moe](https://special.moe.gov.tw/signlanguage/) - Chinese Sign Language Dictionaries
@@ -683,7 +681,6 @@
 * ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.bi/)** - Movies / TV / 1080p / 4K
-* ⭐ **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / 1080p / [Discord](https://discord.com/invite/Py5KKx28Bx)
 * ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[ToonsHub](https://www.toonshub.my.id/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
@@ -696,8 +693,6 @@
 * [⁠MoviesDrive](https://new2.moviesdrive.christmas/) - Movies / TV / 1080p
 * [⁠Bollyflix](https://bollyflix.bi/) - Movies / TV / 1080p
 * [KMMovies](https://kmmovies.life/) - Movies / TV / Anime / 1080p
-* [DownloadHub](https://d10.downloadhub.food/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/downloadhub2025)
-* [MoviesLeech](https://moviesleech.club/) - Movies / TV / Sub
 * [KatMovieHD](https://new.katmoviehd.top/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [⁠GokuHD](https://www.gokuhd.com/) - Movies / TV / Anime / 1080p
 * [OlaMovies](https://olamovies.dad/) - Movies / TV / Sub / Dub / 4K / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Requests](https://space.olamovies.dad/)
@@ -723,14 +718,14 @@
 * [TamilMV](https://www.1tamilmv.lease/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages / [Telegram](https://t.me/tmvog)
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p / VPN Required
 * [saicord](https://saicord.com/hi/) - Movies / TV
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.now/) - Tamil Movies / TV / Dub / 1080p / 720p
 * [1Shows](http://1shows.bz), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies
 * [tamilbulb](https://tamilbulb.cc/) - Tamil Movies
 * [tamilblasters](https://www.1tamilblasters.tech/) - Movies / TV / Anime
-* [Desicinemas](https://desicinemas.to/) or [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
+* [BollyZone](https://www.bollyzone.to/) - Movies / TV / 1080p
 * [flixsix](https://flixsix.com/) - Movies / TV / Dub / 1080p
 * [HydraHD](https://hydrahd.com/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/)
 * [Anime Joker](https://animejoker.com/) - Movies / TV / Anime
@@ -1019,7 +1014,6 @@
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [AnimeSub.info](http://animesub.info/) - Anime Subtitles
-* [MineWiki](https://minewiki.pl/) - Minecraft Wiki / [Discord](https://discord.gg/X3hwz8pkBd)
 * [slownikpjm](https://www.slownikpjm.uw.edu.pl/) - Polish Sign Language Dictionary
 
 ## ▷ Downloading / Pobieranie
@@ -1290,7 +1284,6 @@
 * ⭐ **[KinoGo](https://kinogo.ec/)**, [2](https://kinogo.luxury/), [3](https://kinogo2026.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+itg2xfHPNQg2MGVk)
 * ⭐ **[YummyAnime](https://ru.yummyani.me/)** - Anime / Sub / Dub / 1080p / [Telegram](https://t.me/yummyanime) / [Discord](https://discord.com/invite/yummyanime-1103691943881474048)
 * ⭐ **[AnimeLIB](https://animelib.org/)** - Anime / Sub / Dub / 1080p (account required) / [Telegram](https://t.me/mangalib_social)
-* ⭐ **[AnimeGO](https://animego.me/)** - Anime / Sub / Dub / 1080p / Region Locked
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / Android App / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
 * [kinokong](https://kinokong.es/) - Movies / TV / Dub / 1080p
@@ -1335,7 +1328,6 @@
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Top Radio](https://top-radio.ru/) - Radio
 * [recradio](https://t.me/recradio) - Radio
-* [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [videotuts](https://videotuts.ru/) - Design Video Tutorials
 
@@ -1482,7 +1474,7 @@
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
-* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
 * [Series.ly](https://series.ly/) - Movies / TV / Anime / Signup Required / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [7Movies](https://7movies.ac/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
@@ -1651,7 +1643,6 @@
 * [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
-* [Diziizle](https://www.diziizle.now/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN
 * [Turkish123](https://ahs.turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
@@ -1721,7 +1712,7 @@
 
 # ► Vietnamese / Tiếng Việt
 
-* ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/), [TECHRUM.VN](https://www.techrum.vn/) or [WhiteHat.vn](https://whitehat.vn/) - Tech Forum
+* ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/) or [TECHRUM.VN](https://www.techrum.vn/) - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/)** - Vietnamese Keyboard / [Source Code](https://sourceforge.net/projects/unikey/)
 * ⭐ **[Báo Mới](https://baomoi.com/)** - News Aggregator / [Android](https://play.google.com/store/apps/details?id=com.epi) / [iOS](https://apps.apple.com/app/báo-mới-đọc-báo-tin-mới-24h/id651979466)

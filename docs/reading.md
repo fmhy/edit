@@ -12,7 +12,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[Bookracy](https://bookracy.com/)** - Books / Comics / Manga / [Download Button](https://greasyfork.org/en/scripts/536768)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / Torrents / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
-* ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.vg/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
+* ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
 * ⭐ **[Unglue.it](https://unglue.it/)** - Books
 * [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
@@ -325,7 +325,7 @@
 ## ▷ Downloading
 
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
-* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / [Frontend](https://voxlu.me/) / **[Warning / Link Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
+* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning / Link Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md)**
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Torrents / [Invites](https://www.myanonamouse.net/inviteapp.php) / [Ratio Warnings](https://greasyfork.org/en/scripts/416189)
 * [Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
@@ -354,7 +354,7 @@
 * [Audio AZ](https://audioaz.com/)
 * [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Project Gutenberg](https://www.gutenberg.org/browse/categories/1) or [Lex](https://lex-books.com/) - Historical Fiction / Nonfiction
-* [WAVE](https://waveapp.pages.dev/) / [GitHub](https://github.com/ayman708-UX/WAVE) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) - Audiobook Apps / Windows, macOS, Linux, Android, iOS
+* [WAVE](https://waveapp.pages.dev/) or [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) - Audiobook Apps / Windows, macOS, Linux, Android, iOS
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
 ***
@@ -547,7 +547,6 @@
 * [Bookishfrenzy](https://t.me/premium_ebooks) - Books / Exam Books
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online University Libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
-* [Science Forums](https://www.scienceforums.net/) - Forums / Science
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
@@ -887,7 +886,7 @@
 * [Sutta Central](https://suttacentral.net/) - Esoterica / Buddhism
 * [Dhamma Talks](https://www.dhammatalks.org/) - Esoterica / Buddhism
 * [Sri Granth](https://www.srigranth.org/) - Guru Granth Sahib Translation
-* [Sikh National Archives](https://www.sikhnationalarchives.com/) or [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Sign-Up
+* [SikhBookClub](https://sikhbookclub.com/) - Sikhism Book / Sign-Up
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Esoterica / Jainism
 
 ***

@@ -28,7 +28,7 @@
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - UML Diagrams Generators / Creators
 * [PlantText](https://www.planttext.com/) - UML Editor
 
-[DGM](https://app.dgmjs.dev/), [⁠MakeGraph](https://makegraph.app/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [ParaView](https://www.paraview.org/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
+[DGM](https://app.dgmjs.dev/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [ParaView](https://www.paraview.org/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/) / [Terminal Render](https://mermaid-ascii.art/) / [GitHub](https://github.com/mermaid-js/mermaid), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [diagramgpt](https://www.eraser.io/diagramgpt), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com), [PlantUML](https://www.plantuml.com/)
 
 ***
 
@@ -187,7 +187,7 @@
 
 ### YouTube Channels
 
-[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [Comprehensible Japanese](https://www.youtube.com/@cijapanese), [JapanesePod101](https://www.youtube.com/@JapanesePod101)
+[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [JapanesePod101](https://www.youtube.com/@JapanesePod101)
 
 ### Dictionaries / Translation
 
@@ -244,7 +244,7 @@
 
 ### Trakt Tools
 
-[Apps](https://app.trakt.tv/apps) / [Recommendations](https://couchmoney.tv/) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [List Import](https://github.com/damienhaynes/TraktRater)
+[Recommendations](https://couchmoney.tv/) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [List Import](https://github.com/damienhaynes/TraktRater)
 
 
 ### Letterboxd Tools
@@ -351,7 +351,6 @@
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
 * ⭐ **[searx.space](https://searx.space/)**
 * ⭐ **[OpnXNG](https://opnxng.com/)**
-* [searx.party](https://searx.party/)
 * https://searx.fmhy.net/
 * https://search.fuckoffgoogle.net/
 * https://searx.neocities.org/

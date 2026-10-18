@@ -376,6 +376,7 @@
 * [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
 * [⁠AniChan](https://anichan.to/) - Sub / Dub
 * [⁠YumeZone](https://yumezone.live/) - Sub / Dub / Auto-Next
+* [⁠JJBA](https://jjba.lol/) - Sub / Dub
 * [⁠Aniclover](https://aniclover.cc/) - Sub / Dub
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AnimeDex](https://animedex.fun/) - Sub / Dub
@@ -1093,7 +1094,7 @@
 * ⭐ **[TasteDive](https://tastedive.com/)** - Similar Movie Recommendations
 * ⭐ **[The Criterion Closet](https://thecriterioncloset.com/)** - Curated World Cinema / 3D Criterion Collection / [Popular Picks](https://closet-picks.com/)
 * ⭐ **[Sight and Sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/)** - Critics' and Directors' Film Polls / Top 250
-* ⭐ **[Series Graph](https://seriesgraph.com/)**, [Ratings Graph](https://www.ratingraph.com/), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode / Movie Rating Graphs
+* ⭐ **[Series Graph](https://seriesgraph.com/)** / [Discord](https://discord.com/invite/W6NGKsyaUY), [Ratings Graph](https://www.ratingraph.com/), [⁠IMDb Table](https://docyx.github.io/imdb-table), [TV Chart](https://tvchart.benmiz.com/), [Episode Hive](https://episodehive.com/), [TV Charts](https://tvcharts.co/), [TheShowGrid](https://theshowgrid.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode / Movie Rating Graphs
 * [⁠FilmDilemma](https://filmdilemma.com/) - Movie Recommendations
 * [SuggestStream](https://suggestream.com/) - Movie / TV Recommendations
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
@@ -1215,7 +1216,7 @@
 * [ShotOnWhat?](https://shotonwhat.com/) - Film Technical Info / Equipment Database
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
 * [Starring the Computer](https://www.starringthecomputer.com/) - Movie Computer Database / [Discord](https://discord.com/invite/6NbTfHEtgQ)
-* [IMFDB](https://www.imfdb.org/) / [Discord](https://discord.com/invite/FDHEkQ6szt) or [MGDB](http://mgdb.himitsukichi.com/pukiwiki/index.php) - Media Firearms Database
+* [IMFDB](https://www.imfdb.org/wiki/Main_Page) / [Discord](https://discord.com/invite/FDHEkQ6szt) or [MGDB](http://mgdb.himitsukichi.com/pukiwiki/index.php) - Media Firearms Database
 * [WheresTheJump?](https://wheresthejump.com/), [WhenJumpScare](https://www.whenjumpscare.com/), [NotScare](https://notscare.me/) or [WheresTheScares?](https://wheresthescares.com/) - Find Movie Jump Scares
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
 * [WhatsatMovie](https://whatsatmovie.com/), [Talpa Search](https://www.talpasearch.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
@@ -1227,7 +1228,7 @@
 * [Bechdel Test](https://bechdeltest.com/) - Movie Bechdel Test Check
 * [Movie-Locations](https://www.movie-locations.com/), [⁠Movie Scene Map](https://moviescenemap.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
-* [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
+* [Sprocket School](https://www.sprocketschool.org/wiki/Main_Page) - Film Exhibition Wiki
 
 ***
 
