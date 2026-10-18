@@ -639,13 +639,13 @@
 # ► TikTok Tools
 
 * ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
+* [TikTok Tools](https://omar-thing.site/) - TikTok User Finder / search , Story & Highlights Viewer & downloader , Repost & Posts Viewer, URL Tracker , Live Viewer , and more / [Telegram](https://t.me/tiktokinfosite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/), [TokSave](https://toksave.social/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠TikTok Control Panel](https://github.com/ElectricArdvark/Tiktok-control-panel) - Control Panel / Extra Functionalities
-* [TikTok Tools](https://omar-thing.site/) - Search, Story Viewer, Repost Viewer, and URL Tracker / [Telegram](https://t.me/tiktokinfosite)
 * [⁠TikTok Video Seeking](https://greasyfork.org/scripts/585042) - Enable Arrow Seeking for TikTok
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
 
