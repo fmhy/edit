@@ -942,6 +942,7 @@
 * ⭐ **[Requestrr](https://github.com/thomst08/requestrr)** or [Doplarr](https://github.com/activexray/doplarr_rs) - Discord Torrent Bots
 * [⁠Nuvio Desktop](https://github.com/NuvioMedia/NuvioDesktop) or [⁠Nuvio HTPC](https://github.com/UmbraProjects/NuvioDesktop) / [Discord](https://discord.gg/wEgTPNXUMU) - Torrent Streaming App / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Stremio Sync](https://nuviosync.com/) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/)
 * [Wyzie Subs](https://sub.wyzie.io/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.io/)
+* [The Subtitle Database](https://thesubtitledb.org/) - Free Subtitle API / [NPM Package](https://www.npmjs.com/package/@subtitledb/core) / [Docs](https://thesubtitledb.org/developer) / [Discord](https://discord.gg/KyaGQ4jNx7)
 * [Arr Scripts](https://github.com/RandomNinjaAtk/arr-scripts/) - Torrent App Automation Scripts
 * [Autobrr](https://github.com/autobrr/autobrr) - Autodownload Movie Torrents
 * [⁠Sportarr](https://sportarr.net/) - Sports PVR for Torrents + Usenet / [Discord](https://discord.gg/YjHVWGWjjG) / [GitHub](https://github.com/Sportarr/Sportarr)
