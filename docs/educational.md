@@ -1782,8 +1782,8 @@
 
 ## ▷ Study Tools
 
-* ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
-* ⭐ **[StudyKit](https://studykit.app/)**, [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
+* ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [Discord](https://discord.gg/the-study-lions-780195610154237993) / [GitHub](https://github.com/StudyLions/StudyLion/)
+* ⭐ **[StudyKit](https://studykit.app/)** / [Discord](https://discord.gg/3xY797eH3E), [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)
