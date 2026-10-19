@@ -731,6 +731,7 @@
 
 ## ▷ Launchers
 
+* ↪️ **[Browser Minecraft](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_browser_minecraft)**
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
@@ -751,26 +752,6 @@
 * [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS, Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
 * [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launcher / Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
-
-***
-
-## ▷ Browser Minecraft
-
-* 🌐 **[Top Eaglercraft Servers](https://topeaglerservers.com/)** - Public Eaglercraft Server List
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser-Based Minecraft / [Discord](https://discord.gg/yxpa55BahB) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
-* [q13x's Distros](https://eaglercraft.q13x.com/) - Custom Eaglercraft Clients
-* [Eaglercraft.dev](https://eaglercraft.dev/) - Eaglercraft Client Directory & Launcher
-* [WebMC](https://webmc.xyz/), [2](https://webmc.colbster937.dev/), [3](https://webmc-launcher.vercel.app/) - Eaglercraft Multi-Version Launcher
-* [EaglerCraftX](https://client.eaglercraft.win/) - Eaglercraft Mirror / Alt Versions
-* [MessCraft](https://mess.eu.org/) - Eaglercraft Server Network / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd)
-* [Hiracraft](https://craft.hira.im/) - Eaglercraft Mirror
-* [Classic Launcher](https://radmanplays.github.io/classic-launcher/) or [Minecraft Classic](https://classic.minecraft.net/) - Browser-Based Pre-Classic / Classic Minecraft
-* [ClassiCube](https://www.classicube.net/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube)
-* [Bloxd](https://bloxd.io/) - Browser-Based Minecraft Clone / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX)
-* [MiniBlox](https://miniblox.io/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/nAwzkUJNmb)
-* [EaglerForge](https://eaglerforge.github.io/) - Eaglercraft Mod Loader
-* [EaglerForge Builder](https://eaglerforge-builder.vercel.app/) or [EaglerForgeBuilderNew](https://eaglerforge.github.io/EaglerForgeBuilderNew/) - Create Eaglercraft Mods
-* [EaglercraftXServer](https://modrinth.com/organization/eaglercraftxserver) - Improved Eaglercraft Server Tool / [GitHub](https://github.com/lax1dude/eaglerxserver)
 
 ***
 

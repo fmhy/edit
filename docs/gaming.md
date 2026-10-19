@@ -690,7 +690,6 @@
 
 # ► Browser Games
 
-* ↪️ **[Browser Minecraft](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_browser_minecraft)**
 * ↪️ **[Browser Toys / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random)** - Browser Toys / Game Indexes
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Man
@@ -873,6 +872,26 @@
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacewar.md)
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+
+***
+
+## ▷ Browser Minecraft
+
+* 🌐 **[Top Eaglercraft Servers](https://topeaglerservers.com/)** - Public Eaglercraft Server List
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser-Based Minecraft / [Discord](https://discord.gg/yxpa55BahB) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
+* [q13x's Distros](https://eaglercraft.q13x.com/) - Custom Eaglercraft Clients
+* [Eaglercraft.dev](https://eaglercraft.dev/) - Eaglercraft Client Directory & Launcher
+* [WebMC](https://webmc.xyz/), [2](https://webmc.colbster937.dev/), [3](https://webmc-launcher.vercel.app/) - Eaglercraft Multi-Version Launcher
+* [EaglerCraftX](https://client.eaglercraft.win/) - Eaglercraft Mirror / Alt Versions
+* [MessCraft](https://mess.eu.org/) - Eaglercraft Server Network / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd)
+* [Hiracraft](https://craft.hira.im/) - Eaglercraft Mirror
+* [Classic Launcher](https://radmanplays.github.io/classic-launcher/) or [Minecraft Classic](https://classic.minecraft.net/) - Browser-Based Pre-Classic / Classic Minecraft
+* [ClassiCube](https://www.classicube.net/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube)
+* [Bloxd](https://bloxd.io/) - Browser-Based Minecraft Clone / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX)
+* [MiniBlox](https://miniblox.io/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/nAwzkUJNmb)
+* [EaglerForge](https://eaglerforge.github.io/) - Eaglercraft Mod Loader
+* [EaglerForge Builder](https://eaglerforge-builder.vercel.app/) or [EaglerForgeBuilderNew](https://eaglerforge.github.io/EaglerForgeBuilderNew/) - Create Eaglercraft Mods
+* [EaglercraftXServer](https://modrinth.com/organization/eaglercraftxserver) - Improved Eaglercraft Server Tool / [GitHub](https://github.com/lax1dude/eaglerxserver)
 
 ***
 
