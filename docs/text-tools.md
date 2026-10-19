@@ -140,13 +140,16 @@
 
 ***
 
-## ▷ Emoticons
+## ▷ Emojis / Emoticons
 
 * ⭐ **[symbl](https://symbl.cc/)** - Emoji & Unicode Index
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [EmojiDB](https://emojidb.org/) or [Emoji Picker](https://github-emoji-picker.vercel.app/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [EmojiDB](https://emojidb.org/), [OpenMoji](https://openmoji.org/), [JoyPixels](https://www.joypixels.com/) or [Emoji Picker](https://github-emoji-picker.vercel.app/) - Emoji Indexes
 * ⭐ **[Slackmojis](https://slackmojis.com/)** - Custom Emojis
 * ⭐ **[Amp What](https://www.amp-what.com/)** - Unicode Index
-* [Animated Fluent Emojis](https://animated-fluent-emoji.vercel.app/) - Microsoft Fluent Animated Emojis / [GitHub](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
+* [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
+* [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter
+* [⁠Animated Noto Emojis](https://googlefonts.github.io/noto-emoji-animation/) - Google Animated Emojis
+* [Animated Fluent Emojis](https://animated-fluent-emoji.vercel.app/) - Microsoft Animated Emojis / [GitHub](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [Asciify Unicode](https://asciify.dev/unicode) - ASCII & Unicode Reference
@@ -438,7 +441,7 @@
 ## ▷ ASCII Art
 
 * ⭐ **[TAAG](https://patorjk.com/software/taag/)** [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
-* [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
+* [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/), [Asciify](https://asciify.org/editor) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster) - ASCII Paint Tools
 * [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image / Video to ASCII Art
 * [Love ASCII](http://loveascii.com/), [asciiart.eu](https://www.asciiart.eu/), [EmojiCombos](https://emojicombos.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](https://www.roysac.com/sitemap.html) - Browse / Copy ASCII Art

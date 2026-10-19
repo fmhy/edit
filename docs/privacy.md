@@ -114,6 +114,7 @@
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) - On-Demand AV Scanner
 * [⁠rifteyy](https://rifteyy.org/) - Malware Removal Guides / Blog
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
+* [Detect It Easy](https://github.com/horsicq/detect-it-easy) - File Identification + Static Inspection Tool
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment

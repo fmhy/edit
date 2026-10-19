@@ -429,6 +429,7 @@
 * [IsLegitSite](https://www.islegitsite.com/) - 9 Blocklist Engines Scan
 * [ZScaler](https://zulu.zscaler.com/)
 * [Talos](https://talosintelligence.com/) - Reputation Rating / Content Tags / Blocklist Flag
+* [⁠Tranco](https://tranco-list.eu/query) - Domain Popularity Rank Chart
 
 ***
 

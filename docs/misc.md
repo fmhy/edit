@@ -273,7 +273,7 @@
 * [OpenIPC](https://openipc.org/) - Open-Source Firmware for Closed-Source IP Cameras
 * [BudgetDuo](https://budgetduo.com/) - Split Household Expenses / [GitHub](https://github.com/hursey013/budget-duo)
 * [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
-* [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
+* [Sweet Home 3D](https://www.sweethome3d.com/), [⁠Planner5D](https://planner5d.com/), [⁠3D Room Maker](https://3droommaker.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Tools
 * [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
 * [PlanYourRoom](https://www.planyourroom.com/) - Visualize PC Setups
 
@@ -1068,7 +1068,7 @@
 
 * 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index/)** or [UK Personal Finance](https://ukpersonal.finance/) - Personal Finance Advice / Resources
 * ⭐ **[Paisa](https://paisa.fyi/)**, **[HomeBank](https://www.gethomebank.org/)**, **[Bagels](https://github.com/EnhancedJax/Bagels)**, **[GnuCash](https://gnucash.org/)**, **[Firefly III](https://firefly-iii.org/)**, **[Money Manager EX](https://moneymanagerex.org/)** or **[Actual](https://actualbudget.org/)** - Finance / Expense Managers
-* [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/) or [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) - Mobile Expense Managers
+* [Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/) or [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) - Mobile Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Goal Tracker
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Manager
 * [Ledger](https://ledger-cli.org/) or [hledger](https://hledger.org/) - Plain-Text Accounting Tools
@@ -1796,14 +1796,15 @@
 
 ## ▷ Mysteries / Paranormal
 
+* ↪️ **[Mythology / Folklore](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_mythology_.2F_folklore)**
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [EnigmaLabs](https://enigmalabs.io/), [⁠UFO Evidence](http://www.ufoevidence.org/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO + UAP Sighting Lists / Tracking
 * [⁠Fern Flower Project](https://www.fern-flower.org/) - Database of Anomalous / Paranormal Phenomenon
 * [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
+* [Demons of the Deep](https://seademons.weebly.com/) - Demon Encyclopedia
 * [BFRO](https://bfro.net/) - Bigfoot Research Site
-* [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 
 ***

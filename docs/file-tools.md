@@ -349,10 +349,12 @@
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / Up to 30GB (active) / 1 Year (inactive)
 * [⁠pone](https://pone.rs/) - 1GB / Forever
+* [⁠Plik](https://up2store.de/) - 50GB / Forever
 * [⁠MaraFile](https://marafile.cc/) - 1GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh)
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
+* [⁠ATM](https://atm.rip/) - 10GB / Forever
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
 * [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
@@ -440,6 +442,7 @@
 * [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 (3TB Business)
 * [FileLu](https://filelu.com/) - 10GB / Forever / ~$3.13 for 40TB / **[Expiry Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filelu-warning.md)**
 * [MrOwl](https://www.mrowl.com/) - 10GB / ~$16.67 (1TB Premium Plus)
+* [Koofr](https://koofr.eu/) - 10GB / Forever / ~$10 (1TB Suitcase)
 * [Blomp](https://www.blomp.com/) - 40GB / 1 Month / ~$1 for 10TB+
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
 * [Cloudflare R2](https://www.cloudflare.com/products/r2/) - 10GB / Forever / ~$15
