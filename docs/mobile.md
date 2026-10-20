@@ -952,7 +952,7 @@
 * [⁠Meld](https://github.com/FrancescoGrazioso/Meld) - YouTube Music Player / Spotify Integration
 * [Namida](https://github.com/namidaco/namida) - YouTube Music Player / [Telegram](https://t.me/namida_official) / [Discord](https://discord.gg/WeY7DTVChT)
 * [Gyawun](https://github.com/jhelumcorp/gyawun) - YouTube Music Player
-* [LastWave](https://github.com/Clash-Projects/LastWave-Native) - YouTube Music Player / Spotify Canvas & Integration / Parametric AutoEQ / [Telegram](https://t.me/clashprojects)
+* [LastWave](https://github.com/Clash-Projects/LastWave-Native) - Next-Gen YouTube Music Client with Liquid Glass UI, Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android / [Telegram](https://t.me/clashprojects)
 
 ***
 
