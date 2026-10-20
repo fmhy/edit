@@ -389,7 +389,6 @@
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [LiveCodes](https://livecodes.io/) / [GitHub](https://github.com/live-codes/livecodes), [tech.io](https://www.codingame.com/learn) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
-* [Trinket](https://trinket.io/) - Web App / Live Preview / Requires Sign-Up / Online Workspace
 * [Helix](https://helix-editor.com/) - Kakoune & Neovim Inspired Code Editor
 * [Geany](https://www.geany.org/) - Lightweight Code Editor
 * [Fresh](https://getfresh.dev/) - TUI Code Editor
