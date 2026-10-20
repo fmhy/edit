@@ -346,6 +346,7 @@
 ## ▷ Streaming
 
 * ⭐ **[NEPU Audiobooks](https://nepu.io/ebooks)**, [2](https://nepu.io/ebooks), [3](https://nepu.app/ebooks), [4](https://nepu.is/ebooks) / [Status](https://rar.to/) / [Discord](https://discord.gg/nepu)
+* [Monologue](https://monologue-eta.vercel.app/) / [GitHub](https://github.com/s1ddhants1/monologue)
 * [FullLengthAudiobooks](https://fulllengthaudiobooks.com/)
 * [Mapple](https://mapple.fun/audiobooks)
 * [HotAudioBooks](https://hotaudiobooks.com/)
