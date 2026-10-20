@@ -364,8 +364,8 @@
 
 # ► Windows ISOs
 
-* ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows) / [Discord](https://discord.gg/4mFR9y9Snw)
+* ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)** / [GitLab](https://gitlab.com/vvispy/wispydocs)
+* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - Windows ISOs / [Clean Install Guide](https://massgrave.dev/clean_install_windows) / [Discord](https://discord.gg/4mFR9y9Snw) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [files.rg-adguard](https://files.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
@@ -390,7 +390,7 @@
 
 ## ▷ Windows Activation
 
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Subreddit](https://www.reddit.com/r/MAS_Activator) / [X](https://x.com/massgravel) / [Discord](https://discord.gg/4mFR9y9Snw), [2](https://discord.gg/j2yFsV5ZVC) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
+* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows & Office Activation / [Subreddit](https://www.reddit.com/r/MAS_Activator) / [X](https://x.com/massgravel) / [Discord](https://discord.gg/4mFR9y9Snw) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts), [2](https://discord.gg/j2yFsV5ZVC) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * [Office Tool Plus](https://rentry.co/FMHYB64#tool-plus) - Office Activation / Version Manager / Deployment / Offline
 * [OfficeRTool](https://rentry.co/FMHYB64#officertool-project) - Office Activation / Offline
 
@@ -398,7 +398,7 @@
 
 ## ▷ Windows Updates
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life / [Discord](https://discord.gg/4mFR9y9Snw)
+* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - Receive Windows Updates After Win10's End-Of-Life / [Discord](https://discord.gg/4mFR9y9Snw) / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)
 * ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - Latest Windows Update Info
 * [VCRedist](https://github.com/abbodi1406/vcredist), [2](https://gitlab.com/stdout12/vcredist), [3](https://codeberg.org/stdout12/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [LegacyUpdate](https://legacyupdate.net/) - Fix Windows Updates for Legacy Versions / [Discord](https://discord.com/invite/Y9rbXDtDnr) / [GitHub](https://github.com/LegacyUpdate/LegacyUpdate)
