@@ -71,7 +71,7 @@
 
 * ⭐ **[DeepL](https://www.deepl.com/translator)** - Online AI-Based Translation
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Chrome Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
-* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox), [⁠KISS Translator](https://github.com/fishjar/kiss-translator/blob/dev/README.en.md) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [⁠KISS Translator](https://github.com/fishjar/kiss-translator/blob/dev/README.en.md) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [⁠Mozhi](https://codeberg.org/aryak/mozhi#instances) - Multi Translation Engine Frontend
 * [LibreTranslate](https://libretranslate.com/), [2](https://translate.disroot.org/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
@@ -146,7 +146,7 @@
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [EmojiDB](https://emojidb.org/), [OpenMoji](https://openmoji.org/), [JoyPixels](https://www.joypixels.com/) or [Emoji Picker](https://github-emoji-picker.vercel.app/) - Emoji Indexes
 * ⭐ **[Slackmojis](https://slackmojis.com/)** - Custom Emojis
 * ⭐ **[Amp What](https://www.amp-what.com/)** - Unicode Index
-* [EmojiCreator](https://emojicreator.ai/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
+* [EmojiCreator](https://emojicreator.ai/), [My Emoji Maker](https://myemojimaker.com/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
 * [⁠AnimGifMoji](https://www.animgifmoji.com/) - GIF to Emoji Converter
 * [⁠Animated Noto Emojis](https://googlefonts.github.io/noto-emoji-animation/) - Google Animated Emojis
 * [Animated Fluent Emojis](https://animated-fluent-emoji.vercel.app/) - Microsoft Animated Emojis / [GitHub](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)

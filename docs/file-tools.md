@@ -70,6 +70,7 @@
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) / [GitHub](https://github.com/jgm/pandoc) - PDF / Documents CLI Converters
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
+* [Filee](https://filee.sh/) - Offline / Drag & Drop File Converter / Windows, macOS, Linux / [GitHub](https://github.com/KnifeLemon/Filee)
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, macOS, Linux / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [GitHub](https://github.com/AyrA/text2img)

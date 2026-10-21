@@ -419,11 +419,12 @@
 * ↪️ **[Linux Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)** / [macOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, macOS, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/KDE/kdenlive)
-* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Single Video Editor / Windows, macOS, Linux
+* ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor / Windows, macOS, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/mltframework/shotcut)
 * [OpenShot](https://www.openshot.org/) - Video Editor / Windows, macOS, Linux / [Source Code](https://code.launchpad.net/openshot)
 * [Keyflame](https://rentry.co/FMHYB64#keyflame) - Video Editors / Plugins
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, macOS
+* [Avidemux](http://fixounet.free.fr/avidemux/) - Video Editor / Windows, macOS, Linux
 * [Blender](https://www.blender.org/) - Video Editor / Windows, macOS, Linux / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor / [GitHub](https://github.com/Zulko/moviepy/)
@@ -476,7 +477,7 @@
 * [FreshLUTs](https://freshluts.com/) - Free LUTs (Color Filters)
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
-* [CorridorKey](https://github.com/nikopueringer/CorridorKey) - AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / [DaVinci Plugin](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [GUI](https://github.com/edenaion/EZ-CorridorKey/) / [Discord](https://discord.gg/zvwUrdWXJm)
+* [CorridorKey](https://github.com/nikopueringer/CorridorKey2.0) - AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / [DaVinci Plugin](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / [GUI](https://github.com/edenaion/EZ-CorridorKey/) / [Discord](https://discord.gg/zvwUrdWXJm)
 
 ***
 

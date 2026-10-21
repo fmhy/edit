@@ -134,6 +134,7 @@
 * [LabXchange](https://www.labxchange.org/), [⁠UCAR Center Simulations](https://scied.ucar.edu/interactive) or [JavaLab](https://javalab.org/en/) - Interactive Science / Math Simulations
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
 * [LabPlot](https://labplot.org/), [PubQ Studio](https://pubq-studio.onrender.com/) or [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotters
+* [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [BOINC](https://boinc.berkeley.edu/) - Donate Idle CPU + GPU Resources to Scientific Research / [Manager](https://boinc.berkeley.edu/central/) / [Number Theory](https://numberfields.asu.edu/NumberFields/) / [Humanitarian](https://worldcommunitygrid.org/) / [Subreddit](https://www.reddit.com/r/BOINC/)
 
 ***
@@ -149,7 +150,7 @@
 * [Algodoo](https://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [⁠Quantum Flytrap](https://quantumflytrap.com/) - Interactive Quantum Mechanics Virtual Lab
-* [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
+* [Quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
 * [Physics Forums](https://www.physicsforums.com/) - Physics / Science Forum
 * [Unihedron](https://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf) - Electromagnetic Radiation Spectrum Chart
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
@@ -161,7 +162,7 @@
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
 * [WebGL Water](https://madebyevan.com/webgl-water/) - Water Simulation
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
-* [avogadro](https://two.avogadro.cc/index.html), [2](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
+* [Avogadro](https://two.avogadro.cc/index.html), [2](https://sourceforge.net/projects/avogadro/) or [MolView](https://molview.org/) - Molecular Viewers / Editors
 * [⁠Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/) - ⁠Nuclear Reactor Simulator
 
 ***
@@ -591,6 +592,7 @@
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
 * [Museo](https://museo.app/) - Museum Search
+* [⁠The Rest is History Archive](https://archive.therestishistory.com/) - Era-Based Historical Podcast
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [⁠Pantheon](https://pantheon.world/) - Historical Figure Database + Trivia
@@ -613,7 +615,7 @@
 * [⁠Gode Cookery](http://www.godecookery.com/godeboke/godeboke.htm) - Authentic Medieval Recipes & Historical Info
 * [⁠The Food Historian](https://www.thefoodhistorian.com/) - Food History Blog
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
-* [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
+* [Gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
 * [ChinesePosters](https://chineseposters.net/) - Chinese Propaganda Poster History
 * [⁠Fashion History Timeline](https://fashionhistory.fitnyc.edu/) or [Historical Fashion](https://docs.google.com/document/d/1R8eulTsb9Zlc7h2H917dNJZS9s0rIq9OAu7LpSS9F2k/) - Historical Fashion Resources / History
@@ -662,7 +664,10 @@
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
 * [U-boat Archive](https://uboatarchive.net/) - WW2 Battle of the Atlantic Historical Archive / [X](https://x.com/uboatarchive)
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
+* [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
+* [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
+* [⁠Anzac Portal](https://anzacportal.dva.gov.au/) - Australian Military History / Stories
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
 * [⁠NavWeaps](https://www.navweaps.com/) - Naval Weapons, Technology and Reunion History
@@ -717,7 +722,7 @@
 * [DataUNODC](https://data.unodc.org/) - Drug / Crime Statistics
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
-* [Climate Data](https://climate-data.org/), [Climate.us](https://www.climate.us/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [Climate Data](https://climate-data.org/), [⁠Climate Change Tracker](https://climatechangetracker.org/), [Climate.us](https://www.climate.us/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html) - Climate Solutions Simulator
 * [ExtremeWeatherWatch](https://www.extremeweatherwatch.com/) - Extreme Weather Data / Tracking
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
@@ -1365,7 +1370,8 @@
 * [⁠Viossa Diskordserver](https://discord.com/invite/g3mG2gYjZD) (discord) - Viossa Language Learning Community / Artificial Pidgin Language
 * [Eberban](https://eberban.github.io/eberban/) / [Discord](https://discord.gg/FChFEHEet8) or [Learn Eberban](https://learn-eberban.github.io/) - Eberban Language Learning / Focused on Simplicity, Expressiveness & Regularity
 * [Xextan](https://xextan.github.io/) - Xextan Language Learning / Focused on Simplicity + Ease of Learning / [Wiki](https://xextan.miraheze.org/wiki/Main_Page) / [Discord](https://discord.gg/4Wz7EeQJ2g)
-* [Learn Na'vi](https://learnnavi.org/) - Na’vi (Avatar) Language Learning / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
+* [⁠Thuum](https://www.thuum.org/) - Guide to Dovahzul (The Elder Scrolls Language) 
+* [Learn Na'vi](https://learnnavi.org/) - Guide to Na’vi (Avatar Language) / Community / [Forum](https://forum.learnnavi.org/) / [Discord](https://discord.gg/LearnNavi)
 
 ***
 
@@ -1661,6 +1667,7 @@
 * ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community / [Discord](https://discord.com/invite/reddit-gamedev)
 * [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [CodeWisp](https://codewisp.ai/) - Interactive Beginner Game Dev Learning
+* [⁠GameDev](https://gamedev.net/) - Game Dev Learning / Community / [Discord](https://discord.gg/tgEGVNy)
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [GameProgramBooks](https://rentry.co/FMHYB64#gameprogrambooks) - Game Programming Books
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
@@ -1819,7 +1826,6 @@
 * [Lurnby](https://www.lurnby.com) - Research Highlighting Tool / [GitHub](https://github.com/Roznoshchik/Lurnby)
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Scientific Articles
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
-* [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Foam](https://foambubble.github.io/) - Knowledge Management System
 * [Zotero](https://www.zotero.org/) - Research Assistant
 * [Scrible](https://www.scrible.com/) - Research / Writing Platform

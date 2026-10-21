@@ -14,7 +14,6 @@
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Site Index
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[privateersclub](https://privateers.wiki/)** - Game Site Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[Ripped](https://ripped.guide/)** - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Site Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
@@ -30,6 +29,7 @@
 * [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [⁠JustIndex](https://justindex.cc/) - Otaku Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [Ripped](https://ripped.guide/) - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
@@ -948,7 +948,7 @@
 * ⭐ **[4-Day Week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiringcafe.com/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/), [Indeed](https://www.indeed.com/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiringcafe.com/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [⁠freehire](https://freehire.me/) / [GitHub](https://github.com/strelov1/freehire), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/), [Indeed](https://www.indeed.com/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
 * [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
@@ -1709,6 +1709,7 @@
 * [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game
 * [Pianos.pub](https://pianos.pub/) - Find Public Pianos
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
+* [⁠Gesture Synth](https://gesturesynth.com/) - Interactive Gesture-Based Audio Synth
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
 * [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
@@ -1764,7 +1765,7 @@
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
+* [PoliticalTests](https://politicaltests.github.io/) or [⁠The 12 Axes](https://12axes.site/) - Political Alignment Tests
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
 * [⁠Read QR By Hand](https://noel-friedrich.github.io/read-qr-by-hand) - Learn How-To Read QR by Hand
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
@@ -1890,9 +1891,10 @@
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [⁠Jerma Sites](https://jerma.io/) or [Jerma](https://www.jerma.org/) - Jerma Resources / Content Sites
-* [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
-* [ColorNames](https://colornames.org/) - Help Name Colors
+* [⁠Color Names](https://names.color.pizza/) - Interactive Human-Named Color Browser
+* [colornames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
+* [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links

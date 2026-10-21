@@ -311,6 +311,7 @@
 * 🌐 **[PCGamingWiki Engine List](https://www.pcgamingwiki.com/wiki/Category:Engines)**, [Wiki Engine List](https://wikipedia.org/wiki/List_of_game_engines), [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
 * 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
+* 🌐 **[⁠Valve Developer Community](https://developer.valvesoftware.com/)** - Valve Developer Community / Resources 
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_game_development)**
 * [⁠GameDev Torch](https://gamedevtorch.com/) - Multi-Site Game Dev Search Engine
@@ -535,7 +536,7 @@
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
-* [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI
+* [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI / [Multi-Bot Team Plugin](https://github.com/Fei2411/DeepSeek-Bot)
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [AI SDK](https://ai-sdk.dev/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
@@ -718,7 +719,7 @@
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/) - CSS Animations
 * [Tailwind Toolbox](https://windytoolbox.com/) - Tailwind Starter Templates & Components
-* [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui) or [Aceternity UI](https://ui.aceternity.com/) - Tailwind CSS Components
+* [daisyUI](https://daisyui.com/), [⁠Flowbite](https://flowbite.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui) or [Aceternity UI](https://ui.aceternity.com/) - Tailwind CSS Components
 
 ***
 
