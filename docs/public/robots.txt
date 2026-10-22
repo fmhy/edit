@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /assets/
-Disallow: /*.png$
-Disallow: /*.svg$
-Disallow: /*.ico$
-Allow: /
