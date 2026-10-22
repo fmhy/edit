@@ -244,7 +244,6 @@
 * [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
 * [Practical Web Tools](https://practicalwebtools.com/tools/all-pdf-tools) - Client-Side / [All Tools](https://practicalwebtools.com/)
-* [Practical Web Tools](https://practicalwebtools.com/tools/all-pdf-tools) - Client-Side / [All Tools](https://practicalwebtools.com/)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
 * [⁠PDFResizer](https://pdfresizer.com/) - Server-Side
