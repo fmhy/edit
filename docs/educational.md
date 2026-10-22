@@ -1454,6 +1454,7 @@
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials
 * [Scratch](https://scratch.mit.edu/) / [Firefox Extension](https://scratchaddons.com/) / [Chrome Extension](https://www.scratchtools.app/) / [Package Projects](https://packager.turbowarp.org/) / [Increase Speed](https://turbowarp.org/), [2](https://github.com/TurboWarp/) / [Wiki / Guides](https://scratch-wiki.info/) / [GitHub](http://github.com/ScratchAddons/ScratchAddons) or [⁠MIT App Inventor](https://appinventor.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
+* [⁠Codeforces](https://codeforces.com/) - Competitive Programming
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
