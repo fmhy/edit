@@ -235,6 +235,7 @@
 
 ## ▷ Online PDF Toolkits
 
+* ⭐ **[fixmypdfs](https://fixmypdfs.cc/)** - Client-Side | 100% free, no watermark, no sign-up
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
