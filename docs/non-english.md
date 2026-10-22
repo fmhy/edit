@@ -742,7 +742,8 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [⁠MX Player on Prime](https://www.primevideo.com/collection/streamfree?tr=in) - Movies / TV / Free w/ Ads
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
-* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
+* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Anime / [Discord](https://discord.gg/SdFB3HxDH5)
+* [⁠Anixo](https://anixohindi.cc/) - Anime
 * [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [desidubanime](https://www.desidubanime.me/) - Anime
@@ -1571,6 +1572,7 @@
 * [kumanga](https://www.kumanga.com/) - Manga / Some NSFW
 * [absorbiendomangas2](https://absorbiendomangas2.blogspot.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
+* [⁠MangaOni](https://manga-oni.com/) - Manga / Some NSFW
 * [Scanlation](https://olympusxyz.com/) - Manga
 * [mangavault](https://mangavault.lat/) - Manga / Some NSFW / [Discord](https://discord.com/invite/GEzeWRRShM)
 * [⁠Spnmanga](https://www.spnmanga.com/) - Manga

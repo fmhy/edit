@@ -103,6 +103,47 @@
 
 ***
 
+## ▷ Art Galleries / Collections
+
+* ⭐ **[The Met](https://www.metmuseum.org/art/collection)** - Metropolitan Museum of Art Collection / Public-Domain Images
+* ⭐ **[Google Arts & Culture](https://artsandculture.google.com/)** - Museum Collections / Art Exhibitions
+* ⭐ **[Rijksmuseum](https://www.rijksmuseum.nl/en/collection)** - Dutch Art / Museum Collection / High-Resolution Downloads
+* ⭐ **[WikiArt](https://www.wikiart.org/)** - Visual Art Encyclopedia / Artist Collections
+* ⭐ **[Artic](https://www.artic.edu/collection)** - Art Institute of Chicago Collection / Open-Access Images
+* ⭐ **[NGA](https://www.nga.gov/)** - National Gallery of Art / Public-Domain Images / Open Data
+* ⭐ **[V&A](https://www.vam.ac.uk/)** - Victoria and Albert Museum Collections / Art / Design
+* ⭐ **[Louvre](https://collections.louvre.fr/en/)** - Art / Antiquities Collections / Historical Research
+* [MoMA](https://www.moma.org/collection/) - Museum of Modern Art Collection
+* [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en) - German Digital Cultural Heritage Collections
+* [VADS](https://vads.ac.uk/digital/) - UK Visual Arts / Design Archives / Digital Collections
+* [Ashmolean](https://ashmolean.org/collections-online) - Art / Archaeology Collections / Historical Research
+* [WGA](https://www.wga.hu/) - Web Gallery of Art / European Art History
+* [Public Work](https://www.cosmos.so/public-work) - Public-Domain Image Search
+* [The Last Museum](https://lastmuseum.com/) - Historical Artwork Search
+* [Artvee](https://artvee.com/) - Public Domain Art / Vintage Illustrations
+* [The Watercolour World](https://www.watercolourworld.org/) - Historical Watercolour Paintings / Archive
+* [NPG](https://www.npg.org.uk/collections/) - National Portrait Gallery Collection
+* [RCT](https://www.rct.uk/collection/) - Royal Collection Trust / British Royal Art Collections
+* [Semantic Art Search](https://semantic-art-search.com/) - Semantic Artwork Search / [GitHub](https://github.com/KristianMSchmidt/semantic-art-search)
+* [Centre Pompidou](https://www.centrepompidou.fr/en/collection) - Modern / Contemporary Art Collections
+* [Guggenheim](https://www.guggenheim.org/collection-online) - Modern / Contemporary Art Collections
+* [Frick](https://www.frick.org/art) - The Frick Collection / Fine Art
+* [Gardner Museum](https://www.gardnermuseum.org/experience/collection) - Isabella Stewart Gardner Museum Collection
+* [Museo](https://museo.app/) - Art Collections / Public-Domain Image Search
+* [Haltadefinizione](https://www.haltadefinizione.com/en/) - High-Resolution Art Images / Italian Art
+* [Artchive](https://www.artchive.com/) - Art History / Artist Collections
+* [Arthur](https://arthur.io/) - Art Discovery / Collections
+* [faenum](https://faenum.com/) - Public-Domain Artwork Search
+* [Gallerix](https://gallerix.org/) - Fine Art / Painting Collections
+* [S.D. Cason](https://sdcason.com/categories/) - Historical / Public-Domain Image Collections
+* [poly.booru](https://poly.booru.nl/) - Historical Artifact Images / [Discord](https://discord.gg/jHnYbGJZSn) / [GitHub](https://github.com/cosbooru/cosbooru)
+* [strauh.al](https://strauh.al/) - Digital Art Collection
+* [DarkClassics](https://darkclassics.blogspot.com/) - Historical / Classical Art Collections
+* [European Art](https://photos.app.goo.gl/q5GRdpSvARAqhbSh6) - European Artwork Collection
+* [The Wolfman Museum of Art](https://wolfmanmuseum.org/) - Digital Art Museum
+
+***
+
 ## ▷ Virtual Tours
 
 * 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
@@ -583,14 +624,13 @@
 # ► History
 
 * ↪️ **[Historical Film Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_film_archives)**
-* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
 * ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
 * ↪️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historical_maps)** - Map Resources
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
-* [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
+* [Smithsonian Institution Archives](https://siarchives.si.edu/), [⁠Princeton Digital Collections](https://digital-collections.princeton.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
 * [Museo](https://museo.app/) - Museum Search
 * [⁠The Rest is History Archive](https://archive.therestishistory.com/) - Era-Based Historical Podcast
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
@@ -666,6 +706,7 @@
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
 * [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
 * [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
+* [⁠Vintorez](https://vintorez.com/) - Russian & Soviet Military Gear Info / Photos
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [⁠Anzac Portal](https://anzacportal.dva.gov.au/) - Australian Military History / Stories
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
@@ -922,7 +963,7 @@
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 * 🌐 **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - Anime Machine Learning
-* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_galleries_.2F_collections)**
 * ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - Art Study Guides / Tips
 * ⭐ **[Drawabox](https://drawabox.com/)** / [Discord](https://discord.com/invite/drawabox), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR) or [FarsiTuts](https://t.me/farsituts) - Drawing Lessons
 * ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Figure Drawing Lessons
@@ -1820,6 +1861,7 @@
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/) or [KausalFlow](https://tools.kausalflow.com/) - Research Tool Indexes
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
+* ⭐ **[Zotero](https://www.zotero.org/)**, **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) or [⁠JabRef](https://www.jabref.org/) / [GitHub](https://github.com/JabRef/jabref) - Research Managers
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** or [Wolfram Mobile](https://rentry.co/FMHYB64#wolfram-mobile) - Searchable Knowledge Base
 * ⭐ **[Refseek](https://www.refseek.com/)** or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [⁠Paper Trails](https://www.papertrailshq.com/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Academic Article / Paper Trackers
@@ -1827,7 +1869,6 @@
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Scientific Articles
 * [OpenRefine](https://openrefine.org/) - Data Cleaning
 * [Foam](https://foambubble.github.io/) - Knowledge Management System
-* [Zotero](https://www.zotero.org/) - Research Assistant
 * [Scrible](https://www.scrible.com/) - Research / Writing Platform
 * [CATMA](https://catma.de/) - Research Markup & Analysis Tool
 * [GROBID](https://grobid.readthedocs.io) - Extract / Organize Scientific Document Info
@@ -1947,7 +1988,7 @@
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](https://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [Substance](https://substance.reorx.com/) - Extract Markdown
-* [UrlShortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
+* [URL Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener) - Shorten URLs
 * [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
 * [⁠Cite Unseen](https://meta.wikimedia.org/wiki/Cite_Unseen) - Adds Reliability Symbols to Sources / Account Required
 * [EntiTree](https://www.entitree.com/) - WikiData Visualization Tool / [GitHub](https://github.com/codeledge/entitree)

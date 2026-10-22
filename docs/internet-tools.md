@@ -28,7 +28,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [MyPublicWiFi](https://www.mypublicwifi.com/) - Turn PC into Wi-Fi Hotspot
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
-* [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack
+* [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack / [Microcontroller Support](https://github.com/attermann/microReticulum)
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
 * [Arcai](https://arcai.com/) - WiFi Speed Control
@@ -301,6 +301,7 @@
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search ROM Sites
 * [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
+* [⁠RaveBSD](https://ravebooksearch.com/) - Self-Hostable Book Search Engine
 
 ***
 
