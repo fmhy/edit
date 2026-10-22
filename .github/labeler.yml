@@ -1,0 +1,12 @@
+core:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'docs/.vitepress/**'
+          - 'scripts/**'
+          - 'api/**'
+          - '*'
+
+docs:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'docs/**/*.md'

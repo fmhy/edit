@@ -1,0 +1,40 @@
+name: Create Issue
+description: 'Help us improve FMHY for everyone'
+title: 'Issue form title'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue! Please select your issue type.
+  - type: markdown
+    attributes:
+      value: |
+        ### Things to note
+        * Anyone can suggest [changes or corrections](https://fmhy.net/other/contributing) to the wiki. Please read our [Contribution Guide](https://fmhy.net/other/contributing) before trying to add or remove anything.
+        * If you're adding a new site, please [search](https://fmhy.net/single-page.md) / [2](https://api.fmhy.net/single-page) (control + f) first to make sure we don't already have it.
+        * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
+        * You can send us stuff directly via [💬 Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
+        * You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Type that best describes this issue.
+      options:
+        - Bad sites
+        - Grammar / Markdown
+        - Site suggestion
+        - Wiki section suggestion
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Add additional context
+      description:
+        A clear and concise description of what the issue is, as per your
+        selected issue type.
+      placeholder: https://fmhy.net is cool and should be added
+    validations:
+      required: true

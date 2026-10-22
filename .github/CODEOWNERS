@@ -1,0 +1,4 @@
+docs/.vitepress/**/* @taskylizard
+api/**/* @taskylizard
+index.md @taskylizard
+
