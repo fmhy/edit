@@ -381,6 +381,14 @@
 
 ***
 
+## ▷ Model Weights
+
+* [⁠Pirate Face](https://pirateface.co/) - Model Weight Torrents 
+* [Hugging Face](https://huggingface.co/) - Open-Source AI Model Hub, Datasets & Spaces
+* [ModelScope](https://modelscope.cn/) - Open-Source AI Model Repository
+
+***
+
 ## ▷ AI Prompts
 
 * **Note** - Bypassing chatbot safeguards (aka jailbreaking) is against the TOS of most AI, so use them at your own risk.

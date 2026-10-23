@@ -1084,7 +1084,7 @@
 
 * ⭐ **[TradingView](https://www.tradingview.com/)**, **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
-* ⭐ **[Ghostfolio](https://ghostfol.io/)** - Investment Portfolio Tracker
+* ⭐ **[Ghostfolio](https://ghostfol.io/)** - Investment Portfolio Tracker / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio)
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
 * [Portfolio Performance](https://www.portfolio-performance.info/) - Portfolio Management / Performance Tracking
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
