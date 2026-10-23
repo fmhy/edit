@@ -337,6 +337,7 @@
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
 * [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset
 * [⁠osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! Installer for Linux
+* [Sober](https://sober.vinegarhq.org/) or [⁠Nightcap](https://github.com/CoderDayton/nightcap) - Roblox on Linux / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [⁠Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/), [2](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
 
 ***
