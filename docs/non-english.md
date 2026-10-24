@@ -11,7 +11,8 @@
 # ► Arabic / العربية
 
 * 🌐 **[⁠Faharys](https://t.me/faharys)** - Telegram Channel Index
-* [AdslGate](https://www.adslgate.com/) - Arabic Tech Forum
+* [Aosus](https://discourse.aosus.org/) - FOSS, Privacy & Linux Community / [Matrix](https://matrix.to/#/#aosus:aosus.org) / [Telegram](https://t.me/aosus) / [Discord](https://discord.gg/YJUzEhU955)
+* [AdslGate](https://www.adslgate.com/) - Tech Forum
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [⁠MiraiAnime](https://miraianime.net/) - Anime Subtitles
 
@@ -55,17 +56,22 @@
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
 * [al-fann](https://www.al-fann.net/) - Music
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Anime / Live TV / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
+* [⁠Rwaq](https://rwaq.org/) - Courses / Signup Required
+* [⁠Edraak](https://www.edraak.org/) - Courses / Signup Required
 
 ## ▷ Reading / القراءة
 
+* ⭐ **[⁠Arabic Collections Online (ACO)](https://aco.dlib.nyu.edu/)** - Public Domain Books
+* ⭐ **[hindawi](https://www.hindawi.org/)** - Educational Books
 * [Noor Book](https://www.noor-book.com/) - Books
 * [Shamela](https://shamela.ws/) - Books / Documents
 * [FoulaBook](https://foulabook.com/) - Books
 * [books-library](https://books-library.website/) - Books
 * [AlarabiMag](https://www.alarabimag.com/) - Books
+* [⁠متميزون للكتب](https://t.me/Motamayezon7) / [2](https://t.me/Motamayz00n) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
+* [⁠Waqfeya](https://waqfeya.net/) - Public Domain Books
 * [GedoLibrary_bot](https://telegram.me/GedoLibrary_bot) - Book Telegram Bot
-* [hindawi](https://www.hindawi.org/) - Educational Books
 * [Azoramoon](https://azorafly.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
@@ -459,7 +465,6 @@
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV
 * [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub
-* [nakastream](https://nakastream.wiki/) - Movies / TV / Anime / Invites in Discord / [Status](https://nakastream.wiki/) / [Telegram](https://t.me/nakastreamtv)
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up

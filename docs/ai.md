@@ -384,7 +384,8 @@
 
 ## ▷ Model Weights
 
-* [⁠Pirate Face](https://pirateface.co/) - Model Weight Torrents 
+* [⁠Pirate Face](https://pirateface.co/) or [⁠llama.garden](https://llama.garden/) - Model Weight Torrents
+* [⁠The Hugging Bay](https://huggingbay.xyz/) - Open-Source AI Model Catalog & Torrent Index
 * [Hugging Face](https://huggingface.co/) - Open-Source AI Model Hub, Datasets & Spaces
 * [ModelScope](https://modelscope.cn/) - Open-Source AI Model Repository
 

@@ -199,7 +199,7 @@
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU), [Pixel Gun Mayhem](https://pixelgunmayhem.net/) / [Discord](https://discord.gg/edfRwZrJFD) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
 * [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II/III PC Ports / [Discord](https://discord.gg/GfX3pmC)
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled), [⁠RecompOne](https://github.com/BlackLabelHQ/RecompOne) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
-* [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) - Mobile PC Ports / [Telegram](https://t.me/VAlpha_Official)
+* [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) / [Telegram](https://t.me/VAlpha_Official) or [NAPL](https://rentry.co/FMHYB64#napl) - Mobile PC Ports
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [⁠Flying With Gauss](https://discord.gg/CqgMJC7zsx) - GoldSrc Game Ports for Android + Other Platforms
 
@@ -457,6 +457,7 @@
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
 * [PlayGames](https://playgames.onl/) - Retro Consoles
+* [⁠Savi Games](https://savigames.com/) - Retro Consoles
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
@@ -720,6 +721,7 @@
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
+* [⁠SUMIKIRI](https://sumikiri.vercel.app/) - Hack-And-Slash Game / [Docs](https://thvariableyt.github.io/SUMIKIRI-/) / [GitHub](https://github.com/ThVariableYT/SUMIKIRI-/)
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [⁠HALDANE-4](https://haldane4.denisbondare.com/) - ASCII Horror Game
@@ -766,7 +768,7 @@
 * [FreeGames](https://freegames.org/) - Browser Game Aggregator
 * [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
 * [Web Games](https://webgames.me/) - Browser Game Aggregator
-* [Yandex Games](https://yandex.com/games/) - Browser Game Aggregator
+* [Yandex Games](https://yandex.com/games/) or [All Web Games](https://allwebgames.com/) - Browser Game Aggregator
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Game Aggregator
 * [⁠Play Games](https://www.play-games.com/) - Browser Game Aggregator / [Discord](https://discord.com/invite/JBShgaFPyD)
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
@@ -774,7 +776,7 @@
 * [Friv](https://www.friv.com/) - Browser Game Aggregator / [Old Site](https://www.friv.com/old/)
 * [⁠GamePuma](https://gamepuma.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
-* [⁠Agame](https://www.agame.com/) - Browser Game Aggregator
+* [⁠Agame](https://www.agame.com/), [2](https://games.co.uk/), [3](https://www.gamesgames.com/) - Browser Game Aggregator
 * [Flash by Night](http://www.flashbynight.com/) - Browser Game Aggregator
 * [FlashLegacy](https://www.flashlegacy.com/) - Browser Game Aggregator
 * [⁠Web Design Museum](https://www.webdesignmuseum.org/flash-games) - Browser Game Aggregator

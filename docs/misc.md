@@ -372,6 +372,7 @@
 * [DRdb](https://darkridedatabase.com/) - Dark Ride Database / [X](https://x.com/Team_DRDB)
 * [⁠IMAX Guide](https://143190.xyz/) - Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)
 * [FindFright](https://frightfind.com/) - Spooky Attractions / Walkthroughs
+* [⁠dark-tourism](https://dark-tourism.com/) - Respectful / Non-Sensationalist Guide to Historical, Memorial & Dark Tourism Sites
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
 * [⁠Trustroots](https://www.trustroots.org/) - Traveler Hospitality Community
@@ -649,6 +650,7 @@
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
 * [⁠WTFJHT](https://whatthefuckjusthappenedtoday.com/) - Daily US Political News Summaries
+* [⁠Bellingcat](https://www.bellingcat.com/) - Open-Source Investigative Journalism / [Discord](https://discord.gg/bellingcat) / [GitHub](https://github.com/bellingcat)
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [Healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
 * [MathURLs](https://mathurls.com/) - Math News
 * [Dailynous](https://dailynous.com/) - Philosophy News
@@ -1086,10 +1088,10 @@
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
 * ⭐ **[Ghostfolio](https://ghostfol.io/)** - Investment Portfolio Tracker / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio)
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
-* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Management / Performance Tracking
+* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Management / Performance Tracking / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
 * [Bogleheads](https://www.bogleheads.org/) - Long-Term Investing Resources
-* [ETFDB](https://etfdb.com/) - ETF Database / Comparisons
+* [ETFDB](https://etfdb.com/) (US) or [justETF](https://www.justetf.com/) (EU / UCITS) - ETF Research and Screening Platforms 
 * [Quiver Quantitative](https://www.quiverquant.com/) - Alternative Investment Data / Research
 * [Infolib](https://infolib.org/) - Financial News / Market Dashboard
 * [Weekly Market Recap](https://am.jpmorgan.com/) - Stock Market Recaps

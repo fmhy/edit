@@ -39,7 +39,6 @@
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses
 * ⭐ **[Gresham College](https://www.gresham.ac.uk/)** - Lectures / [YouTube](https://www.youtube.com/@GreshamCollege/videos)
 * ⭐ **[Class Central](https://www.classcentral.com/)** - Search for Courses
-* [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Saylor Academy](https://learn.saylor.org/) - Courses
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
@@ -51,6 +50,7 @@
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
+* [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 
 ***
 
@@ -641,6 +641,7 @@
 * [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
 * [HMDB](https://www.hmdb.org/) - Historical Marker Database
 * [⁠London Remembers](https://www.londonremembers.com/) - London Historical Marker Database
+* [⁠dark-tourism](https://dark-tourism.com/) - Respectful / Non-Sensationalist Guide to Historical, Memorial & Dark Tourism Sites
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [Emblematica Online](http://emblematica.grainger.illinois.edu/) - Renaissance Emblem Book & Image Archive
 * [⁠Ancient Graffiti](https://ancientgraffiti.org/) - Early Roman Handwritten Inscriptions
@@ -707,14 +708,17 @@
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
 * [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
 * [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
+* [⁠Center of Military History](https://history.army.mil/) - U.S. Military History / Collection
 * [⁠Vintorez](https://vintorez.com/) - Russian & Soviet Military Gear Info / Photos
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [⁠Anzac Portal](https://anzacportal.dva.gov.au/) - Australian Military History / Stories
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
 * [NHHC](https://www.history.navy.mil/), [⁠RNRA](https://www.royalnavyresearcharchive.org.uk/), [⁠NavSource](https://www.navsource.net/), [WarshipsResearch](https://warshipsresearch.blogspot.com/) or [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) / [X](https://x.com/NavyHistorian) - Naval & Maritime History Sites
 * [⁠NavWeaps](https://www.navweaps.com/) - Naval Weapons, Technology and Reunion History
+* [⁠Coast Guard Historian's Office](https://www.history.uscg.mil/) - U.S. Coast Guard History / Collection
 * [Shipbucket](https://www.shipbucket.com/) - Scale Drawings & Blueprints of Naval Ships / [Discord](https://discord.com/invite/5PHq8Dk)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
+* [⁠RAF Museum](https://www.rafmuseum.org.uk/our-collection/) - Royal Air Force Historical Collection / Stories
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [⁠F-16.net](https://www.f-16.net/) - F-16, F-22 and F-35 Info, History, Images, Stories & more
@@ -1580,6 +1584,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [⁠SEE](https://see.stanford.edu/) - Computer Science Courses
 * [CollegeCompendium](https://collegecompendium.org/) - Computer Science Courses
+* [Missing Semester](https://missing.csail.mit.edu/) - MIT Computing Skills Course / [GitHub](https://github.com/missing-semester/missing-semester)
 * [Gwern.net](https://gwern.net/) - Gwern Branwen Essays (AI, Psychology, & Statistics)
 * [Runestone Interactive](https://runestone.academy/) - Interactive Guides
 * [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
@@ -1910,6 +1915,9 @@
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
 * ⭐ **[Rink](https://rinkcalc.app/)**, [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [⁠OnlineConversion](https://onlineconversion.com/), [Frink](https://frinklang.org/fsp/frink.fsp) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
 * [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) - TI-84 Calculators
+* [⁠CalcPlex](https://calcplex.com/) - Graphing Calculator Guides
+* [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
+* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
@@ -1918,11 +1926,8 @@
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [Kalker](https://kalker.xyz/), [⁠SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/index.html), [Learnbin Lab](https://lab.learnbin.net/) or [Numbat](https://numbat.dev/) - Scientific Calculators
-* [TICalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
-* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [⁠Numla](https://numla.app/) / [GitHub](https://github.com/davidesantangelo/numla) or [Math Notepad](https://mathnotepad.com/) - Live Calculative Notepads
 * [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/), [⁠Maxima](https://maxima.sourceforge.io/) or [Symbolab](https://www.symbolab.com/) - Math / Algebra Problem Solvers
-* [⁠CalcPlex](https://calcplex.com/) - Graphing Calculator Guides
 
 ***
 
@@ -1972,10 +1977,10 @@
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
 * [Encyclopedia](https://www.encyclopedia.com/)
-* [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/)
+* [New World Encyclopedia](https://www.newworldencyclopedia.org/)
 * [Citizendium](https://citizendium.org/)
 * [Wikitia](https://wikitia.com/)
-* [InfoPlease](https://www.infoplease.com/)
+* [Infoplease](https://www.infoplease.com/)
 * [Refdesk](https://www.refdesk.com/factency.html)
 * [HandWiki](https://handwiki.org/)
 

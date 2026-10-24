@@ -52,6 +52,7 @@
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
+* [⁠HatchZip](https://github.com/xevrion/hatchzip) - Extract Archives While Freeing Disk Space
 * [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) or [Minuimus](https://birds-are-nice.me/software/minuimus.html) - File Archivers / Optimizers
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
@@ -310,14 +311,14 @@
 
 ## ▷ P2P Transfer
 
-* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - Web
-* ⭐ **[JustBeamIt](https://justbeamit.com/)** - Web
+* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) / Web
+* ⭐ **[JustBeamIt](https://justbeamit.com/)** / Web
 * [Surge](https://github.com/rule110-io/surge) - P2P App / Windows, macOS
-* [ToffeeShare](https://toffeeshare.com/) - Web / [GitHub](https://github.com/ToffeeShare)
-* [⁠Station307](https://www.station307.com/) - Web
-* [new.space](https://new.space/) - iOS, Web
+* [ToffeeShare](https://toffeeshare.com/) / Web / [GitHub](https://github.com/ToffeeShare)
+* [⁠Station307](https://www.station307.com/) / Web
+* [new.space](https://new.space/) / iOS, Web
 * [WebWormhole](https://webwormhole.com/) - [Chrome](https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webwormhole/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/saljam/webwormhole)
-* [⁠Clip Fish](https://clip.fish/) - Web / [GitHub](https://github.com/clip-fish/web)
+* [⁠Clip Fish](https://clip.fish/) / Web / [GitHub](https://github.com/clip-fish/web)
 
 ***
 
@@ -355,6 +356,7 @@
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh)
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
+* [⁠Stashr](https://stashr.wtf/) - 1GB / 30 days
 * [⁠ATM](https://atm.rip/) - 10GB / Forever
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
 * [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
@@ -365,7 +367,6 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/price)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
-* [⁠Stashr](https://stashr.wtf/) - 1GB / Forever
 * [Upload.bg](https://upload.bg/) - 10GB / 30 Days
 * [⁠Zipyshare](https://zipyshare.com/) - 5GB / 7 Days After Last Download / Longer for Smaller Files
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)

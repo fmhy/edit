@@ -73,7 +73,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.st/)**
 * **Downloading: [lucida](https://lucida.to/) / [Nicotine+](https://nicotine-plus.org/)**
-* **Android: [⁠ArchiveTune](https://archivetune.miuka.moe/) / [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [Mornye](https://mornye.com/)**
+* **Android: [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [⁠ArchiveTune](https://archivetune.miuka.moe/) / [Mornye](https://mornye.com/)**
 * **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.vercel.app/) / [EeveSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 

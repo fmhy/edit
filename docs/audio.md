@@ -735,6 +735,7 @@
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
 * [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
+* [⁠Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
 * [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
