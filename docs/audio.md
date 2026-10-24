@@ -1002,6 +1002,7 @@
 * [BitMidi](https://bitmidi.com/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Fadr](https://fadr.com/) or [StemRoller](https://www.stemroller.com/) / [GitHub](https://github.com/stemrollerapp/stemroller) - STEM Creator / Editors
+* [Gleam Audio](https://gleamaudio.com/) - On-device AI cleanup, enhance, editor for voice and audio
 
 ***
 
