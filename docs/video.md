@@ -77,7 +77,6 @@
 * [StreamVaults](https://streamvaults.ru/) or [ReelStream](https://rreelstream.live/) - Movies / TV / Anime / [Telegram](https://t.me/streamvaultscrew)
 * [GreyBox](https://greyboxtv.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/8Cujv2VNp)
 * [Kofi](https://kofi.mov/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JsJqRzrjaG)
-* [Cinesu](https://cine.su/) - Movies / TV / Anime / [Discord](https://discord.gg/Ss2x86nsvK)
 * [frameXTV](https://framextv.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/vPCHZ6PgRX)
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 
@@ -155,9 +154,9 @@
 * [Vidbox](https://vidbox.vc/), [2](https://cinehd.vc/), [3](https://hotflix.to/), [4](https://vidbox.wtf/) - Movies / TV / Anime / Auto-Next / [Status](https://vidbox.website/) / [Discord](https://discord.gg/VGQKGPM9Ej)
 * [Zencine](https://zencine.org/) - Movies / TV / Anime / [Discord](https://discord.gg/beWuUrKhHP)
 * [CineWave](https://watch.cinewave.qzz.io/) - Movies / TV / Anime / Auto-Next
-* [CineStream](hhttps://cinestream2.kje.us/) - Movies / TV / Anime
+* [CineStream](https://cinestream2.kje.us/) - Movies / TV / Anime
 * [Youflex](https://youflex.top/) - Movies / TV / Anime
-* [Flixzy](https://flixzy.pages.dev/) - Movies / TV / Anime / [Discord](https://discord.gg/GDfP8S243T)
+* [Flixzy](https://flixzy.mooo.com/) - Movies / TV / Anime / [Discord](https://discord.gg/GDfP8S243T)
 * [FilmCave](https://filmcave.ru/) or [Flixway](https://flixway.ru/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/fmcave) / [Discord](https://discord.gg/BtpYzMbDjH)
 * [321Movies](https://321movies.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/5CETfHBD7R)
 * [FRAME](https://www.framemovie.online/) - Movies / TV / Anime
@@ -687,6 +686,7 @@
 * [OvertakeFans](https://overtakefans.com/) - Motorsports Replays
 * [r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
 * [RacingLap](https://racinglap.net/) - Motorsports Replays
+* [MotoMundo](https://motomundo.net/) - Motorsports Replays
 * [Rerace](https://www.rerace.net/) - Motorsports Replays
 * [F1 Live](https://f1live.dpdns.org/) - Motorsports Replays
 * [NontonGP](https://replay.nontonx.com/) - Motorcycle Racing Replays

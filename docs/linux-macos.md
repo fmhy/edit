@@ -744,6 +744,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [appnetica](https://appnetica.com/?platform=mac) - Mac Games
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
+* [MacSteam](https://github.com/crghofficial/macsteam) - Steam Game + DLC Unlocker
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 * [PortingKit](https://www.portingkit.com/) - Run Windows Games on Mac
 * [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games on Mac
