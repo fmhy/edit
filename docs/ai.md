@@ -20,14 +20,14 @@
 * [Kimi](https://www.kimi.ai/), [2](https://www.kimi.com/) - Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [ChatGPT](https://chatgpt.com/) - GPT-6 Luna / Unlimited / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [⁠LongCat](https://longcat.ai/chat/) - LongCat 2.0 / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
-* [Tencent AI Studio](https://aistudio.tencent.com/) - ⁠Hy3 / Unlimited / Sign-Up
+* [Tencent AI Studio](https://aistudio.tencent.com/) - ⁠Hy4 Preview / Unlimited / Sign-Up
 * [⁠MiMo Studio](https://aistudio.xiaomimimo.com/) - MiMo-V2.6-Pro / MiMo-V2.6 flash / Sign-Up
 * [Grok](https://grok.com/) - Grok 4.6 / Agent / Traffic-Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Gemini](https://gemini.google.com/) - Gemini 3.5 Flash-Lite / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Microsoft Copilot](https://copilot.microsoft.com) - GPT-5.2 (Think Deeper) / Sign-Up / [Limits](https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas)
 * [Claude](https://claude.ai/) - Claude Sonnet 5.5 / Requires Sign-Up + Sometimes Phone # / [Add Features](https://github.com/Nagi-ovo/voyager) / [Resources](https://awesomeclaude.ai/) / [Learning](https://github.com/ComposioHQ/awesome-claude-skills), [2](https://github.com/BehiSecc/awesome-claude-skills) / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/6PPFFzqPDZ)
 * [⁠Chat Motif](https://chat.motiftech.io/chat) - Motif 3 / Unlimited
-* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 / Agent / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3.1 Flash / Agent / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
 * [Mistral](https://chat.mistral.ai) or [Mistral Studio](https://console.mistral.ai/home) - Mistral Medium 3.5 / [Subreddit](https://www.reddit.com/r/MistralAI/) / [Discord](https://discord.gg/mistralai)
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)
 * [⁠Solar](https://solar-chat.upstage.ai/) - Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
@@ -35,7 +35,7 @@
 * [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
 * [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam 105B / Unlimited / Sign-Up
 * [⁠Poolside AI](https://chat.poolside.ai/) - Laguna S 2.1 / Laguna XS 2.1
-* [⁠Inception](https://chat.inceptionlabs.ai/) - Mercury 2 / Unlimited
+* [⁠Inception](https://chat.inceptionlabs.ai/) - Mercury 3 / Unlimited
 
 ***
 
