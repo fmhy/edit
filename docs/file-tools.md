@@ -345,6 +345,7 @@
 * [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days w/ Account
 * [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Requires Signup
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
+* [⁠filez.stream](https://filez.stream/) - 500GB / 60 Days After Last Download
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
 * [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
@@ -358,6 +359,7 @@
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
 * [⁠Stashr](https://stashr.wtf/) - 1GB / 30 days
 * [⁠ATM](https://atm.rip/) - 10GB / Forever
+* [eDisk](https://www.edisk.cz/) - 10GB / 30 Days
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
 * [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
@@ -365,6 +367,7 @@
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/price)
+* [FileFast](https://file.fast/) - 5GB / Unlimited / [Discord](https://discord.com/invite/PnHjVGfjQa)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [Upload.bg](https://upload.bg/) - 10GB / 30 Days
@@ -374,15 +377,14 @@
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Signup
 * [⁠Transfr](https://www.transfr.me/) - 100GB / 7 Days
 * [GigaFile](https://gigafile.nu/) - 300GB / 100 Days
+* [⁠FilesYard](https://filesyard.com/) - 10GB / 15 Days
 * [UploadNow](https://uploadnow.io/) - 100GB / 7 Days After Last Download
-* [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [Depositfiles](https://depositfiles.com/) - 10GB / 90 Days
 * [⁠TheUserCloud](https://theuser.cloud/) - 10GB / 60 Days
 * [Hexupload](https://hexload.com/) - 15GB / 30 Days
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
-* [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days

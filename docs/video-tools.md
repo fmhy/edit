@@ -538,6 +538,8 @@
 ## ▷ Stock Videos
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
+* [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) or [Wikimore](https://git.private.coffee/privatecoffee/wikimore#instances) - Wiki Commons Video Files
 * [⁠Destockd](https://www.destockd.com/) - Stock Videos
 * [Moving Image Archive](https://www.movingimagearchive.com/) - Stock Videos
 * [Pexels](https://www.pexels.com/) - Stock Videos

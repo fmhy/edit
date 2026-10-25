@@ -531,8 +531,8 @@
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
+* ⭐ **[OpenChamber](https://openchamber.dev/)** - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
-* [OpenChamber](https://openchamber.dev/) - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
@@ -549,7 +549,7 @@
 * [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
 * [⁠Pi](https://pi.dev/) - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
 * [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)
-* [⁠cmux](https://cmux.com/) - Terminal Coding Agent / Emulator / macOS / [GitHub](https://github.com/manaflow-ai/cmux)
+* [⁠cmux](https://cmux.com/) - Terminal Emulator for Agents / macOS / [GitHub](https://github.com/manaflow-ai/cmux)
 * [⁠Poolside AI](https://docs.poolside.ai/api/overview) - Coding AI API
 * [getdesign.md](https://getdesign.md/) - AI-Ready Design Systems
 
@@ -790,6 +790,7 @@
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
+* [Wisp](https://code.wispweb.dev/wispdev/wisp/ https://wispweb.dev/) - Web Framework for Rust / [Source Code](https://code.wispweb.dev/wispdev/wisp/)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Giscus](https://giscus.app/) or [Remarkbox](https://www.remarkbox.com/) - Site Comment Systems

@@ -66,13 +66,13 @@
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database / [Discord](https://discord.gg/cpAUpDK) / [GitHub](https://github.com/OpenModelDB/open-model-database)
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / Windows, macOS, Linux / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/)
-* ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
 * ⭐ **[image-upscaling](https://image-upscaling.net/)** - Image Upscaling / Web
 * [chaiNNer](https://chainner.app/) - Image Upscaling / Windows, macOS, Linux / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
 * [InColor](https://www.myheritage.com/incolor) - B&W Image Colorization / Web / Requires Sign-Up
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / Windows, macOS, Linux
 * [Face Restoration](https://github.com/TencentARC/GFPGAN) or [CodeFormer](https://github.com/sczhou/CodeFormer) - Face Restoration Algorithms / Windows, macOS, Linux
 * [⁠bigger.pics](https://bigger.pics/) - Image Upscaling / Web
+* [WaifuXL](https://waifuxl.com/) - Anime Image Upscaling / Web / [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL)
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [⁠Upscal](https://upscal.app/) - Image Upscaling / Windows, macOS
@@ -819,7 +819,6 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu) / [Tools / Extensions](https://catbox.moe/tools.php)
 * [sxcu.net](https://sxcu.net/) - Free ShareX Uploader Service / 95MB / N/A
 * [FreeImage.Host](https://freeimage.host/) - 64MB (128MB W/ Account) / Forever
-* [imgbox](https://imgbox.com/) - 10MB / Forever
 * [i](https://tikolu.net/i/) - 8MB / Forever
 * [IMGPile](https://imgpile.com/) - 100MB / Forever
 * [YourImageShare](https://yourimageshare.com/) - 100MB / Forever
@@ -829,6 +828,7 @@
 * [⁠ImageUpload](https://imageupload.app/) - 32MB / Forever
 * [Kepkuldes](https://kepkuldes.com/) - 40MB / Forever
 * [⁠Img Fish](https://img.fish/) - 95MB / Forever
+* [imgbox](https://imgbox.com/) - 10MB / Forever
 * [Pikky](https://pikky.net/) - 20MB / Forever
 * [⁠Lightshot](https://prnt.sc/) - Forever
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever

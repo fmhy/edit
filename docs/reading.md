@@ -438,7 +438,7 @@
 * [MangaFire](https://mangafire.to/) / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [MangaNato](https://www.manganato.gg/), [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * [Nyora](https://web.nyora.xyz/) - Multi-Site Manga Aggregator
-* [⁠Tobari](https://tobari.moe/) - Multi-Site Manga Aggregator
+* [⁠Tobari](https://tobari.moe/) - Multi-Site Manga Aggregator / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/⁠tobari.md)
 * [⁠bManga](https://bmanga.dedyn.io/) - Multi-Site Manga Aggregator
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi-Site Manga Aggregator / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaKatana](https://mangakatana.com/)

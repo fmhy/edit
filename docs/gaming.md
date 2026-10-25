@@ -50,7 +50,7 @@
 
 ## ▷ Game Repacks
 
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
+* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. They allow you to unselect unnecessary / optional bonus content, and occasionally have extras not included in other releases. Good if you have low bandwidth or data limits.
 
 ***
 
@@ -197,7 +197,7 @@
 * [⁠P.T. PC](https://github.com/LoreanXavier/pt-pc/) - ⁠P.T. PC Port
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [Pixel Gun World](https://pgun.rilisoft.info/) / [Discord](https://discord.com/invite/pHteGmZzbU), [Pixel Gun Mayhem](https://pixelgunmayhem.net/) / [Discord](https://discord.gg/edfRwZrJFD) or [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revivals / PC Ports
-* [Infinity Blade PC](https://www.reddit.com/r/infinityblade) - Infinity Blade I/II/III PC Ports / [Discord](https://discord.gg/GfX3pmC)
+* [Infinity Blade](https://www.reddit.com/r/infinityblade) - Infinity Blade Trilogy Ports / [Discord](https://discord.gg/GfX3pmC)
 * [N64Recomp](https://github.com/N64Recomp/N64Recomp), [XenonRecomp](https://github.com/hedge-dev/XenonRecomp), [GB-Recompiled](https://github.com/arcanite24/gb-recompiled), [⁠RecompOne](https://github.com/BlackLabelHQ/RecompOne) or [PS2Recomp](https://github.com/ran-j/PS2Recomp) - Static Recompilers / Native PC Porting Tools
 * [⁠V-Alpha](https://discord.com/invite/dqs3VPxbC8) / [Telegram](https://t.me/VAlpha_Official) or [NAPL](https://rentry.co/FMHYB64#napl) - Mobile PC Ports
 * [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
@@ -422,6 +422,7 @@
 
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
 * ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
+* [⁠CHD Station](https://chdstation.com/) - ROMs / PS1 / PS2 / PSP
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
@@ -768,7 +769,7 @@
 * [FreeGames](https://freegames.org/) - Browser Game Aggregator
 * [GamezHero](https://www.gamezhero.com/) - Browser Game Aggregator
 * [Web Games](https://webgames.me/) - Browser Game Aggregator
-* [Yandex Games](https://yandex.com/games/) or [All Web Games](https://allwebgames.com/) - Browser Game Aggregator
+* [Yandex Games](https://yandex.com/games/), [PlayHob](https://playhop.com/) or [All Web Games](https://allwebgames.com/) - Browser Game Aggregator
 * [yell0wsuit](https://yell0wsuit.page/games.html) - Browser Game Aggregator
 * [⁠Play Games](https://www.play-games.com/) - Browser Game Aggregator / [Discord](https://discord.com/invite/JBShgaFPyD)
 * [GamePix](https://www.gamepix.com/) - Browser Game Aggregator
@@ -979,6 +980,7 @@
 * [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/) / [Subreddit](https://www.reddit.com/r/PolyTrack/) / [Discord](https://discord.com/invite/NqEwseAcZ9)
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
+* [Road Rash](https://roadrash.pages.dev/) - Road Rash Adaptation ⁠
 * [⁠Swervle](https://swervle.com/) - Daily Racing Game / [Discord](https://discord.com/invite/sSP8ZEJ9Pn)
 * [slow roads](https://slowroads.io/) - Driving Game
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game

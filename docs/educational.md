@@ -225,7 +225,7 @@
 * ⭐ **[OEIS](https://oeis.org/)** - Encyclopedia of Integer Sequences
 * [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
 * [⁠Algebrica](https://algebrica.org/) - Mathematical Concept Database
-* [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
+* [Red Blob Games](https://www.redblobgames.com/), [⁠Mathua](https://mathua.com/) / [GitHub](https://github.com/chuma-beep/mathua) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Learning
 * [Matthen](https://blog.matthen.com/) - Math Animations
 * [⁠Math Discord](https://discord.gg/math) - Math Help / Community Discord
 * [⁠Mathematical Olympiads](https://mathematics.isodn.org/) - Mathematical Olympiads Discord Community / [Discord](https://discord.gg/KCdTTF5)
@@ -372,6 +372,7 @@
 * [⁠Nature This Week](https://naturethisweek.com/) - View Nature / Biology News from any Location
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
 * [LibreTexts Biology](https://bio.libretexts.org/Bookshelves) - Biology Learning / Guides
+* [⁠HHMI BioInteractive](https://www.biointeractive.org/) - Interactive Biology Learning
 * [Bodily Oddities](https://bodilyoddities.com/) - Human Anatomy Oddities Catalog
 * [Project ⁠Alveus Sanctuary](https://www.alveussanctuary.org/) - 24/7 Educational Wildlife Live Streams / Conservation Project
 * [⁠BioNinja](https://ib.bioninja.com.au/) - IB Biology Reference / Study Guide
@@ -709,7 +710,7 @@
 * [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
 * [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
 * [⁠Center of Military History](https://history.army.mil/) - U.S. Military History / Collection
-* [⁠Vintorez](https://vintorez.com/) - Russian & Soviet Military Gear Info / Photos
+* [⁠Vintorez](https://vintorez.com/) - Russian & Soviet Military Gear Info / Photos / [X](https://x.com/RusforK)
 * [Imperial War Museums](https://www.iwm.org.uk/) - British & Commonwealth War Footage / [X](https://x.com/I_W_M)
 * [⁠Anzac Portal](https://anzacportal.dva.gov.au/) - Australian Military History / Stories
 * [Tank Archives](https://www.tankarchives.com/) - WW2 Armoured Warfare Documents / [X](https://x.com/Tank_Archives)
@@ -1865,7 +1866,10 @@
 
 ## ▷ Research Tools
 
+
 * 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [Scolary](https://scolary.com/) or [KausalFlow](https://tools.kausalflow.com/) - Research Tool Indexes
+
+
 * ↪️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
 * ↪️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ⭐ **[Zotero](https://www.zotero.org/)**, **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) or [⁠JabRef](https://www.jabref.org/) / [GitHub](https://github.com/JabRef/jabref) - Research Managers
