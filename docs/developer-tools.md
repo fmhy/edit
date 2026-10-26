@@ -790,7 +790,7 @@
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
 * [GoatCounter](https://www.goatcounter.com/), [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/), [Rybbit](https://github.com/rybbit-io/rybbit), [MS Clarity](https://clarity.microsoft.com/) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
-* [Wisp](https://code.wispweb.dev/wispdev/wisp/ https://wispweb.dev/) - Web Framework for Rust / [Source Code](https://code.wispweb.dev/wispdev/wisp/)
+* [Wisp](https://wispweb.dev/) - Web Framework for Rust / [Source Code](https://code.wispweb.dev/wispdev/wisp/)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Giscus](https://giscus.app/) or [Remarkbox](https://www.remarkbox.com/) - Site Comment Systems

@@ -43,7 +43,7 @@
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV
 * [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
-* [witanime](https://www.witanime.net/) - Anime / Sub / 1080p
+* [WitAnime](https://witanime.site/) - Anime / Sub / 1080p
 * [ristoanime](https://ristoanime.me/) - Anime
 * [⁠Anime Phoenix](https://anime-phoenix.com/) - Anime
 * [Kawaii Anime](https://kirmalk.com/) - Anime

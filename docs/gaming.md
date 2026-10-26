@@ -421,7 +421,6 @@
 ## ▷ Playstation ROMs
 
 * ⭐ **[NoPayStation](https://nopaystation.com/)** - ROMs / PS3 / PSP / PSVita / [Discord](https://discord.com/invite/rNGrkUY)
-* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [⁠CHD Station](https://chdstation.com/) - ROMs / PS1 / PS2 / PSP
 * [AlvRo](https://rentry.co/FMHYB64#alvro) - ROMs / PS2 / PW: `ByAlvRo`
 * [DLPSGame](https://dlpsgame.com/) - ROMs / PS2 / PS3 / PS4 / PS5 / **Avoid PC Games**
