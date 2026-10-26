@@ -1003,6 +1003,7 @@
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)**, [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
+* [Premium Lounge](https://premiumloungeapp.netlify.app/) - Movies / TV / Anime / 1080p / Firestick (`3802573`)
 * [CineHD](https://cinehd.dev/) - Movies / TV / Anime / Drama / Live TV
 * [Shiopa Mobile](https://help.shiopa.com/docs/) - Movies / TV / Anime
 * [⁠FlixQuest](https://flix.quest/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
