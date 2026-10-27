@@ -818,6 +818,7 @@
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstaller / [GitHub](https://github.com/alienator88/Pearcleaner)
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller / Custom Resolutions / HDR Control
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
+* [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - External Monitor Window / Space Layout Restorer
 * [OpenDisplay](https://opendisplay.app/) - Use iOS Device as Secondary macOS Monitor / [GitHub](https://github.com/peetzweg/opendisplay)
 * [⁠EasyDMG](https://github.com/jeff-schumann/EasyDMG) - Automated DMG Installation Tool
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
