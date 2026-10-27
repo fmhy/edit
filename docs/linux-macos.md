@@ -83,7 +83,7 @@
 * 🌐 **[GNOME Shell Extensions](https://extensions.gnome.org/)**
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
 * ↪️ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_office_suites)**
-* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs/Bottles)
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)**, [GearLever](https://github.com/mijorus/gearlever) or [⁠AppManager](https://github.com/kem-a/AppManager) - Integrate AppImages to App Launchers
@@ -289,7 +289,7 @@
 * ↪️ **[Steam Deck Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_steam_deck)**
 * ⭐ **[Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** or **[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)** - Game Compatibility Database / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV)
-* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
+* ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine Containers / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs/Bottles)
 * ⭐ **[SLSsteam](https://cs.rin.ru/forum/viewtopic.php?f=29&t=146352&hilit=SLSsteam)** - Steamclient Mod w/ DLC Unlocker and Emulated Achievements / [Auto Install / Update](https://github.com/Deadboy666/h3adcr-b) / [Discord](https://discord.com/invite/j3ZzjeV4eQ) / [GitHub](https://github.com/AceSLS/SLSsteam)
 * ⭐ **[Accela](https://github.com/ciscosweater/enter-the-wired)** - Steam Game + DLC Unlocker / [Setup Guide](https://redd.it/1tniqhc)
 * ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)** or [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/) - Linux Compatibility Tool Managers
