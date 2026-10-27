@@ -707,6 +707,7 @@
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images / Web
 * [Bulk Image Resize](https://bulkimageresize.com/) - Image Resize / Web
 * [BulkResizePhotos](https://bulkresizephotos.com/) - Image Compress & Resize / Web
+* [Bagofa](https://bagofa.com.com/) - Free Online Image, PDF & File Compress & Resize / Web
 * [AutoCropper](https://www.autocropper.io/), [Bulk Image Crop](https://bulkimagecrop.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools / Web
 
 ***
