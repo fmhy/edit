@@ -13,6 +13,7 @@
 * 🌐 **[⁠Faharys](https://t.me/faharys)** - Telegram Channel Index
 * [Aosus](https://discourse.aosus.org/) - FOSS, Privacy & Linux Community / [Matrix](https://matrix.to/#/#aosus:aosus.org) / [Telegram](https://t.me/aosus) / [Discord](https://discord.gg/YJUzEhU955)
 * [AdslGate](https://www.adslgate.com/) - Tech Forum
+* [⁠Elfehrest](https://elfehrest.com/) - Blog Aggregator
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [⁠MiraiAnime](https://miraianime.net/) - Anime Subtitles
 
@@ -70,6 +71,7 @@
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [⁠متميزون للكتب](https://t.me/Motamayezon7) / [2](https://t.me/Motamayz00n) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
+* [⁠8ghrb](https://8ghrb.com/) - Books / Light Novels
 * [⁠Waqfeya](https://waqfeya.net/) - Public Domain Books
 * [GedoLibrary_bot](https://telegram.me/GedoLibrary_bot) - Book Telegram Bot
 * [Azoramoon](https://azorafly.com/) - Manga
@@ -1483,7 +1485,7 @@
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
-* [Series.ly](https://series.ly/) - Movies / TV / Anime / Signup Required / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
+* [Cinubo](https://cinubo.com/) - Movies / TV / Anime / Signup Required / [Status](https://enlaces.ly/) / [Telegram](https://t.me/seriesly) / [Discord](https://discord.com/invite/pmDQYHxjnA)
 * [Tubepelis](https://www.tubepelis.com/) - Movies / TV
 * [7Movies](https://7movies.ac/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)

@@ -113,7 +113,7 @@
 * ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - Detects if Current Site is Trusted / Untrusted / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
 * [BleepingComputer](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/malware-removal-forums.md)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) - On-Demand AV Scanner
-* [⁠rifteyy](https://rifteyy.org/) - Malware Removal Guides / Blog
+* [⁠rifteyy](https://rifteyy.org/) - Malware Removal Guides / Blog / [Infostrealer Prevention / Recovery](https://rifteyy.org/report/the-ultimate-guide-to-infostealers)
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Detect It Easy](https://github.com/horsicq/detect-it-easy) - File Identification + Static Inspection Tool
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
@@ -484,7 +484,7 @@
 * [⁠FlClash](https://github.com/chen08209/FlClash/blob/main/README.md) / Windows, macOS, Linux, Android
 * [husi](https://github.com/xchacha20-poly1305/husi) - Proxy Client / Android
 * [⁠Exclave](https://github.com/dyhkwong/Exclave) - Proxy Client / Android
-* [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / Windows, macOS, Android
+* [Proxifier](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Add Proxy Functionality to Apps / Windows, macOS, Android
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy / Windows, macOS, Linux
 
 ***
@@ -502,7 +502,6 @@
 * [⁠FilterWatch](https://filter.watch/english/) - Censorship News / Articles
 * [ByeByeDPI](https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md), [Rethink DNS](https://rethinkdns.com/app), [⁠Paqet](https://github.com/hanselime/paqet), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - Network Packet Alter / Packet Level Proxies
 * [YouTubeUnblock](https://github.com/Waujito/youtubeUnblock) - Unblock YouTube with SNI Spoof / OpenWrt / Entware Routers
-* [Scamalytics](https://scamalytics.com/) - Check IP Blacklists
 
 ***
 

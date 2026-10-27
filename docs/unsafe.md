@@ -79,23 +79,32 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ### Software / Apps
 
 * Downloadly (video downloader) - Crypto miner
-* McAfee - Preinstalled Bloatware
-* Avast - Known for [selling user data](https://wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
-* AVG - Owned by Avast
-* Gen Digital (formerly NortonLifeLock) - Parent company of Norton, Avast, and Avira
-* Avira - Owned by Gen Digital
 * Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots
 * Nightcord - Got caught [logging peoples discord tokens](https://i.ibb.co/gbG0SYhM/image.png) on previous versions
-* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
-* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
-* Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
+* Kik (messaging app) - App used by many [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://clarasguide.valeena.workers.dev/Announcements/gshade_notice/)
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)
 * 360 Total Security - Apps give [constant popups](https://wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
+
+***
+
+### Not Recommended 
+
+* **Note** - Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.
+
+***
+
+* McAfee - Preinstalled Bloatware
+* Avast - Known for [selling user data](https://wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
+* AVG - Owned by Avast
+* Gen Digital (formerly NortonLifeLock) - Parent company of Norton, Avast, and Avira
+* Avira - Owned by Gen Digital
+* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
+* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 
 ***
 
