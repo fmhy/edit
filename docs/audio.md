@@ -779,6 +779,7 @@
 * [MusicKit](https://musickit.jull.dev/), [⁠Tuner](https://codeberg.org/thetwom/Tuner) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) or [⁠Tonalics](https://tonalics.com/) - Instrument Tuners
 * [Tunebat](https://tunebat.com/) or [QO & SPECTRE](https://docs.google.com/spreadsheets/u/0/d/1QEvWoGa10BctJ1yqDgZl3IoY8bhB3AwbHzgCHjJ5neI/htmlview) - Music Key / BPM Databases
+* [Tera Studio Tools](https://terastudio.co/tools/) - Song Key / Tempo Changer, BPM / Key Finder & Vocal Range Test
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 
