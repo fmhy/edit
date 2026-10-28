@@ -299,6 +299,7 @@
 * [Unyo](https://github.com/K3vinb5/Unyo) - Anime Streaming App / Windows, macOS, Linux
 * [Miru](https://miru.js.org/en/) - Anime Streaming App / Windows, macOS, Linux / [Telegram](https://t.me/MiruChat) / [GitHub](https://github.com/miru-project/miru-app)
 * [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming CLI / Windows, macOS, Linux
+* [Kari](https://github.com/Dhairya3391/kari) - Anime / Movies / TV / Cartoons Streaming TUI / Windows, macOS, Linux, Android (Termux)
 
 ***
 
