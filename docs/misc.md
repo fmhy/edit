@@ -65,7 +65,6 @@
 ## ▷ Random Sites / Discovery
 
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
-* ⭐ **[Random FMHY Sites](https://ffmhy.pages.dev/)** - Find Random Sites Listed on FMHY / Works Per Page / [Use Button](https://i.ibb.co/xrqkVGJ/image.png), [2](https://i.imgur.com/88eNtD4.png)
 * [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
@@ -1086,7 +1085,7 @@
 
 * ⭐ **[TradingView](https://www.tradingview.com/)**, **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
-* ⭐ **[Ghostfolio](https://ghostfol.io/)** - Investment Portfolio Tracker / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) / [GitHub](https://github.com/ghostfolio/ghostfolio)
+* ⭐ **[Wealthfolio](https://wealthfolio.app/)** / [X](https://x.com/WealthfolioApp) / [Discord](https://discord.gg/WDMCY6aPWK) / [GitHub](https://github.com/wealthfolio/wealthfolio), [Ghostfolio](https://ghostfol.io/) / [GitHub](https://github.com/ghostfolio/ghostfolio) / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) or [Portfolio Performance](https://www.portfolio-performance.info/en/) / [GitHub](https://github.com/portfolio-performance/portfolio) - Investment Portfolio Trackers / Management
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
 * [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Management / Performance Tracking / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
@@ -1315,6 +1314,7 @@
 * [High Def Digest](https://www.highdefdigest.com/) - Blu-ray Release Calendar / Database / Reviews
 * [Releases](https://www.releases.com/) - Blu-Ray / DVD Release Calendar
 * [DVDs Release Dates](https://www.dvdsreleasedates.com/) - DVD Release Calendar
+* [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details
 * [JustWatch Deals](https://www.justwatch.com/us/on-sale) - Digital Movie + Show Deals
 * [⁠IPTV Surf](https://iptv.surf/) - IPTV Service Guide / Toolkit
 * [⁠StreamCheck](https://search.streamcheck.pro/) - IPTV Provider Channel Checker
@@ -1416,7 +1416,6 @@
 
 ## ▷ Multi Tool Sites
 
-* 🌐 **[Mr Free Tools](https://mrfreetools.com/)** - Find Free Tools
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[⁠HeyTools](https://heytools.app/)** - Text / PDF / Image / Code
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
@@ -1689,7 +1688,7 @@
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [⁠Stowaway](https://stowaway.live/) - Live 3D Flight Window Seat Simulator
-* [OpenScope](https://www.openscope.io/) - Air Traffic Control Simulator
+* [OpenScope](https://www.openscope.io/) or [⁠Vectors](https://vectorsatc.com/) - Air Traffic Control Simulators
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Jellify](https://sc420.github.io/jellify-ur-website/) - Turn Websites to Jelly / [GitHub](https://github.com/sc420/jellify-ur-website)
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator

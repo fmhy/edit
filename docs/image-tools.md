@@ -532,7 +532,7 @@
 * [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
 * [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [All STL](https://t.me/allstll), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
-* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
+* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT), [⁠PrintWhat](https://printwhat.app/) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Requires Sign-Up
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Figurosity](https://figurosity.com/) - Human 3D Models
@@ -735,35 +735,34 @@
 
 ## ▷ Image Viewers
 
-* ⭐ **[IrfanView](https://www.irfanview.com/)**
-* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)**
-* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
-* ⭐ **[qView](https://interversehq.com/qview/)** / [GitHub](https://github.com/jurplel/qView)
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnview/)**
-* ⭐ **[Digikam](https://www.digikam.org/)** / [Source Code](https://invent.kde.org/graphics/digikam)
-* ⭐ **[ImageGlass](https://imageglass.org/)** / [GitHub](https://github.com/d2phap/ImageGlass)
-* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
-* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
-* [qimgv](https://github.com/easymodo/qimgv)
-* [oculante](https://github.com/woelper/oculante)
-* [⁠Zeiger](https://zeigerviewer.com/)
-* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos)
-* [QuickView](https://github.com/justnullname/QuickView)
-* [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
-* [PhotoQt](https://github.com/luspi/photoqt)
-* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer)
-* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / [GitHub](https://github.com/neelabo/NeeView)
-* [PicView](https://picview.org/)
-* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
-* [Image Eye](https://www.fmjsoft.com/imageeye.html)
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [HoneyView](https://en.bandisoft.com/honeyview/)
-* [picturama](https://picturama.github.io/)
-* [narrative](https://narrative.so/)
-* [G'MIC](https://gmic.eu/)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
-* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers
-* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
+* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
+* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
+* ⭐ **[FastStone](https://www.faststone.org/index.htm)** / Windows
+* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnview/)** / Windows, macOS, Linux
+* ⭐ **[Digikam](https://www.digikam.org/)** / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
+* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows, macOS, Linux / [GitHub](https://github.com/d2phap/ImageGlass)
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* [nomacs](https://nomacs.org/) / Windows, macOS, Linux / [GitHub](https://github.com/nomacs/nomacs)
+* [qimgv](https://github.com/easymodo/qimgv) / Windows, macOS, Linux
+* [oculante](https://github.com/woelper/oculante) / Windows, Linux
+* [⁠Zeiger](https://zeigerviewer.com/) / Windows, macOS
+* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos) / Windows
+* [QuickView](https://github.com/justnullname/QuickView) / Windows
+* [Diffractor](https://www.diffractor.com/) / Windows / [GitHub](https://github.com/diffractor/diffractor)
+* [PhotoQt](https://photoqt.org/) / Windows, Linux / [GitHub](https://github.com/luspi/photoqt)
+* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer) / Windows
+* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
+* [PicView](https://picview.org/) / Windows, macOS
+* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, Linux
+* [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
+* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / Windows
+* [picturama](https://picturama.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/picturama/picturama)
+* [G'MIC](https://gmic.eu/) / Windows, Linux 
+* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux 
+* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux 
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux 
+
 
 ***
 

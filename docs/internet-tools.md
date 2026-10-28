@@ -31,7 +31,7 @@
 * [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack / [Microcontroller Support](https://github.com/attermann/microReticulum)
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
-* [Arcai](https://arcai.com/) - WiFi Speed Control
+* [Arcai](https://arcai.com/) or [⁠Throttle](https://github.com/FrancescoCoding/Throttle) - Bandwidth Monitor + Limiters
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
 * [PortChecker](https://portchecker.co/), [CanYouSeeMe](https://canyouseeme.org/), [ping.pe](https://ping.pe/), [PortCheckers](https://www.portcheckers.com/) or [RustCat](https://github.com/robiot/rustcat) - Port Checkers
 * [Waveform Test](https://www.waveform.com/tools/bufferbloat) or [LibreQoS Test](https://test.libreqos.com/) - Test Bufferbloat / Ping Under Load
@@ -66,6 +66,7 @@
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Instances](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem#list-of-public-instances-open-for-registration) / [Resources](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
+* [wallhop]()https://wallhop.io/ - Paywall Bypass Tool
 * [⁠UnWall](https://unwall.app/) - Paywall Bypass Tool
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
@@ -120,7 +121,7 @@
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
 * [Altus](https://github.com/amanharwara/altus) - WhatsApp Client / Windows, macOS, Linux
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, macOS, Linux
-* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
+* [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web / [GitHub](https://github.com/tomer8007/whatsapp-web-incognito)
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers / Web
 * [⁠Proton Meet](https://proton.me/meet) - Video Chat / All Platforms
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / Web / [GitHub](https://github.com/miroslavpejic85/mirotalk)
