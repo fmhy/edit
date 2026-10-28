@@ -510,6 +510,7 @@
 
 # ► Fonts
 
+* ⭐ **[LiterallyEveryFont](https://www.literallyeveryfont.com/)** - Internet-wide Font Aggregator
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Icon-Rich Developer / Terminal Fonts
 * [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
