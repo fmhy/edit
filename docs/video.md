@@ -36,6 +36,7 @@
 * [moanatv.](https://lfmx.app/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/EPHJzCZEq)
 * [Nippleflix](https://nippleflix.com/), [Redflix](https://redflix.one/), [2](https://redflix.club/) or [PantyFlix](https://pantyflix.com/) - Movies / TV / Anime / Auto-Next / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)
 * [BingeBang](https://bingebang.st/) - Movies / TV / Anime / Auto-Next / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)
+* [AllFlix](https://allflix.org/) - Movies / TV / Anime / [Discord](https://discord.com/invite/x6dmEX4W6b)
 * [Lightflix](https://lightflix.app/) or [Afterdusk](https://afterdusk.app/) - Movies / TV / Anime / Auto-Next / 4K
 * [Moonflix](https://moonflix.website/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/Moonflix_official_Channel)
 * [ThugTV](https://thugtv.online/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)
