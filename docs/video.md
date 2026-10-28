@@ -462,7 +462,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - Movies / VPN May Be Required
 * [KissAsian](https://wwv21.kissasian.com.lv/), [2](https://kisskh.fr/) - TV / Movies
 * [KissKH](https://kisskh.ovh/), [2](https://kisskh.id/), [3](https://kisskh.is/), [4](https://kisskh.club/) - TV / Movies
-* [⁠KDrama](https://k-drama.in/) - TV / Movies
+* [⁠KDrama](https://k-drama.in/) - TV / Movies / [Discord](https://discord.com/invite/hf3F25dRv) / [Telegram](https://t.me/kat_drama_in)
 * [⁠DramaNice](https://dramanice.boo/) - TV / Movies
 * [Dramahood](https://dramahood.mom/) - TV / Movies
 * [⁠KissNeo](https://kissneo.co/) - TV / Movies
