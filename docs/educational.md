@@ -365,7 +365,7 @@
 
 * 🌐 **[⁠Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)** - Bioinformatics Learning Resources + Tools
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
-* ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
+* ⭐ **[OneZoom](https://www.onezoom.org/)** or [⁠Ptree](https://ptree.org/) - Tree of Life Reference / Explorers
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Rediscovered Animal / Plant Database
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [⁠Wayne's Word](https://www.waynesword.net/) - Biology and Botany Information / Learning
@@ -1801,10 +1801,10 @@
 
 ***
 
-## ▷ JEE / NEET
+## ▷ India Exam Prep
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah-studystark) or [StudyShark](https://rentry.co/FMHYB64#pwallah-studystark) - Exam Prep / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs

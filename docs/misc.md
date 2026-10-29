@@ -580,6 +580,8 @@
 * [NLS Maps](https://maps.nls.uk/) - Historical Maps of Scotland
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [ORBIS](https://orbis.stanford.edu/) - Interactive Simulation of Roman Trade & Travel Logistics
+* [⁠Battles of the Romans](https://iosiflazaridis.github.io/battles-of-the-romans/) - Interactive Historical Roman Battle Map
+* [Where the Greeks Fought](https://iosiflazaridis.github.io/ancient-greek-battles/) / [Modern](https://iosiflazaridis.github.io/modern-greek-battles/) - Interactive Historical Greek Battle Map
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [⁠Theban Mapping Project](https://thebanmappingproject.com/) - Theban Necropolis / Valley of the Kings Mapping Project
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
@@ -1087,7 +1089,6 @@
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
 * ⭐ **[Wealthfolio](https://wealthfolio.app/)** / [X](https://x.com/WealthfolioApp) / [Discord](https://discord.gg/WDMCY6aPWK) / [GitHub](https://github.com/wealthfolio/wealthfolio), [Ghostfolio](https://ghostfol.io/) / [GitHub](https://github.com/ghostfolio/ghostfolio) / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) or [Portfolio Performance](https://www.portfolio-performance.info/en/) / [GitHub](https://github.com/portfolio-performance/portfolio) - Investment Portfolio Trackers / Management
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
-* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Management / Performance Tracking / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
 * [Bogleheads](https://www.bogleheads.org/) - Long-Term Investing Resources
 * [ETFDB](https://etfdb.com/) (US) or [justETF](https://www.justetf.com/) (EU / UCITS) - ETF Research and Screening Platforms 
@@ -1391,7 +1392,7 @@
 * [⁠anruler](https://anruler.com/) - Online Ruler
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
-* [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
+* [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) / [International](https://mwood77.github.io/ws4kp-international/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
 * [Wheel Decide](https://wheeldecide.com/), [SpinWheelPlus](https://spinwheelplus.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [PickerWheel](https://pickerwheel.com/), [SpinWheelify](https://spinwheelify.com/), [SpinTheWheel](https://spinthewheel.io/), [HeySpinner](https://heyspinner.com/), [SpinTheWheel](https://spinthewheel.net/), [TheSpinnerWheel](https://thespinnerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers / Spinners
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators

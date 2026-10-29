@@ -717,6 +717,7 @@
 * [Rayman Legends Beatbox](https://rentry.co/FMHYB64#rmb) - Browser Rayman Legends Beatbox
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 * [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Trail with Alt Dysentery Mechanics
+* [⁠Glider 4.0](https://dbohdan.github.io/glider/) - Browser Glider 4.0 (1991) + Room Editor / [GitHub](https://github.com/dbohdan/glider)
 * [⁠Hotfix](https://www.hotfix.fun/) - WarioWare-Style 'Hot-Fix' Micro-Game
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots

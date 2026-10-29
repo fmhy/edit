@@ -330,13 +330,11 @@
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Patterns
 * [Background Tiles](https://background-tiles.com/) - Patterns
 * [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators
-* [⁠Normal Map Generator](https://normalmapgenerator.art/) - 2D to 3D Texture Map Converter
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [Discord](https://discord.com/invite/975NdQPsSc) / [GitHub](https://github.com/njbrown/texturelab)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Noise & Gradient](https://www.noiseandgradient.com/), [⁠FeralUI Gradients](https://feralui.dev/gradients), [PhotoGradient](https://photogradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
-* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://textures.spriters-resource.com/) - Game Textures
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
 
@@ -587,6 +585,8 @@
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [PaintUp](http://technohippy.github.io/teddyjs/) or [⁠VGGT](https://huggingface.co/spaces/facebook/vggt) - Make 2D Art into 3D
+* [⁠Normal Map Generator](https://normalmapgenerator.art/) - 2D to 3D Texture Map Converter
+* [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [⁠STL-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail Generator for 3D Model Files
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking / [GitHub](https://github.com/alicevision)
@@ -801,7 +801,7 @@
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Requires Sign-Up
 * [imgchest](https://imgchest.com/) - 10MB (30MB with Account) / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/) / [Proxy / Unblocker](https://greasyfork.org/scripts/558123)
-* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_morphe_.2F_revanced_tools) - 200MB / 15GB Cloud / Forever
+* [Google Photos](https://photos.google.com/) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers) - 200MB / 15GB Cloud / Forever
 * [Zonerama](https://eu.zonerama.com/) - Unlimited / Forever
 * [Ente](https://ente.com/) - Unlimited / 10GB Cloud
 * [Piczel](https://piczel.tv/) - 10MB / Forever / Requires Sign-Up

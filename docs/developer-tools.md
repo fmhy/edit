@@ -530,7 +530,7 @@
 ***
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
-* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
+* ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
 * ⭐ **[OpenChamber](https://openchamber.dev/)** - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
