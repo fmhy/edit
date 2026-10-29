@@ -20,7 +20,7 @@
 ## ▷ Downloading / تحميل
 
 * ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [Stardima](https://www.stardima.com/) - Movies / TV / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
+* [Stardima](https://www.stardima.com/) - Anime / Cartoon / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
 * [MyCima](https://mycima.gdn/) - Movies / TV / Anime / Hard Subs
 * [FilmCity](https://m.filmcity12.com/) - Movies
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -38,19 +38,18 @@
 
 * ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [EgyBest](https://egybest.la/) - Movies / TV / Anime
+* ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinema.io/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [kirmalk](https://kirmalk.com/kr19) - Movies / TV
+* [EgyBest](https://egybest.la/) - Movies / TV / Anime
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV
-* [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
-* [WitAnime](https://witanime.site/) - Anime / Sub / 1080p
-* [RistoAnime](https://ristoanime.me/) - Anime
-* [⁠Anime Phoenix](https://anime-phoenix.com/) - Anime
-* [Kawaii Anime](https://kawaiianime.cc/) - Anime
-* [⁠Animerco](https://animerco.org/) - Anime
+* [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
+* [kirmalk](https://kirmalk.com/kr19) - Movies / TV
 * [⁠Anime4up](https://anime4up.rest/) - Anime
+* [⁠Animerco](https://animerco.org/) - Anime
 * [AnimeZid](https://animezid.cam/) - Anime / Cartoons
+* [RistoAnime](https://ristoanime.me/) - Anime
+* [Kawaii Anime](https://kawaiianime.cc/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
 * [⁠ani-cli-arabic](https://ani-cli-arabic.dev/) - Anime CLI / [GitHub](https://github.com/np4abdou1/ani-cli-arabic)
 * [arabic-toons](https://www.arabic-toons.com/) - Cartoons
@@ -672,6 +671,7 @@
 
 # ► Indian Languages
 
+* ↪️ **[India Exam Prep](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_india_exam_prep)**
 * [Ad-Link Bypass Bot](https://t.me/Nick_Bypass_Bot)
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
@@ -730,7 +730,7 @@
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use PlayTorrioHTTP Plugin / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV3)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.now/) - Tamil Movies / TV / Dub / 1080p / 720p
-* [1Shows](http://1shows.bz), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
+* [1Shows](http://1shows.org), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies
 * [tamilbulb](https://tamilbulb.cc/) - Tamil Movies
 * [tamilblasters](https://www.1tamilblasters.tech/) - Movies / TV / Anime

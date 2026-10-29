@@ -503,7 +503,6 @@
 * [Twitch Scroll Wheel Volume](https://greasyfork.org/en/scripts/420862) - Add Scroll Wheel Volume to Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
-* [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [SullyGnome](https://sullygnome.com/), [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats

@@ -709,7 +709,7 @@
 * [⁠Pitchfork](https://pitchfork.com/) or [The Fork](https://the-fork.vercel.app/) - Reviews
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
-* [⁠Melondy](https://melondy.com/) - Curated List of Albums Rated by Anthony Fantano
+* [⁠Melondy](https://melondy.com/) or [⁠The Drop](https://the-drop-reviews.vercel.app/) - Search Albums Rated by Anthony Fantano
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest 100 Lists
