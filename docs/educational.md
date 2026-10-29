@@ -1624,7 +1624,7 @@
 * [Data Science Intro Guide](https://florian-huber.github.io/data_science_course/) or [Data Science First Intro](https://python.datasciencebook.ca/) - Data Science with Python Intro Guides
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
-* [R for Data Science](https://r4ds.had.co.nz/) - R Data Science Guide
+* [R for Data Science](https://r4ds.hadley.nz) - R Data Science Guide / [Solutions](https://mine-cetinkaya-rundel.github.io/r4ds-solutions)
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - ggplot2 Guide
 * [Scipy Lectures](https://lectures.scientific-python.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Course
