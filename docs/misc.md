@@ -975,6 +975,7 @@
 ***
 
 ## ▷ Remote Jobs
+* [CryptoJobsHub](https://www.cryptojobshub.io/) - Remote crypto, Web3, and tech jobs.
 
 * 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** or [Established Remote](https://github.com/yanirs/established-remote) - Remote Job Resources
 * 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - Remote Friendly Company Index / [GitHub](https://github.com/remoteintech/remote-jobs)
