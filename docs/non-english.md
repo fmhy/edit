@@ -47,7 +47,7 @@
 * [kirmalk](https://kirmalk.com/kr19) - Movies / TV
 * [⁠Anime4up](https://anime4up.rest/) - Anime
 * [⁠Animerco](https://animerco.org/) - Anime
-* [AnimeZid](https://animezid.cam/) - Anime / Cartoons
+* [AnimeZid](https://animezid.org/) - Anime / Cartoons
 * [RistoAnime](https://ristoanime.me/) - Anime
 * [Kawaii Anime](https://kawaiianime.cc/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
@@ -72,6 +72,7 @@
 * [⁠8ghrb](https://8ghrb.com/) - Books / Light Novels
 * [⁠Waqfeya](https://waqfeya.net/) - Public Domain Books
 * [GedoLibrary_bot](https://telegram.me/GedoLibrary_bot) - Book Telegram Bot
+* [⁠Kindleeon](https://t.me/kindleeon) - Books for Kindle
 * [Azoramoon](https://azorafly.com/) - Manga
 * [KenManga](https://ar.kenmanga.com/) - Manga
 * [hijala](https://www.hijala.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
@@ -344,6 +345,7 @@
 * [uschovna](https://www.uschovna.cz/) - Czech File Hosts
 * [NoCard](https://nocard.cz/) - Public Czech Club Cards / [Android App](https://github.com/HelloOO7/Karticky)
 * [spojenka](https://spojenka.cz/) - Public Czech Transport App
+* [⁠Metroskop](https://metroskop.cz/) - Prague Public Transport Map
 
 ## ▷ Downloading / Stahování
 
@@ -560,7 +562,7 @@
 * [KinoX](https://www.kinox.to/), [2](https://www.kinos.to), [3](https://www.kinoz.to) - Movies / TV / Anime
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
 * [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime
-* [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p
+* [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p / [Mirrors](https://filmo.domains/)
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [megakino3](https://megakino20.com/) - Movies / TV / Anime
 * [streamkiste.taxi](https://streamkiste.bid/) - Movies / TV / Dub / 720p
@@ -750,6 +752,7 @@
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Anime / [Discord](https://discord.gg/SdFB3HxDH5)
 * [⁠Anixo](https://anixohindi.cc/) - Anime
+* [⁠Anime Sky](https://animesky.app/) - Anime
 * [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [desidubanime](https://www.desidubanime.me/) - Anime

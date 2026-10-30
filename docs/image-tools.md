@@ -735,34 +735,33 @@
 
 ## ▷ Image Viewers
 
-* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
-* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
-* ⭐ **[FastStone](https://www.faststone.org/index.htm)** / Windows
-* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnview/)** / Windows, macOS, Linux
-* ⭐ **[Digikam](https://www.digikam.org/)** / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
 * ⭐ **[ImageGlass](https://imageglass.org/)** / Windows, macOS, Linux / [GitHub](https://github.com/d2phap/ImageGlass)
-* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
+* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
+* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
+* [⁠Zeiger](https://zeigerviewer.com/) / Windows, macOS
+* [QuickView](https://github.com/justnullname/QuickView) / Windows
+* [FastStone](https://www.faststone.org/index.htm) / Windows
+* [XnView MP](https://www.xnview.com/en/xnview/) / Windows, macOS, Linux
+* [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
 * [nomacs](https://nomacs.org/) / Windows, macOS, Linux / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv) / Windows, macOS, Linux
-* [oculante](https://github.com/woelper/oculante) / Windows, Linux
-* [⁠Zeiger](https://zeigerviewer.com/) / Windows, macOS
-* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos) / Windows
-* [QuickView](https://github.com/justnullname/QuickView) / Windows
-* [Diffractor](https://www.diffractor.com/) / Windows / [GitHub](https://github.com/diffractor/diffractor)
-* [PhotoQt](https://photoqt.org/) / Windows, Linux / [GitHub](https://github.com/luspi/photoqt)
 * [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer) / Windows
-* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
-* [PicView](https://picview.org/) / Windows, macOS
-* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, Linux
-* [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
 * [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / Windows
+* [Digikam](https://www.digikam.org/) / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
+* [oculante](https://github.com/woelper/oculante) / Windows, Linux
+* [PicView](https://picview.org/) / Windows, macOS
+* [Diffractor](https://www.diffractor.com/) / Windows / [GitHub](https://github.com/diffractor/diffractor)
+* [G'MIC](https://gmic.eu/) / Windows, Linux
+* [⁠FlyPhotos](https://github.com/riyasy/FlyPhotos) / Windows
+* [PhotoQt](https://photoqt.org/) / Windows, Linux / [GitHub](https://github.com/luspi/photoqt)
+* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, Linux
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
 * [picturama](https://picturama.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/picturama/picturama)
-* [G'MIC](https://gmic.eu/) / Windows, Linux 
 * [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux 
 * [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux 
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux 
-
 
 ***
 

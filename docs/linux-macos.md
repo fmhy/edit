@@ -632,7 +632,7 @@
 * [Adobe Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Adobe Product Downloader / [Telegram](https://t.me/X1a0He_bot)
 * [ss64 macOS](https://ss64.com/mac/) - macOS Bash Commands
 * [Left on Read](https://leftonread.me/) - iMessage Client
-* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Oscilla](https://apps.apple.com/app/id6759628356), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [CodexBar](https://codexbar.app/) - Menu Bar AI Limit Tracker / [GitHub](https://github.com/steipete/CodexBar)
 * [NetNewsWire](https://netnewswire.com/) or [ViennaRSS](https://www.vienna-rss.com/) - RSS Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
@@ -713,7 +713,7 @@
 * [⁠Kaset](https://github.com/sozercan/kaset/) - YouTube Music Clients
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - SoundcCoud Client
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
-* [EQMac](https://eqmac.app/) - Audio Equalizer
+* [EQMac](https://eqmac.app/) or [CoreEQ](https://github.com/andreypudov/core-eq) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
 * [⁠Silkwave Clarity](https://www.silkwave.ai/silkwave-clarity) - Noise Suppression Software
 * [Guitarix](https://guitarix.org/) - Virtual Guitar Amplifier / [Plugins](https://github.com/brummer10/GxPlugins.lv2)
@@ -752,6 +752,7 @@
 * [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games on Mac
 * [⁠Highball](https://github.com/gauthierpiarrette/highball) - Run Windows Games on Apple Silicon
 * [⁠Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - Create Wine Wrapped Game Ports for Mac
+* [⁠MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Run Switch Games Natively on Apple Silicon
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Mythic](https://getmythic.app/) - Epic Games Launcher / [Discord](https://discord.gg/58NZ7fFqPy)
 * [⁠MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) - Frame Generation + Upscaling Tool

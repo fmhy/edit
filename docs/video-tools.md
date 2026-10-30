@@ -63,6 +63,7 @@
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
+* [UQLOAD](https://uqload.vc/) - 5GB / Forever
 * [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 Days Since Last Download
 * [Streamtape](https://streamtape.com/), [2](https://streamtape.to/) - 15GB / Requires Sign-Up
 * [Dubz](https://dubz.co/) - 100MB / Forever

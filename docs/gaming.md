@@ -829,7 +829,6 @@
 * 🌐 **[⁠UBGHub](https://ubghub.org/)** - Index of Unblocked Game Sites / [Discord](https://discord.gg/7CMSEmzBDC)
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * ⭐ **[mizu](https://mizumath.com/study.html)** - Browser Games / [Discord](https://discord.gg/MwKRJkJrJB)
-* ⭐ **[⁠anko](https://useanko.xyz/games)** - Browser Games / [Discord](https://discord.gg/anko)
 * [⁠Obsidian](https://playobsidian.com/store) - Browser Games / Ports
 * [Truffled](https://truffled.lol/g) - Browser Games / Ports / [Discord](https://discord.com/invite/truffled)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
@@ -1199,6 +1198,7 @@
 * [⁠GeoDuels](https://geoduels.io/) - Multiplayer GeoGuessr Alt
 * [GuessWhereYouAre](https://guesswhereyouare.com/) - Multiplayer GeoGuessr Alt
 * [OpenGuessr](https://openguessr.com/) - Multiplayer GeoGuessr Alt
+* [⁠Maponica](https://maponica.com/) - Video-Based Multiplayer Geoguessr Alt
 * [WorldGuessr](https://www.worldguessr.com/) - GeoGuessr Alt
 * [FreeGuessr](https://freeguessr.com/) - GeoGuessr Alt
 * [City Guesser](https://virtualvacation.us/guess) - Video-Based GeoGuessr

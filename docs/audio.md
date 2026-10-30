@@ -391,7 +391,7 @@
 * ⭐ **[lucida](https://lucida.to/)** - Amazon Music / Soundcloud / FLAC / AAC / MP3 / [Status](https://status.lucida.to/status/lmbr) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.com/invite/dXEGRWqEbS)
 * ⭐ **[Monochrome](https://monochrome.st/)** - Multi-Site / FLAC / AAC / MP3 / E-AC3 / AC-4 / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / Qobuz / Deezer / Tidal / FLAC / [Telegram](https://t.me/lucidahasmusic)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
 * [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / 320 AAC / 128 MP3 / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
@@ -691,6 +691,7 @@
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [Talpa Search](https://www.talpasearch.com/) - Find Albums by Describing Them
 * [MyPitchFork](https://mypitchfork.fun/) - Individual Song Rating / Tracking
+* [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [DAHR](https://adp.library.ucsb.edu/index.php) - American Historical Recordings Database
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
 * [AME](https://gitlab.com/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
@@ -700,20 +701,21 @@
 
 ## ▷ Curated Recommendations
 
-* ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
-* ⭐ **[Shfl](https://theshfl.com/)** - Album Recommendations
-* ⭐ **[r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
-* [Sputnik](https://www.sputnikmusic.com/) - Ratings / Reviews
-* [AlbumOfTheYear](https://www.albumoftheyear.org/) - Ratings / Reviews / [API](https://aoty.prigoana.pw/)
-* [AllMusic](https://www.allmusic.com/) - Ratings / Reviews
-* [⁠Pitchfork](https://pitchfork.com/) or [The Fork](https://the-fork.vercel.app/) - Reviews
-* [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
-* [⁠Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Album Recommendation Charts
-* [⁠Melondy](https://melondy.com/) or [⁠The Drop](https://the-drop-reviews.vercel.app/) - Search Albums Rated by Anthony Fantano
+* ⭐ **[AnyDecentMusic](https://anydecentmusic.com/)** - Aggregated Critics' Album Ratings
+* ⭐ **[AlbumOfTheYear](https://www.albumoftheyear.org/)** - Critic & User Ratings / Album Charts / [Unofficial API](https://aoty.prigoana.pw/)
+* ⭐ **[Shfl](https://theshfl.com/)** - Curated Album Discovery / Genre & Label Filters
+* ⭐ **[Bandcamp Daily](https://daily.bandcamp.com/)** - Independent Music Recommendations / [Hidden Gems](https://daily.bandcamp.com/hidden-gems)
+* ⭐ **[The Quietus](https://thequietus.com/charts/)** - Independent Music Reviews / Monthly & Annual Charts
+* [AllMusic](https://www.allmusic.com/) - Expert Album Reviews / Artist Recommendations
+* [Sputnikmusic](https://www.sputnikmusic.com/) - Staff & User Album Reviews
+* [Pitchfork](https://pitchfork.com/) / [The Fork](https://the-fork.vercel.app/) - Album Reviews / Searchable Review Database
+* [Resident Advisor](https://ra.co/reviews) - Electronic Music Reviews / Recommended Releases
+* [Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Community Album Recommendation Charts
+* [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Community Music Recommendations
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
-* [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
-* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest 100 Lists
-* [CET](https://rentry.org/CET) / [2](https://rentry.co/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
+* [MusicTo](https://www.musicto.com/) - Human-Curated Playlists
+* [The Drop](https://the-drop-reviews.vercel.app/) / [Melondy](https://melondy.com/) - Anthony Fantano Album Ratings & Recommendations
+* [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest Music Lists by Genre & Era
 
 ***
 
@@ -742,6 +744,7 @@
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Genre Guide
 * [⁠HappyHardcore](https://www.happyhardcore.com/forums/) - Hardcore Dance Music Forum
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
+* [CET](https://rentry.org/CET) / [2](https://rentry.co/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
 
 ***
 

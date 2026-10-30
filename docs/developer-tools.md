@@ -807,7 +807,7 @@
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
-* [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy) or [Nginx](https://nginx.org/) - Web Servers
+* [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy) or [Nginx](https://nginx.org/) / [GitHub](https://github.com/nginx/nginx) - Web Servers
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [⁠TestLocally](https://testlocal.ly/) - Global Website Screenshot / Localization 
@@ -817,7 +817,7 @@
 * [uMap](https://umap-project.org/) - Custom Embeddable Maps for Websites / [GitHub](https://github.com/umap-project/umap/)
 * [Google Map Themes](https://snazzymaps.com/) - Google Map Themes for Web Developers
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
-* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery
+* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery / [GitHub](https://github.com/weserv/images)
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them

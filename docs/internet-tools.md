@@ -28,7 +28,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [MyPublicWiFi](https://www.mypublicwifi.com/) - Turn PC into Wi-Fi Hotspot
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
-* [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack / [Microcontroller Support](https://github.com/attermann/microReticulum)
+* [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack / [Multi-Platform Client](https://github.com/ratspeak/Ratspeak) / [Microcontroller Support](https://github.com/attermann/microReticulum)
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
 * [Arcai](https://arcai.com/) or [⁠Throttle](https://github.com/FrancescoCoding/Throttle) - Bandwidth Monitor + Limiters
@@ -150,6 +150,7 @@
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
 * [⁠FreeQRApp](https://freeqrapp.com/) - Generator / Customizable
+* [⁠QR Code Buddy](https://github.com/JMcrafter26/qr-code-buddy-extension) - Generator / Customizable / Extension
 * [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - Scanner / Windows
 * [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
 * [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
@@ -438,7 +439,7 @@
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [Neir](https://neir.io/) - Number-Free Email
+* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [⁠Mailo](https://mailo.com/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) or [Neir](https://neir.io/) - Number-Free Email
 * [⁠Zoho Mail](https://www.zoho.com/mail) - Free Email Hosting / Custom Domains
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
@@ -739,6 +740,7 @@
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages
+* [⁠QR Code Buddy](https://github.com/JMcrafter26/qr-code-buddy-extension) - QR Generator / Customizable / Extension
 * [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - Copy Title / URL of a Tab
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet

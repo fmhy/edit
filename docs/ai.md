@@ -176,6 +176,7 @@
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - Desktop App / Local Models / [X](https://x.com/Amuse_AI)
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 * [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
+* [⁠Awesome Opus 5.5 Videos](https://skillry.dev/ai-videos/opus-5-5) - Video Gen Prompts / [GitHub](https://github.com/yihui-dev/awesome-opus5-5-videos)
 
 ***
 
