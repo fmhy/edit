@@ -24,9 +24,10 @@
 ***
 
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, macOS, Linux, Android / [Firefox](https://addons.mozilla.org/firefox/addon/ab-download-manager/) / [Chrome](https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
-* ⭐ **[JDownloader](https://jdownloader.org/)** - Download Manager / Windows, macOS, Linux
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, macOS, Linux
 * ⭐ **JDownloader Tools** - [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/)
 * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+* [Xtreme Download Manager](https://xtremedownloadmanager.com/) / [Github](https://github.com/subhra74/xdm)
 * [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [Rayburst](https://rayburst.pages.dev) - Download Manager / [GitHub](https://github.com/AnInsomniacy/rayburst)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, macOS, Linux, Android
