@@ -354,7 +354,7 @@
 * [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 * [APatch](https://github.com/bmax121/APatch)
 * [⁠Magisk Alpha](https://t.me/magiskalpha)
-* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
+* [BakaSU](https://bakasu.org/) / [GitHub](https://github.com/Baka-SU/BakaSU) / [Telegram](https://t.me/BAKASU_grp)
 * [MTKClient](https://github.com/bkerler/mtkclient)
 * [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su)
 * [FolkPatch](https://fp.mysqil.com/en) / [GitHub](https://github.com/matsuzaka-yuki/FolkPatch)
