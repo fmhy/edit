@@ -759,9 +759,9 @@
 * [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
 * [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
 * [picturama](https://picturama.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/picturama/picturama)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux 
-* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux 
-* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux 
+* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux
+* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux
 
 ***
 
