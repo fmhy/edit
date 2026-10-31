@@ -19,6 +19,7 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
+* [Mornye](https://github.com/mornyeapp/Mornye-Desktop) - Streaming
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
 * [Muffon](https://muffon.netlify.app/) - Streaming
@@ -574,9 +575,9 @@
 ***
 
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / [Interviews](https://interviewfor.red/), [2](https://clarasguide.valeena.workers.dev/Guides/private-trackers/#introducing-red)
+* ⭐ **[Redacted](https://redacted.sh/)** - MP3 / FLAC / Requires Sign-Up / [Interviews](https://interviewfor.red/), [2](https://clarasguide.valeena.workers.dev/Guides/private-trackers/#introducing-red)
 * ⭐ **[New-Team](https://new-team.org/)** - MP3 / FLAC
-* ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
+* ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / Requires Sign-Up / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Lidarr](https://lidarr.audio/)** / [GitHub](https://github.com/Lidarr/Lidarr) or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * [TPB Music](https://thepiratebay.org/search.php?q=top100:100) - MP3 / FLAC / **Avoid Software / Games**
@@ -710,6 +711,7 @@
 * [Sputnikmusic](https://www.sputnikmusic.com/) - Staff & User Album Reviews
 * [Pitchfork](https://pitchfork.com/) / [The Fork](https://the-fork.vercel.app/) - Album Reviews / Searchable Review Database
 * [Resident Advisor](https://ra.co/reviews) - Electronic Music Reviews / Recommended Releases
+* [⁠TWGEEMA](https://twgeema.com/) - Electronic Music Recommendations
 * [Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Community Album Recommendation Charts
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Community Music Recommendations
 * [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
@@ -722,29 +724,36 @@
 ## ▷ Music Discovery
 
 * 🌐 **[/music discovery/](https://rentry.co/musicdiscovery)** - Music Discovery Guide
+* ⭐ **[NTS Radio](https://www.nts.live/)** - Human-Curated Music Discovery / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts)
 * ⭐ **[RateYourMusic Charts](https://rateyourmusic.com/charts/)** - Customizable Music Discovery Charts / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Forum](https://rym.fm/)
-* ⭐ **[NTS Radio](https://www.nts.live/)** - Recommendation Radio / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
-* ⭐ **[EveryNoise](https://everynoise.com/)** - Music Genre Discovery Tool / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
-* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home), [ChartRank](https://chartrank.app/) or [SuperFridayChart](https://www.superfridaychart.com/) - Music Top Charts
-* [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [⁠Music Atlas](https://music-atlas.app/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
-* [Chosic](https://www.chosic.com/), [lazyrecords](https://lazyrecords.app/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/), [TapeFear](https://www.tapefear.com/), [Dubolt](https://dubolt.com/) or [Playlost.fm](https://playlost.fm/) - Song Discovery Tools
-* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Undiscovered Artist Recommendations / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
+* ⭐ **[EveryNoise](https://everynoise.com/)** - Interactive Music Genre Discovery / [New Music](https://furia.com/page.cgi?type=log&skip=20#id492)
+* ⭐ **[cosine.club](https://cosine.club/)** - Audio-Based Music Similarity Search / Underground Electronic Music
+* ⭐ **[Musicmap](https://musicmap.info/)** - Interactive Music Genre History / Influences / Example Tracks
+* [NTS In Focus](https://rentry.co/ntsinfocus), [NTS Guide To](https://rentry.co/ntsguideto) or [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio) - NTS Music Discovery Guides / Episode Indexes
+* [NTS SoundCloud](https://rentry.co/ntssoundcloud) or [Mixcloud](https://www.mixcloud.com/NTSRadio/) - NTS Alternative Archives
+* [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Music Atlas](https://music-atlas.app/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted) or [LivePlasma](https://liveplasma.com/) - Visual Artist Discovery Tools
+* [GNOD](https://www.gnod.com/), [Gnoosic](https://www.gnoosic.com/) or [Music-Map](https://www.music-map.com/) - Similar Artist Recommendations
+* [SAGE](https://hate5six.com/sage) - Personalized Band Recommendations
+* [Chosic](https://www.chosic.com/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/) or [Dubolt](https://dubolt.com/) - Similar Song / Playlist Discovery Tools
+* [lazyrecords](https://lazyrecords.app/) or [TapeFear](https://www.tapefear.com/) - Obscure Music Discovery / Digital Crate Digging
+* [Playlost.fm](https://playlost.fm/) - Similar Spotify Playlist Discovery
+* [OrbitMusic](https://www.bbc.co.uk/orbitmusic) - Discover Emerging BBC Introducing Artists / [Limit Bypass](https://i.ibb.co/Y7gjmdqb/image.png), [2](https://files.catbox.moe/v7hy49.png), [3](https://i.imgur.com/FDx8jKa.png)
 * [ArtistPath](https://artistpath.cc/) - Find Connections Between Music Artists
-* [NTS In Focus](https://rentry.co/ntsinfocus) or [NTS Guide To](https://rentry.co/ntsguideto) - NTS Episode Indexes
-* [⁠BestSellingAlbums](https://bestsellingalbums.org/), [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Discover Albums
+* [Radiooooo](https://radiooooo.com/) - Discover Music by Country & Decade
+* [Best Ever Albums](https://www.besteveralbums.com/index.php) or [Acclaimed Music](https://acclaimedmusic.net/) - Greatest Albums / Aggregated Rankings
+* [BestSellingAlbums](https://bestsellingalbums.org/) - Historical Album Sales Rankings
+* [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Album Listening Challenge
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
-* [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Random Album Recommendation
-* [Random Song Generator](https://randomsonggenerator.com/), [⁠SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Play Random YouTube Songs
-* [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
-* [⁠Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
-* [Map of Metal](https://mapofmetal.com/) - Interactive Map of Metal History
-* [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
-* [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
-* [⁠cosine.club](https://cosine.club/) - Find Similar Electronic Songs
-* [Music.ishkur](https://music.ishkur.com/) - Electronic Music Genre Guide
+* [Music.ishkur](https://music.ishkur.com/) - Interactive Electronic Music Genre History
+* [Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
+* [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Music Discovery by Genre / Random Recordings
+* [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Interactive Music Genre Comparisons
+* [Map of Metal](https://mapofmetal.com/) - Interactive History of Metal Music
+* [Random Song Generator](https://randomsonggenerator.com/), [SampleRoulette](https://www.sampleroulette.io/) or [Samplette](https://samplette.io/) - Random YouTube Music Discovery
+* [Kworb](https://kworb.net/), [Spotify Charts](https://charts.spotify.com/home) or [ChartRank](https://chartrank.app/) - Music Popularity / Streaming Charts
+* [SuperFridayChart](https://www.superfridaychart.com/) - Spotify New Music Friday Chart Aggregator
 * [⁠HappyHardcore](https://www.happyhardcore.com/forums/) - Hardcore Dance Music Forum
 * [TranceFix](https://www.trancefix.nl/index.php) - Trance Music Forum
-* [CET](https://rentry.org/CET) / [2](https://rentry.co/CET) - Music Comps & Edits / [Discord](https://discord.gg/DfAfVPPvq4)
 
 ***
 

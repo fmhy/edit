@@ -1889,6 +1889,7 @@
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Inciteful](https://incitefulmed.com/academic/) - Find Connected Literature via Citations
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
+* [⁠Citation Tree](https://citationtree.org/) - Paper Citation Trees
 * [MyBib](https://www.mybib.com/), [CiteMaker](https://www.citemaker.com/), [Formatically](https://formatically.com/), [ZoteroBib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [⁠BibGuru](https://www.bibguru.com/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
 
