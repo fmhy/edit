@@ -32,7 +32,7 @@
 * [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner CLI Tools
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Alts for GUI Tasks
 * [CommandlineFU](https://www.commandlinefu.com/) - Community-Driven Command Snippets
-* [cheat.sh](https://github.com/chubin/cheat.sh) or [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [cheat.sh](https://github.com/chubin/cheat.sh) - Terminal Commands
 * [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
 * [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
 * [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
