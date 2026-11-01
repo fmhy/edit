@@ -735,7 +735,7 @@
 
 ## ▷ Image Viewers
 
-* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows, macOS, Linux / [GitHub](https://github.com/d2phap/ImageGlass)
+* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows, macOS, Linux / [GitHub](https://github.com/d2phap/ImageGlass) / [Discord](https://discord.gg/tWjbynH2X8)
 * ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
 * ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
 * ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
