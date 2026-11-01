@@ -452,7 +452,7 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
-* [Like Manga](https://likemanga.ink/)
+* [Mgread](https://mgread.io/)
 * [Scans.gg](https://scans.gg/changelog) / [Discord](https://discord.gg/cYFgYu66rx)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [⁠Mgeko](https://www.mgeko.cc/) - Manhwa / Manhua
@@ -895,35 +895,37 @@
 
 # ► Book Tracking / Databases
 
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Reviews / Recommendations
-* ⭐ **[Hardcover](https://hardcover.app/)** - Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
-* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Frontend](https://biblioreads.eu.org/)
-* [⁠Book Notification](https://www.booknotification.com/) - Book / Author Release Notifications
-* [⁠Bookfeed.io](https://bookfeed.io/) - Author Release RSS Feeds
-* [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
-* [⁠EntertainMe](https://www.entertainme.fun/) - Tracking / Recommendations
-* [CandlApp](https://www.candlapp.com/) - Tracking / Recommendations
-* [Oku](https://oku.club/) - Tracking
-* [BookWyrm](https://joinbookwyrm.com/) - Tracking / [Official Instance](https://bookwyrm.social/)
-* [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
-* [Literal](https://literal.club/) - Social Tracking Platform
-* [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
-* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
-* [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
-* [Listal](https://www.listal.com/) - Book Database
-* [BookHype](https://bookhype.com/) - Book Database
-* [Books Search](https://books-search.typesense.org/) - Book Database
-* [Litsy](https://www.litsy.com/) - Book Community / Reviews / Photo Sharing
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Reading Tracker / Detailed Statistics / Mood-Based Recommendations
+* ⭐ **[Hardcover](https://hardcover.app/)** - Book Tracking / Reviews / Recommendations / [KOReader Plugin](https://github.com/billiam/hardcoverapp.koplugin) / [Discord](https://discord.com/invite/hardcover)
+* ⭐ **[Goodreads](https://www.goodreads.com/)** - Book Tracking / Reviews / Reading Lists / Recommendations / [Frontend](https://biblioreads.eu.org/)
+* ⭐ **[LibraryThing](https://www.librarything.com/)** - Personal Library Cataloguing / Reviews / Recommendations / [Talpa Search](https://www.talpasearch.com/)
+* ⭐ **[Open Library](https://openlibrary.org/)** - Open Bibliographic Database / Editions / Reading Lists / [API](https://openlibrary.org/developers/api)
+* [WorldCat](https://search.worldcat.org/) - Global Library Catalogue / Book Editions / Library Holdings
+* [BookBrainz](https://bookbrainz.org/) - Open Book Metadata Database / [API](https://api.bookbrainz.org/1/docs/)
+* [Book Notification](https://www.booknotification.com/) - Author & Series Tracking / New Release Alerts / Reading Orders
+* [Bookfeed.io](https://bookfeed.io/) - RSS Feeds for New Releases by Favourite Authors
+* [ISFDB](https://www.isfdb.org/) - Science Fiction / Fantasy / Horror Bibliographic Database / Awards / Publication Histories
+* [Fantastic Fiction](https://www.fantasticfiction.com/) - Author Bibliographies / Book Series / New Releases
+* [Book Series in Order](https://www.bookseriesinorder.com/) - Author Bibliographies / Publication & Chronological Reading Orders
+* [BookHype](https://bookhype.com/) - Reading Tracker / Book Release Calendar / Series Tracking
+* [BookWyrm](https://joinbookwyrm.com/) - Open-Source Federated Reading Tracker / [Official Instance](https://bookwyrm.social/) / [GitHub](https://github.com/bookwyrm-social/bookwyrm)
+* [Literal](https://literal.club/) - Social Reading Tracker / Reviews / Reading Lists
+* [Oku](https://oku.club/) - Book Tracking / Reading Goals / Collections / Statistics
+* [Candl](https://www.candlapp.com/) - Private Reading Tracker / Notes / Statistics / Spaced Repetition
+* [Libib](https://www.libib.com/) - Personal Library Cataloguing / ISBN Scanning / Web & Mobile
+* [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Book Collection Manager / Windows
+* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews / Reading Community
+* [Litsy](https://www.litsy.com/) - Social Reading / Reviews / Book Community
+* [EntertainMe](https://www.entertainme.fun/) - Multi-Media Tracking / Books / Films / Games
+* [rate.house](https://rate.house/) - Multi-Media Ratings / Reviews / Tracking
+* [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker / Books / Films / TV / Games
+* [Listal](https://www.listal.com/) - Media Collection Tracking / Reviews / Lists
+* [Ratings Filter](https://www.book-filter.com/) - Filter Books by Goodreads & StoryGraph Ratings
+* [Books Search](https://books-search.typesense.org/) - Fast Open Library Book Database Search
+* [Romance.io](https://www.romance.io/) - Romance Book Database / Tropes / Content Warnings / Ratings
+* [nooSFere](https://www.noosfere.org/) - French-Language Science Fiction Bibliographic Database
+* [Uchronia](https://www.uchronia.net/) - Alternate History Fiction Bibliography / Series / Divergence Points
 * [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools
-* [ISFDB](https://isfdb.org/) - Speculative Fiction
-* [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
-* [⁠Fantastic Fiction](https://www.fantasticfiction.com/) - Fiction Tracking / Database
-* [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Romance.io](https://www.romance.io/) - Romance Database
-* [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
-* [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
-* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
-* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 
 ***
 

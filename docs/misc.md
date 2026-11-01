@@ -80,7 +80,7 @@
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
-* [⁠OpenWeird](https://openweird.com/) - Find Random Strange Sites 
+* [⁠OpenWeird](https://openweird.com/) or [⁠r/WeirdWebsites](https://www.reddit.com/r/WeirdWebsites/) - Find Random Weird Sites
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [Wiby](https://www.wiby.me/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
@@ -1085,7 +1085,7 @@
 
 ## ▷ Investing / Market Research
 
-* ⭐ **[TradingView](https://www.tradingview.com/)**, **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
+* ⭐ **[TradingView](https://www.tradingview.com/)** / [Alert Forwarder](https://github.com/fabston/TradingView-Webhook-Bot), **[GoCharting](https://gocharting.com/)**, **[ticker](https://github.com/achannarasappa/ticker)** or **[finviz](https://finviz.com/)** - Market Charting / Analysis
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
 * ⭐ **[Wealthfolio](https://wealthfolio.app/)** / [X](https://x.com/WealthfolioApp) / [Discord](https://discord.gg/WDMCY6aPWK) / [GitHub](https://github.com/wealthfolio/wealthfolio), [Ghostfolio](https://ghostfol.io/) / [GitHub](https://github.com/ghostfolio/ghostfolio) / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) or [Portfolio Performance](https://www.portfolio-performance.info/en/) / [GitHub](https://github.com/portfolio-performance/portfolio) - Investment Portfolio Trackers / Management
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
@@ -1098,7 +1098,6 @@
 * [Simul8or](https://simul8or.com/) - Trading Simulator
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Investment Growth Calculator
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice
-* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - TradingView Alert Automation
 * [Kitco](https://www.kitco.com/) - Precious Metals Prices / Calculators
 
 ***
