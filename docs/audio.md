@@ -19,7 +19,6 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
-* [Mornye](https://github.com/mornyeapp/Mornye-Desktop) - Streaming
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
 * [Muffon](https://muffon.netlify.app/) - Streaming
@@ -147,7 +146,7 @@
 ## ▷ Podcast Streaming
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
 * ⭐ **[Pocket Casts](https://pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [⁠jumbletop](https://jumble.top/) or [⁠Pirate Podcast Feeds](https://piratefeeds.net/) - Premium Podcast Feeds
 * [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
@@ -816,6 +815,7 @@
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
+* [Mornye](https://desktop.mornye.com/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * [Snowify](https://snowify.cc/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)

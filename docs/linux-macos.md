@@ -770,7 +770,7 @@
 * ↪️ **[Adblocking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy)**
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [ESET](https://rentry.co/FMHYB64#eset), [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://apps.apple.com/app/wblock/id6746388723) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
+* [⁠uBO Lite Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ubo-lite.md), [AdGuard Mini](https://adguard.com/en/adguard-safari/overview.html) / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/) / [2](https://justpaste.it/adguard) or [wBlock](https://skula.me/project/wblock/) / [Discord](https://discord.com/invite/Y3yTFPpbXr) / [GitHub](https://github.com/0xCUB3/wBlock) - Safari Adblockers
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client

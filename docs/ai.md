@@ -55,8 +55,8 @@
 ## ▷ Specialized Chatbots
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
+* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx), [NeverWrite](https://neverwrite.app/) / [GitHub](https://github.com/jsgrrchg/NeverWrite), [ToolBaz](https://toolbaz.com/) or [Rytr](https://rytr.me/) - AI Creative Writing Tools
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/search/direct), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)

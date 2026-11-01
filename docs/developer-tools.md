@@ -384,7 +384,7 @@
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Tools / Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vscode_tools)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [Themes](https://zed-themes.com/) / [GitHub](https://github.com/zed-industries/zed) / Windows, macOS, Linux
 * ⭐ **[JetBrains](https://jetbrains.com/)** - Professional IDEs / [Features](https://rentry.co/FMHYB64#jbrains) (occasional downtime) / Windows, macOS, Linux
-* ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org) / Windows, macOS, Linux
+* ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_vim_.2F_neovim_tools) / [Matrix](https://matrix.to/#/#neovim:matrix.org) / Windows, macOS, Linux
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors) / Windows, macOS, Linux
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Resources](https://github.com/emacs-tw/awesome-emacs) / Windows, macOS, Linux, Android
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [LiveCodes](https://livecodes.io/) / [GitHub](https://github.com/live-codes/livecodes), [tech.io](https://www.codingame.com/learn) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
@@ -457,7 +457,7 @@
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
 * [Prettier](https://prettier.io/), [Biome](https://biomejs.dev/) / [GitHub](https://github.com/biomejs/biome/) or [codebeautify](https://codebeautify.org/) - Code Formatting Tools
 * [editorconfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
-* [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
+* [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
 * [Tokei](https://github.com/XAMPPRocky/tokei) - Code Statistics Tool
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/) / [2](https://godbolt.org/), [OneCompiler](https://onecompiler.com/), [ryugod](https://www.ryugod.com/) or [Wandbox](https://wandbox.org/) - Online Compilers / Explorers

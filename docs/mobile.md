@@ -627,7 +627,7 @@
 
 ## ▷ Android Text Tools
 
-* ↪️ **[Android Note-Taking](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
+* ↪️ **[Android Note-Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
 * ↪️ **[Android Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_android_code_editors)**
 * ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** / [GitHub](https://github.com/Acode-Foundation/Acode), [Acode](https://acode.app), [QuickEdit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Text / Code Editors
 * ⭐ **[FUTO Voice](https://voiceinput.futo.tech/)** or [Transcribro](https://github.com/soupslurpr/Transcribro) - Voice-Input Keyboards
@@ -752,13 +752,13 @@
 * 🌐 **[Emulators on Android](https://emulation.gametechwiki.com/index.php/Emulators_on_Android)** / [Frontends](https://emulation.gametechwiki.com/index.php/Emulators_on_Android#Launcher_Frontends)
 * 🌐 **[⁠EmuReady](https://www.emuready.com/)** - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * ⭐ **[Termux](https://termux.dev/)** - Terminal Emulator / [GUI](https://github.com/termux/termux-gui) / [Beautify](https://github.com/mayTermux/myTermux) / [Matrix](https://matrix.to/#/#Termux:matrix.org) / [Subreddit](https://www.reddit.com/r/termux) / [Telegram](https://telegram.me/termux24x7) / [Discord](https://discord.gg/HXpF69X) / [GitHub](https://github.com/termux/)
+* ⭐ **[⁠GameNative](https://gamenative.app/)** - Game Emulator / Launcher / [Discord](https://discord.gg/2hKv4VfZfE) / [GitHub](https://github.com/utkarshdalal/GameNative)
 * [JoiPlay](https://joiplay.net/) - Game Interpreter for RPG Maker, Ren'Py, & Other Formats
 * [⁠Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - Windows Emulator on Android / Terminal Emulators / OS Environments
 * [TermOne Plus](https://termoneplus.com/) - Terminal Emulator
 * [Ubuntu on Android](https://docs.udroid.org/) - Ubuntu Emulator / [GitHub](https://github.com/RandomCoderOrg/ubuntu-on-android)
 * [r/EmulationOnAndroid](https://www.reddit.com/r/emulationonandroid) - Android Game Emulation Subreddit
 * [GameHub Lite](https://github.com/Producdevity/gamehub-lite) - Game Emulator / Launcher
-* [⁠GameNative](https://gamenative.app/) - Game Emulator / Launcher / [Discord](https://discord.gg/2hKv4VfZfE) / [GitHub](https://github.com/utkarshdalal/GameNative)
 * [⁠DroidDeck](https://github.com/Droid-Deck/DroidDeck) - SteamOS + Big Picture Mode for Android / [Discord](https://discord.gg/JRGAvawjsm)
 * [Source Engine 4 Android](https://discord.gg/source-engine-4-android-672055862608658432) - Source Engine Ports
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators
@@ -942,7 +942,7 @@
 
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [Patch Index](https://morphe-patches.software/), [2](https://redd.it/1ta0bek), [3](https://awesome-morphe.vercel.app/) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
-* ⭐ **[⁠Flow](https://flowapp-website.vercel.app/)** - YouTube Music Player / Recommendation Engine / [GitHub](https://github.com/Flow-Tube/Flow)
+* ⭐ **[⁠Flow](https://flow-tube.org/)** - YouTube Music Player / Recommendation Engine / [GitHub](https://github.com/Flow-Tube/Flow)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [BitChord](https://bitchord.kushagrasingh.in) - YouTube Music Player / [Discord](https://discord.gg/pSafNTyKZx) / [GitHub](https://github.com/kushagrasinghx/BitChord)
@@ -1119,8 +1119,8 @@
 * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [⁠CAPlayground](https://caplayground.vercel.app/) - Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / [GitHub](https://github.com/CAPlayground/CAPlayground)
 * [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Locally AI](https://apps.apple.com/app/id6741426692), [Oscilla](https://apps.apple.com/app/id6759628356), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [Keka](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_ipas) (search) - File Archiver
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
-* [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
 * [⁠Sushitrain](https://github.com/pixelspark/sushitrain) - iOS + macOS File Sync / SyncThing
 * [Sia Storage](https://sia.storage) - Cloud Storage / 50GB / [GitHub](https://github.com/siafoundation)
@@ -1145,7 +1145,6 @@
 * [Foqos](https://www.foqos.app/) / [GitHub](https://github.com/awaseem/foqos) or [⁠ScreenZen](https://screenzen.co/) - Website / App Blockers
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
 * [SwiftKey](https://www.microsoft.com/en-us/swiftkey) - Keyboard
-* [⁠Pass4Wallet](https://apps.apple.com/app/pass4wallet-store-cards/id1423106610) - Create Custom Cards for Apple Wallet App
 * [CoconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Battery Tracker / for macOS
 * [Scriptable](https://scriptable.app/) - Automation Script Tool / [Scripts / Widgets](https://github.com/dersvenhesse/awesome-scriptable), [2](https://shareable.vercel.app/)
 * [PureKFD](https://github.com/Lrdsnow/PureKFD) / [Discord](https://discord.gg/cCSwxqdvzx) or [Misaka](https://github.com/straight-tamago/misaka) / [Discord](https://discord.gg/mVrPxY3X6W) - iOS Customization Apps

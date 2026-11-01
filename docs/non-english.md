@@ -1787,7 +1787,7 @@
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
 * [kool.to](https://www.kool.to/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
-* [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App + Web Versions
+* [⁠Albkanale](https://albkanale.com/) - Albanian / Live TV / Android
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books
 * [BooksWorld](https://t.me/Books_worldd) - Amharic / Audiobooks
 * [Yoda](https://yoda.az/) - Azerbaijani / Live TV

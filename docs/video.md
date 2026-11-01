@@ -48,6 +48,7 @@
 * [GreyBox](https://greyboxtv.pages.dev/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/8Cujv2VNp)
 * [Movish](https://movish.to/) or [LatestMovies](https://latestmovies.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/FsbU2BQcjQ)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) or [NoirX](https://noirx.me/), [2](https://noirx.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
+* [TaroFlix](https://taroflix.net/) or [Cinetaro](https://cinetaro.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/2UPkZwn9v)
 * [VidPlay](https://vidplay.to/) - Movies / TV / Anime / Auto-Next
 * [Willow](https://willowmovies.com/) - Movies / TV / Anime / Auto-Next / [4K Guide](https://rentry.co/willow-guide)
 * [RIVO](https://rivo.st/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/jKRZrTTWd4)
@@ -59,7 +60,6 @@
 * [All You Can Watch](https://allyoucanwatch.net/) - Movies / TV / Anime / [Telegram](https://t.me/allyoucanwatchh) / [Discord](https://discord.gg/allyoucanwatch)
 * [3eyedraven](https://3eyedraven.watch/) - Movies / TV / Anime / Auto-Next
 * [Koddo](https://koddo.to/) - Movies / TV / Auto-Next / [Discord](https://discord.gg/Ss2x86nsvK)
-* [Cinetaro](https://cinetaro.to/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/2UPkZwn9v)
 * [Flixtrz](https://flixtrz.com/) - Movies / TV / Anime / Auto-Next
 * [Consumit](https://consumit.online/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/p7XVyk6vs)
 * [Nexa](https://nexa.mov/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/Yb6vu9xxUR)
@@ -169,7 +169,7 @@
 * [Bingeflix](https://bingeflix.tv/) - Movies / TV / Anime / [Discord](https://discord.com/invite/ajRY6Bn3rr)
 * [7REELS](https://7reels.cc/) - Movies / TV / Anime
 * [Ernax](https://ernax.pro/) - Movies / TV / Anime
-* [WatchSeries](https://watchseries.bar/), [2](https://watchseries.cool/), [3](https://watchseries.domains/) - Movies / TV / Anime
+* [WatchSeries](https://watchseries.cool/), [2](https://watchseries.bar/) - Movies / TV / Anime / [Mirrors](https://Watchseries.domains/)
 * [Pawflix](https://pawflix.foo.ng/) - Movies / TV / Anime / [Invite](https://discord.gg/pXnv7ha5XP)
 * [CinebyTV](https://cinebytv.com) - Movies / TV / Anime / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cinebytv-note.md)
 * [TVids](https://www.tvids.to/), [2](https://www.tvids.net/), [3](https://watch-tvseries.net/), [4](https://tvids.me/) - Movies / TV / Anime / Auto-Next
@@ -362,7 +362,6 @@
 * [⁠Kazora](https://kazora.cc/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/V5AWy78VTv)
 * [AniLight](https://anilight.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/RFN93sMwdW)
 * [KickAssAnime](https://kaa.lt/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kickassanimev3) / [Discord](https://discord.gg/6EGTnNQAaV)
-* [⁠AniKuro](https://anikuro.to/), [2](https://anikuro.ru/) - Sub / Dub / [Status](https://anikuro.site/) / [Telegram](https://t.me/+DrD7eAO7R69mZGM0) / [Discord](https://discord.com/invite/Svc9yFjQBq)
 * [⁠MeguAnimes](https://meguanime.com/) - Sub / Dub / Auto-Next
 * [⁠animeY](https://animey.to/) - Sub / Dub / Auto-Next
 * [Aniwave](https://aniwaves.ru/), [2](https://hianimes.ru/) or [123anime](https://123animehub.cc/) - Sub / Dub / Auto-Next
@@ -373,6 +372,7 @@
 * [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
 * [⁠AniChan](https://anichan.to/) - Sub / Dub
 * [⁠AnimoTVSlash](https://animotvslash.org/) - Sub / Dub
+* [animeTVplus](https://animetvplus.xyz/) - Sub / Dub
 * [⁠YumeZone](https://yumezone.live/) - Sub / Dub / Auto-Next
 * [⁠Aniclover](https://aniclover.cc/) - Sub / Dub
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
@@ -382,7 +382,6 @@
 * [Tsukuyomi](https://tsukuyomi.tv/) - Sub / Dub / [Discord](https://discord.gg/YMuM7RuWnY)
 * [Anikura](https://anikura.club/) - Sub / Dub / [Telegram](https://t.me/anikuraclub)
 * [⁠Kyren](https://kyren.moe/) - Sub / Dub
-* [animeTVplus](https://animetvplus.xyz/) - Sub / Dub
 * [⁠Shonen](https://shonen.to/) - Sub / Dub / Auto-Next
 * [⁠WatchAnimeX](https://watchanimez.me/) - Sub / Dub
 * [Zanix](https://zanix.tr/) - Sub / Dub
@@ -395,7 +394,6 @@
 * [⁠AniHQ](https://anihq.cc/) - Sub / Dub
 * [KoToTV](https://kototv.to/) - Sub / Dub / Auto-Next / [Mirrors](https://hianime.help/) / [Discord](https://discord.gg/BkrKr2MZaE)
 * [⁠Zenbu](https://zen-bu.cc/) - Sub / Dub
-* [Rive Anime](https://www.rivestream.app/), [2](https://rivestream.ru/) - Sub / Dub / Auto-Next / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [Kawaii Anime](https://kawaiianime.cc/) - Sub / Dub
 * [⁠9anime](https://9animstv.to/) - Sub / Dub
 * [MultiAnime](https://multinime.site/) - Sub / Dub
@@ -601,7 +599,6 @@
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
 * [BINTV](https://www.bintv.cc/) / [Status](https://www.bintv.link/) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/) - Live Events / [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
-* [Watch Footy](https://watchfooty.st/) / [Mirrors](https://wfty.link/)
 * [NTV](https://ntv.cx/), [2](https://ntvs.cx/) / [Discord](https://discord.gg/uY3ud5gcpW)
 * [LiveTV](https://livetv.sx/enx/)
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)

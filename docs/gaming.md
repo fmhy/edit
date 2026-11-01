@@ -17,7 +17,7 @@
 * ⭐ **CS.RIN Tools** - [Status](https://csrinstaff.writeas.com/) / [Enhancements](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Steam Buttons](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) / [Steam Hover](https://greasyfork.org/scripts/580613) / [Search Guide](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/csrin-search.md)
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
-* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Achievements / Pre-Installed / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
+* ⭐ **[AstralGames](https://astralgames.net/)** - Download / Pre-Installed / Achievements / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)

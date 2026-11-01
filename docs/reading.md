@@ -32,7 +32,7 @@
 * [⁠Inventaire](https://inventaire.io/) - Community Library / Book Lending
 * [⁠Shelfmark](https://github.com/calibrain/shelfmark) - Ebook Downloader
 * [⁠Mayberry](https://joinmayberry.com/) - Ebook Sharing Network / Downloader
-* [Calibre](https://calibre-ebook.com/) - Plugin-Based Book Downloader / Manager / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries) / [GitHub](https://github.com/kovidgoyal/calibre)
+* [calibre](https://calibre-ebook.com/) - Plugin-Based Book Downloader / Manager / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries) / [GitHub](https://github.com/kovidgoyal/calibre)
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [The Free Book Library](https://ebooks.i2p/) - Requires I2P
 * [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
@@ -148,7 +148,7 @@
 
 ## ▷ E-Reader Tools
 
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - E-Reader Book Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries) / [GitHub](https://github.com/kovidgoyal/calibre)
+* ⭐ **[calibre](https://calibre-ebook.com/)** - E-Reader Book Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries) / [GitHub](https://github.com/kovidgoyal/calibre)
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/e-readers/) - Compare E-Readers
@@ -911,7 +911,9 @@
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
 * [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [Listal](https://www.listal.com/) - Book Database
+* [BookHype](https://bookhype.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
+* [Litsy](https://www.litsy.com/) - Book Community / Reviews / Photo Sharing
 * [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
@@ -921,6 +923,7 @@
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
 * [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders
+* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 
 ***
 
@@ -951,37 +954,33 @@
 
 ## ▷ Book Recommendations
 
-* 🌐 **[Book Awards](https://rentry.co/bookawards/)** - Index of Book Awards
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Discovery and Recommendations
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Algorithmic Books Lists
-* ⭐ **[⁠NPR's Books We Love](https://apps.npr.org/best-books/)** - Book Discovery / Recommendations
-* ⭐ **[⁠The Book Prize Index](https://book-prize-index.vercel.app/)** or **[LibraryThing Awards](https://www.librarything.com/award)** - Book Awards + Winning Book Index
-* ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
-* [GoodBooks](https://www.goodbooks.io/) or [Read This Twice](https://readthistwice.com/) - Book Recommendations by Influential People
-* [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
-* [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
-* [⁠Dan's Library](https://rentry.co/danslibrary/) - Book Recommendations
-* [⁠The Book Rex](https://thebookrex.com/) - Book Discovery / Recommendations
-* [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
-* [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
-* [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
-* [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
-* [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
-* [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
-* [Readow](https://readow.ai/) - Book Recommendations
-* [⁠The Greatest Literature](https://editoreric.com/) - Book Recommendations / Top Lists
-* [Book DNA](https://bookdna.com/) - Book Recommendations
-* [Greater Books](http://www.greaterbooks.com/) - Book Recommendations
-* [⁠Uncovered](https://uncovered.ink/) - Book Sample / Recommendation Tool
-* [Literature-Map](https://www.literature-map.com/) - Author Discovery by Genre
-* [Break the Bubble!](https://abooklike.foo/escape) - Challenge Narrow Tastes
-* [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Book Recommendations
-* [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Book Recommendations
-* [Mind Expanding Books](https://mindexpandingbooks.com) - Book Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
-* [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
-* [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
-* [5000 Best](http://5000best.com/books/) - Top 5000 Books
-* [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
+* 🌐 **[Book Awards](https://rentry.co/bookawards/)** - Index of Literary Awards
+* ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommendations / Interviews / Reading Lists by Subject
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Aggregated Greatest Books Rankings / Custom Lists
+* ⭐ **[NPR's Books We Love](https://apps.npr.org/best-books/)** - Curated Recommendations / Genre & Theme Filters
+* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Personalized Recommendations / Mood & Genre Filters
+* ⭐ **[Book Marks](https://bookmarks.reviews/)** - Aggregated Professional Reviews / Critics' Consensus
+* ⭐ **[Whichbook](https://www.whichbook.net/)** - Mood-Based Discovery / Reader-Curated Recommendations
+* ⭐ **[The Book Prize Index](https://book-prize-index.vercel.app/)** - Nonfiction Awards / Searchable Prize Database / [API](https://book-prize-index.vercel.app/data)
+* [LibraryThing Awards](https://www.librarything.com/award) - Literary Awards / Winners & Nominees
+* [Book DNA](https://bookdna.com/) - Author-Curated Recommendations / Themed Reading Lists
+* [GoodBooks](https://www.goodbooks.io/) or [Read This Twice](https://readthistwice.com/) - Recommendations from Notable People
+* [Most Recommended Books](https://www.mostrecommendedbooks.com/) - Recommendations from Influential People
+* [r/suggestmeabook](https://www.reddit.com/r/suggestmeabook/) - Community Recommendations
+* [The Book Rex](https://thebookrex.com/) - Fiction Discovery by Genre / Tropes / Content Warnings
+* [Dan's Library](https://rentry.co/danslibrary/) - Curated Recommendations
+* [r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Community-Ranked Literary Fiction
+* [The Greatest Literature](https://editoreric.com/) - Classic Literature Rankings / Literary Canon
+* [Greater Books](http://www.greaterbooks.com/) - Recommendations / Reading Lists
+* [5000 Best](http://5000best.com/books/) - Top 5000 Books / Rankings
+* [RecommendMeABook](https://recommendmeabook.com/) or [Uncovered](https://uncovered.ink/) - Discover by Reading The Opening Pages
+* [Gnooks](https://www.gnooks.com/) or [Literature-Map](https://www.literature-map.com/) - Similar Author Discovery
+* [Break the Bubble!](https://abooklike.foo/escape) - Discover Books Outside Your Usual Reading Tastes
+* [TasteDive](https://tastedive.com/books) - Similar Book Recommendations
+* [Readow](https://readow.ai/) - AI-Based Recommendations
+* [Hacker Recommended Books](https://hacker-recommended-books.vercel.app/) - Recommendations from Hacker News
+* [Mind Expanding Books](https://mindexpandingbooks.com/) - Curated Recommendations / [GitHub](https://github.com/hackerkid/Mind-Expanding-Books)
+* [Reddit Reads](https://www.redditreads.com/) - Historical Most-Mentioned Books on Reddit / Data Through March 2023
 
 ***
 

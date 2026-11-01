@@ -392,7 +392,7 @@
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - Steam DLC / Family Unlocker
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
-* [⁠Pub's Lounge](https://discord.gg/pubslounge) - DRM Bypass / Activation Server
+* [⁠Pub's Lounge](https://discord.gg/pubslounge) or [⁠Anti Denuvo Sanctuary](https://rentry.denuvosanctuary.com/discordinvite) / [Subreddit](https://www.reddit.com/r/Denuvosanctuary/) / [GitHub](https://github.com/denuvosanctuary) - DRM Bypass / Activation Servers
 * [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker
