@@ -22,7 +22,7 @@
 * **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://fluffle.cc/piracyglossary).
 
 ***
-
+* **[NeXDM](https://nexdm.in)** - Download Manager / 🪟 / [Chrome](https://chromewebstore.google.com/detail/codigipkmfkhdeacpcamjepbpnolhhhf) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nexdm-media-extractor/) / [GitHub](https://github.com/nexdm2026/NexDM-Releases)
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, macOS, Linux, Android / [Firefox](https://addons.mozilla.org/firefox/addon/ab-download-manager/) / [Chrome](https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[JDownloader](https://jdownloader.org/)** - Download Manager / Windows, macOS, Linux
 * ⭐ **JDownloader Tools** - [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/)
