@@ -388,8 +388,8 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [Tensearch](https://tensear.ch/) - ROMs / Switch
-* [ROMSLAB](https://romslab.com/) - ROMs / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
-* [NXbrew](https://nxbrew.net/) - ROMs / Switch
+* [ROMSLAB](https://romslab.com/) - ROMs / Switch 2 / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
+* [NXbrew](https://nxbrew.net/) - ROMs / Switch 2 / Switch
 * [NSWPURE](https://nswpure.com/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
