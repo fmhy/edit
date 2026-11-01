@@ -439,10 +439,11 @@
 
 ## ▷ Android Code Editors
 
+* ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** - Android Code Editor
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
 * ⭐ **[Squircle-CE](https://github.com/massivemadness/Squircle-CE)** - Android Code Editor
-* ⭐ **[Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)** - Android Code Editor
-* [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
+* [Sora]
+* (https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
 * [⁠AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - Native AI Coding Agent
