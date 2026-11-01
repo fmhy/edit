@@ -812,7 +812,7 @@
 * [PrideFlags](https://www.prideflags.org/) - LGBT Flag Database
 * [⁠HOTW](https://www.heraldry-wiki.com/) - Coat of Arms Database / Wiki
 * [⁠r/heraldry](https://www.reddit.com/r/heraldry/) - Heraldry / Coat of Arms Subreddit
-* [Flag Guesser](https://flagguesser.com/), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
+* [Flag Guesser](https://flagguesser.com/), [⁠Geotrivia (Flags)](https://geotrivia.com/world/flags), [⁠Flagle](https://flagle-game.com/), [FlagGuessr](https://flagguessr.app/), [Flagdle](https://www.flagdle.org/), [⁠flagdoku](https://flagdoku.com/) or [Flag Match](https://flagmatch.com/) - Flag Quizzes / Guessing
 * [Vexle](https://vexle.org/) - Daily Flag Drawing Game
 
 ***
