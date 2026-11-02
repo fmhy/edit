@@ -26,7 +26,7 @@ const STORAGE_KEY_VARS = 'vitepress-theme-vars'
 function resolveThemeName(name?: string | null): string {
   if (name && themeRegistry[name]) return name
   if (name && themeRegistry[`color-${name}`]) return `color-${name}`
-  return 'color-swarm'
+  return new Date().getMonth() === 9 ? 'halloween' : 'color-swarm'
 }
 
 export class ThemeHandler {

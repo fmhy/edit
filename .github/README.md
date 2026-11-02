@@ -12,7 +12,7 @@
 - Neither the site nor GitHub host any files
 
 ## 🗺️ Emoji Legend
- 
+
 * 🌐 - **3rd Party Indexes**
 * ↪️ - **Section Links**
 * ⭐ - **Community Recommendations**

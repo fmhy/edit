@@ -49,6 +49,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"Great site! It's so useful, I now know about a lot more apps and such. Definitely made my life easier!"*
 
+* *"The entirety of the site is a treasure trove for anybody that's looking access for virtually anything possible. I'm proud of you guys and the work you do. This site to me, is on par with the Internet Archive in terms of importance. Take care and keep going."*
+
 * "*Your single domain which is now printed in my memory (fmhy.net) has been so much of a help to me cannot explain truly in words. Each one of you and others who contribute in this are saviors for us, I regularly check your site and visit some section to see some cool stuff, and yes I eventually find them. I should also mention the monthly updates which occurs when the month ends, I love to scroll through it entirely to check what I missed the last month, so yeah keep growing and keep providing the things you do.*."
 
 * *"I am in egypt where everything is not cheap and i discovered FMHY mid 2021, it has been one of the best websites for me as I have learned about computers and piracy as a whole, I also learned to use linux and programming which has lead me to find a job way easier now and I could provide for my whole family. You also made me the IT guy of the house and made me look like the cool nerd guy who has a website for anything."*
@@ -58,6 +60,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
 * *"I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
+
+* *"FMHY has truly transformed my life, and I am honored to support it with my contributions. I genuinely cherish the opportunity to learn from and explore valuable resources, and FMHY brings me joy every day. I take great pleasure in sharing its helpful insights with my friends. I was excited to introduce my family to this wonderful website, and I am pleased to say they have come to love it just as much as I do."*
 
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 

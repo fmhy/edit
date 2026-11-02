@@ -1,3 +1,3 @@
 #### Pixeldrain Bypass Note
 
-If you get redirected to main gamedrive.org site on this tool either its possible they're in maintenance or down.
+If this tool redirects you to the main gamedrive.org site, it may be undergoing maintenance or be down.
