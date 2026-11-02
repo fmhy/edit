@@ -738,6 +738,7 @@
 * ⭐ **[GodChecker](https://www.godchecker.com/)** - Historical Mythology Encyclopedia
 * ⭐ **[Theoi](https://www.theoi.com/)** - Greek Mythology
 * [⁠Mythopedia](https://mythopedia.com/) - Historical Mythology Encyclopedia
+* [MythCairn](https://mythcairn.com/) - Source-checked Greek mythology guides, including family-tree explainers that note where Hesiod and Homer disagree
 * [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
 * [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
