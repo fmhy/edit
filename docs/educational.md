@@ -702,6 +702,7 @@
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠Battle Order](https://www.battleorder.org/) - Historical Military Infographics / [X](https://x.com/battle_order)
+* [WarCrumbs](https://warcrumbs.com/) - Plain-language military history explainers (battles, trench warfare, weapons systems) with cited sources
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
 * [⁠World War II Database](https://ww2db.com/) or [⁠HyperWar](https://www.ibiblio.org/hyperwar/) - WW2 History Databases
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
