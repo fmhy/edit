@@ -1,4 +1,4 @@
-#### Eruda 
+#### Eruda
 
 Eruda Console for mobile browsers [bookmarklet](https://wikipedia.org/wiki/Bookmarklet):
 ```

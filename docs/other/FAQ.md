@@ -23,7 +23,7 @@ description: A List Of Questions And Answers Related To FMHY.
 ***
 **Q**: Can I edit FMHY?
 
-**A**: Absolutely. This project was made by and belongs to the community, so we allow anyone to suggest changes via [pull requests](https://github.com/fmhy/FMHYedit) or suggestions in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). We want this project to be as organized and useful as possible, so if you feel like you can help improve it, please do. 
+**A**: Absolutely. This project was made by and belongs to the community, so we allow anyone to suggest changes via [pull requests](https://github.com/fmhy/FMHYedit) or suggestions in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). We want this project to be as organized and useful as possible, so if you feel like you can help improve it, please do.
 ***
 **Q**: Can I donate?
 

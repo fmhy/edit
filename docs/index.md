@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: October Updates 🎃
-    link: /posts/oct-2026
+    title: November Updates 🍂
+    link: /posts/nov-2026
   image:
     src: test.png
     alt: FMHY Icon
@@ -162,7 +162,7 @@ onMounted(() => {
 
   let clickCount = 0;
   const heroImage = document.querySelector('.VPImage.image-src');
-  
+
   const handleClick = () => {
     clickCount += 1;
     if (clickCount === 5) {

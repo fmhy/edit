@@ -19,7 +19,7 @@ This covers links that have been added, updated, or removed by watching GitHub f
 
 This page lists sites that were removed from the wiki in the last 30 days
 
-**https://d.fmhy.bid/rss.xml**
+**https://fmhy.net/feed.rss**
 
 FMHY RSS Feed
 

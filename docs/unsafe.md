@@ -50,7 +50,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
-* P30Download - Uploaded version of malwarebytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1). 
+* P30Download - Uploaded version of malwarebytes with known [malware](https://www.virustotal.com/gui/file/01b3bf3f65832f1e9e59ee76964dcf01ac928e51588192607d43319ff070a719) / [2](https://tria.ge/250830-kx75yadp6z/behavioral1).
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
@@ -79,17 +79,10 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 ### Software / Apps
 
 * Downloadly (video downloader) - Crypto miner
-* McAfee - Preinstalled Bloatware
-* Avast - Known for [selling user data](https://wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
-* AVG - Owned by Avast
-* Gen Digital (formerly NortonLifeLock) - Parent company of Norton, Avast, and Avira
-* Avira - Owned by Gen Digital
 * Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots
 * Nightcord - Got caught [logging peoples discord tokens](https://i.ibb.co/gbG0SYhM/image.png) on previous versions
-* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
-* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://i.imgur.com/cK9dqQ5.png), [2](https://i.ibb.co/TBzGzFYN/05Bb5eD.png)
-* Kik (messaging app) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
+* Kik (messaging app) - App used by many [predators / scammers](https://youtu.be/9sPaJxRmIPc)
 * Flix Vision - Malicious app that [remotely enables TraffMonetizer](https://github.com/fmhy/edit/issues/2835)
 * TLauncher (minecraft launcher) - [Shady](https://redd.it/zmzzrt) business practices / Note that TLauncher Legacy and ATLauncher are unrelated
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://clarasguide.valeena.workers.dev/Announcements/gshade_notice/)
@@ -98,6 +91,24 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
 
 ***
+
+### Not Recommended 
+
+* **Note** - Sites that don't necessarily meet the criteria to be called unsafe but still aren't recommended for different reasons.
+
+***
+
+* McAfee - Preinstalled Bloatware
+* Avast - Known for [selling user data](https://wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
+* AVG - Owned by Avast
+* Gen Digital (formerly NortonLifeLock) - Parent company of Norton, Avast, and Avira
+* Avira - Owned by Gen Digital
+* CCleaner - Owned by Avast, it's best to use the built-in Windows tool or [BleachBit](https://www.bleachbit.org/)
+* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [adware distributor Kape](https://redd.it/q3lepv)
+
+***
+
+### [Malicious File Hosts](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345)
 
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/)
 

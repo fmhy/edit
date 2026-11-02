@@ -2,7 +2,7 @@
 
 Avoid fake download links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png), or paste info hash into torrent client.
 
-How to Fix Unclickable Links: 
+How to Fix Unclickable Links:
 
 Copy the Info Hash (40 hex chars) from the torrent details.
 
