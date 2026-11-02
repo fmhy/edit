@@ -691,9 +691,9 @@ body,
   vertical-align: -0.2em;
 }
 
-/* Prevent navbar collapsing/uncollapsing and disable transitions during search scroll operations */
-html.vp-search-scrolling .VPNav {
-  transform: none !important;
+/* Disable transitions during search scroll operations so the navbar doesn't animate mid-scroll */
+html.vp-search-scrolling .VPNav,
+html.vp-search-scrolling .VPLocalNav {
   transition: none !important;
 }
 
