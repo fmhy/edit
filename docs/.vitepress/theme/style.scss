@@ -180,6 +180,47 @@ html[data-theme='monochrome'] {
   }
 }
 
+.vp-doc .removed-site-name {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--vp-c-text-1);
+  cursor: help;
+  font: inherit;
+  font-weight: 600;
+  text-align: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--vp-c-brand-soft);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+
+  &:focus-visible {
+    outline: 2px solid var(--vp-c-brand-1);
+    outline-offset: 3px;
+  }
+}
+
+.vp-doc .removed-site-description {
+  color: var(--vp-c-text-2);
+  margin-inline-start: 0.3em;
+}
+
+.vp-doc .removed-site-meta {
+  color: var(--vp-c-text-3);
+  font-size: 0.875em;
+  margin-inline-start: 0.5em;
+  white-space: nowrap;
+
+  a {
+    color: inherit;
+    text-decoration-color: currentColor;
+
+    &:hover {
+      color: var(--vp-c-brand-1);
+    }
+  }
+}
+
 .vp-doc .custom-block a {
   text-decoration: underline;
   text-underline-offset: 4px;

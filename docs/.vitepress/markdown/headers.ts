@@ -57,7 +57,12 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     if (idxClose <= idx) return result
 
     const level = tokens[idx].tag.slice(1)
-    if (!titles.includes(env.frontmatter.title) || level !== '2') return result
+    if (
+      !titles.includes(env.frontmatter.title) ||
+      env.frontmatter.title === 'Recently Removed Sites' ||
+      level !== '2'
+    )
+      return result
 
     // Find the token for the link.
     //
