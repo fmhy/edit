@@ -633,6 +633,7 @@
 * [Ktuvit](https://www.ktuvit.me/) or [⁠Wizdom](https://wizdom.xyz/) - Subtitles
 * [TranslationsMovieHEB](https://t.me/translationsmoviesheb) - Request Subtitle Translations
 * [RedAlert](https://redalert.me/index_en.html), [Tzevaadom](https://www.tzevaadom.co.il/) or [RocketAlert](https://rocketalert.live/) - Rocket Alerts
+* [⁠Danfish Gold](https://isl.danfishgold.com/) - Israeli Sign Language Dictionary
 
 ## ▷ Streaming / הזרמה
 

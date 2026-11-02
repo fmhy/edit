@@ -749,7 +749,7 @@
 
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * ↪️ **[Vehicles Manuals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)** - Vehicle Repair & Owner Manuals
-* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
+* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles
 * [ManualLib](https://www.manuallib.com/) or [Manuals+](https://manuals.plus/) - Manual Search
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
 * [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides

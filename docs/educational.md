@@ -836,7 +836,7 @@
 * [MoveMap](https://www.movemap.io/) - North America Property Costs Map
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
-* [⁠Wealth Shown to Scale](https://evolving-thoughts.github.io/1-pixel-wealth/) - Global Wealth Inequality Visualization
+* [⁠Wealth Shown to Scale](https://evolving-thoughts.github.io/1-pixel-wealth/) - Global Wealth Inequality Visualization / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth)
 * [⁠Wealth Inequality in America](https://dreamagainusa.org/) - America Wealth Inequality Visualization
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
@@ -1391,7 +1391,8 @@
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
-* [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary 
+* [⁠Danfish Gold](https://isl.danfishgold.com/#en) - Israeli Sign Language Dictionary
+* [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
@@ -1844,7 +1845,7 @@
 ## ▷ Study Tools
 
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [Discord](https://discord.gg/the-study-lions-780195610154237993) / [GitHub](https://github.com/StudyLions/StudyLion)
-* ⭐ **[StudyKit](https://studykit.app/)** / [Discord](https://discord.gg/3xY797eH3E), [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material
+* ⭐ **[StudyKit](https://studykit.app/)** / [Discord](https://discord.gg/3xY797eH3E), [Studocu](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [⁠Blooket](https://www.blooket.com/), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize) or [SparkNotes](https://www.sparknotes.com/) - Quiz / Study Platforms
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android, iOS
 * [⁠Helium](https://www.heliumedu.com/) - Class Schedule Tracker / Grade Tracker / Planner / Android, iOS, Web / [GitHub](https://github.com/HeliumEdu)

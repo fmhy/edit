@@ -66,17 +66,14 @@
 
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
 * [Chance](https://chanceapp.io/?c=CHANCE-FMHY-DOOR) - Find Random Sites
-* [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
 * [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites
-* [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites
 * [ViralWalk](https://www.viralwalk.com/) - Find Random Sites
 * [The Forest](https://theforest.link/) - Find Random Sites
 * [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
-* [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
 * [CloudHiker](https://cloudhiker.net/) - Find Random Sites
@@ -782,7 +779,7 @@
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
 * [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
 * [NOOP](https://rentry.co/FMHYB64#noop) - Offline WHOOP Companion App
-* [⁠Bevel](https://www.bevel.health/) - Wearable Watch Health Data App
+* [⁠Bevel](https://www.bevel.health/) or [Pulse](https://pulse.portlabs.in/) / [GitHub](https://github.com/adityaongit/pulse) - Wearable Watch Health Data Apps
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png) - BMI Range Graph
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
@@ -1072,7 +1069,7 @@
 
 * 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index/)** or [UK Personal Finance](https://ukpersonal.finance/) - Personal Finance Advice / Resources
 * ⭐ **[Paisa](https://paisa.fyi/)**, **[HomeBank](https://www.gethomebank.org/)**, **[Bagels](https://github.com/EnhancedJax/Bagels)**, **[GnuCash](https://gnucash.org/)**, **[Firefly III](https://firefly-iii.org/)**, **[Money Manager EX](https://moneymanagerex.org/)** or **[Actual](https://actualbudget.org/)** - Finance / Expense Managers
-* [Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/) or [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) - Mobile Expense Managers
+* [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app), [Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/) or [My Expenses](https://www.myexpenses.mobi/) - Mobile Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Goal Tracker
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Manager
 * [Ledger](https://ledger-cli.org/) or [hledger](https://hledger.org/) - Plain-Text Accounting Tools

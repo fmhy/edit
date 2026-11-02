@@ -166,7 +166,7 @@
 * 🌐 **[Console](https://console.substack.com/)** - Search Projects on OpenSourceHub.io
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** or [Forgejo](https://forgejo.org/compare/#only-develops-free-software) - Git Collab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_git_project_indexes)**
-* ⭐ **[Fork](https://git-fork.com/)** (infinite trial) or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
+* ⭐ **[Fork](https://git-fork.com/)** (infinite trial), [SourceGit](https://sourcegit-scm.github.io/) or [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git Desktop Clients
 * [⁠git.gay](https://git.gay/), [GitHub.com](https://github.com/), [⁠CodeFloe](https://codefloe.com/), [⁠Tangled](https://tangled.org/) / [Discord](https://discord.com/invite/W7SRR4xHhd), [GitLab](https://about.gitlab.com/), [Radicle](https://radicle.dev/), [⁠Upd.dev](https://upd.dev/), [Codeberg](https://codeberg.org/) / [Matrix](https://matrix.to/#/#codeberg-space:matrix.org), [git.sr.ht](https://git.sr.ht/), [GitGud.io](https://about.gitgud.io/), [GitGud](https://gitgud.io/) or [Notabug](https://notabug.org/) - Git Hosting Services
 * [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/) - Self-Hosted Repository Platforms
 * [Git](https://git-scm.com/) or [Jujutsu](https://www.jj-vcs.dev) - Version Control Systems
@@ -538,17 +538,18 @@
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
-* [⁠DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - Coding AI / [Multi-Bot Team Plugin](https://github.com/Fei2411/DeepSeek-Bot)
+* [⁠DeepSeek Harness](https://deepseek.com/harness/) - Coding AI / [Multi-Bot Team Plugin](https://github.com/Fei2411/DeepSeek-Bot) / [GitHub](https://github.com/deepseek-ai/deepseek-harness))
 * [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [AI SDK](https://ai-sdk.dev/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
+* [⁠T3 Code](https://t3.codes/) - Multi-Platform Agent Client / [GitHub](https://github.com/pingdotgg/t3code)
 * [Code Web Chat](https://github.com/robertpiosik/CodeWebChat) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [⁠ZCode](https://zcode.z.ai/) - Coding AI / [GitHub](https://github.com/zai-org/ZCode)
 * [Ampcode](https://ampcode.com/) - Coding AI
 * [⁠FreeBuff](https://freebuff.com/) - Coding Agent / Cloud Sandbox / MiMo 2.5
-* [⁠jcode](https://jcode.sh/) - Terminal Coding Agent
+* [⁠jcode](https://jcode.sh/) - Terminal Coding Agent / [Discord](https://discord.com/invite/nBe9vGyK9a) / [GitHub](https://github.com/1jehuang/jcode)
 * [omp](https://omp.sh/) - Terminal Coding Agent / [GitHub](https://github.com/can1357/oh-my-pi)
 * [⁠cmux](https://cmux.com/) - Terminal Emulator for Agents / macOS / [GitHub](https://github.com/manaflow-ai/cmux)
 * [⁠Poolside AI](https://docs.poolside.ai/api/overview) - Coding AI API

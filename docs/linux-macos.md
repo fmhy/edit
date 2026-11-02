@@ -641,7 +641,7 @@
 * [Clearly](https://clearly.md/) - Markdown Editor / [GitHub](https://github.com/Shpigford/clearly)
 * [⁠TypeWhisper](https://www.typewhisper.com/en/) - Text to Speech / [Discord](https://discord.gg/pUFR4a65SD) / [GitHub](https://github.com/TypeWhisper)
 * [Agenda](https://agenda.com/) - Date-Focused Note Organizer / [Forum](https://agenda.community/)
-* [Taskpaper](https://www.taskpaper.com/) - Plain Text To-Do Lists
+* [Things 3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search) or [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
 * [Hammerspoon](https://www.hammerspoon.org/) or [Bunch](https://bunchapp.co/) - Desktop Automation via Lua Scripts
 * [MacScripter](https://www.macscripter.net/) - Automation Forum

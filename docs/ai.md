@@ -93,6 +93,7 @@
 * [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
 * [Msty](https://msty.ai/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
 * [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
+* [Kelivo](https://github.com/Chevey339/kelivo) - Desktop App
 * [⁠Lemonade](https://lemonade-server.ai/) - Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)
 * [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
 * [LobeHub](https://lobechat.com/chat) - Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
@@ -369,6 +370,7 @@
 * [tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
 * [⁠Page Assist](https://github.com/n4ze3m/page-assist), [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
+* [⁠gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Unlock Full Tensor throughput on NVIDIA GPUs / Linux
 * [⁠LightSession](https://github.com/11me/light-session) - Fix ChatGPT Lag
 * [⁠Privatiser](https://privatiser.net/) - Anonymize Sensitive Data for AI
 * [⁠Agent Reach](https://github.com/Panniantong/Agent-Reach) - Connect AI Agents to Popular Internet Platforms
@@ -383,9 +385,9 @@
 
 ## ▷ Model Weights
 
+* ⭐ **[Hugging Face](https://huggingface.co/)** - Open-Source AI Model Hub, Datasets & Spaces
 * [⁠Pirate Face](https://pirateface.co/) or [⁠llama.garden](https://llama.garden/) - Model Weight Torrents
 * [⁠The Hugging Bay](https://huggingbay.xyz/) - Open-Source AI Model Catalog & Torrent Index
-* [Hugging Face](https://huggingface.co/) - Open-Source AI Model Hub, Datasets & Spaces
 * [ModelScope](https://modelscope.cn/) - Open-Source AI Model Repository
 
 ***

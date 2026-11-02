@@ -22,7 +22,6 @@
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage / [GitHub](https://github.com/bleachbit/bleachbit)
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [CoreTemp](https://www.alcpu.com/CoreTemp/) - Process Monitor
 * [Why Is This Running?](https://github.com/pranshuparmar/witr) - Process Tracing / Debugging
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games / [GitHub](https://github.com/Merrit/nyrna)
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
@@ -73,12 +72,9 @@
 * ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI Package Manager / [Browse](https://winstall.app/) / [Manifest Creator](https://github.com/microsoft/winget-create) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
 * ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
-* ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
-* [RuckZuck](https://ruckzuck.tools/) - Package Manager
-* [RepoHub](https://github.com/yusufipk/RepoHub) - Package Manager / Web-Based
 * [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
+* [sfsu](https://github.com/winpax/sfsu/) or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
 * [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
@@ -238,7 +234,7 @@
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, macOS, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, macOS, Linux
-* [Task Manager DeLuxe](https://www.mitec.cz/tmx.html), [⁠TaskSlinger](https://taskslinger.net/), [⁠AppControl](https://www.appcontrol.com/) / [Discord](https://discord.gg/txdQZtW8AV) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
+* [Task Manager DeLuxe](https://www.mitec.cz/tmx.html), [⁠AppControl](https://www.appcontrol.com/) / [Discord](https://discord.gg/txdQZtW8AV) or [System Informer](https://systeminformer.sourceforge.io/) / [GitHub](https://github.com/winsiderss/systeminformer/) - Task Manager Alts / Windows
 * [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Updated Fork of Open Hardware Monitor / Windows
 * [FanControl](https://getfancontrol.com/) / [GitHub](https://github.com/Rem0o/FanControl.Releases) or [FanCtrl](https://github.com/lich426/FanCtrl) - PC Fan Controllers / Windows
 * [bottom](https://bottom.pages.dev) / [GitHub](https://github.com/ClementTsang/bottom) or [Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - Terminal Hardware Monitors / Windows, macOS, Linux

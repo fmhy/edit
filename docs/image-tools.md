@@ -16,6 +16,7 @@
 * ⭐ **[ImageMagick](https://imagemagick.org/)** / Windows, macOS, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
 * [⁠Affinity](https://www.affinity.studio/) / Windows, macOS / [Linux](https://github.com/ryzendew/Linux-Affinity-Installer) / [No Login Method](https://rentry.co/FMHYB64#affinity)
 * [⁠PaintFE](https://paintfe.com/) / Windows, macOS, Linux / [GitHub](https://github.com/kylejckson/PaintFE)
+* [Photon](https://tenzen.studio/photon/) / Windows, macOS, Linux
 * [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
 * [⁠Schist](https://schist.app/) / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/Infrawrench/schist)
 * [PhotoDemon](https://photodemon.org/) / Windows / [GitHub](https://github.com/tannerhelland/PhotoDemon)
@@ -488,7 +489,7 @@
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
 * [⁠Old Book Illustrations](https://www.oldbookillustrations.com/) or [⁠FreeVintageIllustrations](https://freevintageillustrations.com/) - Public Domain / Vintage Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
-* [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru App / Android
+* [Waifu Deck](https://waifudeck.app/) / [GitHub](https://github.com/fancydirty/waifu-deck) or [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) - Multi-Booru Apps / Android
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader
 * [Artbreeder](https://artbreeder.com/) - Image Discovery / Combining
 * [TEv2](http://te2.tewi.us/) - Share Your Drawings

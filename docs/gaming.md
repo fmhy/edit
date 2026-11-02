@@ -553,7 +553,7 @@
 * ⭐ **[Crosshare](https://crosshare.org/)** - Crossword Puzzles / Creator
 * [⁠Forkyz](https://gitlab.com/Hague/forkyz) - Multi-Platform Crossword App / [Sources](https://hague.gitlab.io/forkyz/)
 * [BestCrosswords](https://www.bestcrosswords.com/) - Crossword Puzzles
-* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Cross with Friends](https://www.crosswithfriends.com/) or [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Truncate](https://truncate.town/) - Crossword Strategy Game
 * [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
 * [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)

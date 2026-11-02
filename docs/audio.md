@@ -17,6 +17,7 @@
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
+* [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - YouTube Music Client
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
@@ -132,6 +133,7 @@
 ## ▷ DJ Mixes / Livesets
 
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
@@ -234,7 +236,6 @@
 
 ## ▷ Internet Radio
 
-* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / User Supported / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[AccuRadio](https://www.accuradio.com/)** - Online Radio Directory / [Add Features](https://greasyfork.org/scripts/591641)
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
@@ -297,6 +298,7 @@
 
 * 🌐 **[⁠Unify.fm](https://www.unify.fm/)** - Independent Electronic Radio Index
 * [Di.fm](https://www.di.fm/) - Electronic Radio
+* [Scientific Sound Asia](https://www.scientificsound.asia/radio-station/) - Underground / Asian Electronic Radio ⁠
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
 * [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
@@ -310,6 +312,7 @@
 * [NTS Poolside](https://www.nts.live/infinite-mixtapes/poolside) or [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [NTS Otaku](https://www.nts.live/infinite-mixtapes/otaku) or [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
+* [⁠Kobold.FM](https://kobold.messy.quest/) - Dungeon Synth & Fantasy Ambient Radio
 * [420.moe](https://420.moe/) - 420 Radio
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 
@@ -340,7 +343,8 @@
 
 # ► Spotify Tools
 
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_android_audio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25BA_ios_audio)** - Mobile Spotify Patchers
+* ↪️ **[Android Spotify Tools](https://fmhy.net/mobile#android-audio)**
+* ↪️ **[iOS Spotify Patchers](https://fmhy.net/mobile#ios-audio)**
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Ad-Free Spotify Patchers / [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
