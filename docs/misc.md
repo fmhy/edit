@@ -297,6 +297,7 @@
 * [r/Farming](https://reddit.com/r/farming/) - Farming Community
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [Composting](https://eartheasy.com/blogs/grow/composting) - Composting Guides
+* [CloverAcre](https://cloveracre.com/) - Home canning, raised-bed gardening, and backyard chicken guides with food-safety sourcing
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [World Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plantmaps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
