@@ -363,7 +363,7 @@
 
 # ► AI Tools
 
-* 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
+* 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) or **[PricePerToken](https://pricepertoken.com/)**, **[LLMEndpoint](https://llmendpoint.com/)** - AI / LLM API Price Comparisons
 * 🌐 **[sindresorhus's Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
