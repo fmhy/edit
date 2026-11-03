@@ -78,6 +78,7 @@
 * [frameXTV](https://framextv.xyz/) - Movies / TV / Anime / [Discord](https://discord.gg/vPCHZ6PgRX)
 * [All About Movies](https://allaboutmovies.pages.dev/) - Movies / TV / Anime
 * [Nxsha](https://web.nxsha.app/) - Movies / TV / Anime / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
+* [Zynema](https://www.zynema.co/) - Movies / TV / Anime / Live TV / Watch Party
 
 ***
 
