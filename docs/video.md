@@ -37,7 +37,7 @@
 * [BingeBang](https://bingebang.st/) - Movies / TV / Anime / Auto-Next / 4K / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)
 * [Lightflix](https://lightflix.app/) or [Afterdusk](https://afterdusk.app/) - Movies / TV / Anime / Auto-Next / 4K
 * [MovieBite](https://moviebite.org/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
-* [67Movies](https://67movies.st/) or [PhantomFlix](https://phantomflix.net/) - Movies / TV / Anime / Auto-Next
+* [SweetFox](https://sweetfox.app/) or [67Movies](https://67movies.st/) - Movies / TV / Anime / Auto-Next
 * [Moonflix](https://moonflix.website/) - Movies / TV / Anime / Auto-Next / [Telegram](https://t.me/Moonflix_official_Channel)
 * [Zenox](https://zenox.lol/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/mYvhW9FNC9)
 * [Nexa](https://nexa.mov/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.com/invite/Yb6vu9xxUR)
