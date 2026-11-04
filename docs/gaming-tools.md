@@ -392,7 +392,7 @@
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - Steam DLC / Family Unlocker
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Origin and EA
 * [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
-* [⁠Pub's Lounge](https://discord.gg/pubslounge) or [⁠Anti Denuvo Sanctuary](https://rentry.denuvosanctuary.com/discordinvite) / [Subreddit](https://www.reddit.com/r/Denuvosanctuary/) / [GitHub](https://github.com/denuvosanctuary) - DRM Bypass / Activation Servers
+* [⁠Pub's Lounge](https://discord.gg/pubslounge), [⁠Anti Denuvo Sanctuary](https://rentry.denuvosanctuary.com/discordinvite) / [Subreddit](https://www.reddit.com/r/Denuvosanctuary/) / [GitHub](https://github.com/denuvosanctuary) or [The Dark Tides](https://discord.gg/thedarktides) - DRM Bypass / Activation Servers
 * [Anadius](https://rentry.co/FMHYB64#anadius) - EA DLC Unlocker
 * [ScreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=3559996#p3559996) - Epic DLC Unlocker
 * [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - Microsoft Store + Xbox PC DLC Unlocker
@@ -776,6 +776,7 @@
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM), [MCPEDL](https://mcpedl.com/), [Curseforge (Bedrock)](https://www.curseforge.com/minecraft-bedrock) or [BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - Bedrock Mods / Content
 * [⁠Toolcoin](https://toolcoin.site/) - Bedrock Marketplace DLCs
 * [MC Archive](https://mcarchive.net/) / [Discord](https://discord.com/invite/WuexGpP) - Old Mods Archive
+* [⁠Modgrade](https://modgrade.com/) - Minecraft Mod Safety Check 
 
 ***
 

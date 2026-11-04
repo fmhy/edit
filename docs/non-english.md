@@ -69,6 +69,7 @@
 * [FoulaBook](https://foulabook.com/) - Books
 * [books-library](https://books-library.website/) - Books
 * [AlarabiMag](https://www.alarabimag.com/) - Books
+* [⁠e3raf](https://books.e3raf.co/) - Books
 * [⁠متميزون للكتب](https://t.me/Motamayezon7) / [2](https://t.me/Motamayz00n) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
 * [⁠8ghrb](https://8ghrb.com/) - Books / Light Novels
@@ -211,7 +212,7 @@
 
 ## ▷ Torrenting / 下载种子
 
-* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - QBitorrent for Chinese Users
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - qBittorrent for Chinese Users
 * [Csze BT](https://bt.orzx.im/) - Video / Audio / Books
 * [acgnx](https://www.acgnx.se/) - Video / Audio / Books / NSFW
 * [Share.dmhy](https://share.dmhy.org/) - Video / Anime / NSFW
@@ -1420,7 +1421,8 @@
 * [AIfindy](https://aifindy.com/) - AI Tools Index
 * [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [SubDivX](https://www.subdivx.com/) - Subtitles
-* [Diccionario de LESCO](https://diccionario.handsonlesco.com/) - Costa Rican Sign Language Dictionary
+* [⁠Fundacion CNSE](https://fundacioncnse-dilse.org/) - Spanish Sign Language Dictionary
+* [Diccionario de LESCO](https://diccionario.handsonlesco.com/) or [⁠Diccionario LESCO](https://lesco.cenarec.go.cr/index.php/diccionariolesco) - Costa Rican Sign Language Dictionaries
 * [WikiDex](https://www.wikidex.net/) - Pokémon Wiki / [Discord](https://discord.com/invite/Tb6B3Fq)
 
 ## ▷ Downloading / Descargar

@@ -87,7 +87,7 @@
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
 * [Coders Tool](https://www.coderstool.com/)
-* [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
+* [UUID Tools](https://www.uuidtools.com/) / [GitHub](https://github.com/th-alanreed/uuidtools.com) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 
 ***
 
@@ -286,7 +286,7 @@
 * [Meilisearch](https://www.meilisearch.com/) - Open-Source Site Search Engine / [GitHub](https://github.com/meilisearch/meilisearch)
 * [Secrets To AI](https://discord.com/invite/mMyN7dYdCJ) - AI API Gateway
 * [⁠OmniRoute](https://omniroute.online/) / [GitHub](https://github.com/diegosouzapw/OmniRoute) - Proxy for Developers
-* [Wyzie Subs](https://sub.wyzie.io/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.io/)
+* [Wyzie Subs](https://sub.wyzie.io/) - Subtitle Scraping API / [Setup](https://quiz.wyzie.io/) / [Plugins](https://store.wyzie.io/plugins) / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.io/)
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
@@ -532,14 +532,14 @@
 
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
-* ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GitHub](https://github.com/earendil-works/pi)
+* ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GUI](https://pi-docs.aiuo.net/) / [GitHub](https://github.com/earendil-works/pi)
 * ⭐ **[OpenChamber](https://openchamber.dev/)** - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [⁠DeepSeek Harness](https://deepseek.com/harness/) - Coding AI / [Multi-Bot Team Plugin](https://github.com/Fei2411/DeepSeek-Bot) / [GitHub](https://github.com/deepseek-ai/deepseek-harness)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Limits Reset Weekly / [VSCode Marketplace](https://gist.github.com/tejainece/85408c51ff5e3555ebc4b5b4417a9b6b) / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [AI SDK](https://ai-sdk.dev/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
 * [⁠T3 Code](https://t3.codes/) - Multi-Platform Agent Client / [GitHub](https://github.com/pingdotgg/t3code)
@@ -808,7 +808,7 @@
 * [Motion](https://motion.dev/) - Animation Library
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
+* [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase), [⁠Convex](https://www.convex.dev/) / [GitHub](https://github.com/convex) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy) or [Nginx](https://nginx.org/) / [GitHub](https://github.com/nginx/nginx) - Web Servers
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing / [GitHub](https://github.com/DirectoryLister/DirectoryLister)
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
@@ -825,7 +825,7 @@
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [LocalHost](https://localhost.run/) - Connect Web Apps to Internet
 * [tailspin](https://github.com/bensadeh/tailspin) - Syntax Highlighter
-* [Cloudflared](https://github.com/cloudflare/cloudflared), [⁠untun](https://github.com/unjs/untun) or [ngrok](https://ngrok.com/) - Introspectable Tunnel to Localhost Tools
+* [Cloudflared](https://github.com/cloudflare/cloudflared), [⁠Pangolin](https://pangolin.net) / [GitHub](https://github.com/fosrl/pangolin), [⁠untun](https://github.com/unjs/untun) or [ngrok](https://ngrok.com/) - Introspectable Tunnel to Localhost Tools
 * [Bore](https://github.com/ekzhang/bore) - TCP Tunnel to Expose Servers Local Ports
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - Server Config
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
@@ -1144,7 +1144,7 @@
 * [Grype](https://github.com/anchore/grype) - Container Images Vulnerability Scanner
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
-* [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
+* [UUID Tools](https://www.uuidtools.com/) / [GitHub](https://github.com/t0thkr1s/allsafe-android/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
 * [favicon-hash](https://favicon-hash.kmsec.uk/) - Favicon Hash Generator
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) or [⁠OpenCVE](https://app.opencve.io/cve/) - CVE Details / Search
@@ -1221,7 +1221,7 @@
 * ⭐ **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)** - Cryptography Resources
 * [mitmproxy](https://mitmproxy.org/) - Analyze and modify HTTPS traffic / [OpenAPI Converter](https://github.com/alufers/mitmproxy2swagger) / [GitHub](https://github.com/mitmproxy/mitmproxy)
 * [HTTPToolkit](https://httptoolkit.com/) / [Pro](https://github.com/xenos1337/httptoolkit-patcher) - Intercept, Debug, and Mock HTTP(S)
-* [TLSRef](https://configurator.tlsref.org/) - SSL Configuration Generator
+* [TLSRef](https://configurator.tlsref.org/) - SSL Configuration Generator / [GitHub](https://github.com/tlsref)
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
 * [Let's Encrypt](https://letsencrypt.org/) or [ZeroSSL](https://zerossl.com/) - Free TLS Certificates
