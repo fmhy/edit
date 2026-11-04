@@ -27,7 +27,7 @@ It might take a few minutes to build the image and start the container, running 
 
 ### Nix Flake
 
-You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that setups `nodejs` and `pnpm`.
+You can use [nix](https://nixos.org/) to set up a development environment, we have a [flake](https://nixos.wiki/wiki/Flakes) that set ups `nodejs` and `pnpm`.
 
 1. Fork the repository and clone it to your local machine with `git clone https://github.com/fmhy/edit.git`.
 2. Run `nix flake update` to update the flake lock file.

@@ -330,7 +330,7 @@
 # ► Sports
 
 * 🌐 **[Sports Stat Sites](https://rentry.co/7awch4b9)** - Stat Sites Index
-* 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Sports Schedules for Digital Caldendars
+* 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Sports Schedules for Digital Calendars
 * 🌐 **[Sports Games](https://rentry.co/c7zwkv9t)** - Mock Sports Draft Game Index
 * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
 * ⭐ **[The Athletic](https://www.nytimes.com/athletic/)** - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
@@ -604,7 +604,6 @@
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [WiGLE](https://wigle.net/) - Wireless Networks Map
 * [⁠Community Network Map](https://communitynetworks.org/content/community-network-map) - Municipal Networks Map
-* [Starlink Coverage](https://starlink.sx/) - Starlink Coverage Map / Tracker
 * [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
 * [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
 * [Fossil Fuel Map](https://www.fossilfuelmap.com/) - Fossil Fuel Map Dependency Map
@@ -752,7 +751,7 @@
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
 * ⭐ **[Medito](https://meditofoundation.org/medito-app/)** / [GitHub](https://github.com/meditohq/medito-app) or [⁠Plum Village](https://plumvillage.app/) - Meditation Apps
-* ⭐ **[Breath Ball](https://breathball.com/)** - Guided Breathing Practice App
+* ⭐ **[Breath Ball](https://breathball.com/)** or [Breathly](https://breathly.app/) - Guided Breathing Practice Apps / Android, iOS
 * ⭐ **[/mental health/](https://rentry.co/mentalhealthy)** - Mental Help Tips
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) - Wellbeing Apps / Journals
@@ -1556,7 +1555,7 @@
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * ⭐ **[Floor796](https://floor796.com/)** - Ever-Expanding Animated Scene
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
-* [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newground Flash Animation Archive
+* [Newgrounds Auditorium](https://bluemaxima.org/auditorium/) - Newgrounds Flash Animation Archive
 * [⁠SWF Rodeo](https://swf.rodeo/) or [TheBest404](https://thebest404pageeverredux.com/) - Random SWFs
 * [MSPFA](https://mspfa.com/) - MS Paint Fan Adventures
 * [GigaMacro](https://viewer.gigamacro.com/) - Panoramic Photography
@@ -1652,7 +1651,6 @@
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [Frequency2156](https://frequency2156.com/) - Listen to / Record Survival Messages
-* [⁠Flipbook](https://flipbook.page/) - Interactive Topic Expansion AI
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - Cookie Disabling Game
@@ -1778,7 +1776,7 @@
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
+* [PoliticalTests](https://politicaltests.github.io/) or [⁠12 Axes](https://12axes.vercel.app/) - Political Alignment Tests
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
 * [⁠Read QR By Hand](https://noel-friedrich.github.io/read-qr-by-hand) - Learn How-To Read QR by Hand
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"

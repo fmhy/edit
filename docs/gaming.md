@@ -85,7 +85,7 @@
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/open-source/)** - Open-Source, Decomps, Ports, Translations & more
 * 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Open Source Games](https://github.com/bobeff/open-source-games), [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
-* ↪️ **[Genre Specific Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25BA_genre_specific)** / **[Game Specfic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25BA_game_specific)**
+* ↪️ **[Genre Specific Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25BA_genre_specific)** / **[Game Specific](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25BA_game_specific)**
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [⁠Adventure Game Studio](https://www.adventuregamestudio.co.uk/#play) - Point-And-Click Games / [Discord](https://discord.gg/BSvN5ZF) / [GitHub](https://github.com/adventuregamestudio/ags)
@@ -320,6 +320,7 @@
 * [Dats.site](https://dats.site/) - Scene Release Hash Database
 * [r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Wiki](https://www.reddit.com/r/Roms/wiki/) / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
+* [Code Converter ](https://dowdy.dev/utilities/code-converter/) - PS2 Cheat Code Converter (Single Player Only)
 
 ***
 

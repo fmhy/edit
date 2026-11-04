@@ -50,6 +50,7 @@
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
+* [⁠HackerTube](https://hackertube.org/) - Educational YouTube Videos
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 
 ***
@@ -157,7 +158,7 @@
 * [BelowTheSurface](https://belowthesurface.amsterdam/en) - Archeological Object DB of Amsterdam
 * [WW2 in 100 Objects](https://www.tweedewereldoorlog.nl/100voorwerpen/en/virtual-tour/) - WW2 Museum Virtual Tour
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
-* [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
+* [Virtual Visit Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Virtual Yosemite](https://www.virtualyosemite.org/) - Virtual Yosemite Tour
 * [Matterport](https://discover.matterport.com/) - Explore Real Places Digitally
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
@@ -1391,6 +1392,8 @@
 * [DeafVideo](https://www.deafvideo.tv/) - ASL Vlogs + Videos / YouTube Style Site for Deaf Content
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
+* [⁠Fundacion CNSE](https://fundacioncnse-dilse.org/) - Spanish Sign Language Dictionary
+* [Diccionario de LESCO](https://diccionario.handsonlesco.com/) or [⁠Diccionario LESCO](https://lesco.cenarec.go.cr/index.php/diccionariolesco) - Costa Rican Sign Language Dictionaries
 * [⁠Danfish Gold](https://isl.danfishgold.com/#en) - Israeli Sign Language Dictionary
 * [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL

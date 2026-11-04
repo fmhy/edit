@@ -297,7 +297,7 @@ export default defineConfig({
     },
     editLink: {
       pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
-      text: '📝 Edit this page'
+      text: 'Edit this page'
     },
     outline: 'deep',
     logo: {
