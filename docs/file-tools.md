@@ -211,7 +211,7 @@
 * [FoliCon](https://dineshsolanki.github.io/FoliCon/) - Automatic Custom Media Icons / Folders / [GitHub](https://github.com/DineshSolanki/FoliCon)
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
-* [FileBot](https://www.filebot.net/) - Media File Renaming
+* [FileBot](https://www.filebot.net/) or [CineRename](https://cinerename.app/) - Media File Renaming / [GitHub](https://github.com/CineRename/CineRename)
 * [TVRename](https://www.tvrename.com/) or [⁠Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 
