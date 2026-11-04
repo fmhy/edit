@@ -85,6 +85,7 @@
 * [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool
 * [Poedit](https://poedit.com/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) or [The Morse Lab](https://themorselab.com/) - Morse Code Translation Tools
+* * [Morse Code Translator]([https://morsecodetranslatr.com/]) - Online Morse code encoder, decoder, and audio translator.
 * [Sign Translate](https://rylo.com/sign/translate/) - Text to Sign-Language Video Translator
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Sign Language Translator
 * [⁠Braille Translator](https://wecapable.com/braille-translator/) - Braille Translator
