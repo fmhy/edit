@@ -1680,6 +1680,7 @@
 * [⁠The HTML Review](https://thehtml.review/archive) - Interactive Stories / Poetry Written in Code
 * [⁠Ted the Caver](https://teds-caving-page.netlify.app/) - Interactive Horror Story / Webs First Creepypasta (2001)
 * [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
+* [tiny.london](https://tiny.london/), [Isometric NYC](https://isometric.nyc/) or [Isometric Istanbul](https://isometricistanbul.com/) - Isometric Pixel-Art Maps
 * [⁠Web Rewind](https://web-rewind.com/) - Interactive Web History Journey
 * [What Football Will Look Like](https://www.sbnation.com/a/17776-football/chapter-1) - Interactive Future Football Story
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 3D Driving Simulator

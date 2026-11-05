@@ -822,6 +822,7 @@
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
+* [Fooyin](https://www.fooyin.org/) - Audio Player / Windows, Linux / [GitHub](https://github.com/fooyin/fooyin)
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
 * [Mornye](https://desktop.mornye.com/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * [Snowify](https://snowify.cc/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/JHDZraE5TD) / [GitHub](https://github.com/nyakuoff/Snowify)

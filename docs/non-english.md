@@ -1727,6 +1727,7 @@
 ## ▷ Reading
 
 * [FaylZona](https://t.me/megadokbot) - Books / Documents / Slides
+* [⁠Ziyouz](https://n.ziyouz.com/) - Books
 
 ***
 

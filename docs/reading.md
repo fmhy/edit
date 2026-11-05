@@ -912,6 +912,7 @@
 * [Literal](https://literal.club/) - Social Reading Tracker / Reviews / Reading Lists
 * [Oku](https://oku.club/) - Book Tracking / Reading Goals / Collections / Statistics
 * [Candl](https://www.candlapp.com/) - Private Reading Tracker / Notes / Statistics / Spaced Repetition
+* [⁠Bookplate](https://bookplate.eu/) - Private Reading Tracker / Notes
 * [Libib](https://www.libib.com/) - Personal Library Cataloguing / ISBN Scanning / Web & Mobile
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Book Collection Manager / Windows
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews / Reading Community

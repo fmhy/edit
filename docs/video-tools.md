@@ -249,7 +249,6 @@
 * [⁠CinevoSync](https://sync.cinevo.us/) - Online Player
 * [VideoTogether](https://videotogether.github.io/) - App
 * [baked.live](https://baked.live/) - Online Player
-* [Rave.io](https://rave.io/) - Online Extension
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) - Docker / [Discord](https://discord.gg/F2VSgjJ)
 
 ***

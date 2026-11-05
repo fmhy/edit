@@ -68,7 +68,7 @@
 ## ▷ File Converters
 
 * ⭐ **[File Converter](https://file-converter.io/)** - Offline / Convert & Compress Files / Windows / [GitHub](https://github.com/Tichau/FileConverter) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/file-converter-note.md)
-* ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* ⭐ **[VERT](https://vert.sh/)** - Offline / Some Video Conversions Require Servers / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / Web / [GitHub](https://github.com/p2r3/convert)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) / [GitHub](https://github.com/jgm/pandoc) - PDF / Documents CLI Converters
@@ -241,7 +241,7 @@
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
 * [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
 * [⁠PDFkind](https://pdfkind.com/) - Client-Side
-* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Codeberg](https://codeberg.org/ladigitale/digipdf)
+* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Source Code](https://codeberg.org/ladigitale/digipdf)
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
 * [⁠PDFResizer](https://pdfresizer.com/) - Server-Side
@@ -361,7 +361,7 @@
 * [eDisk](https://www.edisk.cz/) - 10GB / 30 Days
 * [⁠Origrid](https://origrid.io/) - 100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)
 * [⁠DropMeFiles (ua)](https://dropmefiles.com.ua/) - 100GB / 14 Days
-* [⁠filedrop](https://r7zxn.cc/filedrop/) - 10GB / 30 Days
+* [⁠filedrop](https://r7zxn.cc/filedrop/) - 10GB / 30 Days / [Source Code](https://codeberg.org/r7zxn/filedrop)
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
