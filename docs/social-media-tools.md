@@ -555,6 +555,7 @@
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
+* [twtData Trends](https://twtdata.com/twitter-trends/) - X.com Trends by Country / Dated Archive
 * [Community Notes Leaderboard](https://community-notes-leaderboard.com/) - X.com Community Notes Leaderboard
 * [Osomenet](https://osome.iu.edu/tools/osomenet/) - Twitter Info Spread Data
 * [Twitter Mass Unfollow](https://github.com/luqmanoop/twitter-mass-unfollow) - X.com Unfollow Tool
