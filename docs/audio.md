@@ -120,7 +120,7 @@
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
-* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
+* [SongKick](https://www.songkick.com/), [FindYourFest](https://www.findyourfest.com/) or [Music Festival Event](https://musicfestivalevent.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [Konserthuset](https://www.konserthuset.se/en/play/) - Orchestra Recordings
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
