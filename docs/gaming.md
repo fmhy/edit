@@ -741,6 +741,13 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Requires Sign-Up
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [The Spider Solitaire](https://thespidersolitaire.com/) - Spider Solitaire
+* [The FreeCell](https://thefreecell.com/) - FreeCell Solitaire
+* [The Sudokus](https://thesudokus.com/) - Sudoku Puzzles
+* [iMahjong](https://imahjongfree.com/) - Mahjong Solitaire
+* [iBackgammon Play](https://ibackgammonplay.com/) - Backgammon
+* [iWord Search](https://iwordsearch.com/) - Word Search Puzzles
+* [Play Hearts](https://playheartsfree.com/) - Hearts Card Game
 
 ***
 
