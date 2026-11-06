@@ -369,7 +369,6 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/price)
 * [FileFast](https://file.fast/) - 5GB / Unlimited / [Discord](https://discord.com/invite/PnHjVGfjQa)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
-* [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [Upload.bg](https://upload.bg/) - 10GB / 30 Days
 * [⁠Zipyshare](https://zipyshare.com/) - 5GB / 7 Days After Last Download / Longer for Smaller Files
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)
@@ -392,6 +391,7 @@
 * [⁠2share](https://2share.su/) - 2GB / Forever
 * [⁠NippyDrop](https://nippydrop.com/) - 2GB / 90 Days
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Requires Signup
+* [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
 * [Filegoat](https://filego.at/) - 5GB / 90 Days After Last View
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days

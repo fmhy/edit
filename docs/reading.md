@@ -452,6 +452,7 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
+* [⁠YumeZone](https://yumezone.live/manga/)
 * [Mgread](https://mgread.io/)
 * [Scans.gg](https://scans.gg/changelog) / [Discord](https://discord.gg/cYFgYu66rx)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -920,6 +921,7 @@
 * [EntertainMe](https://www.entertainme.fun/) - Multi-Media Tracking / Books / Films / Games
 * [rate.house](https://rate.house/) - Multi-Media Ratings / Reviews / Tracking
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker / Books / Films / TV / Games
+* [⁠BookOrbit](https://bookorbit.app/) / [GitHub](https://github.com/bookorbit/bookorbit) or [⁠Grimmory](https://grimmory.org/) / [GitHub](https://github.com/grimmory-tools/grimmory) - Ebook Managers / Self-Hosted
 * [Listal](https://www.listal.com/) - Media Collection Tracking / Reviews / Lists
 * [Ratings Filter](https://www.book-filter.com/) - Filter Books by Goodreads & StoryGraph Ratings
 * [Books Search](https://books-search.typesense.org/) - Fast Open Library Book Database Search

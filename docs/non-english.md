@@ -1722,6 +1722,7 @@
 ## ▷ Streaming
 
 * [uzmax.net](https://uzmax.net/) - Movies / TV
+* [FreeKino](https://freekino.net/) - Movies / TV
 * [AsilMedia](https://asilmedia.org/) - Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)
 
 ## ▷ Reading
@@ -1751,10 +1752,10 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim.tech/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [⁠Sofaflix](https://sofaflix.rest/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [⁠Tram Phim](https://tramphim.app/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [AnimeTVN](https://animetvn.com/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.link/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
 * [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses

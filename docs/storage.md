@@ -94,7 +94,6 @@
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
-* [Tiarap](https://tiar.app/) - Privacy-Friendly DNS Resolver
 * [Rethink DNS](https://rethinkdns.com/configure)
 * [DNSBunker](https://dnsbunker.org/)
 * [HaGeZi DNS](https://github.com/hagezi/dns-servers)
@@ -116,7 +115,6 @@
 
 * [F0rc3Run](https://forcerun.page.gd/) / [GitHub](https://github.com/F0rc3Run/F0rc3Run)
 * [V2Nodes](https://v2nodes.com/)
-* [v2ray servers](https://github.com/ebrasha/free-v2ray-public-list)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)

@@ -357,7 +357,7 @@
 ## ▷ Players / Frontends
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_youtube_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_youtube_apps)** - Mobile YouTube Apps
-* ⭐ **[FreeTube](https://freetubeapp.io/)** / [GitHub](https://github.com/FreeTubeApp/FreeTube) or [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - Desktop YouTube Apps 
+* ⭐ **[FreeTube](https://freetubeapp.io/)** / [GitHub](https://github.com/FreeTubeApp/FreeTube), [⁠OpenTubeX](https://opentubex.org/) / [GitHub](https://github.com/OpenTubeX/OpenTubeX) or [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - Desktop YouTube Apps 
 * ⭐ **[Invidious](https://invidious.io/)** or [Materialious](https://materialio.us/) - YouTube Frontend / [Instances](https://api.invidious.io/), [2](https://redirect.invidious.io/) / [TUI](https://github.com/darkhz/invidtui) / [GitHub](https://github.com/iv-org/invidious/)
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 * [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Use YouTube Full Window Player / Bypass uBO Delay

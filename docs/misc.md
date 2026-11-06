@@ -636,6 +636,7 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
 * ⭐ **[Current Events Wiki](https://wikipedia.org/wiki/Portal:Current_events)** or [News as Facts](https://newsasfacts.com/) - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
+* [TV.Jest](https://tv.jest.one/) or [WorldNews24](https://worldnews24.tv/) - Live TV / News
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
@@ -652,6 +653,7 @@
 * [Dailynous](https://dailynous.com/) - Philosophy News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [FinURLs](https://finurls.com/) - Finance & Business News
+* [⁠election.run](https://election.run/) - Multi-Stream Election Streams / News 
 * [⁠NCS](https://www.newscaststudio.com/) - Television Broadcast Network News
 * [⁠Podnews](https://podnews.net/) - Podcast News
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
@@ -718,10 +720,10 @@
 * 🌐 **[Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)** - HN Apps & Resources Index
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * ⭐ **[Modern HN](https://greasyfork.org/scripts/578540)** / [2](https://www.modernhn.com/) - Modern UI Extension
+* [Orange Juice](https://oj-hn.com/) - Hacker News Features / Extension / [GitHub](https://github.com/OrangeJuiceExtension/OrangeJuice)
 * [Hacki](https://github.com/Livinglist/Hacki) or [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) / [GitHub](https://github.com/SimonHalvdansson/Harmonic-HN) - Android Hacker News Apps
 * [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
 * [The Hacker Herald](https://hackerherald.com/), [⁠Brutalist HN](https://brutalisthackernews.com/), [unslop.news](https://www.unslop.news/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
-* [Orange Juice](https://oj-hn.com) - Hacker News Features / Extension / [GitHub](https://github.com/OrangeJuiceExtension/OrangeJuice)
 * [HNRankings](https://hnrankings.com/) - Best of / Top Posts Aggregator
 * [⁠Hacker Smacker](https://hackersmacker.org/) - Filter / Mark HackerNews Posters
 * [⁠Hacker Book](https://hackerbook.dosaygo.com/) - Hacker News Posts + Comment Archive
@@ -1454,7 +1456,7 @@
 * ↪️ **[Android Productivity / App Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_productivity_.2F_app_blockers)**
 * ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List / [GitHub](https://github.com/super-productivity/super-productivity)
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App / [GitHub](https://github.com/HabitRPG/habitica)
-* ⭐ **[LeechBlock](https://www.proginosko.com/leechblock/)**, [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [uBlacklist](https://ublacklist.github.io/docs) / [GitHub](https://github.com/iorate/ublacklist) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
+* ⭐ **[LeechBlock](https://www.proginosko.com/leechblock/)**, [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
 * [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons
 * [⁠FocusTube](https://github.com/malekwael229/FocusTube), [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Distraction / Doomscroll Blocking Extensions
 * [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community

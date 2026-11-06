@@ -751,7 +751,7 @@
 * [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games on Mac
 * [⁠Highball](https://github.com/gauthierpiarrette/highball) - Run Windows Games on Apple Silicon
 * [⁠Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - Create Wine Wrapped Game Ports for Mac
-* [⁠MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Run Switch Games Natively on Apple Silicon
+* [⁠MacNativeGames](https://github.com/ly05010419/MacNativeGames) or [nxnative](https://github.com/seedds/nxnative) - Run Switch Games on macOS
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic / GOG / Prime Games Launcher / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Mythic](https://getmythic.app/) - Epic Games Launcher / [Discord](https://discord.gg/58NZ7fFqPy)
 * [⁠MetalGoose](https://github.com/Stallion77RepoOfficial/MetalGoose) - Frame Generation + Upscaling Tool

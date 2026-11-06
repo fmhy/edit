@@ -17,6 +17,7 @@
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
+* [⁠Meiro](https://meiro.elianiva.com/) - YouTube Music Client / [GitHub](https://github.com/elianiva/meiro)
 * [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - YouTube Music Client
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -38,6 +39,7 @@
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music / US Only
+* [⁠pointify](https://pointify.qzz.io/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [⁠Arcod](https://player.arcod.xyz/) - Browser Music
@@ -148,29 +150,32 @@
 ## ▷ Podcast Streaming
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
-* ⭐ **[Pocket Casts](https://pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
-* [⁠jumbletop](https://jumble.top/) or [⁠Pirate Podcast Feeds](https://piratefeeds.net/) - Premium Podcast Feeds
-* [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
-* [Podchaser](https://www.podchaser.com/charts), [Podcast Index](https://podcastindex.org/) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
-* [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
-* [Rephonic](https://rephonic.com/graph) - Find Similar Podcasts
-* [Apple Podcasts](https://podcasts.apple.com/us/home)
-* [PodParadise](https://www.podparadise.com/)
-* [Podbean](https://www.podbean.com/)
-* [Podbay](https://podbay.fm/)
-* [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) / [Downloader](https://github.com/get-iplayer/get_iplayer)
-* [Player FM](https://player.fm/)
-* [Podcast Republic](https://www.podcastrepublic.net/)
-* [Relay.fm](https://www.relay.fm/)
-* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders
-* [PodScripts](https://podscripts.co/) - Podcast Transcript Search
-* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
-* [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
-* [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
-* [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts
-* [PodSync](https://github.com/mxpv/podsync) or [PigeonPod](https://pigeonpod.cloud/) / [GitHub](https://github.com/aizhimou/pigeon-pod) - Turn YouTube/Bilibili Channels + Playlists into Podcasts
-* [⁠Podnews](https://podnews.net/) - Podcast News
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcast Streaming / Video Podcasts / [SponsorBlock](https://spotsponsorblock.org/) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS Tool](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
+* ⭐ **[Pocket Casts](https://pocketcasts.com/)** - Cross-Platform Podcast Player / Playlists / Playback Controls / [Desktop App](https://pocketcasts.com/downloads/windows/)
+* ⭐ **[Listen Notes](https://www.listennotes.com/)** - Podcast & Episode Search Engine / Curated Playlists / [API](https://www.listennotes.com/api/)
+* [Apple Podcasts](https://podcasts.apple.com/) - Podcast Streaming / Discovery / Charts / Transcripts
+* [Podcast Republic](https://www.podcastrepublic.net/) - Podcast Player / Playlists / Downloads / Custom RSS Feeds
+* [Player FM](https://player.fm/) - Podcast Player / Discovery / Categories / Offline Listening
+* [Podverse](https://podverse.fm/) - Open-Source Podcast Player / RSS Feeds / Podcasting 2.0 / Web & Mobile
+* [Podbean](https://www.podbean.com/) - Podcast Streaming / Discovery / Hosting Platform
+* [PodParadise](https://www.podparadise.com/) or [Podbay](https://podbay.fm/) - Browser-Based Podcast Players / Discovery
+* [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) - BBC Podcast Streaming / [Downloader](https://github.com/get-iplayer/get_iplayer)
+* [Relay.fm](https://www.relay.fm/) - Independent Podcast Network / Technology & Creative Shows
+* [Podchaser](https://www.podchaser.com/) - Podcast Database / Ratings / Reviews / Creator Credits
+* [Podcast Index](https://podcastindex.org/) - Open Podcast Directory / Podcasting 2.0 / [API](https://podcastindex-org.github.io/docs-api/)
+* [Podstatus](https://podstatus.com/charts) - Apple Podcasts & Spotify Rankings / Country & Category Charts
+* [Rephonic](https://rephonic.com/graph) - Similar Podcast Discovery / Interactive Audience Graph
+* [PodScripts](https://podscripts.co/) - Searchable Podcast Transcripts
+* [jumbletop](https://jumble.top/) or [Pirate Podcast Feeds](https://piratefeeds.net/) - Premium Podcast Feed Indexes
+* [PodcastToMP3](https://podcasttomp3.com/) - Search & Download Podcast Episodes / MP3
+* [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders / Archiving Tools
+* [PinePods](https://pinepods.online/) - Self-Hosted Podcast Server / Multi-Device Sync / [GitHub](https://github.com/madeofpendletonwool/PinePods)
+* [Grover](https://www.microsoft.com/store/) or [gPodder](https://gpodder.github.io/) - Desktop Podcast Clients
+* [castero](https://github.com/xgi/castero) - Terminal-Based Podcast Client
+* [EchoWalk](https://www.echowalk.com/) - Turn Articles & Webpages into Spoken Audio
+* [PodSync](https://github.com/mxpv/podsync) or [PigeonPod](https://pigeonpod.cloud/) - Convert Video Channels & Playlists into Podcast RSS Feeds
+* [OpenPodcast](https://openpodcast.dev/) - Podcast Analytics
+* [Podnews](https://podnews.net/) - Podcast Industry News / Trends / New Releases
 
 ***
 
@@ -256,6 +261,7 @@
 * [ShoutCast](https://directory.shoutcast.com/), [Zeno.fm](https://zeno.fm/) or [Live365](https://live365.com/) - User-Stations
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
 * [⁠The Lot Radio](https://www.thelotradio.com/) - Independent Internet Radio
+* [⁠Worldwide FM](https://www.worldwidefm.net/) - Independent Internet Radio
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
 * [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio
 * [Tilderadio](https://tilderadio.org/) - Community Radio
@@ -741,6 +747,7 @@
 * [Musicroamer](https://www.musicroamer.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [Music Atlas](https://music-atlas.app/), [Unchartify](https://unchartify.com/) / [Telegram](https://t.me/spotifyuncharted) or [LivePlasma](https://liveplasma.com/) - Visual Artist Discovery Tools
 * [GNOD](https://www.gnod.com/), [Gnoosic](https://www.gnoosic.com/) or [Music-Map](https://www.music-map.com/) - Similar Artist Recommendations
 * [SAGE](https://hate5six.com/sage) - Personalized Band Recommendations
+* [⁠zig~zag](https://www.zig-zag.fm/) - Music Discovery Map / [Discord](https://discord.gg/uhst5zaMne)
 * [Chosic](https://www.chosic.com/), [SongsLikeX](https://songslikex.com/), [Discover Quickly](https://discoverquickly.com/) or [Dubolt](https://dubolt.com/) - Similar Song / Playlist Discovery Tools
 * [lazyrecords](https://lazyrecords.app/) or [TapeFear](https://www.tapefear.com/) - Obscure Music Discovery / Digital Crate Digging
 * [Playlost.fm](https://playlost.fm/) - Similar Spotify Playlist Discovery

@@ -755,6 +755,7 @@
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw) / [GitHub](https://github.com/wasmdotrip/wasm.rip)
 * [Ported2Browser](https://ported2browser.com/) - Browser PC Game Ports
+* [Arcadia](https://arcadia.baby/) - Browser PC Game Ports / Aggregator
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
 * [Addicting Games](https://www.addictinggames.com/) - Browser Game Aggregator

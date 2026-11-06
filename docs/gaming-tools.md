@@ -888,7 +888,7 @@
 * ⭐ **[OP.GG](https://www.op.gg/)** - LoL Player Stats / Match History / Rankings
 * ⭐ **[DPM.LOL](https://dpm.lol/)** or **[U.GG](https://u.gg/)** - LoL Builds / Tier Lists / Champion Stats
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Esports Statistics
-* ⭐ **[Rose](https://github.com/Alban1911/Rose)** - LoL Skin Manager / Unlocker / [Dependencies](https://github.com/LeagueToolkit/ltk-manager/tree/main/src-tauri/resources) / [Discord](https://discord.com/invite/roseskins)
+* ⭐ **[Rose](https://github.com/Alban1911/Rose)** - LoL Skin Manager / Unlocker / [Dependencies](https://github.com/LeagueToolkit/ltk-manager/releases) / [Discord](https://discord.com/invite/roseskins)
 * [LoL Wiki](https://wiki.leagueoflegends.com/) - Official LoL Wiki
 * [LoLalytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Builds / Advanced Champion Statistics
 * [DeepLoL](https://www.deeplol.gg/) - LoL Player Performance / Champion Stats

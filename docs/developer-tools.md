@@ -808,7 +808,6 @@
 * [Motion](https://motion.dev/) - Animation Library
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase), [⁠Convex](https://www.convex.dev/) / [GitHub](https://github.com/convex) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [Caddy](https://caddyserver.com/) / [GitHub](https://github.com/caddyserver/caddy) or [Nginx](https://nginx.org/) / [GitHub](https://github.com/nginx/nginx) - Web Servers
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing / [GitHub](https://github.com/DirectoryLister/DirectoryLister)
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
@@ -920,7 +919,7 @@
 * [vite](https://vite.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
 * [Dembrandt](https://www.dembrandt.com/) - Extract / Derive Site Design / [GitHub](https://github.com/dembrandt/dembrandt)
 * [the component gallery](https://component.gallery/) - Design Components Gallery
-* [UI Beats](https://www.uibeats.com/), [⁠Style UI](https://style.ai.id/) or [MagicUI](https://magicui.design/) - UI Components
+* [UI Beats](https://www.uibeats.com/), [⁠Style UI](https://style.ai.id/) / [GitHub](https://github.com/miqdadbadjuber/style-ui) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
 * [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
@@ -1137,7 +1136,7 @@
 * [BBRadar](https://bbradar.io/), [⁠Open Bug Bounty](https://www.openbugbounty.org/) or [BugBountyHunting](https://www.bugbountyhunting.com/) - Bug Bounty Trackers
 * [YARA](https://virustotal.github.io/yara/) / [GitHub](https://github.com/virustotal/yara) or [UnpacMe](https://www.unpac.me/) - Malware Identification Tools
 * [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
-* [Unblob](https://unblob.org/) - Extraction Suite
+* [Unblob](https://unblob.org/) - Extraction Suite / [GitHub](https://github.com/onekey-sec/unblob)
 * [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
 * [spur.us](https://spur.us/) - Block VPNs / Proxies
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
@@ -1200,12 +1199,12 @@
 * ⭐ **[Cap](https://trycap.dev/)** / [GitHub](https://github.com/tiagozip/cap), [LibreCaptcha](https://github.com/librecaptcha/lc-core), [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Bot Protection / Captchas
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
 * [⁠The Crawler Zoo](https://crawlerzoo.com/) - Web Crawler Database / Bot Blocking Guides
+* [SupaBase](https://supabase.com/), [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase), [⁠Convex](https://www.convex.dev/) / [GitHub](https://github.com/convex) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/), [⁠Better Auth](https://better-auth.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [⁠crt.name](https://crt.name/) - Passive Subdomain Index / Search
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [SD Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
-* [SupaBase](https://supabase.com/) - Database / Authentication Service
 * [⁠GNUnet](https://www.gnunet.org/en/) - Decentralized P2P Framework
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/), [Scamalytics](https://scamalytics.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection

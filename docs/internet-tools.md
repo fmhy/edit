@@ -26,6 +26,7 @@
 * [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx) - Network Tools
 * [NETworkManager](https://borntoberoot.net/NETworkManager/) / [GitHub](https://github.com/BornToBeRoot/NETworkManager) - Network Manager
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
+* [⁠net-merge](https://github.com/rohit267/net-merge) or [⁠MultiPath](https://github.com/uditya-kumar/MultiPath) - Multi-Connection Network Combiner Tools
 * [MyPublicWiFi](https://www.mypublicwifi.com/) - Turn PC into Wi-Fi Hotspot
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [⁠Reticulum](https://reticulum.network/) - Cryptographic Mesh Networking Stack / [Multi-Platform Client](https://github.com/ratspeak/Ratspeak) / [Microcontroller Support](https://github.com/attermann/microReticulum)
@@ -439,7 +440,7 @@
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [⁠Mailo](https://mailo.com/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Private.Ki](https://private.ki/) or [Neir](https://neir.io/) - Number-Free Email
+* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [⁠Mailo](https://mailo.com/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Private.Ki](https://private.ki/), [⁠Murena](https://murena.com/workspace/) or [Neir](https://neir.io/) - Number-Free Email
 * [⁠Zoho Mail](https://www.zoho.com/mail) - Free Email Hosting / Custom Domains
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
@@ -725,6 +726,7 @@
 * [External App Button](https://webextension.org/listing/external-application-button.html) - Connect Browser to External Apps
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
 * [SocialFocus](https://socialfocus.app/) - Hide Distracting Elements on Social Media Sites
+* [uBlacklist](https://ublacklist.github.io/docs) - Google Search Results Filter / [GitHub](https://github.com/iorate/ublacklist)
 * [Always Visible](https://webextension.org/listing/always-active.html) - Always Active / On-Top Window
 * [⁠Circadian](https://github.com/Pasithea0/circadian-extension) or [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Auto-Adjust Display Color / Temperature
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
