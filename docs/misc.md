@@ -810,6 +810,7 @@
 * [Calistree](https://calistree.app/) - Exercise Search / Workout Tracker
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
 * [Workout.cool](https://workout.cool/) or [Workout.lol](https://workout.lol/) - Custom Workout Plans
+* [HIIT Builder](https://hiitbuilder.app/) - Custom HIIT Workout Builder & Interval Timer
 * [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [BuffBook](https://buffbook.org/) - Strength Training Booklet / [GitHub](https://github.com/classy-giraffe/BuffBook)
