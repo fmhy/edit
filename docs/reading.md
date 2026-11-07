@@ -452,6 +452,7 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
+* [⁠YumeZone](https://yumezone.live/manga/)
 * [Mgread](https://mgread.io/)
 * [Scans.gg](https://scans.gg/changelog) / [Discord](https://discord.gg/cYFgYu66rx)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
@@ -749,7 +750,7 @@
 
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * ↪️ **[Vehicles Manuals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_vehicle)** - Vehicle Repair & Owner Manuals
-* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
+* ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles
 * [ManualLib](https://www.manuallib.com/) or [Manuals+](https://manuals.plus/) - Manual Search
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
 * [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
@@ -912,6 +913,7 @@
 * [Literal](https://literal.club/) - Social Reading Tracker / Reviews / Reading Lists
 * [Oku](https://oku.club/) - Book Tracking / Reading Goals / Collections / Statistics
 * [Candl](https://www.candlapp.com/) - Private Reading Tracker / Notes / Statistics / Spaced Repetition
+* [⁠Bookplate](https://bookplate.eu/) - Private Reading Tracker / Notes
 * [Libib](https://www.libib.com/) - Personal Library Cataloguing / ISBN Scanning / Web & Mobile
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Book Collection Manager / Windows
 * [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews / Reading Community
@@ -919,6 +921,7 @@
 * [EntertainMe](https://www.entertainme.fun/) - Multi-Media Tracking / Books / Films / Games
 * [rate.house](https://rate.house/) - Multi-Media Ratings / Reviews / Tracking
 * [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Self-Hosted Media Tracker / Books / Films / TV / Games
+* [⁠BookOrbit](https://bookorbit.app/) / [GitHub](https://github.com/bookorbit/bookorbit) or [⁠Grimmory](https://grimmory.org/) / [GitHub](https://github.com/grimmory-tools/grimmory) - Ebook Managers / Self-Hosted
 * [Listal](https://www.listal.com/) - Media Collection Tracking / Reviews / Lists
 * [Ratings Filter](https://www.book-filter.com/) - Filter Books by Goodreads & StoryGraph Ratings
 * [Books Search](https://books-search.typesense.org/) - Fast Open Library Book Database Search

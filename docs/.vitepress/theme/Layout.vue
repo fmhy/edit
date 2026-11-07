@@ -84,41 +84,33 @@ const correctInitialHashScroll = async () => {
 }
 
 let insetResizeObserver: ResizeObserver | undefined
-let insetMutationObserver: MutationObserver | undefined
 
 const updateScrollInset = () => {
   const nav = document.querySelector<HTMLElement>('.VPNav')
   const localNav = document.querySelector<HTMLElement>('.VPLocalNav')
-  const visibleHeight = (element: HTMLElement | null, hidden = false) =>
-    element && !hidden && getComputedStyle(element).display !== 'none'
+  const visibleHeight = (element: HTMLElement | null) =>
+    element && getComputedStyle(element).display !== 'none'
       ? element.getBoundingClientRect().height
       : 0
 
-  const inset =
-    visibleHeight(nav, nav?.classList.contains('nav-hidden')) +
-    visibleHeight(localNav) +
-    16
+  const inset = visibleHeight(nav) + visibleHeight(localNav) + 16
   document.documentElement.style.setProperty(
     '--fmhy-scroll-inset',
     `${inset}px`
   )
-  if (resizing && hashIsAligned) scheduleHashRealignment()
 }
 
 const observeScrollInset = () => {
+  insetResizeObserver?.disconnect()
+
   const elements = [
     document.querySelector<HTMLElement>('.VPNav'),
     document.querySelector<HTMLElement>('.VPLocalNav')
   ].filter((element): element is HTMLElement => !!element)
 
   insetResizeObserver = new ResizeObserver(updateScrollInset)
-  insetMutationObserver = new MutationObserver(updateScrollInset)
   for (const element of elements) {
     insetResizeObserver.observe(element)
-    insetMutationObserver.observe(element, {
-      attributes: true,
-      attributeFilter: ['class', 'style']
-    })
   }
   updateScrollInset()
 }
@@ -169,55 +161,19 @@ const scheduleMobileLinkUpdate = () => {
 // update until Vue has mounted the new items.
 const handleAnyClick = () => requestAnimationFrame(scheduleMobileLinkUpdate)
 
-let hashIsAligned = false
-let resizing = false
-let resizeFrame = 0
-let resizeEndTimer: ReturnType<typeof setTimeout> | undefined
-
-const scheduleHashRealignment = () => {
-  cancelAnimationFrame(resizeFrame)
-  resizeFrame = requestAnimationFrame(() => {
-    resizeFrame = 0
-    if (hashIsAligned) getHashTarget()?.scrollIntoView({ block: 'start' })
-  })
-}
-
-const rememberHashAlignment = () => {
-  if (resizing) return
-  const target = getHashTarget()
-  const margin = target
-    ? Number.parseFloat(getComputedStyle(target).scrollMarginTop)
-    : 0
-  hashIsAligned =
-    !!target && Math.abs(target.getBoundingClientRect().top - margin) < 2
-}
-
-const preserveAlignedHash = () => {
-  resizing = true
-  document.documentElement.classList.add('vp-resizing')
-  scheduleHashRealignment()
-
-  clearTimeout(resizeEndTimer)
-  resizeEndTimer = setTimeout(() => {
-    resizing = false
-    document.documentElement.classList.remove('vp-resizing')
-    rememberHashAlignment()
-  }, 150)
-}
-
 watch(
   () => route.path,
   () => {
     cachedAnchors = null
+    observeScrollInset()
     scheduleMobileLinkUpdate()
-  }
+  },
+  { flush: 'post' }
 )
 
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
   window.addEventListener('scroll', scheduleMobileLinkUpdate, { passive: true })
-  window.addEventListener('scroll', rememberHashAlignment, { passive: true })
-  window.addEventListener('resize', preserveAlignedHash, { passive: true })
   window.addEventListener('click', handleAnyClick, { passive: true })
   observeScrollInset()
   scheduleMobileLinkUpdate()
@@ -225,15 +181,9 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
-  cancelAnimationFrame(resizeFrame)
-  clearTimeout(resizeEndTimer)
-  document.documentElement.classList.remove('vp-resizing')
   insetResizeObserver?.disconnect()
-  insetMutationObserver?.disconnect()
   window.removeEventListener('click', handleClick, { capture: true })
   window.removeEventListener('scroll', scheduleMobileLinkUpdate)
-  window.removeEventListener('scroll', rememberHashAlignment)
-  window.removeEventListener('resize', preserveAlignedHash)
   window.removeEventListener('click', handleAnyClick)
 })
 </script>

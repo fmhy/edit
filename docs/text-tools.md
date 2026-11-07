@@ -174,7 +174,7 @@
 * [typing.academy](https://www.typing.academy/) or [⁠VocaType](https://vocatype.app/) - Typing Lessons
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colemak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
+* [⁠Typersguild](https://typersguild.com/), [TypeBook](https://typebook.lol/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Practice Typing with Books
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions / [Discord](https://discord.gg/4KypVEM)
 
@@ -247,7 +247,7 @@
 
 ## ▷ Whiteboards / Handwritten
 
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/)
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [Github](https://github.com/excalidraw/excalidraw)
 * ⭐ **[OpenBoard](https://openboard.ch/en)** - Whiteboard
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)

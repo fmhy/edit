@@ -52,10 +52,8 @@ watch(y, (newY) => {
 
   const diff = newY - lastNavScrollY
 
-  if (
-    document.documentElement.classList.contains('vp-resizing') ||
-    document.documentElement.classList.contains('vp-search-scrolling')
-  ) {
+  // If a search scroll-to-match operation is active, lock the navbar state
+  if (document.documentElement.classList.contains('vp-search-scrolling')) {
     lastNavScrollY = newY
     return
   }

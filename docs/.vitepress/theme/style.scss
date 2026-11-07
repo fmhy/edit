@@ -180,6 +180,47 @@ html[data-theme='monochrome'] {
   }
 }
 
+.vp-doc .removed-site-name {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--vp-c-text-1);
+  cursor: help;
+  font: inherit;
+  font-weight: 600;
+  text-align: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--vp-c-brand-soft);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+
+  &:focus-visible {
+    outline: 2px solid var(--vp-c-brand-1);
+    outline-offset: 3px;
+  }
+}
+
+.vp-doc .removed-site-description {
+  color: var(--vp-c-text-2);
+  margin-inline-start: 0.3em;
+}
+
+.vp-doc .removed-site-meta {
+  color: var(--vp-c-text-3);
+  font-size: 0.875em;
+  margin-inline-start: 0.5em;
+  white-space: nowrap;
+
+  a {
+    color: inherit;
+    text-decoration-color: currentColor;
+
+    &:hover {
+      color: var(--vp-c-brand-1);
+    }
+  }
+}
+
 .vp-doc .custom-block a {
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -346,7 +387,8 @@ html.halloween {
   font-weight: bold;
 }
 
-.info.custom-block a {
+.info.custom-block a,
+.note.custom-block a {
   color: var(--vp-custom-block-info-text);
   font-weight: 500;
   text-decoration: underline;
@@ -354,7 +396,8 @@ html.halloween {
   transition: opacity 0.25s;
 }
 
-.info.custom-block a:hover {
+.info.custom-block a:hover,
+.note.custom-block a:hover {
   opacity: 0.7;
   color: var(--vp-custom-block-info-text-deep);
 }
@@ -398,7 +441,15 @@ html.halloween {
   color: var(--vp-custom-block-danger-text-deep);
 }
 
-.info.custom-block {
+.note.custom-block {
+  --vp-custom-block-note-bg: var(--vp-custom-block-info-bg);
+  --vp-custom-block-note-border: var(--vp-custom-block-info-border);
+  --vp-custom-block-note-text: var(--vp-custom-block-info-text);
+  --vp-custom-block-note-code-bg: var(--vp-custom-block-info-code-bg);
+}
+
+.info.custom-block,
+.note.custom-block {
   --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluZm8iPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDE2di00Ii8+PHBhdGggZD0iTTEyIDhoLjAxIi8+PC9zdmc+');
 }
 
@@ -691,9 +742,9 @@ body,
   vertical-align: -0.2em;
 }
 
-/* Prevent navbar collapsing/uncollapsing and disable transitions during search scroll operations */
-html.vp-search-scrolling .VPNav {
-  transform: none !important;
+/* Disable transitions during search scroll operations so the navbar doesn't animate mid-scroll */
+html.vp-search-scrolling .VPNav,
+html.vp-search-scrolling .VPLocalNav {
   transition: none !important;
 }
 

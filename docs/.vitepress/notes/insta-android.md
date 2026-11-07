@@ -1,0 +1,3 @@
+#### Modded Android Instagram Note
+
+Recently, using patched or modified Instagram clients has reported a surge in account bans and terminations. The cause remains unclear, so use these clients at your own risk.

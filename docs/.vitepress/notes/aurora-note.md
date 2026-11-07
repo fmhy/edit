@@ -1,3 +1,3 @@
 #### Aurora Note
 
-Keep in mind that some apps will not work unless you installed them from the Google Play Store. This is usually true for things like banking, and other institutional apps.
+Aurora Store works as an alternative client that displays the Play Store's applications. Some Play Store apps, mainly banking apps or institutional apps, may refuse to function since they verify if the downloads are obtained through valid sources (mainly, the Play Store).
