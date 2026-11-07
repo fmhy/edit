@@ -18,6 +18,7 @@ import {
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
+import { localLinksPlugin } from './markdown/localLinks'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transformsPlugin } from './transformer'
 import { replaceNoteLink } from './utils/markdown'
@@ -281,6 +282,7 @@ export default defineConfig({
     config(md) {
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
+      md.use(localLinksPlugin, baseUrl)
       meta.build.api && md.use(headersPlugin)
       replaceNoteLink(md)
     }
