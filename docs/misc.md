@@ -22,6 +22,7 @@
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
 * [Wispy Docs](https://wispydocs.pages.dev/) - List of Guides by Wispy
+* [FMHY Android](https://github.com/omeg4-dev/fmhy-android) - FMHY Android App
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/), [IndieBlogs](https://indieblog.page/), or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites

@@ -358,7 +358,6 @@
 * ⭐ **[Hermes Agent](https://hermes-agent.nousresearch.com/)** - General Purpose Agent / [Docs](https://hermes-agent.nousresearch.com/docs) / [GitHub](https://github.com/NousResearch/hermes-agent) / [Discord](https://discord.gg/NousResearch)
 * [OpenClaw](https://openclaw.ai/) - General Purpose Agent / [Docs](https://docs.openclaw.ai/) / [GitHub](https://github.com/openclaw/openclaw) / [Discord](https://discord.com/invite/clawd)
 * [Goose](https://goose-docs.ai/) - General Purpose Agent / [GitHub](https://github.com/aaif-goose/goose)
-* [Paseo](https://paseo.sh/) - Multi-Agent Coding Environment / All Platforms / [GitHub](https://github.com/getpaseo/paseo)
 
 ***
 

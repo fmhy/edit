@@ -464,13 +464,14 @@
 
 ## ▷ Streaming
 
-* ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
+* ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/), [2](https://fsurl.top/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
 * [frembed](https://frembed.uno/) - Movies / TV / Anime / Dub
+* [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
@@ -754,7 +755,6 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [⁠MX Player on Prime](https://www.primevideo.com/collection/streamfree?tr=in) - Movies / TV / Free w/ Ads
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
-* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Anime / [Discord](https://discord.gg/SdFB3HxDH5)
 * [⁠Anixo](https://anixohindi.cc/) - Anime
 * [⁠Anime Sky](https://animesky.app/) - Anime
 * [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)

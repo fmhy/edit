@@ -436,6 +436,7 @@
 * [Nyora](https://web.nyora.xyz/) - Multi-Site Manga Aggregator
 * [⁠Tobari](https://tobari.moe/) - Multi-Site Manga Aggregator / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/⁠tobari.md)
 * [⁠bManga](https://bmanga.dedyn.io/) - Multi-Site Manga Aggregator
+* [⁠YumeZone](https://yumezone.live/manga/) - Multi-Site Manga Aggregator
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi-Site Manga Aggregator / [Discord](https://discord.com/invite/SavdUC45MS)
 * [MangaKatana](https://mangakatana.com/)
 * [MangaK](https://mangak.io/)
@@ -450,7 +451,6 @@
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
-* [⁠YumeZone](https://yumezone.live/manga/)
 * [Mgread](https://mgread.io/)
 * [Scans.gg](https://scans.gg/changelog) / [Discord](https://discord.gg/cYFgYu66rx)
 * [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)

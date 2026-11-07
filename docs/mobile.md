@@ -447,6 +447,7 @@
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) / [2](https://github.com/PeterCxy/Shelter), [Island](https://github.com/oasisfeng/island) or [Insular](https://secure-system.gitlab.io/Insular/) / [GitLab](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps via Work Profiles
 * [⁠SU_IMD](https://github.com/soul-99/SU_IMD) or [Geto](https://github.com/JackEblan/Geto) - Custom App Settings + Services Managers / Requires Shizuku
 * [LSPatch](https://github.com/JingMatrix/LSPatch) - Non-root Xposed Framework / [Modules](https://modules.lsposed.org/)
+* [FMHY Android](https://github.com/omeg4-dev/fmhy-android) - FMHY Android App
 * [Catima](https://catima.app/) - Loyalty Card Managers
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) or [Quikshort](https://play.google.com/store/apps/details?id=com.atolphadev.quikshort) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) or [Action Notch](https://play.google.com/store/apps/details?id=com.androxus.touchthenotch) - Use Camera Notch as Button

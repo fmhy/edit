@@ -31,7 +31,7 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
-* ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
+* ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[⁠Octave](https://octavestreaming.com/)** - Browser Music / Lossless / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
@@ -56,7 +56,7 @@
 * [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
 * [Audius](https://audius.co/) - User-Made Music
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
-* [LostMyspace](http://lostmyspace.com/) or [Mydora](https://mydora.restorativland.org/) - Lost Myspace Songs
+* [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 
 ***
@@ -170,7 +170,7 @@
 * [PodcastToMP3](https://podcasttomp3.com/) - Search & Download Podcast Episodes / MP3
 * [podcast-dl](https://github.com/lightpohl/podcast-dl), [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader), [PodDL](https://github.com/freshe/poddl) or [PodGrab](https://github.com/akhilrex/podgrab) - Podcast Downloaders / Archiving Tools
 * [PinePods](https://pinepods.online/) - Self-Hosted Podcast Server / Multi-Device Sync / [GitHub](https://github.com/madeofpendletonwool/PinePods)
-* [Grover](https://www.microsoft.com/store/) or [gPodder](https://gpodder.github.io/) - Desktop Podcast Clients
+* [Grover](https://apps.microsoft.com/detail/9nblggh6c4bc) or [gPodder](https://gpodder.github.io/) - Desktop Podcast Clients
 * [castero](https://github.com/xgi/castero) - Terminal-Based Podcast Client
 * [EchoWalk](https://www.echowalk.com/) - Turn Articles & Webpages into Spoken Audio
 * [PodSync](https://github.com/mxpv/podsync) or [PigeonPod](https://pigeonpod.cloud/) - Convert Video Channels & Playlists into Podcast RSS Feeds
@@ -198,7 +198,7 @@
 * [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
 * [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
-* [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/), [Zen Sounds](https://app.zenflowchart.com/zen-sounds) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
+* [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/), [Calmsound](https://www.calmsound.com/), [Click Relax](https://click-relax.com/) or [NoisyLoop](https://noisyloop.com/) - Ambient Soundscapes
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - TUI Concentration App
 * [Generative.fm](https://generative.fm/) - Generative Ambient Music
@@ -278,7 +278,7 @@
 
 ## ▷ Radio Directories
 
-* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [⁠TuneJourney](https://tunejourney.com/), [GlobeRadio](https://globeradio.app/) or [⁠RadioCast](https://www.radiocast.co/) - Globe-Style World Radio
+* ⭐ **[Radio Garden](https://radio.garden/)** / [Site Unblock](https://redd.it/18e12gf), [2](https://redd.it/13b53zs), [WorldRadioMap](https://worldradiomap.com/), [⁠TuneJourney](https://tunejourney.com/) or [⁠RadioCast](https://www.radiocast.co/) - Globe-Style World Radio
 * [LiveOnlineRadio](https://liveonlineradio.net/) - Global Radio Directory / Country & Genre
 * [OnlineRadioBox](https://onlineradiobox.com/) - International Radio Directory / Playlists
 * [Streema](https://streema.com/) - Global AM/FM & Internet Radio Directory
@@ -715,7 +715,7 @@
 ## ▷ Curated Recommendations
 
 * ⭐ **[AnyDecentMusic](https://anydecentmusic.com/)** - Aggregated Critics' Album Ratings
-* ⭐ **[AlbumOfTheYear](https://www.albumoftheyear.org/)** - Critic & User Ratings / Album Charts / [Unofficial API](https://aoty.prigoana.pw/)
+* ⭐ **[AlbumOfTheYear](https://www.albumoftheyear.org/)** - Critic & User Ratings / Album Charts
 * ⭐ **[Shfl](https://theshfl.com/)** - Curated Album Discovery / Genre & Label Filters
 * ⭐ **[Bandcamp Daily](https://daily.bandcamp.com/)** - Independent Music Recommendations / [Hidden Gems](https://daily.bandcamp.com/hidden-gems)
 * ⭐ **[The Quietus](https://thequietus.com/charts/)** - Independent Music Reviews / Monthly & Annual Charts

@@ -12,7 +12,6 @@
 * [DEV Community](https://dev.to/) - Developer Forum
 * [Blind](https://www.teamblind.com/) - Developer Forum
 * [IndieHackers](https://www.indiehackers.com/) - Developer Forum
-* [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [⁠late.sh](https://late.sh/) - Command-Line Style Clubhouse / [GitHub](https://github.com/mpiorowski/late-sh)
 * [⁠Graphics Programming](https://discord.gg/graphicsprogramming) - Graphics Programming Discord Server / [Subreddit](https://www.reddit.com/r/GraphicsProgramming/)
 * [⁠Functional Programming](https://discord.gg/K6XHBSh) - Functional Programming Community / Discord
@@ -535,6 +534,7 @@
 * ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GUI](https://pi-docs.aiuo.net/) / [GitHub](https://github.com/earendil-works/pi)
 * ⭐ **[OpenChamber](https://openchamber.dev/)** - Coding AI Client / [GitHub](https://github.com/openchamber/openchamber)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code/) / [Subreddit](https://www.reddit.com/r/ZooCode/) - Autonomous VS Code Agents
+* [Paseo](https://paseo.sh/) - Multi-Agent Coding Environment / All Platforms / [GitHub](https://github.com/getpaseo/paseo)
 * [OpenHands](https://www.openhands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
 * [Cursor](https://rentry.co/FMHYB64#cursor) - Coding AI
 * [GitWit](https://gitwit.dev/) - Coding AI

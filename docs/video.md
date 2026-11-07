@@ -342,7 +342,7 @@
 * ⭐ **[⁠NekoWatch](https://nekowatch.xyz/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/52UrTJ3ytT)
 * ⭐ **[AniLight](https://anilight.live/)** - Sub / Dub / Auto-Next / [Discord]( https://discord.com/invite/zwv8PpAJmA)
 * ⭐ **[Anidap](https://anidap.lol/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/CGZEvjx53u)
-* ⭐ **[⁠AniXo](https://anixo.online/)** - Sub / Dub
+* ⭐ **[⁠AniXo](https://anixo.online/)** - Sub / Dub / Auto-Next
 * ⭐ **[⁠Anistream](https://anistream.one/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/kwgASavPvG)
 * [⁠Lunar](https://lunarx.to/) - Sub / Dub / [Telegram](https://t.me/lunarcommunity)
 * [Yenime](https://yenime.net/) - Sub / Dub / [Discord](https://discord.com/invite/yPxFt6tFRw)
@@ -351,7 +351,7 @@
 * [WeebTube](https://weebtube.cc/) or [JJBA.lol](https://jjba.lol/) - Sub / Dub / Auto-Next / [Status](https://jjba.site/) / [Discord](https://discord.com/invite/vJW2vwzTGD)
 * [⁠Kazora](https://kazora.cc/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/V5AWy78VTv)
 * [KickAssAnime](https://kaa.lt/) - Sub / Dub / Auto-Next / [Telegram](https://t.me/kickassanimev3) / [Discord](https://discord.gg/6EGTnNQAaV)
-* [Zanix](https://zanix.tr/) - Sub / Dub
+* [Zanix](https://zanix.tr/) - Sub / Dub / Auto-Next
 * [Kuroko](https://kuroko.cc/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/cdBcrvR7es)
 * [⁠MeguAnimes](https://meguanime.com/) - Sub / Dub / Auto-Next
 * [⁠animeY](https://animey.to/) - Sub / Dub / Auto-Next
@@ -360,23 +360,22 @@
 * [AniSnatch](https://anisnatch.top/), [2](https://anisnatch.site/) - Sub / Dub / [Telegram](https://t.me/anisnatch) / [Discord](https://discord.com/invite/3zrNYqeT4e)
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/cDZwX3XEkc)
-* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
 * [⁠AniChan](https://anichan.to/) - Sub / Dub
-* [⁠AnimoTVSlash](https://animotvslash.org/) - Sub / Dub
+* [⁠AnimoTVSlash](https://animotvslash.org/) - Sub / Dub / Auto-Next
 * [animeTVplus](https://animetvplus.xyz/) or [AniHost](https://anihosts.xyz/) - Sub / Dub
 * [⁠2Dhive](https://2dhive.com/) - Sub / Dub
-* [⁠YumeZone](https://yumezone.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/VPNSMcG6jM)
+* [⁠YumeZone](https://yumezone.live/) - Hard Subs / Soft Subs / Dub / Auto-Next / [Discord](https://discord.gg/VPNSMcG6jM)
 * [Anikura](https://anikura.club/) - Sub / Dub / [X](https://x.com/anikuratv) / [Telegram](https://t.me/anikuraclub)
 * [⁠Aniclover](https://aniclover.cc/) - Sub / Dub
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
-* [AnimeDex](https://animedex.fun/) - Sub / Dub
+* [AnimeDex](https://animedex.fun/) - Sub / Dub / Auto-Next
 * [Anify](https://anify.to/) - Sub / Dub
-* [⁠anv](https://anv.to/) - Sub / Dub
-* [Tsukuyomi](https://tsukuyomi.tv/) - Sub / Dub / [Discord](https://discord.gg/YMuM7RuWnY)
-* [⁠Kyren](https://kyren.moe/) - Sub / Dub
+* [⁠anv](https://anv.to/) - Sub / Dub / Auto-Next
+* [Tsukuyomi](https://tsukuyomi.tv/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/YMuM7RuWnY)
+* [⁠Kyren](https://kyren.moe/) - Sub / Dub / Auto-Next
 * [⁠Shonen](https://shonen.to/) - Sub / Dub / Auto-Next
 * [⁠Tatakai](https://tatakai.me/browse) - Sub / Dub / Extension-Based
-* [⁠WatchAnimeX](https://watchanimez.me/) - Sub / Dub
+* [⁠WatchAnimeX](https://watchanimez.me/) - Sub / Dub / Auto-Next
 * [Enma](https://www.enma.lol/) - Sub / Dub
 * [AnimeLover](https://animelover.site/) - Sub / Dub / [Discord](https://discord.com/invite/3q2t7cssg)
 * [⁠Anikage](https://anikage.cc/) - Sub / Dub
@@ -385,10 +384,9 @@
 * [Yomi](https://yomi.to/) or [sakusaku](https://sakusaku.to/) - Sub / Dub / Auto-Next
 * [⁠AniHQ](https://anihq.cc/) - Sub / Dub
 * [KoToTV](https://kototv.to/) - Sub / Dub / Auto-Next / [Mirrors](https://hianime.help/) / [Discord](https://discord.gg/BkrKr2MZaE)
-* [⁠Zenbu](https://zen-bu.cc/) - Sub / Dub
+* [⁠Zenbu](https://zen-bu.cc/) - Sub / Dub / Auto-Next
 * [Kawaii Anime](https://kawaiianime.cc/) - Sub / Dub
 * [⁠9anime](https://9animstv.to/) - Sub / Dub
-* [MultiAnime](https://multinime.site/) - Sub / Dub
 * [PirateXplay](https://piratexplay.cc/home) - Sub / [Mirrors](https://piratexplay.com/)
 * [Kuroiru](https://kuroiru.co/) / [Subreddit](https://www.reddit.com/r/StreamingAnime/) / [Discord](https://discord.com/invite/ys6NASYQSd) or [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) - Multi-Site Anime Search
 * [AnimeXin](https://animexin.dev/) - Donghua / Sub
