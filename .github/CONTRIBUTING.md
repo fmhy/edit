@@ -1,6 +1,6 @@
 # Contribution Guide
 
-> [!INFO] NOTE
+> [!NOTE]
 > Some of these steps are easier if you're in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). It opens every Friday.
 
 Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this:
@@ -12,7 +12,7 @@ Here you'll find some general guidelines for those who would like to start contr
 
 ## Submissions
 
-> [!INFO] NOTE
+> [!NOTE]
 > For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
 **Don't submit any of the following:**
@@ -39,7 +39,7 @@ For submitting new links, follow these steps:
 
 ### Reporting a Site
 
-> [!INFO] NOTE
+> [!NOTE]
 > If it's urgent, you're allowed to request an invite via our feedback system.
 
 For changes to existing entries, follow these steps:
