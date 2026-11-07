@@ -70,6 +70,7 @@ import {
   pendingScrollQuery,
   scheduleScrollToMatch
 } from '../composables/searchScroll'
+import CriticalBadge from './CriticalBadge.vue'
 import Tooltip from './Tooltip.vue'
 
 defineEmits<{
@@ -1595,6 +1596,7 @@ async function processExcerpts(
       try {
         const app = createApp(comp as Component)
         app.component('VDropdown', VDropdownStub)
+        app.component('CriticalBadge', CriticalBadge)
         app.component('Tooltip', Tooltip)
         app.config.warnHandler = () => {}
         app.provide(dataSymbol, vitePressData)

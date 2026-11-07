@@ -4,7 +4,13 @@ import DefaultTheme from 'vitepress/theme'
 import { nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
+import CriticalDialog from './components/CriticalDialog.vue'
 import Sidebar from './components/SidebarCard.vue'
+import {
+  dismissCritical,
+  isCriticalDismissed
+} from './composables/criticalNotes'
+import { getCriticalNote } from './composables/criticalRegistry'
 import { useSearchFromQuery } from './composables/searchFromQuery'
 
 useSearchFromQuery()
@@ -12,6 +18,12 @@ useSearchFromQuery()
 const { Layout } = DefaultTheme
 const showBase64Dialog = ref(false)
 const formattedUrl = ref('')
+const showCriticalDialog = ref(false)
+const criticalTitle = ref('')
+const criticalBodyHtml = ref('')
+const criticalNoteId = ref('')
+const criticalContentHash = ref('')
+const criticalTargetUrl = ref('')
 const route = useRoute()
 
 const handleClick = (e: MouseEvent) => {
@@ -21,6 +33,47 @@ const handleClick = (e: MouseEvent) => {
 
   if (link) {
     const href = (link as HTMLAnchorElement).href
+
+    // Critical notes: the user clicked the main entry link (e.g. "Foxit").
+    // If its list item contains a critical badge, intercept and show the dialog.
+    // Exception: clicks on the badge itself or on any other link in the item
+    // (e.g. / GitHub, / Features) should pass through normally.
+    const listItem = link.closest('li')
+    if (listItem) {
+      const badge = listItem.querySelector<HTMLElement>('.critical-badge-wrap')
+      if (badge) {
+        const badgeId = badge.dataset.noteId ?? ''
+        const badgeHash = badge.dataset.contentHash ?? ''
+        const clickedInBadge =
+          !!link.closest('.critical-badge-wrap') ||
+          !!link.closest('.critical-badge')
+        // Only intercept the FIRST link in the list item (the main entry),
+        // not the badge itself or later links like / Features.
+        const firstLink = listItem.querySelector<HTMLAnchorElement>('a')
+        if (!clickedInBadge && link === firstLink) {
+          if (badgeId && isCriticalDismissed(badgeId, badgeHash)) {
+            return // dismissed earlier — let the link open normally
+          }
+          e.preventDefault()
+          e.stopPropagation()
+          criticalTargetUrl.value = href
+          criticalTitle.value =
+            badge.getAttribute('title')?.replace(/^Critical:\s*/, '') ??
+            'Critical note'
+          criticalNoteId.value = badgeId
+          criticalContentHash.value = badgeHash
+          const registered = getCriticalNote(badgeId)
+          criticalBodyHtml.value =
+            registered?.html ??
+            badge.querySelector('.critical-badge-hidden-body')?.innerHTML ??
+            badge.querySelector('.critical-badge-body')?.innerHTML ??
+            ''
+          if (registered?.title) criticalTitle.value = registered.title
+          showCriticalDialog.value = true
+          return
+        }
+      }
+    }
 
     if (typeof href === 'string') {
       if (
@@ -39,6 +92,10 @@ const handleClick = (e: MouseEvent) => {
       }
     }
   }
+}
+
+const onCriticalDismiss = (id: string, hash: string) => {
+  dismissCritical(id, hash)
 }
 
 const getHashTarget = () => {
@@ -210,6 +267,17 @@ onUnmounted(() => {
     :url="formattedUrl"
     @close="showBase64Dialog = false"
   />
+  <CriticalDialog
+    v-if="showCriticalDialog"
+    :title="criticalTitle"
+    :note-id="criticalNoteId"
+    :content-hash="criticalContentHash"
+    :target-url="criticalTargetUrl"
+    @close="showCriticalDialog = false"
+    @dismiss="onCriticalDismiss"
+  >
+    <div v-html="criticalBodyHtml"></div>
+  </CriticalDialog>
 </template>
 
 <style>

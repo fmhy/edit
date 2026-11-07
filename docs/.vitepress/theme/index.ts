@@ -34,6 +34,7 @@ import Feedback from './components/Feedback.vue'
 
 import 'floating-vue/dist/style.css'
 
+import CriticalBadge from './components/CriticalBadge.vue'
 import GradientCard from './components/GradientCard.vue'
 import LinkCard from './components/LinkCard.vue'
 import LinkInline from './components/LinkInline.vue'
@@ -121,6 +122,7 @@ export default {
     app.component('Tag', Tag)
     app.component('Post', Post)
     app.component('Feedback', Feedback)
+    app.component('CriticalBadge', CriticalBadge)
     app.component('Tooltip', Tooltip)
     app.config.globalProperties.$removedDateTooltip = removedDateTooltip
     app.config.globalProperties.$removedDateTriggers =

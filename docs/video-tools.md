@@ -495,7 +495,7 @@
 * [AETemp](https://t.me/AETemp)
 * [Visual Effects Pack](https://t.me/visual_effects_pack)
 * [AEDownloadPro](https://aedownloadpro.com/)
-* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-critical.md)**
 
 ***
 
