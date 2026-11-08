@@ -486,6 +486,7 @@
 * [MarkdownTools](https://www.markdowntools.com/)
 * [MarkLiveEdit](https://markdownlivepreview.dev/)
 * [Glow](https://github.com/charmbracelet/glow)
+* [⁠Tinta](https://github.com/oipoistar/tinta)
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)

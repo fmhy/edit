@@ -823,7 +823,7 @@
 * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[⁠Wealth Shown to Scale](https://evolving-thoughts.github.io/1-pixel-wealth/)**, [2](https://litekin.github.io/pixel-wealth/) - Global Wealth Inequality Visualization / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth)
+* ⭐ **[⁠Wealth Shown to Scale](https://litekin.github.io/pixel-wealth/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://evolving-thoughts.github.io/1-pixel-wealth/) / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth) - Global Wealth Inequality Visualization
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 * [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [⁠CountryEconomy](https://countryeconomy.com/) - Country Economic Data
@@ -873,6 +873,7 @@
 * [ModalLogic](https://rkirsling.github.io/modallogic/) - Model Logic Playground
 * [Logitext](http://logitext.mit.edu/tutorial) - Sequent Calculus Tutorial
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
+* [⁠Philosophy Experiments](https://www.philosophyexperiments.com/) - Interactive Philosophy Experiments
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 

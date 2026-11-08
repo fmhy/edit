@@ -283,15 +283,15 @@
 
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)**, [searx.space](https://searx.space/) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
 * ⭐ **[OpnXNG](https://opnxng.com/)**
-* https://searx.fmhy.net/
-* https://search.fuckoffgoogle.net/
-* https://searx.neocities.org/
-* https://monocles.de/
-* https://searx.oloke.xyz/
-* https://searxng.canine.tools/
-* https://searloc.org/
-* https://search.mdosch.de/
-* https://www.gruble.de/
+* [searx.fmhy](https://searx.fmhy.net/)
+* [foffgoogle](https://search.fuckoffgoogle.net/)
+* [searx.neocities](https://searx.neocities.org/)
+* [monocles](https://monocles.de/)
+* [searx.oloke](https://searx.oloke.xyz/)
+* [searxng.canine](https://searxng.canine.tools/)
+* [searloc](https://searloc.org/)
+* [mdosch](https://search.mdosch.de/)
+* [Gruble](https://www.gruble.de/)
 
 ***
 

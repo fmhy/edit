@@ -1147,7 +1147,7 @@
 * [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Knockoff](https://knockoff.co/) - Remove Trademark-Squat Brands from Amazon Results / [GitHub](https://github.com/Shpigford/knockoff)
-* [⁠RedRecs](https://www.redrecs.com/) or [RedditRecs](https://redditrecs.com/) - Reddit Product Rankings, Summaries, and Comments
+* [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments
 * [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/) - Find Interesting Things to Buy
 * [⁠BuyItForLife](https://buyitforlife.com/) - Durable Product Shopping Guide / [Subreddit](https://www.reddit.com/r/BuyItForLife/)
 * [PicClick](https://picclick.com/) - ebay Visual Search Engine
@@ -1461,6 +1461,7 @@
 * [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons
 * [⁠FocusTube](https://github.com/malekwael229/FocusTube), [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Distraction / Doomscroll Blocking Extensions
 * [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
+* [Project Karma](https://projectkarma.me/) - Productivity RPG 
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
@@ -1887,7 +1888,7 @@
 * [Just For Fun](https://justforfun.io/) - Toys / Games
 * [Andrew Marsh](https://andrewmarsh.com/software) - Toys / Games
 * [JenniferDewalt](https://jenniferdewalt.com/) - Toys / Games
-* [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome) - Toys / Games
+* [Experiments with Google](https://experiments.withgoogle.com/collections) - Toys / Games
 * [yezi](https://yezi.itch.io/) - Toys / Games
 * [topster](https://topster.net/) - Toys / Games
 * [p5aholic](https://experiments.p5aholic.me/) - Toys / Games

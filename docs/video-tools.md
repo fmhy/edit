@@ -25,6 +25,7 @@
 
 ## ▷ Physical Media Tools
 
+* ↪️ **[Physical Media Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_physical_media_.2F_streaming)**
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html) - CD / DVD Burning / Windows
 * [DVDStyler](https://sourceforge.net/projects/dvdstyler/) - CD / DVD Burning / Windows, macOS, Linux
 * [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) - DVD / Blu-ray Ripping / Windows

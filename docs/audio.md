@@ -46,7 +46,7 @@
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [JioSaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.8man.in/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
-* [MTV REWIND](https://wantmymtv.xyz/) / [2](ttps://wantmymtv.org/) - Recreates MTV Experience from Different Eras
+* [MTV REWIND](https://wantmymtv.xyz/) / [2](https://wantmymtv.org/) - Recreates MTV Experience from Different Eras
 * [The 120 Minutes Archive](https://altmusictv.com/) - MTV's 120 Minutes Archive
 * [Ballsack TV](https://bsky.app/profile/feed.ballsack.tv) - MTV Style User-Submitted Music Video Feed / [Discord](https://discord.gg/KT2Dht4zcZ)
 * [⁠VersusMedia](https://watch.versusmedia.com/music-channel) - Independent Music Video Feed
@@ -491,7 +491,6 @@
 * [z3.fm](https://z3.fm/) - MP3
 * [nodata](https://nodata.tv/) - MP3
 * [Discografias Completas](https://www.discografias-completas.org/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
-* [LEAKED](https://leaked.cx/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
@@ -687,7 +686,7 @@
 * [MusicBrainz](https://musicbrainz.org/) - Music Database
 * [⁠EntertainMe](https://www.entertainme.fun/), [rate.house](https://rate.house/), [libib](https://www.libib.com/), or [MediaTracker](https://github.com/bonukai/MediaTracker) - Media Tracking & Cataloging Tools
 * [Maloja](https://github.com/krateng/maloja) or [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Self-Hosted Audio Scrobbling
-* [Has it Leaked](https://hasitleaked.com/) or [LEAKED](https://leaked.cx/) - Album Leak Tracker
+* [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker
 * [SoundtrackTracklist](https://soundtracktracklist.com/), [⁠What Song](https://what-song.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
 * [SecondHandSongs](https://secondhandsongs.com/), [SampleBrainz](https://github.com/AndrewBelt/SampleBrainz), [RemixSearch](https://remixsearch.net/) or [WhoSampled](https://www.whosampled.com/) - Cover, Sample and Remix Databases
 * [TrackID](https://trackid.net/) or [1001Tracklists](https://www.1001tracklists.com/) - Live Set Tracklist Databases
