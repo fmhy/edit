@@ -319,6 +319,7 @@
 * [YT Data Tools](https://ytdt.digitalmethods.net/) - ⁠YouTube Data Tools
 * [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
+* [MonetizationKit](https://monetizationkit.com/) - Check if YouTube Channels are Monetized
 * [⁠Thumbs Up](https://thumbsup.tv/) - Preview YouTube Thumbnails / Titles
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
