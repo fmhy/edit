@@ -74,7 +74,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.st/)**
 * **Downloading: [lucida](https://lucida.to/) / [Nicotine+](https://nicotine-plus.org/)**
 * **Android: [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [⁠ArchiveTune](https://archivetune.miuka.moe/) / [Mornye](https://mornye.com/)**
-* **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-moduels.pages.dev/) / [EeveeSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
+* **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.pages.dev/) / [EeveeSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
 ***
@@ -164,5 +164,11 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **Download Managers: [AB Download Manager](https://abdownloadmanager.com/)**
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology](https://fluffle.cc/piracyglossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
+* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** - Things we recommend avoiding
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
+
+***
+
+**Beginners Guide Links**
+https://fmhy.net/beginners-guide
+https://rentry.org/Piracy-BG/

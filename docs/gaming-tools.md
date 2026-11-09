@@ -461,7 +461,7 @@
 
 ## ▷ Multiplayer Mods
 
-* 🌐 **[Multiplayer Mods Mega List](https://megalist.neocities.org/mpm)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
+* 🌐 **[Multiplayer Mods Mega List](https://megalist.neocities.org/mpm)**, [CoOp:Anything](https://coopanything.app/) / [GitHub](https://github.com/cranebeaker/coop-anything) or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
 * ⭐ **[CnCNet](https://cncnet.org/)** - Multiplayer Command & Conquer, Red Alert & more / [Discord](https://discord.com/invite/aJRJFe5)
 * ⭐ **[PokeMMO](https://pokemmo.com/)** - Pokémon MMO Mod
 * [⁠Project Reclaimer](https://projectreclaimer.dev/) - Halo 3 / ODST Multiplayer Mod
@@ -642,7 +642,6 @@
 * [r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/) or [r/PS5_Jailbreak](https://www.reddit.com/r/PS5_Jailbreak/) - PS5 Homebrew Subreddits
 * [r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/) - PS4 Homebrew Subreddit
 * [⁠OrbisPatches](https://orbispatches.com/) or [ProsperoPatches](https://www.prosperopatches.com/) - PS4 / PS5 Game Updates / [Discord](https://discord.com/invite/2ApmZKs)
-* [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [PS4 Package Extractor](https://www.nexusmods.com/bloodborne/mods/194) - PS4 Package Extraction Tool / Multi-Game
 * [r/PS3Homebrew](https://reddit.com/r/ps3homebrew) or [r/PS3Piracy](https://www.reddit.com/r/ps3piracy/) - PS3 Homebrew / Piracy Subreddits
 * [⁠webMAN MOD](https://aldostools.github.io/webMAN-MOD/) - Add Extended Services to PS3 Consoles / [GitHub](https://github.com/aldostools/webMAN-MOD)
@@ -894,6 +893,7 @@
 * [DeepLoL](https://www.deeplol.gg/) - LoL Player Performance / Champion Stats
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides / Builds
 * [KoreanBuilds](https://en.koreanbuilds.net/) or [EuropeanBuilds](https://en.europeanbuilds.net/) - High-Elo LoL Builds
+* [⁠ARAMKit](https://aramkit.com/) - LoL ARAM Mayhem Builds / Champion & Augment Stats / [Companion App](https://aramkit.com/en-US/client)
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats / Companion App
 * [LoL Math](https://lolmath.net/) / [Discord](https://discord.com/invite/BpGpdzw) - LoL Item Optimizer / Theorycrafting
 * [LoLTheory](https://loltheory.gg/), [iTero](https://www.itero.gg/) or [DraftGap](https://draftgap.com/) - LoL Draft Analysis
