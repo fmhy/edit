@@ -233,7 +233,7 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[EditPDFKit](https://www.editpdfkit.com/)** - Client-Side
+* ⭐ **[EditPDFKit](https://www.editpdfkit.com/)** - Client-Side / [GitHub](https://github.com/akashkore5/canvas-image-compressor-kb)
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
