@@ -1,6 +1,7 @@
 <script setup lang="ts">
+import { useMediaQuery } from '@vueuse/core'
 import { withBase } from 'vitepress'
-import { computed, nextTick, onMounted, ref } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 import { registerCriticalNote } from '../composables/criticalRegistry'
 
 const props = withDefaults(
@@ -10,8 +11,10 @@ const props = withDefaults(
 
 const shown = ref(false)
 
-const triggerRef = ref<HTMLElement | null>(null)
 const resolvedIcon = computed(() => withBase('/critical.svg'))
+
+const isHoverable = useMediaQuery('(hover: hover)')
+const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
 
 onMounted(() => {
   if (!props.noteId) return
@@ -25,11 +28,6 @@ onMounted(() => {
     registerCriticalNote(props.noteId, props.title ?? '', el.innerHTML)
   }
 })
-
-const onClose = () => {
-  shown.value = false
-  nextTick(() => triggerRef.value?.focus())
-}
 </script>
 
 <template>
@@ -41,14 +39,14 @@ const onClose = () => {
   >
     <VDropdown
       v-model:shown="shown"
-      :triggers="['click']"
-      :popper-triggers="['click']"
+      :triggers="triggers"
+      :popper-triggers="triggers"
+      :delay="{ show: 50, hide: 50 }"
       :auto-hide="true"
       :distance="15"
       placement="auto"
     >
       <button
-        ref="triggerRef"
         type="button"
         :aria-label="title ? `Critical: ${title}` : 'Critical note'"
         aria-haspopup="dialog"
@@ -73,15 +71,6 @@ const onClose = () => {
             <h3 v-if="title" class="critical-popover-title" v-text="title" />
             <div class="critical-popover-body vp-doc">
               <slot />
-            </div>
-            <div class="critical-popover-actions">
-              <button
-                type="button"
-                class="critical-popover-btn"
-                @click="onClose"
-              >
-                Close
-              </button>
             </div>
           </div>
         </div>
@@ -174,34 +163,6 @@ const onClose = () => {
     color: inherit;
     text-decoration: none;
   }
-}
-
-.critical-popover-actions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 8px;
-  margin-top: 16px;
-}
-
-.critical-popover-btn {
-  padding: 6px 14px;
-  border-radius: 8px;
-  border: 1px solid var(--vp-c-divider);
-  background: var(--vp-c-bg-alt);
-  color: var(--vp-c-text-1);
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: opacity 0.2s;
-}
-
-.critical-popover-btn:hover {
-  opacity: 0.8;
-}
-
-.critical-popover-btn:focus-visible {
-  outline: 2px solid var(--vp-custom-block-danger-border);
-  outline-offset: 2px;
 }
 
 @media (forced-colors: active) {
