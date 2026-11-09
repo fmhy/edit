@@ -105,12 +105,6 @@ onMounted(() => {
   vertical-align: middle;
   white-space: nowrap;
   cursor: pointer;
-  transition: opacity 0.2s;
-}
-
-.critical-badge:hover {
-  opacity: 0.8;
-  color: var(--vp-custom-block-danger-text-deep);
 }
 
 .critical-badge:focus-visible {
