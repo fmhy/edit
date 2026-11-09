@@ -233,8 +233,8 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[EditPDFKit](https://www.editpdfkit.com/)** - Client-Side
+* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
 * ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/DCE9Y4Nqv)
@@ -265,6 +265,7 @@
 
 ## ▷ PDF Conversion Tools
 
+* ⭐ **[EditPDFKit](https://www.editpdfkit.com/tools)** - Client-Side In-Browser Conversion Suite (120+ Formats)
 * [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - File to PDF Conversion
 * [⁠Tideflow](https://github.com/BDenizKoca/Tideflow-md-to-pdf) or [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converters
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
