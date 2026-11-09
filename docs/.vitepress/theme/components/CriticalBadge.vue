@@ -56,7 +56,7 @@ onMounted(() => {
         @click.stop
       >
         <span
-          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.2em] h-[1.2em] transition-all"
+          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.2em] h-[1.2em] bg-current transition-all"
           :style="{
             mask: `url(${resolvedIcon}) no-repeat center / contain`,
             '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`
