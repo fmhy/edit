@@ -1140,6 +1140,7 @@
 * [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
 * [AnimeFire](https://animefire.one/) - Anime / Sub / 1080p
 * [redecanais](https://redecanais.af/) - Movies / TV / Anime
+* [YouFilm](https://www.youfilm.online/) - Movies / TV / Anime
 * [goyabu](https://goyabu.io/) - Anime / Sub
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
