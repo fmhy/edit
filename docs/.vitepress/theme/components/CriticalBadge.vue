@@ -130,7 +130,7 @@ onMounted(() => {
   max-height: min(28rem, calc(100dvh - 32px));
   overflow: hidden;
   background: var(--vp-c-bg);
-  border: 1px solid var(--vp-c-divider);
+  border: 1px solid var(--fmhy-note-icon-warning);
   border-radius: 12px;
   box-shadow: var(--vp-shadow-3);
 }
