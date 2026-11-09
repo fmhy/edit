@@ -31,9 +31,10 @@
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [DaMagNet](https://damag.net/) - DHT-Based
 * [BT4G](https://bt4gprx.com/)
+* [BTDigg](https://btdig.com/)
 * [FileMood](https://filemood.com/)
+* [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)

@@ -260,7 +260,6 @@
 * [NotebookCast](https://www.notebookcast.com/) - Whiteboard
 * [WebWhiteboard](https://webwhiteboard.com/) - Whiteboard
 * [Drawnix](https://drawnix.com/) - Whiteboard / [GitHub](https://github.com/plait-board/drawnix/blob/develop/README_en.md)
-* [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4) - Whiteboard
 * [WBO](https://wbo.ophir.dev/) - Whiteboard
 * [OurBoard](https://www.ourboard.io/) - Whiteboard
 * [Whiteboard.fi](https://whiteboard.fi/) - Whiteboard
@@ -643,6 +642,7 @@
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
 * [Cool Fonts Online](https://coolfont.org/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
+* [⁠Fonti](https://fonti.cool/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
 * [FontGenOnline](https://fontgenonline.com/)
 * [TextEditor](https://texteditor.com/)

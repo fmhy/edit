@@ -314,7 +314,6 @@
 * [⁠Death.FM](https://death.fm/) - Metal Radio / Community
 * [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore Radio
 * [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
-* [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
 * [⁠WQXR](https://www.wqxr.org/streams/), [⁠The Classical Station](https://theclassicalstation.org/) or [NTS Sheet Music](https://www.nts.live/infinite-mixtapes/sheet-music) - Classical Music Radio
 * [NTS Poolside](https://www.nts.live/infinite-mixtapes/poolside) or [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [NTS Otaku](https://www.nts.live/infinite-mixtapes/otaku) or [Openings Moe](https://openings.moe/) - Anime Theme Radio
@@ -425,6 +424,7 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
+* ⭐ **[[Mornye](https://desktop.mornye.com/)** - Amazon Music / Qobuz / Tidal / Deezer / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch](https://github.com/fiso64/sldl)
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
@@ -433,7 +433,6 @@
 * [Votify](https://github.com/GladistonXD/votify-fix) - Spotify / 128kb Free / 256kb Premium / AAC / Requires WVD Keys / [Discord](https://discord.gg/aBjMEZ9tnq)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Colab](https://github.com/privateersclub/rip)
 * [OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / [Deezer Mod](https://github.com/uhwot/orpheusdl-deezer)
-* [Mornye](https://desktop.mornye.com/) - Amazon Music / Qobuz / Tidal / Deezer / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * [DeemixFix](https://gitlab.com/deeplydrumming/DeemixFix), [Deemix Revival](https://github.com/bambanah/deemix) or [SaturnMusic](https://github.com/SaturnMusic/) - Deezer / FLAC
 * [Murglar](https://murglar.app/) - Deezer / SoundCloud / VK / 320kb MP3
 * [QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) or [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Qobuz / 128kb Free / 256 ACC Premium / FLAC / Use Firehawk52

@@ -111,7 +111,7 @@
 
 ## ▷ File Searching
 
-* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine / [Date Searching](https://rentry.co/etfd)
+* ⭐ **[Everything](https://voidtools.com/)** - File Search Engine / [Date Searching](https://rentry.co/etfd) / [Taskbar Integration](https://github.com/srwi/EverythingToolbar)
 * [Recoll](https://www.recoll.org/) / [Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/), [DocFetcher](https://docfetcher.sourceforge.io/) or [Orange](https://0-range.github.io/) - Cross-Platform Search Engines
 * [AnyTXT](https://anytxt.net/) or [WizFile](https://antibody-software.com/wizfile/) - Windows Search Engines
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/), [grepWin](https://github.com/stefankueng/grepWin) or [dnGrep](https://dngrep.github.io/) - Windows GUI Grep Utilities
