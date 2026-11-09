@@ -66,13 +66,13 @@ Note that we do try to order sections from best to worst, and if multiple links 
 
 If you're unsure, ask in the wiki channels on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and wait for a staff member to reply.
 
-### Notes: Critical vs Non-Critical
+### Notes: Regular vs Warning
 
-Note files live in `docs/.vitepress/notes/`. They are rendered as popover tooltips next to the link text.
+Note files live in `docs/.vitepress/notes/`. They are rendered as popover tooltips next to the link text, with a small info icon.
 
-- **Non-critical (enhancement / info):** keep the existing names `*-note.md` or plain names (e.g. `spicetify-note.md`, `hugging-face-warning.md` is non-critical). They stay as a hover (desktop) / click (touch) tooltip — no change needed.
-- **Critical (must be read — safety, malware, bootloop, account bans, data loss, fake download buttons):** name the file `*-critical.md` and end its first heading with `Critical` (e.g. `winrar-critical.md` → `#### WinRAR Critical`). On the site these show a red **⚠ Critical** pill. Clicking it opens the note with a **Don't show again** button; dismissals are stored per-note in `localStorage` (`fmhy-critical-notes-dismissed`). Editing a critical note's content re-prompts users who dismissed it.
-- To mark a note critical without renaming, add frontmatter at the top:
+- **Regular notes:** `*-note.md` or plain names (e.g. `spicetify-note.md`). Shown with a blue info icon.
+- **Warning notes (must be read — safety, malware, bootloop, account bans, data loss, fake download buttons):** name the file `*-critical.md` (the suffix is internal only) and end its first heading with `Warning` (e.g. `winrar-critical.md` → `#### WinRAR Warning`). These render with a red info icon instead of blue, and clicking the entry's main link first opens the warning with a **Don't show again** option; dismissals are stored per-note in `localStorage` (`fmhy-critical-notes-dismissed`). Editing a warning note's content re-prompts users who dismissed it.
+- To mark a note as a warning without renaming the file, add frontmatter at the top:
 
 ```md
 ---
@@ -80,7 +80,7 @@ critical: true
 ---
 ```
 
-`critical: false` demotes a `*-critical.md` file back to a plain tooltip. When in doubt, ask in Discord — when a note involves security, bans, or misleading downloads, treat it as critical.
+`critical: false` demotes a `*-critical.md` file back to a regular note. When in doubt, ask in Discord — when a note involves security, bans, or misleading downloads, treat it as a warning.
 
 ## Making Changes
 

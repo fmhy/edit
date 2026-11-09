@@ -59,7 +59,7 @@ const confirm = () => {
             class="i-ph-warning-circle-duotone critical-dialog-icon"
             aria-hidden="true"
           />
-          {{ title || 'Critical note' }}
+          {{ title || 'Warning' }}
         </DialogTitle>
 
         <DialogDescription class="critical-dialog-text">
@@ -122,7 +122,7 @@ const confirm = () => {
   overscroll-behavior: contain;
   padding: 24px;
   background-color: var(--vp-c-bg);
-  border: 1px solid var(--vp-custom-block-danger-border);
+  border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: var(--vp-shadow-3);
 }
@@ -140,7 +140,7 @@ const confirm = () => {
 
 .critical-dialog-icon {
   flex-shrink: 0;
-  color: var(--vp-custom-block-danger-border);
+  color: var(--fmhy-note-icon-warning);
 }
 
 .critical-dialog-text {
@@ -175,7 +175,7 @@ const confirm = () => {
 .critical-checkbox {
   width: 16px;
   height: 16px;
-  accent-color: var(--vp-custom-block-danger-border);
+  accent-color: var(--fmhy-note-icon-warning);
   cursor: pointer;
 }
 
@@ -216,9 +216,9 @@ const confirm = () => {
   }
 
   &.critical-dialog-btn-primary {
-    color: var(--vp-custom-block-danger-text);
-    background-color: var(--vp-custom-block-danger-bg);
-    border: 1px solid var(--vp-custom-block-danger-border);
+    color: var(--vp-button-brand-text);
+    background-color: var(--vp-button-brand-bg);
+    border: 1px solid var(--vp-button-brand-border);
 
     &:hover {
       opacity: 0.8;
@@ -228,7 +228,7 @@ const confirm = () => {
 
 .critical-dialog-btn:focus-visible,
 .critical-checkbox:focus-visible {
-  outline: 2px solid var(--vp-custom-block-danger-border);
+  outline: 2px solid var(--fmhy-note-icon-warning);
   outline-offset: 2px;
 }
 

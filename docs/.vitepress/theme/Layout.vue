@@ -44,9 +44,8 @@ const handleClick = (e: MouseEvent) => {
       if (badge) {
         const badgeId = badge.dataset.noteId ?? ''
         const badgeHash = badge.dataset.contentHash ?? ''
-        const clickedInBadge =
-          !!link.closest('.critical-badge-wrap') ||
-          !!link.closest('.critical-badge')
+        // The note icon is a <button>, not a link, but guard anyway.
+        const clickedInBadge = !!link.closest('.critical-badge-wrap')
         // Only intercept the FIRST link in the list item (the main entry),
         // not the badge itself or later links like / Features.
         const firstLink = listItem.querySelector<HTMLAnchorElement>('a')
@@ -58,8 +57,8 @@ const handleClick = (e: MouseEvent) => {
           e.stopPropagation()
           criticalTargetUrl.value = href
           criticalTitle.value =
-            badge.getAttribute('title')?.replace(/^Critical:\s*/, '') ??
-            'Critical note'
+            badge.getAttribute('title')?.replace(/^Warning:\s*/, '') ??
+            'Warning'
           criticalNoteId.value = badgeId
           criticalContentHash.value = badgeHash
           const registered = getCriticalNote(badgeId)

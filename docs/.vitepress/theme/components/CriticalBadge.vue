@@ -11,7 +11,8 @@ const props = withDefaults(
 
 const shown = ref(false)
 
-const resolvedIcon = computed(() => withBase('/critical.svg'))
+// Same glyph as normal notes (note.svg); only the colour differs.
+const resolvedIcon = computed(() => withBase('/note.svg'))
 
 const isHoverable = useMediaQuery('(hover: hover)')
 const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
@@ -48,21 +49,20 @@ onMounted(() => {
     >
       <button
         type="button"
-        :aria-label="title ? `Critical: ${title}` : 'Critical note'"
+        :aria-label="title ? `Warning: ${title}` : 'More information'"
         aria-haspopup="dialog"
         :aria-expanded="shown"
-        class="critical-badge"
+        class="warning-note-trigger relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer h-[1.5em] w-[1.5em] overflow-visible align-middle"
         @click.stop
       >
         <span
-          class="critical-badge-icon"
+          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.2em] h-[1.2em] transition-all"
           :style="{
             mask: `url(${resolvedIcon}) no-repeat center / contain`,
             '-webkit-mask': `url(${resolvedIcon}) no-repeat center / contain`
           }"
           aria-hidden="true"
         />
-        <span class="critical-badge-text">Critical</span>
       </button>
 
       <template #popper>
@@ -90,33 +90,33 @@ onMounted(() => {
   vertical-align: middle;
 }
 
-.critical-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  padding: 2px 8px;
-  border-radius: 999px;
-  border: 1px solid var(--vp-custom-block-danger-border);
-  background: var(--vp-custom-block-danger-bg);
-  color: var(--vp-custom-block-danger-text);
-  font-size: 11px;
-  font-weight: 700;
-  line-height: 1.2;
-  vertical-align: middle;
-  white-space: nowrap;
-  cursor: pointer;
-}
+.warning-note-trigger {
+  /* Same size/shape as normal note icons; fixed red so it reads as a warning
+     regardless of the active theme. */
+  color: var(--fmhy-note-icon-warning);
+  transition: color 0.2s;
 
-.critical-badge:focus-visible {
-  outline: 2px solid var(--vp-custom-block-danger-border);
-  outline-offset: 2px;
-}
+  &:hover {
+    color: var(--fmhy-note-icon-warning-hover);
+  }
 
-.critical-badge-icon {
-  width: 11px;
-  height: 11px;
-  background-color: currentColor;
-  flex-shrink: 0;
+  &:focus-visible {
+    outline: 2px solid var(--fmhy-note-icon-warning);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  @media (pointer: coarse) {
+    &::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      min-width: 36px;
+      min-height: 36px;
+    }
+  }
 }
 
 .critical-badge-hidden-body {
@@ -130,7 +130,7 @@ onMounted(() => {
   max-height: min(28rem, calc(100dvh - 32px));
   overflow: hidden;
   background: var(--vp-c-bg);
-  border: 1px solid var(--vp-custom-block-danger-border);
+  border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
   box-shadow: var(--vp-shadow-3);
 }
@@ -156,12 +156,6 @@ onMounted(() => {
   :deep(a.tooltip-source-link) {
     color: inherit;
     text-decoration: none;
-  }
-}
-
-@media (forced-colors: active) {
-  .critical-badge {
-    outline: 1px solid;
   }
 }
 </style>
