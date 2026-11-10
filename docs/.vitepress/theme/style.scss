@@ -1091,3 +1091,26 @@ html.monolith {
     padding-left: 12px !important;
   }
 }
+
+/* "New" badge for entries added in the last week (see generate-removed.js). */
+:root {
+  --fmhy-new-badge: #1a7f37;
+}
+
+.dark {
+  --fmhy-new-badge: #3fb950;
+}
+
+.vp-doc li.new > .new-badge {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.3em;
+  vertical-align: -0.12em;
+  background-color: var(--fmhy-new-badge);
+  cursor: help;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 15V8' stroke='%23000' stroke-width='1.6' stroke-linecap='round' fill='none'/%3E%3Cpath d='M8 8.6C8 5.1 5.6 3 2 3c0 3.5 2.4 5.6 6 5.6z'/%3E%3Cpath d='M8 7.2C8 3.9 10.3 1.5 14 1.5c0 3.4-2.3 5.7-6 5.7z'/%3E%3C/svg%3E")
+    center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 15V8' stroke='%23000' stroke-width='1.6' stroke-linecap='round' fill='none'/%3E%3Cpath d='M8 8.6C8 5.1 5.6 3 2 3c0 3.5 2.4 5.6 6 5.6z'/%3E%3Cpath d='M8 7.2C8 3.9 10.3 1.5 14 1.5c0 3.4-2.3 5.7-6 5.7z'/%3E%3C/svg%3E")
+    center / contain no-repeat;
+}
