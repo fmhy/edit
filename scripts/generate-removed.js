@@ -6,6 +6,9 @@ import headers from '../docs/.vitepress/transformer/headers.json' with { type: '
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
+// Entries added within this many days get a "new" badge on their page.
+const NEW_DAYS = 7
+const NEW_SITES_FILE = 'docs/.vitepress/new-sites.json'
 
 const IGNORED_FILES = [
   'docs/posts.md',
@@ -320,6 +323,8 @@ function cacheInlineTokens(markdown) {
 async function generateRemovedSites() {
   console.log(`Generating recently removed sites from the last ${DAYS} days...`)
   console.log(`Current working directory: ${process.cwd()}`)
+  // Start empty so an early return (no Git history) never leaves stale badges.
+  fs.writeFileSync(NEW_SITES_FILE, '{}\n')
 
   // Verify docs directory exists
   if (!fs.existsSync('docs')) {
@@ -660,6 +665,17 @@ async function generateRemovedSites() {
     }
   }
 
+  // URLs removed anywhere in the window: re-adds and moves are not "new".
+  const removedInWindow = new Set(
+    commits.flatMap(({ changes }) =>
+      changes.flatMap(({ removedUrls }) => [...removedUrls])
+    )
+  )
+  const newCutoff = new Date(Date.now() - NEW_DAYS * 86400000)
+    .toISOString()
+    .slice(0, 10)
+  const newSites = new Map()
+
   // Historical primary occurrences can establish ambiguous grouped peers.
   for (const { hash, msg, date, changes } of commits) {
     const addedUrls = new Set(
@@ -695,6 +711,23 @@ async function generateRemovedSites() {
           if (change.addedUrls.has(resource.url))
             added.push({ ...resource, description })
         }
+      }
+    }
+
+    if (date >= newCutoff) {
+      // A name that disappeared in the same commit is a rename or URL change.
+      const removedNames = new Set(
+        removed.map(({ name }) => normalizeName(name))
+      )
+      for (const item of added) {
+        if (
+          !currentUrls.has(item.url) ||
+          removedInWindow.has(item.url) ||
+          removedNames.has(normalizeName(item.name))
+        )
+          continue
+        // Commits are newest first, so the last write keeps the first addition.
+        newSites.set(item.url, date)
       }
     }
 
@@ -867,6 +900,13 @@ async function generateRemovedSites() {
   }
 
   fs.writeFileSync(OUTPUT_FILE, output)
+  fs.writeFileSync(
+    NEW_SITES_FILE,
+    `${JSON.stringify(Object.fromEntries([...newSites].sort()), null, 2)}\n`
+  )
+  console.log(
+    `Marked ${newSites.size} entries added in the last ${NEW_DAYS} days as new.`
+  )
   console.log(
     `Successfully generated ${OUTPUT_FILE} with ${sortedRemoved.length} entries.`
   )

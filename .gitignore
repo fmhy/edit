@@ -12,5 +12,6 @@ dist
 docs/.vitepress/.temp
 result
 docs/recently-removed.md
+docs/.vitepress/new-sites.json
 docs/public/single-page.md
 package-lock.json
