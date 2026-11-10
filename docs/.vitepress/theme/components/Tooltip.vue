@@ -25,7 +25,7 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
     <button
       type="button"
       :aria-label="title || 'More information'"
-      class="tooltip-trigger text-primary relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.5em] w-[1.5em] overflow-visible align-middle"
+      class="tooltip-trigger relative inline-flex items-center justify-center leading-none p-0 select-none font-bold cursor-pointer transition-all h-[1.5em] w-[1.5em] overflow-visible align-middle"
     >
       <div
         class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[1.2em] h-[1.2em] bg-current transition-all"
@@ -51,6 +51,15 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
 
 <style scoped lang="scss">
 .tooltip-trigger {
+  /* Fixed info hue so it stays distinguishable from warning notes in every
+     theme (brand colour goes red in the red theme). */
+  color: var(--fmhy-note-icon);
+  transition: color 0.2s;
+
+  &:hover {
+    color: var(--fmhy-note-icon-hover);
+  }
+
   @media (pointer: coarse) {
     &::after {
       content: '';

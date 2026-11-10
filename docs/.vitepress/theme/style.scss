@@ -4,6 +4,12 @@ html {
 
 :root {
   --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
+  /* Note icons. Fixed hues so info vs warning stay distinguishable in every
+     theme (the brand/custom-block colours get overridden per theme). */
+  --fmhy-note-icon: theme('colors.swarm.500');
+  --fmhy-note-icon-hover: theme('colors.swarm.600');
+  --fmhy-note-icon-warning: theme('colors.carnation.500');
+  --fmhy-note-icon-warning-hover: theme('colors.carnation.600');
   --fmhy-c-accent-subtle: color-mix(
     in srgb,
     var(--vp-c-brand-1) 7%,
@@ -81,6 +87,12 @@ html {
   --vp-c-brand-2: theme('colors.swarm.500');
   --vp-c-brand-3: theme('colors.swarm.700');
   --vp-c-brand-soft: theme('colors.swarm.300');
+
+  /* Note icons: lighter steps for dark backgrounds */
+  --fmhy-note-icon: theme('colors.swarm.400');
+  --fmhy-note-icon-hover: theme('colors.swarm.300');
+  --fmhy-note-icon-warning: theme('colors.carnation.400');
+  --fmhy-note-icon-warning-hover: theme('colors.carnation.300');
 
   /* Colors: Background */
   --vp-c-bg: rgb(26, 26, 26);
