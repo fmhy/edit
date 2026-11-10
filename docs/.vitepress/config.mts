@@ -44,6 +44,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
+    ['meta', { 'http-equiv': 'onion-location', content: 'http://fnp47tywqhwygfkkik3dkgreocdbevjslzs6fw4zbotomcbqeuyahjqd.onion' }],
     ['link', { rel: 'icon', href: '/fmhy.ico' }],
     [
       'link',
