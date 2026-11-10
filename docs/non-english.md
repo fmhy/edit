@@ -464,7 +464,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/), [2](https://fsurl.top/) - Movies / TV / Anime / [Status](https://fstream.info/)
@@ -577,8 +576,6 @@
 * [Burning Series](https://burningseries.ac/), [2](https://burningseries.cx/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Status](https://aniworld.domains/) / [Discord](https://discord.com/invite/xTkw6292Uj)
-* [FireAnime](https://fireani.me/) - Anime / Sub
-* [⁠Fireani](https://fireani.me/app) - Anime Android App
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons
 * [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
@@ -662,7 +659,6 @@
 
 ## ▷ Streaming / Streamelés
 
-* ⭐ **[moviedrive](https://moviedrive.hu/)** - Movies / TV / Sub / Dub / 1080p
 * [hdmozi](https://hdmozi.hu/) - Movies / TV / Sub / Dub / 1080p
 * [OnlineFilmekIngyen](https://www.onlinefilmekingyen1.com/) - Movies / Sub / Dub / 1080p
 * [filmezek](https://filmezek.com/) - Movies
@@ -726,7 +722,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Kartoons](https://kartoons.me/)** - Cartoons / [Discord](https://discord.com/invite/5fKH3TYVmE)
+* ⭐ **[Kartoons](https://kartoons.to/home)** - Cartoons / [Discord](https://discord.com/invite/5fKH3TYVmE)
 * ⭐ **[PirateXPlay](https://piratexplay.cc/)** - Cartoons / Anime / [Mirrors](https://piratexplay.com/)
 * ⭐ **[ToonStream](https://toonstream.vip/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[MultiMovies](https://multimovies.wtf/)** - Movies / TV / .guru Always Redirects to Main / [Telegram](https://telegram.me/+8Is7Ezz56fNkZDZl)
@@ -958,7 +954,6 @@
 * [EBS](https://www.ebs.co.kr/) - Korean Courses for the Visually / Hearing Impaired
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List
 * [Sldict](https://sldict.korean.go.kr/) - Sign Language Learning
-* [NAVER](https://www.naver.com/) - Search
 * [Free Korean Fonts](https://www.freekoreanfont.com/) - Korean Fonts
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
 * [litt.ly](https://start.litt.ly/) - Personal Link Homepage
@@ -976,7 +971,6 @@
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
-* [Naver](https://tv.naver.com/)
 * [eHistory](https://www.ehistory.go.kr/) - Video Archive / Cultural Films
 
 ## ▷ Reading
@@ -1529,7 +1523,6 @@
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
 * [Cinedeantes](https://cinedeantes2.weebly.com/) - Classic Films
-* [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [Series Peruanas](https://seriesperu.com/) - TV / Drama
 * [Doramasflix](https://doramasflix.co/) - Asian Drama / Sub / Latino / [Telegram](https://t.me/+BnaUn49pKwZkZDMx)
 * [Asialiveaction](https://asialiveaction.com/) - Asian Drama

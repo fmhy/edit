@@ -1781,7 +1781,7 @@
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Michaelbach](https://michaelbach.de/ot/) or [Optical Toys](https://optical.toys/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [PoliticalTests](https://politicaltests.github.io/) or [⁠12 Axes](https://12axes.vercel.app/) - Political Alignment Tests
+* [PoliticalTests](https://politicaltests.github.io/) - Political Alignment Tests
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
 * [⁠Read QR By Hand](https://noel-friedrich.github.io/read-qr-by-hand) - Learn How-To Read QR by Hand
 * [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"

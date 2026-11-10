@@ -654,7 +654,6 @@
 * [AnimeBox](https://www.animebox.es/) - Booru Client
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL / Anilist / Kitsu Lists
 * [Magit!](https://magit.vc/) - Git Text-Based UI
-* [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Does It Arm?](https://doesitarm.com/) - Apple Silicon App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
@@ -827,6 +826,8 @@
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [MiddleClick](https://github.com/artginzburg/MiddleClick) - Middle / Scroll Click via 3 Finger Tap
 * [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Per-Device Scroll Settings
+* [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
+* [macOS defaults](https://macos-defaults.com/) - macOS defaults Commands List / [GitHub](https://github.com/yannbertrand/macos-defaults)
 * [KeyClu](https://sergii.tatarenkov.name/apps/keyclu/) - Shortcut CheatSheet for Current Application
 * [KeyCastr](https://github.com/keycastr/keycastr) - Keystroke Visualizer
 * [⁠FineTune](https://github.com/ronitsingh10/FineTune) - Volume Mixer / Per App Volume Control / Routing / EQ / Booster

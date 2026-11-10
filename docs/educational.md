@@ -2004,6 +2004,7 @@
 * [HatNote](https://top.hatnote.com/) - Top Pages
 * [Reversepedia](https://reversepedia.org/) - Page Connections Search
 * [⁠Wikigraph](https://tobypenner.com/wikigraph/) - Page Connections Visualizer
+* [⁠Compend](https://compend.org/) - Comments / Reviews for Wikipedia Articles
 * [wik](https://github.com/yashsinghcodes/wik) - Wiki TUI
 * [CDPedia](https://cdpedia.python.org.ar/index.en.es.html) - Offline View
 * [Substance](https://substance.reorx.com/) - Extract Markdown
