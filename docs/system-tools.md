@@ -74,7 +74,7 @@
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
 * [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
 * [sfsu](https://github.com/winpax/sfsu/) or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
+* [Zero Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
 * [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
 * [NirLauncher](https://launcher.nirsoft.net/) - Portable Package Manager for NirSoft Utilities
@@ -88,7 +88,7 @@
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler / Windows
 * [AutoIt](https://www.autoitscript.com/) / Windows
 * [TinyTask](https://tinytask.net/) - Find "Free" Button on Homepage / Windows
-* [⁠CrossMacro](https://github.com/alper-han/CrossMacro) / Windows, macOS, Linux
+* [⁠CrossMacro](https://alper-han.github.io/CrossMacro/) / Windows, macOS, Linux / [GitHub](https://github.com/alper-han/CrossMacro)
 * [OculiX](https://oculix.org/) / Windows, macOS, Linux / [GitHub](https://github.com/oculix-org/Oculix)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows
 * [MacroRecorder](https://www.macrorecorder.com/) / Windows, macOS

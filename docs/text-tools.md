@@ -157,7 +157,7 @@
 * [CopyChar](https://copychar.cc/) - Special Characters Index
 * [Graphemica](https://graphemica.com/) - Typography Reference
 * [Unifoundry](https://unifoundry.com/) - Unifont Repository
-* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/) / [2](https://www.textemoji.org/), [cutesymbols.io](https://cutesymbols.io/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
+* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/) / [2](https://www.textemoji.org/), [⁠Kaomoji](https://kaomojicopypaste.org/), [cutesymbols.io](https://cutesymbols.io/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP) - Custom Font & Emojis / Windows
 
 ***

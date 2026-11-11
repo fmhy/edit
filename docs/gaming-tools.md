@@ -732,7 +732,7 @@
 * [Minekube Connect](https://connect.minekube.com/) / [Discord](https://discord.com/invite/HvQugYx) / [GitHub](https://github.com/minekube/connect-java) - Server Proxy
 * [GrimAC](https://modrinth.com/plugin/grimac) / [GitHub](https://github.com/GrimAnticheat/Grim) - Server Anti-Cheat
 * [MCJars](https://mcjars.app/) - Server Jar Archives
-* [ServerPackCreator](https://serverpackcreator.de/) / [Discord](https://discord.com/invite/JfsXK8qB95) / [GitHub](https://github.com/Griefed/ServerPackCreator) - Server Pack Creator
+* [ServerPackCreator](https://serverpackcreator.de/) / [GitHub](https://github.com/Griefed/ServerPackCreator) - Server Pack Creator
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Tracker
 * [MC-Server-Banner-API](https://github.com/LOOHP/MC-Server-Banner-API) - Server Banner Updates
 
