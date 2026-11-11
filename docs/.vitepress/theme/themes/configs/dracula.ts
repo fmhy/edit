@@ -2,7 +2,7 @@ import type { Theme } from '../types'
 
 export const draculaTheme: Theme = {
   displayName: 'Dracula',
-  preview: 'https://avatars.githubusercontent.com/u/6770408?s=200&v=4',
+  preview: '/dracula.webp',
   modes: {
     light: {
       brand: {
