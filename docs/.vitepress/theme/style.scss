@@ -1119,10 +1119,11 @@ html.monolith {
   letter-spacing: 0.02em;
   vertical-align: 0.12em;
   cursor: help;
-  user-select: none;
+  user-select: text;
 }
 
-/* Text comes from CSS so it stays out of search results and copied text. */
-.vp-doc li.new .new-badge::before {
-  content: 'NEW';
+/* Real text so the browser's own find (Ctrl+F) and copy can see it. */
+.vp-doc li.new .new-badge-text {
+  display: inline;
+  text-transform: uppercase;
 }
