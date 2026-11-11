@@ -29,7 +29,7 @@
 * ⭐ **[ArrowTV](https://arrowtv.net/)**, [2](https://neonflix.st/) or [Cinezo](https://www.cinezo.st/), [2](https://www.flikhub.net/) - 4K / External Subs / Ad-Toggle
 * ⭐ **[Ghostflix](https://ghostflix.st/)**, [2](https://redflix.one/), [3](https://redflix.club/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Status](https://redflix.fans/) / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)
 * ⭐ **[Spacedom](https://spacedom.live/)** - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/6NU9thcPYs)
-* ⭐ **[dulo](https://dulo.mov/)** - 4K / 1080p / External Subs / Ad-Toggle / [Discord](https://discord.gg/kSsqjhE2Sp)
+* ⭐ **[dulo](https://dulo.mov/)** - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/kSsqjhE2Sp)
 * ⭐ **[Chillflix](https://chillflix.lol/)**, [Toflix](https://toflix.co/) or [Vuflix](https://vuflix.co/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/6r5KTZgqXV)
 * ⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
 * ⭐ **[Movie Night](https://movienig.ht/)** - 1080p / Ad-Toggle / [Discord](https://discord.com/invite/kPJ2yJxYng)
@@ -85,7 +85,7 @@
 ***
 
 * ⭐ **[Cinecat](https://cinecat.eu/)** - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/mtSMCeTM2z) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
-* ⭐ **[Aether](https://aether.st/)**, [2](https://aether.cx/), [3](https://aether.ist/) - 1080p / External Subs / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
+* ⭐ **[Aether](https://aether.st/)**, [2](https://aether.cx/), [3](https://aether.ist/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * ⭐ **[Basement](https://basementx.lol/)** - 1080p / Dual Audio / External Subs / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 * [kstream](https://kdesa.stream/), [2](https://kdesa.app/) - 1080p / Dual Audio / External Subs / [Status](https://rentry.co/kdesadomains) / [Discord](https://discord.gg/c2Ykk8HKjS)
 * [⁠Cinefork](https://cinefork.net/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free

@@ -563,7 +563,7 @@
 * ⭐ **[Movie2k](https://movie2k.cx/)** - Movies / TV / Dub
 * ⭐ **[FilmPalast](https://filmpalast.to)** - Movies / TV / Dub / 720p
 * [Kinoking](https://kinoking.cc/) - Movies / TV / Anime / Dub / 1080p
-* [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime
+* [flixfilmplus](https://flixfilmplus.de/) - Movies / TV / Anime / Requires Sign-Up
 * [Filmo](https://filmo.to/) - Movies / TV / Anime / 720p / [Mirrors](https://filmo.domains/)
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
 * [megakino3](https://megakino20.com/) - Movies / TV / Anime
