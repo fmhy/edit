@@ -570,6 +570,7 @@ html.halloween {
 
 /* Shared popup surfaces */
 .v-popper--theme-theme-selector .v-popper__inner,
+.v-popper--theme-tooltip.new-badge-popper .v-popper__inner,
 .VPMenu,
 .VPLocalNavOutlineDropdown .items,
 .tooltip-card {
@@ -1103,11 +1104,13 @@ html.monolith {
   --fmhy-new-badge-text: #ffffff;
 }
 
-.vp-doc li.new > .new-badge {
+.vp-doc li.new .new-badge {
   display: inline-block;
-  margin-right: 0.4em;
+  margin-left: 0.4em;
   padding: 0.1em 0.5em;
+  border: 0;
   border-radius: 999px;
+  font-family: inherit;
   background-color: var(--fmhy-new-badge-bg);
   color: var(--fmhy-new-badge-text);
   font-size: 0.7em;
@@ -1120,6 +1123,6 @@ html.monolith {
 }
 
 /* Text comes from CSS so it stays out of search results and copied text. */
-.vp-doc li.new > .new-badge::before {
+.vp-doc li.new .new-badge::before {
   content: 'NEW';
 }
