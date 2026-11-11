@@ -26,65 +26,123 @@ const criticalContentHash = ref('')
 const criticalTargetUrl = ref('')
 const route = useRoute()
 
-const handleClick = (e: MouseEvent) => {
-  // Check if the clicked element is a link or within a link
-  const target = e.target as HTMLElement
-  const link = target.closest ? target.closest('a') : null
+// Shared interception logic for the warning (critical note) gate and the
+// rentry.co base64 interstitial. Left click, middle click and the middle
+// mousedown fallback all go through these so they behave identically.
+const findCriticalBadge = (link: HTMLAnchorElement) => {
+  // Critical notes: links a warning guards are tagged at build time with
+  // data-critical-note (see utils/markdown.ts). Other links in the same
+  // item (/ GitHub, / Features, a different site) pass through normally.
+  const noteId = (link as HTMLElement).dataset.criticalNote
+  if (!noteId) return null
+  const selector = `.critical-badge-wrap[data-note-id="${CSS.escape(noteId)}"]`
+  return (
+    link.closest('li')?.querySelector<HTMLElement>(selector) ??
+    document.querySelector<HTMLElement>(selector) ??
+    null
+  )
+}
 
-  if (link) {
-    const href = (link as HTMLAnchorElement).href
+const isBase64Href = (href: string) =>
+  href.includes('https://rentry.co/FMHYB64') ||
+  href.startsWith('https://rentry.co/FMHYB64')
 
-    // Critical notes: links a warning guards are tagged at build time with
-    // data-critical-note (see utils/markdown.ts). Other links in the same
-    // item (/ GitHub, / Features, a different site) pass through normally.
-    const noteId = (link as HTMLElement).dataset.criticalNote
-    if (noteId) {
-      const selector = `.critical-badge-wrap[data-note-id="${CSS.escape(noteId)}"]`
-      const badge =
-        link.closest('li')?.querySelector<HTMLElement>(selector) ??
-        document.querySelector<HTMLElement>(selector)
-      if (badge) {
-        const badgeId = badge.dataset.noteId ?? ''
-        const badgeHash = badge.dataset.contentHash ?? ''
-        if (badgeId && isCriticalDismissed(badgeId, badgeHash)) {
-          return // dismissed earlier — let the link open normally
-        }
-        e.preventDefault()
-        e.stopPropagation()
-        criticalTargetUrl.value = href
-        criticalTitle.value =
-          badge.getAttribute('title')?.replace(/^Warning:\s*/, '') ?? 'Warning'
-        criticalNoteId.value = badgeId
-        criticalContentHash.value = badgeHash
-        const registered = getCriticalNote(badgeId)
-        criticalBodyHtml.value =
-          registered?.html ??
-          badge.querySelector('.critical-badge-hidden-body')?.innerHTML ??
-          badge.querySelector('.critical-badge-body')?.innerHTML ??
-          ''
-        if (registered?.title) criticalTitle.value = registered.title
-        showCriticalDialog.value = true
-        return
-      }
+// True only when this anchor would actually open one of the dialogs, so a
+// middle mousedown is never cancelled for links that pass straight through.
+const shouldInterceptLink = (link: HTMLAnchorElement) => {
+  const badge = findCriticalBadge(link)
+  if (badge) {
+    const badgeId = badge.dataset.noteId ?? ''
+    const badgeHash = badge.dataset.contentHash ?? ''
+    return !(badgeId && isCriticalDismissed(badgeId, badgeHash))
+  }
+  if (isBase64Href(link.href)) {
+    return localStorage.getItem('fmhy-base64-dialog-preference') !== 'true'
+  }
+  return false
+}
+
+// Intercepts one anchor and returns whether it did. The gates run in the
+// same order as before: critical note first, then the base64 interstitial.
+const interceptLink = (e: MouseEvent, link: HTMLAnchorElement): boolean => {
+  const badge = findCriticalBadge(link)
+  if (badge) {
+    const badgeId = badge.dataset.noteId ?? ''
+    const badgeHash = badge.dataset.contentHash ?? ''
+    if (badgeId && isCriticalDismissed(badgeId, badgeHash)) {
+      return false // dismissed earlier — let the link open normally
     }
+    e.preventDefault()
+    e.stopPropagation()
+    criticalTargetUrl.value = link.href
+    criticalTitle.value =
+      badge.getAttribute('title')?.replace(/^Warning:\s*/, '') ?? 'Warning'
+    criticalNoteId.value = badgeId
+    criticalContentHash.value = badgeHash
+    const registered = getCriticalNote(badgeId)
+    criticalBodyHtml.value =
+      registered?.html ??
+      badge.querySelector('.critical-badge-hidden-body')?.innerHTML ??
+      badge.querySelector('.critical-badge-body')?.innerHTML ??
+      ''
+    if (registered?.title) criticalTitle.value = registered.title
+    showCriticalDialog.value = true
+    return true
+  }
 
-    if (typeof href === 'string') {
-      if (
-        href.includes('https://rentry.co/FMHYB64') ||
-        href.startsWith('https://rentry.co/FMHYB64')
-      ) {
-        const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
-        if (dontShow === 'true') {
-          return // Let the link click proceed normally
-        }
-
-        e.preventDefault()
-        e.stopPropagation()
-        formattedUrl.value = href
-        showBase64Dialog.value = true
+  const href = link.href
+  if (typeof href === 'string') {
+    if (isBase64Href(href)) {
+      const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
+      if (dontShow === 'true') {
+        return false // Let the link click proceed normally
       }
+
+      e.preventDefault()
+      e.stopPropagation()
+      formattedUrl.value = href
+      showBase64Dialog.value = true
+      return true
     }
   }
+
+  return false
+}
+
+// The anchor containing the event target, if any.
+const linkFromEvent = (e: MouseEvent) => {
+  const target = e.target as HTMLElement
+  const link = target.closest ? target.closest('a') : null
+  return link as HTMLAnchorElement | null
+}
+
+const handleClick = (e: MouseEvent) => {
+  // Check if the clicked element is a link or within a link
+  const link = linkFromEvent(e)
+  if (link) interceptLink(e, link)
+}
+
+// A middle click opens the link in a new tab by default, so that default has
+// to be cancelled before the helper runs and raises the same dialogs.
+const handleAuxClick = (e: MouseEvent) => {
+  if (e.button !== 1) return
+  const link = linkFromEvent(e)
+  if (!link) return
+  if (!shouldInterceptLink(link)) return
+  e.preventDefault()
+  interceptLink(e, link)
+}
+
+// Fallback for Windows autoscroll, and for browsers that will not cancel the
+// open-in-new-tab default from auxclick alone. Only a middle mousedown on a
+// link that will raise a dialog is cancelled.
+const handleMiddleMouseDown = (e: MouseEvent) => {
+  if (e.button !== 1) return false
+  const link = linkFromEvent(e)
+  if (!link) return false
+  if (!shouldInterceptLink(link)) return false
+  e.preventDefault()
+  return true
 }
 
 const onCriticalDismiss = (id: string, hash: string) => {
@@ -223,6 +281,10 @@ watch(
 
 onMounted(() => {
   window.addEventListener('click', handleClick, { capture: true })
+  window.addEventListener('auxclick', handleAuxClick, { capture: true })
+  window.addEventListener('mousedown', handleMiddleMouseDown, {
+    capture: true
+  })
   window.addEventListener('scroll', scheduleMobileLinkUpdate, { passive: true })
   window.addEventListener('click', handleAnyClick, { passive: true })
   observeScrollInset()
@@ -233,6 +295,10 @@ onMounted(() => {
 onUnmounted(() => {
   insetResizeObserver?.disconnect()
   window.removeEventListener('click', handleClick, { capture: true })
+  window.removeEventListener('auxclick', handleAuxClick, { capture: true })
+  window.removeEventListener('mousedown', handleMiddleMouseDown, {
+    capture: true
+  })
   window.removeEventListener('scroll', scheduleMobileLinkUpdate)
   window.removeEventListener('click', handleAnyClick)
 })
