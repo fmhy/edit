@@ -67,10 +67,10 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)** / [DNS](https://www.cloudflare.com/products/dns/)
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/quad9dns)
-* ⭐ **[Rethink DNS Resolver](https://rethinkdns.com/configure)** - DNS Provider / Mix Multiple Blocklists / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
 * [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / US Servers / [GitHub](https://github.com/PUT-Request/Artemis/)
 * [AdGuard Public DNS](https://adguard-dns.io/en/public-dns.html) - DNS Provider / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
 * [DNSBunker](https://dnsbunker.org/) - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking / German Servers
+* [Rethink DNS Resolver](https://rethinkdns.com/configure) - DNS Provider / Mix Multiple Blocklists / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
 * [HaGeZi DNS](https://github.com/hagezi/dns-servers) - Free, Non-Commercial EU DNS Servers
 * [DNS for Family](https://dnsforfamily.com/) - Family Filtering with Safe Search & Malware Protection / German + Finnish Servers
 * [Control D](https://controld.com/features/dns-filtering) - Control Free DNS / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
@@ -369,7 +369,7 @@
 * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs / [.onion](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/)
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/) / [Bangs](https://duckduckgo.com/bangs) / [Bangs Extension](https://github.com/dmlls/yang) / [Bangs Script](https://greasyfork.org/scripts/588027) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
-* ⭐ **[Startpage](https://www.startpage.com/)** - Google  + Bing Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
+* ⭐ **[Startpage](https://www.startpage.com/)** - Google + Bing Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * ⭐ **[4get](https://4get.ca/)** - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Degoog](https://github.com/degoog-org/degoog) - Metasearch / [GitHub](https://github.com/fccview/degoog)
 * [LibreY](https://github.com/Ahwxorg/librey/) - Metasearch

@@ -928,7 +928,6 @@
 * [⁠BlurHash](https://blurha.sh/) - Compact Representation Algorithm for Image Placeholders / [GitHub](https://github.com/woltapp/blurhash)
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [T3](https://github.com/tooll3/t3), [⁠Lottie Creator](https://creator.lottiefiles.com/) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
-* [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
 ***

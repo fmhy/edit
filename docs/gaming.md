@@ -131,7 +131,6 @@
 * [DigiPen](https://games.digipen.edu/) - Indie Games
 * [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [⁠WFGames](https://wfgames.net/) - Weird itch.io Games
-* [Ninja Kiwi Archive](https://ninjakiwi.com/archive) - Ninja Kiwi / Bloons Archive / [Subreddit](https://www.reddit.com/r/NinjaKiwiOfficial/) / [Discord](https://discord.com/invite/ninjakiwi)
 
 ***
 
@@ -429,7 +428,7 @@
 * [Super PSX](https://www.superpsx.com/) - ROMs / PS3 / PS4 / PS5 / **Avoid PC Games**
 * [PS Network Database](https://rentry.co/FMHYB64#ps-content) - ROMs / PS3
 * [PKGPS4](https://www.pkgps4.click/) - ROMs / PS4
-* [GFS Catalog](https://catalog.gfs-dlps.workers.dev/) - ROMs / PS5 / [Telegram](https://t.me/+N6JTm3sdls04NzU9)
+* [GFS Catalog](https://catalog.gfs-dlps.workers.dev/) - ROMs / PS5
 * [Pippo Library](https://pippo26442999.github.io/.exFAT/) - ROMs / PS5 / PW: pippo
 * [DownloadGamePSP](https://downloadgamepsp.org/) - ROMs / PSP / PSVita / **Avoid PC Games**
 * [PS1 Covers](https://github.com/xlenore/psx-covers) or [PS2 Covers](https://github.com/xlenore/ps2-covers) - Cover Downloaders
@@ -833,6 +832,7 @@
 * ⭐ **[Selenite](https://selenite.cc/)**, [2](https://selenite.skysthelimit.dev/), [3](https://selenite.skys.day/) - Browser Games / Ports / [Discord](https://discord.gg/7jyufnwJNf)
 * ⭐ **[mizu](https://mizumath.com/study.html)** - Browser Games / [Discord](https://discord.gg/MwKRJkJrJB)
 * [⁠Obsidian](https://playobsidian.com/store) - Browser Games / Ports
+* [Ivy](https://ivy.rest/) - Browser Games / Ports / [Discord](https://discord.gg/ivyubg)
 * [Truffled](https://truffled.lol/g) - Browser Games / Ports / [Discord](https://discord.com/invite/truffled)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
@@ -970,7 +970,7 @@
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [⁠Vector](https://vector.game/) - 2D Platformer
-* [Pixel Run](https://pixelrun.localplayer.dev/) - 2D Pixel Runner / Platformer / [Discord](https://discord.gg/QZKEVEuFbh) / [GitHub](https://github.com/Jimm144/pixel-run)
+* [Pixel Run](https://pixelrun.localplayer.dev/) - 2D Pixel Runner / Platformer / [Discord](https://discord.gg/QZKEVEuFbh)
 * [⁠Pixel Quest RPG](https://thvariableyt.github.io/Pixel-Quest-Deluxe/) - 2D Platformer / [GitHub](https://github.com/ThVariableYT/Pixel-Quest-Deluxe)
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia

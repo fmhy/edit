@@ -350,8 +350,8 @@
 
 # ► Spotify Tools
 
-* ↪️ **[Android Spotify Tools](https://fmhy.net/mobile#android-audio)**
-* ↪️ **[iOS Spotify Patchers](https://fmhy.net/mobile#ios-audio)**
+* ↪️ **[Android Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio)**
+* ↪️ **[iOS Spotify Patchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio)**
 * ⭐ **[SpotX](https://github.com/SpotX-Official/SpotX)** or [BlockTheSpot](https://github.com/Nuzair46/BlockTheSpot-Installer) - Ad-Free Spotify Patchers / [Telegram](https://t.me/SpotxCommunity)
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [⁠Spot SponsorBlock](https://spotsponsorblock.org/) - Skip Sponsored Spotify Podcast Ads / [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension)
@@ -424,7 +424,7 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-* ⭐ **[[Mornye](https://desktop.mornye.com/)** - Amazon Music / Qobuz / Tidal / Deezer / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
+* ⭐ **[Mornye](https://desktop.mornye.com/)** - Amazon Music / Qobuz / Tidal / Deezer / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch](https://github.com/fiso64/sldl)
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
@@ -725,7 +725,7 @@
 * [⁠beehype](https://beehy.pe/) - Global Music Recommendations
 * [Essential Charts](https://4chanmusic.miraheze.org/wiki/Essential_Charts) - Community Album Recommendation Charts
 * [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Community Music Recommendations
-* [Talk Classical List](https://talkclassical-list.github.io/) - Classical Music Recommendations / [Spotify Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge)
+* [Talk Classical List](https://talkclassical-list.github.io/) / [Playlist](https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge) or [Classic FM Hall of Fame](https://rateyourmusic.com/list/Iai/the_classic_fm_hall_of_fame/) / [Playlist](https://open.spotify.com/playlist/09abNWaCFQHJo2eqtNdfu8) - Classical Music Recommendations
 * [MusicTo](https://www.musicto.com/) - Human-Curated Playlists
 * [The Drop](https://the-drop-reviews.vercel.app/) / [Melondy](https://melondy.com/) - Anthony Fantano Album Ratings & Recommendations
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/music0.html) - Greatest Music Lists by Genre & Era

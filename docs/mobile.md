@@ -888,7 +888,7 @@
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [MySpoti](https://github.com/kota-zo/myspoti) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
-* Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App), [2](https://github.com/LeNerd46/SpotifyPlus)
+* Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App)
 * [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirements](https://github.com/kavishdevar/librepods#root-requirement)
 * [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App
@@ -1073,7 +1073,7 @@
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [Dantotsu](https://discord.com/invite/4HPZ5nAWwM) / [Extension Guide](https://wotaku.wiki/ext/mihon) / [Telegram](https://t.me/+gzBCQExtLQo1YTNh) / [Source Code](https://git.rebelonion.dev/rebelonion/Dantotsu/)
 * [⁠Xangetsu](https://projectjust.xyz/xangetsu)
-* [⁠Tatakai](https://tatakai.me/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
+* [⁠Tatakai](https://tatakai.app/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
 * [⁠AniStation](https://www.anistation.top/)
 * [Animiru](https://github.com/Quickdesh/Animiru)
 * [Mizuki](http://mizuki.to/) / [GitHub](https://github.com/Anisurge/App)
@@ -1477,7 +1477,7 @@
 
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [Manatan](https://manatan.com/) / [GitHub](https://github.com/KolbyML/Manatan)
-* [⁠Tatakai](https://tatakai.me/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
+* [⁠Tatakai](https://tatakai.app/) - Extension-Based / [Discord](https://discord.com/invite/TWmbr7NYAW) / [GitHub](https://github.com/snozxyx/tatakai)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/ext/mangayomi) / [GitHub](https://github.com/RyanYuuki/AnymeX)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps

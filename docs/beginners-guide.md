@@ -62,7 +62,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Anime
 
-* **Streaming: [Miruro](https://www.miruro.com/) / [All Manga](https://allmanga.to/) / [animepahe](https://animepahe.pw/)**
+* **Streaming: [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/) / [animepahe](https://animepahe.pw/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
@@ -92,7 +92,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-critical.md)**
 * **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
-* **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
+* **Manga: [Weeb Central](https://weebcentral.com/) / [Kagane](https://kagane.org/) / [MangaDot](https://mangadot.net/)**
 * **Comics: [BatCave](https://batcave.biz/) / [GetComics](https://getcomics.org/)**
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://clarasguide.valeena.workers.dev/Guides/moontheme/)**
 * **Track / Discover: [StoryGraph](https://www.thestorygraph.com/)** (books) / **[Hardcover](https://hardcover.app/)** (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)

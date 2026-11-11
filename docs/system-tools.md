@@ -484,7 +484,7 @@
 * [Wallpaper Abyss](https://wall.alphacoders.com/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Subreddit
 * [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
-* [Hue Design](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers ⁠Perfect
+* [Perfect Hue](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers ⁠Perfect
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
 * [Basic Apple Guy](https://basicappleguy.com/basicappleblog/category/Wallpaper) / [2](https://basicappleguy.com/haberdashery/category/Wallpaper) - Apple Wallpaper Interpretations
 * [⁠WSupercars](https://www.wsupercars.com/) - Car Wallpapers

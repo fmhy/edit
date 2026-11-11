@@ -63,6 +63,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 
 * *"FMHY has truly transformed my life, and I am honored to support it with my contributions. I genuinely cherish the opportunity to learn from and explore valuable resources, and FMHY brings me joy every day. I take great pleasure in sharing its helpful insights with my friends. I was excited to introduce my family to this wonderful website, and I am pleased to say they have come to love it just as much as I do."*
 
+* *"FREE MEDIA, HECK YEAH! THAT SITE SAVED MY DAMN LIFE, AND I DON'T CARE WHO JUDGES ME FOR IT! YOU WANNA LOOK AT ME LIKE I'M CRAZY? GO AHEAD! I'LL SCREAM IT FROM THE ROOFTOPS WHILE POUNDING MY FIST ON THE TABLE! It's my lifeline, my everything, and you can't take that away from me!"*
+
 * *"I'm not kidding when I say my quality of life would be SO. MUCH. LOWER. if it wasn't for the people running this thing, as well as the people running all the tools we get to use. I seriously pray we get at least several more solid years of this style of internet."*
 
 * *"FMHY genuinely made my life better. I am someone who loves video editing and I think it is my true passion, and if it weren't for fmhy and r/piracy megathread, I would be extremely sad. Editing would be so pay to win. I don't think I have spent money in the last while because while most people window shop or look for stuff to buy to fill the void in their hearts, I can just find cool plugins and resources. Thank you to everyone in the community, your hard work is greatly appreciated."*

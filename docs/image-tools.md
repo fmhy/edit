@@ -747,7 +747,7 @@
 * [nomacs](https://nomacs.org/) / Windows, macOS, Linux / [GitHub](https://github.com/nomacs/nomacs)
 * [qimgv](https://github.com/easymodo/qimgv) / Windows, macOS, Linux
 * [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer) / Windows
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / Windows
+* [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / Windows
 * [Digikam](https://www.digikam.org/) / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
 * [oculante](https://github.com/woelper/oculante) / Windows, Linux
 * [PicView](https://picview.org/) / Windows, macOS

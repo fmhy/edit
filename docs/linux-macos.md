@@ -478,7 +478,7 @@
 
 ## ▷ Android on Linux
 
-* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [Magisk Installer](https://github.com/mistrmochov/WaydroidSU) / [WayDroid-ATV Images](https://github.com/WayDroid-ATV/waydroid-builds) / [GitHub](https://github.com/waydroid)
+* ⭐ **[Waydroid](https://waydro.id/)** - Containerized Android on Linux / [Scripts](https://github.com/casualsnek/waydroid_script) / [WayDroid-ATV Images](https://github.com/WayDroid-ATV/waydroid-builds) / [GitHub](https://github.com/waydroid)
 * [Redroid](https://github.com/remote-android/redroid-doc) or [Docker-Android](https://github.com/budtmo/docker-android) - Containerized Android on Linux
 * [Genymotion](https://www.genymotion.com/) - Android Emulator
 * [Android-x86](https://www.android-x86.org/) - Android-Based OS for PC

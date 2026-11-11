@@ -457,13 +457,13 @@
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [Privacy Config](https://codeberg.org/celenity/Dove) / [Tray Icon](https://github.com/Ximi1970/systray-x) / [Matrix](https://matrix.to/#/#thunderbird:mozilla.org) / Windows, macOS, Linux, Android
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme) / Windows, macOS, Linux / [GitHub](https://github.com/Foundry376/Mailspring)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - ProtonMail Desktop Client / Windows, macOS, Linux
-* [Meru](https://github.com/timche/meru) - Gmail Desktop Client / Windows, macOS, Linux
+* [Meru](https://meru.so/) - Gmail Desktop Client / Windows, macOS, Linux / [GitHub](https://github.com/zoidsh/meru)
 * [Outlook](https://outlook.live.com/owa/) / Windows, macOS, Android, iOS, Web
 * [eM Client](https://www.emclient.com/) / Windows, macOS, Android, iOS
 * [Spike](https://www.spikenow.com/) / Windows, macOS, Android, iOS, Web
 * [Canary](https://canarymail.io/) / Windows, macOS, Android, iOS
 * [Twobird](https://www.twobird.com/) / Windows, macOS, Android, iOS
-* [Roundcube](https://roundcube.net/) / Web
+* [Roundcube](https://roundcube.net/) / Web / [GitHub](https://github.com/roundcube/roundcubemail)
 
 ***
 
@@ -542,10 +542,10 @@
 * [SimpleLogin](https://simplelogin.io/) - 10 Shared / No Catch-All / [Send Email](https://simplelogin.io/docs/getting-started/send-email/) / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
 * [AdGuard Mail](https://adguard-mail.com/) - 10 Shared / 2K Forwards Monthly / No Catch-All
 * [Firefox Relay](https://relay.firefox.com/) - 50 Shared / No Catch-All
-* [⁠Anon.li](https://anon.li/) - 10 Shared / Catch-All
 * [addy.io](https://addy.io/) - 10 Shared / 10MB Monthly Bandwidth / Catch-All / [GitHub](https://github.com/anonaddy/anonaddy)
 * [erine.email](https://erine.email/) - No Shared / Catch-All
 * [33mail](https://33mail.com/) - No Shared / 10MB Monthly Bandwidth / Catch-All
+* [⁠Anon.li](https://anon.li/) - 10 Shared
 * [Aionda Mail](https://mail.aionda.com/) - 25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Catch-All
 * [Mailgw](https://mailgw.com/) - No Shared / No Catch-All
 
@@ -965,7 +965,7 @@
 * [OSINT Essentials](https://www.osintessentials.com/) - General Index
 * [OSINTgeek](https://osintgeek.de/tools) - General Index
 * [Awesome Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines) - OSINT / Cybersecurity Search Engines
-* [Social-Media-OSINT](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - Social Media Index
+* [Social-Media-OSINT](https://github.com/SENSEiXENUS/Social-Media-OSINT-Tools-CollectionNow) - Social Media Index
 * [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries) / [V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) - Indexes Organized by Country
 * [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT) - Discord OSINT Index
 * [The OSINT Toolbox](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - Telegram OSINT Indexes
