@@ -34,43 +34,37 @@ const handleClick = (e: MouseEvent) => {
   if (link) {
     const href = (link as HTMLAnchorElement).href
 
-    // Critical notes: the user clicked the main entry link (e.g. "Foxit").
-    // If its list item contains a critical badge, intercept and show the dialog.
-    // Exception: clicks on the badge itself or on any other link in the item
-    // (e.g. / GitHub, / Features) should pass through normally.
-    const listItem = link.closest('li')
-    if (listItem) {
-      const badge = listItem.querySelector<HTMLElement>('.critical-badge-wrap')
+    // Critical notes: links a warning guards are tagged at build time with
+    // data-critical-note (see utils/markdown.ts). Other links in the same
+    // item (/ GitHub, / Features, a different site) pass through normally.
+    const noteId = (link as HTMLElement).dataset.criticalNote
+    if (noteId) {
+      const selector = `.critical-badge-wrap[data-note-id="${CSS.escape(noteId)}"]`
+      const badge =
+        link.closest('li')?.querySelector<HTMLElement>(selector) ??
+        document.querySelector<HTMLElement>(selector)
       if (badge) {
         const badgeId = badge.dataset.noteId ?? ''
         const badgeHash = badge.dataset.contentHash ?? ''
-        // The note icon is a <button>, not a link, but guard anyway.
-        const clickedInBadge = !!link.closest('.critical-badge-wrap')
-        // Only intercept the FIRST link in the list item (the main entry),
-        // not the badge itself or later links like / Features.
-        const firstLink = listItem.querySelector<HTMLAnchorElement>('a')
-        if (!clickedInBadge && link === firstLink) {
-          if (badgeId && isCriticalDismissed(badgeId, badgeHash)) {
-            return // dismissed earlier — let the link open normally
-          }
-          e.preventDefault()
-          e.stopPropagation()
-          criticalTargetUrl.value = href
-          criticalTitle.value =
-            badge.getAttribute('title')?.replace(/^Warning:\s*/, '') ??
-            'Warning'
-          criticalNoteId.value = badgeId
-          criticalContentHash.value = badgeHash
-          const registered = getCriticalNote(badgeId)
-          criticalBodyHtml.value =
-            registered?.html ??
-            badge.querySelector('.critical-badge-hidden-body')?.innerHTML ??
-            badge.querySelector('.critical-badge-body')?.innerHTML ??
-            ''
-          if (registered?.title) criticalTitle.value = registered.title
-          showCriticalDialog.value = true
-          return
+        if (badgeId && isCriticalDismissed(badgeId, badgeHash)) {
+          return // dismissed earlier — let the link open normally
         }
+        e.preventDefault()
+        e.stopPropagation()
+        criticalTargetUrl.value = href
+        criticalTitle.value =
+          badge.getAttribute('title')?.replace(/^Warning:\s*/, '') ?? 'Warning'
+        criticalNoteId.value = badgeId
+        criticalContentHash.value = badgeHash
+        const registered = getCriticalNote(badgeId)
+        criticalBodyHtml.value =
+          registered?.html ??
+          badge.querySelector('.critical-badge-hidden-body')?.innerHTML ??
+          badge.querySelector('.critical-badge-body')?.innerHTML ??
+          ''
+        if (registered?.title) criticalTitle.value = registered.title
+        showCriticalDialog.value = true
+        return
       }
     }
 
