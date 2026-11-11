@@ -51,7 +51,8 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
 
 <style scoped lang="scss">
 .tooltip-trigger {
-  /* Theme colour; warning notes use the same colour with a pin glyph. */
+  /* Fixed info hue so it stays distinguishable from warning notes in every
+     theme (brand colour goes red in the red theme). */
   color: var(--fmhy-note-icon);
   transition: color 0.2s;
 
