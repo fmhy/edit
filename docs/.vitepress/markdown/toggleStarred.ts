@@ -45,13 +45,47 @@ function normalizeUrl(value: string) {
   }
 }
 
-const newBadge = (date: string) => {
-  const label = new Date(`${date}T00:00:00Z`).toLocaleDateString('en-US', {
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  })
-  return `<span class="new-badge" role="img" aria-label="Added ${label}" title="Added ${label}"></span>`
+// Same hover card as the Recently Removed dates ("2 days ago" + full date).
+const newBadge = (date: string) =>
+  `<button type="button" class="new-badge" aria-label="New, added ${date}" v-tooltip="{ content: () => $removedDateTooltip('${date}'), html: true, triggers: $removedDateTriggers, autoHide: true, popperClass: 'new-badge-popper' }"></button>`
+
+type InlineToken = NonNullable<
+  ReturnType<MarkdownRenderer['parse']>[number]['children']
+>[number]
+
+// Put a badge right after every link on the line that is new, so a link
+// added in the middle or at the end of a line gets its own badge.
+function markNewLinks(
+  children: InlineToken[],
+  newSites: Record<string, string>,
+  Token: new (type: string, tag: string, nesting: number) => InlineToken
+) {
+  let found = false
+  for (let i = 0; i < children.length; i++) {
+    const child = children[i]
+    if (child.type !== 'link_open') continue
+    if (child.meta?.newBadge) {
+      found = true
+      continue
+    }
+    const href = child.attrGet('href')
+    if (!href || !/^https?:\/\//i.test(href)) continue
+    const addedOn = newSites[normalizeUrl(href)]
+    if (!addedOn) continue
+    child.meta = { ...child.meta, newBadge: true }
+    let depth = 0
+    for (let j = i; j < children.length; j++) {
+      if (children[j].type === 'link_open') depth++
+      if (children[j].type === 'link_close' && --depth === 0) {
+        const badge = new Token('html_inline', '', 0)
+        badge.content = newBadge(addedOn)
+        children.splice(j + 1, 0, badge)
+        break
+      }
+    }
+    found = true
+  }
+  return found
 }
 
 export function toggleStarredPlugin(md: MarkdownRenderer) {
@@ -67,23 +101,22 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
       !excluded.includes(env.frontmatter.title) &&
       starredMarkers.some((marker) => content.includes(marker))
     const isIndex = indexMarkers.some((marker) => content.includes(marker))
-    const firstLink = contentToken.children?.find(
-      (child) => child.type === 'link_open'
-    )
-    const href = firstLink?.attrGet('href')
-    const addedOn =
-      href && /^https?:\/\//i.test(href)
-        ? newSites[normalizeUrl(href)]
-        : undefined
+    const isNew =
+      !!contentToken.children &&
+      markNewLinks(
+        contentToken.children,
+        newSites,
+        md.core.State.prototype.Token
+      )
 
-    if (!isStarred && !isIndex && !addedOn)
+    if (!isStarred && !isIndex && !isNew)
       return self.renderToken(tokens, index, options)
 
     const classes = []
     if (isStarred) classes.push('starred')
     if (isIndex) classes.push('index')
-    if (addedOn) classes.push('new')
+    if (isNew) classes.push('new')
 
-    return `<li class="${classes.join(' ')}">${addedOn ? newBadge(addedOn) : ''}`
+    return `<li class="${classes.join(' ')}">`
   }
 }
