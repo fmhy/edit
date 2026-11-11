@@ -11,8 +11,8 @@ const props = withDefaults(
 
 const shown = ref(false)
 
-// Same glyph as normal notes (note.svg); only the colour differs.
-const resolvedIcon = computed(() => withBase('/note.svg'))
+// Pin glyph marks a must-read note; colour matches normal notes (theme).
+const resolvedIcon = computed(() => withBase('/pin.svg'))
 
 const isHoverable = useMediaQuery('(hover: hover)')
 const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
@@ -91,8 +91,8 @@ onMounted(() => {
 }
 
 .warning-note-trigger {
-  /* Same size/shape as normal note icons; fixed red so it reads as a warning
-     regardless of the active theme. */
+  /* Same size and colour as normal note icons; the pin glyph marks it as a
+     must-read note in every theme. */
   color: var(--fmhy-note-icon-warning);
   transition: color 0.2s;
 
