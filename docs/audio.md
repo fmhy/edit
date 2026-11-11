@@ -522,6 +522,8 @@
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
 * [⁠ELEKTROBEATS](https://elektrobeats.org/) - Electronic / MP3
 * [EDMWaves](https://edmwaves.org/) - Electronic / MP3
+* [SpecialForDJs](https://specialfordjs.org/) - Electronic / MP3 / FLAC
+* [MusicVibez](https://musicvibez.org/) - Electronic / MP3 / FLAC
 * [PSYFP](https://psyfp.ucoz.ru/) - Electronic / MP3
 * [DMO](https://dance-music.org/) - Electronic / MP3
 * [MyPromoSound](https://mypromosound.com/) - Electronic / MP3
