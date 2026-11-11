@@ -1091,3 +1091,15 @@ html.monolith {
     padding-left: 12px !important;
   }
 }
+
+/* Red themes: the brand colour is already red, so warning notes switch to
+   amber to keep standing out. Same note.svg glyph, only the colour changes. */
+html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
+  --fmhy-note-icon-warning: #d97706;
+  --fmhy-note-icon-warning-hover: #b45309;
+
+  &.dark {
+    --fmhy-note-icon-warning: #fbbf24;
+    --fmhy-note-icon-warning-hover: #fcd34d;
+  }
+}
