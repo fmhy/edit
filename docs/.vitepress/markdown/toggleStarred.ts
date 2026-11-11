@@ -47,7 +47,7 @@ function normalizeUrl(value: string) {
 
 // Same hover card as the Recently Removed dates ("2 days ago" + full date).
 const newBadge = (date: string) =>
-  `<button type="button" class="new-badge" aria-label="New, added ${date}" v-tooltip="{ content: () => $removedDateTooltip('${date}'), html: true, triggers: $removedDateTriggers, autoHide: true, popperClass: 'new-badge-popper' }"></button>`
+  `<button type="button" class="new-badge" aria-label="New, added ${date}" v-tooltip="{ content: () => $removedDateTooltip('${date}'), html: true, triggers: $removedDateTriggers, autoHide: true, popperClass: 'new-badge-popper' }"><span class="new-badge-text">New</span></button>`
 
 type InlineToken = NonNullable<
   ReturnType<MarkdownRenderer['parse']>[number]['children']
