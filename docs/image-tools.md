@@ -648,7 +648,7 @@
 * [Unwatermark](https://unwatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Ransomware-Encrypted Image Recovery Tool
-* [FaceFusion](https://github.com/facefusion/facefusion), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a) or [FaceSwapVideo](https://faceswapvideo.io/) - Face Swapping
+* [FaceFusion](https://github.com/facefusion/facefusion), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a) or [FaceSwapVideo](https://faceswapvideo.io/), [FaceSwapAI](https://faceswapai.com/) or [DeepSwapAI](https://deepswapai.com) - Face Swapping
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr), [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://docs.tagstud.io/) / [GitHub](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 
