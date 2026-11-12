@@ -740,6 +740,7 @@
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Games / Requires Sign-Up
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet / Requires Sign-Up
 * [Edu-Games](https://www.edu-games.org/) - Educational Games
+* [PokéBonk](https://pokebonkfree.online/) - Browser Pokémon Survivor Roguelite - 151 Kanto Pokémon / Evolutions & Shinies / No Download
 
 ***
 
