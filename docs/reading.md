@@ -423,7 +423,7 @@
 * 🌐 **[⁠JustIndex](https://justindex.cc/)** - Manga Site Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
 * 🌐 **[Rawmangaz](https://clarasguide.valeena.workers.dev/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.gg/kaganeto)
-* ⭐ **[MangaDot](https://mangadot.net/)** / [Matrix](https://fuckdm.ca/)
+* ⭐ **[MangaDot](https://mangadot.net/)**, [2](https://manga.st/), [3](https://mangadot.st/) / [Matrix](https://fuckdm.ca/)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
 * ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
 * ⭐ **[Toonkotsu](https://toonkotsu.com/)**

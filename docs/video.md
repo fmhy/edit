@@ -19,7 +19,7 @@
 * 🌟 **[Atlantic](https://atlantic.bz/)** or [fprime](https://fprime.at/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.com/invite/ekUMJ7WVnW)
 * 🌟 **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - 1080p / Dual Audio / External Subs
 * 🌟 **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/), [3](https://shuttletv.me/) - 4K / Dual Audio / External  Subs / Ad-Toggle / [Discord](https://discord.gg/wsPmVB7ZJZ)
-* 🌟 **[FlyStream](https://flystream.net/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/flystream)
+* 🌟 **[FlyStream](https://flystream.net/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)
 * 🌟 **[Vivarium](https://vivarium.su/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/jT6daX7q2u)
 * 🌟 **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.win/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - 1080p / External Subs / Ad-Toggle / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle
@@ -57,8 +57,9 @@
 * [VaultPlayer](https://vaultplayer.co.uk/) - 1080p / Popup + Redirect Free
 * [VidPlay](https://vidplay.to/) - 1080p / External Subs / Popup + Redirect Free
 * [HiveX](https://hivex.stream/) - 4K / Dual Audio / External Subs / Ad-Toggle
-* [Sleepy](https://sleepy.lat/) - 1080p / External Subs / Pop up + Redirect Free / [Discord](https://discord.gg/uqHZy7NPRt)
+* [Sleepy](https://sleepy.lat/) - 4K / External Subs / Pop up + Redirect Free / [Discord](https://discord.gg/uqHZy7NPRt)
 * [Willow](https://willowmovies.com/) - 1080p / [4K Guide](https://rentry.co/willow-guide)
+* [Nxsha](https://web.nxsha.app/) - 1080p / Dual Audio / External Subs / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 * [SvStream](https://svstream.cc/), [2](https://nomorflix.cc/), [3](https://diostream.cc/) - 1080p / External Subs / [Status](https://nomorflix.com/)
 * [cineruv](https://cineruv.website/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free
 * [3eyedraven](https://3eyedraven.watch/) - 1080p / Ad-Toggle
@@ -70,7 +71,6 @@
 * [Zoryva X](https://zoryva.me/) - 1080p / Dual Audio / External Subs
 * [NetPlay](https://netplayz.icu/) or [Cinelove](https://cinelove.live/) - 1080p / External Subs / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Kofi](https://kofi.mov/) - 720p / [Discord](https://discord.com/invite/JsJqRzrjaG)
-* [Nxsha](https://web.nxsha.app/) - 1080p / Dual Audio / External Subs / [Telegram](https://telegram.me/+8_u943HkSAY5ODA1)
 * [Screenscape](https://screenscape.me/) - 1080p / Dual Audio / External Subs / [Telegram](https://t.me/ScreenScapee)
 * [Youplex](https://youplex.site/) - 1080p / Dual Audio / [Discord](https://discord.com/invite/5eWu9Vz6tQ)
 * [frameXTV](https://framextv.xyz/) - 4K / External Subs / [Discord](https://discord.gg/vPCHZ6PgRX)
@@ -800,7 +800,7 @@
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)**, [2](https://playtorrio.pages.dev/) - Streaming App / Use PlayTorrioHTTP Plugin / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * ⭐ **[⁠Vyla Home](https://vyla.cc/products/home)**, [2](https://vyla.qzz.io) - Streaming App / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/Vyla/) / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Streaming App / Extension-Based / Windows, macOS, Linux / [Discord](https://discord.gg/73XGA8Mxn9)
-* [⁠FlyStream](https://flystream.net/apps) - Streaming App / Windows, macOS, Linux / [Discord](https://discord.gg/flystream)
+* [⁠FlyStream](https://flystream.net/apps) - Streaming App / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)
 * [⁠Atlas](https://atlas.hls.lol/) - Streaming App / Windows
 * [⁠Vega-Desktop](https://github.com/vega-org/vega-desktop) - Streaming App / Windows, macOS, Linux
 * [⁠Showberry](https://github.com/Dackerie/showberry) - Streaming App / Windows, macOS, Linux
@@ -958,7 +958,7 @@
 * [SamsungTVPlus](https://www.samsungtvplus.com/) - Streaming App
 * [⁠Jellyfin Tizen](https://github.com/jellyfin/jellyfin-tizen) (search appstore) - Media Server / Streaming App
 * [Kodi](https://kodi.tv/) - Media Server / Streaming App
-* [⁠FlyStream](https://flystream.net/apps) - Streaming App / [Discord](https://discord.gg/flystream)
+* [⁠FlyStream](https://flystream.net/apps) - Streaming App / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/apps/) - Streaming App / Debrid or Usenet Required
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
