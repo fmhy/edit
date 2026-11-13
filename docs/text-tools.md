@@ -299,7 +299,6 @@
 * [JustNotePad](https://justnotepad.com/) - Local Saves
 * [NotesOnline](https://notesonline.org/) - Local Saves
 * [PasteePad](https://pasteepad.com/) - Local Saves / [GitHub](https://github.com/glauberramos/pastee)
-* [Notes](https://notes.xtra.wtf/) - Local / Cloud Saves / [GitHub](https://github.com/xtrafr/notes)
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves

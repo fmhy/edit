@@ -12,8 +12,8 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
-* ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
-* [Sonora](https://sonorahq.org/) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
+* ⭐ **[⁠Limusic](https://limusic.app/)** - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
+* [Sonora](https://sonorahq.org/) - Streaming / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
@@ -31,10 +31,10 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
-* ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[⁠Octave](https://octavestreaming.com/)** - Browser Music / Lossless / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
+* ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -412,7 +412,8 @@
 * [⁠CYBROX](https://cybrox.pro/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
 * [⁠AudioFetcher](https://audiofetcher.com/) - Multi-Site / Opus / 320kb MP3 / [Discord](https://discord.gg/DFZaejcJfg)
-* [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3
+* [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3 / Accepts Spotify Links but uses YouTube
+* [⁠Riplet](https://riplet.cc/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [cobalt](https://cobalt.tools/) - SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
@@ -424,7 +425,7 @@
 ## ▷ Audio Ripping Tools
 
 * ↪️ **[Video Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)** / **[YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
-* ⭐ **[Mornye](https://desktop.mornye.com/)** - Amazon Music / Qobuz / Tidal / Deezer / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
+* ⭐ **[Mornye](https://desktop.mornye.com/)** - Amazon Music / Qobuz / Tidal / Deezer / [Extension](https://github.com/mornyeapp/Mornye-Extension) / [GitHub](https://github.com/mornyeapp/Mornye-Desktop)
 * ⭐ **[Nicotine+](https://nicotine-plus.org/)** or [Soulseek](https://slsknet.org/) - P2P Audio Sharing Networks / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Batch](https://github.com/fiso64/sldl)
 * ⭐ **[Exact Audio Copy](https://www.exactaudiocopy.de/)** / [Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper
 * ⭐ **[Firehawk52](https://rentry.co/FMHYB64#firehawk)** - Deezer / Qobuz / Tidal / Requires Sign-Up / [Telegram](https://t.me/firehawk52official) / [Discord](https://discord.gg/uqfQbzHj6K)
@@ -517,6 +518,7 @@
 * [Mixtape Collections](https://rentry.co/FMHYB64#mixtape-collections) - Mixtape Collections
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
+* [⁠SpecialForDJs](https://specialfordjs.org/), [2](https://musicvibez.org/) - Electronic / MP3 / FLAC
 * [KTI Music](https://ktimusic.blogspot.com/) - Electronic / MP3 / FLAC
 * [1Gabba](https://1gabba.pw/) - Electronic / MP3
 * [Gabber](https://gabber.od.ua/) - Electronic / MP3
@@ -668,7 +670,7 @@
 * [exotica](https://www.exotica.org.uk/) - Amiga Game Soundtracks / Retro Gaming Music Wiki
 * [Chip Player JS](https://chiptune.app/) - Retro Game Soundtracks / Web / [GitHub](https://github.com/mmontag/chip-player-js)
 * [Cirrus Retro](https://cirrusretro.com/) - Retro Game Soundtracks / Web
-* [VGMdb](https://vgmdb.net/) - Video Game Music Database
+* [VGMdb](https://vgmdb.net/) or [OSTDB](https://ostdb.net/) / [GitHub](https://github.com/OSTDB/soundtracks) - Video Game Music Database
 
 ***
 
@@ -756,6 +758,7 @@
 * [BestSellingAlbums](https://bestsellingalbums.org/) - Historical Album Sales Rankings
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Daily Album Listening Challenge
 * [Album Roulette](https://album-selector-chi.vercel.app/) - Random Album Recommendations
+* [⁠The Cat Rave](https://thecatrave.com/selector) - Random DJ Sets / Genre & Channel Filters / YouTube
 * [Music.ishkur](https://music.ishkur.com/) - Interactive Electronic Music Genre History
 * [Genre Sampler](https://genresampler.com/) - RYM Genre Sampler / [GitHub](https://github.com/fouriels/rym-sampler)
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Music Discovery by Genre / Random Recordings

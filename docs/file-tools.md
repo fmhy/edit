@@ -401,7 +401,7 @@
 * [⁠Dosya Upload](http://www.dosyaupload.com/) - 4GB / 60 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
-* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Codeberg](https://codeberg.org/Fijxu/patchy)
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
 * [⁠Mega4Upload](https://mega4upload.net/) - 3GB / 183GB / 150 Days After Last Download
 * [Workupload](https://workupload.com/) - 2GB / 90 Days
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Requires Email

@@ -321,7 +321,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
+* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool / [GitHub](https://github.com/vial-kb)
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
@@ -484,7 +484,7 @@
 * [Wallpaper Abyss](https://wall.alphacoders.com/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Subreddit
 * [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
-* [Perfect Hue](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers ⁠Perfect
+* [Perfect Hue](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
 * [Basic Apple Guy](https://basicappleguy.com/basicappleblog/category/Wallpaper) / [2](https://basicappleguy.com/haberdashery/category/Wallpaper) - Apple Wallpaper Interpretations
 * [⁠WSupercars](https://www.wsupercars.com/) - Car Wallpapers

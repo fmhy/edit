@@ -395,7 +395,6 @@
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
 * [nswvault](https://nswvault.com/) - ROMs / Switch / Avoid Fake Download Buttons
-* [SmallGames](https://smallgames.ch/) - ROMs / Switch / [Discord](https://discord.com/invite/rgttByzYRY)
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [N R](https://nintendoroms.xyz/) - ROMs / Switch / 3DS / Wii / GCN / Requires Telegram / [Telegram](https://t.me/+VhTgmHwgmNk1NjY0)
 * [NSWDB](https://www.nswdb.com) - Switch Release Tracker
@@ -457,6 +456,7 @@
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
 * [PlayGames](https://playgames.onl/) - Retro Consoles
+* [Ported2Browser](https://ported2browser.com/) - Retro Consoles
 * [⁠Savi Games](https://savigames.com/) - Retro Consoles
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
@@ -725,7 +725,7 @@
 * [Launch Ball](https://launchball.sciencemuseum.org.uk/) - Physics Game w/ Map Creator
 * [⁠SUMIKIRI](https://sumikiri.vercel.app/) - Hack-And-Slash Game / [Docs](https://thvariableyt.github.io/SUMIKIRI-/) / [GitHub](https://github.com/ThVariableYT/SUMIKIRI-/)
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
+* [Lander](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [⁠HALDANE-4](https://haldane4.denisbondare.com/) - ASCII Horror Game
 * [Dino Swords](https://dinoswords.gg/) - Chrome Dino With Weapons
 * [Rooms](https://rooms.xyz/) - Room Design Game
@@ -745,15 +745,14 @@
 
 ## ▷ Multi-Game Sites
 
-* ⭐ **[Flash Arch](https://flasharch.com/en)** - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
-* ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Crazy Games](https://www.crazygames.com/)** - Browser Game Aggregator
-* ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
-* ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
+* ⭐ **[Kongregate](https://www.kongregate.com/)** - Browser Game Aggregator
 * ⭐ **[Flash Museum](https://flashmuseum.net/)** - Browser Game Aggregator
+* ⭐ **[Flashpoint](https://flashpointarchive.org/)** - Flash Game Archive App / [Play Online](https://ooooooooo.ooo/browse) / [Discord](https://discord.gg/Z4gGtJvvn8)
+* ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
+* [Flash Arch](https://flasharch.com/en) - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
 * [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw) / [GitHub](https://github.com/wasmdotrip/wasm.rip)
-* [Ported2Browser](https://ported2browser.com/) - Browser PC Game Ports
 * [Arcadia](https://arcadia.baby/) - Browser PC Game Ports / Aggregator
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
@@ -1028,6 +1027,7 @@
 * [Gridland](https://gridland.doublespeakgames.com/) - Grid Matching RPG
 * [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
+* [⁠The Dungeon Revealed](https://thedungeonrevealed.com/) - The Dungeon Revealed RPG
 * [⁠OFF](https://off.zchr.org/) - Browser RPG
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG

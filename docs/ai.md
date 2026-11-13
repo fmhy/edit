@@ -15,7 +15,7 @@
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4.1 Flash 1017 / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max / Qwen 4 Max Preview / Qwen3.7 Plus / No Sign-Up / Clear Cookies to Reset Limits / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
-* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lit / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Meta AI](https://www.meta.ai/) - Muse Spark 1.3 / Muse Glimmer 30B / Meta Sign-Up / Unlimited
 * [Kimi](https://www.kimi.ai/), [2](https://www.kimi.com/) - Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [ChatGPT](https://chatgpt.com/) - GPT-6 Luna / Unlimited / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
@@ -40,9 +40,8 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4 Pro 0813 / Sign-Up / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
-* [NVIDIA NIM](https://build.nvidia.com/models) - Kimi K3 / DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up
-* [⁠Tryingopen](https://www.tryingopen.com/) - DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat) / [OpenAI Bridge](https://github.com/khrotu/radio-house-api)
+* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - GLM-5.3 / Kimi K3 / Qwen3.8 2.4T A95B / DeepSeek V4.1 Flash (1017) / Sign-Up / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* [NVIDIA NIM](https://build.nvidia.com/models) - Kimi-k3.1-pro / DeepSeek V4 Pro 0813 / minimax-m3.1-flash  / Unlimited / No Sign-Up
 * [⁠Lumo](https://lumo.proton.me/) - Qwen3.5 122B A10B (Lite, 100 Daily) / GLM 5.2 (Max, 20 Daily) / Sign-Up / [OpenAI Bridge](https://github.com/KHROTU/lucky-cat-api) / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * [⁠ISH](https://ish.chat/) - DeepSeek V4 Flash 0731 / MiniMax M3 / GLM 5.3 Flash / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [⁠Ecosia AI](https://www.ecosia.org/ai-chat) - Mistral Small 4 / Mistral Small 3.2 / Unlimited
@@ -258,8 +257,8 @@
 # ► Audio Generation
 
 * ⭐ **[Suno](https://suno.com/)** - 10 Daily / [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
-* [Treblo](https://treblo.com/) / Unlimited / [Discord](https://discord.gg/pfXar3ChH8)
 * [Google Flow Music](https://www.flowmusic.app/)
+* [Treblo](https://treblo.com/) / Unlimited / [Discord](https://discord.gg/pfXar3ChH8)
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / 10 Monthly / [Discord](https://discord.com/invite/stablediffusion)
 * [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
@@ -294,6 +293,7 @@
 * [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
 * [audio.cpp](https://github.com/0xShug0/audio.cpp) / No Sign-Up
+* [⁠Underdog Woof](https://underdog.ai/woof) / No Sign-Up
 * [Kyutai TTS](https://kyutai.org/next/tts) / No Sign-Up
 * [⁠KittenTTS](https://github.com/KittenML/KittenTTS) / No Sign-Up
 * [Zyphra](https://cloud.zyphra.com/audio-playground) / [GitHub](https://github.com/Zyphra/Zonos2) / [Discord](https://discord.com/invite/puMPr32s2t)

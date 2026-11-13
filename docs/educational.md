@@ -694,7 +694,7 @@
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos
-* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
+* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [⁠Killed by Discord](https://killedbydiscord.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
 
 ***
 
@@ -711,6 +711,7 @@
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
 * [U-boat Archive](https://uboatarchive.net/) - WW2 Battle of the Atlantic Historical Archive / [X](https://x.com/uboatarchive)
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
+* [⁠NATO Archives Online](https://archives.nato.int/) - NATO Historical Records
 * [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
 * [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
 * [⁠Center of Military History](https://history.army.mil/) - U.S. Military History / Collection
@@ -727,6 +728,7 @@
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [⁠F-16.net](https://www.f-16.net/) - F-16, F-22 and F-35 Info, History, Images, Stories & more
+* [⁠B-17 Flying Fortress](https://b17flyingfortress.de/en/) - B-17 Info, History, Images & more
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
@@ -786,7 +788,7 @@
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
 * ↪️ **[GeoGuessr Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_geoguessr)**
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quiz / Guessing
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [⁠Farflung](https://farflung.game/), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quizzes / Guessing
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
 * [⁠Cultural Atlas](https://theculturalatlas.org/) - World Culture / Religion Guides

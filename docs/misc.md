@@ -63,6 +63,27 @@
 
 ***
 
+## ▷  Frontend Indexes
+
+* ⭐ **[Disroot](https://disroot.org/en/services)**
+* [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/), [2](https://evilasswebsite.com/)
+* [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers)
+* [canine.tools](https://canine.tools/services)
+* [4d2](https://4d2.org/)
+* [bloat.cat](https://bloat.cat/)
+* [⁠tchncs](https://tchncs.de/)
+* [⁠NoLog](https://nolog.cz/en/)
+* [⁠systemli](https://www.systemli.org/en/service/)
+* [⁠woodpecker](https://woodpeckersnest.space/)
+* [⁠NerdVPN](https://nerdvpn.de/)
+* [⁠GravityWell](https://gravitywell.xyz/)
+* [⁠Privacy Redirect](https://privacyredirect.com/)
+* [⁠Nadeko](https://nadeko.net/)
+* [⁠Meowing](https://meowing.de/)
+* [adminForge](https://adminforge.de/#services) 
+
+***
+
 ## ▷ Random Sites / Discovery
 
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
@@ -82,6 +103,7 @@
 * [WebRelic](https://www.webrelics.org/) - Find Random Retro Sites
 * [Wiby](https://www.wiby.me/) - Find Random Retro Sites
 * [HyperText](https://hypertext.tv/) - Random Sites / TV Channel Style / [GitHub](https://github.com/evadecker/hypertext.tv)
+* [⁠r/forgottenwebsites](https://www.reddit.com/r/forgottenwebsites/) - Forgotten Websites Community 
 
 ***
 
@@ -392,6 +414,7 @@
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [⁠OpenAirportMap](https://openairportmap.org/) - Airport Maps
+* [⁠Flight Atlas](https://flights.theojaffee.net/) - Yearly World Flight Route Globe
 * [⁠METAR-TAF](https://metar-taf.com/) - Airport Weather Tracking Tool
 * [Delay Compensation](https://www.shenouda.nl/airline/) - Flight Delay & Refund Compensation Calculator
 * [⁠ADSB.im](https://adsb.im/) - ADSB Tracking for Single Board Computers
@@ -1079,7 +1102,6 @@
 * [FreeTaxUSA](https://www.freetaxusa.com/), [IRS Free File](https://apps.irs.gov/app/freeFile/) or [US Taxes](https://ustaxes.org/) - Free US Tax Filing
 * [r/povertyfinance Wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Advice / Resources
 * [r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Earning Opportunities / Community
-* [YieldFinder](https://yieldfinder.app/) - Savings Account / Treasury Yield Comparisons
 
 ***
 
@@ -1089,7 +1111,7 @@
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or **[Candle](https://gitlab.com/cosmosapps/candle)** - Mobile Market Tracking
 * [Wealthfolio](https://wealthfolio.app/) / [X](https://x.com/WealthfolioApp) / [Discord](https://discord.gg/WDMCY6aPWK) / [GitHub](https://github.com/wealthfolio/wealthfolio), [Ghostfolio](https://ghostfol.io/) / [GitHub](https://github.com/ghostfolio/ghostfolio) / [Export To](https://github.com/dickwolff/Export-To-Ghostfolio) or [Portfolio Performance](https://www.portfolio-performance.info/en/) / [GitHub](https://github.com/portfolio-performance/portfolio) - Investment Portfolio Trackers / Management
 * [OpenBB](https://openbb.co/), [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [Koyfin](https://www.koyfin.com/) - Investment Research Platforms
-* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Portfolio Analysis / Backtesting
+* [PortfolioVisualizer](https://portfoliovisualizer.com/) (US) or [Curvo Backtest](https://curvo.eu/backtest/portfolio/new) (EU / UCITS) / [Subreddit](https://reddit.com/r/curvo/) - Portfolio Analysis / Backtesting
 * [Bogleheads](https://www.bogleheads.org/) - Long-Term Investing Resources
 * [ETFDB](https://etfdb.com/) (US) or [justETF](https://www.justetf.com/) (EU / UCITS) - ETF Research and Screening Platforms 
 * [Quiver Quantitative](https://www.quiverquant.com/) - Alternative Investment Data / Research
@@ -1227,7 +1249,7 @@
 
 ## ▷ PC Hardware / Building
 
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](https://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [⁠XDB Builder](https://xdb.xda-developers.com/), [BuildCores](https://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
 * ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)**, [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
@@ -1520,6 +1542,7 @@
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [⁠AltHistory](https://althistory.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [bugs](https://nobodyhere.com/bugs/) or [Posting.Cool](https://posting.cool/) - Random Topic Forums
+* [⁠Suntown](https://suntown.town/) - Capped Daily Social Room
 * [⁠Perfectly Imperfect](https://www.pi.fyi/) or [⁠Bliish](https://bliish.com/) - Oldschool Internet Style Social Media Sites
 * [⁠CozyTalk](https://cozy.talk/) - Minimalist Retro-Style Chat / Forum
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation

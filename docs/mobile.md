@@ -145,13 +145,13 @@
 ***
 
 * 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://awesome-morphe.vercel.app/) - Morphe Patch Indexes
-* 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
+* 🌐 **[Patch Bundle Registry](https://patch-bundles.jmancentral.com/)** - Patch Index / [GitHub](https://github.com/Jman-Github/Patch-Bundle-Registry)
 * 🌐 **[Reseam Patch Index](https://reseam.app/patches/)** - Reseam Patch Index
 * ⭐ **[Morphe / Piko Obtainium Guide](https://wispydocs.pages.dev/morphe-piko-obtainium/)** - Pre-Built Updatable APKs
 * ⭐ **[Morphe](https://morphe.software/)** - Android App Patcher / [X](https://x.com/MorpheApp) / [Desktop](https://github.com/MorpheApp/morphe-desktop) / [Resources](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[Lucky Patcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - Emulate In-App Purchases / [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * [⁠Reseam](https://reseam.app/) - App Patcher & Modifier / [X](https://x.com/reseamapp) / [Subreddit](https://www.reddit.com/r/reseamapp/) / [Telegram](https://t.me/reseamapp) / [Discord](https://discord.com/invite/R6R6FF6K6x) / [Source Code](https://git.reseam.app/reseam/) / [GitHub](https://github.com/orgs/Reseam/)
-* [ReVanced Manager](https://revanced.app/) or [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Android App Patcher / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Android App Patcher
 * [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) or [FiorenMas Pre-Built](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) / [Telegram](https://t.me/fiorenmas) - Latest Patched Apps / Morphe, ReVanced & Revanced-Extended
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Telegram](https://t.me/rvc_magisk)
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
@@ -202,7 +202,7 @@
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
 * [Octogram](https://octogram.me/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
 * [Nullgram](https://github.com/qwq233/Nullgram/) or [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram) - Basic Client
-* [Cherrygram](https://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram) - Advanced Client / [GitHub](https://github.com/arsLan4k1390/Cherrygram)
+* [Cherrygram](https://arslan4k1390.github.io/cherrygram) - Advanced Client / [GitHub](https://github.com/arsLan4k1390/Cherrygram)
 
 ***
 
@@ -488,12 +488,12 @@
 ## ▷ Android Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Adguard](https://adguard.com/en/adguard-android/overview.html) (browser only) - Adblocking App / [Subreddit](https://www.reddit.com/r/Adguard/) / [GitHub](https://github.com/AdguardTeam/AdguardForAndroid)
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)** - Adblocker / Works Best on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * [⁠Re-Malwack](https://zg.is-a.dev/re-malwack) (root) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [⁠bindhosts](https://github.com/bindhosts/bindhosts) - Systemless Adblocking for Rooted Android
+* [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna), [SlipNet](https://github.com/anonvector/SlipNet) / [Troubleshooting](https://t.me/SlipNet_app) / [Telegram](https://t.me/slipnet_chat), [⁠WhiteDNS](https://github.com/iampedii/WhiteDNS) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass
 
@@ -507,10 +507,10 @@
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
 * ⭐ **[Triage](https://tria.ge/)** or [Hybrid Analysis](https://hybrid-analysis.com/) - APK / URL Virus Scanners
-* ⭐ **[Rethink DNS](https://rethinkdns.com/)** / [GitHub](https://github.com/celzero/rethink-app), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
 * ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
+* [Rethink DNS](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * [InviZible](https://invizible.net/en/) - Tor, DNSCrypt, And Purple I2P Hybrid VPN / [GitHub](https://github.com/Gedsh/InviZible)
 * [Intra](https://getintra.org) - Encrypted DNS App
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
@@ -887,7 +887,7 @@
 * ⭐ **[AudioRelay](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) or [Audio Share](https://github.com/mkckr0/audio-share) - Stream Audio Between Devices
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
-* [MySpoti](https://github.com/kota-zo/myspoti) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
+* [Orpheon](https://github.com/kota-zo/Orpheon) or [Spotify (official)](https://play.google.com/store/apps/details?id=com.spotify.music) - Spotify App / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md)
 * Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App)
 * [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirements](https://github.com/kavishdevar/librepods#root-requirement)
@@ -953,7 +953,6 @@
 * ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
 * ⭐ **[⁠Flow](https://flow-tube.org/)** - YouTube Music Player / Recommendation Engine / [GitHub](https://github.com/Flow-Tube/Flow)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Subreddit](https://www.reddit.com/r/metrolist/) / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
-* [ReVanced YouTube](https://revanced.app/) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers) / [Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
 * [BitChord](https://bitchord.kushagrasingh.in) - YouTube Music Player / [Discord](https://discord.gg/pSafNTyKZx) / [GitHub](https://github.com/kushagrasinghx/BitChord)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
 * [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - YouTube Music Player
@@ -1013,7 +1012,7 @@
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 * ⭐ **[PlayTorrio](https://playtorrio.xyz/)**, [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
-* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime
+* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/EFD9CyAqFS)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Movies / TV / Anime / [Discord](https://discord.gg/73XGA8Mxn9)
@@ -1060,7 +1059,6 @@
 * [⁠Arc Video Player](https://www.arctechstudio.com/)
 * [Audiofy](https://play.google.com/store/apps/details?id=com.prime.player)
 * [⁠PlayBridge](https://playbridge.app/) / [GitHub](https://github.com/playbridgeapp/PlayBridge) or [ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Cast Videos / Media from Phone to TVs + Monitors
-* [M3UAndroid](https://github.com/oxyroid/M3UAndroid) - Media Player / [Telegram](https://t.me/m3u_android)
 
 ***
 
@@ -1289,7 +1287,7 @@
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[wBlock](https://apps.apple.com/app/wblock/id6746388723)** - Safari Adblocker / [GitHub](https://github.com/0xCUB3/wBlock)
+* ⭐ **[wBlock](https://skula.me/project/wblock/)** - Safari Adblocker / [GitHub](https://github.com/0xCUB3/wBlock)
 * ⭐ **[AdGuard](https://adguard.com/en/adguard-ios/overview.html)** - Adblocker / [Guide](https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/), [2](https://justpaste.it/adguard) / [Pro](https://t.me/blatants) (requires patch) / [Subreddit](https://www.reddit.com/r/Adguard/)
 * ⭐ **[Brave](https://apps.apple.com/app/id1052879175)** - Adblock Browser
 * [Orion](https://orionbrowser.com/) - Adblock Browser w/ Extensions / [Discord](https://discord.gg/Yk8Aj8AxGw)
@@ -1448,13 +1446,13 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime
+* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/EFD9CyAqFS)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* [⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
+* ⭐ **[⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Movies / TV / Anime / [Discord](https://discord.gg/73XGA8Mxn9)
-* [⁠Shirox](https://shiroxapp.github.io/) - Movies / TV / Anime / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Modules](https://library.cufiy.net/library/) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
+* [⁠Shirox](https://shiroxapp.github.io/) - Movies / TV / Anime / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Modules](https://library.cufiy.net/library/), [2](https://sora-modules.xdfke.me/#/library) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [FlickJot](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players
 * [⁠StrexoPlayer](https://strexoplayer.onrender.com/) - Video Player w/ Stremio Sync
 * [⁠Web Video Cast](https://apps.apple.com/app/web-video-cast-browser-to-tv/id1400866497) - Browser Video to TV Casting App

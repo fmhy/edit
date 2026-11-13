@@ -884,7 +884,7 @@
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [Sirah](https://www.sirah.xyz/) - AI-Powered Hadith Translation / Collections
-* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
+* [OpenMaktaba](https://openmaktaba.com/) or [Islamic Internet Archives](https://islamicarchives.org/) - Islamic Books / Writings
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
 
@@ -991,6 +991,7 @@
 * [r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Community-Ranked Literary Fiction
 * [The Greatest Literature](https://editoreric.com/) - Classic Literature Rankings / Literary Canon
 * [Greater Books](http://www.greaterbooks.com/) - Recommendations / Reading Lists
+* [⁠HackerBooks](https://hackerbooks.org/) - Hacker News Book Recommendations
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books / Rankings
 * [RecommendMeABook](https://recommendmeabook.com/) or [Uncovered](https://uncovered.ink/) - Discover by Reading The Opening Pages
 * [Gnooks](https://www.gnooks.com/) or [Literature-Map](https://www.literature-map.com/) - Similar Author Discovery
@@ -1031,7 +1032,6 @@
 # ► Helpful Sites / Apps
 
 * 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)** or [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter Software Indexes
-* ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
 * ↪️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter / App
 * ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer), [dotepub](https://dotepub.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter

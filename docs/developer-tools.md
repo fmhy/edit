@@ -583,7 +583,7 @@
 * 🌐 **[⁠Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)** - Index of AI Dev Tools
 * 🌐 **[⁠MCP Market](https://mcpmarket.com/)** - MCP Server Index
 * 🌐 **[Skills](https://skills.sh/)** or **[⁠an-eye](https://rentry.co/an-eye)** - AI Agent Skill Indexes
-* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback
+* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Discord](https://discord.gg/coderabbit) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [CC Switch](https://ccswitch.io/en/) - AI Coding Agent Manager / [GitHub](https://github.com/farion1231/cc-switch)
@@ -1018,7 +1018,7 @@
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking)** - DNS Providers & Adblocking
 * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * ⭐ **[TLDES](https://tldes.com/)**, [TLDHub](https://tldhub.com/), [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://platform.censys.io/home)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
+* ⭐ **[censys](https://platform.censys.io/home)**, [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)

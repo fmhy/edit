@@ -34,6 +34,7 @@
 * [⁠Interpreter](https://github.com/bquenin/interpreter) or [⁠Translumo](https://github.com/ramjke/Translumo) - Game Live Translators
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
+* [Game Repacking Resources](https://rentry.co/repacking-resources)
 * [r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org)
 
 ***
@@ -368,6 +369,7 @@
 * [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
 * [Steam Extensions](https://redd.it/1sp8quf) - How-To Add Chrome Extensions to Steam
 * [⁠Steam Overlay Customization](https://gist.github.com/JMcrafter26/bad71e96d9bee2900008cbca10075968) - Steam Overlay Customization / Extension Guide
+* [⁠Lib Shammes](https://github.com/Kirkland-Pickles/lib-shammes) - Find / Manage Game Art / Bulk Add Non-Steam Games
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Millennium](https://steambrew.app/) - Steam Client Customization / [Discord](https://steambrew.app/discord) / [GitHub](https://github.com/shdwmtr/millennium)
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
@@ -788,7 +790,7 @@
 * [Modded Minecraft Wiki](https://moddedmc.wiki/) - Modded Minecraft Wiki / [GitHub](https://github.com/Sinytra/Wiki)
 * [Fabric](https://fabricmc.net/) / [Discord](https://discord.com/invite/VDGnGsFeuy) / [GitHub](https://github.com/FabricMC), [NeoForged](https://neoforged.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/neoforged), [Forge](https://files.minecraftforge.net/) / [Discord](https://discord.com/invite/UuM6bmAjXh) / [GitHub](https://github.com/MinecraftForge/MinecraftForge), [Quilt](https://quiltmc.org/) / [Discord](https://discord.com/invite/M7GpuyTBvy) / [GitHub](https://github.com/QuiltMC) or [Cleanroom](https://cleanroommc.com/) - Mod Loaders
 * [⁠Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Configure Mods Directly In-Game
-* [Sodium](https://modrinth.com/mod/sodium) / [GitHub](https://github.com/CaffeineMC/sodium) / [Forge Version](https://modrinth.com/mod/embeddium), [Nvidium](https://modrinth.com/mod/nvidium) / [GitHub](https://github.com/MCRcortex/nvidium) or [VulkanMod](https://modrinth.com/mod/vulkanmod) / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod) - Rendering Engine Mods
+* [Sodium](https://modrinth.com/mod/sodium) / [GitHub](https://github.com/CaffeineMC/sodium) / [Forge Version](https://modrinth.com/mod/embeddium), [2](https://www.curseforge.com/minecraft/mc-mods/emberbium), [Nvidium](https://modrinth.com/mod/nvidium) / [GitHub](https://github.com/MCRcortex/nvidium) or [VulkanMod](https://modrinth.com/mod/vulkanmod) / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod) - Rendering Engine Mods
 * [Voxy](https://modrinth.com/mod/voxy) / [GitHub](https://github.com/MCRcortex/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [GitLab](https://gitlab.com/distant-horizons-team/distant-horizons) or [Bobby](https://modrinth.com/mod/bobby), [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [GitHub](https://github.com/Johni0702/bobby) - Distance Rendering Mods
 * [ModMenu](https://modrinth.com/mod/modmenu) / [GitHub](https://github.com/TerraformersMC/ModMenu) - Mod Menu
 * [Axiom](https://modrinth.com/mod/axiom), [2](https://axiom.moulberry.com/) / [Docs](https://axiomdocs.moulberry.com/) / [Discord](https://discord.com/invite/axiomtool), [WorldEdit](https://enginehub.org/worldedit) / [Bedrock](https://github.com/SIsilicon/WorldEdit-BE) or [Toolchest](https://bedrocktoolchest.com/) (bedrock) - Building Tools & World Editors / [WorldEdit Docs](https://worldedit.enginehub.org/en/latest/) / [CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.com/invite/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
@@ -800,6 +802,7 @@
 * [MineGIT](https://modrinth.com/mod/minegit) / [GitHub](https://github.com/ModMonster/MineGIT) or [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) / [Discord](https://discord.com/invite/VdCAUtm) / [GitHub](https://github.com/MaxMaeder/DriveBackupV2) - World Cloud Sync
 * [No Telemetry](https://modrinth.com/mod/no-telemetry), [2](https://www.curseforge.com/minecraft/mc-mods/no-telemetry) / [GitHub](https://github.com/kb-1000/no-telemetry?tab=readme-ov-file) - Telemetry Blocker
 * [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs & [Data Pack Generators](https://misode.github.io/)
+* [⁠World Corruption Fixer](https://www.curseforge.com/minecraft/mc-mods/world-corruption-fixer) - Modded World Corruption Fixer
 * [ExploitPreventer](https://modrinth.com/mod/exploitpreventer) - Exploit Prevention Mod
 * [quark](https://quarkmod.net/) / [GitHub](https://github.com/VazkiiMods/Quark) - Vanilla-Like QoL & Content Mod
 * [MCCreator](https://mcreator.net/) / [Hardware Link](https://github.com/Pylo/MCreatorLink) / [Subreddit](https://www.reddit.com/r/MCreator/) / [GitHub](https://github.com/MCreator/MCreator) or [Visual Bukkit](https://www.spigotmc.org/resources/visual-bukkit.76474/) / [Discord](https://discord.com/invite/ugkvGpu) / [GitHub](https://github.com/OfficialDonut/VisualBukkit) - Mod & Plugin Creators
@@ -937,6 +940,7 @@
 * [osu!droid](https://osudroid.moe/) - osu! for Android / [Discord](https://discord.gg/fAq9em8) / [GitHub](https://github.com/osudroid/osu-droid) 
 * [YARG](https://yarg.in/) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r) / [GitHub](https://github.com/YARC-Official)
 * [⁠YAVSRG (Interlude)](https://www.yavsrg.net/) - Rhythm Game Engine / [Discord](https://discord.com/invite/tA22tWR)
+* [Sonolus](https://sonolus.com/) - Rhythm Game Clones / [GitHub](https://github.com/Sonolus)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
 * [ITGmania](https://www.itgmania.com/) - DDR Clone / [GitHub](https://github.com/itgmania/itgmania)
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -948,7 +952,6 @@
 * [Rhythm Heaven Advance](https://rhadvance.github.io/) - Rhythm Tengoku English Patch / [GitHub](https://github.com/RHAdvance/RhythmHeavenAdvance)
 * [Rhythia](https://github.com/Rhythia/Client) - Sound Space Clone / [Discord](https://discord.gg/rhythia) / [Wiki](https://wiki.rhythia.net/)
 * [Cytoid](https://cytoid.io/) - Cytus Clone / [GitHub](https://github.com/Cytoid/)
-* [Sonolus](https://sonolus.com/) - Project Sekai Clone / [GitHub](https://github.com/Sonolus)
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
 * [danser-go](https://github.com/Wieku/danser-go) - Osu! Dancing Visualizer

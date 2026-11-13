@@ -19,14 +19,14 @@
 
 ## ▷ Downloading / تحميل
 
-* ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p
 * [Stardima](https://www.stardima.com/) - Anime / Cartoon / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk)
 * [MyCima](https://mycima.gdn/) - Movies / TV / Anime / Hard Subs
 * [FilmCity](https://m.filmcity12.com/) - Movies
 * [TukTukCinema](https://tuktukcinemas.com/) - Movies / TV / Anime
-* [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* [nghmat](https://songs.nghmat.com/) - Music / MP3 / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
+* [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p
+* [nghmat](https://songs.nghmat.com/) - Music / MP3
 * [⁠Sama3y - سماعي](https://www.sama3y.net/) - Music / Classical / Forum / Sign-Up Required
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
@@ -37,10 +37,10 @@
 
 ## ▷ Streaming / البث
 
-* ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p
+* ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
-* [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
 * [EgyBest](https://egybest.la/) - Movies / TV / Anime
 * [⁠My Cima](https://mycima.gdn/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
@@ -688,7 +688,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
+* ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / Some NSFW / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.fr/)** - Movies / TV / 1080p / 4K
 * ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -1716,6 +1716,7 @@
 ## ▷ Streaming
 
 * [uzmax.net](https://uzmax.net/) - Movies / TV
+* [⁠UZMOVi](https://uzmovi.net/) - Movies / TV
 * [FreeKino](https://freekino.net/) - Movies / TV
 * [AsilMedia](https://asilmedia.org/) - Movies / TV / [Telegram](https://t.me/asilmedia_tarjima_kinolar)
 

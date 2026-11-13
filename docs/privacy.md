@@ -233,6 +233,7 @@
 
 # ► Web Privacy
 
+* ↪️ **[Frontend Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7__frontend_indexes)** - Privacy-Focused Frontend Indexes
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** / [GitHub](https://github.com/jdm-contrib/jdm) or [JustDeleteAccount](https://www.justdeleteaccount.com/) - Find / Terminate Old Accounts
 * [r/degoogle](https://www.reddit.com/r/degoogle) - Google App Alternatives
