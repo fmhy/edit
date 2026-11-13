@@ -144,6 +144,7 @@
 
 * ⭐ **[symbl](https://symbl.cc/)** - Emoji & Unicode Index
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [Emoji Charts](https://unicode.org/emoji/charts/), [EmojiDB](https://emojidb.org/), [OpenMoji](https://openmoji.org/), [JoyPixels](https://www.joypixels.com/) or [Emoji Picker](https://github-emoji-picker.vercel.app/) - Emoji Indexes
+* [EmojiMagic](https://emojimagic.io/) or [Emoji Mixer](https://emojimagic.io/emoji-mixer) - AI Emoji Search & Generator
 * ⭐ **[Slackmojis](https://slackmojis.com/)** - Custom Emojis
 * ⭐ **[Amp What](https://www.amp-what.com/)** - Unicode Index
 * [EmojiCreator](https://emojicreator.ai/), [My Emoji Maker](https://myemojimaker.com/) or [Slackmoji Lab](https://slackmojilab.com/) - Make Custom Animated Emojis
