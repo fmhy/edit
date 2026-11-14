@@ -1011,63 +1011,37 @@ files.forEach((file) => {
       // Check 15: Basic A/An Grammar
       // ---------------------------------------------------------------------
 
-      // // PHONETIC EXCEPTIONS
-      const requiresAn = ['hour', 'honor', 'honest', 'heir']
-      const requiresA = [
-        'one',
-        'once',
-        'use',
-        'user',
-        'utility',
-        'universe',
-        'university',
-        'unicorn',
-        'union',
-        'united',
-        'euro',
-        'european',
-        'euphemism',
-        'unique',
-        'luks'
-      ]
+      const requiresAn = new Set('hour honor honest heir nginx'.split(' '))
+      const requiresA = new Set(
+        'one once use user useful utility universe university unicorn union unit united uniform unique euro european euphemism luks ui ux url usb'.split(
+          ' '
+        )
+      )
+      const vowelSoundingLetters = new Set('AEFHILMNORSX')
+
+      // Mask code/URLs/links with a non-whitespace sentinel so "a [link] or" never bridges across stripped tokens
+      const lineForArticleCheck = line
+        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
 
       const articleRegex = /\b(a|an)\s+([a-z0-9]+)\b/gi
 
-      for (const match of line.matchAll(articleRegex)) {
+      for (const match of lineForArticleCheck.matchAll(articleRegex)) {
         const articleUsed = match[1].toLowerCase()
         const nextWordRaw = match[2]
         const nextWordLower = nextWordRaw.toLowerCase()
 
         let shouldBeAn = false
 
-        // KNOWN PHONETIC EXCEPTION
-        if (requiresAn.includes(nextWordLower)) {
+        if (requiresAn.has(nextWordLower)) {
           shouldBeAn = true
-        } else if (requiresA.includes(nextWordLower)) {
+        } else if (requiresA.has(nextWordLower)) {
           shouldBeAn = false
-        }
-        // ACRONYM CHECK
-        else if (/^[A-Z0-9]*[A-Z][A-Z0-9]*$/.test(nextWordRaw)) {
-          const vowelSoundingLetters = [
-            'A',
-            'E',
-            'F',
-            'H',
-            'I',
-            'L',
-            'M',
-            'N',
-            'O',
-            'R',
-            'S',
-            'X'
-          ]
-          shouldBeAn = vowelSoundingLetters.includes(nextWordRaw[0])
-        }
-        // STANDARD SPELLING RULE
-        else {
-          const startsWithVowel = /^[aeiou]/i.test(nextWordLower)
-          shouldBeAn = startsWithVowel
+        } else if (/^[A-Z0-9]*[A-Z][A-Z0-9]*$/.test(nextWordRaw)) {
+          shouldBeAn = vowelSoundingLetters.has(nextWordRaw[0])
+        } else {
+          shouldBeAn = /^[aeiou]/i.test(nextWordLower)
         }
 
         if (articleUsed === 'a' && shouldBeAn) {
