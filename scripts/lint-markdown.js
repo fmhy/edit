@@ -150,12 +150,37 @@ const COMMON_TYPOS_REGEX = new RegExp(
   `\\b(${[...COMMON_TYPOS.keys()].join('|')})\\b`,
   'gi'
 )
+const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
+  'docs/beginners-guide.md',
+  'docs/unsafe.md'
+]
+const ALLOWED_LINK_CHARS = new Set([
+  ...'/-,(&>:|*!.?;_+#►▷',
+  '⭐',
+  '🌐',
+  '🌟',
+  '↪️'
+])
+const ALLOWED_LINK_WORDS_REGEX = new RegExp(
+  `(?:^|[^a-zA-Z0-9])(?:${'or and a an the use using via with in on at by to for from check see try requires including includes that this here your our of about their join getting most like every being mostly highly up we optionally these linux mac macos windows android ios web desktop mobile firefox chrome'.split(' ').join('|')})$`,
+  'i'
+)
+const ALLOWED_REPEATED_WORDS = new Set('puyo duran agar hocus'.split(' '))
+const REQUIRES_AN = new Set('hour honor honest heir nginx'.split(' '))
+const REQUIRES_A = new Set(
+  'one once use user useful utility universe university unicorn union unit united uniform unique euro european euphemism luks ui ux url usb userscript userscripts unix'.split(
+    ' '
+  )
+)
+const VOWEL_SOUNDING_LETTERS = new Set('AEFHILMNORSX')
+const ARTICLE_REGEX = /\b(a|an)\s+([a-z0-9]+)\b/gi
 
 function stripInvisibleCharacters(text) {
   return text.replace(INVISIBLE_CHARACTERS, '')
 }
 
 function maskInlineCode(text, fillChar = ' ') {
+  if (!text.includes('`')) return text
   let out = ''
   let i = 0
   while (i < text.length) {
@@ -472,7 +497,7 @@ files.forEach((file) => {
       )
     }
 
-    const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
+    const localLinkRegex = /!?\[[^\]]*\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g
     let localLinkMatch
     while ((localLinkMatch = localLinkRegex.exec(lineNoCode)) !== null) {
       const target = localLinkMatch[1]
@@ -544,7 +569,9 @@ files.forEach((file) => {
       /\[[^\]]*\((?:https?:\/\/|\/|\.\.?\/|#)/g
     )
     for (const m of missingBracketMatch) {
-      addError('Possible missing closing bracket "]"', m[0], m.index)
+      if (!/^\[[^[\]]*\]\(/.test(lineNoCode.slice(m.index))) {
+        addError('Possible missing closing bracket "]"', m[0], m.index)
+      }
     }
 
     // ---------------------------------------------------------------------
@@ -553,13 +580,13 @@ files.forEach((file) => {
 
     // Pattern: [Text](http... or [Text](/path... where it ends without )
     const missingParens = lineNoCode.matchAll(
-      /\]\(((?:https?:\/\/|\/|\.\.?\/|#)[^)\s]*)/g
+      /\]\(((?:https?:\/\/|\/|\.\.?\/|#)(?:[^()\s]|\([^()\s]*\))*)/g
     )
     for (const m of missingParens) {
       // Check if the link is missing a closing parenthesis on this line
-      // by verifying that the text after the URL does not cleanly close it.
+      // by verifying that the text immediately following the URL closes it.
       const remainder = lineNoCode.slice(m.index + m[0].length)
-      if (!remainder.startsWith(')') && !m[0].endsWith(')')) {
+      if (!remainder.startsWith(')')) {
         addError(
           `Possible broken link (missing closing parenthesis or trailing space)`,
           m[1],
@@ -651,6 +678,10 @@ files.forEach((file) => {
 
     const lineForChecks = maskInlineCode(line)
       .replace(/<!--[\s\S]*?-->/g, (m) => ' '.repeat(m.length))
+      .replace(
+        /\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g,
+        (m, dest) => `](${' '.repeat(dest.length)})`
+      )
       .replace(/https?:\/\/[^\s)\]]+/g, (m) => ' '.repeat(m.length))
 
     if (!/^\s*link:/i.test(line)) {
@@ -770,7 +801,7 @@ files.forEach((file) => {
 
     if (isCatalogEntry) {
       const primaryLinkMatch = line.match(
-        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪\uFE0F?|🌟)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
+        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪\uFE0F?|🌟)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/(?:[^()\s]|\([^()\s]*\))+)\)/u
       )
 
       if (primaryLinkMatch) {
@@ -818,105 +849,14 @@ files.forEach((file) => {
     // Check 10: Adjacent links without separator
     // ---------------------------------------------------------------------
 
-    const FILES_TO_IGNORE_LINK_SEPARATOR_CHECK = [
-      'docs/beginners-guide.md',
-      'docs/unsafe.md'
-    ]
-
     const isIgnoredFile = FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some(
       (ignoredFile) =>
         path.normalize(file).endsWith(path.normalize(ignoredFile))
     )
 
     if (isCatalogEntry && !isIgnoredFile) {
-      const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
+      const linkRegex = /\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g
       let match
-
-      const allowedChars = new Set([
-        '/',
-        '-',
-        ',',
-        '(',
-        '&',
-        '>',
-        ':',
-        '|',
-        '*',
-        '!',
-        '.',
-        '?',
-        ';',
-        '_',
-        '⭐',
-        '🌐',
-        '🌟',
-        '↪️',
-        '+',
-        '#',
-        '►',
-        '▷'
-      ])
-
-      const allowedWords = [
-        'or',
-        'and',
-        'a',
-        'an',
-        'the',
-        'use',
-        'using',
-        'via',
-        'with',
-        'in',
-        'on',
-        'at',
-        'by',
-        'to',
-        'for',
-        'from',
-        'check',
-        'see',
-        'try',
-        'requires',
-        'including',
-        'includes',
-        'that',
-        'this',
-        'here',
-        'your',
-        'our',
-        'of',
-        'about',
-        'their',
-        'join',
-        'getting',
-        'most',
-        'like',
-        'every',
-        'being',
-        'mostly',
-        'highly',
-        'up',
-        'we',
-        'optionally',
-        'these',
-        'linux',
-        'mac',
-        'macos',
-        'windows',
-        'android',
-        'ios',
-        'web',
-        'desktop',
-        'mobile',
-        'firefox',
-        'chrome'
-      ]
-
-      const allowedWordsRegex = new RegExp(
-        `(?:^|[^a-zA-Z0-9])(?:${allowedWords.join('|')})$`,
-        'i'
-      )
 
       while ((match = linkRegex.exec(lineNoCode)) !== null) {
         const index = match.index
@@ -929,7 +869,7 @@ files.forEach((file) => {
         if (/^\s*[*+-]\s+⭐\s*$/.test(preceding)) continue
         if (/^\s*[*+-]\s+🌐\s*$/.test(preceding)) continue
         if (/^\s*[*+-]\s+🌟\s*$/.test(preceding)) continue
-        if (/^\s*[*+-]\s+↪️\s*$/.test(preceding)) continue
+        if (/^\s*[*+-]\s+↪️?\s*$/.test(preceding)) continue
         if (/^\s*[*+-]\s+[*_]+\s*$/.test(preceding)) continue
 
         const trimmedPreceding = preceding.trimEnd()
@@ -937,10 +877,10 @@ files.forEach((file) => {
 
         // Check if last character is an allowed separator symbol
         const lastChar = trimmedPreceding.slice(-1)
-        if (allowedChars.has(lastChar)) continue
+        if (ALLOWED_LINK_CHARS.has(lastChar)) continue
 
         // Check if preceding word is an allowed functional word/qualifier
-        if (allowedWordsRegex.test(trimmedPreceding)) continue
+        if (ALLOWED_LINK_WORDS_REGEX.test(trimmedPreceding)) continue
 
         addError(
           `Missing separator before link (expected "/", "or", ",", etc): "...${preceding.slice(-10)}[${match[1]}]..."`,
@@ -1026,7 +966,8 @@ files.forEach((file) => {
     // ---------------------------------------------------------------------
 
     // Ensures that labels like "Subreddit", "GitHub", "Discord", etc. point to the correct domain
-    const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
+    const linkMatchRegex =
+      /\[([^\]]+)\]\((https?:\/\/(?:[^()\s]|\([^()\s]*\))+)\)/g
     let lm
 
     while ((lm = linkMatchRegex.exec(lineNoCode)) !== null) {
@@ -1112,7 +1053,9 @@ files.forEach((file) => {
       // Case-exact check for VitePress icon link labels (whitespace edges handled separately)
       const expectedIconLabel = ICON_LABELS.get(trimmedLabel)
       if (expectedIconLabel && labelText.trim() !== expectedIconLabel) {
-        const isSecondaryIconLink = /\/\s*$/.test(line.slice(0, matchIndex))
+        const isSecondaryIconLink = /\/\s*\*{0,2}\s*$/.test(
+          line.slice(0, matchIndex)
+        )
         // Primary entries like "* ⭐ **[Bluesky](https://bsky.app/)**" intentionally use "Bluesky"
         if (trimmedLabel !== 'bluesky' || isSecondaryIconLink) {
           addError(
@@ -1144,14 +1087,11 @@ files.forEach((file) => {
       // Check 13: Repeated Words (e.g., "the the", "and and")
       // ---------------------------------------------------------------------
 
-      // Allowlist for legitimate adjacent repeated words (proper nouns, games, tech)
-      const allowedRepeatedWords = new Set(['puyo', 'duran', 'agar', 'hocus'])
-
       // Find adjacent identical words separated by whitespace
       const repeatedWordMatches = lineCleaned.matchAll(/\b([a-zA-Z]+)\s+\1\b/gi)
       for (const m of repeatedWordMatches) {
         const word = m[1].toLowerCase()
-        if (!allowedRepeatedWords.has(word)) {
+        if (!ALLOWED_REPEATED_WORDS.has(word)) {
           addError(`Repeated word detected: "${m[1]}"`, m[0], m.index)
         }
       }
@@ -1183,28 +1123,19 @@ files.forEach((file) => {
         )
         .replace(/\*+/g, (m) => ' '.repeat(m.length))
 
-      const requiresAn = new Set('hour honor honest heir nginx'.split(' '))
-      const requiresA = new Set(
-        'one once use user useful utility universe university unicorn union unit united uniform unique euro european euphemism luks ui ux url usb userscript userscripts unix'.split(
-          ' '
-        )
-      )
-      const vowelSoundingLetters = new Set('AEFHILMNORSX')
-      const articleRegex = /\b(a|an)\s+([a-z0-9]+)\b/gi
-
-      for (const match of lineForArticleCheck.matchAll(articleRegex)) {
+      for (const match of lineForArticleCheck.matchAll(ARTICLE_REGEX)) {
         const articleUsed = match[1].toLowerCase()
         const nextWordRaw = match[2]
         const nextWordLower = nextWordRaw.toLowerCase()
 
         let shouldBeAn = false
 
-        if (requiresAn.has(nextWordLower)) {
+        if (REQUIRES_AN.has(nextWordLower)) {
           shouldBeAn = true
-        } else if (requiresA.has(nextWordLower)) {
+        } else if (REQUIRES_A.has(nextWordLower)) {
           shouldBeAn = false
         } else if (/^[A-Z0-9]*[A-Z][A-Z0-9]*$/.test(nextWordRaw)) {
-          shouldBeAn = vowelSoundingLetters.has(nextWordRaw[0])
+          shouldBeAn = VOWEL_SOUNDING_LETTERS.has(nextWordRaw[0])
         } else {
           shouldBeAn = /^[aeiou]/i.test(nextWordLower)
         }
@@ -1369,14 +1300,18 @@ files.forEach((file) => {
           searchOffset = idx + 1
 
           const contextLength = 23
+          const shownLen = Math.min(match.length, 100)
+          const truncated = match.length > shownLen
           const start = Math.max(0, idx - contextLength)
+          const offendingText =
+            line.slice(idx, idx + shownLen) + (truncated ? '...' : '')
           const end = Math.min(line.length, idx + match.length + contextLength)
 
           const prefix = (start > 0 ? '... ' : '  ') + line.slice(start, idx)
-          const offendingText = line.slice(idx, idx + match.length)
-          const suffix =
-            line.slice(idx + match.length, end) +
-            (end < line.length ? ' ...' : '')
+          const suffix = truncated
+            ? ''
+            : line.slice(idx + match.length, end) +
+              (end < line.length ? ' ...' : '')
 
           const highlightedMatch = color('43;30', offendingText)
 
@@ -1387,8 +1322,7 @@ files.forEach((file) => {
 
           // Indented Carets matching context slice (+2 spaces)
           const visualCaretIndex = prefix.length + 2
-          const caret =
-            ' '.repeat(visualCaretIndex) + '^'.repeat(match.length || 1)
+          const caret = ' '.repeat(visualCaretIndex) + '^'.repeat(shownLen || 1)
           console.log(color('1;33', caret))
         } else {
           console.log(`    ${color(90, line.trim().slice(0, 80))}`)
