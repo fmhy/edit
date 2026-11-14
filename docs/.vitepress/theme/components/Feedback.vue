@@ -229,6 +229,122 @@ function selectType(type: FeedbackType['type']) {
   selectedOption.value = getFeedbackOption(type)!
 }
 
+type NavigatorWithUAData = Navigator & {
+  userAgentData?: {
+    platform?: string
+    brands?: { brand: string; version: string }[]
+  }
+}
+
+type FeedbackContext = {
+  os?: string
+  browser?: string
+  screen?: string
+  viewport?: string
+  dpr?: string
+  scheme?: string
+  lang?: string
+  pointer?: string
+}
+
+const widthBucket = (width: number) =>
+  width >= 1920 ? 'xl' : width >= 1280 ? 'l' : width >= 768 ? 'm' : 's'
+
+const versionTag = (family: string, version?: string) =>
+  version ? `${family}/${version}` : family
+
+function detectOS(nav: NavigatorWithUAData): string | undefined {
+  const platform = (nav.userAgentData?.platform || navigator.platform || '')
+    .toLowerCase()
+  const ua = navigator.userAgent
+
+  if (platform.includes('win') || ua.includes('Windows')) {
+    // Windows 11 still reports NT 10.0, so this stays the NT major version.
+    const match = ua.match(/Windows NT (\d+)/)
+    return versionTag('windows', match?.[1])
+  }
+  if (platform.includes('mac') || ua.includes('Mac OS X')) {
+    const match = ua.match(/Mac OS X (\d+)/)
+    return versionTag('macos', match?.[1])
+  }
+  if (platform.includes('android') || ua.includes('Android')) {
+    const match = ua.match(/Android (\d+)/)
+    return versionTag('android', match?.[1])
+  }
+  if (platform.includes('ios') || /iPhone|iPad/.test(ua)) {
+    const match = ua.match(/(?:iPhone|iPad).*?OS (\d+)/)
+    return versionTag('ios', match?.[1])
+  }
+  if (platform.includes('cros')) return 'chromeos'
+  if (platform.includes('linux') || ua.includes('Linux')) return 'linux'
+  return undefined
+}
+
+function detectBrowser(nav: NavigatorWithUAData): string | undefined {
+  const brands = nav.userAgentData?.brands
+  if (Array.isArray(brands)) {
+    const brand = brands.find((entry) =>
+      /edge|chrome|chromium/i.test(entry.brand)
+    )
+    if (brand?.version) {
+      const family = /edge/i.test(brand.brand)
+        ? 'edge'
+        : /chromium/i.test(brand.brand)
+          ? 'chromium'
+          : 'chrome'
+      return versionTag(family, brand.version.split('.')[0])
+    }
+  }
+
+  const ua = navigator.userAgent
+  const firefox = ua.match(/Firefox\/(\d+)/)
+  if (firefox) return versionTag('firefox', firefox[1])
+  const edge = ua.match(/Edg(?:e|A|iOS)?\/(\d+)/)
+  if (edge) return versionTag('edge', edge[1])
+  const chrome = ua.match(/Chrome\/(\d+)/)
+  if (chrome) return versionTag('chrome', chrome[1])
+  const safari = ua.match(/Version\/(\d+).*Safari/)
+  if (safari) return versionTag('safari', safari[1])
+  return undefined
+}
+
+/**
+ * Coarse, best-effort browser/OS context for reproducing broken reports.
+ * Unavailable fields are omitted, never sent empty; no exact pixel values, no
+ * user agent string, no free text. The report id is derived from these buckets
+ * server-side (api/routes/feedback.post.ts) behind a per-quarter pepper.
+ */
+function collectContext(): FeedbackContext {
+  const context: FeedbackContext = {}
+  try {
+    const nav = navigator as NavigatorWithUAData
+
+    const os = detectOS(nav)
+    if (os) context.os = os
+
+    const browser = detectBrowser(nav)
+    if (browser) context.browser = browser
+
+    if (screen.width > 0) context.screen = widthBucket(screen.width)
+    if (window.innerWidth > 0) context.viewport = widthBucket(window.innerWidth)
+
+    const ratio = Math.round(window.devicePixelRatio || 1)
+    context.dpr = `${Math.min(3, Math.max(1, ratio))}x`
+
+    const dark = window.matchMedia?.('(prefers-color-scheme: dark)')
+    if (dark) context.scheme = dark.matches ? 'dark' : 'light'
+
+    const lang = (navigator.language || '').split('-')[0].toLowerCase()
+    if (/^[a-z]{2,3}$/.test(lang)) context.lang = lang
+
+    const coarse = window.matchMedia?.('(pointer: coarse)')
+    if (coarse) context.pointer = coarse.matches ? 'coarse' : 'fine'
+  } catch {
+    // Context is best effort; a failure here must never block the submission.
+  }
+  return context
+}
+
 async function handleSubmit() {
   const cooldown = getRateLimitCooldown()
   if (cooldown > 0) {
@@ -243,10 +359,13 @@ async function handleSubmit() {
     ? `> ${feedback.selectedLine}\n\n${feedback.message}`
     : feedback.message
 
-  const body: FeedbackType = {
+  const context = collectContext()
+
+  const body: FeedbackType & { context?: FeedbackContext } = {
     message: finalMessage,
     type: feedback.type!,
     page: feedback.page,
+    ...(Object.keys(context).length > 0 && { context }),
     ...(props.heading && { heading: props.heading }),
     ...(feedback.contact && { contact: feedback.contact })
   }
@@ -449,6 +568,10 @@ const resetFeedback = () => {
             placeholder="(e.g. What a lovely wiki!)"
             @input="handleInput"
           />
+          <p class="desc mt-2">
+            We include your OS and browser version so we can reproduce the
+            issue.
+          </p>
           <div class="flex items-center gap-2 mt-2 mb-2">
             <button
               type="button"

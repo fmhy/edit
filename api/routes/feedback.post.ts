@@ -14,10 +14,71 @@
  *  limitations under the License.
  */
 
+import z from 'zod'
 import {
   FeedbackSchema,
   getFeedbackOption
 } from '../../docs/.vitepress/types/Feedback'
+
+/**
+ * Coarse browser/OS buckets from the feedback widget. All optional: the client
+ * omits what it cannot read, and versions are major-only.
+ */
+const FeedbackContextSchema = z.object({
+  os: z.string().max(24).optional(),
+  browser: z.string().max(24).optional(),
+  screen: z.enum(['s', 'm', 'l', 'xl']).optional(),
+  viewport: z.enum(['s', 'm', 'l', 'xl']).optional(),
+  dpr: z.enum(['1x', '2x', '3x']).optional(),
+  scheme: z.enum(['dark', 'light']).optional(),
+  lang: z.string().max(10).optional(),
+  pointer: z.enum(['coarse', 'fine']).optional()
+})
+
+const FeedbackBodySchema = FeedbackSchema.extend({
+  context: FeedbackContextSchema.optional()
+})
+
+const CONTEXT_KEYS = [
+  'os',
+  'browser',
+  'screen',
+  'viewport',
+  'dpr',
+  'scheme',
+  'lang',
+  'pointer'
+] as const
+
+/**
+ * Stable per-quarter grouping id. Hashed server-side only: the canonical string
+ * never leaves the worker, and the pepper (Worker secret REPORT_PEPPER, rotated
+ * quarterly) keeps ids unguessable across quarters. Same config in the same
+ * quarter yields the same id; nothing reversible is sent.
+ */
+async function buildReportId(
+  context: Record<string, string | undefined>,
+  pepper: unknown
+): Promise<string | undefined> {
+  if (typeof pepper !== 'string' || !pepper) return undefined
+
+  const canonical = CONTEXT_KEYS.filter((key) => context[key])
+    .map((key) => `${key}=${context[key]!.toLowerCase()}`)
+    .join(';')
+  if (!canonical) return undefined
+
+  const now = new Date()
+  const year = now.getUTCFullYear()
+  const quarter = `${year}Q${Math.floor(now.getUTCMonth() / 3) + 1}`
+  const digest = await crypto.subtle.digest(
+    'SHA-256',
+    new TextEncoder().encode(`${pepper}:${quarter}:${canonical}`)
+  )
+  const hex = Array.from(new Uint8Array(digest))
+    .map((byte) => byte.toString(16).padStart(2, '0'))
+    .join('')
+  return hex.slice(0, 8)
+}
 
 /** Escape triple backticks so user input can't break the embed's code-block formatting. */
 function sanitizeForDiscord(input: string): string {
@@ -120,10 +181,8 @@ async function shouldNotifyTranslationFailure(kv: any): Promise<boolean> {
 }
 
 export default defineEventHandler(async (event) => {
-  const { message, page, type, heading, contact } = await readValidatedBody(
-    event,
-    FeedbackSchema.parseAsync
-  )
+  const { message, page, type, heading, contact, context } =
+    await readValidatedBody(event, FeedbackBodySchema.parseAsync)
   const env = useRuntimeConfig(event)
 
   const pageURL = `https://fmhy.net${page}`
@@ -154,6 +213,38 @@ export default defineEventHandler(async (event) => {
       value: sanitizeForDiscord(contact),
       inline: true
     })
+  }
+
+  if (context) {
+    if (context.os) {
+      fields.push({
+        name: 'OS',
+        value: sanitizeForDiscord(context.os),
+        inline: true
+      })
+    }
+    if (context.browser) {
+      fields.push({
+        name: 'Browser',
+        value: sanitizeForDiscord(context.browser),
+        inline: true
+      })
+    }
+    if (context.viewport) {
+      fields.push({
+        name: 'Viewport bucket',
+        value: context.viewport,
+        inline: true
+      })
+    }
+
+    const cfEnv = (event.context.cloudflare as any)?.env
+    const reportId = await buildReportId(context, cfEnv?.REPORT_PEPPER).catch(
+      () => undefined
+    )
+    if (reportId) {
+      fields.push({ name: 'Report ID', value: reportId, inline: true })
+    }
   }
 
   const cf = event.context.cloudflare as any
