@@ -90,6 +90,62 @@ const LABEL_DOMAIN_CHECKS = new Map([
   ],
   ['.onion', { match: (hostname) => hostname.endsWith('.onion') }]
 ])
+const COMMON_TYPOS = new Map([
+  ['teh', 'the'],
+  ['adn', 'and'],
+  ['thier', 'their'],
+  ['dont', "don't"],
+  ['cant', "can't"],
+  ['wont', "won't"],
+  ['doesnt', "doesn't"],
+  ['didnt', "didn't"],
+  ['isnt', "isn't"],
+  ['arent', "aren't"],
+  ['wasnt', "wasn't"],
+  ['werent', "weren't"],
+  ['hasnt', "hasn't"],
+  ['havent', "haven't"],
+  ['wouldnt', "wouldn't"],
+  ['couldnt', "couldn't"],
+  ['shouldnt', "shouldn't"],
+  ['youre', "you're"],
+  ['theyre', "they're"],
+  ['occured', 'occurred'],
+  ['seperate', 'separate'],
+  ['seperately', 'separately'],
+  ['independant', 'independent'],
+  ['reccomend', 'recommend'],
+  ['recieve', 'receive'],
+  ['adress', 'address'],
+  ['neccessary', 'necessary'],
+  ['tring', 'trying'],
+  ['availalbe', 'available'],
+  ['availabe', 'available'],
+  ['definately', 'definitely'],
+  ['maintainance', 'maintenance'],
+  ['accomodate', 'accommodate'],
+  ['begining', 'beginning'],
+  ['enviroment', 'environment'],
+  ['goverment', 'government'],
+  ['relevent', 'relevant'],
+  ['sucessful', 'successful'],
+  ['untill', 'until'],
+  ['wierd', 'weird'],
+  ['whereever', 'wherever'],
+  ['similiar', 'similar'],
+  ['grammer', 'grammar'],
+  ['langauge', 'language'],
+  ['compatability', 'compatibility'],
+  ['offical', 'official'],
+  ['unoffical', 'unofficial'],
+  ['extention', 'extension'],
+  ['occuring', 'occurring'],
+  ['visulization', 'visualization']
+])
+const COMMON_TYPOS_REGEX = new RegExp(
+  `\\b(${[...COMMON_TYPOS.keys()].join('|')})\\b`,
+  'gi'
+)
 
 function stripInvisibleCharacters(text) {
   return text.replace(INVISIBLE_CHARACTERS, '')
@@ -383,7 +439,9 @@ files.forEach((file) => {
     // Check 2: Space between ] (
     // ---------------------------------------------------------------------
 
-    const bracketParenMatch = line.matchAll(/\]\s+\(http/g)
+    const bracketParenMatch = lineNoCode.matchAll(
+      /\]\s+\((?:https?:\/\/|\/|\.\.?\/|#)/g
+    )
     for (const m of bracketParenMatch) {
       addError('Space between bracket and parenthesis in link', m[0], m.index)
     }
@@ -392,9 +450,11 @@ files.forEach((file) => {
     // Check 3: Missing closing bracket ]
     // ---------------------------------------------------------------------
 
-    // Pattern: [Text(http...
-    // We look for [ followed by (http without ] in between.
-    const missingBracketMatch = line.matchAll(/\[[^\]]*\(http/g)
+    // Pattern: [Text(http... or [Text(/path...
+    // We look for [ followed by (url/path without ] in between.
+    const missingBracketMatch = lineNoCode.matchAll(
+      /\[[^\]]*\((?:https?:\/\/|\/|\.\.?\/|#)/g
+    )
     for (const m of missingBracketMatch) {
       addError('Possible missing closing bracket "]"', m[0], m.index)
     }
@@ -403,14 +463,14 @@ files.forEach((file) => {
     // Check 4: Missing closing parenthesis )
     // ---------------------------------------------------------------------
 
-    // Pattern: [Text](http...  where it ends without )
-    // We look for "](http..." followed by space or end of line, but NOT ending with )
-    // regex: \]\(http[^)]*($|\s) matches "](http://url" at EOL or "](http://url "
-    const missingParens = line.matchAll(/\]\((http[^)\s]*)/g)
+    // Pattern: [Text](http... or [Text](/path... where it ends without )
+    const missingParens = lineNoCode.matchAll(
+      /\]\(((?:https?:\/\/|\/|\.\.?\/|#)[^)\s]*)/g
+    )
     for (const m of missingParens) {
       // Check if the link is missing a closing parenthesis on this line
       // by verifying that the text after the URL does not cleanly close it.
-      const remainder = line.slice(m.index + m[0].length)
+      const remainder = lineNoCode.slice(m.index + m[0].length)
       if (!remainder.startsWith(')') && !m[0].endsWith(')')) {
         addError(
           `Possible broken link (missing closing parenthesis or trailing space)`,
@@ -939,11 +999,12 @@ files.forEach((file) => {
     // ---------------------------------------------------------------------
 
     if (!isSeparatedEnglishCheck) {
-      // Create a sanitized line for text checks: strip URLs and inline links
-      // Preserves character indices 1:1 by replacing matches with equivalent whitespace padding
+      // Mask inline code, URLs, and links with a non-whitespace sentinel so
+      // word/article checks keep 1:1 indices without bridging across stripped spans.
       const lineCleaned = line
-        .replace(/https?:\/\/[^\s)]+/g, (m) => ' '.repeat(m.length))
-        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => ' '.repeat(m.length))
+        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
 
       // ---------------------------------------------------------------------
       // Check 13: Repeated Words (e.g., "the the", "and and")
@@ -965,46 +1026,13 @@ files.forEach((file) => {
       // Check 14: Common Typos
       // ---------------------------------------------------------------------
 
-      const commonTypos = {
-        teh: 'the',
-        adn: 'and',
-        thier: 'their',
-        dont: "don't",
-        cant: "can't",
-        wont: "won't",
-        occured: 'occurred',
-        seperate: 'separate',
-        independant: 'independent',
-        reccomend: 'recommend',
-        recieve: 'receive',
-        adress: 'address',
-        neccessary: 'necessary',
-        tring: 'trying',
-        availalbe: 'available',
-        availabe: 'available',
-        definately: 'definitely',
-        maintainance: 'maintenance',
-        accomodate: 'accommodate',
-        begining: 'beginning',
-        enviroment: 'environment',
-        goverment: 'government',
-        relevent: 'relevant',
-        sucessful: 'successful',
-        untill: 'until',
-        wierd: 'weird',
-        whereever: 'wherever'
-      }
-
-      for (const [typo, correction] of Object.entries(commonTypos)) {
-        const typoRegex = new RegExp(`\\b${typo}\\b`, 'gi')
-        const typoMatches = lineCleaned.matchAll(typoRegex)
-        for (const m of typoMatches) {
-          addError(
-            `Possible typo: "${m[0]}" (should be "${correction}")`,
-            m[0],
-            m.index
-          )
-        }
+      for (const m of lineCleaned.matchAll(COMMON_TYPOS_REGEX)) {
+        const correction = COMMON_TYPOS.get(m[0].toLowerCase())
+        addError(
+          `Possible typo: "${m[0]}" (should be "${correction}")`,
+          m[0],
+          m.index
+        )
       }
 
       // ---------------------------------------------------------------------
@@ -1018,16 +1046,9 @@ files.forEach((file) => {
         )
       )
       const vowelSoundingLetters = new Set('AEFHILMNORSX')
-
-      // Mask code/URLs/links with a non-whitespace sentinel so "a [link] or" never bridges across stripped tokens
-      const lineForArticleCheck = line
-        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
-        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
-        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
-
       const articleRegex = /\b(a|an)\s+([a-z0-9]+)\b/gi
 
-      for (const match of lineForArticleCheck.matchAll(articleRegex)) {
+      for (const match of lineCleaned.matchAll(articleRegex)) {
         const articleUsed = match[1].toLowerCase()
         const nextWordRaw = match[2]
         const nextWordLower = nextWordRaw.toLowerCase()
