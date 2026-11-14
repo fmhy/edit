@@ -336,15 +336,16 @@
 
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
+* ⭐ **[⁠Control Panel](https://soitis.dev/control-panel-for-youtube)** - YouTube Debloating / UI Controls / [GitHub](https://github.com/insin/control-panel-for-youtube) 
 * ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
-* [ImprovedTube](https://improvedtube.com/) / [GitHub](https://github.com/code-charity/youtube), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
-* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
+* [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://improvedtube.com/) / [GitHub](https://github.com/code-charity/youtube), [YT Tweaks](https://github.com/pedrosouu/yt-tweaks), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/) or [YouTube Alchemy](https://greasyfork.org/en/scripts/521686) / [GitHub](https://github.com/TimMacy/YouTubeAlchemy) - YouTube Enhancement Extensions
 * [TubeMod](https://github.com/Pedro-Gregorio/TubeMod), [Unhook](https://unhook.app/) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
+* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
 * [YouTube Search Fixer](https://phoennix.gitlab.io/youtubesearchfix/) - Declutter Search Results / Homepage
-* [BlockTube](https://github.com/amitbl/blocktube) or [YTBlock](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) - YouTube Content Blocker
+* [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) or [yt-neuter](https://github.com/mchangrh/yt-neuter) - Minimalist YouTube
@@ -442,7 +443,7 @@
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [⁠LikeSearch](https://likesearch.kaustlabs.com/) - Search Your Liked YouTube Videos
-* [⁠HackerTube](https://hackertube.org/) - Educational YouTube Videos
+* [⁠HackerTube](https://hackertube.org/) or [⁠TristanTube](https://karpathy.ai/tristan-tube/) - Educational YouTube Videos
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos

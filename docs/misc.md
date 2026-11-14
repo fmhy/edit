@@ -1116,7 +1116,6 @@
 * [ETFDB](https://etfdb.com/) (US) or [justETF](https://www.justetf.com/) (EU / UCITS) - ETF Research and Screening Platforms 
 * [Quiver Quantitative](https://www.quiverquant.com/) - Alternative Investment Data / Research
 * [Infolib](https://infolib.org/) - Financial News / Market Dashboard
-* [Weekly Market Recap](https://am.jpmorgan.com/) - Stock Market Recaps
 * [Simul8or](https://simul8or.com/) - Trading Simulator
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Investment Growth Calculator
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice

@@ -12,9 +12,9 @@
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** or [Keyflame](https://rentry.co/FMHYB64#keyflame) - Editing Software
 * ↪️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
+* ⭐ **[⁠Affinity](https://www.affinity.studio/)** / Windows, macOS / [Linux](https://github.com/ryzendew/Linux-Affinity-Installer) / [No Login Method](https://rentry.co/FMHYB64#affinity)
 * ⭐ **[GIMP](https://www.gimp.org/)** / Windows, macOS, Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
 * ⭐ **[ImageMagick](https://imagemagick.org/)** / Windows, macOS, Linux, iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
-* [⁠Affinity](https://www.affinity.studio/) / Windows, macOS / [Linux](https://github.com/ryzendew/Linux-Affinity-Installer) / [No Login Method](https://rentry.co/FMHYB64#affinity)
 * [⁠PaintFE](https://paintfe.com/) / Windows, macOS, Linux / [GitHub](https://github.com/kylejckson/PaintFE)
 * [Photon](https://tenzen.studio/photon/) / Windows, macOS, Linux
 * [LazPaint](https://lazpaint.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/bgrabitmap/lazpaint/)
@@ -481,7 +481,7 @@
 * [⁠Zerochan](https://www.zerochan.net/?p=1) - Japanese Fanart / Some NSFW / [Discord](https://discord.gg/HkGgX6Qs3N)
 * [⁠PidgiWiki](https://www.pidgi.net/) - Video Game PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
 * [freeillustrations](https://freeillustrations.xyz/), [⁠CocoMaterial](https://cocomaterial.com/), [Kitbitz](https://kitbitz.art/), [DrawKit](https://www.drawkit.com/), [Irasutoya](https://irasutoya.com/), [NiceIllustrations](https://niceillustrations.com/free-illustrations/) or [manypixels](https://www.manypixels.co/gallery) - Illustrations
-* [icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations
+* [Icons8](https://icons8.com/illustrations), [LostGeometry](https://lostgeometry.craftwork.design/), [3D Illustrations](https://3d.khagwal.com/) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People

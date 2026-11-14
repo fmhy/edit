@@ -24,7 +24,7 @@
 * 🌟 **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.win/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org) - 1080p / External Subs / Ad-Toggle / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.su/), [3](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle
 * ⭐ **[MeowTV](https://meowtv.ru/)** or [FlickyStream](https://flickystream.mov/) - 1080p / Dual Audio / External Subs / Ad-Toggle
-* ⭐ **[SweetFox](https://sweetfox.app/)** or [67Movies](https://67movies.st/) - 4K / External Subs / Ad-Toggle
+* ⭐ **[SweetFox](https://sweetfox.app/)** or [67Movies](https://67movies.st/) - 4K / Dual Audio / External Subs / Ad-Toggle
 * ⭐ **[CineLite](https://cinelite.xyz/)** - 4K / Dual Audio / Popup + Redirect Free
 * ⭐ **[dulo](https://dulo.mov/)** - 4K / External Subs / Ad-Toggle / [Discord](https://discord.gg/kSsqjhE2Sp)
 * ⭐ **[ArrowTV](https://arrowtv.net/)**, [2](https://neonflix.st/) or [Cinezo](https://www.cinezo.st/), [2](https://www.flikhub.net/) - 4K / External Subs / Ad-Toggle
@@ -32,9 +32,9 @@
 * ⭐ **[Spacedom](https://spacedom.live/)** - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/6NU9thcPYs)
 * ⭐ **[Chillflix](https://chillflix.lol/)**, [Toflix](https://toflix.co/) or [Vuflix](https://vuflix.co/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/6r5KTZgqXV)
 * ⭐ **[Way2Movies](https://beta.way2movies.live/)**, [2](https://way2movies.live/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Telegram](https://t.me/Way2MoviesFun) / [Discord](https://discord.gg/mH4zsaAmv7)
+* ⭐ **[moanatv.](https://lfmx.app/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/7CBgYwN82F)
 * ⭐ **[Movie Night](https://movienig.ht/)** - 1080p / Ad-Toggle / [Discord](https://discord.com/invite/kPJ2yJxYng)
 * ⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - 4K / External Subs / Popup + Redirect Free
-* ⭐ **[moanatv.](https://lfmx.app/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/7CBgYwN82F)
 * [BingeBang](https://bingebang.st/) - 4K / External Subs / Popup + Redirect Free / [Status](https://bingebang.club/) / [Discord](https://discord.com/invite/v3EmsANYNM)
 * [Lightflix](https://lightflix.app/) or [Afterdusk](https://afterdusk.app/) - 4K / External Subs / Ad-Toggle
 * [MovieBite](https://moviebite.org/) - 1080p / Ad-Toggle / [Telegram](https://t.me/+8Wluy50R049kMmVk) / [Discord](https://discord.gg/ygexZUCXVa)
@@ -684,11 +684,11 @@
 * ⭐ **[⁠XDMovies](https://xdmovies.com/)**, [2](https://huh.xdmovies.wtf/) - Movies / TV / 4K / HEVC / [Discord](https://discord.com/invite/Py5KKx28Bx)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 4K / HEVC / [Sign-Up (Better Host)](https://paste.to/?d2685dc847a535c4#7YmBZfs57EoYcBpnFwkxjz4QBzt3qXBEPkWbmY9aSkkj) / [2](https://notebin.de/?cfaf4edcc631a0e1#H133vUqrhQ6pxj2wPT8ZeH1zVuri6Qvo7gJYz6heMSZL) (PW: FMHY)
 * ⭐ **[Scloud](https://rentry.co/FMHYB64#sc)** - Movies / TV / 4K / HEVC / Use Adblocker / [Telegram](https://t.me/scloudmediahub)
+* [⁠4KHDHub](https://4khdhub.one/) - Movies / TV / 4K / HEVC
 * [Cinetaro](https://cinetaro.to/) - Movies / TV / Anime / 4K / HEVC / [Discord](https://discord.gg/2UPkZwn9v)
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / 1080p / HEVC / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [HDHub4u](https://hdhub4u.fr/) - Movies / TV / 1080p / 4K / HEVC
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
-* [⁠4KHDHub](https://4khdhub.one/) - Movies / TV / 4K / HEVC
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / 4K / HEVC / Use [Throwaway Gmail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail)
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - Multi-Site Downloader / Movies / TV / Anime / 4K / HEVC / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk)
 * [⁠Medeberiya](https://medeberiya.net/) - Movie / TV / 4K / HEVC

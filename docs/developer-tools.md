@@ -564,13 +564,13 @@
 
 ***
 
-* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [⁠Z.ai](https://chat.z.ai/) - GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
-* [Kimi](https://www.kimi.ai/agent), [2](https://www.kimi.com/agent) - Kimi K3 (Max) / Kimi K2.6 / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
-* [Google AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Qwen](https://chat.qwen.ai/) - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Coding AI / Sign-Up [GitHub](https://github.com/MiniMax-AI/)
+* [Arena](https://arena.ai/code) - Multiple Models / Sign-Up (Direct mode) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [⁠Z.ai](https://chat.z.ai/) - GLM-5.3 (Sign-Up) / GLM-5.3-Flash (No Sign-Up) / [Discord](https://discord.gg/QR7SARHRxK)
+* [Kimi](https://www.kimi.ai/agent), [2](https://www.kimi.com/agent) - Kimi K3.1 Pro / Kimi K3 / Kimi K2.8 Preview / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
+* [Google AI Studio](https://aistudio.google.com/app/apps) - Gemini 4 Hydrogen / Gemini 3.8 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* [Qwen](https://chat.qwen.ai/) - Qwen4-Max-Preview / Qwen3.8-Max / Qwen3.7-Plus / No Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3.1-Flash (Max) / MiniMax M3 (Thinking) / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
 * [⁠Cloud CLI](https://github.com/siteboon/claudecodeui) - AI Coding Agent Web Manager
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
@@ -897,7 +897,7 @@
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/), [Pixlpin](https://pixlpin.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * ⁠Human Interface Guidelines: [Windows](https://learn.microsoft.com/en-us/windows/apps/design/) / [Gnome](https://developer.gnome.org/hig/) / [KDE](https://develop.kde.org/hig/) / [Apple](https://developer.apple.com/design/human-interface-guidelines) - Interface Guidelines

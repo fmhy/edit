@@ -70,7 +70,7 @@
 * [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / US Servers / [GitHub](https://github.com/PUT-Request/Artemis/)
 * [AdGuard Public DNS](https://adguard-dns.io/en/public-dns.html) - DNS Provider / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
 * [DNSBunker](https://dnsbunker.org/) - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking / German Servers
-* [Rethink DNS Resolver](https://rethinkdns.com/configure) - DNS Provider / Mix Multiple Blocklists / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
+* [Rethink DNS Resolver](https://rethinkdns.com/configure) - DNS Provider / Mix Multiple Blocklists / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rethink-note.md)
 * [HaGeZi DNS](https://github.com/hagezi/dns-servers) - Free, Non-Commercial EU DNS Servers
 * [DNS for Family](https://dnsforfamily.com/) - Family Filtering with Safe Search & Malware Protection / German + Finnish Servers
 * [Control D](https://controld.com/features/dns-filtering) - Control Free DNS / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)

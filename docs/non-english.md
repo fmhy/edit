@@ -697,7 +697,6 @@
 * ⭐ **[TamilMV](https://www.1tamilmv.lease/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
 * [SSR Movies](https://ssrmovies.blue/) - Movies / TV / Sub / Dub / 1080p
 * [TheMoviesBoss](https://themoviesboss.fans/) - Movies / TV
-* [⁠4KHDHub](https://4khdhub.one/) - Movies / TV / 4K
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [BollyMod](https://bollymod.study/) - Movies / TV / Anime / 1080p
 * [⁠MoviesDrive](https://new2.moviesdrive.christmas/) - Movies / TV / 1080p

@@ -154,7 +154,6 @@
 * [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Android App Patcher
 * [NullStore](https://nullcpy.github.io/) / [GitHub](https://github.com/nullcpy/rvb) or [FiorenMas Pre-Built](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) / [Telegram](https://t.me/fiorenmas) - Latest Patched Apps / Morphe, ReVanced & Revanced-Extended
 * [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) - ReVanced Builder / [Telegram](https://t.me/rvc_magisk)
-* [ReVanced CLI](https://github.com/ReVanced/revanced-cli) - CLI Patcher / [Guide](https://rentry.org/Revanced_Guide)
 * [Enhancify](https://github.com/Graywizard888/Enhancify) - TUI Wrapper
 
 ***
@@ -227,7 +226,7 @@
 
 ## ▷ Optimization
 
-* ⭐ **[Canta](https://samolego.github.io/Canta/)** - Android Debloater / Requires Shizuku
+* ⭐ **[Canta](https://samolego.github.io/Canta/)** - Android Debloater / Requires Shizuku / [GitHub](https://github.com/samolego/Canta)
 * ⭐ **[Universal Android Debloater v2](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** - Android Debloater / [Discord](https://discord.gg/CzwbMCPEZa)
 * ⭐ **[Hail](https://github.com/aistra0528/Hail)**, [BatteryTool](https://github.com/Domi04151309/BatteryTool) (root) or [Drowser](https://gitlab.com/juanitobananas/drowser) (root) - Deactivate Unused Apps / Freeze App Background Activities
 * [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloater / Root / [GitHub](https://github.com/sunilpaulmathew/De-Bloater)
@@ -493,7 +492,7 @@
 * [⁠Re-Malwack](https://zg.is-a.dev/re-malwack) (root) - Adblocking App / [GitHub](https://github.com/ZG089/Re-Malwack)
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [⁠bindhosts](https://github.com/bindhosts/bindhosts) - Systemless Adblocking for Rooted Android
-* [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
+* [Rethink DNS](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rethink-note.md), [⁠DNSNet](https://github.com/t895/DNSNet) or [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - DNS Adblockers
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
 * [⁠HTTP Injector](https://play.google.com/store/apps/details?id=com.evozi.injector), [⁠HTTP Custom](https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom), [⁠NetMod VPN](https://play.google.com/store/apps/details?id=com.netmod.syna), [SlipNet](https://github.com/anonvector/SlipNet) / [Troubleshooting](https://t.me/SlipNet_app) / [Telegram](https://t.me/slipnet_chat), [⁠WhiteDNS](https://github.com/iampedii/WhiteDNS) or [DarkTunnel](https://play.google.com/store/apps/details?id=net.darktunnel.app) - Mobile DNS Tunnels / Censorship Bypass
 
@@ -508,9 +507,9 @@
 * ↪️ **[Android Proxy Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_proxy_clients)**
 * ⭐ **[Triage](https://tria.ge/)** or [Hybrid Analysis](https://hybrid-analysis.com/) - APK / URL Virus Scanners
 * ⭐ **[URLCheck](https://github.com/TrianguloY/URLCheck)**, [LinkSheet](https://github.com/LinkSheet/LinkSheet) or [Untracker](https://github.com/zhanghai/Untracker) - URL Cleaners / Tracking Removal
+* ⭐ **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [Rethink DNS](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * ⭐ **[Exodus](https://reports.exodus-privacy.eu.org/en/)** - App Tracker Database
 * ⭐ **[Amarok](https://github.com/deltazefiro/Amarok-Hider)**, [Aer](https://github.com/nain-F49FF806/anemo-aer) or [SafeSpace](https://github.com/aashishksahu/SafeSpace) - Hide Files / Apps
-* [Rethink DNS](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search), [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall), [AFWall+](https://github.com/ukanth/afwall/) (root) or [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
 * [InviZible](https://invizible.net/en/) - Tor, DNSCrypt, And Purple I2P Hybrid VPN / [GitHub](https://github.com/Gedsh/InviZible)
 * [Intra](https://getintra.org) - Encrypted DNS App
 * [PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - App Permission Manager
@@ -951,7 +950,7 @@
 
 * ⭐ **[Morphe](https://morphe.software/)** - Ad-Free YouTube Patcher / [X](https://x.com/MorpheApp) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [Subreddit](https://reddit.com/r/MorpheApp) / [GitHub](https://github.com/MorpheApp/morphe-manager)
 * ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - YouTube Music Player / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
-* ⭐ **[⁠Flow](https://flow-tube.org/)** - YouTube Music Player / Recommendation Engine / [GitHub](https://github.com/Flow-Tube/Flow)
+* ⭐ **[⁠Flow](https://flow-tube.org/)** - YouTube Music Player / Recommendation Engine / Local Algorithm / [GitHub](https://github.com/Flow-Tube/Flow)
 * ⭐ **[Metrolist](https://metrolist.meowery.eu/)** - YouTube Music Player / [Subreddit](https://www.reddit.com/r/metrolist/) / [Telegram](https://t.me/metrolistapp) / [Discord](https://discord.com/invite/zrdbeRG2Mt) / [GitHub](https://github.com/MetrolistGroup/Metrolist)
 * [BitChord](https://bitchord.kushagrasingh.in) - YouTube Music Player / [Discord](https://discord.gg/pSafNTyKZx) / [GitHub](https://github.com/kushagrasinghx/BitChord)
 * [Musify](https://gokadzev.github.io/Musify/) - YouTube Music Player / [GitHub](https://github.com/gokadzev/Musify)
@@ -1017,7 +1016,7 @@
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Movies / TV / Anime / [Discord](https://discord.gg/73XGA8Mxn9)
 * [CineHD](https://cinehd.dev/) - Movies / TV / Anime / Drama / Live TV
-* [⁠FlixQuest](https://flix.quest/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp) / [GitHub](https://github.com/BeamlakAschalew/flixquest)
+* [⁠FlixQuest](https://flix.quest/) - Movies / TV / Live TV / [Telegram](https://t.me/flixquestapp)
 * [Movie HD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires AMPlayer
 * [VivaTV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) - Movies / TV / Requires TPlayer
 * [⁠Vyla Go](https://vyla.cc/products/go), [2](https://vyla.qzz.io) - Movies / TV / Anime / [Subreddit](https://www.reddit.com/r/Vyla/) / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
@@ -1102,8 +1101,8 @@
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes / [Converter](https://convert.pipepipe.dev/) / [Plugins](https://github.com/InfinityLoop1308/awesome-pipepipe-plugins)
 * ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus), [Seal](https://github.com/JunkFood02/Seal), [Hazel](https://github.com/SibtainOcn/Hazel), [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
-* [ReVanced Manager](https://revanced.app/) or [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers) / [Changelog](https://revanced.app/announcements) / [Subreddit](https://www.reddit.com/r/revancedapp/) / [Discord](https://discord.com/invite/rF2YcEjcrT)
-* [⁠Flow](https://flowapp-website.vercel.app/) - Ad-Free YouTube / [GitHub](https://github.com/Flow-Tube/Flow)
+* [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers)
+* [⁠Flow](https://flow-tube.org/) - Ad-Free YouTube / Local Algorithm / [GitHub](https://github.com/Flow-Tube/Flow)
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / Peertube / media.ccc.de / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [⁠NewTube](https://github.com/aleixrodriala/newtube) - Ad-Free YouTube / SponsorBlock
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube

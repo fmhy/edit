@@ -12,10 +12,10 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4.1 Flash 1017 / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4.1 Flash 1017 / Sign-Up / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen3.8 Max / Qwen 4 Max Preview / Qwen3.7 Plus / No Sign-Up / Clear Cookies to Reset Limits / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
-* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lit / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lite / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Meta AI](https://www.meta.ai/) - Muse Spark 1.3 / Muse Glimmer 30B / Meta Sign-Up / Unlimited
 * [Kimi](https://www.kimi.ai/), [2](https://www.kimi.com/) - Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [ChatGPT](https://chatgpt.com/) - GPT-6 Luna / Unlimited / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
@@ -32,8 +32,7 @@
 * [⁠Ai2 Playground](https://playground.allenai.org/) - Olmo 3.1 32B Think / No Sign-Up / Unlimited / [Discord](https://discord.gg/NE5xPufNwu)
 * [⁠Solar](https://solar-chat.upstage.ai/) - Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
 * [⁠Solar Playground](https://console.upstage.ai/playground/chat) - Solar Pro 4 / No Sign-Up / [Discord](https://discord.com/invite/Cge9FYjV4h)
-* [ArceeAI](https://chat.arcee.ai/chat) - Trinity Large Thinking / Unlimited / [Discord](https://discord.com/invite/arceeai)
-* [Sarvam](https://dashboard.sarvam.ai/chat) - Sarvam 105B / Unlimited / Sign-Up
+* [Sarvam](https://dashboard.sarvam.ai/chat) - GLM 5.3 / DeepSeek V4.1 Flash 1017 / Sign-Up
 * [⁠Inception](https://chat.inceptionlabs.ai/) - Mercury 3 / Unlimited
 
 ***
@@ -55,7 +54,7 @@
 
 * 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
 * ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
-* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / 5 Daily / Pro (Google Sign-Up) / Fast (No Sign-Up)
+* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / Fast (No Sign-Up)
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx), [NeverWrite](https://neverwrite.app/) / [GitHub](https://github.com/jsgrrchg/NeverWrite), [ToolBaz](https://toolbaz.com/) or [Rytr](https://rytr.me/) - AI Creative Writing Tools
 * [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
 * [Arena](https://arena.ai/search/direct) - AI Search Engine / Sign-Up / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)

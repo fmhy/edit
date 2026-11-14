@@ -51,7 +51,7 @@
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
-* [⁠HackerTube](https://hackertube.org/) - Educational YouTube Videos
+* [⁠HackerTube](https://hackertube.org/) or [⁠TristanTube](https://karpathy.ai/tristan-tube/) - Educational YouTube Videos
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 
 ***

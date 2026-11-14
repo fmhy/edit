@@ -100,7 +100,7 @@
 
 ***
 
-## ▷ Concerts / Live Shows
+## ▷ Concerts / Live Performances
 
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[Bootleg.fm](https://bootleg.fm/)** - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
@@ -144,6 +144,7 @@
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
+* [⁠The Cat Rave](https://thecatrave.com/selector) - Random DJ Sets / Genre & Channel Filters / YouTube
 
 ***
 
