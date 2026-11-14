@@ -1,6 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { ICON_LINKS } from '../docs/.vitepress/shared.ts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const PROJECT_ROOT = path.resolve(__dirname, '..')
@@ -45,6 +46,49 @@ const INVISIBLE_CHARACTERS = /[\u200B-\u200D\uFEFF\u2060]/g
 const LABEL_REDIRECT_EXCEPTIONS = {
   discord: new Set(['https://trw.lat/ds'])
 }
+const ICON_LABELS = new Map(
+  ICON_LINKS.map((icon) => [icon.label.toLowerCase(), icon.label])
+)
+const LABEL_DOMAIN_CHECKS = new Map([
+  ['subreddit', { domains: ['reddit.com'] }],
+  ['github', { domains: ['github.com', 'github.io'] }],
+  [
+    'discord',
+    {
+      domains: [
+        'discord.com',
+        'discord.gg',
+        'discordapp.com',
+        'discord.me',
+        'discord.li',
+        'dsc.gg',
+        'railgun.works'
+      ]
+    }
+  ],
+  [
+    'telegram',
+    { domains: ['t.me', 'telegram.me', 'telegram.org', 'telegram.dog'] }
+  ],
+  ['twitter', { domains: ['twitter.com', 'x.com', 't.co'] }],
+  ['youtube', { domains: ['youtube.com', 'youtu.be'] }],
+  [
+    'lemmy',
+    { domains: ['lemmy.', 'fediverse.', 'sh.itjust.works', 'join-lemmy.org'] }
+  ],
+  ['instagram', { domains: ['instagram.com'] }],
+  ['facebook', { domains: ['facebook.com'] }],
+  ['bluesky', { domains: ['bsky.app'] }],
+  [
+    'mastodon',
+    { domains: ['mastodon.social', 'joinmastodon.org', 'apps.apple.com'] }
+  ],
+  [
+    'x',
+    { domainLabel: 'X/Twitter', domains: ['twitter.com', 'x.com', 't.co'] }
+  ],
+  ['.onion', { match: (hostname) => hostname.endsWith('.onion') }]
+])
 
 function stripInvisibleCharacters(text) {
   return text.replace(INVISIBLE_CHARACTERS, '')
@@ -750,56 +794,24 @@ files.forEach((file) => {
         )
       }
 
-      const checks = [
-        { key: 'subreddit', domains: ['reddit.com'] },
-        { key: 'github', domains: ['github.com', 'github.io'] },
-        {
-          key: 'discord',
-          domains: [
-            'discord.com',
-            'discord.gg',
-            'discordapp.com',
-            'discord.me',
-            'discord.li',
-            'dsc.gg',
-            'railgun.works'
-          ]
-        },
-        {
-          key: 'telegram',
-          domains: ['t.me', 'telegram.me', 'telegram.org', 'telegram.dog']
-        },
-        { key: 'twitter', domains: ['twitter.com', 'x.com', 't.co'] },
-        { key: 'youtube', domains: ['youtube.com', 'youtu.be'] },
-        {
-          key: 'lemmy',
-          domains: ['lemmy.', 'fediverse.', 'sh.itjust.works', 'join-lemmy.org']
-        },
-        { key: 'instagram', domains: ['instagram.com'] },
-        { key: 'facebook', domains: ['facebook.com'] },
-        { key: 'bluesky', domains: ['bsky.app'] },
-        {
-          key: 'mastodon',
-          domains: ['mastodon.social', 'joinmastodon.org', 'apps.apple.com']
-        }
-      ]
-
       const trimmedLabel = normalizeText(labelText)
 
-      for (const check of checks) {
-        // Exact match check for keywords to avoid flagging descriptive names like "GitHub Dorks"
-        if (trimmedLabel === check.key) {
-          if (
-            !isFmhyInternalReference &&
-            !isKnownLabelRedirect(check.key) &&
-            !check.domains.some(hostnameMatches)
-          ) {
-            addError(
-              `Link label mismatch: Label "${labelText}" points to non-${check.key} domain (${rawUrlText})`,
-              matchText,
-              matchIndex
-            )
-          }
+      // Exact match check for keywords to avoid flagging descriptive names like "GitHub Dorks"
+      const domainCheck = LABEL_DOMAIN_CHECKS.get(trimmedLabel)
+      if (
+        domainCheck &&
+        !isFmhyInternalReference &&
+        !isKnownLabelRedirect(trimmedLabel)
+      ) {
+        const domainMatches = domainCheck.match
+          ? domainCheck.match(hostname)
+          : domainCheck.domains.some(hostnameMatches)
+        if (!domainMatches) {
+          addError(
+            `Link label mismatch: Label "${labelText}" points to non-${domainCheck.domainLabel ?? trimmedLabel} domain (${rawUrlText})`,
+            matchText,
+            matchIndex
+          )
         }
       }
 
@@ -814,19 +826,18 @@ files.forEach((file) => {
         }
       }
 
-      // Special check for "X" label (social media)
-      if (
-        trimmedLabel === 'x' &&
-        !isFmhyInternalReference &&
-        !hostnameMatches('x.com') &&
-        !hostnameMatches('twitter.com') &&
-        !hostnameMatches('t.co')
-      ) {
-        addError(
-          `Link label mismatch: Label "X" points to non-X/Twitter domain (${rawUrlText})`,
-          matchText,
-          matchIndex
-        )
+      // Case-exact check for VitePress icon link labels
+      const expectedIconLabel = ICON_LABELS.get(trimmedLabel)
+      if (expectedIconLabel && labelText !== expectedIconLabel) {
+        const isSecondaryIconLink = /\/\s*$/.test(line.slice(0, matchIndex))
+        // Primary entries like "* ⭐ **[Bluesky](https://bsky.app/)**" intentionally use "Bluesky"
+        if (trimmedLabel !== 'bluesky' || isSecondaryIconLink) {
+          addError(
+            `Icon link label casing mismatch: "${labelText}" (expected "${expectedIconLabel}")`,
+            labelText,
+            matchIndex + 1
+          )
+        }
       }
     }
 

@@ -29,6 +29,31 @@ export const meta = {
   }
 }
 
+interface IconLinkSpec {
+  label: string
+  iconClass: string
+  name?: string
+  tooltip?: string
+  requireSlash?: boolean
+}
+
+export const ICON_LINKS: IconLinkSpec[] = [
+  { label: 'Discord', iconClass: 'i-carbon:logo-discord' },
+  { label: 'GitHub', iconClass: 'i-carbon:logo-github' },
+  { label: 'GitLab', iconClass: 'i-carbon:logo-gitlab', requireSlash: true },
+  { label: 'Source Code', iconClass: 'i-gravity-ui:code' },
+  { label: 'Telegram', iconClass: 'i-mdi:telegram' },
+  { label: 'Subreddit', tooltip: 'Reddit', iconClass: 'i-mdi:reddit' },
+  { label: 'X', iconClass: 'i-carbon:logo-x' },
+  { label: 'Mastodon', iconClass: 'i-mdi:mastodon' },
+  { label: 'BlueSky', iconClass: 'i-carbon:logo-bluesky' },
+  {
+    name: 'Tor',
+    label: '.onion',
+    iconClass: 'i-simple-icons:torbrowser w-1em h-1em'
+  }
+]
+
 export const excluded = [
   'readme.md',
   'single-page',
@@ -139,7 +164,10 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '💾 Backups', link: '/other/backups' },
       { text: '📖 Piracy Glossary', link: 'https://fluffle.cc/piracyglossary' },
       { text: '🕊️ SFW FMHY', link: 'https://fmhy.xyz/' },
-      { text: '🏷️ FMHY Badge', link: 'https://jmcrafter26.github.io/badges/cozy/?search=fmhy' },
+      {
+        text: '🏷️ FMHY Badge',
+        link: 'https://jmcrafter26.github.io/badges/cozy/?search=fmhy'
+      },
       { text: '🎨 Wallpapers', link: '/other/wallpapers' },
       {
         text: '💡 Site Hunting',
