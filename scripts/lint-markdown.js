@@ -297,9 +297,22 @@ files.forEach((file) => {
       currentHeader = line
     }
 
+    const lineNoCode = line.replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
+
     const emptyLinkMatch = line.match(/\[[^\]]*\]\(\s*\)/)
     if (emptyLinkMatch) {
       addError('Empty link destination', emptyLinkMatch[0])
+    }
+
+    for (const m of lineNoCode.matchAll(/\[([^\]]+)\]\(/g)) {
+      const label = m[1]
+      if (/^\s|\s$/.test(label)) {
+        addError(
+          `Broken link syntax (leading or trailing space inside []): "${label}"`,
+          `[${label}]`,
+          m.index
+        )
+      }
     }
 
     const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
@@ -418,10 +431,7 @@ files.forEach((file) => {
 
     // 1. Skip thematic break / horizontal rule lines like ***, ---, or * * *
     if (!/^\s*(?:\*|\-|_){3,}\s*$/.test(line)) {
-      // 2. Strip inline code blocks to prevent false positives inside backticks
-      const lineNoCode = line.replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
-
-      // 3. Count exact occurrences of double asterisks '**'
+      // 2. Count exact occurrences of double asterisks '**' using `lineNoCode`
       const doubleAsteriskMatches = [...lineNoCode.matchAll(/\*\*/g)]
       if (doubleAsteriskMatches.length % 2 !== 0) {
         const lastMatch =
@@ -854,9 +864,9 @@ files.forEach((file) => {
         }
       }
 
-      // Case-exact check for VitePress icon link labels
+      // Case-exact check for VitePress icon link labels (whitespace edges handled separately)
       const expectedIconLabel = ICON_LABELS.get(trimmedLabel)
-      if (expectedIconLabel && labelText !== expectedIconLabel) {
+      if (expectedIconLabel && labelText.trim() !== expectedIconLabel) {
         const isSecondaryIconLink = /\/\s*$/.test(line.slice(0, matchIndex))
         // Primary entries like "* ⭐ **[Bluesky](https://bsky.app/)**" intentionally use "Bluesky"
         if (trimmedLabel !== 'bluesky' || isSecondaryIconLink) {
