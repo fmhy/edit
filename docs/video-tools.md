@@ -298,7 +298,7 @@
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
-* [swizzin](https://swizzin.ltd/) or [⁠YAMS](https://yams.media/) / [Discord](https://discord.com/invite/Gwae3tNMST) - Media Server Install Script / Debain + Ubuntu
+* [swizzin](https://swizzin.ltd/) or [⁠YAMS](https://yams.media/) / [Discord](https://discord.com/invite/Gwae3tNMST) - Media Server Install Script / Debian + Ubuntu
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server

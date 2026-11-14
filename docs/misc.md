@@ -63,7 +63,7 @@
 
 ***
 
-## ▷  Frontend Indexes
+## ▷ Frontend Indexes
 
 * ⭐ **[Disroot](https://disroot.org/en/services)**
 * [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/), [2](https://evilasswebsite.com/)
@@ -610,7 +610,7 @@
 * [⁠Project ’44](https://www.project44.ca/) - World War II Historical Map / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
 * [Project Athena](https://www.projectathena.ca/) - War in Afghanistan Historical Map / [X](https://x.com/TFProjectAthena) / [Discord](https://discord.gg/jMmxWZpUKs)
 * [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
-* [Japanese Occupation of HK](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - Japanese Occupation of Hong Kong Interactive Map
+* [Japanese Occupation of HK](https://digital.lib.hkbu.edu.hk/japanese_occupation_of_hongkong/) - Japanese Occupation of Hong Kong Interactive Map
 * [⁠Maritime Stepping Stones](https://mass.cultureelerfgoed.nl/) or [⁠Wrecksite](https://www.wrecksite.eu/) - Historical Maritime Wreck Maps / Info
 * [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
 * [⁠Map Myths](https://mapmyths.com/) - Historical Map Myths
@@ -1151,7 +1151,7 @@
 # ► Shopping
 
 
-* **Note** - Make sure to install a [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
+* **Note** - Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) when using these sites.
 
 ***
 

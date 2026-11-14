@@ -54,7 +54,7 @@
 * [LessPass](https://lesspass.com/) / Stateless Password Manager / Android, iOS, Web / [GitHub](https://github.com/lesspass/lesspass)
 * [KeeWeb](https://keeweb.info/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/keeweb/keeweb)
 * [Keypass](https://github.com/yogeshpaliyal/KeyPass) / Android
-* [Strongbox](https://strongboxsafe.com/) / macOS, iOS / [GItHub](https://github.com/strongbox-password-safe/strongbox)
+* [Strongbox](https://strongboxsafe.com/) / macOS, iOS / [GitHub](https://github.com/strongbox-password-safe/strongbox)
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager / Linux
 * [gopass](https://www.gopass.pw/) - CLI Password Manager / Linux / [GitHub](https://github.com/gopasspw/gopass)
 
