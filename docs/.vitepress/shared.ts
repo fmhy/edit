@@ -54,6 +54,33 @@ export const ICON_LINKS: IconLinkSpec[] = [
   }
 ]
 
+export const REDDIT_WIKI_PATHS: Record<string, string> = {
+  ai: '/ai',
+  'adblock-vpn-privacy': '/privacy',
+  android: '/mobile',
+  games: '/gaming',
+  reading: '/reading',
+  download: '/downloading',
+  torrent: '/torrenting',
+  edu: '/educational',
+  'system-tools': '/system-tools',
+  'file-tools': '/file-tools',
+  'internet-tools': '/internet-tools',
+  'social-media': '/social-media-tools',
+  'text-tools': '/text-tools',
+  'video-tools': '/video-tools',
+  'audio-tools': '/audio-tools',
+  'game-tools': '/gaming-tools',
+  video: '/video',
+  audio: '/audio',
+  linux: '/linux-macos',
+  'non-eng': '/non-english',
+  misc: '/misc',
+  storage: '/storage',
+  'dev-tools': '/developer-tools',
+  'image-tools': '/image-tools'
+}
+
 export const excluded = [
   'readme.md',
   'single-page',

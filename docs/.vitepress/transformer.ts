@@ -16,7 +16,7 @@
 
 import type { Plugin } from 'vitepress'
 import { basename } from 'node:path'
-import { ICON_LINKS } from './shared'
+import { ICON_LINKS, REDDIT_WIKI_PATHS } from './shared'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
@@ -132,100 +132,13 @@ export function transform(text: string): string {
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
-    // Transform reddit links
-    .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
-      '/privacy'
+  // Transform reddit links
+  for (const [slug, target] of Object.entries(REDDIT_WIKI_PATHS)) {
+    _text = _text.replaceAll(
+      `https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/${slug}`,
+      target
     )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/android/g,
-      '/mobile'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/games/g,
-      '/gaming'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/reading/g,
-      '/reading'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/download/g,
-      '/downloading'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/torrent/g,
-      '/torrenting'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/edu/g,
-      '/educational'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/system-tools/g,
-      '/system-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/file-tools/g,
-      '/file-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/internet-tools/g,
-      '/internet-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/social-media/g,
-      '/social-media-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/text-tools/g,
-      '/text-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video-tools/g,
-      '/video-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio-tools/g,
-      '/audio-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/game-tools/g,
-      '/gaming-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video/g,
-      '/video'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,
-      '/audio'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/linux/g,
-      '/linux-macos'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/non-eng/g,
-      '/non-english'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/misc/g,
-      '/misc'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/storage/g,
-      '/storage'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/dev-tools/g,
-      '/developer-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/image-tools/g,
-      '/image-tools'
-    )
+  }
 
   _text = replaceUnderscore(_text)
     // Prefix numeric heading fragments only inside Markdown destinations.

@@ -1,7 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { ICON_LINKS } from '../docs/.vitepress/shared.ts'
+import { ICON_LINKS, REDDIT_WIKI_PATHS } from '../docs/.vitepress/shared.ts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const PROJECT_ROOT = path.resolve(__dirname, '..')
@@ -90,6 +90,9 @@ const LABEL_DOMAIN_CHECKS = new Map([
   ],
   ['.onion', { match: (hostname) => hostname.endsWith('.onion') }]
 ])
+const FMHY_WIKI_PAGES = new Set(
+  Object.values(REDDIT_WIKI_PATHS).map((p) => p.slice(1))
+)
 const COMMON_TYPOS = new Map([
   ['teh', 'the'],
   ['adn', 'and'],
@@ -433,6 +436,20 @@ files.forEach((file) => {
           fullEmoji,
           matchIdx !== -1 ? matchIdx : 0
         )
+      }
+
+      if (fullEmoji.includes('↪')) {
+        for (const m of lineNoCode.matchAll(
+          /\]\((https?:\/\/(?:www\.)?fmhy\.net\/([a-z0-9-]+)[^)\s]*)\)/gi
+        )) {
+          if (FMHY_WIKI_PAGES.has(m[2].toLowerCase())) {
+            addError(
+              'Redirect entry (↪️) should use the Reddit wiki link instead of fmhy.net',
+              m[1],
+              m.index + 2
+            )
+          }
+        }
       }
     }
 
