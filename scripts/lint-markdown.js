@@ -511,8 +511,24 @@ files.forEach((file) => {
         if (/^\d+$/.test(pureWordBefore) && /^\d+$/.test(pureWordAfter))
           continue
 
-        // --- BLOCK A: Missing space after ("Word /Word") ---
-        if (spaceBefore && !spaceAfter) {
+        // --- BLOCK A: Empty or trailing slash separator ("/ /", "/ ,", or trailing " /") ---
+        if (spaceBefore && spaceAfter) {
+          const restAfterSlash = line
+            .slice(i + 1)
+            .replace(/<!--[\s\S]*?-->/g, '')
+            .trimStart()
+          if (isCatalogEntry && restAfterSlash === '') {
+            addError('Trailing slash at end of line', '/', i)
+          } else if (
+            restAfterSlash.startsWith('/') ||
+            /^[,;]/.test(restAfterSlash)
+          ) {
+            addError('Empty or stray slash separator', '/', i)
+          }
+        }
+
+        // --- BLOCK B: Missing space after ("Word /Word") ---
+        else if (spaceBefore && !spaceAfter) {
           addError(
             `Missing space after slash: "/${wordAfterFull}"`,
             `/${wordAfterFull}`,
