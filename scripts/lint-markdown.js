@@ -43,6 +43,7 @@ const useColor =
   (Boolean(process.env.FORCE_COLOR) || Boolean(process.stdout.isTTY))
 const color = (code, text) => (useColor ? `\x1b[${code}m${text}\x1b[0m` : text)
 const INVISIBLE_CHARACTERS = /[\u200B-\u200D\uFEFF\u2060]/g
+const ENCODED_INVISIBLE_CHARACTERS = /%E2%81%A0|%E2%80%8[B-D]|%EF%BB%BF/i
 const LABEL_REDIRECT_EXCEPTIONS = {
   discord: new Set(['https://trw.lat/ds'])
 }
@@ -234,6 +235,7 @@ files.forEach((file) => {
     }
     if (fenceCharacter) return
 
+    const rawLine = line
     // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
     line = stripInvisibleCharacters(line)
 
@@ -242,6 +244,32 @@ files.forEach((file) => {
     // reporter can underline exactly where the problem is.
     const addError = (message, match, index = -1) =>
       errors.push({ message, match, index })
+
+    const rawLineNoCode = rawLine.replace(/`[^`]+`/g, (m) =>
+      ' '.repeat(m.length)
+    )
+    for (const m of rawLineNoCode.matchAll(/\]\(([^)\r\n]+)\)/g)) {
+      const rawTarget = m[1]
+      const cleanTarget = stripInvisibleCharacters(rawTarget)
+      const targetIndex = stripInvisibleCharacters(
+        rawLine.slice(0, m.index + 2)
+      ).length
+      if (rawTarget !== cleanTarget) {
+        addError(
+          'Invisible character inside link destination',
+          cleanTarget || null,
+          cleanTarget ? targetIndex : -1
+        )
+      }
+      const encodedMatch = cleanTarget.match(ENCODED_INVISIBLE_CHARACTERS)
+      if (encodedMatch) {
+        addError(
+          `Percent-encoded invisible character (${encodedMatch[0]}) inside link destination`,
+          encodedMatch[0],
+          targetIndex + encodedMatch.index
+        )
+      }
+    }
 
     const isCatalogEntry =
       /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️|🌟)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(line)
