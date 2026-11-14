@@ -331,6 +331,17 @@ files.forEach((file) => {
       )
     }
 
+    for (const m of lineNoCode.matchAll(
+      /\]\((https?:\/\/[^)\s]*,)\)|<(https?:\/\/[^>\s]*,)>/g
+    )) {
+      const url = m[1] || m[2]
+      addError(
+        'Broken link syntax (trailing comma inside URL)',
+        url,
+        m.index + (m[1] ? 2 : 1)
+      )
+    }
+
     const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
     let localLinkMatch
     while ((localLinkMatch = localLinkRegex.exec(line)) !== null) {
