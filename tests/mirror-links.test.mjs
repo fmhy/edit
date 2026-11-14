@@ -1,19 +1,66 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
+import * as nodeModule from 'node:module'
+import path from 'node:path'
+import process from 'node:process'
 import { after, test } from 'node:test'
+import { fileURLToPath, pathToFileURL } from 'node:url'
 import {
   createMarkdownRenderer,
   disposeMdItInstance,
   resolveConfig
 } from 'vitepress'
 
-const config = await resolveConfig('docs')
-const md = await createMarkdownRenderer(
-  config.srcDir,
-  config.markdown,
-  config.site.base
-)
+const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 const base = process.env.GITHUB_ACTIONS ? '/edit' : ''
+
+async function createRenderer() {
+  // Fast path: load only the markdown plugins instead of resolving the full
+  // Vite/UnoCSS/PWA config (~330ms vs ~1.9s). Falls back on older Node 22.x.
+  if (typeof nodeModule.registerHooks === 'function') {
+    nodeModule.registerHooks({
+      resolve(specifier, context, nextResolve) {
+        if (
+          (specifier.startsWith('./') || specifier.startsWith('../')) &&
+          context.parentURL?.startsWith('file://') &&
+          !context.parentURL.includes('/node_modules/')
+        ) {
+          const parentDir = path.dirname(fileURLToPath(context.parentURL))
+          const candidate = path.resolve(parentDir, `${specifier}.ts`)
+          if (existsSync(candidate)) {
+            return { shortCircuit: true, url: pathToFileURL(candidate).href }
+          }
+        }
+        return nextResolve(specifier, context)
+      }
+    })
+
+    const [{ localLinksPlugin }, { replaceNoteLink }] = await Promise.all([
+      import('../docs/.vitepress/markdown/localLinks.ts'),
+      import('../docs/.vitepress/utils/markdown.ts')
+    ])
+
+    return createMarkdownRenderer(
+      'docs',
+      {
+        config(md) {
+          md.use(localLinksPlugin, baseUrl)
+          replaceNoteLink(md)
+        }
+      },
+      baseUrl
+    )
+  }
+
+  const config = await resolveConfig('docs')
+  return createMarkdownRenderer(
+    config.srcDir,
+    config.markdown,
+    config.site.base
+  )
+}
+
+const md = await createRenderer()
 const render = (source) => md.render(source, { cleanUrls: true })
 
 after(() => disposeMdItInstance())
@@ -111,8 +158,19 @@ test('monthly update posts use the same link handling as wiki pages', () => {
 })
 
 test('links inside note tooltips stay on the mirror too', () => {
-  const html = render('[Note](.vitepress/notes/dodi-warning.md)')
-  assert.ok(html.includes('<Tooltip'))
-  assert.ok(html.includes(`href="${base}/privacy#adblocking"`), html)
-  assert.doesNotMatch(html, /href="https?:\/\/fmhy\.net(?:[/?#"])/i)
+  const criticalHtml = render('[Note](.vitepress/notes/dodi-critical.md)')
+  assert.ok(criticalHtml.includes('<CriticalBadge'), criticalHtml)
+  assert.ok(
+    criticalHtml.includes(`href="${base}/privacy#adblocking"`),
+    criticalHtml
+  )
+  assert.doesNotMatch(criticalHtml, /href="https?:\/\/fmhy\.net(?:[/?#"])/i)
+
+  const tooltipHtml = render('[Note](.vitepress/notes/soft98-note.md)')
+  assert.ok(tooltipHtml.includes('<Tooltip'), tooltipHtml)
+  assert.ok(
+    tooltipHtml.includes(`href="${base}/internet-tools#userscripts"`),
+    tooltipHtml
+  )
+  assert.doesNotMatch(tooltipHtml, /href="https?:\/\/fmhy\.net(?:[/?#"])/i)
 })

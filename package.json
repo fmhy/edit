@@ -20,7 +20,8 @@
     "format:check": "prettier --cache --check .",
     "lint": "eslint --cache .",
     "lint:md": "node scripts/lint-markdown.js || true",
-    "prepare": "simple-git-hooks"
+    "prepare": "simple-git-hooks",
+    "test": "node --test"
   },
   "simple-git-hooks": {
     "pre-commit": "sh scripts/pre-commit.sh"
