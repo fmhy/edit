@@ -155,6 +155,92 @@ function stripInvisibleCharacters(text) {
   return text.replace(INVISIBLE_CHARACTERS, '')
 }
 
+function maskInlineCode(text, fillChar = ' ') {
+  let out = ''
+  let i = 0
+  while (i < text.length) {
+    if (text[i] !== '`') {
+      out += text[i++]
+      continue
+    }
+    let ticks = 0
+    while (i + ticks < text.length && text[i + ticks] === '`') ticks++
+    let close = i + ticks
+    let matched = false
+    while (close < text.length) {
+      if (text[close] === '`') {
+        let closeTicks = 0
+        while (
+          close + closeTicks < text.length &&
+          text[close + closeTicks] === '`'
+        ) {
+          closeTicks++
+        }
+        if (closeTicks === ticks) {
+          const spanEnd = close + closeTicks
+          out += fillChar.repeat(spanEnd - i)
+          i = spanEnd
+          matched = true
+          break
+        }
+        close += closeTicks
+      } else {
+        close++
+      }
+    }
+    if (!matched) {
+      out += text.slice(i, i + ticks)
+      i += ticks
+    }
+  }
+  return out
+}
+
+function getSkippedLineIndices(lines) {
+  const skipped = new Set()
+  let inFrontmatter = false
+  let activeFence = null
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    if (i === 0 && line.trim() === '---') {
+      inFrontmatter = true
+      skipped.add(i)
+      continue
+    }
+    if (inFrontmatter) {
+      skipped.add(i)
+      if (line.trim() === '---') inFrontmatter = false
+      continue
+    }
+
+    const fenceMatch = line.match(/^\s*(`{3,}|~{3,})(.*)$/)
+    if (fenceMatch) {
+      const markerCharacter = fenceMatch[1][0]
+      const markerLength = fenceMatch[1].length
+      const infoRest = fenceMatch[2]
+      if (!activeFence) {
+        if (markerCharacter !== '`' || !infoRest.includes('`')) {
+          activeFence = { char: markerCharacter, len: markerLength }
+          skipped.add(i)
+          continue
+        }
+      } else if (
+        activeFence.char === markerCharacter &&
+        markerLength >= activeFence.len &&
+        infoRest.trim() === ''
+      ) {
+        activeFence = null
+        skipped.add(i)
+        continue
+      }
+    }
+    if (activeFence) skipped.add(i)
+  }
+
+  return skipped
+}
+
 function normalizeText(text) {
   return stripInvisibleCharacters(text).trim().toLowerCase()
 }
@@ -236,7 +322,8 @@ files.forEach((file) => {
   if (!stat.isFile()) return
 
   const content = fs.readFileSync(file, 'utf-8')
-  const lines = content.split('\n')
+  const lines = content.split(/\r?\n/)
+  const skippedLines = getSkippedLineIndices(lines)
   const relativePath = path.relative(PROJECT_ROOT, file)
   const normalizedPath = relativePath.replace(/\\/g, '/')
 
@@ -268,8 +355,6 @@ files.forEach((file) => {
     FILES_TO_IGNORE_ENGLISH_CHECKS.includes(normalizedPath)
 
   let currentHeader = ''
-  let fenceCharacter = ''
-  let inFrontmatter = false
   const headingStack = []
   const seenHeadings = new Map()
   const primaryUrlsBySection = new Map()
@@ -278,23 +363,7 @@ files.forEach((file) => {
 
   lines.forEach((line, index) => {
     const lineNum = index + 1
-    if (index === 0 && line.trim() === '---') {
-      inFrontmatter = true
-      return
-    }
-    if (inFrontmatter) {
-      if (line.trim() === '---') inFrontmatter = false
-      return
-    }
-
-    const fenceMatch = line.match(/^\s*(`{3,}|~{3,})/)
-    if (fenceMatch) {
-      const markerCharacter = fenceMatch[1][0]
-      if (!fenceCharacter) fenceCharacter = markerCharacter
-      else if (fenceCharacter === markerCharacter) fenceCharacter = ''
-      return
-    }
-    if (fenceCharacter) return
+    if (skippedLines.has(index)) return
 
     const rawLine = line
     // Strip zero-width and invisible joiner characters to avoid false positives in spacing checks
@@ -306,9 +375,7 @@ files.forEach((file) => {
     const addError = (message, match, index = -1) =>
       errors.push({ message, match, index })
 
-    const rawLineNoCode = rawLine.replace(/`[^`]+`/g, (m) =>
-      ' '.repeat(m.length)
-    )
+    const rawLineNoCode = maskInlineCode(rawLine)
     for (const m of rawLineNoCode.matchAll(/\]\(([^)\r\n]+)\)/g)) {
       const rawTarget = m[1]
       const cleanTarget = stripInvisibleCharacters(rawTarget)
@@ -333,7 +400,9 @@ files.forEach((file) => {
     }
 
     const isCatalogEntry =
-      /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️|🌟)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(line)
+      /^\s*[*+-]\s+(?:(?:⭐|🌐|↪\uFE0F?|🌟)\s+)?(?:\*\*)?\[[^\]]+\]\(/u.test(
+        line
+      )
 
     const headingMatch = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/)
     if (headingMatch) {
@@ -358,9 +427,9 @@ files.forEach((file) => {
       currentHeader = line
     }
 
-    const lineNoCode = line.replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
+    const lineNoCode = maskInlineCode(line)
 
-    const emptyLinkMatch = line.match(/\[[^\]]*\]\(\s*\)/)
+    const emptyLinkMatch = lineNoCode.match(/\[[^\]]*\]\(\s*\)/)
     if (emptyLinkMatch) {
       addError('Empty link destination', emptyLinkMatch[0])
     }
@@ -405,7 +474,7 @@ files.forEach((file) => {
 
     const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
     let localLinkMatch
-    while ((localLinkMatch = localLinkRegex.exec(line)) !== null) {
+    while ((localLinkMatch = localLinkRegex.exec(lineNoCode)) !== null) {
       const target = localLinkMatch[1]
       if (!localTargetExists(file, target)) {
         addError(`Local link or asset target does not exist: ${target}`, target)
@@ -506,10 +575,10 @@ files.forEach((file) => {
     // specific pattern: ](url))
     // This is often valid if inside parenthesis: (See [Link](url))
     // We only flag if parentheses are UNBALANCED in the line.
-    const doubleParenMatch = line.matchAll(/\]\(([^)]+?)\)\)/g)
+    const doubleParenMatch = lineNoCode.matchAll(/\]\(([^)]+?)\)\)/g)
     for (const m of doubleParenMatch) {
-      const openParens = (line.match(/\(/g) || []).length
-      const closeParens = (line.match(/\)/g) || []).length
+      const openParens = (lineNoCode.match(/\(/g) || []).length
+      const closeParens = (lineNoCode.match(/\)/g) || []).length
       if (closeParens > openParens) {
         addError(
           'Double closing parenthesis in link (Unbalanced)',
@@ -523,18 +592,17 @@ files.forEach((file) => {
     // Check 6: Double spaces & Comma spacing
     // ---------------------------------------------------------------------
 
+    const lineNoCodeOrUrl = maskInlineCode(line, '\u0001')
+      .replace(/<!--[\s\S]*?-->/g, (m) => '\u0001'.repeat(m.length))
+      .replace(/https?:\/\/[^\s)>]+/g, (m) => '\u0001'.repeat(m.length))
+
     // We want to avoid double spaces in the text, but ignore leading indentation.
     // We trim start of line to ignore indentation, then check for "  ".
     const leadSpaceLength = line.length - line.trimStart().length
-    const doubleSpaceMatch = line.trimStart().matchAll(/ {2,}/g)
+    const doubleSpaceMatch = lineNoCodeOrUrl.trimStart().matchAll(/ {2,}/g)
     for (const m of doubleSpaceMatch) {
       addError('Double space detected', m[0], leadSpaceLength + m.index)
     }
-
-    const lineNoCodeOrUrl = line
-      .replace(/<!--[\s\S]*?-->/g, (m) => '\u0001'.repeat(m.length))
-      .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
-      .replace(/https?:\/\/[^\s)>]+/g, (m) => '\u0001'.repeat(m.length))
 
     for (const m of lineNoCodeOrUrl.matchAll(/(?<=\S)[ \t]+,/g)) {
       addError('Space before comma detected', m[0], m.index)
@@ -560,18 +628,19 @@ files.forEach((file) => {
           '**',
           lastMatch.index
         )
-      }
-
-      // 4. Check for leading/trailing space inside bold tags: ** text** or **text **
-      const boldMatches = lineNoCode.matchAll(/\*\*([^*]+)\*\*/g)
-      for (const m of boldMatches) {
-        const text = m[1]
-        if (text.length > 0 && (/^\s/.test(text) || /\s$/.test(text))) {
-          addError(
-            'Broken bold syntax (leading or trailing space inside **)',
-            m[0],
-            m.index
-          )
+      } else {
+        // 4. Pair matched ** delimiters sequentially so literal '*' inside bold text doesn't shift pairs
+        for (let bi = 0; bi < doubleAsteriskMatches.length; bi += 2) {
+          const openIdx = doubleAsteriskMatches[bi].index
+          const closeIdx = doubleAsteriskMatches[bi + 1].index
+          const inner = lineNoCode.slice(openIdx + 2, closeIdx)
+          if (inner.length > 0 && (/^\s/.test(inner) || /\s$/.test(inner))) {
+            addError(
+              'Broken bold syntax (leading or trailing space inside **)',
+              lineNoCode.slice(openIdx, closeIdx + 2),
+              openIdx
+            )
+          }
         }
       }
     }
@@ -580,9 +649,8 @@ files.forEach((file) => {
     // Check 8: Asymmetric spaces around slash & Compound words
     // ---------------------------------------------------------------------
 
-    const lineForChecks = line
+    const lineForChecks = maskInlineCode(line)
       .replace(/<!--[\s\S]*?-->/g, (m) => ' '.repeat(m.length))
-      .replace(/`[^`]+`/g, (m) => ' '.repeat(m.length))
       .replace(/https?:\/\/[^\s)\]]+/g, (m) => ' '.repeat(m.length))
 
     if (!/^\s*link:/i.test(line)) {
@@ -686,7 +754,7 @@ files.forEach((file) => {
 
     if (isCatalogEntry) {
       for (const m of lineForChecks.matchAll(
-        /(?<=\S)(\s+)(-(?:[A-Za-z]|\d+[A-Za-z]|[^\s-\d])\S*)/g
+        /(?<=\S)(\s+)(-(?:[A-Za-z]|\d+[A-Za-z]|[^\s-\d>])\S*)/g
       )) {
         addError(
           `Missing space after dash: "${m[2]}"`,
@@ -702,7 +770,7 @@ files.forEach((file) => {
 
     if (isCatalogEntry) {
       const primaryLinkMatch = line.match(
-        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️|🌟)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
+        /^\s*[*+-]\s+(?:(?:⭐|🌐|↪\uFE0F?|🌟)\s+)?(?:\*\*)?\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/u
       )
 
       if (primaryLinkMatch) {
@@ -850,11 +918,11 @@ files.forEach((file) => {
         'i'
       )
 
-      while ((match = linkRegex.exec(line)) !== null) {
+      while ((match = linkRegex.exec(lineNoCode)) !== null) {
         const index = match.index
         if (index === 0) continue
 
-        const preceding = line.slice(0, index)
+        const preceding = lineNoCode.slice(0, index)
 
         // Ignore start-of-line markers, star badges, or bold/italic prefixes
         if (/^\s*([*+-]|\d+\.)\s*$/.test(preceding)) continue
@@ -896,36 +964,45 @@ files.forEach((file) => {
       normalizedFilePath.endsWith(path.normalize('docs/developer-tools.md')) &&
       currentHeader.includes('Static Page Hosting')
 
-    if (line.includes('/') && !isTempMailSection && !isStaticHostingSection) {
+    const lineForDesc = maskInlineCode(line, '\u0001')
+
+    if (
+      lineForDesc.includes('/') &&
+      !isTempMailSection &&
+      !isStaticHostingSection
+    ) {
       // Find where description text starts (after ") - ")
-      const dashMatch = line.match(/\)\s*-\s+/)
+      const dashMatch = lineForDesc.match(/\)\s*-\s+/)
 
       if (dashMatch) {
         const descStartIndex = dashMatch.index + dashMatch[0].length
-        const descriptionText = line.slice(descStartIndex)
+        const descMasked = lineForDesc.slice(descStartIndex)
+        const sepMatches = [...descMasked.matchAll(/\s+\/\s+/g)]
 
-        // Split by spaced slashes " / "
-        const parts = descriptionText.split(/\s+\/\s+/)
-
-        if (parts.length >= 2) {
+        if (sepMatches.length >= 1) {
           const seenDescriptions = new Map()
-          let currentOffsetInLine = descStartIndex
+          let partStart = 0
 
-          parts.forEach((part) => {
-            const leadingMatch = part.match(/^[\s\-\*⭐]*/)
+          for (let k = 0; k <= sepMatches.length; k++) {
+            const partEnd =
+              k < sepMatches.length ? sepMatches[k].index : descMasked.length
+            const rawPart = line.slice(
+              descStartIndex + partStart,
+              descStartIndex + partEnd
+            )
+            const leadingMatch = rawPart.match(/^[\s\-\*⭐]*/)
             const leadingLength = leadingMatch ? leadingMatch[0].length : 0
 
-            const desc = part
+            const desc = rawPart
               .trim()
               .replace(/^[\s\-\*⭐]+/, '')
               .replace(/[\s\-\*⭐]+$/, '')
 
             if (desc) {
-              const exactDescIndex = currentOffsetInLine + leadingLength
+              const exactDescIndex = descStartIndex + partStart + leadingLength
               const checkDesc = desc.toLowerCase()
 
               if (seenDescriptions.has(checkDesc)) {
-                // Pass exactDescIndex as the 3rd argument (index)
                 addError(
                   `Duplicate description detected: "${desc}"`,
                   desc,
@@ -936,9 +1013,10 @@ files.forEach((file) => {
               }
             }
 
-            // Move cursor past this part + the 3 chars of " / "
-            currentOffsetInLine += part.length + 3
-          })
+            if (k < sepMatches.length) {
+              partStart = partEnd + sepMatches[k][0].length
+            }
+          }
         }
       }
     }
@@ -951,7 +1029,7 @@ files.forEach((file) => {
     const linkMatchRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g
     let lm
 
-    while ((lm = linkMatchRegex.exec(line)) !== null) {
+    while ((lm = linkMatchRegex.exec(lineNoCode)) !== null) {
       const matchText = lm[0] // Full text e.g. "[Discord](https://example.com)"
       const labelText = lm[1] // Inside brackets e.g. "Discord"
       const rawUrlText = lm[2] // Inside parens e.g. "https://example.com"
@@ -1053,10 +1131,14 @@ files.forEach((file) => {
     if (!isSeparatedEnglishCheck) {
       // Mask inline code, URLs, and links with a non-whitespace sentinel so
       // word/article checks keep 1:1 indices without bridging across stripped spans.
-      const lineCleaned = line
-        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
-        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
-        .replace(/\[[^\]]+\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
+      const lineNoCodeAndUrl = maskInlineCode(line, '\u0001').replace(
+        /https?:\/\/[^\s)]+/g,
+        (m) => '\u0001'.repeat(m.length)
+      )
+      const lineCleaned = lineNoCodeAndUrl.replace(
+        /\[[^\]]+\]\([^)]*\)/g,
+        (m) => '\u0001'.repeat(m.length)
+      )
 
       // ---------------------------------------------------------------------
       // Check 13: Repeated Words (e.g., "the the", "and and")
@@ -1093,9 +1175,7 @@ files.forEach((file) => {
 
       // Unwrap [label](url) and emphasis markers 1:1 so linked words (e.g., "a [adblocker](...)")
       // are checked without exposing link labels to Checks 13 & 14.
-      const lineForArticleCheck = line
-        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
-        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
+      const lineForArticleCheck = lineNoCodeAndUrl
         .replace(/!\[[^\]]*\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
         .replace(
           /\[([^\]]+)\]\([^)]*\)/g,
@@ -1171,12 +1251,20 @@ files.forEach((file) => {
         /^\s*[*+-]\s+(?:(?:⭐|🌐|↪️?|🌟)\s+)?(?:\*\*)?\[[^\]]+\]/u.test(str)
 
       let start = index
-      while (start > 0 && isCatalogLine(lines[start - 1])) {
+      while (
+        start > 0 &&
+        !skippedLines.has(start - 1) &&
+        isCatalogLine(stripInvisibleCharacters(lines[start - 1]))
+      ) {
         start--
       }
 
       let end = index
-      while (end < lines.length - 1 && isCatalogLine(lines[end + 1])) {
+      while (
+        end < lines.length - 1 &&
+        !skippedLines.has(end + 1) &&
+        isCatalogLine(stripInvisibleCharacters(lines[end + 1]))
+      ) {
         end++
       }
 
@@ -1233,7 +1321,7 @@ files.forEach((file) => {
             : line.trim().slice(0, 20)
           const matchIndex = titleMatch
             ? line.indexOf(titleMatch[0])
-            : line.indexOf('*')
+            : Math.max(0, line.search(/[*+-]/))
 
           addError(
             `Hierarchy violation, Wrong or missing featured emoji: Tier ${currentTier} entry is out of sequence in this block`,
