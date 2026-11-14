@@ -592,6 +592,18 @@ files.forEach((file) => {
       }
     }
 
+    if (isCatalogEntry) {
+      for (const m of lineForChecks.matchAll(
+        /(?<=\S)(\s+)(-(?:[A-Za-z]|\d+[A-Za-z]|[^\s-\d])\S*)/g
+      )) {
+        addError(
+          `Missing space after dash: "${m[2]}"`,
+          m[2],
+          m.index + m[1].length
+        )
+      }
+    }
+
     // ---------------------------------------------------------------------
     // Check 9: Duplicate primary resource URLs in the same section
     // ---------------------------------------------------------------------
