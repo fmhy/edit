@@ -2,6 +2,13 @@ import type { MarkdownRenderer } from 'vitepress'
 
 const FMHY_ORIGIN_RE = /^(?:https?:)?\/\/fmhy\.net(?=\/|[?#]|$)/i
 
+// Specific fmhy.net links on website-only pages that intentionally point to
+// the main fmhy.net domain rather than staying on the active mirror.
+const EXCLUDED_PATHS_BY_FILE: Record<string, Set<string>> = {
+  'other/backups.md': new Set(['/', '/other/backups']),
+  'posts/search.md': new Set(['/posts/search'])
+}
+
 export function localLinksPlugin(md: MarkdownRenderer, base: string) {
   const defaultRender = md.renderer.rules.link_open!
 
@@ -15,6 +22,16 @@ export function localLinksPlugin(md: MarkdownRenderer, base: string) {
     const path = href.replace(FMHY_ORIGIN_RE, '')
     // A leading // would become an external, protocol-relative URL on a mirror.
     if (path.startsWith('//')) {
+      return defaultRender(tokens, idx, options, env, self)
+    }
+
+    const relativePath =
+      typeof env?.relativePath === 'string'
+        ? env.relativePath.replace(/\\/g, '/')
+        : ''
+    const normalizedPath =
+      (path.split(/[?#]/)[0] || '/').replace(/\/+$/, '') || '/'
+    if (EXCLUDED_PATHS_BY_FILE[relativePath]?.has(normalizedPath)) {
       return defaultRender(tokens, idx, options, env, self)
     }
 

@@ -17,9 +17,9 @@ Search engine hosted on Streamlit
 
 ---
 
-### [FMHY.net Search](https://fmhy.net/)
+### [Website Search](https://fmhy.net/)
 
-Search engine hosted on FMHY.net
+Built-in search on **fmhy.net** and its mirrors.
 
 ---
 

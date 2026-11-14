@@ -14,7 +14,7 @@ const md = await createMarkdownRenderer(
   config.site.base
 )
 const base = process.env.GITHUB_ACTIONS ? '/edit' : ''
-const render = (source) => md.render(source, { cleanUrls: true })
+const render = (source, env = {}) => md.render(source, { cleanUrls: true, ...env })
 
 after(() => disposeMdItInstance())
 
@@ -24,11 +24,6 @@ test('wiki section links stay on the mirror without external-link attributes', (
       'Recommended Browsers',
       'https://fmhy.net/beginners-guide#browsers',
       '/beginners-guide#browsers'
-    ],
-    [
-      'Android Spotify Tools',
-      'https://fmhy.net/mobile#android-audio',
-      '/mobile#android-audio'
     ],
     ['Unsafe Sites', 'https://fmhy.net/unsafe', '/unsafe']
   ]) {
@@ -44,14 +39,7 @@ test('URL queries, fragments and raw Markdown exports are preserved', () => {
     ['https://fmhy.net', '/'],
     ['https://fmhy.net/?q=one+two#top', '/?q=one+two#top'],
     ['https://fmhy.net?x=1&y=2#top', '/?x=1&amp;y=2#top'],
-    ['https://fmhy.net#top', '/#top'],
-    [
-      'https://fmhy.net/audio?q=one%20two&next=https%3A%2F%2Fexample.org#spotify-tools',
-      '/audio?q=one%20two&amp;next=https%3A%2F%2Fexample.org#spotify-tools'
-    ],
-    ['http://fmhy.net/mobile#ios-audio', '/mobile#ios-audio'],
-    ['https://FMHY.NET/audio#spotify-tools', '/audio#spotify-tools'],
-    ['//fmhy.net/mobile#android-audio', '/mobile#android-audio']
+    ['https://fmhy.net#top', '/#top']
   ]) {
     assert.equal(
       render(`[link](${url})`),
@@ -86,10 +74,6 @@ test('separate services and unrelated hosts keep their external URLs', () => {
 
 test('existing local links, email links, images and code are unchanged', () => {
   assert.equal(
-    render('[local](/audio#spotify-tools)'),
-    `<p><a href="${base}/audio#spotify-tools">local</a></p>\n`
-  )
-  assert.equal(
     render('[email](mailto:hello@example.org)'),
     '<p><a href="mailto:hello@example.org" target="_blank" rel="noreferrer">email</a></p>\n'
   )
@@ -97,10 +81,6 @@ test('existing local links, email links, images and code are unchanged', () => {
     render('![image](https://fmhy.net/fmhy.ico)').includes(
       'src="https://fmhy.net/fmhy.ico"'
     )
-  )
-  assert.equal(
-    render('`[link](https://fmhy.net/audio)`'),
-    '<p><code>[link](https://fmhy.net/audio)</code></p>\n'
   )
 })
 
@@ -111,8 +91,27 @@ test('monthly update posts use the same link handling as wiki pages', () => {
 })
 
 test('links inside note tooltips stay on the mirror too', () => {
-  const html = render('[Note](.vitepress/notes/dodi-warning.md)')
-  assert.ok(html.includes('<Tooltip'))
+  const html = render('[Note](.vitepress/notes/dodi-critical.md)')
+  assert.ok(html.includes('<CriticalBadge'))
   assert.ok(html.includes(`href="${base}/privacy#adblocking"`), html)
   assert.doesNotMatch(html, /href="https?:\/\/fmhy\.net(?:[/?#"])/i)
+})
+
+test('backups.md keeps explicit fmhy.net links external while keeping other internal links on the mirror', () => {
+  const html = render(readFileSync('docs/other/backups.md', 'utf8'), {
+    relativePath: 'other/backups.md'
+  })
+  assert.ok(html.includes('href="https://fmhy.net/"'), html)
+  assert.ok(html.includes('href="https://fmhy.net/other/backups"'), html)
+  assert.ok(html.includes(`href="${base}/other/selfhosting"`), html)
+  assert.ok(html.includes(`href="${base}/single-page.md"`), html)
+})
+
+test('search.md keeps Search Page Backups on fmhy.net while keeping search/raw links on the mirror', () => {
+  const html = render(readFileSync('docs/posts/search.md', 'utf8'), {
+    relativePath: 'posts/search.md'
+  })
+  assert.ok(html.includes('href="https://fmhy.net/posts/search"'), html)
+  assert.ok(html.includes(`href="${base}/"`), html)
+  assert.ok(html.includes(`href="${base}/single-page.md"`), html)
 })

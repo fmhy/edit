@@ -44,6 +44,6 @@ Official mirrors and alternative ways to view FMHY.
 
 ***
 
-**Backup Page Backups**
+**Backups of this Page**
 
 [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
