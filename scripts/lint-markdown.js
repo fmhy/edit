@@ -315,6 +315,22 @@ files.forEach((file) => {
       }
     }
 
+    for (const m of lineNoCode.matchAll(/\[[^\]]+\]\s*(https?:\/\/[^\s)]+)/g)) {
+      addError(
+        'Broken link syntax (missing parentheses around URL)',
+        m[0],
+        m.index
+      )
+    }
+
+    for (const m of lineNoCode.matchAll(/\[(https?:\/\/[^\]\s]+)\](?!\()/g)) {
+      addError(
+        'Broken link syntax (bare URL in brackets without link destination)',
+        m[0],
+        m.index
+      )
+    }
+
     const localLinkRegex = /!?\[[^\]]*\]\(([^)]+)\)/g
     let localLinkMatch
     while ((localLinkMatch = localLinkRegex.exec(line)) !== null) {
