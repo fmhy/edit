@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
-import { computed, onUnmounted, reactive, ref } from 'vue'
+import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 import {
   getRateLimitCooldown,
@@ -186,6 +186,42 @@ const feedback = reactive<{
   selectedLineHtml: undefined
 })
 
+const CONTACT_STORAGE_KEY = 'fmhy-feedback-contact'
+
+/**
+ * Restore the contributor's own contact detail from their own browser only.
+ * Nothing here is sent anywhere new; a failure is always swallowed so the
+ * widget keeps working (private mode, embedded contexts, SSR).
+ */
+function rememberContact(value: string) {
+  try {
+    if (typeof localStorage === 'undefined') return
+    if (value) {
+      localStorage.setItem(CONTACT_STORAGE_KEY, value)
+    } else {
+      localStorage.removeItem(CONTACT_STORAGE_KEY)
+    }
+  } catch {
+    // Storage is best effort and never blocks feedback.
+  }
+}
+
+function restoreContact() {
+  try {
+    if (typeof localStorage === 'undefined') return
+    const saved = localStorage.getItem(CONTACT_STORAGE_KEY)
+    if (typeof saved === 'string' && saved.trim().length > 0) {
+      feedback.contact = saved
+    }
+  } catch {
+    // Storage is best effort and never blocks feedback.
+  }
+}
+
+onMounted(() => {
+  restoreContact()
+})
+
 const selectedOption = ref(feedbackOptions[0])
 
 function selectType(type: FeedbackType['type']) {
@@ -232,6 +268,7 @@ async function handleSubmit() {
       return
     }
     if (data.status === 'ok') {
+      rememberContact(feedback.contact?.trim() ?? '')
       success.value = true
     }
   } catch (err) {
