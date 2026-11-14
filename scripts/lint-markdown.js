@@ -269,6 +269,7 @@ files.forEach((file) => {
   const headingStack = []
   const seenHeadings = new Map()
   const primaryUrlsBySection = new Map()
+  const sectionUrlLines = new Map()
   const hierarchyCache = new Map()
 
   lines.forEach((line, index) => {
@@ -680,16 +681,36 @@ files.forEach((file) => {
         const sectionPath = headingStack.filter(Boolean).join(' > ')
         const duplicateKey = `${sectionPath}\u0000${normalizedName}\u0000${normalizedUrl}`
         const firstLine = primaryUrlsBySection.get(duplicateKey)
+        const urlStartIndex = line.indexOf(primaryUrl, primaryLinkMatch.index)
+        const reportIndex =
+          urlStartIndex !== -1 ? urlStartIndex : primaryLinkMatch.index
 
         if (firstLine) {
-          const urlStartIndex = line.indexOf(primaryUrl, primaryLinkMatch.index)
           addError(
             `Duplicate primary resource URL in the same section (first seen on line ${firstLine})`,
             primaryUrl,
-            urlStartIndex !== -1 ? urlStartIndex : primaryLinkMatch.index
+            reportIndex
           )
         } else {
           primaryUrlsBySection.set(duplicateKey, lineNum)
+          const isExemptSharedUrl =
+            /^\s*[*+-]\s+🌐/u.test(line) ||
+            /^https?:\/\/(?:www\.)?fmhy\.net(?:\/|$)/i.test(normalizedUrl) ||
+            /reddit\.com\/r\/freemediaheckyeah\/wiki\//i.test(normalizedUrl) ||
+            normalizedUrl === 'https://github.com/crimera/piko'
+          if (!isExemptSharedUrl) {
+            const urlOnlyKey = `${sectionPath}\u0000${normalizedUrl}`
+            const urlFirstLine = sectionUrlLines.get(urlOnlyKey)
+            if (urlFirstLine) {
+              addError(
+                `Duplicate primary resource URL in the same section under different name (first seen on line ${urlFirstLine})`,
+                primaryUrl,
+                reportIndex
+              )
+            } else {
+              sectionUrlLines.set(urlOnlyKey, lineNum)
+            }
+          }
         }
       }
     }
