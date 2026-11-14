@@ -1,0 +1,90 @@
+name: PR checks
+# PR activity only. No `paths:` filter on purpose: it would leave a required
+# status pending on markdown-only PRs, so the gate job below decides for us.
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pr-checks-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  changes:
+    name: Changed files
+    runs-on: ubuntu-latest
+    outputs:
+      code: ${{ steps.decide.outputs.code }}
+    steps:
+      - uses: actions/checkout@v6
+        with: { fetch-depth: 0 }
+      - id: decide
+        name: Does this PR touch code?
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          ref="${{ github.event.pull_request.base.ref }}"; ref="${ref:-main}"
+          git cat-file -e "${base}^{commit}" 2>/dev/null ||
+            { git fetch --no-tags origin "$ref"; base="origin/${ref}"; }
+          files=$(git diff --name-only "${base}...HEAD")
+          echo "Changed against ${base}:"; echo "$files"
+          # markdown/assets never count, so a deleted page stays false
+          code=false
+          while IFS= read -r f; do
+            case "${f:-x}" in
+              *.md|*.png|*.jpg|*.jpeg|*.gif|*.svg|*.webp|*.ico|*.woff*) ;;
+              docs/.vitepress/*|api/*|scripts/*|.github/workflows/*|\
+              package.json|pnpm-lock.yaml|wrangler.toml|nitro.config.ts) code=true ;;
+              *.ts|*.js|*.mjs|*.vue|*.scss|*.css) code=true ;;
+            esac
+          done <<< "$files"
+          echo "code=$code" >> "$GITHUB_OUTPUT"; echo "decision: code=$code"
+  checks:
+    name: Checks
+    needs: changes
+    if: needs.changes.outputs.code == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with: { fetch-depth: 0 } # generate-removed.js reads git log
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v6
+        with: { node-version: 24, cache: pnpm } # engines: ^22.13 || >=24
+      - name: Install
+        run: pnpm install --frozen-lockfile
+      # guards read the real scripts map, so an absent script is skipped
+      - id: have
+        name: Which scripts exist
+        run: |
+          node -e 'const s = require("./package.json").scripts || {}
+            for (const k of ["format:check", "lint", "docs:build"])
+              if (s[k]) console.log(k.replace(/[^a-z]/g, "") + "=true")' \
+            >> "$GITHUB_OUTPUT"
+      # scoped to touched files: repo-wide format:check already fails on two
+      # existing upstream files, so this catches new drift without going red
+      - name: Format
+        if: steps.have.outputs.formatcheck == 'true'
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"; base="${base:-origin/main}"
+          git diff --name-only -z --diff-filter=ACMR "${base}...HEAD" |
+            xargs -0 -r pnpm exec prettier --check --ignore-unknown
+      - name: Lint # eslint breaks in theme, config and api sources
+        if: steps.have.outputs.lint == 'true'
+        run: pnpm lint
+      - name: Docs build # broken config, Vue SFCs, bad generated pages
+        if: steps.have.outputs.docsbuild == 'true'
+        run: pnpm docs:build
+  report:
+    name: Report
+    needs: [changes, checks]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      # the status to mark required: green run or markdown-only skip passes
+      - name: Summarise
+        run: |
+          echo "changes=${{ needs.changes.result }} checks=${{ needs.checks.result }}"
+          case "${{ needs.changes.result }}:${{ needs.checks.result }}" in
+            success:success|success:skipped) exit 0 ;;
+            *) exit 1 ;;
+          esac
