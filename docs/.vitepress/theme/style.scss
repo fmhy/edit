@@ -1070,6 +1070,13 @@ html.monolith {
   }
 }
 
+/* Borders & Dividers */
+html[data-theme='dracula'] {
+  --vp-c-divider: #44475a;
+  --vp-c-border: #6272a4;
+  --vp-c-gutter: #191a21;
+}
+
 @media (min-width: 768px) and (max-width: 959px) {
   .DocSearch-Button-Keys {
     display: none !important;

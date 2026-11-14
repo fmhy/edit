@@ -17,12 +17,14 @@
 import type { ThemeRegistry } from '../types'
 import { catppuccinTheme } from './catppuccin'
 import { colorThemes } from './colors'
+import { draculaTheme } from './dracula'
 import { halloweenTheme } from './halloween'
 import { monochromeTheme } from './monochrome'
 import { monolithTheme } from './monolith'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
+  dracula: draculaTheme,
   halloween: halloweenTheme,
   monochrome: monochromeTheme,
   monolith: monolithTheme,
@@ -31,6 +33,7 @@ export const themeRegistry: ThemeRegistry = {
 
 export {
   catppuccinTheme,
+  draculaTheme,
   halloweenTheme,
   monochromeTheme,
   monolithTheme,
