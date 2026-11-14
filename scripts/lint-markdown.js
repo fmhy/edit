@@ -143,7 +143,8 @@ const COMMON_TYPOS = new Map([
   ['unoffical', 'unofficial'],
   ['extention', 'extension'],
   ['occuring', 'occurring'],
-  ['visulization', 'visualization']
+  ['visulization', 'visualization'],
+  ['debain', 'debian']
 ])
 const COMMON_TYPOS_REGEX = new RegExp(
   `\\b(${[...COMMON_TYPOS.keys()].join('|')})\\b`,
@@ -519,7 +520,7 @@ files.forEach((file) => {
     }
 
     // ---------------------------------------------------------------------
-    // Check 6: Double spaces
+    // Check 6: Double spaces & Comma spacing
     // ---------------------------------------------------------------------
 
     // We want to avoid double spaces in the text, but ignore leading indentation.
@@ -528,6 +529,19 @@ files.forEach((file) => {
     const doubleSpaceMatch = line.trimStart().matchAll(/ {2,}/g)
     for (const m of doubleSpaceMatch) {
       addError('Double space detected', m[0], leadSpaceLength + m.index)
+    }
+
+    const lineNoCodeOrUrl = line
+      .replace(/<!--[\s\S]*?-->/g, (m) => '\u0001'.repeat(m.length))
+      .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
+      .replace(/https?:\/\/[^\s)>]+/g, (m) => '\u0001'.repeat(m.length))
+
+    for (const m of lineNoCodeOrUrl.matchAll(/(?<=\S)[ \t]+,/g)) {
+      addError('Space before comma detected', m[0], m.index)
+    }
+
+    for (const m of lineNoCodeOrUrl.matchAll(/,{2,}/g)) {
+      addError('Repeated comma detected', m[0], m.index)
     }
 
     // ---------------------------------------------------------------------
@@ -1077,16 +1091,28 @@ files.forEach((file) => {
       // Check 15: Basic A/An Grammar
       // ---------------------------------------------------------------------
 
+      // Unwrap [label](url) and emphasis markers 1:1 so linked words (e.g., "a [adblocker](...)")
+      // are checked without exposing link labels to Checks 13 & 14.
+      const lineForArticleCheck = line
+        .replace(/`[^`]+`/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/https?:\/\/[^\s)]+/g, (m) => '\u0001'.repeat(m.length))
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
+        .replace(
+          /\[([^\]]+)\]\([^)]*\)/g,
+          (m, label) => ' ' + label + ' '.repeat(m.length - label.length - 1)
+        )
+        .replace(/\*+/g, (m) => ' '.repeat(m.length))
+
       const requiresAn = new Set('hour honor honest heir nginx'.split(' '))
       const requiresA = new Set(
-        'one once use user useful utility universe university unicorn union unit united uniform unique euro european euphemism luks ui ux url usb'.split(
+        'one once use user useful utility universe university unicorn union unit united uniform unique euro european euphemism luks ui ux url usb userscript userscripts unix'.split(
           ' '
         )
       )
       const vowelSoundingLetters = new Set('AEFHILMNORSX')
       const articleRegex = /\b(a|an)\s+([a-z0-9]+)\b/gi
 
-      for (const match of lineCleaned.matchAll(articleRegex)) {
+      for (const match of lineForArticleCheck.matchAll(articleRegex)) {
         const articleUsed = match[1].toLowerCase()
         const nextWordRaw = match[2]
         const nextWordLower = nextWordRaw.toLowerCase()
@@ -1103,16 +1129,22 @@ files.forEach((file) => {
           shouldBeAn = /^[aeiou]/i.test(nextWordLower)
         }
 
+        const displayPhrase = match[0].replace(/\s+/g, ' ')
+        const matchedSource = line.slice(
+          match.index,
+          match.index + match[0].length
+        )
+
         if (articleUsed === 'a' && shouldBeAn) {
           addError(
-            `Incorrect article "a" usage: "${match[0]}" (should be "an")`,
-            match[0],
+            `Incorrect article "a" usage: "${displayPhrase}" (should be "an")`,
+            matchedSource,
             match.index
           )
         } else if (articleUsed === 'an' && !shouldBeAn) {
           addError(
-            `Incorrect article "an" usage: "${match[0]}" (should be "a")`,
-            match[0],
+            `Incorrect article "an" usage: "${displayPhrase}" (should be "a")`,
+            matchedSource,
             match.index
           )
         }
