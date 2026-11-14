@@ -1,7 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { ICON_LINKS, REDDIT_WIKI_PATHS } from '../docs/.vitepress/shared.ts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const PROJECT_ROOT = path.resolve(__dirname, '..')
@@ -45,10 +44,39 @@ const color = (code, text) => (useColor ? `\x1b[${code}m${text}\x1b[0m` : text)
 const INVISIBLE_CHARACTERS = /[\u200B-\u200D\uFEFF\u2060]/g
 const ENCODED_INVISIBLE_CHARACTERS = /%E2%81%A0|%E2%80%8[B-D]|%EF%BB%BF/i
 const LABEL_REDIRECT_EXCEPTIONS = {
-  discord: new Set(['https://trw.lat/ds'])
+  discord: new Set([
+    'https://androz2091.fr/discord',
+    'https://ascendara.app/discord',
+    'https://bypass.vip/discord',
+    'https://discord.cod4x.ovh/',
+    'https://discord.paperback.moe/',
+    'https://discord.premid.app/',
+    'https://discord.rotki.com/',
+    'https://discord.sonicfangameshq.com/',
+    'https://discord.team-simple.org/',
+    'https://discord.thunderstore.io/',
+    'https://discordpackage.com/discord',
+    'https://go.intera.dev/discord',
+    'https://legendary.gl/discord',
+    'https://mangabaka.org/discord',
+    'https://mm8bdm.net/discord',
+    'https://monochrome.samidy.com/discord',
+    'https://monochrome.st/discord',
+    'https://ppv.st/discord',
+    'https://purpurmc.org/discord',
+    'https://readaloudai.com/discord',
+    'https://runelite.net/discord',
+    'https://spoo.me/discord',
+    'https://steambrew.app/discord',
+    'https://study.cs.helsinki.fi/discord/join/fullstack',
+    'https://trw.lat/ds',
+    'https://upbeat.pw/discord'
+  ])
 }
 const ICON_LABELS = new Map(
-  ICON_LINKS.map((icon) => [icon.label.toLowerCase(), icon.label])
+  'Discord|GitHub|GitLab|Source Code|Telegram|Subreddit|X|Mastodon|BlueSky|.onion'
+    .split('|')
+    .map((label) => [label.toLowerCase(), label])
 )
 const LABEL_DOMAIN_CHECKS = new Map([
   ['subreddit', { domains: ['reddit.com'] }],
@@ -91,7 +119,9 @@ const LABEL_DOMAIN_CHECKS = new Map([
   ['.onion', { match: (hostname) => hostname.endsWith('.onion') }]
 ])
 const FMHY_WIKI_PAGES = new Set(
-  Object.values(REDDIT_WIKI_PATHS).map((p) => p.slice(1))
+  'ai privacy mobile gaming reading downloading torrenting educational system-tools file-tools internet-tools social-media-tools text-tools video-tools audio-tools gaming-tools video audio linux-macos non-english misc storage developer-tools image-tools'.split(
+    ' '
+  )
 )
 const COMMON_TYPOS = new Map([
   ['teh', 'the'],
@@ -221,6 +251,18 @@ function maskInlineCode(text, fillChar = ' ') {
   return out
 }
 
+function maskPattern(text, regex, fillChar = ' ') {
+  return text.replace(regex, (m) => fillChar.repeat(m.length))
+}
+
+function maskCodeCommentsAndUrls(text, fillChar = ' ') {
+  return maskPattern(
+    maskPattern(maskInlineCode(text, fillChar), /<!--[\s\S]*?-->/g, fillChar),
+    /https?:\/\/(?:[^\s()>]|(?:\([^()\s]*\)))+/g,
+    fillChar
+  )
+}
+
 function getSkippedLineIndices(lines) {
   const skipped = new Set()
   let inFrontmatter = false
@@ -239,7 +281,7 @@ function getSkippedLineIndices(lines) {
       continue
     }
 
-    const fenceMatch = line.match(/^\s*(`{3,}|~{3,})(.*)$/)
+    const fenceMatch = line.match(/^ {0,3}(`{3,}|~{3,})(.*)$/)
     if (fenceMatch) {
       const markerCharacter = fenceMatch[1][0]
       const markerLength = fenceMatch[1].length
@@ -497,7 +539,8 @@ files.forEach((file) => {
       )
     }
 
-    const localLinkRegex = /!?\[[^\]]*\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g
+    const localLinkRegex =
+      /!?\[[^\]]*\]\(((?:[^()\s]|\([^()\s]*\))+)(?:\s+(?:"(?:\\.|[^"\\\r\n])*"|'(?:\\.|[^'\\\r\n])*'|\([^()\r\n]*\)))?\s*\)/g
     let localLinkMatch
     while ((localLinkMatch = localLinkRegex.exec(lineNoCode)) !== null) {
       const target = localLinkMatch[1]
@@ -578,15 +621,20 @@ files.forEach((file) => {
     // Check 4: Missing closing parenthesis )
     // ---------------------------------------------------------------------
 
-    // Pattern: [Text](http... or [Text](/path... where it ends without )
+    // Pattern: [Text](http... or [Text](/path... where it ends without ) or optional title + )
     const missingParens = lineNoCode.matchAll(
       /\]\(((?:https?:\/\/|\/|\.\.?\/|#)(?:[^()\s]|\([^()\s]*\))*)/g
     )
     for (const m of missingParens) {
       // Check if the link is missing a closing parenthesis on this line
-      // by verifying that the text immediately following the URL closes it.
+      // by verifying that ')' or an optional CommonMark title + ')' follows.
       const remainder = lineNoCode.slice(m.index + m[0].length)
-      if (!remainder.startsWith(')')) {
+      if (
+        !remainder.startsWith(')') &&
+        !/^\s+(?:"(?:\\.|[^"\\\r\n])*"|'(?:\\.|[^'\\\r\n])*'|\([^()\r\n]*\))\s*\)/.test(
+          remainder
+        )
+      ) {
         addError(
           `Possible broken link (missing closing parenthesis or trailing space)`,
           m[1],
@@ -619,9 +667,7 @@ files.forEach((file) => {
     // Check 6: Double spaces & Comma spacing
     // ---------------------------------------------------------------------
 
-    const lineNoCodeOrUrl = maskInlineCode(line, '\u0001')
-      .replace(/<!--[\s\S]*?-->/g, (m) => '\u0001'.repeat(m.length))
-      .replace(/https?:\/\/[^\s)>]+/g, (m) => '\u0001'.repeat(m.length))
+    const lineNoCodeOrUrl = maskCodeCommentsAndUrls(line, '\u0001')
 
     // We want to avoid double spaces in the text, but ignore leading indentation.
     // We trim start of line to ignore indentation, then check for "  ".
@@ -676,13 +722,10 @@ files.forEach((file) => {
     // Check 8: Asymmetric spaces around slash & Compound words
     // ---------------------------------------------------------------------
 
-    const lineForChecks = maskInlineCode(line)
-      .replace(/<!--[\s\S]*?-->/g, (m) => ' '.repeat(m.length))
-      .replace(
-        /\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g,
-        (m, dest) => `](${' '.repeat(dest.length)})`
-      )
-      .replace(/https?:\/\/[^\s)\]]+/g, (m) => ' '.repeat(m.length))
+    const lineForChecks = maskCodeCommentsAndUrls(line).replace(
+      /\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g,
+      (m, dest) => `](${' '.repeat(dest.length)})`
+    )
 
     if (!/^\s*link:/i.test(line)) {
       const slashes = lineForChecks.matchAll(/\//g)
@@ -967,7 +1010,7 @@ files.forEach((file) => {
 
     // Ensures that labels like "Subreddit", "GitHub", "Discord", etc. point to the correct domain
     const linkMatchRegex =
-      /\[([^\]]+)\]\((https?:\/\/(?:[^()\s]|\([^()\s]*\))+)\)/g
+      /\[([^\]]+)\]\((https?:\/\/(?:[^()\s]|\([^()\s]*\))+)(?:\s+(?:"(?:\\.|[^"\\\r\n])*"|'(?:\\.|[^'\\\r\n])*'|\([^()\r\n]*\)))?\s*\)/g
     let lm
 
     while ((lm = linkMatchRegex.exec(lineNoCode)) !== null) {
@@ -1004,19 +1047,8 @@ files.forEach((file) => {
         (hostnameMatches('github.com') &&
           parsedUrl.pathname.toLowerCase().startsWith('/fmhy/fmhy/wiki/'))
 
-      const isKnownLabelRedirect = (label) => {
-        if (
-          typeof LABEL_REDIRECT_EXCEPTIONS !== 'undefined' &&
-          LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href)
-        ) {
-          return true
-        }
-        if (label !== 'discord') return false
-        return (
-          hostname.startsWith('discord.') ||
-          /(^|\/)discord(?:\/|$)/i.test(parsedUrl.pathname)
-        )
-      }
+      const isKnownLabelRedirect = (label) =>
+        Boolean(LABEL_REDIRECT_EXCEPTIONS[label]?.has(parsedUrl.href))
 
       const trimmedLabel = normalizeText(labelText)
 
@@ -1072,15 +1104,12 @@ files.forEach((file) => {
     // ---------------------------------------------------------------------
 
     if (!isSeparatedEnglishCheck) {
-      // Mask inline code, URLs, and links with a non-whitespace sentinel so
-      // word/article checks keep 1:1 indices without bridging across stripped spans.
-      const lineNoCodeAndUrl = maskInlineCode(line, '\u0001').replace(
-        /https?:\/\/[^\s)]+/g,
-        (m) => '\u0001'.repeat(m.length)
-      )
-      const lineCleaned = lineNoCodeAndUrl.replace(
+      // Derive from lineNoCodeOrUrl (code, HTML comments, URLs -> \u0001) so word/article
+      // checks keep 1:1 indices without bridging across stripped spans.
+      const lineCleaned = maskPattern(
+        lineNoCodeOrUrl,
         /\[[^\]]+\]\([^)]*\)/g,
-        (m) => '\u0001'.repeat(m.length)
+        '\u0001'
       )
 
       // ---------------------------------------------------------------------
@@ -1115,13 +1144,14 @@ files.forEach((file) => {
 
       // Unwrap [label](url) and emphasis markers 1:1 so linked words (e.g., "a [adblocker](...)")
       // are checked without exposing link labels to Checks 13 & 14.
-      const lineForArticleCheck = lineNoCodeAndUrl
-        .replace(/!\[[^\]]*\]\([^)]*\)/g, (m) => '\u0001'.repeat(m.length))
-        .replace(
+      const lineForArticleCheck = maskPattern(
+        maskPattern(lineNoCodeOrUrl, /!\[[^\]]*\]\([^)]*\)/g, '\u0001').replace(
           /\[([^\]]+)\]\([^)]*\)/g,
           (m, label) => ' ' + label + ' '.repeat(m.length - label.length - 1)
-        )
-        .replace(/\*+/g, (m) => ' '.repeat(m.length))
+        ),
+        /\*+/g,
+        ' '
+      )
 
       for (const match of lineForArticleCheck.matchAll(ARTICLE_REGEX)) {
         const articleUsed = match[1].toLowerCase()
