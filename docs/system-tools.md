@@ -72,7 +72,7 @@
 * ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
-* [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
+* [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Updater
 * [sfsu](https://github.com/winpax/sfsu/) or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
 * [Zero Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
