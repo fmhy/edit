@@ -153,9 +153,14 @@ const scenarios = [
     expected: 'Link label mismatch: Label "Discord"'
   },
   {
-    name: 'allows Discord label with /discord redirect path',
-    input: '* [Discord](https://example.com/discord)',
+    name: 'allows Discord label with a known redirect URL',
+    input: '* [Discord](https://ascendara.app/discord)',
     expected: null
+  },
+  {
+    name: 'rejects Discord label with an unknown /discord redirect URL',
+    input: '* [Discord](https://example.com/discord)',
+    expected: 'Link label mismatch: Label "Discord"'
   },
   {
     name: 'detects GitHub label pointing to GitLab',

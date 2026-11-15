@@ -64,12 +64,10 @@
 * [Gnarly Repacks](https://rentry.co/FMHYB64#gnarly) - Download / PW: `gnarly`
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [VHSTaPE](https://vhstaperepacks.com/) or [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
-* [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - Download ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [PM2G Repacks](https://rentry.co/FMHYB64#pm2g) - Download / PW: `pm2g` / [Discord](https://discord.gg/38FRNdYAEM)
 * [⁠Vanya Games](https://vanya-games.site/) - Download
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
-
 
 ***
 
@@ -320,7 +318,7 @@
 * [Dats.site](https://dats.site/) - Scene Release Hash Database
 * [r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Wiki](https://www.reddit.com/r/Roms/wiki/) / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
-* [Code Converter ](https://dowdy.dev/utilities/code-converter/) - PS2 Cheat Code Converter (Single Player Only)
+* [Code Converter](https://dowdy.dev/utilities/code-converter/) - PS2 Cheat Code Converter (Single Player Only)
 
 ***
 
@@ -752,7 +750,7 @@
 * ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Flash Arch](https://flasharch.com/en) - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
-* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw) / [GitHub](https://github.com/wasmdotrip/wasm.rip)
+* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw)
 * [Arcadia](https://arcadia.baby/) - Browser PC Game Ports / Aggregator
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator
@@ -870,7 +868,6 @@
 * [Foony](https://foony.com/) - Multiple Games
 * [⁠Pomme](https://pomme.us/) - Image Pairing Game
 * [Pixoguess](https://pixoguess.com/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
-* [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game / [Discord](https://discord.com/invite/9R2PaHf4RG)
 * [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 * [Deeeep.io](https://deeeep.io/) - Multiplayer Feeding Frenzy Games / Requires Sign-Up
 * [fsh.zone](https://fsh.zone/) - Multiplayer Fishing Game / [Discord](https://discord.com/invite/FKEzJSf)
@@ -965,7 +962,7 @@
 * ⭐ **[TotalJerkFace](https://totaljerkface.com/)** - Happy Wheels & Other Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
-* [⁠Surfd](https://surfd.net/) - CS:Source-Style Surfing / [Discord](https://discord.gg/D5CYH7SBs6)
+* [⁠Surfd](https://surfd.net/) / [Discord](https://discord.gg/D5CYH7SBs6) or [STRAFES.io](https://strafes.io/) / [Discord](https://discord.gg/rnTPurXKAz) - CS:Source-Style Surfing
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Raptjs](https://madebyevan.com/rapt/) or [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [⁠Vector](https://vector.game/) - 2D Platformer
@@ -1031,6 +1028,7 @@
 * [⁠OFF](https://off.zchr.org/) - Browser RPG
 * [Forumwarz](https://www.forumwarz.com/) - Browser RPG
 * [Dungeon Crawl](https://crawl.develz.org/) - Browser RPG
+* [⁠Champion Island](https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html) - Browser RPG
 * [Isleward](https://www.isleward.com/), [2](https://bigbadwaffle.itch.io/isleward) - Browser RPG / Sign-Up Required
 * [Hordes.io](https://hordes.io/) - Browser MMORPG / [Discord](https://discord.com/invite/hordes)
 * [Aberoth](https://aberoth.com/) - Browser MMORPG

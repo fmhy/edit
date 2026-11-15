@@ -27,13 +27,9 @@
     "pre-commit": "sh scripts/pre-commit.sh"
   },
   "lint-staged": {
-    "*.{js,ts,vue,json}": [
-      "prettier --cache --check",
-      "eslint"
-    ],
-    "docs/**/*.md": [
-      "node scripts/lint-markdown.js"
-    ]
+    "*": "prettier --cache --check --ignore-unknown",
+    "*.{js,mjs,cjs,ts,mts,cts,vue}": "eslint --no-warn-ignored",
+    "docs/**/*.md": "node scripts/lint-markdown.js"
   },
   "dependencies": {
     "@vueuse/core": "^14.4.0",

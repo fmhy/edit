@@ -16,6 +16,7 @@
 
 import type { Plugin } from 'vitepress'
 import { basename } from 'node:path'
+import { ICON_LINKS, REDDIT_WIKI_PATHS } from './shared'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
@@ -131,100 +132,13 @@ export function transform(text: string): string {
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
     .replace(/\*\*\*\n\*\*\*\n\n\n\*\*\*\n\n/gm, '')
-    // Transform reddit links
-    .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
-      '/privacy'
+  // Transform reddit links
+  for (const [slug, target] of Object.entries(REDDIT_WIKI_PATHS)) {
+    _text = _text.replaceAll(
+      `https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/${slug}`,
+      target
     )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/android/g,
-      '/mobile'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/games/g,
-      '/gaming'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/reading/g,
-      '/reading'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/download/g,
-      '/downloading'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/torrent/g,
-      '/torrenting'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/edu/g,
-      '/educational'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/system-tools/g,
-      '/system-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/file-tools/g,
-      '/file-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/internet-tools/g,
-      '/internet-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/social-media/g,
-      '/social-media-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/text-tools/g,
-      '/text-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video-tools/g,
-      '/video-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio-tools/g,
-      '/audio-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/game-tools/g,
-      '/gaming-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video/g,
-      '/video'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,
-      '/audio'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/linux/g,
-      '/linux-macos'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/non-eng/g,
-      '/non-english'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/misc/g,
-      '/misc'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/storage/g,
-      '/storage'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/dev-tools/g,
-      '/developer-tools'
-    )
-    .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/image-tools/g,
-      '/image-tools'
-    )
+  }
 
   _text = replaceUnderscore(_text)
     // Prefix numeric heading fragments only inside Markdown destinations.
@@ -251,69 +165,26 @@ export function transform(text: string): string {
   return _text
 }
 
+const escapeRegex = (value: string) =>
+  value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+
+const iconLinkTransforms = ICON_LINKS.map(
+  ({ label, iconClass, name, tooltip, requireSlash }) => {
+    const escapedLabel = escapeRegex(label)
+    const prefix = requireSlash ? '(?<=\\/ )' : ''
+    const tooltipText = tooltip ?? label
+    return {
+      name: name ?? label,
+      find: new RegExp(`${prefix}\\[${escapedLabel}\\]\\(([^)]*?)\\)`, 'gm'),
+      replace: `<a target="_blank" href="$1"><span v-tooltip="'${tooltipText}'" alt="${tooltipText}" class="${iconClass}" /></a>`
+    }
+  }
+)
+
 const transformLinks = (text: string): string =>
   transformer(text)
     .transform('Links to Icons', [
-      {
-        name: 'Discord',
-        find: /\[Discord\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'Discord\'" alt="Discord" class="i-carbon:logo-discord" /></a>'
-      },
-      {
-        name: 'GitHub',
-        find: /\[GitHub\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'GitHub\'" alt="GitHub" class="i-carbon:logo-github" /></a>'
-      },
-      {
-        name: 'GitLab',
-        find: /(?<=\/ )\[GitLab\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'GitLab\'" alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
-      },
-      {
-        name: 'Source Code',
-        find: /\[Source Code\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'Source Code\'" alt="Source Code" class="i-gravity-ui:code" /></a>'
-      },
-      {
-        name: 'Telegram',
-        find: /\[Telegram\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'Telegram\'" alt="Telegram" class="i-mdi:telegram" /></a>'
-      },
-      {
-        name: 'Subreddit',
-        find: /\[Subreddit\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'Reddit\'" alt="Reddit" class="i-mdi:reddit" /></a>'
-      },
-      {
-        name: 'X',
-        find: /\[X\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'X\'" alt="X" class="i-carbon:logo-x" /></a>'
-      },
-      {
-        name: 'Mastodon',
-        find: /\[Mastodon\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'Mastodon\'" alt="Mastodon" class="i-mdi:mastodon" /></a>'
-      },
-      {
-        name: 'BlueSky',
-        find: /\[BlueSky\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'BlueSky\'" alt="BlueSky" class="i-carbon:logo-bluesky" /></a>'
-      },
-      {
-        name: 'Tor',
-        find: /\[.onion\]\(([^\)]*?)\)/gm,
-        replace:
-          '<a target="_blank" href="$1"><span v-tooltip="\'.onion\'" alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
-      },
+      ...iconLinkTransforms,
       // Platform indicators
       {
         name: 'Windows',
