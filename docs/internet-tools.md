@@ -590,7 +590,7 @@
 # ► Startpages / New Tab Pages
 
 * 🌐 **[Awesome Startpage](https://github.com/jnmcfly/awesome-startpage)** - Startpage Resources
-* 🌐 **[Startpage Emporium](https://startpages.github.io/)** or **[Startpage Gallery](https://startpage.gallery/)** / [GItHub](https://github.com/InterstellarOne/startpage-store) - Startpage Indexes
+* 🌐 **[Startpage Emporium](https://startpages.github.io/)** or **[Startpage Gallery](https://startpage.gallery/)** / [GitHub](https://github.com/InterstellarOne/startpage-store) - Startpage Indexes
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 * ⭐ **[Anori](https://anori.app/)** / [GitHub](https://github.com/OlegWock/anori)
 * ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue)

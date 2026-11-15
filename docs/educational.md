@@ -1387,7 +1387,7 @@
 * [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
 * [DeafTec](https://deaftec.org/stem-dictionary/) or [Tachyo](https://www.tachyo.org/) - STEM Sign Dictionaries / Search
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized ASL Dictionary
-* [ASL Learning](https://asl.ms/), [SignSchool](https://www.signschool.com/) or [PocketSign](https://www.pocketsign.org/) - ASL Learning Sites
+* [ASL Learning](https://asl.ms/), [SignSchool](https://www.signschool.com/), [⁠ZiggyASL](https://www.ziggyasl.com/) or [PocketSign](https://www.pocketsign.org/) - ASL Learning Sites
 * [Sign AIP](https://www.sign-aip.net/sign-aip/en/) - Sign-Language Learning Videos
 * [Fingerspell](https://fingerspell.net/) - ASL Fingerspelling Practice
 * [The ASL Calendar](https://discord.gg/QU6vMSYN7y) or [ASL Discord](https://discord.gg/dH7jGejAz9) - ASL Learning Discord Communities / Resources
