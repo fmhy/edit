@@ -37,6 +37,7 @@
 * [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
 * [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
 * [navi](https://github.com/denisidoro/navi) - Interactive Cheatsheet Tool
+* [⁠Real World Systems](https://www.real-world-systems.com/docs/) - Cross-Platform CLI & Man Page Reference
 
 ***
 

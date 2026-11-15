@@ -36,6 +36,7 @@
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) / Web
 * [Redump](https://redump.info/) - Disc Preservation Info Project / Web
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
+* [⁠Disc Image Studio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/blob/main/README.en.md) - Burn Visible Images onto Optical Discs
 
 ***
 

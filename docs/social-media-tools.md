@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* ↪️ **[Frontend Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7__frontend_indexes)**
+* ↪️ **[Frontend / Service Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_frontend_.2F_service_hosts)**
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -334,9 +334,9 @@
 
 ## ▷ YouTube Customization
 
-* ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
-* ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
-* ⭐ **[⁠Control Panel](https://soitis.dev/control-panel-for-youtube)** - YouTube Debloating / UI Controls / [GitHub](https://github.com/insin/control-panel-for-youtube) 
+* ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5) / [GitHub](https://github.com/Anarios/return-youtube-dislike)
+* ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait / [GitHub](https://github.com/ajayyy/DeArrow)
+* ⭐ **[⁠Control Panel](https://soitis.dev/control-panel-for-youtube)** - YouTube Debloating / UI Controls / [BlueSky](https://bsky.app/profile/soitis.dev) / [GitHub](https://github.com/insin/control-panel-for-youtube) 
 * ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
 * [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://improvedtube.com/) / [GitHub](https://github.com/code-charity/youtube), [YT Tweaks](https://github.com/pedrosouu/yt-tweaks), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [YouTube Alchemy](https://greasyfork.org/en/scripts/521686) / [GitHub](https://github.com/TimMacy/YouTubeAlchemy) - YouTube Enhancement Extensions
 * [TubeMod](https://github.com/Pedro-Gregorio/TubeMod), [Unhook](https://unhook.app/) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
@@ -431,7 +431,7 @@
 
 ***
 
-## ▷ YouTube Search
+## ▷ Search / Recommendations
 
 * 🌐 **[YT Channel Spreadsheet](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE/)** or **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Indexes
 * ⭐ **[Favoree](https://www.favoree.io/)** - Discover / Search YouTube Channels
@@ -439,6 +439,7 @@
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Subs, Captions & Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) - Clip / Phrase Search Engines
 * [YT Non Biased Searcher](https://kvnaust.github.io/YouTube-NonBiasedVideoSearcher) - Algorithm-Free YouTube Search / Improved Sorting
+* [⁠fmhytube](https://fmhytube.suntown.town/) - Curated Video Directory / Based on YT Channel Spreadsheet
 * [⁠YouTube Metadata Search](https://youtube.snivy.pl/) - ⁠YouTube Metadata Search
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
