@@ -1372,7 +1372,7 @@
 
 ## ▷ Sign Languages
 
-* ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
+* ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [⁠Sématos](https://www.sematos.eu/en/), [⁠Dictio](https://www.dictio.info/), [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
 * ⭐ **[ASL Dictionary](https://www.signasl.org/)**, [Anysign](https://www.anysign.app/en/dictionary), [WhatsThatSign](https://www.whatsthatsign.com/), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLDict](https://www.masterstech-home.com/ASLDict.html), [ASLCore](https://aslcore.org/), [Sign Language 101](https://www.signlanguage101.com/asl/dictionary) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
 * ⭐ **[BSL Dictionary](https://www.signbsl.com/)**, [SignDeaf](https://www.signdeaf.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
 * [SignWiki](http://signwiki.org/) - Sign Language Wiki Index / Multi Language
@@ -1397,9 +1397,11 @@
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [⁠Fundacion CNSE](https://fundacioncnse-dilse.org/) - Spanish Sign Language Dictionary
+* [⁠Signbank Libras](https://signbank.libras.ufsc.br/) - Brazilian Sign Language Dictionary
 * [Diccionario de LESCO](https://diccionario.handsonlesco.com/) or [⁠Diccionario LESCO](https://lesco.cenarec.go.cr/index.php/diccionariolesco) - Costa Rican Sign Language Dictionaries
 * [⁠Danfish Gold](https://isl.danfishgold.com/#en) - Israeli Sign Language Dictionary
 * [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary
+* [⁠MSLD](https://msld.manadmw.org/) - Malawian Sign Language Dictionary 
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
@@ -1606,6 +1608,7 @@
 * [⁠System Design Academy](https://github.com/systemdesign42/system-design-academy) - Large Scale System Design Learning
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
+* [⁠Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) - Learn How Internet Works with Interactive Lessons
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
 * [⁠Lean](https://lean-lang.org/) - Theorem Prover and Programming Language / [Learning Games](https://adam.math.hhu.de/) / [Web](https://live.lean-lang.org/) / [GitHub](https://github.com/leanprover/lean4)
 * [Rocq](https://rocq-prover.org/) - Theorem Prover and Proof Assistant / [GitHub](https://github.com/rocq-prover/rocq)

@@ -31,7 +31,6 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
-* ⭐ **[⁠Octave](https://octavestreaming.com/)** - Browser Music / Lossless / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
@@ -122,6 +121,7 @@
 * [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
+* [⁠All of Bach](https://www.bachvereniging.nl/en/allofbach) - Johann Sebastian Bach Performance Project
 * [Konserthuset](https://www.konserthuset.se/en/play/) - Orchestra Recordings
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 * [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
@@ -136,6 +136,7 @@
 
 * ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [Interactive Tracklist](https://greasyfork.org/scripts/592656) / [Downloader](https://github.com/everdrone/nts) / [SoundCloud](https://rentry.co/ntssoundcloud) / [Mixcloud](https://www.mixcloud.com/NTSRadio/) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[⁠The Cat Rave](https://thecatrave.com/selector)** - Random DJ Sets / Genre & Channel Filters / YouTube
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
@@ -144,21 +145,20 @@
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
-* [⁠The Cat Rave](https://thecatrave.com/selector) - Random DJ Sets / Genre & Channel Filters / YouTube
 
 ***
 
 ## ▷ Podcast Streaming
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcast Streaming / Video Podcasts / [SponsorBlock](https://spotsponsorblock.org/) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS Tool](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcast Player / Video Podcasts / [SponsorBlock](https://spotsponsorblock.org/) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS Tool](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast)
 * ⭐ **[Pocket Casts](https://pocketcasts.com/)** - Cross-Platform Podcast Player / Playlists / Playback Controls / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * ⭐ **[Listen Notes](https://www.listennotes.com/)** - Podcast & Episode Search Engine / Curated Playlists / [API](https://www.listennotes.com/api/)
-* [Apple Podcasts](https://podcasts.apple.com/) - Podcast Streaming / Discovery / Charts / Transcripts
+* [Apple Podcasts](https://podcasts.apple.com/) - Podcast Player / Discovery / Charts / Transcripts
 * [Podcast Republic](https://www.podcastrepublic.net/) - Podcast Player / Playlists / Downloads / Custom RSS Feeds
 * [Player FM](https://player.fm/) - Podcast Player / Discovery / Categories / Offline Listening
-* [Podverse](https://podverse.fm/) - Open-Source Podcast Player / RSS Feeds / Podcasting 2.0 / Web & Mobile
-* [Podbean](https://www.podbean.com/) - Podcast Streaming / Discovery / Hosting Platform
+* [⁠Podverse](https://podverse.fm/) - Podcast Player / Manager / Categories / Playlists / [Discord](https://discord.gg/6HkyNKR) / [GitHub](https://github.com/podverse/podverse)
+* [Podbean](https://www.podbean.com/) - Podcast Player / Discovery / Hosting Platform
 * [PodParadise](https://www.podparadise.com/) or [Podbay](https://podbay.fm/) - Browser-Based Podcast Players / Discovery
 * [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) - BBC Podcast Streaming / [Downloader](https://github.com/get-iplayer/get_iplayer)
 * [Relay.fm](https://www.relay.fm/) - Independent Podcast Network / Technology & Creative Shows
@@ -362,7 +362,7 @@
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Display Synced Lyrics
 * [⁠Spotify Karaoke](https://github.com/haroldalan/spotify-karaoke) - Fetching, Romanization & Translation for Web Player Lyrics
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Synced Lyrics
-* [LoaderSpot](https://loadspot.vercel.app/) - Official Spotify Installers Archive
+* [LoaderSpot](https://loadspot.vercel.app/), [2](https://loadspot.pages.dev/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
 * [Opslagify](https://opslagify.app/) - Calculate Storage Size of Spotify Library
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
@@ -405,9 +405,9 @@
 * ⭐ **[Antra Web](https://antra.hoshi.cfd/)** - Multi-Site / FLAC / AAC / MP3 / Requires Sign-Up / [Telegram](https://t.me/antraaverse) / [Discord](https://discord.gg/J4yMnnMjqt)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Amazon Music / Soundcloud / FLAC / [Telegram](https://t.me/lucidahasmusic)
 * [Jumo-DL](https://jumo-dl.pages.dev/) - Qobuz / FLAC / MP3
-* [⁠Octave](https://octavestreaming.com/) - Multi-Site / FLAC / Dolby Atmos / 320 AAC / 128 MP3 / Requires Discord / [Discord](https://discord.gg/5cZAbW3Tbg)
 * [⁠ARCOD](https://arcod.xyz/) - Qobuz / FLAC / MP3 / [Discord](https://discord.com/invite/hgC6ZegbKD)
 * [Rhythmax TIDAL Downloader](https://tidal.odskyler.com/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
+* [⁠cyan-dl](https://cyan-dl.pages.dev/) - Amazon Music Downloader
 * [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / 320kb MP3
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [⁠CYBROX](https://cybrox.pro/) - Multi-Site / 320kb MP3

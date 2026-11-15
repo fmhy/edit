@@ -1,3 +1,3 @@
 #### Android Spotify Note
 
-None of Spotify apks (for rooted and non-rooted users) works for now due to server side restriction.
+Apart from web wrappers (those applications that use Spotify Web as their music source), like Orpheon, no other modded version of Spotify works on Android due to server-side restrictions (like frequent app updates, which break most modded Spotify apps).

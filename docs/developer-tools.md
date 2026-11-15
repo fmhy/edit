@@ -1000,7 +1000,7 @@
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [⁠Book Of Shapes](https://bookofshapes.com/) - Customizable SVG Shape & Patterns
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
-* [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
+* [Abztract](https://abztract.arhamkhnz.com/) or [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generators
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
 * [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer

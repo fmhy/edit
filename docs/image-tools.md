@@ -78,7 +78,7 @@
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [⁠Upscal](https://upscal.app/) - Image Upscaling / Windows, macOS
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
-* [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
+* [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) (search) - Image Upscaling
 * [ImgUpscaler](https://imgupscaler.com/) - Image Upscaling / Web
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image & Video Upscaling / Windows
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Windows, macOS, Linux
@@ -449,6 +449,7 @@
 * [iwaria](https://iwaria.com/) - African Photos
 * [twnsnd](https://nos.twnsnd.co/) - Vintage Photos / Public Domain
 * [Common Clip](https://commonclip.com/) - Vintage Photos / Artwork / Public Domain
+* [⁠PICRYL](https://picryl.com/) - Public Domain Images
 * [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos / Noncommercial License
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
 * [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloader
@@ -916,8 +917,7 @@
 * [exiftool](https://exiftool.org/) / [GUI](https://github.com/FrankBijnen/ExifToolGui/) / [GitHub](https://github.com/exiftool/exiftool), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html) - Image EXIF Data Editors
-* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs), [GeoSpy](https://geospy.net/)
- or [GeoEstimation](https://labs.tib.eu/geoestimation) - Image Geolocation / Location Estimation
+* [Picarta](https://picarta.ai/) / [Discord](https://discord.gg/g5BAd2UFbs) or [GeoSpy](https://geospy.net/) - Image Geolocation / Location Estimation
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [StegOnline](https://georgeom.net/StegOnline/upload), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [stegano](https://bztsrc.gitlab.io/stegano/), [hide-text](https://all-tools.github.io/hide-text-in-image/) or [stegpy](https://github.com/izcoser/stegpy) - Images Steganography Tools
 * [Aperisolve](https://aperisolve.fr/) / [2](https://www.aperisolve.com/) or [stegextract](https://github.com/evyatarmeged/stegextract) - Steganography Analysis Tool

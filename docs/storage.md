@@ -289,7 +289,6 @@
 * [searx.oloke](https://searx.oloke.xyz/)
 * [searxng.canine](https://searxng.canine.tools/)
 * [searloc](https://searloc.org/)
-* [mdosch](https://search.mdosch.de/)
 * [Gruble](https://www.gruble.de/)
 
 ***

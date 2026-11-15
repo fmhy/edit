@@ -141,7 +141,7 @@
 # ► Private Trackers
 
 * 🌐 **[Private Trackers General](https://clarasguide.valeena.workers.dev/Guides/private-trackers/)**, **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
-* [OpenSignup](https://trackersignup.org/) / [Telegram](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
+* [TrackerSignup](https://trackersignup.org/) / [Telegram](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
 * [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
@@ -168,7 +168,6 @@
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [magnet2list](https://hutstep.github.io/magnet2list/) - Convert Magnets to Tracker Lists
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
-* [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
 * [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)
 * [⁠mkbrr](https://mkbrr.com/) / [GitHub](https://github.com/autobrr/mkbrr), [Torf GUI](https://github.com/SavageCore/torf-gui), [DotTorrentGUI](https://github.com/kz26/dottorrent-gui) or [Torrent-Creator](https://kimbatt.github.io/torrent-creator/) / [GitHub](https://github.com/Kimbatt/torrent-creator) - Torrent Creators
 * [Torrent Parts](https://torrent.parts/) / [GitHub](https://github.com/leoherzog/TorrentParts) or [Torrent File Editor](https://torrent-file-editor.github.io/) / [GitHub](https://github.com/torrent-file-editor/torrent-file-editor) - Edit Torrents Files
