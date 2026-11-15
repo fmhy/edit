@@ -225,7 +225,7 @@
 * ↪️ **[Debrid Compatible Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB + 10 Monthly DDL Free / Requires Sign-Up / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba), [2](https://gitlab.com/forgiving/yatba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App)
 * [Real-Debrid](https://real-debrid.com/) - Paid / [Android Client](https://github.com/LivingWithHippos/unchained-android) / [Torrent Client](https://github.com/rogerfar/rdt-client) / [DDL Client](https://github.com/ItsYeBoi20/TorrentDownloaderRD)
-* [Vecwire](https://get.vecwire.com/) - Premium Link Generator / K2S, Rapidgator, Nitroflare & More / Free Trial (5 Links/Day) / PayPal + VND
+* [Vecwire](https://get.vecwire.com/) - Premium Link Generator / K2S, Rapidgator, Nitroflare & More / Free Trial (5 Links/Day) / PayPal, Crypto
 * [⁠NullBeat](https://nullbeat.thevolecitor.qzz.io/) - TorBox-Based Hi-Res Audio & CD FLAC Ripper
 * [⁠Get4All](https://get4all.org/) - Premium Link Bypass / Use UBO + [Filter](https://pastebin.com/VFrdqPTe) & [Redirect Bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)
 * [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site Bypass
