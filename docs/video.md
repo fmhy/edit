@@ -800,7 +800,7 @@
 # ► Streaming Apps
 
 * ↪️ **[Torrent Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)** - Torrent Streaming Apps
-* ⭐ **[⁠VyseTV](https://vysetv.cc/)** - Streaming App / Use HTTP Plugin / Windows, macOS, Linux / [Discord](https://discord.gg/bbkVHRHnRk)
+* ⭐ **[⁠VyseTV](https://vysetv.cc/)** - Streaming App / Windows, macOS, Linux / [Discord](https://discord.gg/bbkVHRHnRk)
 * ⭐ **[⁠Vyla Home](https://vyla.cc/products/home)**, [2](https://vyla.qzz.io) - Streaming App / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/Vyla/) / [Discord](http://discord.gg/5eqRhKeywG) / [GitLab](https://gitlab.com/vyla-entertainment/home)
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Streaming App / Extension-Based / Windows, macOS, Linux / [Discord](https://discord.gg/73XGA8Mxn9)
 * [⁠FlyStream](https://flystream.net/apps) - Streaming App / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/FlyStream/) / [Discord](https://discord.gg/flystream)
@@ -809,7 +809,6 @@
 * [⁠Showberry](https://github.com/Dackerie/showberry) - Streaming App / Windows, macOS, Linux
 * [⁠WatchWave](https://watchwave.pro/) - Streaming App / Download in Top Right / Windows
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/apps/) - Streaming App / Debrid or Usenet Required / Windows, macOS, Linux
-* [mov-cli](https://mov-cli.github.io/) - Streaming CLI / [Plugins](https://github.com/topics/mov-cli-plugin) / Windows, macOS, Linux / [Discord](https://discord.gg/BMzC7ePsBV) / [GitHub](https://github.com/mov-cli/mov-cli)
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Plex + Jellyfin Public Playlist / Windows, macOS, Linux
 
 ***
