@@ -318,7 +318,7 @@
 * [Dats.site](https://dats.site/) - Scene Release Hash Database
 * [r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Wiki](https://www.reddit.com/r/Roms/wiki/) / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
-* [Code Converter ](https://dowdy.dev/utilities/code-converter/) - PS2 Cheat Code Converter (Single Player Only)
+* [Code Converter](https://dowdy.dev/utilities/code-converter/) - PS2 Cheat Code Converter (Single Player Only)
 
 ***
 
@@ -750,6 +750,7 @@
 * ⭐ **[⁠GamesFrog](https://gamesfrog.com/)** - Browser Game Aggregator
 * ⭐ **Flash Tools** - [Flash Emulator](https://ruffle.rs/) / [Clean Builds](https://github.com/darktohka/clean-flash-builds/) / [Mobile](https://github.com/ruffle-rs/ruffle-android)
 * [Flash Arch](https://flasharch.com/en) - Browser Game Aggregator / [Discord](https://discord.com/invite/guQ9Afn)
+* [⁠wasm.rip](https://wasm.rip/) - Browser PC Game Ports / [Discord](https://discord.gg/uubyGYPHQw)
 * [Arcadia](https://arcadia.baby/) - Browser PC Game Ports / Aggregator
 * [⁠Fancade](https://play.fancade.com/) - Browser Game World / Creator
 * [Andkon](https://andkon.com/arcade/) - Browser Game Aggregator

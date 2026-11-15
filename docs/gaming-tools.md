@@ -1138,7 +1138,7 @@
 * ⭐ **[CLEO](https://cleo.li/)** - Extensible Library Plugin for GTA III, VC & SA / [Discord](https://discord.com/invite/d5dZSfgBZr) / [GitHub](https://github.com/cleolibrary)
 * ⭐ **[SilentPatch](https://silentsblog.com/mods/gta/)** - Quality of Life Fixes for GTA III, VC & SA / [BlueSky](https://bsky.app/profile/cookieplmonster.bsky.social) / [X](https://x.com/__silent_) / [GitHub](https://github.com/CookiePLMonster/SilentPatch)
 * [FiveM](https://fivem.net/) or [RAGE](https://rage.mp/) / [Discord](https://discord.com/invite/tChBaeu) - Modded GTAV Servers / Requires Legit Copy
-* [⁠GTA Base Vehicle ](https://www.gtabase.com/gta-6/vehicles/) or [GTA Cars](https://gtacars.net/) - GTA Vehicle Databases / Stats
+* [⁠GTA Base Vehicle](https://www.gtabase.com/gta-6/vehicles/) or [GTA Cars](https://gtacars.net/) - GTA Vehicle Databases / Stats
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
 * [GTA Connected](https://gtaconnected.com/) - Multiplayer Mod / GTA III, IV, VC, SA / [Discord](https://discord.gg/YSyasDa)

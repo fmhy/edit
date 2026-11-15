@@ -790,7 +790,7 @@
 * ↪️ **[GeoGuessr Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_geoguessr)**
 * ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [⁠Farflung](https://farflung.game/), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quizzes / Guessing
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
-* [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
+* [LibreTexts Geosciences](https://geo.libretexts.org/Bookshelves) - Geoscience Learning
 * [⁠Cultural Atlas](https://theculturalatlas.org/) - World Culture / Religion Guides
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) - Compare Country Size

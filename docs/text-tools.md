@@ -11,7 +11,7 @@
 * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-* ⭐ **[TextFixer](https://www.textfixer.com/)**, [SortMyList](https://sortmylist.com/) , [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* ⭐ **[TextFixer](https://www.textfixer.com/)**, [SortMyList](https://sortmylist.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * ⭐ **[Paperless-ngx](https://docs.paperless-ngx.com)** / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://papra.app/en/) / [GitHub](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Diffr](https://loilo.github.io/diffr/) / [GitHub](https://github.com/loilo/diffr), [TextCompare](https://www.textcompare.org/), [OnlineTextCompare](https://onlinetextcompare.com/) or [CompareText](https://www.comparetext.io/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
@@ -247,7 +247,7 @@
 
 ## ▷ Whiteboards / Handwritten
 
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [Github](https://github.com/excalidraw/excalidraw)
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [GitHub](https://github.com/excalidraw/excalidraw)
 * ⭐ **[OpenBoard](https://openboard.ch/en)** - Whiteboard
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
