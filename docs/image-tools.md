@@ -78,7 +78,7 @@
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
 * [⁠Upscal](https://upscal.app/) - Image Upscaling / Windows, macOS
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
-* [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
+* [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) (search) - Image Upscaling
 * [ImgUpscaler](https://imgupscaler.com/) - Image Upscaling / Web
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image & Video Upscaling / Windows
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Windows, macOS, Linux
