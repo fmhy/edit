@@ -129,27 +129,42 @@ onMounted(() => {
   max-width: min(28rem, calc(100vw - 32px));
   max-height: min(28rem, calc(100dvh - 32px));
   overflow: hidden;
-  background: var(--vp-c-bg);
-  border: 1px solid var(--fmhy-note-icon-warning);
+  background: color-mix(
+    in srgb,
+    color-mix(in srgb, var(--fmhy-note-icon-warning) 22%, var(--vp-c-bg-elv))
+      73%,
+    transparent
+  );
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+  border: 1px solid
+    color-mix(in srgb, var(--fmhy-note-icon-warning) 48%, transparent);
   border-radius: 12px;
-  box-shadow: var(--vp-shadow-3);
+  box-shadow: var(--fmhy-tooltip-shadow, var(--vp-shadow-3));
 }
 
 .critical-popover-content {
   padding: 16px;
   overflow-y: auto;
+
+  @media (pointer: fine) {
+    &::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+    }
+  }
 }
 
 .critical-popover-title {
   margin: 0 0 8px;
-  color: var(--vp-c-text-1);
+  color: var(--fmhy-tooltip-text, var(--vp-c-text-1));
   font-size: 16px;
   font-weight: 600;
   line-height: 22px;
 }
 
 .critical-popover-body {
-  color: var(--vp-c-text-1);
+  color: var(--fmhy-tooltip-text, var(--vp-c-text-1));
   font-size: 14px;
   line-height: 1.6;
 

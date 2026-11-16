@@ -84,18 +84,25 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
 .tooltip-content {
   padding: 16px;
   overflow-y: auto;
+
+  @media (pointer: fine) {
+    &::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+    }
+  }
 }
 
 .tooltip-title {
   margin: 0 0 8px;
-  color: var(--vp-c-text-1);
+  color: var(--fmhy-tooltip-text, var(--vp-c-text-1));
   font-size: 16px;
   font-weight: 600;
   line-height: 22px;
 }
 
 .tooltip-body {
-  color: var(--vp-c-text-1);
+  color: var(--fmhy-tooltip-text, var(--vp-c-text-1));
   font-size: 14px;
   line-height: 1.6;
 
@@ -119,5 +126,6 @@ const triggers = computed(() => (isHoverable.value ? ['hover'] : ['click']))
   box-shadow: none !important;
   border: none !important;
   padding: 0 !important;
+  overflow: visible !important;
 }
 </style>
