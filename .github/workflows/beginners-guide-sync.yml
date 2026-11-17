@@ -1,0 +1,49 @@
+name: Sync Beginners Guide
+
+# Keep the quick-pick lists in docs/beginners-guide.md aligned with the wiki
+# category docs (docs/video.md, docs/audio.md, etc.). Everything the script
+# changes lives between sync markers, so hand-written guide content is never
+# touched.
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # every Monday at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: beginners-guide-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Run beginners guide sync
+        run: node scripts/sync-beginners-guide.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add docs/beginners-guide.md
+            git commit -m "chore: sync beginners guide"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
+          else
+            echo "No beginners guide changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

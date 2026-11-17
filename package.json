@@ -21,6 +21,8 @@
     "lint": "eslint --cache .",
     "lint:md": "node scripts/lint-markdown.js || true",
     "prepare": "simple-git-hooks",
+    "sync:bg": "node scripts/sync-beginners-guide.js",
+    "sync:bg:check": "node scripts/sync-beginners-guide.js --check",
     "test": "node --test"
   },
   "simple-git-hooks": {

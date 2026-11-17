@@ -1,3 +1,9 @@
+### Wiki Navigation
+
+The wiki sidebar lists every category. Each has its own page with more sites than this guide. Entries in each section are ordered best to worst, so the top entries are the strongest picks, and **⭐ starred** entries are the ones we currently recommend most.
+
+***
+
 ### Adblocking
 
 > How important is using an adblocker?
@@ -49,58 +55,82 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ***
 
+<!-- Quick-pick lists below are auto-synced via scripts/sync-beginners-guide.js; edit MAPPING there instead of editing inside sync markers by hand. -->
+
 ### Movies / Shows
 
-* **Streaming: [NEPU](https://nepu.io/) / [Movy](https://www.movy.sx/) / [Cinejoy](https://cinejoy.pk/) / [Cinecat](https://cinecat.eu/)**
+<!-- sync:start movies-streaming -->
+* **Streaming: [Cinejoy](https://cinejoy.pk/) / [7Movies](https://7movies.ac/) / [Cinecat](https://cinecat.eu/) / [PopcornMovies](https://popcornmovies.st/)**
+  <!-- sync:end movies-streaming -->
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
-* **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [StreamCorner](https://streamcorner.st/) / [TimStreams](https://timstreams.st/)**
-* **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
+  <!-- sync:start movies-media -->
+* **Torrenting: [1337x Movies](https://1337x.to/movie-library/1/) / [ExT](https://ext.to/)**
+* **Sports Streaming: [TimStreams](https://tim-streams.com/) / [StreamCorner](https://strmcrnr.st/)**
+* **Drama Streaming: [KatDrama](https://k-drama.in/) / [GoPlay](https://goplay.su/)**
 * **Tracking: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
-* **Discovery: [They Shoot Pictures](https://theyshootpictures.com/) / [MDBList](https://mdblist.com/) / [SeriesGraph](https://seriesgraph.com/)**
+* **Discovery: [They Shoot Pictures](https://www.theyshootpictures.com/) / [MDBList](https://mdblist.com/) / [Series Graph](https://seriesgraph.com/)**
+<!-- sync:end movies-media -->
+
+*For more options, check the full [Movies / TV / Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video) section.*
 
 ***
 
 ### Anime
 
-* **Streaming: [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/) / [animepahe](https://animepahe.pw/)**
+<!-- sync:start anime -->
+* **Streaming: [animepahe](https://animepahe.pw/) / [KotoPlay](https://kotoplay.to/) / [Re:ANIME](https://reanime.cz/) / [Miruro](https://miruro.cx)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Tracking: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
-* **Discovery: [Anime-Planet](https://www.anime-planet.com/anime/recommendations) / [AnimeKarmaList](https://animekarmalist.com/)**
+* **Discovery: [Anime-Planet](https://www.anime-planet.com/) / [AnimeKarmaList](https://animekarmalist.com/)**
+<!-- sync:end anime -->
+
+*For more options, check the full [Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_streaming) section.*
 
 ***
 
 ### Music
 
+<!-- sync:start music -->
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.st/)**
 * **Downloading: [lucida](https://lucida.to/) / [Nicotine+](https://nicotine-plus.org/)**
-* **Android: [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [⁠ArchiveTune](https://archivetune.miuka.moe/) / [Mornye](https://mornye.com/)**
-* **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.pages.dev/) / [EeveeSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
-* **Tracking: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/)**
-* **Discovery: [RYM Charts](https://rateyourmusic.com/charts/) / [AnyDecentMusic](https://www.anydecentmusic.com/) / [NTS Radio](https://www.nts.live/)**
+* **Android: [Morphe](https://morphe.software/) (YTM Patch) / [Easy Install / Updates](https://wispydocs.pages.dev/morphe-piko-obtainium/) / [ArchiveTune](https://archivetune.miuka.moe/) / [Mornye](https://mornye.com/)**
+* **iOS: [8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.pages.dev/) / [EeveeSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
+* **Tracking: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
+* **Discovery: [RateYourMusic Charts](https://rateyourmusic.com/charts/) / [AnyDecentMusic](https://anydecentmusic.com/) / [NTS Radio](https://www.nts.live/)**
+<!-- sync:end music -->
+
+*For more options, check the full [Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio) section.*
 
 ***
 
 ### Gaming
 
-* **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
-* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
+<!-- sync:start gaming -->
+* **Download / Torrent: [HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
 * **Tracking: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 * **Discovery: [AcclaimedVideoGames](https://www.acclaimedvideogames.com/) / [SteamDB Ratings](https://steamdb.info/stats/gameratings/)**
+<!-- sync:end gaming -->
+
+*For more options, check the full [Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games) section.*
 
 ***
 
 ### Reading
 
+<!-- sync:start reading -->
 * **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
 * **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-critical.md)**
 * **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [Kagane](https://kagane.org/) / [MangaDot](https://mangadot.net/)**
 * **Comics: [BatCave](https://batcave.biz/) / [GetComics](https://getcomics.org/)**
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://clarasguide.valeena.workers.dev/Guides/moontheme/)**
-* **Tracking: [StoryGraph](https://www.thestorygraph.com/) / [Hardcover](https://hardcover.app/) (Books) / [MAL](https://myanimelist.net/) (Manga) / [League of Comic Geeks](https://leagueofcomicgeeks.com/) (Comics)**
-* **Discovery: [Five Books](https://fivebooks.com/) / [The Greatest Books](https://thegreatestbooks.org/) (Books) / [MangaBaka](https://mangabaka.org/) (Manga) / [ComicBookCanon](https://www.comicbookcanon.com/) (Comics)**
+* **Tracking: [StoryGraph](https://www.thestorygraph.com/) / [Hardcover](https://hardcover.app/) (Books) / [MAL](https://myanimelist.net/) (Manga) / [LeagueOfComicGeeks](https://leagueofcomicgeeks.com/) (Comics)**
+* **Discovery: [Five Books](https://fivebooks.com/) / [The Greatest Books](https://www.thegreatestbooks.org/) (Books) / [MangaBaka](https://mangabaka.org/) (Manga) / [ComicBookCanon](https://www.comicbookcanon.com/) (Comics)**
+<!-- sync:end reading -->
+
+*For more options, check the full [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading) section.*
 
 ***
 
@@ -128,7 +158,11 @@ Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrav
 
 Note you can turn on file extensions for all files by opening File Explorer, clicking on the "View" menu, and checking the box next to "File name extensions."
 
+<!-- sync:start software-sites -->
 * **Software Sites: [Virgil Software Search](https://virgil.samidy.com/?engine=software) / [CracksURL](https://cracksurl.com/) / [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
+<!-- sync:end software-sites -->
+
+*For more options, check the full [Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) section.*
 
 ***
 
@@ -148,19 +182,27 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### Android Apps
 
+<!-- sync:start android -->
 * **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
 * **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 * **[Droid-ify](https://droidify.app/)** - FOSS Android Apps / [GitHub](https://github.com/Droid-ify/client)
-* **[Obtainium](https://github.com/ImranR98/Obtainium/)** - Get Android App Updates
+* **[Obtainium](https://obtainium.imranr.dev/)** - Get Android App Updates
+<!-- sync:end android -->
+
+*For more options, check the full [Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android) section.*
 
 ***
 
 ### iOS Sideloading
 
-* **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
-* **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App [iOS 16.0 & Above]
+<!-- sync:start ios -->
+* **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0 - 16.6.1, 16.7 RC, 17.0]
+* **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App [iOS 14.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideload Apps [iOS 7.0 & Above]
-* **[Impactor](https://impactor.claration.dev/)** - Non-Jailbreak Sideloading
+* **[Impactor](https://impactor.claration.dev/)** - Non-Jailbreak Sideloading [iOS 9.0 & Above]
+<!-- sync:end ios -->
+
+*For more options, check the full [iOS Sideloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_sideloading) section.*
 
 ***
 
