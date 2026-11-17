@@ -26,7 +26,7 @@
 * [TukTukCinema](https://tuktukcinemas.com/) - Movies / TV / Anime
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
 * [Anime3rb](https://anime3rb.com/) - Anime / Sub / 1080p
-* [⁠Adhaf](https://ahdaf-kooora.net/) - Sports Replays
+* [Ahdaf-Kooora](https://ahdaf-kooora.net/) - Sports Replays
 * [nghmat](https://songs.nghmat.com/) - Music / MP3
 * [⁠Sama3y - سماعي](https://www.sama3y.net/) - Music / Classical / Forum / Sign-Up Required
 * [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts
@@ -43,7 +43,7 @@
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
 * [EgyBest](https://egybest.la/) - Movies / TV / Anime
-* [⁠My Cima](https://mycima.gdn/) - Movies / TV
+* [⁠MyCima](https://mycima.gdn/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
 * [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
 * [TukTukCinema](https://tuktukcinemas.com/) - Movies / TV / Anime
@@ -1079,7 +1079,6 @@
 * [dokumentalne](https://dokumentalne.net/) - Documentaries
 * [radio-polska](https://www.radio-polska.pl/) or [radioyanosik](https://radioyanosik.pl/) - Radio
 * [Purevideo](https://majusss.github.io/) - Streaming App / Android / [GitHub](https://github.com/majusss/purevideo)
-* [FlowFlix](https://flowflix.vercel.app/) - Streaming App / Windows, Android / [Discord](https://discord.gg/VSUWb283RK) / [GitHub](https://github.com/qJulianx/FlowFlixWeb)
 * [Naikamu](https://github.com/FezMLG/Naikamu) - Anime Streaming App / [Altstore](https://api.altstore.io/source/api.naikamu.com/api/store?app=com.tltcode.naikamu) / Android, iOS
 * [adapter](https://adapter.pl/) - Descriptive Audio for Blind Users
 

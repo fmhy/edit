@@ -106,7 +106,6 @@
 * [Jane Reader](https://janereader.com/) - Ebook Reader / Windows, macOS
 * [FBReader](https://fbreader.org/) - Ebook Reader / Windows, Android, iOS
 * [Anx Reader](https://anx.anxcye.com/) - Ebook Reader / Windows, macOS, Android, iOS / [GitHub](https://github.com/anxcye/anx-reader)
-* [Alexandria](https://github.com/btpf/Alexandria) - Ebook Reader / Windows, macOS, Linux
 * [Librum](https://librumreader.com) - Ebook Reader / Windows, macOS, Linux / [GitHub](https://github.com/Librum-Reader/Librum)
 * [Thorium](https://www.thoriumreader.com/) - Ebook Reader / Windows, macOS, Linux / [Discord](https://discord.com/invite/84wgWhFKDY) / [GitHub](https://github.com/edrlab/thorium-reader/)
 * [Okular](https://okular.kde.org/) - PDF Reader / Windows, macOS, Linux / [GitLab](https://invent.kde.org/graphics/okular)

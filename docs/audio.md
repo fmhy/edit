@@ -417,7 +417,7 @@
 * [⁠Riplet](https://riplet.cc/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* [cobalt](https://cobalt.tools/) - SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
+* [cobalt](https://cobalt.directory/), [2](https://cobalt.tools/) - SoundCloud / 128kb MP3 / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * [squid.wtf](https://squid.wtf/) - KHInsider / JioSaavn / FLAC
 * [Rhythmax JioSaavn Downloader](https://saavn.odskyler.com/) - JioSaavn / 320kb AAC / [Discord](https://discord.gg/PAKgD6Jhfm) / [GitHub](https://github.com/ODSkyler/saavn-dl)
 
@@ -686,7 +686,7 @@
 * [⁠Record Club](https://record.club/) - Ratings / Reviews
 * [Ultimate Music Database](https://www.umdmusic.com/) - Music Database
 * [MusicBrainz](https://musicbrainz.org/) - Music Database
-* [⁠EntertainMe](https://www.entertainme.fun/), [rate.house](https://rate.house/), [libib](https://www.libib.com/), or [MediaTracker](https://github.com/bonukai/MediaTracker) - Media Tracking & Cataloging Tools
+* [⁠EntertainMe](https://www.entertainme.fun/), [rate.house](https://rate.house/) or [libib](https://www.libib.com/) - Media Tracking & Cataloging Tools
 * [Maloja](https://github.com/krateng/maloja) or [Multi Scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Self-Hosted Audio Scrobbling
 * [Has it Leaked](https://hasitleaked.com/) - Album Leak Tracker
 * [SoundtrackTracklist](https://soundtracktracklist.com/), [⁠What Song](https://what-song.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
