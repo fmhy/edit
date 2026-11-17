@@ -7,6 +7,7 @@
  * and styling, but only sets target="_blank" for external (absolute) URLs.
  * Internal root-relative links such as /other/discord navigate in place.
  */
+
 import type { DefaultTheme } from 'vitepress/theme'
 import { computed, nextTick, onMounted, ref, useSSRContext } from 'vue'
 

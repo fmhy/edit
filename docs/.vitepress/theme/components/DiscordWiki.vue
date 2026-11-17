@@ -3,6 +3,7 @@
  * Minimal live view of the FMHY Discord wiki markdown.
  * Fetches the raw source at runtime and renders it as clean prose.
  */
+
 import { onMounted, ref } from 'vue'
 import { sanitizeRichHtml } from '../composables/sanitize'
 
