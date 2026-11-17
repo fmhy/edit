@@ -182,22 +182,28 @@ onMounted(load)
       </p>
     </noscript>
 
-    <p v-if="status === 'loading'" class="dw-note">Loading…</p>
+    <ClientOnly>
+      <p v-if="status === 'loading'" class="dw-note">Loading…</p>
 
-    <p v-else-if="status === 'error'" class="dw-note">
-      Could not load ({{ errorText }}).
-    </p>
+      <p v-else-if="status === 'error'" class="dw-note">
+        Could not load ({{ errorText }}).
+      </p>
 
-    <template v-else>
-      <p class="dw-status">
-        <span class="dw-status-label">Current Status:</span>
-        <span class="dw-pill" :class="`dw-pill-${tone}`">{{ statusText }}</span>
-      </p>
-      <div class="dw-body" v-html="bodyHtml"></div>
-      <p class="dw-source">
-        <a :href="WIKI_URL" target="_blank" rel="noopener noreferrer">Source</a>
-      </p>
-    </template>
+      <template v-else>
+        <p class="dw-status">
+          <span class="dw-status-label">Current Status:</span>
+          <span class="dw-pill" :class="`dw-pill-${tone}`">
+            {{ statusText }}
+          </span>
+        </p>
+        <div class="dw-body" v-html="bodyHtml"></div>
+        <p class="dw-source">
+          <a :href="WIKI_URL" target="_blank" rel="noopener noreferrer">
+            Source
+          </a>
+        </p>
+      </template>
+    </ClientOnly>
   </div>
 </template>
 
