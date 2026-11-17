@@ -8,6 +8,7 @@ import { sanitizeRichHtml } from '../composables/sanitize'
 
 const SOURCE_URL =
   'https://raw.githubusercontent.com/wiki/fmhy/FMHY/FMHY-Discord.md'
+const WIKI_URL = 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord'
 const TITLE = 'FMHY Discord'
 
 type Tone = 'closed' | 'open' | 'idle'
@@ -171,6 +172,16 @@ onMounted(load)
   <div class="dw-root">
     <h1>{{ TITLE }}</h1>
 
+    <noscript>
+      <p class="dw-note">
+        This page loads its content with JavaScript. View the
+        <a :href="WIKI_URL" target="_blank" rel="noopener noreferrer">
+          FMHY Discord wiki on GitHub
+        </a>
+        instead.
+      </p>
+    </noscript>
+
     <p v-if="status === 'loading'" class="dw-note">Loading…</p>
 
     <p v-else-if="status === 'error'" class="dw-note">
@@ -183,6 +194,9 @@ onMounted(load)
         <span class="dw-pill" :class="`dw-pill-${tone}`">{{ statusText }}</span>
       </p>
       <div class="dw-body" v-html="bodyHtml"></div>
+      <p class="dw-source">
+        <a :href="WIKI_URL" target="_blank" rel="noopener noreferrer">Source</a>
+      </p>
     </template>
   </div>
 </template>
@@ -245,6 +259,21 @@ onMounted(load)
 .dw-pill-idle {
   background: var(--vp-c-bg-soft, var(--vp-c-bg-alt));
   color: var(--vp-c-text-2);
+}
+
+.dw-source {
+  font-size: 12px;
+  margin: 24px 0 0;
+}
+
+.dw-source a {
+  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  text-decoration: none;
+}
+
+.dw-source a:hover {
+  color: var(--vp-c-text-2);
+  text-decoration: underline;
 }
 
 .dw-body {
