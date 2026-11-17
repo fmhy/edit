@@ -1,6 +1,6 @@
 ---
-title: Discord wiki
-description: Live card view of the FMHY Discord wiki page.
+title: FMHY Discord
+description: Current status of the FMHY Discord, fetched live from the wiki.
 editLink: false
 outline: false
 next: false
