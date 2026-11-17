@@ -75,6 +75,7 @@ function inlineMarkdown(text: string): string {
   out = out.replace(/~~([^~]+)~~/g, '<del>$1</del>')
 
   out = out.replace(
+    // eslint-disable-next-line no-control-regex -- NUL byte is an internal placeholder sentinel
     /\u0000C(\d+)\u0000/g,
     (_m, i: string) => codes[Number(i)] || ''
   )
