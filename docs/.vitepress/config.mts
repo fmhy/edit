@@ -183,6 +183,12 @@ export default defineConfig({
           replacement: fileURLToPath(
             new URL('./theme/components/VPNav.vue', import.meta.url)
           )
+        },
+        {
+          find: /^.*VPSocialLink\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPSocialLink.vue', import.meta.url)
+          )
         }
       ]
     },
