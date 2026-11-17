@@ -5,7 +5,7 @@ editLink: false
 outline: false
 next: false
 prev: false
-sidebar: false
+sidebar: true
 ---
 
 <script setup>
