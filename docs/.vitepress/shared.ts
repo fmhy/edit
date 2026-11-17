@@ -158,7 +158,7 @@ export const feedback = `<a href="/feedback" class="feedback-footer">Made with â
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
   { icon: 'github', link: 'https://github.com/fmhy/edit' },
-  { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
+  { icon: 'discord', link: '/other/discord-wiki' },
   {
     icon: 'reddit',
     link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
