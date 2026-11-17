@@ -51,6 +51,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Movies / Shows
 
+* **Top 3 Streaming Sites: [Cinejoy](https://cinejoy.pk/) / [7Movies](https://7movies.ac/) / [Cinecat](https://cinecat.eu/)**
 * **Streaming: [NEPU](https://nepu.io/) / [Movy](https://www.movy.sx/) / [Cinejoy](https://cinejoy.pk/) / [Cinecat](https://cinecat.eu/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
