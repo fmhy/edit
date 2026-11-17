@@ -39,7 +39,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           if [ -n "$(git status --porcelain)" ]; then
             git add docs/video.md scripts/rotation-state.json
-            git commit -m "chore: rotate streaming aggregators (FIFO) [skip ci]"
+            git commit -m "chore: rotate streaming aggregators (FIFO)"
             git push origin HEAD:"${GITHUB_REF_NAME}"
           else
             echo "No rotation changes to commit."
