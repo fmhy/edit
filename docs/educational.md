@@ -132,6 +132,7 @@
 * [Frick](https://www.frick.org/art) - The Frick Collection / Fine Art
 * [Gardner Museum](https://www.gardnermuseum.org/experience/collection) - Isabella Stewart Gardner Museum Collection
 * [Museo](https://museo.app/) - Art Collections / Public-Domain Image Search
+* [⁠Artnap](https://artnap.com/) - Art Collections / Public-Domain Image Search
 * [Haltadefinizione](https://www.haltadefinizione.com/en/) - High-Resolution Art Images / Italian Art
 * [Artchive](https://www.artchive.com/) - Art History / Artist Collections
 * [Arthur](https://arthur.io/) - Art Discovery / Collections
@@ -1032,7 +1033,7 @@
 * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
-* ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
+* ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** or [SpeedcubeQuest](https://speedcube.quest/) - Algorithm Databases
 * [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
 * [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
@@ -1868,6 +1869,7 @@
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
+* [⁠LearnHarness](https://learnharness.ai/) - AI Learning Agent / [GitHub](https://github.com/amosblomqvist/learnharness)
 * [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
 * [StudyStream](https://www.studystream.live/) or [⁠Yeolpumta](https://www.yeolpumta.com/en) - Online Study Groups

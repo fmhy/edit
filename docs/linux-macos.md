@@ -328,7 +328,7 @@
 * [⁠LeShade](https://github.com/Ishidawg/LeShade) - ReShade Manager
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
 * [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine
-* [DLSS5VKLayer](https://www.phoronix.com/news/DLSS5VKLayer) - Vulkan DLSS 5 Neural Rendering Layer / [GitHub](https://github.com/bmitch87/DLSS5VKLayer)
+* [DLSS5VKLayer](https://github.com/bmitch87/DLSS5VKLayerr) - Vulkan DLSS 5 Neural Rendering Layer
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) or [DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek/) - DXVK Forks w/ Async / Vulkan-Based Direct3D & D3D3-11 / Stutter Reduction
 * [⁠lsfg-vk](https://lsfg-vk.dev/) - Lossless Scaling for Linux / [Source Code](https://git.lsfg-vk.dev/lsfg-vk)
 * [vkBasalt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
@@ -340,7 +340,7 @@
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified GPU Passthrough
 * [⁠WiVRn](https://wivrn.github.io/) - Wirelessly Stream PC VR Games from Linux to Standalone VR Headset
 * [⁠osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! Installer for Linux
-* [Sober](https://sober.vinegarhq.org/) or [⁠Nightcap](https://github.com/CoderDayton/nightcap) [Discord](https://discord.com/invite/DbAUG9hBFU) - Roblox on Linux / [Vinegar (Studio Only)](https://vinegarhq.org/)
+* [⁠Nightcap](https://coderdayton.github.io/nightcap/) - Roblox on Linux / [Vinegar (Studio Only)](https://vinegarhq.org/) / [Discord](https://discord.com/invite/DbAUG9hBFU) / [GitHub](https://github.com/CoderDayton/nightcap)
 * [⁠Touhou Linux Guide](https://daichungus.github.io/touhoulinuxguide/), [2](https://daichungus.codeberg.page/touhoulinuxguide/) - Touhou Game Series Linux Guide / [GitHub](https://github.com/daichungus/touhoulinuxguide)
 
 ***
@@ -817,7 +817,7 @@
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Mole](https://github.com/tw93/Mole) - System Cleanup / Optimization Multi-Tool
-* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstaller / [GitHub](https://github.com/alienator88/Pearcleaner)
+* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [GitHub](https://github.com/alienator88/Pearcleaner) or [⁠MacLean](https://github.com/Hasan72341/maclean) - System Cleanup / Uninstallers
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller / Custom Resolutions / HDR Control
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
 * [OpenDisplay](https://opendisplay.app/) - Use iOS Device as Secondary macOS Monitor / [GitHub](https://github.com/peetzweg/opendisplay)

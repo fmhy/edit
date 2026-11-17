@@ -54,6 +54,7 @@
 * [wipe.photos](https://wipe.photos/) or [HAMA](https://www.hama.app/) - Object Removers / Web
 * [⁠BG0](https://bg0.dev/) - Background Remover / Web / [GitHub](https://github.com/opencoredev/bg0)
 * [Pixelcut](https://www.pixelcut.ai/background-remover) - Background Remover / Web
+* [⁠BRIA RMBG 3.0](https://huggingface.co/spaces/briaai/BRIA-RMBG-3.0) - Background Remover / Web
 * [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background) - Background Remover / Web
 * [Cutout](https://scadavide55.github.io/cutout/) - Background Remover / Web / [GitHub](https://github.com/scadavide55/cutout)
 * [BG Bye](https://bgbye.io/) - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
@@ -741,7 +742,7 @@
 * ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
 * ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
 * [⁠Zeiger](https://zeigerviewer.com/) / Windows, macOS
-* [QuickView](https://github.com/justnullname/QuickView) / Windows
+* [QuickView](https://quickview.viiv.top/) / Windows / [GitHub](https://github.com/justnullname/QuickView)
 * [FastStone](https://www.faststone.org/index.htm) / Windows
 * [XnView MP](https://www.xnview.com/en/xnview/) / Windows, macOS, Linux
 * [Image Eye](https://www.fmjsoft.com/imageeye.html) / Windows
@@ -760,7 +761,7 @@
 * [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
 * [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
 * [picturama](https://picturama.github.io/) / Windows, macOS, Linux / [GitHub](https://github.com/picturama/picturama)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux
+* [BeeRef](https://beeref.org/) / [GitHub](https://github.com/rbreu/beeref) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux
 * [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux
 

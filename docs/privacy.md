@@ -72,7 +72,7 @@
 * [DNSBunker](https://dnsbunker.org/) - Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking / German Servers
 * [Rethink DNS Resolver](https://rethinkdns.com/configure) - DNS Provider / Mix Multiple Blocklists / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/rethink-note.md)
 * [HaGeZi DNS](https://github.com/hagezi/dns-servers) - Free, Non-Commercial EU DNS Servers
-* [DNS for Family](https://dnsforfamily.com/) - Family Filtering with Safe Search & Malware Protection / German + Finnish Servers
+* [CleanBrowsing](https://cleanbrowsing.org/filters/) or [DNS for Family](https://dnsforfamily.com/) - Family Filtering with Safe Search & Malware Protection
 * [Control D](https://controld.com/features/dns-filtering) - Control Free DNS / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [DNS Forge](https://dnsforge.de/) - German DNS Servers with Four Filtering Levels
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / German Servers

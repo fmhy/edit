@@ -56,7 +56,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [StreamCorner](https://streamcorner.st/) / [TimStreams](https://timstreams.st/)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
-* **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
+* **Tracking: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
+* **Discovery: [They Shoot Pictures](https://theyshootpictures.com/) / [MDBList](https://mdblist.com/) / [SeriesGraph](https://seriesgraph.com/)**
 
 ***
 
@@ -65,7 +66,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/) / [animepahe](https://animepahe.pw/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
-* **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
+* **Tracking: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
+* **Discovery: [Anime-Planet](https://www.anime-planet.com/anime/recommendations) / [AnimeKarmaList](https://animekarmalist.com/)**
 
 ***
 
@@ -75,7 +77,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Downloading: [lucida](https://lucida.to/) / [Nicotine+](https://nicotine-plus.org/)**
 * **Android: [Morphe](https://wispydocs.pages.dev/morphe-piko-obtainium/) (YTM Patch) / [⁠ArchiveTune](https://archivetune.miuka.moe/) / [Mornye](https://mornye.com/)**
 * **iOS: [⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415) / [Modules](https://8spine-modules.pages.dev/) / [EeveeSpotifyReincarnated](https://t.me/eeveespotify_hazel)**
-* **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
+* **Tracking: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/)**
+* **Discovery: [RYM Charts](https://rateyourmusic.com/charts/) / [AnyDecentMusic](https://www.anydecentmusic.com/) / [NTS Radio](https://www.nts.live/)**
 
 ***
 
@@ -83,7 +86,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 * **Download / Torrent: [⁠HizSearch](https://hizsearch.pages.dev/) / [Virgil Game Search](https://virgil.samidy.com/?engine=games) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [Axekin](https://www.axekin.com/) / [r/ROMs Mega](https://r-roms.github.io/)**
-* **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
+* **Tracking: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
+* **Discovery: [AcclaimedVideoGames](https://www.acclaimedvideogames.com/) / [SteamDB Ratings](https://steamdb.info/stats/gameratings/)**
 
 ***
 
@@ -95,7 +99,8 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Manga: [Weeb Central](https://weebcentral.com/) / [Kagane](https://kagane.org/) / [MangaDot](https://mangadot.net/)**
 * **Comics: [BatCave](https://batcave.biz/) / [GetComics](https://getcomics.org/)**
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://clarasguide.valeena.workers.dev/Guides/moontheme/)**
-* **Track / Discover: [StoryGraph](https://www.thestorygraph.com/)** (books) / **[Hardcover](https://hardcover.app/)** (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
+* **Tracking: [StoryGraph](https://www.thestorygraph.com/) / [Hardcover](https://hardcover.app/) (Books) / [MAL](https://myanimelist.net/) (Manga) / [League of Comic Geeks](https://leagueofcomicgeeks.com/) (Comics)**
+* **Discovery: [Five Books](https://fivebooks.com/) / [The Greatest Books](https://thegreatestbooks.org/) (Books) / [MangaBaka](https://mangabaka.org/) (Manga) / [ComicBookCanon](https://www.comicbookcanon.com/) (Comics)**
 
 ***
 
