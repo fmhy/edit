@@ -13,6 +13,11 @@ positions, and normal stars only ever occupy normal-star positions. Plain,
 unstarred entries and all surrounding markdown are left byte-for-byte
 untouched.
 
+The same run also FIFO-rotates the hand-picked four-site streaming row on the
+Beginners Guide (docs/beginners-guide.md): the first entry moves to the end,
+so that row cycles every four runs. It shares the same counter, so the state
+file schema is unchanged.
+
 A small state file records how many rotations have happened and the last UTC
 date a rotation was applied. Repeated runs on the same UTC date are skipped
 (unless --force is given) so a manual dispatch followed by the daily cron
@@ -46,6 +51,17 @@ STAR_MARKER = "\u2b50"       # ⭐ white star   -> normal stars
 TIERS = (
     ("super_stars", SUPER_MARKER),
     ("stars", STAR_MARKER),
+)
+
+BG_PATH = os.path.join(REPO_ROOT, "docs", "beginners-guide.md")
+BG_LABEL = "* **Streaming: "
+BG_ENTRY_SEPARATOR = " / "
+# The set of sites identifies the row; their order is what the rotation changes.
+BG_SITES = (
+    "https://nepu.io/",
+    "https://www.movy.sx/",
+    "https://cinejoy.pk/",
+    "https://cinecat.eu/",
 )
 
 
@@ -127,6 +143,58 @@ def rotate(values):
     return values[1:] + values[:1]
 
 
+def entry_names(entries):
+    """Link labels of entries, e.g. '* 🌟 **[Movy](...)' -> Movy."""
+    names = (e.split("](", 1)[0].rsplit("[", 1)[-1] for e in entries)
+    return " / ".join(names)
+
+
+def rotate_beginners_guide_row(lines):
+    """One FIFO step for the four-site streaming row of the Beginners Guide.
+
+    Runs in the same pass as the video.md rotation. Only the entry order
+    changes: the label, the bold markers, the link markdown and the separators
+    are reused byte for byte. Returns (new_lines, index, before, after).
+    """
+    hits = [i for i, line in enumerate(lines) if all(s in line for s in BG_SITES)]
+    if len(hits) != 1:
+        raise SystemExit(
+            "error: expected exactly one Beginners Guide row listing "
+            + ", ".join(BG_SITES)
+            + f", found {len(hits)}"
+        )
+    index = hits[0]
+
+    body = lines[index]
+    newline = ""
+    if body.endswith("\r\n"):
+        body, newline = body[:-2], "\r\n"
+    elif body.endswith("\n"):
+        body, newline = body[:-1], "\n"
+
+    if not body.startswith(BG_LABEL) or not body.endswith("**"):
+        raise SystemExit(
+            f"error: Beginners Guide row does not match {BG_LABEL + '<entries>**'!r}: {body!r}"
+        )
+
+    entries = body[len(BG_LABEL):-2].split(BG_ENTRY_SEPARATOR)
+    for site in BG_SITES:
+        if sum(1 for entry in entries if site in entry) != 1:
+            raise SystemExit(
+                f"error: Beginners Guide row does not list {site!r} exactly once: {body!r}"
+            )
+    if len(entries) != len(BG_SITES):
+        raise SystemExit(
+            f"error: Beginners Guide row has {len(entries)} entries, "
+            f"expected {len(BG_SITES)}: {body!r}"
+        )
+
+    rotated = rotate(entries)
+    new_lines = list(lines)
+    new_lines[index] = BG_LABEL + BG_ENTRY_SEPARATOR.join(rotated) + "**" + newline
+    return new_lines, index, entries, rotated
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -180,8 +248,15 @@ def main():
         for member in info["members"]:
             label = member.split("]", 1)[0].replace("* ", "").strip()
             print(f"      {label}")
+        if args.check:
+            print(f"      after rotation: {entry_names(rotate(info['members']))}")
 
+    bg_lines = read_lines(BG_PATH)
+    bg_new, bg_index, bg_before, bg_after = rotate_beginners_guide_row(bg_lines)
+    print(f"Beginners Guide streaming row: line {bg_index + 1}")
+    print(f"  {entry_names(bg_before)}")
     if args.check:
+        print(f"  after rotation: {entry_names(bg_after)}")
         print("--check: no files modified")
         return 0
 
@@ -208,6 +283,9 @@ def main():
     new_lines = lines[:start] + new_region + lines[end:]
     write_lines(DOC_PATH, new_lines)
 
+    if bg_new != bg_lines:
+        write_lines(BG_PATH, bg_new)
+
     state["version"] = state.get("version", 1)
     state["rotations"] = int(state.get("rotations", 0)) + 1
     state["last_rotation_date"] = today
@@ -221,6 +299,11 @@ def main():
 
     print(f"Rotation #{state['rotations']} applied on {today}.")
     print(f"Updated: {DOC_PATH}")
+    if bg_new != bg_lines:
+        print(
+            f"Updated: {BG_PATH} (line {bg_index + 1}): "
+            f"{entry_names(bg_before)} -> {entry_names(bg_after)}"
+        )
     print(f"Updated: {STATE_PATH}")
     return 0
 

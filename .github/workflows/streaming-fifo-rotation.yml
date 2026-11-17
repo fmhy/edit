@@ -38,7 +38,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           if [ -n "$(git status --porcelain)" ]; then
-            git add docs/video.md scripts/rotation-state.json
+            git add docs/video.md docs/beginners-guide.md scripts/rotation-state.json
             git commit -m "chore: rotate streaming aggregators (FIFO)"
             git push origin HEAD:"${GITHUB_REF_NAME}"
           else
