@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rotations": 0,
+  "last_rotation_date": null,
+  "last_rotation_utc": null,
+  "tiers": {
+    "super_stars": {
+      "marker": "🌟",
+      "count": 0,
+      "members": []
+    },
+    "stars": {
+      "marker": "⭐",
+      "count": 0,
+      "members": []
+    }
+  }
+}

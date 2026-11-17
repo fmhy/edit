@@ -1,0 +1,48 @@
+name: Rotate Streaming Aggregators (FIFO)
+
+# Rotate the two star tiers inside docs/video.md's "Stream Aggregators"
+# subsection once per day at 00:00 UTC. Super stars (🌟) rotate only among
+# themselves; normal stars (⭐) rotate only among themselves. Tiers never mix.
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streaming-fifo-rotation
+  cancel-in-progress: false
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Run FIFO rotation
+        run: python3 scripts/rotate-streaming-aggregators.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add docs/video.md scripts/rotation-state.json
+            git commit -m "chore: rotate streaming aggregators (FIFO) [skip ci]"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
+          else
+            echo "No rotation changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
