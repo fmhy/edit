@@ -174,6 +174,6 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ***
 
-**Beginners Guide Links**
-https://fmhy.net/beginners-guide
-https://rentry.org/Piracy-BG/
+**Beginners Guide Links**  
+https://fmhy.net/beginners-guide  
+https://rentry.org/Piracy-BG/  
