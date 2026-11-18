@@ -19,7 +19,7 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Meiro](https://meiro.elianiva.com/) - YouTube Music Client / [GitHub](https://github.com/elianiva/meiro)
 * [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - YouTube Music Client
-* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client / [GitHub](https://github.com/grapedjuice/ytm-rs)
+* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/grapedjuice/ytm-rs)
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
