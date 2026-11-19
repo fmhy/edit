@@ -729,8 +729,8 @@
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [⁠F-16.net](https://www.f-16.net/) - F-16, F-22 and F-35 Info, History, Images, Stories & more
-* [⁠B-17 Flying Fortress](https://b17flyingfortress.de/en/) - B-17 Info, History, Images & more
 * [⁠P-51 Mustang](https://www.mustangsmustangs.com/p-51/) - P-51 Mustang Info, History, Images & more
+* [⁠B-17 Flying Fortress](https://b17flyingfortress.de/en/) - B-17 Info, History, Images & more
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)

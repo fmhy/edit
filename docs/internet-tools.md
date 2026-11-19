@@ -753,7 +753,6 @@
 * [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
-* [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback
 * [Broken Link Checker](https://webextension.org/listing/broken-link-checker.html) - Checks Page for Broken Links
 * [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/firefox/addon/fireshot/) - Full Page Screenshots
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URLs in One Click

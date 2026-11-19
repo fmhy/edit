@@ -57,6 +57,7 @@
 * [Vumeto](https://vumeto.live/) - 4K / Dual Audio / Pop up + Redirect Free
 * [Stellar](https://stellar.rip/) - 4K / External Subs / Popup + Redirect Free
 * [4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle
+* [driftly](https://driftly.live/) - 4K / Pop up + Redirect Free
 * [TaroFlix](https://taroflix.net/) or [Cinetaro](https://cinetaro.to/) - 1080p / Dual Audio / Ad-Toggle / [Discord](https://discord.gg/2UPkZwn9v)
 * [VaultPlayer](https://vaultplayer.co.uk/) - 1080p / Popup + Redirect Free
 * [VidPlay](https://vidplay.to/) - 1080p / External Subs / Popup + Redirect Free
@@ -112,7 +113,7 @@
 * [CinemaCity](https://cinemacity.cc/) - 480p / Dual Audio / Popup + Redirect Free / [Telegram](https://t.me/CinemaCity_rip)
 * [Flixtrz](https://flixtrz.com/) - 720p / Dual Audio / Ad-Toggle
 * [Abibli](https://abibli.com/) - 720p / Dual Audio / Popup + Redirect Free
-* [RidoMovies](https://ridomovies.is/) - 1080p / External Subs
+* [RidoMovies](https://ridomovie.to/) - 1080p / External Subs
 * [Filmo](https://filmo.to/) - 720p / Dual Audio / Popup + Redirect Free / [Mirrors](https://filmo.domains/)
 * [Play4u](https://play4u.org/) - 1080p / Dual Audio / Popup + Redirect Free
 * [OnionPlay](https://onionplay.ae/) - 1080p / Switch to Dedicated First Player / [Discord](https://discord.com/invite/RjJgF755Pa)
@@ -127,6 +128,7 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - 1080p
 * [MovieBox](https://movieboxonline.net), [2](https://officialmoviebox.com/), [3](https://123moviesfree.club/), [4](https://netnaija.film), [5](https://m2box.org/) - 1080p / Popup + Redirect Free / [Mirrors](https://moviebox.co/)
 * [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/), [3](https://lookmovie0.to/), [4](https://lookmovie4.to/), [5](https://lookmovie5.to/), [6](https://lookmovie6.to/) - 480p / External Subs / Popup + Redirect Free
+* [Fusion Movies](https://www4.fusionmovies.to/) - 480p
 
 ***
 
@@ -302,7 +304,7 @@
 * ⭐ **[AniLight](https://anilight.live/)** - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/zwv8PpAJmA)
 * ⭐ **[⁠NekoWatch](https://nekowatch.xyz/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/52UrTJ3ytT)
 * ⭐ **[Anidap](https://anidap.lol)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/CGZEvjx53u)
-* ⭐ **[⁠AniXo](hhttps://anixo.live/)**, [2](https://anixo.cfd/), [3](https://anixo.online/home) - Sub / Dub / Auto-Next
+* ⭐ **[⁠AniXo](https://anixo.live/)**, [2](https://anixo.cfd/), [3](https://anixo.online/home) - Sub / Dub / Auto-Next
 * ⭐ **[⁠Anistream](https://anistream.one/)** - Sub / Dub / Auto-Next / [Discord](https://discord.gg/kwgASavPvG)
 * [⁠JustAnime](https://justanime.to/) - Sub / Dub / Auto-Next / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust/) / [Discord](https://discord.gg/P3yqksmGun)
 * [WeebTube](https://weebtube.cc/) or [JJBA.lol](https://jjba.lol/) - Sub / Dub / Auto-Next / [Status](https://jjba.site/) / [Discord](https://discord.com/invite/vJW2vwzTGD)

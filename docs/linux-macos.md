@@ -305,7 +305,7 @@
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
 * [appnetica](https://appnetica.com/?platform=linux) - Linux Games
 * [LinUwUx](https://github.com/brcly/linuwux-runtime) - LD_PRELOAD Library for Hypervisor(-less) Denuvo Bypass
-* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / [Discord](https://discord.gg/luatools) / [GitHub](https://github.com/madoiscool/LuaTools)
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [⁠Conty](https://github.com/kron4ek/conty) - Single-File Gaming Container for Any Distro
