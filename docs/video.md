@@ -128,6 +128,7 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - 1080p
 * [MovieBox](https://movieboxonline.net), [2](https://officialmoviebox.com/), [3](https://123moviesfree.club/), [4](https://netnaija.film), [5](https://m2box.org/) - 1080p / Popup + Redirect Free / [Mirrors](https://moviebox.co/)
 * [LookMovie](https://lookmovie2.to/), [2](https://lookmovie2.la/), [3](https://lookmovie0.to/), [4](https://lookmovie4.to/), [5](https://lookmovie5.to/), [6](https://lookmovie6.to/) - 480p / External Subs / Popup + Redirect Free
+* [Movie Box](https://movie-box.co/?utm_source=fmhy.net)
 
 ***
 
