@@ -24,6 +24,7 @@
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
+* [Tunecamp](https://tunecamp.org) - Decentralized Streaming Platform
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [⁠Squidify Desktop](https://github.com/kobayashi90/squidify-desktop) - Game & Anime Soundtracks Streaming App 
 
