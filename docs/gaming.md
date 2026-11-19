@@ -794,6 +794,7 @@
 * [TIC-80 Games](https://tic80.com/play/games/top) - TIC-80 Browser Games
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
+* [SpeedrunNow](https://speedrunnow.com/) - Speedrun Mini-Game Collection
 * [Cool Math Games](https://www.coolmathgames.com/) - Educational Browser Games
 
 ***
