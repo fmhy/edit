@@ -51,7 +51,7 @@
 * [Freekz](https://freekz.to/) or [ZXCSTREAM](https://zxcstream.com/) - 4K / External Subs / Popup + Redirect Free / [Telegram](https://t.me/+AZZmZ7-_SFsxM2M9) / [Discord](https://discord.gg/6ZXNmPedkG)
 * [watched](https://watched.cx/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.gg/t8J7eyY2F)
 * [RIVO](https://rivo.st/) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/jKRZrTTWd4)
-* [GreyBox](https://greyboxtv.pages.dev/) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/avY9fYm9TA)
+* [GreyBox](https://greyboxtv.duckdns.org) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/avY9fYm9TA)
 * [Bowd](https://bowdtv.com/) - 1080p / Dual Audio / Pop up + Redirect Free
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemoas.me), [4](https://cinemaos.in) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/38yFnFCJnA)
 * [Vumeto](https://vumeto.live/) - 4K / Dual Audio / Pop up + Redirect Free

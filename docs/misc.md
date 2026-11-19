@@ -776,13 +776,14 @@
 
 ## ▷ Mental Health
 
-* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
+* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** - Mental Health Resources
+* 🌐 **[Find A Helpline](https://findahelpline.com/)** - Crisis Helplines
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
 * ⭐ **[Medito](https://meditofoundation.org/medito-app/)** / [GitHub](https://github.com/meditohq/medito-app) or [⁠Plum Village](https://plumvillage.app/) - Meditation Apps
 * ⭐ **[Breath Ball](https://breathball.com/)** or [Breathly](https://breathly.app/) - Guided Breathing Practice Apps / Android, iOS
 * ⭐ **[/mental health/](https://rentry.co/mentalhealthy)** - Mental Help Tips
 * [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
-* [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) - Wellbeing Apps / Journals
+* [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
@@ -790,9 +791,7 @@
 * [The FM Project](https://www.freemindfulness.org/download) - Guided Mindfulness Exercises
 * [Waking Up](https://app.wakingup.com/scholarship) - Sam Harris' Mindfulness Platform
 * [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
-* [⁠Pause Point](https://greasyfork.org/scripts/578391) - Add Breathing / Activity Pause Before Site Entrances
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
 ***
 
@@ -818,6 +817,7 @@
 * [Healthdirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [MedlinePlus](https://medlineplus.gov/), [Merck Manuals](https://www.merckmanuals.com/), [Mayo Clinic](https://www.mayoclinic.org/), [RxList](https://www.rxlist.com/), [NEJM](https://www.nejm.org/), [PubMed Central](https://pmc.ncbi.nlm.nih.gov/), [HHS](https://www.hhs.gov/), [NIH](https://www.nih.gov/) or [CDC](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [⁠OpenPrescribing](https://openprescribing.net/) - Track NHS Prescription Trends & Spending
+* [Drugs.com](https://www.drugs.com/) or [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit) - Drug Information / Side Effects
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [⁠INCIDecoder](https://inkeedecoder.com/) - Skincare Cosmetics Ingredients Databases / Search
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
@@ -1484,10 +1484,11 @@
 * [Zoneless](https://zoneless.tools/), [WorldTimeBuddy](https://www.worldtimebuddy.com/) or [EveryTimeZone](https://everytimezone.com/) - Time Zone Visualizers / Comparisons
 * [⁠FocusTube](https://github.com/malekwael229/FocusTube), [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Distraction / Doomscroll Blocking Extensions
 * [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
+* [⁠Pause Point](https://greasyfork.org/scripts/578391) - Add Breathing / Activity Pause Before Site Entrances
 * [Project Karma](https://projectkarma.me/) - Productivity RPG 
 * [Untools](https://untools.co/) - Better Thinking Tools
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
-* [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
+* [VisualizeHabit](https://visualizehabit.com/) or [Koduko](https://github.com/Mazahir26/koduko) - Habit Tracking
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App
 * [⁠WHPH](https://whph.ahmetcetinkaya.me/) - Productivity Tracker / [GitHub](https://github.com/ahmet-cetinkaya/whph)
 * [⁠ScreenZen](https://screenzen.co/) - Site / App Blocker

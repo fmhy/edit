@@ -824,7 +824,6 @@
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android
 * ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons) / Windows
 * [Astra](https://astramusic.dev/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/CGESrnYfAy) / [GitHub](https://github.com/boof2015/astra)
-* [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Telegram](https://t.me/namida_official) / [Discord](https://discord.gg/WeY7DTVChT)
 * [Audion](https://audionplayer.com/) - Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
@@ -833,6 +832,7 @@
 * [XMPlay](https://www.un4seen.com/xmplay.html) - Module-Friendly / [Skins](https://www.un4seen.com/xmplay.html#skins) / [Plugins](https://www.un4seen.com/xmplay.html#plugins) / Windows
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [MangoWave](https://mangowave.app/) / [GitHub](https://github.com/Louis-Mascari/MangoWave) or [Vizzy](https://vizzy.io/) - Online Audio Visualizers
 * [CatNip](https://github.com/noriah/catnip) - Terminal-Based Audio Visualizer / Windows, macOS, Linux
+* [Harmonoid](https://harmonoid.com/) - Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/2Rc3edFWd8) / [GitHub](https://github.com/harmonoid/harmonoid)
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer / Windows
 * [Fooyin](https://www.fooyin.org/) - Audio Player / Windows, Linux / [GitHub](https://github.com/fooyin/fooyin)
 * [⁠Nagi](https://github.com/Anthonyy232/Nagi) - Audio Player / Windows
