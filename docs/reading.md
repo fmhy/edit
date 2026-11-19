@@ -133,6 +133,7 @@
 * [Online Cloud File Viewer](https://www.fviewer.com/)
 * [Readwok](https://readwok.com/)
 * [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html)
+* [⁠SumatraPDF Reader](https://online.sumatrapdfreader.org/)
 * [Ebook Reader](https://reader.ttsu.app/manage)
 * [foliate-js](https://github.com/johnfactotum/foliate-js)
 * [Litera Reader](https://litera-reader.com/)

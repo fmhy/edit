@@ -19,7 +19,7 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Meiro](https://meiro.elianiva.com/) - YouTube Music Client / [GitHub](https://github.com/elianiva/meiro)
 * [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - YouTube Music Client
-* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client / [GitHub](https://github.com/grapedjuice/ytm-rs)
+* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client  / Windows, macOS, Linux / [GitHub](https://github.com/grapedjuice/ytm-rs)
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
@@ -65,6 +65,7 @@
 
 * [The Urban Emporium](https://www.youtube.com/@theurbanemporium204/playlists) - Hip-Hop
 * [MixtapeMonkey](https://mixtapemonkey.com/) - Hip-Hop / Mixtapes
+* [wavernrs](https://rentry.co/FMHYB64#wavernrs) - Ye Comps + Edits
 * [DMO](https://dance-music.org/) - Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [Jamendo](https://www.jamendo.com/) or [Free Music Archive](https://freemusicarchive.org/) - Independent Music
@@ -518,6 +519,7 @@
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [⁠Certified Mixtapez](https://www.certifiedmixtapez.com/) - Mixtapes / MP3
 * [Mixtape Collections](https://rentry.co/FMHYB64#mixtape-collections) - Mixtape Collections
+* [wavernrs](https://rentry.co/FMHYB64#wavernrs) - Ye Comps + Edits
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
 * [Ektoplazm](https://ektoplazm.com/) - Electronic / MP3 / FLAC
 * [⁠SpecialForDJs](https://specialfordjs.org/), [2](https://musicvibez.org/) - Electronic / MP3 / FLAC
@@ -678,7 +680,7 @@
 
 # ► Tracking / Databases
 
-* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Auto List Maker](https://zettaexa.github.io/autolists/) / [Forum](https://rym.fm/)
+* ⭐ **[RateYourMusic](https://rateyourmusic.com/)** - Ratings / Reviews / [Resources / Extensions](https://rentry.co/rymtools) / [Add Features](https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/) / [Auto List Maker](https://zettaexa.github.io/autolists/) / [Forum](https://rym.fm/)
 * ⭐ **[Discogs](https://www.discogs.com/)** - Ratings / Reviews / [Timestamps](https://martinbarker.me/tagger) / [Sale Notifications](https://discdogs.app/) / [Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/partitioned-cookies.md)
 * ⭐ **[Last.fm](https://www.last.fm/home)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_last.fm_tools), [Libre.fm](https://libre.fm/) or [ListenBrainz](https://listenbrainz.org/) - Track Listening Habits / Songs
 * ⭐ **[Muspy](https://muspy.com/)**, [⁠Midloop](https://midloop.net/) / [Discord](https://discord.gg/AvUxR59Yv5), [MusicButler](https://www.musicbutler.io/) or [Brew.fm](https://www.brew.fm/) - Get Album Release Updates

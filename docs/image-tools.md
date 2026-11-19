@@ -59,6 +59,7 @@
 * [Cutout](https://scadavide55.github.io/cutout/) - Background Remover / Web / [GitHub](https://github.com/scadavide55/cutout)
 * [BG Bye](https://bgbye.io/) - Background Remover / Web / [GitHub](https://github.com/MangoLion/bgbye)
 * [⁠BrainDeadBackgroundRemover](https://github.com/BizaNator/BrainDeadBackgroundRemover) - Background Remover / Windows
+* [⁠OpenScissors](https://github.com/L-at-nnes/OpenScissors) - Background Remover / Windows, macOS, Linux
 * [Segment Anything](https://aidemos.meta.com/segment-anything) - Visual Segmentation / Web
 
 ***
@@ -88,8 +89,8 @@
 
 ## ▷ Image Effects
 
-* ⭐ **[⁠Grainrad](https://grainrad.com/)**, [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
-* ⭐ **[Mosh](https://moshpro.app/)**, [⁠Image Glitcher](https://patorjk.com/image-glitcher/) or [glitch2](https://akx.github.io/glitch2/) - Glitch Images
+* ⭐ **[⁠Grainrad](https://grainrad.com/)**, [PhotoFunia](https://photofunia.com/), [effect.app](https://effect.app/), [Mosh](https://moshpro.app/), [Polaroma](https://www.polaroma.online/), [⁠Tooooools](https://tooooools.app/) or [Image Mage](https://imagemageage.github.io/) - Image Effects / Filters
+* [⁠Image Glitcher](https://patorjk.com/image-glitcher/) or [glitch2](https://akx.github.io/glitch2/) - Glitch Images
 * [⁠Image95](https://image95.com/) - Retro Image Effects / Filters
 * [⁠Lumo](https://lumo-flt.vercel.app/) - ASCII, Dot, Braille, Block, Line, etc
 * [Palettum](https://palettum.com/) - Add Custom Color Palettes to Images & GIFs / [GitHub](https://github.com/arrowpc/palettum)
@@ -398,7 +399,7 @@
 
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[Yandex Images](https://yandex.com/images/)** or [Mavink](https://mavink.com/) - Image Search
-* ⭐ **[SauceNao](https://saucenao.com/)** - Reverse Image Search / Some NSFW / [Extension](https://saucenao.com/tools/)
+* ⭐ **[SauceNao](https://saucenao.com/)** - Art Reverse Image Search / Some NSFW / [Extension](https://saucenao.com/tools/)
 * ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Reverse Image Search App
 * ⭐ **[Google Lens](https://lens.google/)** - Reverse Image Search
 * ⭐ **[TinEye](https://tineye.com/)** - Reverse Image Search / [Extension](https://tineye.com/extensions)
@@ -488,7 +489,7 @@
 * [Pastel](https://usepastel.com/marker-illustrations) - Marker Illustrations
 * [Fresh Folk](https://fresh-folk.com/) or [lukaszadam](https://lukaszadam.com/illustrations) - Illustrations of People
 * [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - Gophers Illustrations
-* [⁠Old Book Illustrations](https://www.oldbookillustrations.com/) or [⁠FreeVintageIllustrations](https://freevintageillustrations.com/) - Public Domain / Vintage Illustrations
+* [⁠Old Book Illustrations](https://www.oldbookillustrations.com/), [⁠Inside Out Library](https://insideoutlibrary.com/) or [⁠FreeVintageIllustrations](https://freevintageillustrations.com/) - Public Domain / Vintage Illustrations
 * [Buhitter](https://buhitter.com/) - X.com Illustration Search
 * [⁠Boorusama](https://play.google.com/store/apps/details?id=com.degenk.boorusama) / [GitHub](https://github.com/khoadng/Boorusama) or [Waifu Deck](https://waifudeck.app/) / [GitHub](https://github.com/fancydirty/waifu-deck) - Multi-Booru Apps / Android
 * [imgbrd-grabber](https://www.bionus.org/imgbrd-grabber/) - Booru Image Downloader

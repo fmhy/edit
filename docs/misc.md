@@ -1333,6 +1333,7 @@
 * [Blu-ray.com](https://www.blu-ray.com/) - Blu-ray Release Calendar / Database / Reviews / [Deals](https://www.blu-ray.com/deals/)
 * [⁠DVDBeaver](https://www.dvdbeaver.com/) - Blu-ray & DVD Release Calendar / Database / Reviews
 * [High Def Digest](https://www.highdefdigest.com/) - Blu-ray Release Calendar / Database / Reviews
+* [⁠DVDCompare](https://dvdcompare.net/) - Blu-ray & DVD Comparisons / Reviews
 * [Releases](https://www.releases.com/) - Blu-Ray / DVD Release Calendar
 * [DVDs Release Dates](https://www.dvdsreleasedates.com/) - DVD Release Calendar
 * [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details

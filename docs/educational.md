@@ -730,6 +730,7 @@
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [⁠F-16.net](https://www.f-16.net/) - F-16, F-22 and F-35 Info, History, Images, Stories & more
 * [⁠B-17 Flying Fortress](https://b17flyingfortress.de/en/) - B-17 Info, History, Images & more
+* [⁠P-51 Mustang](https://www.mustangsmustangs.com/p-51/) - P-51 Mustang Info, History, Images & more
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
@@ -1185,6 +1186,7 @@
 * [⁠Elara Archive](https://www.elararchive.org/) - Endangered Language Video + Audio Archive
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
+* [⁠Stenophile](https://www.stenophile.com/shorthands) - Shorthand Writing Guides
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
@@ -1253,7 +1255,7 @@
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
-* [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
+* [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [⁠VNClub](https://vnclub.org/) - Learn Japanese via Visual Novels
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) or [BunPro](https://bunpro.jp/) - Learn Japanese Grammar
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary

@@ -125,7 +125,6 @@
 * ⭐ **[webtor](https://webtor.io/)** - Unlimited / Download Speed Limited / No Sign-Up / [SDK](https://github.com/webtor-io/embed-sdk-js) / [Self-Host](https://github.com/webtor-io/self-hosted)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [TorrentCheap](https://torrentcheap.com/) - Unlimited
-* [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
 * [⁠SonicBit](https://sonicbit.net/) - 4GB
 
 ***

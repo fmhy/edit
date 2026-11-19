@@ -251,7 +251,7 @@
 # ► Tracking / Databases
 
 * ⭐ **[Backloggd](https://www.backloggd.com/)** - Game Tracking / Reviews / Lists / Playing Journal / [Discord](https://discord.gg/cMjGusjbwg)
-* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Ratings / Reviews / Genre Charts / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Ratings / Reviews / Genre Charts / [Resources / Extensions](https://rentry.co/rymtools#glitchwave-tools) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/glitchwave-note.md)
 * ⭐ **[Infinite Backlog](https://infinitebacklog.net/)** - Game Collection Tracking / Reviews / Statistics / [Discord](https://discord.gg/v4SUud7)
 * ⭐ **[MobyGames](https://www.mobygames.com/)** - Game Release Histories / Developer Credits / Cover Art / [API](https://www.mobygames.com/info/api/)
 * ⭐ **[IGDB](https://www.igdb.com/)** - Community Game Database / Release Information / [API](https://api-docs.igdb.com/) / [Discord](https://discord.com/invite/igdb)
@@ -714,6 +714,7 @@
 * [Block Palettes](https://www.blockpalettes.com/), [Block Colors](https://blockcolors.app/) / [Discord](https://discord.com/invite/hJDxqWnXnZ) or [HueBlocks](https://1280px.github.io/hueblocks/) / [GitHub](https://github.com/1280px/hueblocks) - Block Color Palettes & Gradients
 * [Blockmatic](https://blockmatic.trafficlunar.net/) / [GitHub](https://github.com/trafficlunar/blockmatic), [MinecraftArt](https://minecraftart.org/), [MC Pixel Art Generator](https://minecraftpixelartgenerator.com/) or [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - Pixel Art Editors & Image Importers
 * [Textcraft](https://textcraft.net/) or [MC Icons](https://ccvaults.com/) - Text Generators & Icons
+* [Enchantment Calculator](https://enchantmentcalculator.online/) - Minecraft Enchantment Calculator
 * [Note Block Studio](https://noteblock.studio/) / [Share Songs](https://noteblock.world/) / [GitHub](https://github.com/OpenNBS) - Audio Composer
 * [MiniMessageViewer](https://webui.advntr.dev/) / [Discord](https://discord.com/invite/MMfhJ8F) / [GitHub](https://github.com/KyoriPowered/adventure-webui) - MiniMessage web viewer
 * [SkyCrypt](https://sky.shiiyu.moe/) / [GitHub](https://github.com/SkyCryptWebsite/SkyCrypt-Frontend) or [Plancke](https://plancke.io/) - Hypixel Player Stats
