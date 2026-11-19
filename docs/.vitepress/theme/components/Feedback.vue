@@ -218,14 +218,23 @@ const versionTag = (family: string, version?: string) =>
   version ? `${family}/${version}` : family
 
 function detectOS(nav: NavigatorWithUAData): string | undefined {
-  const platform = (nav.userAgentData?.platform || navigator.platform || '')
-    .toLowerCase()
+  const platform = (
+    nav.userAgentData?.platform ||
+    navigator.platform ||
+    ''
+  ).toLowerCase()
   const ua = navigator.userAgent
 
   if (platform.includes('win') || ua.includes('Windows')) {
     // Windows 11 still reports NT 10.0, so this stays the NT major version.
     const match = ua.match(/Windows NT (\d+)/)
     return versionTag('windows', match?.[1])
+  }
+  // iOS before macOS: an iPhone or iPad UA also contains "like Mac OS X",
+  // so testing Mac OS X first buckets every iPhone as a Mac.
+  if (platform.includes('ios') || /iPhone|iPad|iPod/.test(ua)) {
+    const match = ua.match(/(?:iPhone|iPad|iPod).*?OS (\d+)/)
+    return versionTag('ios', match?.[1])
   }
   if (platform.includes('mac') || ua.includes('Mac OS X')) {
     const match = ua.match(/Mac OS X (\d+)/)
@@ -235,11 +244,14 @@ function detectOS(nav: NavigatorWithUAData): string | undefined {
     const match = ua.match(/Android (\d+)/)
     return versionTag('android', match?.[1])
   }
-  if (platform.includes('ios') || /iPhone|iPad/.test(ua)) {
-    const match = ua.match(/(?:iPhone|iPad).*?OS (\d+)/)
-    return versionTag('ios', match?.[1])
+  // Sec-CH-UA says "Chrome OS" and the UA says "CrOS": neither contains "cros".
+  if (
+    platform.includes('chrome os') ||
+    platform.includes('cros') ||
+    ua.includes('CrOS')
+  ) {
+    return 'chromeos'
   }
-  if (platform.includes('cros')) return 'chromeos'
   if (platform.includes('linux') || ua.includes('Linux')) return 'linux'
   return undefined
 }
@@ -247,15 +259,22 @@ function detectOS(nav: NavigatorWithUAData): string | undefined {
 function detectBrowser(nav: NavigatorWithUAData): string | undefined {
   const brands = nav.userAgentData?.brands
   if (Array.isArray(brands)) {
-    const brand = brands.find((entry) =>
-      /edge|chrome|chromium/i.test(entry.brand)
+    // Sec-CH-UA lists the engine first and appends greasy "Not A Brand"
+    // entries, and Chrome shuffles the order between releases. Drop the greasy
+    // entries and match the product by name, so one browser cannot map to two
+    // buckets or be reported as its engine.
+    const real = brands.filter(
+      (entry) => entry?.brand && !/not[; _=]?a[; _=]?brand/i.test(entry.brand)
     )
+    const named = (name: RegExp) => real.find((entry) => name.test(entry.brand))
+    const brand =
+      named(/google chrome/i) ?? named(/microsoft edge/i) ?? named(/chromium/i)
     if (brand?.version) {
       const family = /edge/i.test(brand.brand)
         ? 'edge'
-        : /chromium/i.test(brand.brand)
-          ? 'chromium'
-          : 'chrome'
+        : /chrome/i.test(brand.brand)
+          ? 'chrome'
+          : 'chromium'
       return versionTag(family, brand.version.split('.')[0])
     }
   }

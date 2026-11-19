@@ -24,16 +24,24 @@ import {
  * Coarse browser/OS buckets from the feedback widget. All optional: the client
  * omits what it cannot read, and versions are major-only.
  */
-const FeedbackContextSchema = z.object({
-  os: z.string().max(24).optional(),
-  browser: z.string().max(24).optional(),
-  screen: z.enum(['s', 'm', 'l', 'xl']).optional(),
-  viewport: z.enum(['s', 'm', 'l', 'xl']).optional(),
-  dpr: z.enum(['1x', '2x', '3x']).optional(),
-  scheme: z.enum(['dark', 'light']).optional(),
-  lang: z.string().max(10).optional(),
-  pointer: z.enum(['coarse', 'fine']).optional()
-})
+const FeedbackContextSchema = z
+  .object({
+    // Every field is best effort: a value a future or version-skewed client
+    // sends that we cannot read degrades to "omitted" instead of failing the
+    // whole report with a 400.
+    os: z.string().max(24).catch(undefined).optional(),
+    browser: z.string().max(24).catch(undefined).optional(),
+    screen: z.enum(['s', 'm', 'l', 'xl']).catch(undefined).optional(),
+    viewport: z.enum(['s', 'm', 'l', 'xl']).catch(undefined).optional(),
+    dpr: z.enum(['1x', '2x', '3x']).catch(undefined).optional(),
+    scheme: z.enum(['dark', 'light']).catch(undefined).optional(),
+    lang: z.string().max(10).catch(undefined).optional(),
+    pointer: z.enum(['coarse', 'fine']).catch(undefined).optional()
+  })
+  // Unknown keys from a newer client are accepted and ignored downstream.
+  .catchall(z.unknown())
+  // Even a non-object context degrades to "no context" rather than a 400.
+  .catch(undefined)
 
 const FeedbackBodySchema = FeedbackSchema.extend({
   context: FeedbackContextSchema.optional()
@@ -57,15 +65,21 @@ const CONTEXT_KEYS = [
  * quarter yields the same id; nothing reversible is sent.
  */
 async function buildReportId(
-  context: Record<string, string | undefined>,
+  context: Record<string, unknown>,
+  page: string,
   pepper: unknown
 ): Promise<string | undefined> {
   if (typeof pepper !== 'string' || !pepper) return undefined
 
-  const canonical = CONTEXT_KEYS.filter((key) => context[key])
-    .map((key) => `${key}=${context[key]!.toLowerCase()}`)
-    .join(';')
-  if (!canonical) return undefined
+  // The page path is part of the grouping key: the same breakage on the same
+  // page still groups into one id, but /video and /gaming no longer collapse
+  // into a single id. The page path is already visible in the embed, so this
+  // adds nothing reversible and stays pepper-gated like the buckets.
+  const buckets = CONTEXT_KEYS.filter(
+    (key) => typeof context[key] === 'string'
+  ).map((key) => `${key}=${(context[key] as string).toLowerCase()}`)
+  if (!buckets.length) return undefined
+  const canonical = [`page=${page.toLowerCase()}`, ...buckets].join(';')
 
   const now = new Date()
   const year = now.getUTCFullYear()
@@ -239,9 +253,11 @@ export default defineEventHandler(async (event) => {
     }
 
     const cfEnv = (event.context.cloudflare as any)?.env
-    const reportId = await buildReportId(context, cfEnv?.REPORT_PEPPER).catch(
-      () => undefined
-    )
+    const reportId = await buildReportId(
+      context,
+      page,
+      cfEnv?.REPORT_PEPPER
+    ).catch(() => undefined)
     if (reportId) {
       fields.push({ name: 'Report ID', value: reportId, inline: true })
     }
