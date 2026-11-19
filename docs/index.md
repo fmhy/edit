@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+      link: /other/discord
 
 features:
   - title: Adblocking / Privacy
