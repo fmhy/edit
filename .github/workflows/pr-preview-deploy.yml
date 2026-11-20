@@ -1,0 +1,167 @@
+name: PR Preview Deploy
+
+on:
+  workflow_run:
+    workflows: ['PR Preview Build']
+    types: [completed]
+
+permissions:
+  contents: read
+  actions: read
+  pull-requests: write
+
+concurrency:
+  group:
+    pr-preview-deploy-${{ github.event.workflow_run.pull_requests[0].number ||
+    github.event.workflow_run.id }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Deploy preview artifact
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - id: validate
+        name: Validate PR and commit freshness
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run = context.payload.workflow_run;
+            let prNumber = run.pull_requests?.[0]?.number;
+            if (!prNumber && run.head_repository?.owner?.login && run.head_branch) {
+              const { data: prs } = await github.rest.pulls.list({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                head: `${run.head_repository.owner.login}:${run.head_branch}`,
+              });
+              prNumber = prs.find((p) => p.head.sha === run.head_sha)?.number;
+            }
+            if (!prNumber) {
+              core.info('No pull request associated with workflow_run; skipping.');
+              core.setOutput('deploy', 'false');
+              return;
+            }
+
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+            });
+
+            if (pr.state !== 'open' || pr.merged) {
+              core.info(`PR #${pr.number} is no longer open; skipping.`);
+              core.setOutput('deploy', 'false');
+              return;
+            }
+
+            if (pr.head.sha !== run.head_sha) {
+              core.info(`Run SHA ${run.head_sha} is superseded by ${pr.head.sha}; skipping.`);
+              core.setOutput('deploy', 'false');
+              return;
+            }
+
+            const labels = (pr.labels || []).map((l) => l.name);
+            if (labels.includes('skip-preview')) {
+              core.info(`PR #${pr.number} has skip-preview label; skipping.`);
+              core.setOutput('deploy', 'false');
+              return;
+            }
+
+            const { data: artifactsData } = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: run.id,
+            });
+            const hasArtifact = artifactsData.artifacts.some((a) => a.name === 'pr-preview-dist' && !a.expired);
+            if (!hasArtifact) {
+              core.info('No pr-preview-dist artifact found (build was skipped); skipping deploy.');
+              core.setOutput('deploy', 'false');
+              return;
+            }
+
+            core.setOutput('deploy', 'true');
+            core.setOutput('pr_number', String(pr.number));
+            core.setOutput('head_sha', pr.head.sha);
+
+      - name: Download preview artifact
+        if: steps.validate.outputs.deploy == 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-preview-dist
+          path: dist
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Cloudflare Pages
+        id: deploy
+        if: steps.validate.outputs.deploy == 'true'
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken:
+            '${{ secrets.CLOUDFLARE_PAGES_API_TOKEN ||
+            secrets.CLOUDFLARE_API_TOKEN }}'
+          accountId: '${{ vars.CLOUDFLARE_ACCOUNT_ID }}'
+          command:
+            "pages deploy dist --project-name=${{ vars.CF_PAGES_PROJECT ||
+            'fmhy-preview' }} --branch=pr-${{ steps.validate.outputs.pr_number
+            }}"
+
+      - name: Comment preview URL on PR
+        if: steps.validate.outputs.deploy == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = Number('${{ steps.validate.outputs.pr_number }}');
+            const shortSha = '${{ steps.validate.outputs.head_sha }}'.slice(0, 7);
+            const aliasUrl = '${{ steps.deploy.outputs.pages-deployment-alias-url }}';
+            const deployUrl = '${{ steps.deploy.outputs.deployment-url }}';
+            const url = aliasUrl || deployUrl;
+
+            if (!url) {
+              core.setFailed('Deployment returned no preview URL');
+              return;
+            }
+
+            const marker = '<!-- pr-preview -->';
+            const commitLine = deployUrl && aliasUrl && deployUrl !== aliasUrl
+              ? `- **Commit URL:** ${deployUrl} (\`${shortSha}\`)`
+              : `- **Commit:** \`${shortSha}\``;
+
+            const body = [
+              marker,
+              '### Preview Deployment',
+              '',
+              `- **Preview URL:** ${url}`,
+              commitLine,
+            ].join('\n');
+
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              per_page: 100,
+            });
+
+            const existing = comments.find(
+              (c) => c.user?.login === 'github-actions[bot]' && c.body?.includes(marker)
+            );
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body,
+              });
+            }
