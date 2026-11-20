@@ -1,7 +1,14 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
-import { computed, onMounted, reactive, ref, watchEffect } from 'vue'
+import {
+  computed,
+  onMounted,
+  onUnmounted,
+  reactive,
+  ref,
+  watchEffect
+} from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 import {
   getRateLimitCooldown,
@@ -33,6 +40,7 @@ const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
+const siteInputRef = ref<HTMLInputElement | null>(null)
 
 const handleInput = (event: Event) => {
   error.value = null
@@ -60,6 +68,11 @@ const MAX_MESSAGE_LENGTH = 1000
 const MIN_MESSAGE_LENGTH = 5
 const MIN_SUGGESTION_DESCRIPTION = 10
 const SITE_MAX_LENGTH = 200
+// The route's own `page` rule: 3 to 25 characters, no query, no hash.
+const PAGE_MIN_LENGTH = 3
+const PAGE_MAX_LENGTH = 25
+const PAGE_PATTERN = /^[a-zA-Z0-9\-/]+$/
+const SITE_ORIGIN = 'https://fmhy.net'
 
 const suggestionKinds: { value: SuggestionKind; label: string }[] = [
   { value: 'add', label: 'Add a site' },
@@ -70,6 +83,8 @@ const suggestionKinds: { value: SuggestionKind; label: string }[] = [
 
 const suggestionKind = ref<SuggestionKind | null>(null)
 const suggestionSite = ref('')
+const isPickingLink = ref(false)
+const pickNote = ref('')
 
 const isSuggestionPath = computed(() => feedback.type === 'suggestion')
 
@@ -81,9 +96,58 @@ const kindLabel = computed(
 
 const trimmedSite = computed(() => suggestionSite.value.trim())
 
+/**
+ * Turns a clicked link into the short same-site route the page field expects:
+ * resolve it, keep only the pathname, decode percent-escapes, drop trailing
+ * slashes, lowercase. Anything that cannot become a short same-site route -
+ * another domain, mailto:, javascript:, a bare #anchor, or a path that is too
+ * long or holds characters the route rejects - returns null and is refused
+ * instead of being mangled into a different page.
+ */
+function linkToRoute(href: string, base: string): string | null {
+  const raw = href.trim()
+  if (!raw || raw.startsWith('#')) return null
+  if (/^[a-z][a-z0-9+.-]*:/i.test(raw) && !/^https?:/i.test(raw)) return null
+
+  let url: URL
+  let origin: string
+  try {
+    url = new URL(raw, base)
+    origin = new URL(base).origin
+  } catch {
+    return null
+  }
+  if (url.protocol !== 'http:' && url.protocol !== 'https:') return null
+  if (url.origin !== origin) return null
+
+  let path = url.pathname
+  try {
+    path = decodeURIComponent(path)
+  } catch {
+    return null
+  }
+  path = path.replace(/\/+$/, '').toLowerCase()
+  if (!path) path = '/'
+  if (path.length < PAGE_MIN_LENGTH || path.length > PAGE_MAX_LENGTH)
+    return null
+  if (!PAGE_PATTERN.test(path)) return null
+  return path
+}
+
+/**
+ * A picked link lands in the field as a short route, because that is the form
+ * the page field is meant to hold. The message is read by a human, so the route
+ * is written out as a full fmhy.net link there; a pasted URL is left alone.
+ */
+const siteForMessage = computed(() => {
+  const site = trimmedSite.value
+  if (!site) return ''
+  return site.startsWith('/') ? `${SITE_ORIGIN}${site}` : site
+})
+
 const suggestionHead = computed(() => {
   if (!isSuggestionPath.value || !kindLabel.value) return ''
-  const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
+  const site = siteForMessage.value ? ` ${siteForMessage.value}` : ''
   return `[${kindLabel.value}]${site}`
 })
 
@@ -93,9 +157,9 @@ const siteError = computed(() => {
   if (!site) return ''
   if (site.length > SITE_MAX_LENGTH)
     return 'Keep the link under 200 characters, please.'
-  if (!/^https?:\/\//i.test(site))
-    return 'Enter a full link starting with http:// or https://'
-  return ''
+  // A full link or a site route; the picker writes routes.
+  if (/^https?:\/\//i.test(site) || site.startsWith('/')) return ''
+  return 'Enter a link starting with http:// or https://, or a route like /privacy'
 })
 
 const suggestionPrefix = computed(() => {
@@ -116,6 +180,106 @@ const descriptionTooShort = computed(
     isSuggestionPath.value &&
     feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION
 )
+
+const PICKABLE_SELECTOR = '.vp-doc a[href]'
+const PICK_CLASS = 'feedback-link-pick'
+
+/**
+ * Only real links inside the article count, never a link inside the card
+ * itself. `closest` keeps a click on a nested span working like a click on the
+ * anchor underneath it.
+ */
+function pickableAnchor(target: EventTarget | null) {
+  const element = target as HTMLElement | null
+  const anchor = element?.closest?.(
+    PICKABLE_SELECTOR
+  ) as HTMLAnchorElement | null
+  if (!anchor || anchor.closest('.feedback-widget')) return null
+  return anchor
+}
+
+function clearPickHighlight() {
+  if (typeof document === 'undefined') return
+  document
+    .querySelectorAll(`a.${PICK_CLASS}`)
+    .forEach((el) => el.classList.remove(PICK_CLASS))
+}
+
+function handlePickHover(event: MouseEvent) {
+  const anchor = pickableAnchor(event.target)
+  clearPickHighlight()
+  if (anchor) anchor.classList.add(PICK_CLASS)
+}
+
+function handlePickClick(event: MouseEvent) {
+  const anchor = pickableAnchor(event.target)
+  if (!anchor) return
+
+  // Picking must never navigate away from the page being described.
+  event.preventDefault()
+  event.stopPropagation()
+  event.stopImmediatePropagation()
+
+  const route = linkToRoute(
+    anchor.getAttribute('href') ?? '',
+    window.location.href
+  )
+  stopPickingLink()
+  if (!route) {
+    pickNote.value =
+      'Only fmhy.net page links with a short path can be picked here.'
+    return
+  }
+  suggestionSite.value = route
+  pickNote.value = ''
+  error.value = null
+  // Focus goes to the field the pick filled, so the next keystroke edits it.
+  siteInputRef.value?.focus()
+}
+
+function handlePickKeydown(event: KeyboardEvent) {
+  if (event.key === 'Escape') stopPickingLink()
+}
+
+function startPickingLink() {
+  pickNote.value = ''
+  isPickingLink.value = true
+  if (typeof document === 'undefined') return
+  document.body.classList.add('feedback-picking-links')
+  document.addEventListener('mouseover', handlePickHover)
+  document.addEventListener('focusin', handlePickHover)
+  document.addEventListener('click', handlePickClick, { capture: true })
+  document.addEventListener('keydown', handlePickKeydown)
+}
+
+function stopPickingLink() {
+  isPickingLink.value = false
+  // Nothing here may run during a server render: there is no document.
+  if (typeof document === 'undefined') return
+  document.body.classList.remove('feedback-picking-links')
+  document.removeEventListener('mouseover', handlePickHover)
+  document.removeEventListener('focusin', handlePickHover)
+  document.removeEventListener('click', handlePickClick, { capture: true })
+  document.removeEventListener('keydown', handlePickKeydown)
+  clearPickHighlight()
+}
+
+function togglePickingLink() {
+  if (isPickingLink.value) {
+    stopPickingLink()
+  } else {
+    startPickingLink()
+  }
+}
+
+onMounted(() => {
+  window.addEventListener('beforeunload', stopPickingLink)
+})
+
+onUnmounted(() => {
+  stopPickingLink()
+  window.removeEventListener('beforeunload', stopPickingLink)
+})
 
 function selectSuggestionKind(kind: SuggestionKind) {
   suggestionKind.value = kind
@@ -255,10 +419,13 @@ const helpfulText = props.heading
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => {
   isCardShown.value = !isCardShown.value
+  if (!isCardShown.value) stopPickingLink()
 }
 const goBackToOptions = () => {
   feedback.type = undefined
   error.value = null
+  pickNote.value = ''
+  stopPickingLink()
 }
 
 const resetFeedback = () => {
@@ -269,6 +436,8 @@ const resetFeedback = () => {
   feedback.message = ''
   suggestionKind.value = null
   suggestionSite.value = ''
+  pickNote.value = ''
+  stopPickingLink()
   if (textareaRef.value) {
     textareaRef.value.style.height = ''
   }
@@ -380,6 +549,7 @@ const resetFeedback = () => {
             </label>
             <input
               id="fmhy-suggestion-site"
+              ref="siteInputRef"
               v-model="suggestionSite"
               type="text"
               inputmode="url"
@@ -387,7 +557,7 @@ const resetFeedback = () => {
               spellcheck="false"
               :maxlength="SITE_MAX_LENGTH"
               class="field-control"
-              placeholder="https://example.com"
+              placeholder="https://example.com or /privacy"
               :aria-invalid="siteError ? 'true' : undefined"
               :aria-describedby="
                 siteError ? 'fmhy-suggestion-site-error' : undefined
@@ -400,6 +570,33 @@ const resetFeedback = () => {
             >
               {{ siteError }}
             </p>
+            <p class="sr-only" role="status" aria-live="polite">
+              {{
+                isPickingLink ? 'Picking a link. Press Escape to cancel.' : ''
+              }}
+              {{ pickNote }}
+            </p>
+            <div class="field-actions">
+              <button
+                type="button"
+                class="tool-btn"
+                :aria-pressed="isPickingLink"
+                :aria-describedby="isPickingLink ? 'fmhy-pick-note' : undefined"
+                @click="togglePickingLink()"
+              >
+                <span
+                  :class="isPickingLink ? 'i-lucide:x' : 'i-lucide:link-2'"
+                  class="w-3.5 h-3.5"
+                ></span>
+                {{
+                  isPickingLink ? 'Cancel selection' : 'Select a link from page'
+                }}
+              </button>
+              <span v-if="isPickingLink" id="fmhy-pick-note" class="pick-note">
+                Click a link on the page...
+              </span>
+              <span v-else-if="pickNote" class="pick-note">{{ pickNote }}</span>
+            </div>
           </div>
           <div class="field">
             <label class="field-label" for="fmhy-feedback-message">
@@ -810,6 +1007,67 @@ const resetFeedback = () => {
   margin-top: 6px;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.field-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.tool-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background-color 0.2s;
+}
+
+.tool-btn:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+}
+
+.tool-btn[aria-pressed='true'] {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+}
+
+.tool-btn:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.pick-note {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
 .field-hint,
 .char-counter {
   font-size: 12px;
@@ -924,5 +1182,21 @@ const resetFeedback = () => {
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
+}
+</style>
+
+<style>
+/* Armed link picking: the hovered anchor is the only thing highlighted, and it
+   lives outside this component, so the rule cannot be scoped. */
+body.feedback-picking-links,
+body.feedback-picking-links a {
+  cursor: pointer !important;
+}
+
+a.feedback-link-pick {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+  border-radius: 4px;
+  background-color: var(--vp-c-brand-soft);
 }
 </style>
