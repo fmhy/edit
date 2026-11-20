@@ -2360,66 +2360,76 @@ function isSamePageComparison(destPath: string) {
               class="search-options-menu"
               role="menu"
             >
-              <button
-                class="option-item"
-                type="button"
-                role="menuitemcheckbox"
-                :class="{ 'is-active': isFuzzySearch }"
-                :aria-checked="isFuzzySearch"
-                :title="
-                  isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
-                "
-                @click="toggleFuzzySearch"
-              >
-                <span class="option-icon">{{ isFuzzySearch ? '~' : '=' }}</span>
-                <span class="option-label">Fuzzy matching</span>
-                <span
-                  v-if="isFuzzySearch"
-                  class="option-check i-lucide:check"
-                />
-              </button>
-              <button
-                class="option-item"
-                type="button"
-                role="menuitemcheckbox"
-                :class="{ 'is-active': isUrlSearch, 'is-auto': urlSearchAuto }"
-                :aria-checked="isUrlSearch"
-                :title="
-                  isUrlSearch
-                    ? customTitles.urlOn
-                    : urlSearchAuto
-                      ? customTitles.urlAuto
-                      : customTitles.urlOff
-                "
-                @click="toggleUrlSearch"
-              >
-                <span class="option-icon i-lucide:link" />
-                <span class="option-label">Match link URLs</span>
-                <span v-if="isUrlSearch" class="option-check i-lucide:check" />
-              </button>
-              <button
-                v-if="!disableDetailedView"
-                class="option-item"
-                type="button"
-                role="menuitemcheckbox"
-                :class="{ 'is-active': showDetailedList }"
-                :aria-checked="showDetailedList"
-                :title="translate('modal.displayDetails')"
-                @click="toggleDetailedList"
-              >
-                <span class="option-icon vpi-layout-list" />
-                <span class="option-label">
-                  {{
-                    showDetailedList
-                      ? customTitles.detailedViewOn
-                      : customTitles.detailedViewOff
-                  }}
-                </span>
-                <span
-                  v-if="showDetailedList"
-                  class="option-check i-lucide:check"
-                />
-              </button>
+              <div class="options-row">
+                <button
+                  class="option-item"
+                  type="button"
+                  role="menuitemcheckbox"
+                  :class="{ 'is-active': isFuzzySearch }"
+                  :aria-checked="isFuzzySearch"
+                  :title="
+                    isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
+                  "
+                  @click="toggleFuzzySearch"
+                >
+                  <span class="option-icon">
+                    {{ isFuzzySearch ? '~' : '=' }}
+                  </span>
+                  <span class="option-label">Fuzzy matching</span>
+                  <span
+                    v-if="isFuzzySearch"
+                    class="option-check i-lucide:check"
+                  />
+                </button>
+                <button
+                  class="option-item"
+                  type="button"
+                  role="menuitemcheckbox"
+                  :class="{
+                    'is-active': isUrlSearch,
+                    'is-auto': urlSearchAuto
+                  }"
+                  :aria-checked="isUrlSearch"
+                  :title="
+                    isUrlSearch
+                      ? customTitles.urlOn
+                      : urlSearchAuto
+                        ? customTitles.urlAuto
+                        : customTitles.urlOff
+                  "
+                  @click="toggleUrlSearch"
+                >
+                  <span class="option-icon i-lucide:link" />
+                  <span class="option-label">Match link URLs</span>
+                  <span
+                    v-if="isUrlSearch"
+                    class="option-check i-lucide:check"
+                  />
+                </button>
+                <button
+                  v-if="!disableDetailedView"
+                  class="option-item"
+                  type="button"
+                  role="menuitemcheckbox"
+                  :class="{ 'is-active': showDetailedList }"
+                  :aria-checked="showDetailedList"
+                  :title="translate('modal.displayDetails')"
+                  @click="toggleDetailedList"
+                >
+                  <span class="option-icon vpi-layout-list" />
+                  <span class="option-label">
+                    {{
+                      showDetailedList
+                        ? customTitles.detailedViewOn
+                        : customTitles.detailedViewOff
+                    }}
+                  </span>
+                  <span
+                    v-if="showDetailedList"
+                    class="option-check i-lucide:check"
+                  />
+                </button>
+              </div>
               <template v-if="filterText && visibleCategories.length">
                 <div class="options-divider" />
                 <div class="options-group-label">Search in</div>
@@ -2937,6 +2947,10 @@ function isSamePageComparison(destPath: string) {
   box-shadow: var(--vp-shadow-2);
 }
 
+.options-row {
+  display: contents;
+}
+
 .option-item {
   display: flex;
   align-items: center;
@@ -3018,8 +3032,9 @@ function isSamePageComparison(destPath: string) {
   }
 }
 
-/* Mobile: the options open as a slim scrollable strip under the bar,
-   not an overlay menu. */
+/* Mobile: the options open as slim scrollable rows under the bar — the
+   option filters on one line, the section filters on the next — rather
+   than an overlay menu. */
 @media (max-width: 767px) {
   .search-options-menu {
     position: static;
@@ -3027,16 +3042,22 @@ function isSamePageComparison(destPath: string) {
     min-width: 0;
     max-width: none;
     padding: 0;
-    flex-direction: row;
-    align-items: center;
+    flex-direction: column;
+    align-items: stretch;
     gap: 6px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    overscroll-behavior-x: contain;
     background: transparent;
     border: none;
     border-radius: 0;
     box-shadow: none;
+  }
+
+  .search-options-menu .options-row {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
   }
 
   .search-options-menu .option-item {
@@ -3060,10 +3081,7 @@ function isSamePageComparison(destPath: string) {
   }
 
   .search-options-menu .options-divider {
-    width: 1px;
-    height: 20px;
-    margin: 0 2px;
-    flex-shrink: 0;
+    display: none;
   }
 
   .search-options-menu .options-group-label {
@@ -3071,9 +3089,13 @@ function isSamePageComparison(destPath: string) {
   }
 
   .search-options-menu .category-filters {
-    display: contents;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
     margin-top: 0;
     padding: 0;
+    scrollbar-width: none;
   }
 }
 
