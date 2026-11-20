@@ -26,6 +26,26 @@ import { replaceNoteLink } from './utils/markdown'
 // @unocss-include
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
+
+// Sitemap host, overridable per deploy (SITE_HOST). Accepts a bare host or an
+// http(s) URL; anything unset or malformed falls back to meta.hostname.
+const resolveSiteHost = (value?: string) => {
+  const raw = value?.trim().replace(/\/+$/, '') ?? ''
+  if (!raw) return meta.hostname
+  const hasScheme = /^[a-z][a-z\d+.-]*:\/\//i.test(raw)
+  const isBareHost = /^[\w.-]+(:\d+)?$/.test(raw)
+  if (!hasScheme && !isBareHost) return meta.hostname
+  if (hasScheme && !/^https?:\/\//i.test(raw)) return meta.hostname
+  try {
+    const url = new URL(hasScheme ? raw : `https://${raw}`)
+    const isHostOnly = url.pathname === '/' && !url.search && !url.hash
+    if (!url.hostname || !isHostOnly) return meta.hostname
+    return url.origin
+  } catch {
+    return meta.hostname
+  }
+}
+const siteHost = resolveSiteHost(process.env.SITE_HOST)
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
@@ -39,7 +59,7 @@ export default defineConfig({
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: meta.hostname
+    hostname: siteHost
   },
   head: [
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
