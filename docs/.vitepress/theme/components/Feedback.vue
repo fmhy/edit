@@ -1,15 +1,7 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
-import {
-  computed,
-  nextTick,
-  onMounted,
-  onUnmounted,
-  reactive,
-  ref,
-  watchEffect
-} from 'vue'
+import { computed, onMounted, reactive, ref, watchEffect } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 import {
   getRateLimitCooldown,
@@ -40,133 +32,7 @@ function getMessage(type: FeedbackType['type']) {
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
-
-const isSelectingLine = ref<boolean>(false)
-const highlightStyle = reactive({
-  display: 'none',
-  top: '0px',
-  left: '0px',
-  width: '0px',
-  height: '0px'
-})
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
-
-const BLOCK_SELECTOR = 'p, li, td, th, h1, h2, h3, h4, h5, h6'
-const NON_CONTENT_SELECTOR =
-  '.feedback-widget, button, a, input, textarea, select'
-
-const isSelectableTarget = (target: HTMLElement) =>
-  !!target.closest('.vp-doc') && !target.closest(NON_CONTENT_SELECTOR)
-
-const extractBlockText = (blockElement: HTMLElement) => {
-  const clone = blockElement.cloneNode(true) as HTMLElement
-  clone.querySelectorAll('.feedback-widget').forEach((el) => el.remove())
-  return clone.textContent?.trim() ?? ''
-}
-
-const startSelectingLine = () => {
-  isSelectingLine.value = true
-  document.body.style.cursor = 'crosshair'
-  document.body.classList.add('feedback-selecting')
-  window.addEventListener('mouseover', handleMouseOver)
-  window.addEventListener('click', handlePageClick, { capture: true })
-}
-
-const stopSelectingLine = () => {
-  isSelectingLine.value = false
-  document.body.style.cursor = 'default'
-  document.body.classList.remove('feedback-selecting')
-  highlightStyle.display = 'none'
-  window.removeEventListener('mouseover', handleMouseOver)
-  window.removeEventListener('click', handlePageClick, { capture: true })
-}
-
-const handleMouseOver = (event: MouseEvent) => {
-  if (!isSelectingLine.value) return
-  const target = event.target as HTMLElement
-  if (!isSelectableTarget(target)) {
-    highlightStyle.display = 'none'
-    return
-  }
-  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
-  if (blockElement) {
-    const rect = blockElement.getBoundingClientRect()
-    highlightStyle.display = 'block'
-    highlightStyle.top = `${rect.top + window.scrollY - 2}px`
-    highlightStyle.left = `${rect.left + window.scrollX - 4}px`
-    highlightStyle.width = `${rect.width + 8}px`
-    highlightStyle.height = `${rect.height + 4}px`
-  } else {
-    highlightStyle.display = 'none'
-  }
-}
-
-const handlePageClick = (event: MouseEvent) => {
-  if (!isSelectingLine.value) return
-  const target = event.target as HTMLElement
-  if (!isSelectableTarget(target)) {
-    stopSelectingLine()
-    return
-  }
-  event.preventDefault()
-  event.stopPropagation()
-  event.stopImmediatePropagation()
-
-  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
-  if (blockElement) {
-    const text = extractBlockText(blockElement)
-    if (text) {
-      // Fill the page URL first: it is part of the prefix, so the description
-      // budget the prefill writes into is already the final one.
-      if (isSuggestionPath.value) {
-        const current = suggestionSite.value.trim()
-        if (!current || siteAutoFilled.value) {
-          suggestionSite.value = pageUrl.value
-          siteAutoFilled.value = true
-        }
-      }
-      applyPickedLine(text)
-    }
-  }
-  stopSelectingLine()
-}
-
-onUnmounted(() => {
-  stopSelectingLine()
-})
-
-/**
- * The picked line lives in the description: the only place it is shown, and the
- * only place it is sent from. A second pick replaces the leading quote instead
- * of stacking another, and text the contributor already typed stays underneath
- * it. The quote gets at least a few characters of room so a pick is always
- * visible, and the whole value stays inside the budget the field enforces.
- */
-function applyPickedLine(text: string) {
-  const limit = suggestionDescriptionMax.value
-  const current = feedback.message
-  const split = current.indexOf('\n\n')
-  const body = current.startsWith('> ')
-    ? split === -1
-      ? ''
-      : current.slice(split + 2)
-    : current
-  const bodyPart = body ? `\n\n${body}` : ''
-  const line = text.replace(/\s+/g, ' ').trim()
-  const room = Math.max(4, limit - bodyPart.length - 2)
-  const quote =
-    line.length <= room ? line : `${line.slice(0, Math.max(0, room - 1))}…`
-  const next = `> ${quote}${bodyPart}`.slice(0, limit)
-  feedback.message = next
-  nextTick(() => {
-    const el = textareaRef.value
-    if (!el) return
-    el.style.height = 'auto'
-    el.style.height = `${el.scrollHeight}px`
-    el.focus()
-    el.setSelectionRange(next.length, next.length)
-  })
-}
 
 const handleInput = (event: Event) => {
   error.value = null
@@ -204,21 +70,10 @@ const suggestionKinds: { value: SuggestionKind; label: string }[] = [
 
 const suggestionKind = ref<SuggestionKind | null>(null)
 const suggestionSite = ref('')
-// True only while the site field holds a value we filled in from a picked
-// line, so a value the contributor typed is never overwritten.
-const siteAutoFilled = ref(false)
 
 const isSuggestionPath = computed(() => feedback.type === 'suggestion')
 
-const SITE_ORIGIN = 'https://fmhy.net'
-
-const pageUrl = computed(() => {
-  const path = router.route.path || '/'
-  const trimmedPath = path !== '/' ? path.replace(/\/+$/, '') : ''
-  return `${SITE_ORIGIN}${trimmedPath}`
-})
-
-const selectedKindLabel = computed(
+const kindLabel = computed(
   () =>
     suggestionKinds.find((kind) => kind.value === suggestionKind.value)
       ?.label ?? ''
@@ -227,9 +82,9 @@ const selectedKindLabel = computed(
 const trimmedSite = computed(() => suggestionSite.value.trim())
 
 const suggestionHead = computed(() => {
-  if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
+  if (!isSuggestionPath.value || !kindLabel.value) return ''
   const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
-  return `[${selectedKindLabel.value}]${site}`
+  return `[${kindLabel.value}]${site}`
 })
 
 const siteError = computed(() => {
@@ -244,7 +99,7 @@ const siteError = computed(() => {
 })
 
 const suggestionPrefix = computed(() => {
-  if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
+  if (!isSuggestionPath.value || !kindLabel.value) return ''
   return `${suggestionHead.value}\n\n`
 })
 
@@ -262,20 +117,15 @@ const descriptionTooShort = computed(
     feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION
 )
 
-function handleSiteInput() {
-  siteAutoFilled.value = false
-  error.value = null
-}
-
 function selectSuggestionKind(kind: SuggestionKind) {
   suggestionKind.value = kind
   error.value = null
 }
 
 function buildMessage() {
-  // The description, quote included, is exactly what the contributor sees, so
-  // the payload is only ever the kind/site line plus that visible text.
-  if (!isSuggestionPath.value || !selectedKindLabel.value) {
+  // The description is exactly what the contributor sees, so the payload is
+  // only ever the kind/site line plus that visible text.
+  if (!isSuggestionPath.value || !kindLabel.value) {
     return feedback.message
   }
   return `${suggestionPrefix.value}${feedback.message}`
@@ -283,7 +133,7 @@ function buildMessage() {
 
 /**
  * The composed message must stay inside the schema limit, so the description
- * budget shrinks when the quote, kind or site changes. Clamp what is already
+ * budget shrinks when the kind or the site changes. Clamp what is already
  * typed rather than letting the composed message grow past 1000 characters.
  */
 watchEffect(() => {
@@ -304,12 +154,9 @@ const isDisabled = computed(() => {
     )
   }
 
-  const combinedMessage = feedback.message
-
   return (
-    !combinedMessage.length ||
-    combinedMessage.length < MIN_MESSAGE_LENGTH ||
-    combinedMessage.length > MAX_MESSAGE_LENGTH
+    feedback.message.length < MIN_MESSAGE_LENGTH ||
+    feedback.message.length > MAX_MESSAGE_LENGTH
   )
 })
 
@@ -349,11 +196,8 @@ onMounted(() => {
   restoreContact()
 })
 
-const selectedOption = ref(feedbackOptions[0])
-
 function selectType(type: FeedbackType['type']) {
   feedback.type = type
-  selectedOption.value = getFeedbackOption(type)!
 }
 
 async function handleSubmit() {
@@ -411,24 +255,20 @@ const helpfulText = props.heading
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => {
   isCardShown.value = !isCardShown.value
-  if (!isCardShown.value) stopSelectingLine()
 }
 const goBackToOptions = () => {
   feedback.type = undefined
   error.value = null
-  stopSelectingLine()
 }
 
 const resetFeedback = () => {
   // Back to the form, not to the pitch or the category choice: the category
-  // the contributor already picked is kept.
+  // the contributor already chose is kept.
   error.value = null
-  stopSelectingLine()
   success.value = false
   feedback.message = ''
   suggestionKind.value = null
   suggestionSite.value = ''
-  siteAutoFilled.value = false
   if (textareaRef.value) {
     textareaRef.value.style.height = ''
   }
@@ -533,9 +373,9 @@ const resetFeedback = () => {
               </button>
             </div>
           </div>
-          <div v-if="isSuggestionPath" class="field">
+          <div v-if="isSuggestionPath" class="field field-related">
             <label class="field-label" for="fmhy-suggestion-site">
-              Site or page this is about
+              Site or page
               <span class="field-optional">optional</span>
             </label>
             <input
@@ -547,14 +387,11 @@ const resetFeedback = () => {
               spellcheck="false"
               :maxlength="SITE_MAX_LENGTH"
               class="field-control"
-              placeholder="Page link, e.g. https://fmhy.net/privacy"
+              placeholder="https://example.com"
               :aria-invalid="siteError ? 'true' : undefined"
               :aria-describedby="
-                siteError
-                  ? 'fmhy-suggestion-site-hint fmhy-suggestion-site-error'
-                  : 'fmhy-suggestion-site-hint'
+                siteError ? 'fmhy-suggestion-site-error' : undefined
               "
-              @input="handleSiteInput"
             />
             <p
               v-if="siteError"
@@ -563,36 +400,6 @@ const resetFeedback = () => {
             >
               {{ siteError }}
             </p>
-            <p id="fmhy-suggestion-site-hint" class="field-hint site-hint">
-              The page this is about. Picking a line puts the line itself in the
-              description below.
-            </p>
-            <div class="toolbar">
-              <button
-                type="button"
-                class="tool-btn"
-                @click="
-                  isSelectingLine ? stopSelectingLine() : startSelectingLine()
-                "
-              >
-                <span
-                  :class="
-                    isSelectingLine
-                      ? 'i-lucide:x'
-                      : 'i-lucide:text-cursor-input'
-                  "
-                  class="w-3.5 h-3.5"
-                ></span>
-                {{
-                  isSelectingLine
-                    ? 'Cancel Selection'
-                    : 'Select a line from page'
-                }}
-              </button>
-              <span v-if="isSelectingLine" class="tool-hint animate-pulse">
-                Click any text on the page...
-              </span>
-            </div>
           </div>
           <div class="field">
             <label class="field-label" for="fmhy-feedback-message">
@@ -643,28 +450,6 @@ const resetFeedback = () => {
               <span class="char-counter">{{ suggestionRemaining }} left</span>
             </div>
           </div>
-          <div v-if="!isSuggestionPath" class="toolbar">
-            <button
-              type="button"
-              class="tool-btn"
-              @click="
-                isSelectingLine ? stopSelectingLine() : startSelectingLine()
-              "
-            >
-              <span
-                :class="
-                  isSelectingLine ? 'i-lucide:x' : 'i-lucide:text-cursor-input'
-                "
-                class="w-3.5 h-3.5"
-              ></span>
-              {{
-                isSelectingLine ? 'Cancel Selection' : 'Select a line from page'
-              }}
-            </button>
-            <span v-if="isSelectingLine" class="tool-hint animate-pulse">
-              Click any text on the page...
-            </span>
-          </div>
           <div class="field">
             <label class="field-label" for="fmhy-feedback-contact">
               Contact
@@ -709,19 +494,6 @@ const resetFeedback = () => {
       </Transition>
     </div>
   </Transition>
-
-  <Teleport to="body">
-    <div
-      v-if="isSelectingLine"
-      class="pointer-events-none absolute z-[9999] rounded border-2 border-solid transition-all duration-75"
-      :style="{
-        ...highlightStyle,
-        backgroundColor: 'var(--vp-c-brand)',
-        borderColor: 'var(--vp-c-brand)',
-        opacity: '0.2'
-      }"
-    ></div>
-  </Teleport>
 </template>
 
 <style scoped lang="css">
@@ -893,6 +665,11 @@ const resetFeedback = () => {
   margin-top: 20px;
 }
 
+/* The kind chips and the site field answer one question, so they group. */
+.field-related {
+  margin-top: 12px;
+}
+
 .counter-row .field-error {
   margin: 0;
 }
@@ -955,10 +732,17 @@ const resetFeedback = () => {
 
 .field-textarea {
   padding: 10px 12px;
-  min-height: 104px;
+  min-height: 128px;
   max-height: 400px;
+  line-height: 1.6;
   resize: none;
   overflow-y: auto;
+}
+
+@media (max-width: 420px) {
+  .field-textarea {
+    min-height: 112px;
+  }
 }
 
 .chips {
@@ -1026,10 +810,6 @@ const resetFeedback = () => {
   margin-top: 6px;
 }
 
-.site-hint {
-  margin-top: 6px;
-}
-
 .field-hint,
 .char-counter {
   font-size: 12px;
@@ -1048,41 +828,6 @@ const resetFeedback = () => {
   font-size: 12px;
   font-weight: 500;
   line-height: 1.5;
-}
-
-.toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px;
-  margin-top: 12px;
-}
-
-.tool-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background-color: var(--vp-c-bg);
-  color: var(--vp-c-text-2);
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1.4;
-  transition:
-    border-color 0.2s,
-    color 0.2s;
-}
-
-.tool-btn:hover {
-  border-color: var(--vp-c-brand-1);
-  color: var(--vp-c-text-1);
-}
-
-.tool-hint {
-  font-size: 12px;
-  color: var(--vp-c-text-2);
 }
 
 .desc {
@@ -1133,8 +878,7 @@ const resetFeedback = () => {
 .btn:focus-visible,
 .chip:focus-visible,
 .option-btn:focus-visible,
-.head-back:focus-visible,
-.tool-btn:focus-visible {
+.head-back:focus-visible {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
@@ -1180,11 +924,5 @@ const resetFeedback = () => {
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
-}
-</style>
-
-<style>
-body.feedback-selecting a {
-  pointer-events: none !important;
 }
 </style>
