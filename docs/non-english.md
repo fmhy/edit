@@ -237,6 +237,7 @@
 * ⭐ **[BiliBili](https://www.bilibili.com/)** or [BiliBili.tv](https://www.bilibili.tv/) - YouTube and TikTok Alt / [Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25BA_bilibili_tools)
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
+* [Animeenglish.com](https://animeenglish.com/) - Movies / TV / Anime / Sub / 1080p
 * [VidHub](https://vidhub2.top/) - Movies / TV / Anime / Sub / 1080p
 * [xiaobaotv](https://www.xiaobaotv.com/) - Movies / TV / Anime / Hard-Sub / Dub / 1080p
 * [ztv.tw](https://ztv.tw) - Movies / TV / Anime
