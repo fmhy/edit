@@ -17,6 +17,10 @@ provide('close-screen', closeScreen)
 watchEffect(() => {
   if (inBrowser) {
     document.documentElement.classList.toggle('hide-nav', !hasNavbar.value)
+    document.documentElement.classList.toggle(
+      'fmhy-doc-layout',
+      frontmatter.value.layout !== 'home'
+    )
   }
 })
 
@@ -96,13 +100,6 @@ onMounted(() => {
 </style>
 
 <style>
-/* Global override for VPLocalNav on mobile to respect nav visibility */
-@media (max-width: 959px) {
-  :root.vp-nav-shown-mobile .VPLocalNav {
-    top: var(--vp-nav-height) !important;
-  }
-  .VPLocalNav {
-    transition: top 0.25s ease-in-out !important;
-  }
-}
+/* The local nav is overlaid on the navbar row via the `fmhy-doc-layout`
+   rules in style.scss; no per-visibility offset needed anymore. */
 </style>

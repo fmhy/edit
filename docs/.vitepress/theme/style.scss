@@ -1152,4 +1152,46 @@ html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
     width: 44px;
     height: 48px;
   }
+
+  /* Merge the local nav into the navbar row on doc pages:
+     [logo] [≡ Menu] [On this page] … [🔍] [☰] */
+  html.fmhy-doc-layout {
+    .VPLocalNav {
+      position: fixed;
+      top: var(--vp-layout-top-height, 0px) !important;
+      height: var(--vp-nav-height);
+      padding-top: 0;
+      background: transparent;
+      border-bottom: none;
+      pointer-events: none;
+      z-index: calc(var(--vp-z-index-nav) + 1);
+    }
+
+    .VPLocalNav .container {
+      justify-content: flex-start;
+      height: var(--vp-nav-height);
+      padding-left: 44px; /* clear of the logo icon */
+      padding-right: 92px; /* clear of search + hamburger */
+      pointer-events: none;
+    }
+
+    .VPLocalNav .menu,
+    .VPLocalNav .VPLocalNavOutlineDropdown,
+    .VPLocalNav .items {
+      pointer-events: auto;
+    }
+
+    .VPLocalNav .menu {
+      padding: 12px 8px 11px;
+    }
+
+    .VPLocalNav .VPLocalNavOutlineDropdown {
+      padding: 12px 8px 11px;
+    }
+
+    /* Icon-only logo so it doesn't collide with the Menu button. */
+    .VPNavBarTitle .title span {
+      display: none;
+    }
+  }
 }
