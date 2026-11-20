@@ -27,25 +27,44 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 
-// Sitemap host, overridable per deploy (SITE_HOST). Accepts a bare host or an
-// http(s) URL; anything unset or malformed falls back to meta.hostname.
-const resolveSiteHost = (value?: string) => {
+// Sitemap host. Returns a bare origin from a bare host or http(s) URL, or
+// undefined when the value is unusable, so a bad value can never reach the
+// sitemap as a broken prefix.
+const normaliseHost = (value?: string) => {
   const raw = value?.trim().replace(/\/+$/, '') ?? ''
-  if (!raw) return meta.hostname
+  if (!raw) return undefined
   const hasScheme = /^[a-z][a-z\d+.-]*:\/\//i.test(raw)
   const isBareHost = /^[\w.-]+(:\d+)?$/.test(raw)
-  if (!hasScheme && !isBareHost) return meta.hostname
-  if (hasScheme && !/^https?:\/\//i.test(raw)) return meta.hostname
+  if (!hasScheme && !isBareHost) return undefined
+  if (hasScheme && !/^https?:\/\//i.test(raw)) return undefined
   try {
     const url = new URL(hasScheme ? raw : `https://${raw}`)
     const isHostOnly = url.pathname === '/' && !url.search && !url.hash
-    if (!url.hostname || !isHostOnly) return meta.hostname
+    if (!url.hostname || !isHostOnly) return undefined
     return url.origin
   } catch {
-    return meta.hostname
+    return undefined
   }
 }
-const siteHost = resolveSiteHost(process.env.SITE_HOST)
+
+// Cloudflare Pages build branches that count as production; previews on any
+// other branch advertise their own deployment host.
+const productionBranch = 'main'
+
+// Resolution order: an explicit SITE_HOST, then CF_PAGES_URL for a Pages
+// preview build, then the production host. Local and CI builds never set the
+// Pages variables, so they keep using meta.hostname.
+const resolveSiteHost = () => {
+  const explicit = normaliseHost(process.env.SITE_HOST)
+  if (explicit) return explicit
+  const branch = process.env.CF_PAGES_BRANCH
+  if (branch && branch !== productionBranch) {
+    const preview = normaliseHost(process.env.CF_PAGES_URL)
+    if (preview) return preview
+  }
+  return meta.hostname
+}
+const siteHost = resolveSiteHost()
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
