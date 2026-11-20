@@ -201,10 +201,10 @@ const updateScrollInset = () => {
       ? element.getBoundingClientRect().height
       : 0
 
-  // On mobile the local nav overlays the navbar in the same row, so the
+  // Below 768px the local nav overlays the navbar in the same row, so the
   // occupied inset is the taller of the two, not their sum.
   const inset =
-    (window.innerWidth < 960
+    (window.innerWidth < 768
       ? Math.max(visibleHeight(nav), visibleHeight(localNav))
       : visibleHeight(nav) + visibleHeight(localNav)) + 16
   document.documentElement.style.setProperty(

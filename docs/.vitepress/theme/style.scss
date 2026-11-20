@@ -1147,14 +1147,25 @@ html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
     --vp-nav-height: 48px;
     --vp-nav-logo-height: 20px;
   }
+}
 
+/* 768–959px: the search pill sits next to the logo, so the local nav
+   keeps its own row below the navbar (overlaying it would block search). */
+@media (min-width: 768px) and (max-width: 959px) {
+  html.fmhy-doc-layout .VPLocalNav {
+    top: var(--vp-nav-height) !important;
+  }
+}
+
+/* Below 768px the navbar's right side is just search + hamburger, so the
+   local nav merges into the same row on doc pages:
+   [logo] [≡ Menu] [On this page] … [🔍] [☰] */
+@media (max-width: 767px) {
   .DocSearch-Button {
     width: 44px;
     height: 48px;
   }
 
-  /* Merge the local nav into the navbar row on doc pages:
-     [logo] [≡ Menu] [On this page] … [🔍] [☰] */
   html.fmhy-doc-layout {
     .VPLocalNav {
       position: fixed;
