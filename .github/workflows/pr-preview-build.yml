@@ -2,14 +2,11 @@ name: PR Preview Build
 
 on:
   pull_request:
-    types: [synchronize, reopened, ready_for_review, labeled, unlabeled]
+    types: [opened, synchronize, reopened, ready_for_review, labeled, unlabeled]
 
 permissions:
   contents: read
-
-concurrency:
-  group: pr-preview-build-${{ github.event.pull_request.number }}
-  cancel-in-progress: true
+  pull-requests: read
 
 jobs:
   decide:
@@ -17,16 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     if: >-
       (github.event.action != 'labeled' && github.event.action != 'unlabeled')
-      || (github.event.action == 'labeled' && (github.event.label.name == 'core'
       || github.event.label.name == 'preview' || github.event.label.name ==
-      'skip-preview')) || (github.event.action == 'unlabeled' &&
-      github.event.label.name == 'skip-preview')
+      'skip-preview'
     outputs:
       build: ${{ steps.check.outputs.build }}
       head_sha: ${{ steps.check.outputs.head_sha }}
     steps:
       - id: check
-        name: Check PR labels and state
+        name: Check PR eligibility and changed files
         uses: actions/github-script@v7
         with:
           script: |
@@ -43,9 +38,36 @@ jobs:
               return;
             }
 
-            const shouldBuild =
-              labels.includes('preview') ||
-              (labels.includes('core') && !pr.draft);
+            const forcePreview = labels.includes('preview');
+            let shouldBuild = forcePreview;
+
+            if (!shouldBuild && !pr.draft) {
+              const files = await github.paginate(github.rest.pulls.listFiles, {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                per_page: 100,
+              });
+
+              const isWebsiteFile = (f) => {
+                if (f.endsWith('.md')) return false;
+                return (
+                  f.startsWith('docs/.vitepress/') ||
+                  f.startsWith('docs/public/') ||
+                  f.startsWith('scripts/') ||
+                  f === 'package.json' ||
+                  f === 'pnpm-lock.yaml' ||
+                  f === 'pnpm-workspace.yaml' ||
+                  f === 'unocss.config.ts' ||
+                  f === 'tsconfig.json' ||
+                  /^vite\.config\./.test(f) ||
+                  f === '.github/workflows/pr-preview-build.yml' ||
+                  f === '.github/workflows/pr-preview-deploy.yml'
+                );
+              };
+
+              shouldBuild = files.some((file) => isWebsiteFile(file.filename));
+            }
 
             core.setOutput('build', String(shouldBuild));
             core.setOutput('head_sha', pr.head.sha);
@@ -55,10 +77,13 @@ jobs:
     needs: decide
     if: needs.decide.outputs.build == 'true'
     runs-on: ubuntu-latest
+    concurrency:
+      group: pr-preview-build-${{ github.event.pull_request.number }}
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v6
         with:
-          ref: refs/pull/${{ github.event.pull_request.number }}/head
+          ref: ${{ needs.decide.outputs.head_sha }}
           fetch-depth: 0 # generate-removed.js reads git log
           persist-credentials: false
 
