@@ -2269,115 +2269,121 @@ function isSamePageComparison(destPath: string) {
         <div class="backdrop" @click="close" />
 
         <div class="shell">
-          <form
-            class="search-bar"
-            @pointerup="onSearchBarClick($event)"
-            @submit.prevent
-          >
-            <label
-              id="localsearch-label"
-              :title="buttonText"
-              for="localsearch-input"
+          <div class="search-area">
+            <form
+              class="search-bar"
+              @pointerup="onSearchBarClick($event)"
+              @submit.prevent
             >
-              <span
-                aria-hidden="true"
-                class="vpi-search search-icon local-search-icon"
+              <label
+                id="localsearch-label"
+                :title="buttonText"
+                for="localsearch-input"
+              >
+                <span
+                  aria-hidden="true"
+                  class="vpi-search search-icon local-search-icon"
+                />
+              </label>
+              <div class="search-actions before">
+                <button
+                  class="back-button"
+                  :title="translate('modal.backButtonTitle')"
+                  @click="close"
+                >
+                  <span class="vpi-arrow-left local-search-icon" />
+                </button>
+              </div>
+              <input
+                id="localsearch-input"
+                ref="searchInput"
+                :value="filterText"
+                :aria-activedescendant="
+                  selectedIndex > -1
+                    ? 'localsearch-item-' + selectedIndex
+                    : undefined
+                "
+                aria-autocomplete="both"
+                :aria-controls="
+                  results?.length ? 'localsearch-list' : undefined
+                "
+                aria-labelledby="localsearch-label"
+                autocapitalize="off"
+                autocomplete="off"
+                autocorrect="off"
+                class="search-input"
+                enterkeyhint="go"
+                maxlength="256"
+                :placeholder="buttonText"
+                spellcheck="false"
+                type="search"
+                @input="handleInput"
               />
-            </label>
-            <div class="search-actions before">
-              <button
-                class="back-button"
-                :title="translate('modal.backButtonTitle')"
-                @click="close"
-              >
-                <span class="vpi-arrow-left local-search-icon" />
-              </button>
-            </div>
-            <input
-              id="localsearch-input"
-              ref="searchInput"
-              :value="filterText"
-              :aria-activedescendant="
-                selectedIndex > -1
-                  ? 'localsearch-item-' + selectedIndex
-                  : undefined
-              "
-              aria-autocomplete="both"
-              :aria-controls="results?.length ? 'localsearch-list' : undefined"
-              aria-labelledby="localsearch-label"
-              autocapitalize="off"
-              autocomplete="off"
-              autocorrect="off"
-              class="search-input"
-              enterkeyhint="go"
-              maxlength="256"
-              :placeholder="buttonText"
-              spellcheck="false"
-              type="search"
-              @input="handleInput"
-            />
-            <div class="search-actions">
-              <span
-                v-if="isSearching"
-                class="vp-search-spinner"
-                style="align-self: center; margin: 0 4px"
-                :title="customTitles.searching"
-              />
+              <div class="search-actions">
+                <span
+                  v-if="isSearching"
+                  class="vp-search-spinner"
+                  style="align-self: center; margin: 0 4px"
+                  :title="customTitles.searching"
+                />
 
-              <button
-                class="clear-button"
-                type="reset"
-                :disabled="disableReset"
-                :title="translate('modal.resetButtonTitle')"
-                @click="resetSearch"
-              >
-                <span class="vpi-delete local-search-icon" />
-              </button>
+                <button
+                  class="clear-button"
+                  type="reset"
+                  :disabled="disableReset"
+                  :title="translate('modal.resetButtonTitle')"
+                  @click="resetSearch"
+                >
+                  <span class="vpi-delete local-search-icon" />
+                </button>
 
+                <button
+                  class="options-toggle-button"
+                  type="button"
+                  :class="{ 'options-active': hasActiveOptions }"
+                  :aria-expanded="showSearchOptions"
+                  aria-controls="search-options"
+                  :title="customTitles.optionsToggle"
+                  @click="toggleSearchOptions"
+                >
+                  <span class="options-icon i-lucide:sliders-horizontal" />
+                  <span class="visually-hidden">
+                    {{ customTitles.optionsToggle }}
+                  </span>
+                </button>
+              </div>
+            </form>
+
+            <div
+              v-if="showSearchOptions"
+              id="search-options"
+              class="search-options-menu"
+              role="menu"
+            >
               <button
-                class="options-toggle-button"
+                class="option-item"
                 type="button"
-                :class="{ 'options-active': hasActiveOptions }"
-                :aria-expanded="showSearchOptions"
-                aria-controls="search-options"
-                :title="customTitles.optionsToggle"
-                @click="toggleSearchOptions"
-              >
-                <span class="options-icon i-lucide:sliders-horizontal" />
-                <span class="visually-hidden">
-                  {{ customTitles.optionsToggle }}
-                </span>
-              </button>
-            </div>
-          </form>
-
-          <div
-            v-if="showSearchOptions"
-            id="search-options"
-            class="search-options"
-          >
-            <div class="options-toggles">
-              <button
-                class="option-toggle"
-                type="button"
+                role="menuitemcheckbox"
                 :class="{ 'is-active': isFuzzySearch }"
-                :aria-pressed="isFuzzySearch"
+                :aria-checked="isFuzzySearch"
                 :title="
                   isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
                 "
                 @click="toggleFuzzySearch"
               >
                 <span class="option-icon">{{ isFuzzySearch ? '~' : '=' }}</span>
-                Fuzzy
+                <span class="option-label">Fuzzy matching</span>
+                <span
+                  v-if="isFuzzySearch"
+                  class="option-check i-lucide:check"
+                />
               </button>
               <button
-                class="option-toggle"
+                class="option-item"
                 type="button"
-                :class="{
-                  'is-active': isUrlSearch,
-                  'is-auto': urlSearchAuto
-                }"
-                :aria-pressed="isUrlSearch"
+                role="menuitemcheckbox"
+                :class="{ 'is-active': isUrlSearch, 'is-auto': urlSearchAuto }"
+                :aria-checked="isUrlSearch"
                 :title="
                   isUrlSearch
                     ? customTitles.urlOn
@@ -2388,57 +2394,64 @@ function isSamePageComparison(destPath: string) {
                 @click="toggleUrlSearch"
               >
                 <span class="option-icon i-lucide:link" />
-                URLs
+                <span class="option-label">Match link URLs</span>
+                <span v-if="isUrlSearch" class="option-check i-lucide:check" />
               </button>
               <button
                 v-if="!disableDetailedView"
-                class="option-toggle"
+                class="option-item"
                 type="button"
+                role="menuitemcheckbox"
                 :class="{ 'is-active': showDetailedList }"
-                :aria-pressed="showDetailedList"
+                :aria-checked="showDetailedList"
                 :title="translate('modal.displayDetails')"
                 @click="toggleDetailedList"
               >
                 <span class="option-icon vpi-layout-list" />
-                {{
-                  showDetailedList
-                    ? customTitles.detailedViewOn
-                    : customTitles.detailedViewOff
-                }}
-              </button>
-            </div>
-
-            <div
-              v-if="filterText && visibleCategories.length"
-              class="category-filters"
-              @wheel="onCategoryWheel"
-            >
-              <button
-                type="button"
-                class="category-chip"
-                :class="{ active: !activeCategory }"
-                :aria-pressed="!activeCategory"
-                title="All sections"
-                @click="selectCategory('')"
-              >
-                All
-                <span class="chip-count">{{ totalCategoryCount }}</span>
-              </button>
-              <button
-                v-for="cat in visibleCategories"
-                :key="cat.id"
-                type="button"
-                class="category-chip"
-                :class="{ active: activeCategory === cat.id }"
-                :aria-pressed="activeCategory === cat.id"
-                :title="cat.label"
-                @click="selectCategory(cat.id)"
-              >
-                {{ cat.label }}
-                <span class="chip-count">
-                  {{ categoryCounts.get(cat.id) ?? 0 }}
+                <span class="option-label">
+                  {{
+                    showDetailedList
+                      ? customTitles.detailedViewOn
+                      : customTitles.detailedViewOff
+                  }}
                 </span>
+                <span
+                  v-if="showDetailedList"
+                  class="option-check i-lucide:check"
+                />
               </button>
+              <template v-if="filterText && visibleCategories.length">
+                <div class="options-divider" />
+                <div class="options-group-label">Search in</div>
+                <div class="category-filters" @wheel="onCategoryWheel">
+                  <button
+                    type="button"
+                    class="category-chip"
+                    :class="{ active: !activeCategory }"
+                    :aria-pressed="!activeCategory"
+                    title="All sections"
+                    @click="selectCategory('')"
+                  >
+                    All
+                    <span class="chip-count">{{ totalCategoryCount }}</span>
+                  </button>
+                  <button
+                    v-for="cat in visibleCategories"
+                    :key="cat.id"
+                    type="button"
+                    class="category-chip"
+                    :class="{ active: activeCategory === cat.id }"
+                    :aria-pressed="activeCategory === cat.id"
+                    :title="cat.label"
+                    @click="selectCategory(cat.id)"
+                  >
+                    {{ cat.label }}
+                    <span class="chip-count">
+                      {{ categoryCounts.get(cat.id) ?? 0 }}
+                    </span>
+                  </button>
+                </div>
+              </template>
             </div>
           </div>
 
@@ -2902,78 +2915,106 @@ function isSamePageComparison(destPath: string) {
   color: var(--vp-c-brand-1);
 }
 
-.search-options {
+.search-area {
+  position: relative;
+}
+
+.search-options-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 3000;
+  margin-top: 6px;
+  min-width: 200px;
+  max-width: min(340px, 100%);
+  padding: 6px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  margin-top: 8px;
-}
-
-.options-toggles {
-  display: flex;
-  gap: 6px;
-  flex-shrink: 0;
-  overflow-x: auto;
-  overflow-y: hidden;
-  overscroll-behavior-x: contain;
-  padding: 0 4px 2px;
-}
-
-.option-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  flex-shrink: 0;
-  height: 26px;
-  padding: 0 10px;
+  gap: 2px;
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 999px;
-  font-size: 0.75rem;
+  border-radius: 8px;
+  box-shadow: var(--vp-shadow-2);
+}
+
+.option-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
   color: var(--vp-c-text-2);
-  background-color: var(--vp-local-search-bg);
+  background: transparent;
+  text-align: left;
   white-space: nowrap;
   cursor: pointer;
   transition:
     color 0.2s,
-    background-color 0.2s,
-    border-color 0.2s;
+    background-color 0.2s;
 }
 
-.option-toggle:hover {
+.option-item:hover {
   color: var(--vp-c-text-1);
   background-color: var(--vp-c-bg-soft);
 }
 
-.option-toggle.is-active {
+.option-item.is-active {
   color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-bg-soft);
-  border-color: color-mix(
-    in srgb,
-    var(--vp-c-brand-1) 35%,
-    var(--vp-c-divider)
-  );
 }
 
-.option-toggle.is-auto:not(.is-active) {
+.option-item.is-auto:not(.is-active) {
   color: var(--vp-c-brand-1);
   opacity: 0.6;
 }
 
-.option-toggle .option-icon {
+.option-item .option-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
   font-size: 14px;
   font-weight: bold;
   line-height: 1;
+  flex-shrink: 0;
+}
+
+.option-item .option-label {
+  flex: 1;
+}
+
+.option-item .option-check {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.options-divider {
+  height: 1px;
+  background: var(--vp-c-divider);
+  margin: 4px -6px;
+}
+
+.options-group-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--vp-c-text-3);
+  padding: 4px 8px 2px;
+}
+
+.search-options-menu .category-filters {
+  flex-wrap: wrap;
+  overflow: visible;
+  margin-top: 0;
+  padding: 0 4px;
 }
 
 @media (any-pointer: coarse) {
-  .option-toggle {
-    height: 32px;
-    padding: 0 12px;
+  .option-item {
+    padding: 10px 8px;
   }
 }
 
