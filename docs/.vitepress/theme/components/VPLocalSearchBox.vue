@@ -3018,6 +3018,65 @@ function isSamePageComparison(destPath: string) {
   }
 }
 
+/* Mobile: the options open as a slim scrollable strip under the bar,
+   not an overlay menu. */
+@media (max-width: 767px) {
+  .search-options-menu {
+    position: static;
+    margin-top: 8px;
+    min-width: 0;
+    max-width: none;
+    padding: 0;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .search-options-menu .option-item {
+    flex-shrink: 0;
+    gap: 6px;
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 999px;
+    font-size: 0.75rem;
+    background-color: var(--vp-local-search-bg);
+  }
+
+  .search-options-menu .option-item.is-active {
+    background-color: var(--vp-c-bg-soft);
+    border-color: color-mix(
+      in srgb,
+      var(--vp-c-brand-1) 35%,
+      var(--vp-c-divider)
+    );
+  }
+
+  .search-options-menu .options-divider {
+    width: 1px;
+    height: 20px;
+    margin: 0 2px;
+    flex-shrink: 0;
+  }
+
+  .search-options-menu .options-group-label {
+    display: none;
+  }
+
+  .search-options-menu .category-filters {
+    display: contents;
+    margin-top: 0;
+    padding: 0;
+  }
+}
+
 .search-keyboard-shortcuts {
   font-size: 0.8rem;
   opacity: 75%;
