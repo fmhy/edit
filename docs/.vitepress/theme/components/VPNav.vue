@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import { useWindowScroll, useWindowSize } from '@vueuse/core'
 import { inBrowser, useData } from 'vitepress'
 import VPNavBar from 'vitepress/dist/client/theme-default/components/VPNavBar.vue'
 import VPNavScreen from 'vitepress/dist/client/theme-default/components/VPNavScreen.vue'
 import { useNav } from 'vitepress/dist/client/theme-default/composables/nav'
-import { computed, onMounted, provide, ref, watch, watchEffect } from 'vue'
+import { computed, onMounted, provide, watchEffect } from 'vue'
 
 const { isScreenOpen, closeScreen, toggleScreen } = useNav()
 const { frontmatter } = useData()
@@ -21,81 +20,11 @@ watchEffect(() => {
   }
 })
 
-// Scroll logic for mobile sticky header
-const { y } = useWindowScroll()
-const { width } = useWindowSize()
-const isHidden = ref(false)
-
-const setMobileNavHidden = (hidden: boolean) => {
-  if (!inBrowser) return
-  isHidden.value = hidden
-  document.documentElement.classList.toggle('vp-nav-shown-mobile', !hidden)
-}
-
-const SCROLL_THRESHOLD = 12
-let lastNavScrollY = 0
-
-watch(y, (newY) => {
-  if (!inBrowser) return
-
-  if (newY <= 0) {
-    setMobileNavHidden(false)
-    lastNavScrollY = 0
-    return
-  }
-
-  if (width.value >= 960) {
-    setMobileNavHidden(false)
-    lastNavScrollY = newY
-    return
-  }
-
-  const diff = newY - lastNavScrollY
-
-  // If a search scroll-to-match operation is active, lock the navbar state
-  if (document.documentElement.classList.contains('vp-search-scrolling')) {
-    lastNavScrollY = newY
-    return
-  }
-
-  if (isScreenOpen.value) {
-    setMobileNavHidden(false)
-    lastNavScrollY = newY
-    return
-  }
-
-  const isTocOpen = !!document.querySelector(
-    '.VPLocalNavOutlineDropdown .items'
-  )
-
-  if (diff > 0 && isTocOpen) {
-    lastNavScrollY = newY
-    return
-  }
-
-  if (Math.abs(diff) > SCROLL_THRESHOLD) {
-    setMobileNavHidden(diff > 0)
-    lastNavScrollY = newY
-  }
-})
-
+// The navbar stays pinned on mobile so the search button is always reachable;
+// this flag keeps the local nav offset in sync with it.
 onMounted(() => {
-  setMobileNavHidden(isHidden.value)
-  lastNavScrollY = y.value
-})
-
-watch(isScreenOpen, (open) => {
-  if (open) {
-    setMobileNavHidden(false)
-    lastNavScrollY = y.value
-  }
-})
-
-// Watch width to reset if resizing to desktop
-watch(width, (newWidth) => {
-  if (newWidth >= 960) {
-    setMobileNavHidden(false)
-    lastNavScrollY = y.value
+  if (inBrowser) {
+    document.documentElement.classList.add('vp-nav-shown-mobile')
   }
 })
 </script>
@@ -104,7 +33,7 @@ watch(width, (newWidth) => {
   <!-- Spacer to prevent content jump when header is fixed on mobile -->
   <div v-if="hasNavbar" class="vp-nav-spacer"></div>
 
-  <header v-if="hasNavbar" class="VPNav" :class="{ 'nav-hidden': isHidden }">
+  <header v-if="hasNavbar" class="VPNav">
     <VPNavBar :is-screen-open="isScreenOpen" @toggle-screen="toggleScreen">
       <template #nav-bar-title-before>
         <slot name="nav-bar-title-before" />
@@ -138,9 +67,7 @@ watch(width, (newWidth) => {
   z-index: var(--vp-z-index-nav);
   width: 100%;
   pointer-events: none;
-  transition:
-    background-color 0.5s,
-    transform 0.25s ease-in-out;
+  transition: background-color 0.5s;
 }
 
 @media (min-width: 960px) {
@@ -153,10 +80,6 @@ watch(width, (newWidth) => {
 @media (max-width: 959px) {
   .VPNav {
     position: fixed; /* Fix header on mobile */
-  }
-
-  .VPNav.nav-hidden {
-    transform: translateY(-100%); /* Hide on scroll down */
   }
 
   .vp-nav-spacer {

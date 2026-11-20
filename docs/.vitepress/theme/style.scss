@@ -1139,3 +1139,17 @@ html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
   display: inline;
   text-transform: uppercase;
 }
+
+/* Compact mobile top bar — slim pinned navbar keeps the search button
+   reachable without scrolling back up. */
+@media (max-width: 959px) {
+  :root:not(.hide-nav) {
+    --vp-nav-height: 48px;
+    --vp-nav-logo-height: 20px;
+  }
+
+  .DocSearch-Button {
+    width: 44px;
+    height: 48px;
+  }
+}
