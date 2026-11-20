@@ -1149,9 +1149,9 @@ html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
   }
 }
 
-/* 768–959px: the search pill sits next to the logo, so the local nav
+/* ≥768px: the search pill sits next to the logo, so the local nav
    keeps its own row below the navbar (overlaying it would block search). */
-@media (min-width: 768px) and (max-width: 959px) {
+@media (min-width: 768px) {
   html.fmhy-doc-layout .VPLocalNav {
     top: var(--vp-nav-height) !important;
   }
@@ -1159,8 +1159,10 @@ html:is([data-theme='color-carnation'], [data-theme='color-cerise']) {
 
 /* Below 768px the navbar's right side is just search + hamburger, so the
    local nav merges into the same row on doc pages:
-   [logo] [≡ Menu] [On this page] … [🔍] [☰] */
-@media (max-width: 767px) {
+   [logo] [≡ Menu] [On this page] … [🔍] [☰]
+   Range syntax matches the innerWidth < 768 check in Layout.vue — fractional
+   viewports (e.g. 767.5px) must not fall between the two rules. */
+@media (width < 768px) {
   .DocSearch-Button {
     width: 44px;
     height: 48px;
