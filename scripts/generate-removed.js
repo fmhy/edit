@@ -247,7 +247,11 @@ function parseDocument(markdown, source) {
   const lines = source.split('\n')
   const hasAttributes =
     source.includes('{') || markdown.utils.unescapeAll(source).includes('{')
-  markdown.core.ruler[hasAttributes ? 'enable' : 'disable']('curly_attributes')
+  markdown.core.ruler[hasAttributes ? 'enable' : 'disable'](
+    markdown.core.ruler.getRules('curly_attributes').length
+      ? 'curly_attributes'
+      : 'attrs'
+  )
   const tokens = markdown.parse(source, { cacheInline: !hasAttributes })
   for (let index = 0; index < tokens.length; index++) {
     const token = tokens[index]

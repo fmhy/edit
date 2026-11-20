@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { getScrollOffset, useRoute } from 'vitepress'
+import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
@@ -238,7 +238,9 @@ const runUpdateMobileActiveLink = () => {
 
   let activeId = ''
   for (const anchor of cachedAnchors) {
-    if (anchor.getBoundingClientRect().top <= getScrollOffset() + 4) {
+    const scrollOffset =
+      parseFloat(getComputedStyle(anchor).scrollMarginTop) || 0
+    if (anchor.getBoundingClientRect().top <= scrollOffset + 4) {
       activeId = anchor.id
     } else {
       break

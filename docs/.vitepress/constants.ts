@@ -15,7 +15,10 @@
  */
 
 import type { DefaultTheme } from 'vitepress'
+import { createHash } from 'node:crypto'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import path from 'node:path'
+import { fileURLToPath } from 'node:url'
 import MiniSearch from 'minisearch'
 import { excluded, normalizeSearchUrl } from './shared'
 import { transform, transformGuide } from './transformer'
@@ -227,6 +230,16 @@ function stripNoteBlocks(html: string): string {
   return out
 }
 
+// Rendering every page through markdown-it just to build the search index is
+// one of the slowest parts of the build, and the output only depends on the
+// markdown source — so rendered HTML is cached per content hash under
+// .vitepress/cache (which CI restores between builds). Keyed on the stripped
+// source, so edits and `search-exclude` changes invalidate naturally.
+const SEARCH_RENDER_CACHE_DIR = fileURLToPath(
+  new URL('./cache/search-render', import.meta.url)
+)
+const searchRenderMemCache = new Map<string, string>()
+
 export const search: DefaultTheme.Config['search'] = {
   options: {
     _render(src, env, md) {
@@ -269,6 +282,19 @@ export const search: DefaultTheme.Config['search'] = {
         ''
       )
 
+      const cacheKey = createHash('sha256').update(contents).digest('hex')
+      let html = searchRenderMemCache.get(cacheKey)
+      if (html === undefined) {
+        const cacheFile = path.join(SEARCH_RENDER_CACHE_DIR, `${cacheKey}.html`)
+        if (existsSync(cacheFile)) {
+          html = readFileSync(cacheFile, 'utf8')
+        }
+      }
+      if (html !== undefined) {
+        searchRenderMemCache.set(cacheKey, html)
+        return html
+      }
+
       const isPostOrOther =
         relativePath.includes('posts') || relativePath.includes('other')
 
@@ -279,7 +305,7 @@ export const search: DefaultTheme.Config['search'] = {
 
         contents = transform(contents)
       }
-      let html = md.render(contents, env)
+      html = md.render(contents, env)
       // Strip <Tooltip ...>...</Tooltip> contents to avoid indexing hidden notes in search
       html = html.replace(/<Tooltip[\s\S]*?<\/Tooltip>/gi, '')
       // Strip note/infobox custom blocks (:::tip/:::info/:::warning/:::danger,
@@ -290,6 +316,17 @@ export const search: DefaultTheme.Config['search'] = {
       // as curated either. Nesting-aware so a note containing a code fence or
       // wrapped component (which render as nested <div>s) is still fully removed.
       html = stripNoteBlocks(html)
+
+      searchRenderMemCache.set(cacheKey, html)
+      try {
+        mkdirSync(SEARCH_RENDER_CACHE_DIR, { recursive: true })
+        writeFileSync(
+          path.join(SEARCH_RENDER_CACHE_DIR, `${cacheKey}.html`),
+          html
+        )
+      } catch {
+        // cache is best-effort only
+      }
       return html
     },
     miniSearch: {

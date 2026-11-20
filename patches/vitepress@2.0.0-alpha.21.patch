@@ -1,0 +1,34 @@
+diff --git a/dist/node/chunk-BjrVv9r8.js b/dist/node/chunk-BjrVv9r8.js
+index cb31fd6fd6e2237e59979f673402d3dab77c7d03..c20a12998765f20229c0064ed616a385998d8e11 100644
+--- a/dist/node/chunk-BjrVv9r8.js
++++ b/dist/node/chunk-BjrVv9r8.js
+@@ -20057,10 +20057,18 @@ async function createMarkdownToVueRenderFn(srcDir, options, base, includeLastUpd
+ 	return async (src, file) => {
+ 		let { pages, dynamicRoutes, rewrites, ts } = getResolutionCache(siteConfig), dynamicRoute = dynamicRoutes.get(file), fileOrig = dynamicRoute?.[0] || file, transformPageData = [siteConfig?.transformPageData, getPageDataTransformer(dynamicRoute?.[1])].filter((fn) => fn != null);
+ 		file = rewrites.get(normalizeDriveLetter(file)) || file;
+-		let relativePath = slash(path.relative(srcDir, file)), cacheKey = `${hash("sha256", src, "base64url")}:${ts}:${relativePath}`;
++		let relativePath = slash(path.relative(srcDir, file)), cacheKey = `${hash("sha256", src, "base64url")}:${ts}:${relativePath}`, __diskFile = null;
+ 		if (options.cache !== !1) {
+ 			let cached = cache$1.get(cacheKey);
+ 			if (cached) return debug$1(`[cache hit] ${relativePath}`), cached;
++			if (siteConfig?.cacheDir) {
++				let __salt = hash("sha256", String(transformPageData.map(String)) + String(options.config) + String(includeLastUpdatedData) + String(cleanUrls) + String(base), "base64url").slice(0, 16);
++				__diskFile = path.join(siteConfig.cacheDir, "md-pages", `${__salt}-${hash("sha256", src, "base64url")}.json`);
++				try {
++					let __cached = JSON.parse(await readFile(__diskFile, "utf8"));
++					return cache$1.set(cacheKey, __cached), __cached;
++				} catch {}
++			}
+ 		}
+ 		let start = Date.now(), params;
+ 		src = src.replace(/^__VP_PARAMS_START([^]+?)__VP_PARAMS_END__/, (_, paramsString) => (params = JSON.parse(paramsString), ""));
+@@ -20140,6 +20148,9 @@ async function createMarkdownToVueRenderFn(srcDir, options, base, includeLastUpd
+ 			deadLinks,
+ 			includes
+ 		};
++		if (__diskFile && (!includes || includes.length === 0)) try {
++			await mkdir(path.dirname(__diskFile), { recursive: true }), await writeFile(__diskFile, JSON.stringify(result));
++		} catch {}
+ 		return options.cache !== !1 && cache$1.set(cacheKey, result), result;
+ 	};
+ }

@@ -32,6 +32,15 @@ jobs:
         uses: actions/configure-pages@v6
       - name: Install dependencies
         run: pnpm install
+      - name: Restore VitePress build cache
+        uses: actions/cache@v4
+        with:
+          # Holds the OG image, markdown->vue, search-render and
+          # content-transform caches produced by docs:build.
+          path: docs/.vitepress/cache
+          key: vitepress-cache-${{ hashFiles('docs/**', 'pnpm-lock.yaml') }}
+          restore-keys: |
+            vitepress-cache-
       - name: Build with VitePress
         run: |
           pnpm docs:build

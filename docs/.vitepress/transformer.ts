@@ -15,10 +15,21 @@
  */
 
 import type { Plugin } from 'vitepress'
-import { basename } from 'node:path'
+import { createHash } from 'node:crypto'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { basename, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { ICON_LINKS, REDDIT_WIKI_PATHS } from './shared'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
+
+// The link/icon transforms below run dozens of regexes over every page in
+// both the client and SSR bundles; output depends only on the source, so it
+// is cached per content hash under .vitepress/cache (restored in CI).
+const TRANSFORM_CACHE_DIR = fileURLToPath(
+  new URL('./cache/transform-content', import.meta.url)
+)
+const transformMemCache = new Map<string, string>()
 
 export function transformsPlugin(): Plugin {
   return {
@@ -36,15 +47,39 @@ export function transformsPlugin(): Plugin {
       ) {
         const header = getHeader(_id)
         if (_id === 'recently-removed.md') return header + code
-        const contents = transform(code)
 
-        if (_id === 'beginners-guide.md') {
-          const _contents = transformGuide(contents)
-          return header + _contents
+        const cacheKey = createHash('sha256')
+          .update(_id)
+          .update(code)
+          .digest('hex')
+        const cached =
+          transformMemCache.get(cacheKey) ??
+          (existsSync(join(TRANSFORM_CACHE_DIR, `${cacheKey}.md`))
+            ? readFileSync(join(TRANSFORM_CACHE_DIR, `${cacheKey}.md`), 'utf8')
+            : undefined)
+        if (cached !== undefined) {
+          transformMemCache.set(cacheKey, cached)
+          return cached
         }
-        if (_id === 'storage.md') return header + contents
 
-        return header + transformLinks(contents)
+        const contents = transform(code)
+        let result: string
+        if (_id === 'beginners-guide.md') {
+          result = header + transformGuide(contents)
+        } else if (_id === 'storage.md') {
+          result = header + contents
+        } else {
+          result = header + transformLinks(contents)
+        }
+
+        transformMemCache.set(cacheKey, result)
+        try {
+          mkdirSync(TRANSFORM_CACHE_DIR, { recursive: true })
+          writeFileSync(join(TRANSFORM_CACHE_DIR, `${cacheKey}.md`), result)
+        } catch {
+          // cache is best-effort only
+        }
+        return result
       }
     }
   }

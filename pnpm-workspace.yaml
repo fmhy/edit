@@ -5,6 +5,13 @@ onlyBuiltDependencies:
   - simple-git-hooks
   - vue-demi
   - workerd
+
+overrides:
+  vite: npm:rolldown-vite@^7
+
+patchedDependencies:
+  vitepress@2.0.0-alpha.21: patches/vitepress@2.0.0-alpha.21.patch
+
 peerDependencyRules:
   ignoreMissing:
     - '@algolia/client-search'
