@@ -3,11 +3,11 @@ import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
 import {
   computed,
+  nextTick,
   onMounted,
   onUnmounted,
   reactive,
   ref,
-  watch,
   watchEffect
 } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
@@ -116,28 +116,16 @@ const handlePageClick = (event: MouseEvent) => {
   if (blockElement) {
     const text = extractBlockText(blockElement)
     if (text) {
+      // Fill the page URL first: it is part of the prefix, so the description
+      // budget the prefill writes into is already the final one.
       if (isSuggestionPath.value) {
-        // A pick always replaces the previous one, it never stacks. The only
-        // visible trace of it is the Site or page field.
-        feedback.selectedLine = text
         const current = suggestionSite.value.trim()
         if (!current || siteAutoFilled.value) {
           suggestionSite.value = pageUrl.value
           siteAutoFilled.value = true
         }
-      } else {
-        // No site field on these paths, so the picked line goes into the
-        // message the contributor can see and edit, never hidden state.
-        const picked = `> ${text}\n\n`
-        const isQuoted =
-          feedback.message.startsWith('> ') && feedback.message.includes('\n\n')
-        const body = isQuoted
-          ? feedback.message.slice(feedback.message.indexOf('\n\n') + 2)
-          : feedback.message
-        // Visible text only here, so a clamp is something the contributor can
-        // see and edit, never a silent truncation of the payload.
-        feedback.message = `${picked}${body}`.slice(0, MAX_MESSAGE_LENGTH)
       }
+      applyPickedLine(text)
     }
   }
   stopSelectingLine()
@@ -146,6 +134,39 @@ const handlePageClick = (event: MouseEvent) => {
 onUnmounted(() => {
   stopSelectingLine()
 })
+
+/**
+ * The picked line lives in the description: the only place it is shown, and the
+ * only place it is sent from. A second pick replaces the leading quote instead
+ * of stacking another, and text the contributor already typed stays underneath
+ * it. The quote gets at least a few characters of room so a pick is always
+ * visible, and the whole value stays inside the budget the field enforces.
+ */
+function applyPickedLine(text: string) {
+  const limit = suggestionDescriptionMax.value
+  const current = feedback.message
+  const split = current.indexOf('\n\n')
+  const body = current.startsWith('> ')
+    ? split === -1
+      ? ''
+      : current.slice(split + 2)
+    : current
+  const bodyPart = body ? `\n\n${body}` : ''
+  const line = text.replace(/\s+/g, ' ').trim()
+  const room = Math.max(4, limit - bodyPart.length - 2)
+  const quote =
+    line.length <= room ? line : `${line.slice(0, Math.max(0, room - 1))}…`
+  const next = `> ${quote}${bodyPart}`.slice(0, limit)
+  feedback.message = next
+  nextTick(() => {
+    const el = textareaRef.value
+    if (!el) return
+    el.style.height = 'auto'
+    el.style.height = `${el.scrollHeight}px`
+    el.focus()
+    el.setSelectionRange(next.length, next.length)
+  })
+}
 
 const handleInput = (event: Event) => {
   error.value = null
@@ -161,12 +182,10 @@ const feedback = reactive<{
   page: string
   contact?: string
   type?: FeedbackType['type']
-  selectedLine?: string
 }>({
   page: router.route.path,
   message: '',
-  contact: '',
-  selectedLine: undefined
+  contact: ''
 })
 
 type SuggestionKind = 'add' | 'remove' | 'dead' | 'other'
@@ -207,45 +226,11 @@ const selectedKindLabel = computed(
 
 const trimmedSite = computed(() => suggestionSite.value.trim())
 
-const pickedLine = computed(() => feedback.selectedLine?.trim() ?? '')
-
 const suggestionHead = computed(() => {
   if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
   const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
   return `[${selectedKindLabel.value}]${site}`
 })
-
-/**
- * The quote has to be bounded, not just the description: the selected line is
- * no longer drawn in the card, so a very long paragraph must be shortened here
- * rather than silently pushing the composed message past the schema limit.
- * The budget always leaves room for the shortest allowed description.
- */
-const quoteBudget = computed(() =>
-  Math.max(
-    0,
-    MAX_MESSAGE_LENGTH -
-      (suggestionHead.value.length + 2) -
-      4 -
-      MIN_SUGGESTION_DESCRIPTION
-  )
-)
-
-const attachmentQuote = computed(() => {
-  // Only the suggestion path keeps the pick as hidden state: the Site or page
-  // field is its single visible trace, so an emptied field detaches it.
-  if (!isSuggestionPath.value) return ''
-  const text = pickedLine.value
-  if (!text || !trimmedSite.value) return ''
-  const budget = quoteBudget.value
-  if (budget < 1) return ''
-  if (text.length <= budget) return text
-  return `${text.slice(0, budget - 1)}…`
-})
-
-const quoteBlock = computed(() =>
-  attachmentQuote.value ? `> ${attachmentQuote.value}\n\n` : ''
-)
 
 const siteError = computed(() => {
   if (!isSuggestionPath.value) return ''
@@ -260,7 +245,7 @@ const siteError = computed(() => {
 
 const suggestionPrefix = computed(() => {
   if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
-  return `${quoteBlock.value}${suggestionHead.value}\n\n`
+  return `${suggestionHead.value}\n\n`
 })
 
 const suggestionDescriptionMax = computed(() =>
@@ -282,21 +267,14 @@ function handleSiteInput() {
   error.value = null
 }
 
-// The quoted-line card is gone, so emptying Site or page is what detaches a
-// picked line. A non-empty manual edit keeps it attached.
-watch(suggestionSite, (value) => {
-  if (!isSuggestionPath.value) return
-  if (!value.trim()) feedback.selectedLine = undefined
-})
-
 function selectSuggestionKind(kind: SuggestionKind) {
   suggestionKind.value = kind
   error.value = null
 }
 
 function buildMessage() {
-  // On these paths a picked line is written straight into the message by
-  // handlePageClick, so the payload is exactly what the contributor sees.
+  // The description, quote included, is exactly what the contributor sees, so
+  // the payload is only ever the kind/site line plus that visible text.
   if (!isSuggestionPath.value || !selectedKindLabel.value) {
     return feedback.message
   }
@@ -448,7 +426,6 @@ const resetFeedback = () => {
   stopSelectingLine()
   success.value = false
   feedback.message = ''
-  feedback.selectedLine = undefined
   suggestionKind.value = null
   suggestionSite.value = ''
   siteAutoFilled.value = false
@@ -570,7 +547,7 @@ const resetFeedback = () => {
               spellcheck="false"
               :maxlength="SITE_MAX_LENGTH"
               class="field-control"
-              placeholder="https://example.com"
+              placeholder="Page link, e.g. https://fmhy.net/privacy"
               :aria-invalid="siteError ? 'true' : undefined"
               :aria-describedby="
                 siteError
@@ -587,8 +564,8 @@ const resetFeedback = () => {
               {{ siteError }}
             </p>
             <p id="fmhy-suggestion-site-hint" class="field-hint site-hint">
-              Selecting a line from the page fills this in; empty it to remove
-              that line from your suggestion.
+              The page this is about. Picking a line puts the line itself in the
+              description below.
             </p>
             <div class="toolbar">
               <button
