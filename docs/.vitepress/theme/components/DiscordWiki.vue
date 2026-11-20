@@ -327,17 +327,23 @@ onMounted(load)
 }
 
 .dw-body :deep(a.dw-join) {
-  background: var(--vp-c-brand-1);
-  border-radius: 8px;
+  background: var(--vp-button-brand-bg, var(--vp-c-brand-1));
+  border: 1px solid transparent;
+  border-radius: 20px;
   color: var(--vp-button-brand-text, #fff);
   display: inline-block;
+  font-size: 14px;
   font-weight: 600;
-  padding: 6px 16px;
+  line-height: 38px;
+  margin: 8px 0;
+  padding: 0 20px;
   text-decoration: none;
+  transition: background-color 0.2s;
+  white-space: nowrap;
 }
 
 .dw-body :deep(a.dw-join:hover) {
-  background: var(--vp-c-brand-2, var(--vp-c-brand-1));
+  background: var(--vp-c-brand-2);
 }
 
 .dw-body :deep(code) {
