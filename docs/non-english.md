@@ -16,6 +16,7 @@
 * [⁠Elfehrest](https://elfehrest.com/) - Blog Aggregator
 * [ZeroTaxJobs](https://zerotaxjobs.com/) - Software Engineer Jobs
 * [⁠MiraiAnime](https://miraianime.net/) - Anime Subtitles
+* [⁠Alfehrest](https://alfehrest.org/) - Interactive Islamic History 
 
 ## ▷ Downloading / تحميل
 
@@ -44,6 +45,7 @@
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
 * [EgyBest](https://egybest.la/) - Movies / TV / Anime
+* [MySeed](https://m.myseed.tv/ ) - Movies / TV / Anime
 * [⁠MyCima](https://mycima.gdn/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
 * [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
