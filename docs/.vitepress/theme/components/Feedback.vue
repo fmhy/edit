@@ -981,7 +981,11 @@ const resetFeedback = () => {
   box-shadow: 0 0 0 3px var(--vp-c-brand-soft);
 }
 
+/* The textarea used to sit in a `.field` wrapper that gave it `margin-top:
+   20px`. The wrapper is gone, so after the chip row the textarea is flush and
+   its 3px focus ring paints over the chip borders. Restore the gap here. */
 .field-textarea {
+  margin-top: 16px;
   padding: 10px 12px;
   min-height: 128px;
   max-height: 400px;
