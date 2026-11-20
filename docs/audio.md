@@ -12,7 +12,8 @@
 * ↪️ **[Spotify Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
 * ↪️ **[YouTube Music Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)**
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
-* ⭐ **[⁠Limusic](https://limusic.app/)** - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
+* ⭐ **[⁠Metrolist](https://metrolist.cc/)** - YouTube Music Client / Windows, MacOS, Android (Android Auto as well), iOS, Linux [GitHub](https://github.com/MetrolistGroup/Metrolist/)
+* [⁠Limusic](https://limusic.app/) - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
 * [Sonora](https://sonorahq.org/) - Streaming / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
