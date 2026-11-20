@@ -7,6 +7,7 @@ import {
   onUnmounted,
   reactive,
   ref,
+  watch,
   watchEffect
 } from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
@@ -14,7 +15,6 @@ import {
   getRateLimitCooldown,
   recordSubmission
 } from '../composables/rateLimit'
-import { sanitizeRichHtml } from '../composables/sanitize'
 
 const props = defineProps<{
   heading?: string
@@ -58,10 +58,10 @@ const NON_CONTENT_SELECTOR =
 const isSelectableTarget = (target: HTMLElement) =>
   !!target.closest('.vp-doc') && !target.closest(NON_CONTENT_SELECTOR)
 
-const extractBlockContent = (blockElement: HTMLElement) => {
+const extractBlockText = (blockElement: HTMLElement) => {
   const clone = blockElement.cloneNode(true) as HTMLElement
   clone.querySelectorAll('.feedback-widget').forEach((el) => el.remove())
-  return { text: clone.textContent?.trim() ?? '', html: clone.innerHTML }
+  return clone.textContent?.trim() ?? ''
 }
 
 const startSelectingLine = () => {
@@ -114,16 +114,29 @@ const handlePageClick = (event: MouseEvent) => {
 
   const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
   if (blockElement) {
-    const { text, html } = extractBlockContent(blockElement)
+    const text = extractBlockText(blockElement)
     if (text) {
-      feedback.selectedLine = text
-      feedback.selectedLineHtml = html
       if (isSuggestionPath.value) {
+        // A pick always replaces the previous one, it never stacks. The only
+        // visible trace of it is the Site or page field.
+        feedback.selectedLine = text
         const current = suggestionSite.value.trim()
         if (!current || siteAutoFilled.value) {
           suggestionSite.value = pageUrl.value
           siteAutoFilled.value = true
         }
+      } else {
+        // No site field on these paths, so the picked line goes into the
+        // message the contributor can see and edit, never hidden state.
+        const picked = `> ${text}\n\n`
+        const isQuoted =
+          feedback.message.startsWith('> ') && feedback.message.includes('\n\n')
+        const body = isQuoted
+          ? feedback.message.slice(feedback.message.indexOf('\n\n') + 2)
+          : feedback.message
+        // Visible text only here, so a clamp is something the contributor can
+        // see and edit, never a silent truncation of the payload.
+        feedback.message = `${picked}${body}`.slice(0, MAX_MESSAGE_LENGTH)
       }
     }
   }
@@ -133,11 +146,6 @@ const handlePageClick = (event: MouseEvent) => {
 onUnmounted(() => {
   stopSelectingLine()
 })
-
-const clearSelectedLine = () => {
-  feedback.selectedLine = undefined
-  feedback.selectedLineHtml = undefined
-}
 
 const handleInput = (event: Event) => {
   error.value = null
@@ -154,13 +162,11 @@ const feedback = reactive<{
   contact?: string
   type?: FeedbackType['type']
   selectedLine?: string
-  selectedLineHtml?: string
 }>({
   page: router.route.path,
   message: '',
   contact: '',
-  selectedLine: undefined,
-  selectedLineHtml: undefined
+  selectedLine: undefined
 })
 
 type SuggestionKind = 'add' | 'remove' | 'dead' | 'other'
@@ -201,8 +207,44 @@ const selectedKindLabel = computed(
 
 const trimmedSite = computed(() => suggestionSite.value.trim())
 
+const pickedLine = computed(() => feedback.selectedLine?.trim() ?? '')
+
+const suggestionHead = computed(() => {
+  if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
+  const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
+  return `[${selectedKindLabel.value}]${site}`
+})
+
+/**
+ * The quote has to be bounded, not just the description: the selected line is
+ * no longer drawn in the card, so a very long paragraph must be shortened here
+ * rather than silently pushing the composed message past the schema limit.
+ * The budget always leaves room for the shortest allowed description.
+ */
+const quoteBudget = computed(() =>
+  Math.max(
+    0,
+    MAX_MESSAGE_LENGTH -
+      (suggestionHead.value.length + 2) -
+      4 -
+      MIN_SUGGESTION_DESCRIPTION
+  )
+)
+
+const attachmentQuote = computed(() => {
+  // Only the suggestion path keeps the pick as hidden state: the Site or page
+  // field is its single visible trace, so an emptied field detaches it.
+  if (!isSuggestionPath.value) return ''
+  const text = pickedLine.value
+  if (!text || !trimmedSite.value) return ''
+  const budget = quoteBudget.value
+  if (budget < 1) return ''
+  if (text.length <= budget) return text
+  return `${text.slice(0, budget - 1)}…`
+})
+
 const quoteBlock = computed(() =>
-  feedback.selectedLine ? `> ${feedback.selectedLine}\n\n` : ''
+  attachmentQuote.value ? `> ${attachmentQuote.value}\n\n` : ''
 )
 
 const siteError = computed(() => {
@@ -218,8 +260,7 @@ const siteError = computed(() => {
 
 const suggestionPrefix = computed(() => {
   if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
-  const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
-  return `${quoteBlock.value}[${selectedKindLabel.value}]${site}\n\n`
+  return `${quoteBlock.value}${suggestionHead.value}\n\n`
 })
 
 const suggestionDescriptionMax = computed(() =>
@@ -241,14 +282,23 @@ function handleSiteInput() {
   error.value = null
 }
 
+// The quoted-line card is gone, so emptying Site or page is what detaches a
+// picked line. A non-empty manual edit keeps it attached.
+watch(suggestionSite, (value) => {
+  if (!isSuggestionPath.value) return
+  if (!value.trim()) feedback.selectedLine = undefined
+})
+
 function selectSuggestionKind(kind: SuggestionKind) {
   suggestionKind.value = kind
   error.value = null
 }
 
 function buildMessage() {
+  // On these paths a picked line is written straight into the message by
+  // handlePageClick, so the payload is exactly what the contributor sees.
   if (!isSuggestionPath.value || !selectedKindLabel.value) {
-    return `${quoteBlock.value}${feedback.message}`
+    return feedback.message
   }
   return `${suggestionPrefix.value}${feedback.message}`
 }
@@ -276,9 +326,7 @@ const isDisabled = computed(() => {
     )
   }
 
-  const combinedMessage = feedback.selectedLine
-    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
-    : feedback.message
+  const combinedMessage = feedback.message
 
   return (
     !combinedMessage.length ||
@@ -401,7 +449,6 @@ const resetFeedback = () => {
   success.value = false
   feedback.message = ''
   feedback.selectedLine = undefined
-  feedback.selectedLineHtml = undefined
   suggestionKind.value = null
   suggestionSite.value = ''
   siteAutoFilled.value = false
@@ -487,24 +534,6 @@ const resetFeedback = () => {
                   'Failed to send feedback. Please try again.'
             }}
           </div>
-          <div v-if="feedback.selectedLine" class="quote-block">
-            <span class="i-lucide:quote quote-icon"></span>
-            <div
-              class="quote-text vp-doc feedback-quote line-clamp-3"
-              v-html="
-                sanitizeRichHtml(feedback.selectedLineHtml) ||
-                feedback.selectedLine
-              "
-            ></div>
-            <button
-              type="button"
-              class="quote-remove"
-              title="Remove selected line"
-              @click="clearSelectedLine"
-            >
-              <span class="i-lucide:trash-2 w-4 h-4"></span>
-            </button>
-          </div>
           <div v-if="isSuggestionPath" class="field">
             <div id="fmhy-suggestion-kind" class="field-label">
               What kind of suggestion is this?
@@ -529,7 +558,7 @@ const resetFeedback = () => {
           </div>
           <div v-if="isSuggestionPath" class="field">
             <label class="field-label" for="fmhy-suggestion-site">
-              Site or page
+              Site or page this is about
               <span class="field-optional">optional</span>
             </label>
             <input
@@ -544,7 +573,9 @@ const resetFeedback = () => {
               placeholder="https://example.com"
               :aria-invalid="siteError ? 'true' : undefined"
               :aria-describedby="
-                siteError ? 'fmhy-suggestion-site-error' : undefined
+                siteError
+                  ? 'fmhy-suggestion-site-hint fmhy-suggestion-site-error'
+                  : 'fmhy-suggestion-site-hint'
               "
               @input="handleSiteInput"
             />
@@ -555,6 +586,36 @@ const resetFeedback = () => {
             >
               {{ siteError }}
             </p>
+            <p id="fmhy-suggestion-site-hint" class="field-hint site-hint">
+              Selecting a line from the page fills this in; empty it to remove
+              that line from your suggestion.
+            </p>
+            <div class="toolbar">
+              <button
+                type="button"
+                class="tool-btn"
+                @click="
+                  isSelectingLine ? stopSelectingLine() : startSelectingLine()
+                "
+              >
+                <span
+                  :class="
+                    isSelectingLine
+                      ? 'i-lucide:x'
+                      : 'i-lucide:text-cursor-input'
+                  "
+                  class="w-3.5 h-3.5"
+                ></span>
+                {{
+                  isSelectingLine
+                    ? 'Cancel Selection'
+                    : 'Select a line from page'
+                }}
+              </button>
+              <span v-if="isSelectingLine" class="tool-hint animate-pulse">
+                Click any text on the page...
+              </span>
+            </div>
           </div>
           <div class="field">
             <label class="field-label" for="fmhy-feedback-message">
@@ -568,7 +629,11 @@ const resetFeedback = () => {
               v-model="feedback.message"
               autofocus
               class="field-control field-textarea"
-              placeholder="(e.g. What a lovely wiki!)"
+              :placeholder="
+                isSuggestionPath
+                  ? '(e.g. Great source for X, worth adding)'
+                  : '(e.g. What a lovely wiki!)'
+              "
               :maxlength="
                 isSuggestionPath ? suggestionDescriptionMax : undefined
               "
@@ -601,7 +666,7 @@ const resetFeedback = () => {
               <span class="char-counter">{{ suggestionRemaining }} left</span>
             </div>
           </div>
-          <div class="toolbar">
+          <div v-if="!isSuggestionPath" class="toolbar">
             <button
               type="button"
               class="tool-btn"
@@ -847,53 +912,6 @@ const resetFeedback = () => {
   font-weight: 600;
 }
 
-.quote-block {
-  display: flex;
-  align-items: flex-start;
-  gap: 8px;
-  margin-bottom: 16px;
-  padding: 10px 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background-color: var(--vp-c-bg);
-}
-
-.quote-icon {
-  flex: none;
-  margin-top: 2px;
-  color: var(--vp-c-text-2);
-}
-
-.quote-text {
-  flex: 1 1 auto;
-  min-width: 0;
-  color: var(--vp-c-text-2) !important;
-  font-size: 12px;
-  font-style: italic;
-  line-height: 1.5;
-}
-
-.quote-text :deep(*) {
-  margin: 0 !important;
-  color: inherit !important;
-}
-
-.quote-remove {
-  flex: none;
-  padding: 2px;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  color: var(--vp-c-text-2);
-  transition:
-    border-color 0.2s,
-    color 0.2s;
-}
-
-.quote-remove:hover {
-  border-color: var(--vp-c-divider);
-  color: var(--vp-c-danger-1);
-}
-
 .field {
   margin-top: 20px;
 }
@@ -1031,6 +1049,10 @@ const resetFeedback = () => {
   margin-top: 6px;
 }
 
+.site-hint {
+  margin-top: 6px;
+}
+
 .field-hint,
 .char-counter {
   font-size: 12px;
@@ -1135,8 +1157,7 @@ const resetFeedback = () => {
 .chip:focus-visible,
 .option-btn:focus-visible,
 .head-back:focus-visible,
-.tool-btn:focus-visible,
-.quote-remove:focus-visible {
+.tool-btn:focus-visible {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
@@ -1172,10 +1193,6 @@ const resetFeedback = () => {
   .feedback-card {
     padding: 16px;
   }
-}
-
-.feedback-quote {
-  color: var(--vp-c-text-2) !important;
 }
 
 .fade-enter-active,
