@@ -250,6 +250,7 @@
 * [wallhaven.cc](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers / Some NSFW
 * [⁠Wallpapers Clan](https://wallpapers-clan.com/) - Wallpapers / Custom Icon Packs
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
+* [Radiance Wallpapers](https://app.radiancewallpapers.com/) - Wallpapers
 * [WallYou](https://github.com/you-apps/WallYou) - Wallpapers
 * [Mobile Abyss](https://mobile.alphacoders.com/) - Wallpapers
 * [Paperize](https://github.com/Anthonyy232/Paperize) - Wallpapers
@@ -329,13 +330,14 @@
 ## ▷ Root / Flash
 
 * 🌐 **[Awesome Android Root](https://awesome-android-root.xyz/)** - Rooted App Index / Guides / [GitHub](https://github.com/awesome-android-root/awesome-android-root)
+* 🌐 **[⁠Awesome Temporary Root](https://awesome-temporary-root.pages.dev/)** - Android Temp Root Resources / [GitHub](https://github.com/fynks/awesome-temporary-root)
 * 🌐 **[Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)** or [BL List](https://a.zli.li/) - Bootloader Limit Indexes / Policies / [GitHub](https://github.com/xuemian168/android-locker)
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ADB / Fastboot Programs
 * [aShell](https://gitlab.com/sunilpaulmathew/ashell) or [aShellYou](https://ashellyou.github.io/) / [Telegram](https://t.me/aShellYou) / [GitHub](https://github.com/DP-Hridayan/aShellYou) - ADB Shells
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
 * [Amazing Temp Root](https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
-* [⁠GhostLock](https://github.com/YuKongA/ghostlock-app) - One-Tap Temp Root
+* [⁠GhostLock](https://github.com/YuKongA/ghostlock-app) or [⁠DirtyFrag](https://github.com/mitschud/DirtyFrag) - Temp Root
 * [⁠Needrom](https://www.needrom.com/) - Stock ROM / Firmware Repo / Use Adblock
 * [Orangefox](https://orangefox.download/), [twrp](https://twrp.me/) or [SkyHawk](https://skyhawkrecovery.github.io/) - Custom Recovery Firmware
 * [Smali Patcher](https://xdaforums.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
@@ -964,6 +966,7 @@
 * ⭐ **[AntennaPod](https://antennapod.org/)** - Podcast Player / [GitHub](https://github.com/AntennaPod/AntennaPod)
 * ⭐ **[Pocket Casts](https://www.pocketcasts.com/)** - Podcast Player
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller) - Podcast / Radio App
+* [⁠AMARadio](https://amaradio.org/) - Radio App / [GitHub](https://github.com/ounben/AMARadio)
 * [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player) - Podcast / Radio App
 * [TuneIn](https://play.google.com/store/apps/details?id=tunein.player) - Podcast / Radio App
 * [PodAura](https://github.com/SkyD666/PodAura) - Podcast Player
@@ -1127,9 +1130,10 @@
 * [⁠Bark](https://github.com/finb/bark) - Custom Push Notifications
 * [Mobile Walls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_customization), [FreshWalls](https://apps.apple.com/app/id1627085956) or [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) - iOS Wallpapers
 * [⁠CAPlayground](https://caplayground.vercel.app/) - Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / [GitHub](https://github.com/CAPlayground/CAPlayground)
-* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Locally AI](https://apps.apple.com/app/id6741426692), [Oscilla](https://apps.apple.com/app/id6759628356), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
+* [ChatGPT](https://apps.apple.com/app/id6448311069), [Gemini](https://apps.apple.com/us/app/google-gemini/id6477489729), [DeepSeek](https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349), [Mollama](https://apps.apple.com/app/mollama/id6736948278), [Locally AI](https://apps.apple.com/app/id6741426692), [Oscilla](https://apps.apple.com/app/id6759628356), [Chatbox](https://chatboxai.app/) / [GitHub](https://github.com/chatboxai/chatbox), [Minis](https://apps.apple.com/app/id6759188481) or [PocketPal AI](https://pocketpal.dev/) / [GitHub](https://github.com/a-ghorbani/pocketpal-ai) - AI Chatbots
 * [Keka](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_ipas) (search) - File Archiver
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
+* [⁠WQFiles](https://github.com/kolbicz/WQFiles) - Data Manager + Cache Cleaner / iOS 27
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
 * [⁠Sushitrain](https://github.com/pixelspark/sushitrain) - iOS + macOS File Sync / SyncThing
 * [Sia Storage](https://sia.storage) - Cloud Storage / 50GB / [GitHub](https://github.com/siafoundation)
@@ -1270,6 +1274,7 @@
 * ⭐ **[Sideloadly](https://sideloadly.io/)** - WiFi Sideloading (Weekly Refresh) (iOS 7.0 & Above)
 * ⭐ **[Impactor](https://impactor.claration.dev/)** - WiFi Sideloading (Weekly Refresh) / iOS 9.0 & Above / [GitHub](https://github.com/claration/Impactor)
 * ⭐ **[Avieshek's Sideloading Guide](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/)**, [2](https://justpaste.it/sideload) - DNS Sideloading Guide / [Omega](https://github.com/jailbreakdotparty/Omega) (Lift Certificate Blacklisting)
+* [⁠NexSideloading](https://sideloading.net/) - iOS Sideloading Tools
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
 * [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
@@ -1445,10 +1450,10 @@
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
 * ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/EFD9CyAqFS)
+* ⭐ **[⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile)** or [⁠Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools)
+* ⭐ **[⁠VyseTV](https://vysetv.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitLab](https://gitlab.com/ayman707-ux/vysetv)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
-* ⭐ **[⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile)** or [⁠Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools)
-* [⁠VyseTV](https://vysetv.cc/) - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitLab](https://gitlab.com/ayman707-ux/vysetv)
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Movies / TV / Anime / [Discord](https://discord.gg/73XGA8Mxn9)
 * [⁠Shirox](https://shiroxapp.github.io/) - Movies / TV / Anime / [TestFlight](https://testflight.apple.com/join/jvGzcXYh) / [Modules](https://library.cufiy.net/library/), [2](https://sora-modules.xdfke.me/#/library) / [Discord](https://discord.gg/6CuZuYYnKc) / [GitHub](https://github.com/xibrox/Shirox)
 * [OutPlayer](https://outplayer.app/), [VLC](https://apps.apple.com/app/id650377962), [FlickJot](https://apps.apple.com/app/id1454098557) or [Infuse](https://github.com/dayanch96/InfusePlus) - Video Players

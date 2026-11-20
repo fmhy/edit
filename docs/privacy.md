@@ -20,7 +20,7 @@
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
 * [⁠Zen](https://irbis.sh/zen/) - System-Wide Adblocker / [Discord](https://discord.gg/zGeQVatAUm) / [GitHub](https://github.com/irbis-sh/zen-desktop)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads
-* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) or [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
+* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://www.bsbsb.top/) - Skip Sponsored Bilibili Ads / [Safari](https://github.com/ZaeXT/BilibiliSponsorBlock) / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)
 * [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Bypass YouTubes Forced uBO Player Delay
@@ -123,7 +123,6 @@
 
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[Triage](https://tria.ge/)** - Online Sandbox
-* [ANY.RUN](https://any.run/) - Online Sandbox / [Discord](https://discord.gg/anyrun) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/anyrun-note.md)
 * [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/) - Online Sandbox
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Local Sandbox Environment / [Guide](https://clarasguide.valeena.workers.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Local Virtual Machine Sandbox Environment
@@ -350,7 +349,7 @@
 
 ## ▷ Fingerprinting / Tracking
 
-* ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/), [⁠BrowserScan](https://www.browserscan.net/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
+* ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/) or [⁠BrowserScan](https://www.browserscan.net/) - Tracking / Fingerprinting Tests
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games

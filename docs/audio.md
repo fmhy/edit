@@ -33,7 +33,7 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/), [unreleased.world](https://www.unreleased.world/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
@@ -504,6 +504,7 @@
 * [FreeMP3Cloud](https://freemp3cloud.com/) - MP3
 * [zvu4no](https://zvu4it.org/) - MP3
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
+* [unreleased.world](https://www.unreleased.world/) - Unreleased
 * [⁠Butterboy Compilations](https://butterboycompilations.blogspot.com/) - Music Compilations / MP3
 * [⁠Primitive Offerings](https://primitiveofferings.blogspot.com/) - Rare Music Compilations / Use [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * [Geocities MIDIs](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [FreeMIDI](https://freemidi.org/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
@@ -818,7 +819,7 @@
 ## ▷ Audio Players
 
 * ↪️ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_audio_players)**
-* ⭐ **[Foobar2000](https://www.foobar2000.org/)** / Feature-Rich Audio Player / Windows, macOS, Android, iOS
+* ⭐ **[Foobar2000](https://www.foobar2000.org/)** or [Boom Audio Player](https://www.foobar2000.org/other/boom) / Feature-Rich Audio Player / Windows, macOS, Android, iOS
 * ⭐ **Foobar2000 Tools** - [Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics) / [Wiki](https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000)
 * ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android

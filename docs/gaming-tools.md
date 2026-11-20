@@ -624,6 +624,7 @@
 * ⭐ **[DSi Homebrew Guide](https://dsi.cfw.guide/)** - DSi Homebrew Guide
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
 * [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
+* [⁠Flashcart Guides](https://sanrax.github.io/) - 3DS / DS Flashcart Guides
 * [Pretendo](https://pretendo.network/) - 3DS Network Replacement
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)

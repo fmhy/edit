@@ -136,7 +136,6 @@
 * [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [SteamGifts](https://www.steamgifts.com/), [SteamDrops](https://steamdrops.net/) or [Key Hub](https://key-hub.eu/) - Steam Key Giveaways / [Discord](https://discord.gg/RbWahNY)
 * [IndieGala](https://freebies.indiegala.com/) - Games
-* [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
 * [r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
 * [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
@@ -1304,6 +1303,7 @@
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Game Emulation Compatibility / Info
 * [⁠EmuReady](https://www.emuready.com/) - Mobile Game Emulation Compatibility / Info / [Discord](https://discord.gg/CYhCzApXav) / [GitHub](https://github.com/Producdevity/EmuReady)
 * [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
+* [⁠Flashcart Guides](https://sanrax.github.io/) - 3DS / DS Flashcart Guides
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
 
 ***
@@ -1446,7 +1446,7 @@
 * [GoOnlineTools](https://goonlinetools.com/) - Text / Encode-Decode / Code / Random / Image
 * [⁠99Tools](https://99tools.net/) - Text / Encode-Decode / Code / Random / Image
 * [⁠Edge Tools](https://edgetools.io/) - Image / Text / PDF / Code
-* [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
+* [Framasoft](https://degooglisons-internet.org/) - Text / Collaboration
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
 * [⁠ClipZeal](https://clipzeal.com/) - Video / Audio / Image / GIF
 * [⁠VidhyaGen](https://vidhyagen.com/) - Image / PDF / Text

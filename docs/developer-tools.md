@@ -1140,7 +1140,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
-* [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
+* [masscan](https://github.com/robertdavidgraham/masscan) or [⁠RustScan](https://github.com/bee-san/RustScan) - Port Scanners
 * [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://sniffnet.app/) / [GitHub](https://github.com/GyulyVGC/sniffnet) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [BBRadar](https://bbradar.io/), [⁠Open Bug Bounty](https://www.openbugbounty.org/) or [BugBountyHunting](https://www.bugbountyhunting.com/) - Bug Bounty Trackers

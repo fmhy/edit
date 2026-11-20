@@ -114,6 +114,7 @@
 * ⭐ **[Artic](https://www.artic.edu/collection)** - Art Institute of Chicago Collection / Open-Access Images
 * ⭐ **[NGA](https://www.nga.gov/)** - National Gallery of Art / Public-Domain Images / Open Data
 * ⭐ **[V&A](https://www.vam.ac.uk/)** - Victoria and Albert Museum Collections / Art / Design
+* ⭐ **[Museo](https://museo.app/)** - Art Collections / Public-Domain Image Search / [GitHub](https://github.com/chasemccoy/museo)
 * ⭐ **[Louvre](https://collections.louvre.fr/en/)** - Art / Antiquities Collections / Historical Research
 * [MoMA](https://www.moma.org/collection/) - Museum of Modern Art Collection
 * [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en) - German Digital Cultural Heritage Collections
@@ -131,7 +132,6 @@
 * [Guggenheim](https://www.guggenheim.org/collection-online) - Modern / Contemporary Art Collections
 * [Frick](https://www.frick.org/art) - The Frick Collection / Fine Art
 * [Gardner Museum](https://www.gardnermuseum.org/experience/collection) - Isabella Stewart Gardner Museum Collection
-* [Museo](https://museo.app/) - Art Collections / Public-Domain Image Search
 * [⁠Artnap](https://artnap.com/) - Art Collections / Public-Domain Image Search
 * [Haltadefinizione](https://www.haltadefinizione.com/en/) - High-Resolution Art Images / Italian Art
 * [Artchive](https://www.artchive.com/) - Art History / Artist Collections
@@ -638,7 +638,7 @@
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
 * [Smithsonian Institution Archives](https://siarchives.si.edu/), [⁠Princeton Digital Collections](https://digital-collections.princeton.edu/) or [Rare Historical Photos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
-* [Museo](https://museo.app/) - Museum Search
+* [Museo](https://museo.app/) - Museum Search / [GitHub](https://github.com/chasemccoy/museo)
 * [⁠The Rest is History Archive](https://archive.therestishistory.com/) - Era-Based Historical Podcast
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
@@ -1031,11 +1031,13 @@
 ## ▷ Rubiks Cube
 
 * 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
+* 🌐 **[⁠CubingAtlas](https://atlas.thecubeindex.com/)** - Speedcubing Learning Resources
 * 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - Guide to Rubiks Cube / Resources
 * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** or [SpeedcubeQuest](https://speedcube.quest/) - Algorithm Databases
+* [⁠reco.nz](https://reco.nz/) - Speedcubing Solve Reconstructions
 * [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
 * [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
@@ -1274,7 +1276,7 @@
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
 * [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://courses.talktomeinkorean.com/) - Korean Learning Courses
-* [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
+* [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
 * [National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do) - Korean Dictionaries / Expression Practice
 * [⁠LetsLearnHangul](http://letslearnhangul.com/) - Hangul Learning

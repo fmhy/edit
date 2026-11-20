@@ -458,6 +458,7 @@
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [⁠FreeManhwa](https://freemanhwa.net/) - Manhwa
 * [Toonily](https://toonily.com/) - Manhwa
+* [⁠BaeToon](https://baetoon.com/) - Korean Manhwa
 * [LilyManga](https://lilymanga.net/) - Yuri
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)

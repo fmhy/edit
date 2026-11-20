@@ -314,7 +314,7 @@
 
 ## ▷ Textures / Patterns
 
-* [AmbientCG](https://ambientcg.com/) - Textures
+* ⭐ **[AmbientCG](https://ambientcg.com/)** - Textures
 * [TextureTown](https://textures.neocities.org/) - Textures
 * [Icons8 Textures](https://icons8.com/l/3d-textures/) - Textures
 * [⁠3D Textures](https://3dtextures.me/) - Textures
@@ -530,10 +530,9 @@
 
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)** - Share / Download 3D Models
 * ⭐ **[Printables](https://www.printables.com/)** - Find Practical 3D Models Ready for Printing
-* [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/) or [Archibase](https://archibase.co/) - Misc 3D Models
-* [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [All STL](https://t.me/allstll), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Misc 3D Models / Requires Sign-Up
+* [PolyHaven](https://polyhaven.com/), [CadNav](https://www.cadnav.com/), [Open3dModel](https://open3dmodel.com/), [Archibase](https://archibase.co/), [Sketchfab](https://sketchfab.com/), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail), [3DArchive](https://t.me/ArchiveStl), [⁠3D Jungle](https://3djungle.net/), [All STL](https://t.me/allstll), [cgtrader](https://www.cgtrader.com/free-3d-models) or [3dsky](https://3dsky.org/) - Download 3D Models
 * [Cults](https://cults3d.com/), [Thangs](https://thangs.com/), [MakerWorld](https://makerworld.com/) or [Pinshape](https://pinshape.com/) - Printable 3D Models / Requires Sign-Up
-* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT), [⁠PrintWhat](https://printwhat.app/) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
+* [⁠3DSearch](https://3dsearch.net/) / [Discord](https://discord.gg/BEYvDKEGkT), [⁠PrintWhat](https://printwhat.app/), [⁠3D Assets](https://3dassets.one/) or [STLFinder](https://www.stlfinder.com/) - Multi-Site 3D Model Search
 * [3D Warehouse](https://3dwarehouse.sketchup.com/) - 3D Models Compatible with SketchUp / Requires Sign-Up
 * [Pack 3D Models](https://p3dm.ru/) - Vehicle / Character 3D Models
 * [Figurosity](https://figurosity.com/) - Human 3D Models
@@ -913,7 +912,6 @@
 
 * 🌐 **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - Image OSINT Resources
 * ↪️ **[File Info / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
-* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking / [GitHub](https://github.com/Shawn-Shan/fawkes)
 * ⭐ **[FotoForensics](https://www.fotoforensics.com/)**, [Sherloq](https://github.com/GuidoBartoli/sherloq) or [Forensically](https://29a.ch/photo-forensics/) - Photo Forensics Tools
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [CameraSummary](https://camerasummary.com/) - EXIF / Metadata Viewers
 * [exiftool](https://exiftool.org/) / [GUI](https://github.com/FrankBijnen/ExifToolGui/) / [GitHub](https://github.com/exiftool/exiftool), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [MetaEditor](https://metaeditor.picvario.com/), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data

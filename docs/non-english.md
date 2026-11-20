@@ -39,6 +39,7 @@
 ## ▷ Streaming / البث
 
 * ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p
+* ⭐ **[FaselHD](https://web11206x.faselhdx.one/) - Movies / TV / Anime / 1080p
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
@@ -765,6 +766,7 @@
 * [crickmail](https://crickmail.pages.dev/channel-13) - Live Cricket
 * [Vega App](https://github.com/Zenda-Cross/vega-app) - Movies / TV / Android App
 * [Indian IPTV App](https://github.com/kananinirav/Indian-IPTV-App) - IPTV Android App
+* [GPTRTV](https://gptrtv.site/) - Live TV / Android
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.8man.in/) - Music
@@ -1426,7 +1428,6 @@
 
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
 * ⭐ **[Curso_vip](https://t.me/Curso_vip)** - Courses / Books
-* [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
 * [Zinfinal](https://zinfinal.com/) - Video / Audio / Reading / Latino / Castilian / Signup Required / [Discord](https://discord.com/invite/TyxzVb5xPA)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
 * [Gun's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
@@ -1649,18 +1650,17 @@
 
 ## ▷ Streaming / İzleme
 
-* ⭐ **[Dizipal](https://dizipal1803.com/)** - Movies / TV / Sub / Dub / 1080p / Requires VPN
 * ⭐ **[Dizi Film Botu](https://t.me/Difix9Bot)** - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
 * ⭐ **[Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/)** - Movies / TV / Sub / Dub / 1080p / Region Locked
 * ⭐ **[FullHDFilmizlesene](https://www.fullhdfilmizlesene.now/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[OpenAnime](https://openani.me/)** - Anime / Region Locked
 * ⭐ **[AnimeciX](https://animecix.tv/)** - Anime / Region Locked
-* [Dizilla](https://dizilla.la/), [2](https://selcukflix.com/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p / Region Locked
-* [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p
+* [Dizilla](https://dizilla.la/), [2](https://selcukflix.app/), [3](https://asyawatch.com/) - Movies / TV / Sub / Dub / 1080p / Region Locked
+* [Yabancıdizi](https://yabancidizi.news/) - Movies / TV / Sub / Dub / 1080p
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
-* [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN
+* [Jet Film izle](https://jetfilmizle.app/) - Movies / Requires VPN
 * [Turkish123](https://ahs.turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [⁠AniHub](https://anihub.com.tr/) - Anime / Region Locked

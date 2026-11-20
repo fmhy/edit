@@ -12,7 +12,7 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen4 Max(Signup) / No Sign-Up(Qwen3.7-Plus/Qwen3.8-Max) / Agent / Clear Cookies to Reset Limits / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen4 Max / Qwen3.7-Plus / Qwen3.8-Max / Agent / Sign-Up / Clear Cookies to Reset Limits / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.3 / GLM 5.3 Flash / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 4 Hydrogen / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 4 Hydrogen / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
