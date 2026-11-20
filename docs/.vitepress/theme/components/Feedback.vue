@@ -1,7 +1,14 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
 import { useRouter } from 'vitepress'
-import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
+import {
+  computed,
+  onMounted,
+  onUnmounted,
+  reactive,
+  ref,
+  watchEffect
+} from 'vue'
 import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
 import {
   getRateLimitCooldown,
@@ -157,18 +164,6 @@ const handleInput = (event: Event) => {
   target.style.height = `${target.scrollHeight}px`
 }
 
-const isDisabled = computed(() => {
-  const combinedMessage = feedback.selectedLine
-    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
-    : feedback.message
-
-  return (
-    !combinedMessage.length ||
-    combinedMessage.length < 5 ||
-    combinedMessage.length > 1000
-  )
-})
-
 const router = useRouter()
 
 const feedback = reactive<{
@@ -184,6 +179,114 @@ const feedback = reactive<{
   contact: '',
   selectedLine: undefined,
   selectedLineHtml: undefined
+})
+
+type SuggestionKind = 'add' | 'remove' | 'dead' | 'other'
+
+const MAX_MESSAGE_LENGTH = 1000
+const MIN_MESSAGE_LENGTH = 5
+const MIN_SUGGESTION_DESCRIPTION = 10
+const SITE_MAX_LENGTH = 200
+
+const suggestionKinds: { value: SuggestionKind; label: string }[] = [
+  { value: 'add', label: 'Add a site' },
+  { value: 'remove', label: 'Remove a site' },
+  { value: 'dead', label: 'Site is dead' },
+  { value: 'other', label: 'Something else' }
+]
+
+const suggestionKind = ref<SuggestionKind | null>(null)
+const suggestionSite = ref('')
+
+const isSuggestionPath = computed(() => feedback.type === 'suggestion')
+
+const selectedKindLabel = computed(
+  () =>
+    suggestionKinds.find((kind) => kind.value === suggestionKind.value)
+      ?.label ?? ''
+)
+
+const trimmedSite = computed(() => suggestionSite.value.trim())
+
+const quoteBlock = computed(() =>
+  feedback.selectedLine ? `> ${feedback.selectedLine}\n\n` : ''
+)
+
+const siteError = computed(() => {
+  if (!isSuggestionPath.value) return ''
+  const site = trimmedSite.value
+  if (!site) return ''
+  if (site.length > SITE_MAX_LENGTH)
+    return 'Keep the link under 200 characters, please.'
+  if (!/^https?:\/\//i.test(site))
+    return 'Enter a full link starting with http:// or https://'
+  return ''
+})
+
+const suggestionPrefix = computed(() => {
+  if (!isSuggestionPath.value || !selectedKindLabel.value) return ''
+  const site = trimmedSite.value ? ` ${trimmedSite.value}` : ''
+  return `${quoteBlock.value}[${selectedKindLabel.value}]${site}\n\n`
+})
+
+const suggestionDescriptionMax = computed(() =>
+  Math.max(0, MAX_MESSAGE_LENGTH - suggestionPrefix.value.length)
+)
+
+const suggestionRemaining = computed(() =>
+  Math.max(0, suggestionDescriptionMax.value - feedback.message.length)
+)
+
+const descriptionTooShort = computed(
+  () =>
+    isSuggestionPath.value &&
+    feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION
+)
+
+function selectSuggestionKind(kind: SuggestionKind) {
+  suggestionKind.value = kind
+  error.value = null
+}
+
+function buildMessage() {
+  if (!isSuggestionPath.value || !selectedKindLabel.value) {
+    return `${quoteBlock.value}${feedback.message}`
+  }
+  return `${suggestionPrefix.value}${feedback.message}`
+}
+
+/**
+ * The composed message must stay inside the schema limit, so the description
+ * budget shrinks when the quote, kind or site changes. Clamp what is already
+ * typed rather than letting the composed message grow past 1000 characters.
+ */
+watchEffect(() => {
+  if (!isSuggestionPath.value) return
+  const max = suggestionDescriptionMax.value
+  if (feedback.message.length > max) {
+    feedback.message = feedback.message.slice(0, max)
+  }
+})
+
+const isDisabled = computed(() => {
+  if (isSuggestionPath.value) {
+    if (!suggestionKind.value) return true
+    if (siteError.value) return true
+    return (
+      feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION ||
+      buildMessage().length > MAX_MESSAGE_LENGTH
+    )
+  }
+
+  const combinedMessage = feedback.selectedLine
+    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
+    : feedback.message
+
+  return (
+    !combinedMessage.length ||
+    combinedMessage.length < MIN_MESSAGE_LENGTH ||
+    combinedMessage.length > MAX_MESSAGE_LENGTH
+  )
 })
 
 const CONTACT_STORAGE_KEY = 'fmhy-feedback-contact'
@@ -239,9 +342,7 @@ async function handleSubmit() {
   loading.value = true
   error.value = null
 
-  const finalMessage = feedback.selectedLine
-    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
-    : feedback.message
+  const finalMessage = buildMessage()
 
   const body: FeedbackType = {
     message: finalMessage,
@@ -305,6 +406,8 @@ const resetFeedback = () => {
   feedback.message = ''
   feedback.selectedLine = undefined
   feedback.selectedLineHtml = undefined
+  suggestionKind.value = null
+  suggestionSite.value = ''
   if (textareaRef.value) {
     textareaRef.value.style.height = '100px'
   }
@@ -441,14 +544,104 @@ const resetFeedback = () => {
               <span class="i-lucide:trash-2 w-4 h-4"></span>
             </button>
           </div>
+          <div v-if="isSuggestionPath" class="suggestion-block">
+            <div id="fmhy-suggestion-kind" class="suggestion-label">
+              What kind of suggestion is this?
+            </div>
+            <div
+              class="flex flex-wrap gap-2"
+              role="group"
+              aria-labelledby="fmhy-suggestion-kind"
+            >
+              <button
+                v-for="kind in suggestionKinds"
+                :key="kind.value"
+                type="button"
+                class="suggestion-chip"
+                :class="{
+                  'suggestion-chip-active': suggestionKind === kind.value
+                }"
+                :aria-pressed="suggestionKind === kind.value"
+                @click="selectSuggestionKind(kind.value)"
+              >
+                {{ kind.label }}
+              </button>
+            </div>
+            <p v-if="!suggestionKind" class="desc mt-1">
+              Pick one to continue.
+            </p>
+            <label class="suggestion-label mt-4" for="fmhy-suggestion-site">
+              Site or page (optional)
+            </label>
+            <input
+              id="fmhy-suggestion-site"
+              v-model="suggestionSite"
+              type="text"
+              inputmode="url"
+              autocomplete="off"
+              spellcheck="false"
+              :maxlength="SITE_MAX_LENGTH"
+              class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-2 border-solid"
+              placeholder="(e.g. https://example.com)"
+              :aria-invalid="siteError ? 'true' : undefined"
+              :aria-describedby="
+                siteError ? 'fmhy-suggestion-site-error' : undefined
+              "
+              @input="error = null"
+            />
+            <p
+              v-if="siteError"
+              id="fmhy-suggestion-site-error"
+              class="field-error"
+            >
+              {{ siteError }}
+            </p>
+            <label class="suggestion-label mt-4" for="fmhy-feedback-message">
+              Describe your suggestion
+            </label>
+          </div>
           <textarea
+            id="fmhy-feedback-message"
             ref="textareaRef"
             v-model="feedback.message"
             autofocus
             class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 b-rd-4 border-2 border-solid resize-none overflow-y-auto"
             placeholder="(e.g. What a lovely wiki!)"
+            :maxlength="isSuggestionPath ? suggestionDescriptionMax : undefined"
+            :aria-invalid="
+              isSuggestionPath &&
+              descriptionTooShort &&
+              feedback.message.length > 0
+                ? 'true'
+                : undefined
+            "
+            :aria-describedby="
+              isSuggestionPath ? 'fmhy-feedback-message-hint' : undefined
+            "
             @input="handleInput"
           />
+          <div
+            v-if="isSuggestionPath"
+            id="fmhy-feedback-message-hint"
+            class="mt-1 flex flex-wrap items-center justify-between gap-2"
+          >
+            <span
+              :class="
+                descriptionTooShort && feedback.message.length > 0
+                  ? 'field-error'
+                  : 'desc'
+              "
+            >
+              {{
+                descriptionTooShort && feedback.message.length > 0
+                  ? 'Please write at least 10 characters.'
+                  : 'At least 10 characters.'
+              }}
+            </span>
+            <span class="char-counter">
+              {{ suggestionRemaining }} characters left
+            </span>
+          </div>
           <div class="flex items-center gap-2 mt-2 mb-2">
             <button
               type="button"
@@ -597,6 +790,62 @@ const resetFeedback = () => {
 .feedback-quote :deep(*) {
   color: inherit !important;
   margin: 0 !important;
+}
+
+.suggestion-label {
+  display: block;
+  margin-bottom: 0.375rem;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.suggestion-chip {
+  padding: 0.25rem 0.625rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: nowrap;
+  transition:
+    border-color 0.25s,
+    background-color 0.25s,
+    color 0.25s;
+}
+
+.suggestion-chip:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+}
+
+.suggestion-chip-active {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+}
+
+.field-error {
+  margin-top: 0.25rem;
+  color: var(--vp-c-danger-1);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.char-counter {
+  color: var(--vp-c-text-3);
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+@media (max-width: 375px) {
+  .suggestion-chip {
+    white-space: normal;
+  }
 }
 
 .fade-enter-active,
