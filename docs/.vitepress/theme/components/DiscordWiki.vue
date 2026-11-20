@@ -42,6 +42,22 @@ function safeUrl(raw: string): string | null {
   }
 }
 
+function isDiscordInvite(url: string): boolean {
+  try {
+    const { hostname } = new URL(url)
+    return hostname === 'discord.gg' || hostname === 'www.discord.gg'
+  } catch {
+    return false
+  }
+}
+
+function linkHtml(safe: string, label: string): string {
+  const href = `href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank"`
+  return isDiscordInvite(safe)
+    ? `<a class="dw-join" ${href}>Join Server</a>`
+    : `<a ${href}>${label}</a>`
+}
+
 /** Inline formatting: escape first, then code, links and emphasis. */
 function inlineMarkdown(text: string): string {
   let out = escapeHtml(text)
@@ -57,7 +73,7 @@ function inlineMarkdown(text: string): string {
     (_m, label: string, href: string) => {
       const safe = safeUrl(href)
       if (!safe) return label
-      return `<a href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank">${label}</a>`
+      return linkHtml(safe, label)
     }
   )
 
@@ -66,7 +82,7 @@ function inlineMarkdown(text: string): string {
     (_m, pre: string, href: string) => {
       const safe = safeUrl(href)
       if (!safe) return pre + href
-      return `${pre}<a href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank">${href}</a>`
+      return pre + linkHtml(safe, href)
     }
   )
 
@@ -308,6 +324,20 @@ onMounted(load)
   text-decoration: underline;
   text-decoration-color: var(--vp-c-brand-soft, var(--vp-c-brand-1));
   text-underline-offset: 3px;
+}
+
+.dw-body :deep(a.dw-join) {
+  background: var(--vp-c-brand-1);
+  border-radius: 8px;
+  color: var(--vp-button-brand-text, #fff);
+  display: inline-block;
+  font-weight: 600;
+  padding: 6px 16px;
+  text-decoration: none;
+}
+
+.dw-body :deep(a.dw-join:hover) {
+  background: var(--vp-c-brand-2, var(--vp-c-brand-1));
 }
 
 .dw-body :deep(code) {
