@@ -423,13 +423,7 @@ const resetFeedback = () => {
     </button>
   </template>
   <template v-else>
-    <button
-      v-if="!isCardShown"
-      type="button"
-      class="feedback-widget pitch col-span-3"
-      :aria-expanded="isCardShown"
-      @click="toggleCard()"
-    >
+    <div v-if="!isCardShown" class="feedback-widget pitch col-span-3">
       <span class="pitch-icon">
         <span class="i-lucide:mail pitch-icon-glyph"></span>
       </span>
@@ -439,8 +433,10 @@ const resetFeedback = () => {
           We'd love to know what you think about this page.
         </span>
       </span>
-      <span class="i-lucide:chevron-right pitch-arrow"></span>
-    </button>
+      <button type="button" class="pitch-pill" @click="toggleCard()">
+        Share Feedback
+      </button>
+    </div>
   </template>
 
   <Transition name="fade" mode="out-in">
@@ -448,7 +444,7 @@ const resetFeedback = () => {
       v-if="isCardShown"
       class="feedback-widget feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid"
     >
-      <p v-if="!success" class="eyebrow">Got feedback?</p>
+      <p v-if="!props.heading && !success" class="eyebrow">Got feedback?</p>
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
           <p class="heading">{{ helpfulText }}</p>
@@ -696,6 +692,7 @@ const resetFeedback = () => {
 
 .pitch {
   display: flex;
+  flex-wrap: wrap;
   margin-top: 0.5rem;
   align-items: center;
   gap: 12px;
@@ -704,20 +701,42 @@ const resetFeedback = () => {
   border: 2px solid var(--vp-c-divider);
   border-radius: 12px;
   background-color: var(--vp-c-bg-alt);
-  text-align: left;
+}
+
+.pitch-pill {
+  flex: none;
+  margin-left: auto;
+  padding: 10px 18px;
+  border: 1px solid var(--vp-button-brand-border);
+  border-radius: 9999px;
+  background-color: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: nowrap;
   transition:
-    border-color 0.2s,
-    background-color 0.2s;
+    background-color 0.2s,
+    border-color 0.2s;
 }
 
-.pitch:hover {
-  border-color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-default-soft);
+.pitch-pill:hover {
+  background-color: var(--vp-button-brand-hover-bg);
+  border-color: var(--vp-button-brand-hover-border);
 }
 
-.pitch:focus-visible {
+.pitch-pill:focus-visible {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
+}
+
+@media (max-width: 420px) {
+  .pitch-pill {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
 }
 
 .pitch-icon {
@@ -756,11 +775,6 @@ const resetFeedback = () => {
   font-size: 13px;
   font-weight: 400;
   line-height: 1.5;
-  color: var(--vp-c-text-2);
-}
-
-.pitch-arrow {
-  flex: none;
   color: var(--vp-c-text-2);
 }
 
