@@ -136,6 +136,13 @@ const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 // Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
+// Collapse the mode/section controls behind one toggle so the bar stays
+// compact; persisted like the other search options.
+const showSearchOptions = useLocalStorage(
+  'vitepress:local-search-options',
+  false
+)
+
 interface SidebarItem {
   text?: string
   link?: string
@@ -1957,7 +1964,8 @@ const customTitles = {
   searching: 'Searching...',
   cycleMatches: 'to cycle matches',
   detailedViewOn: 'Detailed view',
-  detailedViewOff: 'Compact view'
+  detailedViewOff: 'Compact view',
+  optionsToggle: 'Search options'
 }
 
 // Back
@@ -2102,6 +2110,19 @@ function toggleFuzzySearch() {
 function toggleUrlSearch() {
   isUrlSearch.value = !isUrlSearch.value
 }
+
+function toggleSearchOptions() {
+  showSearchOptions.value = !showSearchOptions.value
+}
+
+// True when a collapsed-away option is non-default, so the toggle stays lit.
+const hasActiveOptions = computed(
+  () =>
+    isFuzzySearch.value ||
+    isUrlSearch.value ||
+    showDetailedList.value ||
+    !!activeCategory.value
+)
 
 function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
   const groups: HTMLElement[][] = []
@@ -2304,32 +2325,57 @@ function isSamePageComparison(destPath: string) {
               />
 
               <button
-                class="toggle-fuzzy-button"
+                class="clear-button"
+                type="reset"
+                :disabled="disableReset"
+                :title="translate('modal.resetButtonTitle')"
+                @click="resetSearch"
+              >
+                <span class="vpi-delete local-search-icon" />
+              </button>
+
+              <button
+                class="options-toggle-button"
                 type="button"
-                :class="{ 'fuzzy-active': isFuzzySearch }"
+                :class="{ 'options-active': hasActiveOptions }"
+                :aria-expanded="showSearchOptions"
+                aria-controls="search-options"
+                :title="customTitles.optionsToggle"
+                @click="toggleSearchOptions"
+              >
+                <span class="options-icon i-lucide:sliders-horizontal" />
+                <span class="visually-hidden">
+                  {{ customTitles.optionsToggle }}
+                </span>
+              </button>
+            </div>
+          </form>
+
+          <div
+            v-if="showSearchOptions"
+            id="search-options"
+            class="search-options"
+          >
+            <div class="options-toggles">
+              <button
+                class="option-toggle"
+                type="button"
+                :class="{ 'is-active': isFuzzySearch }"
                 :aria-pressed="isFuzzySearch"
                 :title="
                   isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
                 "
                 @click="toggleFuzzySearch"
               >
-                <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
-                <span v-else class="exact-icon">=</span>
-                <span class="visually-hidden">
-                  {{
-                    isFuzzySearch
-                      ? 'Fuzzy Search Active'
-                      : 'Exact Search Active'
-                  }}
-                </span>
+                <span class="option-icon">{{ isFuzzySearch ? '~' : '=' }}</span>
+                Fuzzy
               </button>
-
               <button
-                class="toggle-url-button"
+                class="option-toggle"
                 type="button"
                 :class="{
-                  'url-active': isUrlSearch,
-                  'url-auto': urlSearchAuto
+                  'is-active': isUrlSearch,
+                  'is-auto': urlSearchAuto
                 }"
                 :aria-pressed="isUrlSearch"
                 :title="
@@ -2341,86 +2387,66 @@ function isSamePageComparison(destPath: string) {
                 "
                 @click="toggleUrlSearch"
               >
-                <span class="url-icon i-lucide:link" />
-                <span class="visually-hidden">
-                  {{
-                    isUrlSearch
-                      ? 'URL Search Active'
-                      : urlSearchAuto
-                        ? 'URL Search Auto-Active'
-                        : 'URL Search Off'
-                  }}
-                </span>
+                <span class="option-icon i-lucide:link" />
+                URLs
               </button>
-
               <button
-                class="clear-button"
-                type="reset"
-                :disabled="disableReset"
-                :title="translate('modal.resetButtonTitle')"
-                @click="resetSearch"
+                v-if="!disableDetailedView"
+                class="option-toggle"
+                type="button"
+                :class="{ 'is-active': showDetailedList }"
+                :aria-pressed="showDetailedList"
+                :title="translate('modal.displayDetails')"
+                @click="toggleDetailedList"
               >
-                <span class="vpi-delete local-search-icon" />
+                <span class="option-icon vpi-layout-list" />
+                {{
+                  showDetailedList
+                    ? customTitles.detailedViewOn
+                    : customTitles.detailedViewOff
+                }}
               </button>
             </div>
-          </form>
+
+            <div
+              v-if="filterText && visibleCategories.length"
+              class="category-filters"
+              @wheel="onCategoryWheel"
+            >
+              <button
+                type="button"
+                class="category-chip"
+                :class="{ active: !activeCategory }"
+                :aria-pressed="!activeCategory"
+                title="All sections"
+                @click="selectCategory('')"
+              >
+                All
+                <span class="chip-count">{{ totalCategoryCount }}</span>
+              </button>
+              <button
+                v-for="cat in visibleCategories"
+                :key="cat.id"
+                type="button"
+                class="category-chip"
+                :class="{ active: activeCategory === cat.id }"
+                :aria-pressed="activeCategory === cat.id"
+                :title="cat.label"
+                @click="selectCategory(cat.id)"
+              >
+                {{ cat.label }}
+                <span class="chip-count">
+                  {{ categoryCounts.get(cat.id) ?? 0 }}
+                </span>
+              </button>
+            </div>
+          </div>
 
           <div v-if="filterText" class="results-header">
             <span v-if="results.length" class="results-info-text">
               Showing {{ results.length }} of {{ totalResultsCount
               }}{{ mayHaveMore ? '+' : '' }} matches
             </span>
-            <button
-              v-if="!disableDetailedView"
-              class="toggle-layout-button"
-              type="button"
-              :class="{ 'detailed-list': showDetailedList }"
-              :aria-pressed="showDetailedList"
-              :title="translate('modal.displayDetails')"
-              @click="toggleDetailedList"
-            >
-              <span class="vpi-layout-list toggle-layout-icon" />
-              <span class="toggle-layout-label">
-                {{
-                  showDetailedList
-                    ? customTitles.detailedViewOn
-                    : customTitles.detailedViewOff
-                }}
-              </span>
-            </button>
-          </div>
-
-          <div
-            v-if="filterText && visibleCategories.length"
-            class="category-filters"
-            @wheel="onCategoryWheel"
-          >
-            <button
-              type="button"
-              class="category-chip"
-              :class="{ active: !activeCategory }"
-              :aria-pressed="!activeCategory"
-              title="All sections"
-              @click="selectCategory('')"
-            >
-              All
-              <span class="chip-count">{{ totalCategoryCount }}</span>
-            </button>
-            <button
-              v-for="cat in visibleCategories"
-              :key="cat.id"
-              type="button"
-              class="category-chip"
-              :class="{ active: activeCategory === cat.id }"
-              :aria-pressed="activeCategory === cat.id"
-              :title="cat.label"
-              @click="selectCategory(cat.id)"
-            >
-              {{ cat.label }}
-              <span class="chip-count">
-                {{ categoryCounts.get(cat.id) ?? 0 }}
-              </span>
-            </button>
           </div>
 
           <ul
@@ -2857,15 +2883,98 @@ function isSamePageComparison(destPath: string) {
   padding: 8px;
 }
 
-.search-actions button:not([disabled]):hover,
-.toggle-layout-button.detailed-list,
-.toggle-fuzzy-button.fuzzy-active,
-.toggle-url-button.url-active {
+.search-actions button:not([disabled]):hover {
   color: var(--vp-c-brand-1);
 }
 
 .search-actions button.clear-button:disabled {
   opacity: 0.37;
+}
+
+/* Custom Feature: collapsible search options (fuzzy/URL/detail + sections) */
+.options-icon {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+
+.options-toggle-button.options-active {
+  color: var(--vp-c-brand-1);
+}
+
+.search-options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.options-toggles {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  padding: 0 4px 2px;
+}
+
+.option-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  height: 26px;
+  padding: 0 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  color: var(--vp-c-text-2);
+  background-color: var(--vp-local-search-bg);
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    color 0.2s,
+    background-color 0.2s,
+    border-color 0.2s;
+}
+
+.option-toggle:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+.option-toggle.is-active {
+  color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg-soft);
+  border-color: color-mix(
+    in srgb,
+    var(--vp-c-brand-1) 35%,
+    var(--vp-c-divider)
+  );
+}
+
+.option-toggle.is-auto:not(.is-active) {
+  color: var(--vp-c-brand-1);
+  opacity: 0.6;
+}
+
+.option-toggle .option-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+@media (any-pointer: coarse) {
+  .option-toggle {
+    height: 32px;
+    padding: 0 12px;
+  }
 }
 
 .search-keyboard-shortcuts {
@@ -3471,51 +3580,6 @@ svg {
   flex-wrap: wrap;
 }
 
-.toggle-layout-button {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  flex-shrink: 0;
-  margin-left: auto;
-  height: 30px;
-  padding: 0 12px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  font-size: 0.75rem;
-  color: var(--vp-c-text-2);
-  background-color: var(--vp-local-search-bg);
-  transition:
-    color 0.2s,
-    background-color 0.2s,
-    border-color 0.2s;
-}
-
-.toggle-layout-icon {
-  display: block;
-  font-size: 14px;
-  flex-shrink: 0;
-}
-
-.toggle-layout-label {
-  line-height: 1;
-  white-space: nowrap;
-}
-
-.toggle-layout-button:hover {
-  color: var(--vp-c-text-1);
-  background-color: var(--vp-c-bg-soft);
-}
-
-.toggle-layout-button.detailed-list {
-  color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-bg-soft);
-  border-color: color-mix(
-    in srgb,
-    var(--vp-c-brand-1) 35%,
-    var(--vp-c-divider)
-  );
-}
-
 .show-more-item {
   text-align: center;
   padding: 6px;
@@ -3539,67 +3603,6 @@ svg {
 .show-more-btn:hover {
   opacity: 1;
   background-color: var(--vp-c-bg-soft);
-}
-
-/* Custom Feature: Fuzzy search toggle button styling */
-.toggle-fuzzy-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 4px;
-  transition: all 0.2s;
-}
-
-.toggle-fuzzy-button .fuzzy-icon,
-.toggle-fuzzy-button .exact-icon {
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 1;
-}
-
-.toggle-fuzzy-button:hover {
-  background: var(--vp-c-bg-soft);
-}
-
-.toggle-fuzzy-button.fuzzy-active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg-soft);
-}
-
-/* Custom Feature: URL search toggle button styling */
-.toggle-url-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 4px;
-  transition: all 0.2s;
-}
-
-.toggle-url-button .url-icon {
-  width: 18px;
-  height: 18px;
-}
-
-.toggle-url-button:hover {
-  background: var(--vp-c-bg-soft);
-}
-
-.toggle-url-button.url-active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg-soft);
-}
-
-.toggle-url-button.url-auto:not(.url-active) {
-  color: var(--vp-c-brand-1);
-  opacity: 0.6;
 }
 
 .result-list-enter-active,
