@@ -53,7 +53,7 @@
 * [RIVO](https://rivo.st/) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/jKRZrTTWd4)
 * [GreyBox](https://greyboxtv.duckdns.org) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/avY9fYm9TA)
 * [Bowd](https://bowdtv.com/) - 1080p / Dual Audio / Pop up + Redirect Free
-* [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemoas.me), [4](https://cinemaos.in) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/38yFnFCJnA)
+* [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me), [4](https://cinemaos.in) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/38yFnFCJnA)
 * [Vumeto](https://vumeto.live/) - 4K / Dual Audio / Pop up + Redirect Free
 * [Stellar](https://stellar.rip/) - 4K / External Subs / Popup + Redirect Free
 * [4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle
