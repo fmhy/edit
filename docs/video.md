@@ -744,7 +744,6 @@
 
 ## ▷ Telegram Channels
 
-* [⁠FilmVault](https://filmvault.xyz/) - Movies / TV / Telegram Recommended
 * [SearchMoviesBot](https://t.me/SearchMoviesBot) or [TVSeriesSearchBot](https://t.me/TVSeriesSearchBot) - Movies / TV
 * [Cinefy](https://cinefy.cc/) - Movies / TV
 * [PhonoFilm](https://phonofilm.cc/) - Movies / TV
