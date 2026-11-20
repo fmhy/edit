@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
-import { useRouter } from 'vitepress'
 import {
   computed,
   onMounted,
@@ -9,11 +8,16 @@ import {
   ref,
   watchEffect
 } from 'vue'
-import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
+import {
+  feedbackOptions,
+  getFeedbackOption,
+  isPageRoute
+} from '../../types/Feedback'
 import {
   getRateLimitCooldown,
   recordSubmission
 } from '../composables/rateLimit'
+import { sanitizeRichHtml } from '../composables/sanitize'
 
 const props = defineProps<{
   heading?: string
@@ -39,8 +43,129 @@ function getMessage(type: FeedbackType['type']) {
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
+
+const isSelectingLine = ref<boolean>(false)
+const highlightStyle = reactive({
+  display: 'none',
+  top: '0px',
+  left: '0px',
+  width: '0px',
+  height: '0px'
+})
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
-const siteInputRef = ref<HTMLInputElement | null>(null)
+// The copy affordance on the picked-line block: on for a moment after a click.
+const copiedLine = ref<boolean>(false)
+let copyTimer: ReturnType<typeof setTimeout> | undefined
+
+const BLOCK_SELECTOR = 'p, li, td, th, h1, h2, h3, h4, h5, h6'
+const NON_CONTENT_SELECTOR =
+  '.feedback-widget, button, a, input, textarea, select'
+
+const isSelectableTarget = (target: HTMLElement) =>
+  !!target.closest('.vp-doc') && !target.closest(NON_CONTENT_SELECTOR)
+
+const extractBlockContent = (blockElement: HTMLElement) => {
+  const clone = blockElement.cloneNode(true) as HTMLElement
+  clone.querySelectorAll('.feedback-widget').forEach((el) => el.remove())
+  return { text: clone.textContent?.trim() ?? '', html: clone.innerHTML }
+}
+
+const startSelectingLine = () => {
+  // Nothing here may run during a server render: there is no document.
+  if (typeof document === 'undefined') return
+  isSelectingLine.value = true
+  document.body.style.cursor = 'crosshair'
+  document.body.classList.add('feedback-selecting')
+  window.addEventListener('mouseover', handleMouseOver)
+  window.addEventListener('click', handlePageClick, { capture: true })
+}
+
+const stopSelectingLine = () => {
+  isSelectingLine.value = false
+  if (typeof document === 'undefined') return
+  document.body.style.cursor = 'default'
+  document.body.classList.remove('feedback-selecting')
+  highlightStyle.display = 'none'
+  window.removeEventListener('mouseover', handleMouseOver)
+  window.removeEventListener('click', handlePageClick, { capture: true })
+}
+
+const handleMouseOver = (event: MouseEvent) => {
+  if (!isSelectingLine.value) return
+  const target = event.target as HTMLElement
+  if (!isSelectableTarget(target)) {
+    highlightStyle.display = 'none'
+    return
+  }
+  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
+  if (blockElement) {
+    const rect = blockElement.getBoundingClientRect()
+    highlightStyle.display = 'block'
+    highlightStyle.top = `${rect.top + window.scrollY - 2}px`
+    highlightStyle.left = `${rect.left + window.scrollX - 4}px`
+    highlightStyle.width = `${rect.width + 8}px`
+    highlightStyle.height = `${rect.height + 4}px`
+  } else {
+    highlightStyle.display = 'none'
+  }
+}
+
+const handlePageClick = (event: MouseEvent) => {
+  if (!isSelectingLine.value) return
+  const target = event.target as HTMLElement
+  if (!isSelectableTarget(target)) {
+    stopSelectingLine()
+    return
+  }
+  event.preventDefault()
+  event.stopPropagation()
+  event.stopImmediatePropagation()
+
+  const blockElement = target.closest(BLOCK_SELECTOR) as HTMLElement | null
+  if (blockElement) {
+    const { text, html } = extractBlockContent(blockElement)
+    if (text) {
+      feedback.selectedLine = text
+      feedback.selectedLineHtml = html
+    }
+  }
+  stopSelectingLine()
+}
+
+onUnmounted(() => {
+  stopSelectingLine()
+  if (copyTimer) clearTimeout(copyTimer)
+})
+
+const clearSelectedLine = () => {
+  feedback.selectedLine = undefined
+  feedback.selectedLineHtml = undefined
+  copiedLine.value = false
+}
+
+/**
+ * The picked line can be long, so the card offers it back to the clipboard.
+ * A browser that refuses the write leaves the line exactly as it was.
+ */
+async function copySelectedLine() {
+  const text = feedback.selectedLine
+  if (!text) return
+  try {
+    if (
+      typeof navigator !== 'undefined' &&
+      typeof navigator.clipboard?.writeText === 'function'
+    ) {
+      await navigator.clipboard.writeText(text)
+      copiedLine.value = true
+      if (copyTimer) clearTimeout(copyTimer)
+      copyTimer = setTimeout(() => {
+        copiedLine.value = false
+      }, 1500)
+    }
+  } catch {
+    // Clipboard access is best effort and never blocks feedback.
+  }
+}
 
 const handleInput = (event: Event) => {
   error.value = null
@@ -49,30 +174,20 @@ const handleInput = (event: Event) => {
   target.style.height = `${target.scrollHeight}px`
 }
 
-const router = useRouter()
-
 const feedback = reactive<{
   message: string
-  page: string
   contact?: string
   type?: FeedbackType['type']
+  selectedLine?: string
+  selectedLineHtml?: string
 }>({
-  page: router.route.path,
   message: '',
-  contact: ''
+  contact: '',
+  selectedLine: undefined,
+  selectedLineHtml: undefined
 })
 
 type SuggestionKind = 'add' | 'remove' | 'dead' | 'other'
-
-const MAX_MESSAGE_LENGTH = 1000
-const MIN_MESSAGE_LENGTH = 5
-const MIN_SUGGESTION_DESCRIPTION = 10
-const SITE_MAX_LENGTH = 200
-// The route's own `page` rule: 3 to 25 characters, no query, no hash.
-const PAGE_MIN_LENGTH = 3
-const PAGE_MAX_LENGTH = 25
-const PAGE_PATTERN = /^[a-zA-Z0-9\-/]+$/
-const SITE_ORIGIN = 'https://fmhy.net'
 
 const suggestionKinds: { value: SuggestionKind; label: string }[] = [
   { value: 'add', label: 'Add a site' },
@@ -81,10 +196,117 @@ const suggestionKinds: { value: SuggestionKind; label: string }[] = [
   { value: 'other', label: 'Something else' }
 ]
 
+/*
+ * The composed payload is the only thing the API ever sees, so the rules that
+ * build it sit in one place: the prefix, the quoted line and the description.
+ */
+// #region message-logic
+const MAX_MESSAGE_LENGTH = 1000
+const MIN_MESSAGE_LENGTH = 5
+
+/** `[Add a site]` followed by a blank line, or nothing without a kind. */
+function suggestionPrefixFor(kindLabel: string): string {
+  return kindLabel ? `[${kindLabel}]\n\n` : ''
+}
+
+/** The picked line as a markdown quote, the same shape upstream sent. */
+function quoteBlockFor(selectedLine: string): string {
+  return selectedLine ? `> ${selectedLine}\n\n` : ''
+}
+
+function composeMessage(
+  kindLabel: string,
+  selectedLine: string,
+  description: string
+): string {
+  return `${suggestionPrefixFor(kindLabel)}${quoteBlockFor(selectedLine)}${description}`
+}
+
+/** How much description still fits beside the prefix and the quoted line. */
+function descriptionBudget(kindLabel: string, selectedLine: string): number {
+  return Math.max(
+    0,
+    MAX_MESSAGE_LENGTH -
+      suggestionPrefixFor(kindLabel).length -
+      quoteBlockFor(selectedLine).length
+  )
+}
+
+function clampDescription(
+  description: string,
+  kindLabel: string,
+  selectedLine: string
+): string {
+  const max = descriptionBudget(kindLabel, selectedLine)
+  return description.length > max ? description.slice(0, max) : description
+}
+
+function isSendBlocked(input: {
+  suggestion: boolean
+  kindLabel: string
+  selectedLine: string
+  description: string
+}): boolean {
+  const composed = composeMessage(
+    input.kindLabel,
+    input.selectedLine,
+    input.description
+  )
+
+  // A suggestion also needs a kind chosen, the way the chips have always worked.
+  if (input.suggestion && !input.kindLabel) return true
+
+  // The picked line is context, not the request: it never stands in for a
+  // description, so an empty box is always unsendable.
+  if (input.description.trim().length === 0) return true
+
+  // Upstream's length rule over what is actually sent: five to a thousand.
+  return (
+    composed.length < MIN_MESSAGE_LENGTH || composed.length > MAX_MESSAGE_LENGTH
+  )
+}
+// #endregion message-logic
+
+/*
+ * The page is not a field any more. It is read from the live location when the
+ * contributor sends, so there is nothing for them to fill in or get wrong.
+ * Every read is guarded so a server render or a locked-down browser cannot
+ * throw, and anything that is not a plain same-site route falls back to `/`
+ * rather than sending a malformed value.
+ */
+// #region route-derivation
+function currentPageRoute(): string {
+  let pathname = ''
+  try {
+    const location = typeof window === 'undefined' ? undefined : window.location
+    pathname = typeof location?.pathname === 'string' ? location.pathname : ''
+  } catch {
+    pathname = ''
+  }
+
+  if (!pathname) return '/'
+
+  let decoded = pathname
+  try {
+    decoded = decodeURIComponent(pathname)
+  } catch {
+    decoded = pathname
+  }
+
+  const normalised = decoded
+    .toLowerCase()
+    .replace(/\/{2,}/g, '/')
+    .replace(/\/+$/, '')
+
+  const route = normalised.startsWith('/') ? normalised : `/${normalised}`
+
+  // The same rule the API enforces, so what leaves here is what it accepts.
+  if (!isPageRoute(route)) return '/'
+  return route
+}
+// #endregion route-derivation
+
 const suggestionKind = ref<SuggestionKind | null>(null)
-const suggestionSite = ref('')
-const isPickingLink = ref(false)
-const pickNote = ref('')
 
 const isSuggestionPath = computed(() => feedback.type === 'suggestion')
 
@@ -94,234 +316,43 @@ const kindLabel = computed(
       ?.label ?? ''
 )
 
-const trimmedSite = computed(() => suggestionSite.value.trim())
-
-/**
- * Turns a clicked link into the short same-site route the page field expects:
- * resolve it, keep only the pathname, decode percent-escapes, drop trailing
- * slashes, lowercase. Anything that cannot become a short same-site route -
- * another domain, mailto:, javascript:, a bare #anchor, or a path that is too
- * long or holds characters the route rejects - returns null and is refused
- * instead of being mangled into a different page.
- */
-function linkToRoute(href: string, base: string): string | null {
-  const raw = href.trim()
-  if (!raw || raw.startsWith('#')) return null
-  if (/^[a-z][a-z0-9+.-]*:/i.test(raw) && !/^https?:/i.test(raw)) return null
-
-  let url: URL
-  let origin: string
-  try {
-    url = new URL(raw, base)
-    origin = new URL(base).origin
-  } catch {
-    return null
-  }
-  if (url.protocol !== 'http:' && url.protocol !== 'https:') return null
-  if (url.origin !== origin) return null
-
-  let path = url.pathname
-  try {
-    path = decodeURIComponent(path)
-  } catch {
-    return null
-  }
-  path = path.replace(/\/+$/, '').toLowerCase()
-  if (!path) path = '/'
-  if (path.length < PAGE_MIN_LENGTH || path.length > PAGE_MAX_LENGTH)
-    return null
-  if (!PAGE_PATTERN.test(path)) return null
-  return path
-}
-
-/**
- * A picked link lands in the field as a short route, because that is the form
- * the page field is meant to hold. The message is read by a human, so the route
- * is written out as a full fmhy.net link there; a pasted URL is left alone.
- */
-const siteForMessage = computed(() => {
-  const site = trimmedSite.value
-  if (!site) return ''
-  return site.startsWith('/') ? `${SITE_ORIGIN}${site}` : site
-})
-
-const suggestionHead = computed(() => {
-  if (!isSuggestionPath.value || !kindLabel.value) return ''
-  const site = siteForMessage.value ? ` ${siteForMessage.value}` : ''
-  return `[${kindLabel.value}]${site}`
-})
-
-const siteError = computed(() => {
-  if (!isSuggestionPath.value) return ''
-  const site = trimmedSite.value
-  if (!site) return ''
-  if (site.length > SITE_MAX_LENGTH)
-    return 'Keep the link under 200 characters, please.'
-  // A full link or a site route; the picker writes routes.
-  if (/^https?:\/\//i.test(site) || site.startsWith('/')) return ''
-  return 'Enter a link starting with http:// or https://, or a route like /privacy'
-})
-
-const suggestionPrefix = computed(() => {
-  if (!isSuggestionPath.value || !kindLabel.value) return ''
-  return `${suggestionHead.value}\n\n`
-})
+const selectedLineText = computed(() => feedback.selectedLine ?? '')
 
 const suggestionDescriptionMax = computed(() =>
-  Math.max(0, MAX_MESSAGE_LENGTH - suggestionPrefix.value.length)
+  descriptionBudget(kindLabel.value, selectedLineText.value)
 )
 
-const suggestionRemaining = computed(() =>
-  Math.max(0, suggestionDescriptionMax.value - feedback.message.length)
+const buildMessage = () =>
+  composeMessage(kindLabel.value, selectedLineText.value, feedback.message)
+
+const isDisabled = computed(() =>
+  isSendBlocked({
+    suggestion: isSuggestionPath.value,
+    kindLabel: kindLabel.value,
+    selectedLine: selectedLineText.value,
+    description: feedback.message
+  })
 )
-
-const descriptionTooShort = computed(
-  () =>
-    isSuggestionPath.value &&
-    feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION
-)
-
-const PICKABLE_SELECTOR = '.vp-doc a[href]'
-const PICK_CLASS = 'feedback-link-pick'
-
-/**
- * Only real links inside the article count, never a link inside the card
- * itself. `closest` keeps a click on a nested span working like a click on the
- * anchor underneath it.
- */
-function pickableAnchor(target: EventTarget | null) {
-  const element = target as HTMLElement | null
-  const anchor = element?.closest?.(
-    PICKABLE_SELECTOR
-  ) as HTMLAnchorElement | null
-  if (!anchor || anchor.closest('.feedback-widget')) return null
-  return anchor
-}
-
-function clearPickHighlight() {
-  if (typeof document === 'undefined') return
-  document
-    .querySelectorAll(`a.${PICK_CLASS}`)
-    .forEach((el) => el.classList.remove(PICK_CLASS))
-}
-
-function handlePickHover(event: MouseEvent) {
-  const anchor = pickableAnchor(event.target)
-  clearPickHighlight()
-  if (anchor) anchor.classList.add(PICK_CLASS)
-}
-
-function handlePickClick(event: MouseEvent) {
-  const anchor = pickableAnchor(event.target)
-  if (!anchor) return
-
-  // Picking must never navigate away from the page being described.
-  event.preventDefault()
-  event.stopPropagation()
-  event.stopImmediatePropagation()
-
-  const route = linkToRoute(
-    anchor.getAttribute('href') ?? '',
-    window.location.href
-  )
-  stopPickingLink()
-  if (!route) {
-    pickNote.value =
-      'Only fmhy.net page links with a short path can be picked here.'
-    return
-  }
-  suggestionSite.value = route
-  pickNote.value = ''
-  error.value = null
-  // Focus goes to the field the pick filled, so the next keystroke edits it.
-  siteInputRef.value?.focus()
-}
-
-function handlePickKeydown(event: KeyboardEvent) {
-  if (event.key === 'Escape') stopPickingLink()
-}
-
-function startPickingLink() {
-  pickNote.value = ''
-  isPickingLink.value = true
-  if (typeof document === 'undefined') return
-  document.body.classList.add('feedback-picking-links')
-  document.addEventListener('mouseover', handlePickHover)
-  document.addEventListener('focusin', handlePickHover)
-  document.addEventListener('click', handlePickClick, { capture: true })
-  document.addEventListener('keydown', handlePickKeydown)
-}
-
-function stopPickingLink() {
-  isPickingLink.value = false
-  // Nothing here may run during a server render: there is no document.
-  if (typeof document === 'undefined') return
-  document.body.classList.remove('feedback-picking-links')
-  document.removeEventListener('mouseover', handlePickHover)
-  document.removeEventListener('focusin', handlePickHover)
-  document.removeEventListener('click', handlePickClick, { capture: true })
-  document.removeEventListener('keydown', handlePickKeydown)
-  clearPickHighlight()
-}
-
-function togglePickingLink() {
-  if (isPickingLink.value) {
-    stopPickingLink()
-  } else {
-    startPickingLink()
-  }
-}
-
-onMounted(() => {
-  window.addEventListener('beforeunload', stopPickingLink)
-})
-
-onUnmounted(() => {
-  stopPickingLink()
-  window.removeEventListener('beforeunload', stopPickingLink)
-})
 
 function selectSuggestionKind(kind: SuggestionKind) {
   suggestionKind.value = kind
   error.value = null
 }
 
-function buildMessage() {
-  // The description is exactly what the contributor sees, so the payload is
-  // only ever the kind/site line plus that visible text.
-  if (!isSuggestionPath.value || !kindLabel.value) {
-    return feedback.message
-  }
-  return `${suggestionPrefix.value}${feedback.message}`
-}
-
 /**
  * The composed message must stay inside the schema limit, so the description
- * budget shrinks when the kind or the site changes. Clamp what is already
- * typed rather than letting the composed message grow past 1000 characters.
+ * budget shrinks when the kind or the picked line changes. Clamp what is
+ * already typed rather than letting the composed message grow past 1000.
  */
 watchEffect(() => {
-  if (!isSuggestionPath.value) return
-  const max = suggestionDescriptionMax.value
-  if (feedback.message.length > max) {
-    feedback.message = feedback.message.slice(0, max)
-  }
-})
-
-const isDisabled = computed(() => {
-  if (isSuggestionPath.value) {
-    if (!suggestionKind.value) return true
-    if (siteError.value) return true
-    return (
-      feedback.message.trim().length < MIN_SUGGESTION_DESCRIPTION ||
-      buildMessage().length > MAX_MESSAGE_LENGTH
-    )
-  }
-
-  return (
-    feedback.message.length < MIN_MESSAGE_LENGTH ||
-    feedback.message.length > MAX_MESSAGE_LENGTH
+  const clamped = clampDescription(
+    feedback.message,
+    kindLabel.value,
+    selectedLineText.value
   )
+  if (clamped !== feedback.message) {
+    feedback.message = clamped
+  }
 })
 
 const CONTACT_STORAGE_KEY = 'fmhy-feedback-contact'
@@ -379,7 +410,9 @@ async function handleSubmit() {
   const body: FeedbackType = {
     message: finalMessage,
     type: feedback.type!,
-    page: feedback.page,
+    // Read here, not at setup: this is the one moment the live page is known
+    // and the only moment it is needed.
+    page: currentPageRoute(),
     ...(props.heading && { heading: props.heading }),
     ...(feedback.contact && { contact: feedback.contact })
   }
@@ -419,13 +452,12 @@ const helpfulText = props.heading
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => {
   isCardShown.value = !isCardShown.value
-  if (!isCardShown.value) stopPickingLink()
+  if (!isCardShown.value) stopSelectingLine()
 }
 const goBackToOptions = () => {
   feedback.type = undefined
   error.value = null
-  pickNote.value = ''
-  stopPickingLink()
+  stopSelectingLine()
 }
 
 const resetFeedback = () => {
@@ -434,10 +466,11 @@ const resetFeedback = () => {
   error.value = null
   success.value = false
   feedback.message = ''
+  feedback.selectedLine = undefined
+  feedback.selectedLineHtml = undefined
   suggestionKind.value = null
-  suggestionSite.value = ''
-  pickNote.value = ''
-  stopPickingLink()
+  copiedLine.value = false
+  stopSelectingLine()
   if (textareaRef.value) {
     textareaRef.value.style.height = ''
   }
@@ -542,110 +575,69 @@ const resetFeedback = () => {
               </button>
             </div>
           </div>
-          <div v-if="isSuggestionPath" class="field field-related">
-            <label class="field-label" for="fmhy-suggestion-site">
-              Site or page
-              <span class="field-optional">optional</span>
-            </label>
-            <input
-              id="fmhy-suggestion-site"
-              ref="siteInputRef"
-              v-model="suggestionSite"
-              type="text"
-              inputmode="url"
-              autocomplete="off"
-              spellcheck="false"
-              :maxlength="SITE_MAX_LENGTH"
-              class="field-control"
-              placeholder="https://example.com or /privacy"
-              :aria-invalid="siteError ? 'true' : undefined"
-              :aria-describedby="
-                siteError ? 'fmhy-suggestion-site-error' : undefined
-              "
-            />
-            <p
-              v-if="siteError"
-              id="fmhy-suggestion-site-error"
-              class="field-error"
-            >
-              {{ siteError }}
-            </p>
-            <p class="sr-only" role="status" aria-live="polite">
-              {{
-                isPickingLink ? 'Picking a link. Press Escape to cancel.' : ''
-              }}
-              {{ pickNote }}
-            </p>
-            <div class="field-actions">
-              <button
-                type="button"
-                class="tool-btn"
-                :aria-pressed="isPickingLink"
-                :aria-describedby="isPickingLink ? 'fmhy-pick-note' : undefined"
-                @click="togglePickingLink()"
-              >
-                <span
-                  :class="isPickingLink ? 'i-lucide:x' : 'i-lucide:link-2'"
-                  class="w-3.5 h-3.5"
-                ></span>
-                {{
-                  isPickingLink ? 'Cancel selection' : 'Select a link from page'
-                }}
-              </button>
-              <span v-if="isPickingLink" id="fmhy-pick-note" class="pick-note">
-                Click a link on the page...
-              </span>
-              <span v-else-if="pickNote" class="pick-note">{{ pickNote }}</span>
-            </div>
-          </div>
-          <div class="field">
-            <label class="field-label" for="fmhy-feedback-message">
-              {{
-                isSuggestionPath ? 'Describe your suggestion' : 'Your message'
-              }}
-            </label>
-            <textarea
-              id="fmhy-feedback-message"
-              ref="textareaRef"
-              v-model="feedback.message"
-              autofocus
-              class="field-control field-textarea"
-              :placeholder="
-                isSuggestionPath
-                  ? '(e.g. Great source for X, worth adding)'
-                  : '(e.g. What a lovely wiki!)'
-              "
-              :maxlength="
-                isSuggestionPath ? suggestionDescriptionMax : undefined
-              "
-              :aria-invalid="
-                isSuggestionPath &&
-                descriptionTooShort &&
-                feedback.message.length > 0
-                  ? 'true'
-                  : undefined
-              "
-              :aria-describedby="
-                isSuggestionPath ? 'fmhy-feedback-message-hint' : undefined
-              "
-              @input="handleInput"
-            />
+          <div v-if="feedback.selectedLine" class="quote-block">
+            <span class="i-lucide:quote quote-icon"></span>
             <div
-              v-if="isSuggestionPath"
-              id="fmhy-feedback-message-hint"
-              class="counter-row"
+              class="quote-text vp-doc feedback-quote line-clamp-3"
+              v-html="
+                sanitizeRichHtml(feedback.selectedLineHtml) ||
+                feedback.selectedLine
+              "
+            ></div>
+            <button
+              type="button"
+              class="quote-tool"
+              :class="{ 'quote-tool-done': copiedLine }"
+              :title="copiedLine ? 'Copied' : 'Copy selected line'"
+              @click="copySelectedLine"
             >
               <span
-                class="field-hint"
-                :class="{
-                  'field-error':
-                    descriptionTooShort && feedback.message.length > 0
-                }"
-              >
-                {{ descriptionTooShort ? 'min 10' : '' }}
-              </span>
-              <span class="char-counter">{{ suggestionRemaining }} left</span>
-            </div>
+                :class="copiedLine ? 'i-lucide:check' : 'i-lucide:copy'"
+                class="w-4 h-4"
+              ></span>
+            </button>
+            <button
+              type="button"
+              class="quote-tool quote-remove"
+              title="Remove selected line"
+              @click="clearSelectedLine"
+            >
+              <span class="i-lucide:trash-2 w-4 h-4"></span>
+            </button>
+          </div>
+          <textarea
+            id="fmhy-feedback-message"
+            ref="textareaRef"
+            v-model="feedback.message"
+            autofocus
+            aria-label="Your message"
+            class="field-control field-textarea"
+            placeholder="(e.g. What a lovely wiki!)"
+            :maxlength="suggestionDescriptionMax"
+            @input="handleInput"
+          />
+          <div class="field-actions">
+            <button
+              type="button"
+              class="tool-btn"
+              :aria-pressed="isSelectingLine"
+              @click="
+                isSelectingLine ? stopSelectingLine() : startSelectingLine()
+              "
+            >
+              <span
+                :class="
+                  isSelectingLine ? 'i-lucide:x' : 'i-lucide:text-cursor-input'
+                "
+                class="w-3.5 h-3.5"
+              ></span>
+              {{
+                isSelectingLine ? 'Cancel Selection' : 'Select a line from page'
+              }}
+            </button>
+            <span v-if="isSelectingLine" class="tool-hint animate-pulse">
+              Click any text on the page...
+            </span>
           </div>
           <div class="field">
             <label class="field-label" for="fmhy-feedback-contact">
@@ -691,6 +683,19 @@ const resetFeedback = () => {
       </Transition>
     </div>
   </Transition>
+
+  <Teleport to="body">
+    <div
+      v-if="isSelectingLine"
+      class="pointer-events-none absolute z-[9999] rounded border-2 border-solid transition-all duration-75"
+      :style="{
+        ...highlightStyle,
+        backgroundColor: 'var(--vp-c-brand)',
+        borderColor: 'var(--vp-c-brand)',
+        opacity: '0.2'
+      }"
+    ></div>
+  </Teleport>
 </template>
 
 <style scoped lang="css">
@@ -858,22 +863,75 @@ const resetFeedback = () => {
   font-weight: 600;
 }
 
+/* The picked line: a pale rounded block, quote glyph on the left, the text,
+   then copy and remove on the right. */
+.quote-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin: 16px 0;
+  padding: 10px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+}
+
+.quote-icon {
+  flex: none;
+  margin-top: 2px;
+  color: var(--vp-c-text-2);
+  opacity: 0.5;
+}
+
+.quote-text {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin: 0;
+  color: var(--vp-c-text-2) !important;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  pointer-events: none;
+}
+
+.quote-text :deep(*) {
+  margin: 0 !important;
+  color: inherit !important;
+}
+
+.quote-tool {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: transparent;
+  color: var(--vp-c-text-2);
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background-color 0.2s;
+}
+
+.quote-tool:hover {
+  border-color: var(--vp-c-divider);
+  background-color: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+}
+
+.quote-tool-done,
+.quote-tool-done:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.quote-remove:hover {
+  color: var(--vp-c-danger-1);
+}
+
 .field {
   margin-top: 20px;
-}
-
-/* The kind chips and the site field answer one question, so they group. */
-.field-related {
-  margin-top: 12px;
-}
-
-.counter-row .field-error {
-  margin: 0;
-}
-
-.feedback-head + .heading,
-.heading + .step-sub {
-  margin-top: 0;
 }
 
 .field-label {
@@ -921,10 +979,6 @@ const resetFeedback = () => {
   outline: none;
   border-color: var(--vp-c-brand-1);
   box-shadow: 0 0 0 3px var(--vp-c-brand-soft);
-}
-
-.field-control[aria-invalid='true'] {
-  border-color: var(--vp-c-danger-1);
 }
 
 .field-textarea {
@@ -999,26 +1053,6 @@ const resetFeedback = () => {
   font-weight: 600;
 }
 
-.counter-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  margin-top: 6px;
-}
-
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
-}
-
 .field-actions {
   display: flex;
   flex-wrap: wrap;
@@ -1061,31 +1095,11 @@ const resetFeedback = () => {
   outline-offset: 2px;
 }
 
-.pick-note {
+.tool-hint {
   font-size: 12px;
   font-weight: 500;
   line-height: 1.5;
   color: var(--vp-c-text-2);
-}
-
-.field-hint,
-.char-counter {
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1.5;
-  color: var(--vp-c-text-2);
-}
-
-.char-counter {
-  white-space: nowrap;
-}
-
-.field-error {
-  margin: 6px 0 0;
-  color: var(--vp-c-danger-1);
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1.5;
 }
 
 .desc {
@@ -1136,7 +1150,8 @@ const resetFeedback = () => {
 .btn:focus-visible,
 .chip:focus-visible,
 .option-btn:focus-visible,
-.head-back:focus-visible {
+.head-back:focus-visible,
+.quote-tool:focus-visible {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
@@ -1174,6 +1189,10 @@ const resetFeedback = () => {
   }
 }
 
+.feedback-quote {
+  color: var(--vp-c-text-2) !important;
+}
+
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.25s ease;
@@ -1186,17 +1205,9 @@ const resetFeedback = () => {
 </style>
 
 <style>
-/* Armed link picking: the hovered anchor is the only thing highlighted, and it
-   lives outside this component, so the rule cannot be scoped. */
-body.feedback-picking-links,
-body.feedback-picking-links a {
-  cursor: pointer !important;
-}
-
-a.feedback-link-pick {
-  outline: 2px solid var(--vp-c-brand-1);
-  outline-offset: 2px;
-  border-radius: 4px;
-  background-color: var(--vp-c-brand-soft);
+/* Armed line picking: the page is the target, and it lives outside this
+   component, so these rules cannot be scoped. */
+body.feedback-selecting a {
+  pointer-events: none !important;
 }
 </style>
