@@ -444,7 +444,6 @@ const resetFeedback = () => {
       v-if="isCardShown"
       class="feedback-widget feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid"
     >
-      <p v-if="!props.heading && !success" class="eyebrow">Got feedback?</p>
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
           <p class="heading">{{ helpfulText }}</p>
@@ -775,16 +774,6 @@ const resetFeedback = () => {
   font-size: 13px;
   font-weight: 400;
   line-height: 1.5;
-  color: var(--vp-c-text-2);
-}
-
-.eyebrow {
-  margin: 0 0 4px;
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 1.4;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
   color: var(--vp-c-text-2);
 }
 
