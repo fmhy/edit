@@ -276,7 +276,7 @@ function isSendBlocked(input: {
  */
 // #region route-derivation
 function currentPageRoute(): string {
-  let pathname = ''
+  let pathname: string
   try {
     const location = typeof window === 'undefined' ? undefined : window.location
     pathname = typeof location?.pathname === 'string' ? location.pathname : ''
@@ -286,7 +286,7 @@ function currentPageRoute(): string {
 
   if (!pathname) return '/'
 
-  let decoded = pathname
+  let decoded: string
   try {
     decoded = decodeURIComponent(pathname)
   } catch {
