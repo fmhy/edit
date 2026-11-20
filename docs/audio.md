@@ -33,7 +33,7 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/), [unreleased.world](https://www.unreleased.world/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
