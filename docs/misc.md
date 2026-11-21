@@ -1670,6 +1670,7 @@
 * ⭐ **[Sandboxels](https://neal.fun/sandboxels/)**, [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/) - Falling Sand Physics Sandbox
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** or [geneticars](https://geneticars.vercel.app/) - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
+* [ReflexTimer](https://reflextimer.com/) - Reaction Time, CPS & Aim Tests
 * [⁠your ai slop bores me](https://youraislopbores.me/) - Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)
 * [DJ3D](https://dj3d.io/) - Watch YouTube in Virtual World
 * [⁠Page Rage](https://page-rage.com/) - Destroy Any Web Page
