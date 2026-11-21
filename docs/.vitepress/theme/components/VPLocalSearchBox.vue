@@ -529,9 +529,9 @@ watch(
       textOf: lookupExcerptText
     })
 
-    // Typo-tolerant results matched corrected terms, so highlight those.
-    const highlightMatchedTerms = isFuzzySearch.value || relaxed
-    if (highlightMatchedTerms) {
+    // Fuzzy, substring-expanded, rewritten and typo-tolerant queries match
+    // index terms the user didn't type, so highlight those terms.
+    if (!isExactSearch || relaxed) {
       for (const r of finalResults) {
         for (const term of Object.keys(r.match || {})) {
           terms.add(term)

@@ -8,6 +8,7 @@
 import type { Query, SearchResult } from 'minisearch'
 import MiniSearch from 'minisearch'
 import { normalizeSearchUrl, stripSchemeAndWww } from '../../shared'
+import { planQuery } from './query'
 
 export const RESULTS_PAGE_SIZE = 16
 export const MAX_RESULTS_IN_MEMORY = 200
@@ -39,6 +40,7 @@ export interface BoostFlags {
   hasExact: boolean
   hasStarredPrefix: boolean
   hasPrefix: boolean
+  hasTitlePhrase: boolean
   hasStarredWord: boolean
   hasStarredUrl: boolean
   hasLinkWord: boolean
@@ -754,6 +756,43 @@ export interface SearchModes {
   url: boolean
 }
 
+const MAX_HEADING_PHRASES = 16
+
+// Every way of spelling the query from one alternative per word group:
+// [["yt", "youtube"], ["dl", "download"]] -> "yt dl", "yt download", ...
+function headingPhrases(groups: string[][]): string[] {
+  let phrases = ['']
+  for (const group of groups) {
+    const next: string[] = []
+    for (const prefix of phrases) {
+      for (const alt of group) {
+        if (next.length < MAX_HEADING_PHRASES)
+          next.push(prefix ? `${prefix} ${alt}` : alt)
+      }
+    }
+    phrases = next
+  }
+  return phrases.filter(Boolean)
+}
+
+// `needle` occurs in `haystack` starting at a word boundary.
+function startsWordIn(haystack: string, needle: string) {
+  let from = haystack.indexOf(needle)
+  while (from !== -1) {
+    if (from === 0 || !/[\p{L}\p{N}]/u.test(haystack[from - 1])) return true
+    from = haystack.indexOf(needle, from + 1)
+  }
+  return false
+}
+
+type QueryPlanContext = {
+  rewritten: boolean
+  plan: ReturnType<typeof planQuery>
+  groupQuery: (group: string[]) => Query
+  words: string[]
+  queryLooksLikeUrl: boolean
+}
+
 /**
  * Runs the index query for `filterTextValue` and returns the full ranked pool
  * (before excerpt filtering / pagination, see selectResultsPage).
@@ -767,7 +806,37 @@ export function runSearch(
   let query: Query = filterTextValue
   let usedSubstringExpansion = false
 
-  if (modes.fuzzy) {
+  const words = tokenizeIndexLike(filterTextValue)
+  const plan = planQuery(words)
+  const rewritten = plan.rewritten && plan.required.length > 0
+  const fuzzy = modes.fuzzy ? fuzzyTolerance : false
+  // Typo tolerance applies to what the user typed, not to expansions.
+  const groupQuery = (group: string[]): Query => ({
+    combineWith: 'OR',
+    queries: group.map((alt, i) =>
+      alt.includes(' ')
+        ? { combineWith: 'AND', queries: alt.split(' '), fuzzy: false }
+        : { queries: [alt], fuzzy: i === 0 ? fuzzy : false }
+    )
+  })
+
+  if (rewritten) {
+    const parts = filterTextValue.split(/\s+/).filter((p) => p)
+    const planned: Query = {
+      combineWith: 'AND',
+      queries: plan.required.map(groupQuery)
+    }
+    query =
+      modes.fuzzy && parts.length > 1
+        ? {
+            combineWith: 'OR',
+            queries: [
+              planned,
+              { queries: [parts.join('-')], combineWith: 'AND', fuzzy }
+            ]
+          }
+        : planned
+  } else if (modes.fuzzy) {
     query = buildTypoTolerantQuery(filterTextValue, ctx.termKeys) ?? query
   }
 
@@ -776,7 +845,11 @@ export function runSearch(
    * For exact mode, find index terms containing the query as a substring
    * (e.g. "abolic" → "parabolic") using the pre-cached term key list.
    */
-  if (!modes.fuzzy && filterTextValue.length > 2) {
+  if (
+    !modes.fuzzy &&
+    filterTextValue.length > 2 &&
+    (!rewritten || (words.length === 1 && plan.optional.length === 0))
+  ) {
     const candidateTerms: string[] = []
     const match = filterTextValue.toLowerCase()
     for (const term of ctx.termKeys) {
@@ -791,7 +864,7 @@ export function runSearch(
       usedSubstringExpansion = true
       query = {
         combineWith: 'OR',
-        queries: [filterTextValue, ...capped]
+        queries: [rewritten ? query : filterTextValue, ...capped]
       }
     }
   }
@@ -812,12 +885,20 @@ export function runSearch(
   const urlResults = searchUrls
     ? findUrlMatches(index, filterTextValue, ctx.urlIndex)
     : []
+  const planned: QueryPlanContext = {
+    rewritten,
+    plan,
+    groupQuery,
+    words,
+    queryLooksLikeUrl
+  }
   const results = rankResults(
     ctx,
     filterTextValue,
     rawResults,
     urlResults,
-    modes.fuzzy
+    modes.fuzzy,
+    planned
   )
 
   // Fallback chain: when the exact query finds nothing (or, for multi-word
@@ -825,6 +906,9 @@ export function runSearch(
   // run the typo-tolerant query. Its hits are appended as a separate pool
   // (a section can be in both) that is only shown when no exact hit survives
   // (see selectResultsPage).
+  // A rewritten query searches for more than the literal text, so like
+  // substring expansion it must skip the literal-phrase excerpt filter.
+  if (rewritten) usedSubstringExpansion = true
   const exact = isExactSearchMode(modes.fuzzy, usedSubstringExpansion)
   const mayNeedFallback =
     !modes.fuzzy &&
@@ -837,7 +921,14 @@ export function runSearch(
     const fallbackRaw = index.search(fallbackQuery, {
       combineWith: 'AND'
     }) as SearchHit[]
-    for (const r of rankResults(ctx, filterTextValue, fallbackRaw, [], true)) {
+    for (const r of rankResults(
+      ctx,
+      filterTextValue,
+      fallbackRaw,
+      [],
+      true,
+      planned
+    )) {
       results.push({ ...r, fallback: true })
     }
   }
@@ -850,12 +941,27 @@ function rankResults(
   filterTextValue: string,
   rawResults: SearchHit[],
   urlResults: SearchHit[],
-  typoTolerant: boolean
+  typoTolerant: boolean,
+  planned: QueryPlanContext
 ): SearchHit[] {
-  const { customMetadata } = ctx
+  const { customMetadata, index } = ctx
+  const { rewritten, plan, groupQuery } = planned
   const mergedResultsById = new Map<string, SearchHit>()
   for (const result of rawResults) {
     mergedResultsById.set(result.id, result)
+  }
+  // Optional words (fillers, platforms) only reorder what the required words
+  // found. Searched separately so their matches don't count as matched terms
+  // for the link tiers below.
+  if (rewritten && rawResults.length > 0 && plan.optional.length > 0) {
+    const optionalHits = index.search(
+      { combineWith: 'OR', queries: plan.optional.map(groupQuery) },
+      { combineWith: 'OR', fuzzy: false }
+    )
+    for (const hit of optionalHits) {
+      const existing = mergedResultsById.get(hit.id)
+      if (existing) existing.score += hit.score
+    }
   }
   for (const result of urlResults) {
     const existing = mergedResultsById.get(result.id)
@@ -891,11 +997,12 @@ function rankResults(
   //   2. exact         – query exactly matches any hyperlink
   //   3. starredPrefix – query is a prefix of a starred-bold hyperlink
   //   4. prefix        – query is a prefix of any hyperlink
-  //   5. starredWord   – a query term is a word inside a starred hyperlink
-  //   6. starredUrl    – a starred entry matched only on a link's URL
-  //   7. linkWord      – a query term is a word inside any hyperlink
-  //   8. linkUrl       – a non-starred entry matched only on a link's URL
-  //   9. raw score (title/text match, etc.)
+  //   5. titlePhrase   – the section heading spells the query's words in order
+  //   6. starredWord   – a query term is a word inside a starred hyperlink
+  //   7. starredUrl    – a starred entry matched only on a link's URL
+  //   8. linkWord      – a query term is a word inside any hyperlink
+  //   9. linkUrl       – a non-starred entry matched only on a link's URL
+  //  10. raw score (title/text match, etc.)
   // Bold-without-star is treated as a regular link (no special tier).
   // "Prefix"/"exact" compare the full query against the whole hyperlink text,
   // not against individual tokens. Strip zero-width characters from the
@@ -917,6 +1024,10 @@ function rankResults(
   }
   const keys = termKeySet(ctx.termKeys)
   const queryStems = tokenizeIndexLike(q).map(stemWord)
+  const titlePhrases = planned.queryLooksLikeUrl
+    ? []
+    : headingPhrases(
+        rewritten ? plan.required : planned.words.map((w) => [w]))
 
   const boostedResults = currentResults.map((r) => {
     const meta = customMetadata[r.id]
@@ -982,6 +1093,8 @@ function rankResults(
     // score alone.
     const hasStarredUrl = !!r.urlMatchedStarred
     const hasLinkUrl = !!r.urlMatched && !hasStarredUrl
+    const heading = r.title.toLowerCase()
+    const hasTitlePhrase = titlePhrases.some((p) => startsWordIn(heading, p))
 
     // The section's own heading names what the user typed: "recipes" ->
     // Recipes, "rss reader" -> RSS Readers.
@@ -1000,6 +1113,7 @@ function rankResults(
       hasExact,
       hasStarredPrefix,
       hasPrefix,
+      hasTitlePhrase,
       hasStarredWord,
       hasStarredUrl,
       hasLinkWord,
@@ -1013,6 +1127,7 @@ function rankResults(
     'hasExact',
     'hasStarredPrefix',
     'hasPrefix',
+    'hasTitlePhrase',
     'hasStarredWord',
     'hasStarredUrl',
     'hasLinkWord',
