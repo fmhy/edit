@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { ColorNames } from '../themes/configs/colors'
+import { withBase } from 'vitepress'
 import { themeRegistry } from '../themes/configs'
 import { normalizeColorName } from '../themes/configs/colors'
 import { useTheme } from '../themes/themeHandler'
@@ -35,9 +36,14 @@ const getThemePreviewStyle = (name: string) => {
   const modeColors = theme.modes[modeKey]
 
   if (theme.preview) {
-    if (theme.preview.startsWith('http') || theme.preview.startsWith('data:')) {
+    if (
+      theme.preview.startsWith('http') ||
+      theme.preview.startsWith('data:') ||
+      theme.preview.startsWith('/') ||
+      theme.preview.startsWith('.')
+    ) {
       return {
-        backgroundImage: `url(${theme.preview})`,
+        backgroundImage: `url(${withBase(theme.preview)})`,
         backgroundSize: 'cover'
       }
     }
