@@ -1037,6 +1037,7 @@
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [⁠AIOStreams](https://docs.aiostreams.viren070.me/apps/) - Movies / TV / Anime / Debrid or Usenet Required
 * [aDrama](https://adrama.app/) - Asian Drama
+* [SmurfTV](https://movies.smurfiez.com/) - Movies / TV / Anime / Drama / Live TV / [Telegram](https://t.me/smurfieztv) / [Discord](https://discord.gg/ma8nJxRXQm)
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - Improved Bilibili Client
 * [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
