@@ -56,7 +56,6 @@ import { createSearchTranslate } from 'vitepress/dist/client/theme-default/suppo
 import {
   computed,
   createApp,
-  markRaw,
   nextTick,
   onBeforeUnmount,
   onMounted,
@@ -596,7 +595,7 @@ watch(
       )
     }
 
-    if (!highlightMatchedTerms) {
+    if (isExactSearch && !relaxed) {
       terms.add(filterText.value)
     }
 
