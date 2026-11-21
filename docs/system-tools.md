@@ -354,6 +354,7 @@
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
 * [Online Mic Test](https://onlinemictest.com/) or [Check Mic](https://webcammictest.com/mic/) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) or [REW](https://www.roomeqwizard.com) - Measure Surrounding Sound Level
+* [motu-ui](https://github.com/dvinerlove/motu-ui) - MOTU M-Series Audio Interface Control Panel / Live Meters, Loopback Monitoring / [Site](https://dvinerlove.github.io/motu-ui/)
 * [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
