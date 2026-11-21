@@ -1007,20 +1007,14 @@ export function runSearch(
     planned
   )
 
-  // Fallback chain: when the exact query finds nothing (or, for multi-word
-  // queries or expanded words, may find nothing once the phrase check runs on
-  // excerpts), also run the typo-tolerant query. Its hits are appended as a separate pool
-  // (a section can be in both) that is only shown when no exact hit survives
-  // (see selectResultsPage).
   // A rewritten query searches for more than the literal text, so like
   // substring expansion it must skip the literal-phrase excerpt filter.
   if (rewritten) usedSubstringExpansion = true
-  const exact = isExactSearchMode(modes.fuzzy, usedSubstringExpansion)
+  // Fuzzy mode only (exact mode stays strict): when the fuzzy query finds
+  // nothing, also run the typo-tolerant query, which adds swapped letters and
+  // short-word edits. Its hits are a separate pool (see selectResultsPage).
   const mayNeedFallback =
-    !modes.fuzzy &&
-    !queryLooksLikeUrl &&
-    (results.length === 0 ||
-      (exact && (!!expandedWords || /\s/.test(filterTextValue.trim()))))
+    modes.fuzzy && !queryLooksLikeUrl && results.length === 0
   const fallbackQuery = mayNeedFallback
     ? buildTypoTolerantQuery(filterTextValue, ctx.termKeys)
     : null
