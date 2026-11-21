@@ -18,6 +18,7 @@ import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
 import { excluded, normalizeSearchUrl } from './shared'
+import { processIndexTerm, tokenizeSearchText } from './theme/search/tokenize'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
@@ -360,45 +361,12 @@ export const search: DefaultTheme.Config['search'] = {
         }
         return sections
       },
-      // \u26A0 tokenize + processTerm are duplicated in VPLocalSearchBox.vue's
-      // tokenizeIndexLike().  If you change the split regex, stop words, or
-      // min-length here, update the copy there too \u2014 search ranking breaks
-      // silently when they disagree.
+      // Shared with the search modal (theme/search/tokenize.ts), which
+      // re-applies these at query time instead of relying on themeConfig's
+      // function serialization (imported helpers don't survive it).
       options: {
-        tokenize: (text: string) =>
-          text
-            .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
-            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
-        processTerm: (term: string, fieldName?: string): any => {
-          term = term
-            .trim()
-            .toLowerCase()
-            .replace(/^\.+/, '')
-            .replace(/\.+$/, '')
-          const stopWords = [
-            'frontmatter',
-            '$frontmatter.synopsis',
-            'and',
-            'about',
-            'but',
-            'now',
-            'the',
-            'with',
-            'you'
-          ]
-          if (term.length < 2 || stopWords.includes(term)) return false
-
-          if (fieldName === 'text') {
-            const parts = term.split('.')
-            if (parts.length > 1) {
-              const newTerms = [term, ...parts]
-                .filter((t) => t.length >= 2)
-                .filter((t) => !stopWords.includes(t))
-              return newTerms
-            }
-          }
-          return term
-        }
+        tokenize: tokenizeSearchText,
+        processTerm: processIndexTerm
       },
       searchOptions: {
         combineWith: 'AND',

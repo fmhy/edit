@@ -9,6 +9,18 @@ import type { Query, SearchResult } from 'minisearch'
 import MiniSearch from 'minisearch'
 import { normalizeSearchUrl, stripSchemeAndWww } from '../../shared'
 import { planQuery } from './query'
+import {
+  foldText,
+  indexTermsOf,
+  INVISIBLE_CHARS_RE,
+  joinedFormOf,
+  MIN_TERM_LENGTH,
+  phraseKeys,
+  processIndexTerm,
+  processQueryTerm,
+  stemPrefixOf,
+  tokenizeSearchText
+} from './tokenize'
 
 export const RESULTS_PAGE_SIZE = 16
 export const MAX_RESULTS_IN_MEMORY = 200
@@ -75,42 +87,16 @@ export function computeCategoryCounts(results: (SearchResult & Result)[]) {
   return counts
 }
 
-// \u26A0 tokenizeIndexLike duplicates the tokenize + processTerm logic from
-// constants.ts (miniSearch.options).  If you change the split regex, stop
-// words, or min-length there, update this copy too \u2014 ranking breaks silently
-// when they disagree.
-export const TOKEN_STOP_WORDS = new Set([
-  'frontmatter',
-  '$frontmatter.synopsis',
-  'and',
-  'about',
-  'but',
-  'now',
-  'the',
-  'with',
-  'you'
-])
-export const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
-export const TOKEN_SPLIT_RE = /[\n\r #%*,=/:;?[\]{}()&]+/u
-export const MIN_TERM_LENGTH = 2
+export { INVISIBLE_CHARS_RE } from './tokenize'
 
-export function tokenizeIndexLike(
-  text: string,
-  splitDottedParts = false
-): string[] {
+// Query/link text as index terms: whole terms (query-time normalization), or
+// also their parts (yt-dlp -> yt, dlp, ytdlp) with `withParts`.
+export function tokenizeIndexLike(text: string, withParts = false): string[] {
+  if (withParts) return indexTermsOf(text)
   const out: string[] = []
-  const raw = text.replace(INVISIBLE_CHARS_RE, '').split(TOKEN_SPLIT_RE)
-  for (const piece of raw) {
-    if (!piece) continue
-    const t = piece.trim().toLowerCase().replace(/^\.+/, '').replace(/\.+$/, '')
-    if (t.length < MIN_TERM_LENGTH || TOKEN_STOP_WORDS.has(t)) continue
-    out.push(t)
-    if (splitDottedParts && t.includes('.')) {
-      for (const part of t.split('.')) {
-        if (part.length >= MIN_TERM_LENGTH && !TOKEN_STOP_WORDS.has(part))
-          out.push(part)
-      }
-    }
+  for (const token of tokenizeSearchText(text)) {
+    const term = processQueryTerm(token)
+    if (term) out.push(term)
   }
   return out
 }
@@ -576,27 +562,48 @@ export function findUrlMatches(
   return matches
 }
 
+// Bounded memo for per-keystroke work on strings that repeat across queries
+// (link phrases, section excerpts).
+function memoize<T>(fn: (text: string) => T, limit = 2000) {
+  const cache = new Map<string, T>()
+  return (text: string) => {
+    let value = cache.get(text)
+    if (value === undefined) {
+      if (cache.size >= limit) cache.clear()
+      value = fn(text)
+      cache.set(text, value)
+    }
+    return value
+  }
+}
+
+export const cachedPhraseKeys = memoize((text) => phraseKeys(text))
+const cachedLinkKey = memoize((text) => phraseKeys(text, true).raw)
+const cachedLinkTerms = memoize((phrase) => new Set(indexTermsOf(phrase)))
+
+// The query must appear as a phrase, compared on the same normalized words the
+// index uses (see phraseKeys), so "yt dlp" matches "yt-dlp" and "image
+// hosting" matches "Image Hosts".
 export function filterResults(
   results: (SearchResult & Result)[],
   filterTextValue: string
 ) {
-  const clean = (s: string) =>
-    s
-      .replace(INVISIBLE_CHARS_RE, '')
-      .replace(/<[^>]*>/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-      .toLowerCase()
+  const phrase = cachedPhraseKeys(filterTextValue)
+  if (!phrase.raw) return results
 
-  const phrase = clean(filterTextValue)
-  if (!phrase) return results
+  const contains = (text: string) => {
+    const keys = cachedPhraseKeys(text)
+    return (
+      keys.raw.includes(phrase.raw) || keys.stemmed.includes(phrase.stemmed)
+    )
+  }
 
   return results.filter((r) => {
-    if (clean(r.title).includes(phrase)) return true
-    if (r.titles.some((t) => clean(t).includes(phrase))) return true
+    if (contains(r.title)) return true
+    if (r.titles.some(contains)) return true
     if (r.urlMatched) return true
     if (!r.text) return true // Keep optimistically if text is not fetched yet
-    return clean(r.text).includes(phrase)
+    return contains(r.text)
   })
 }
 
@@ -605,21 +612,21 @@ export function createSearchIndex(
   parsed: any,
   miniSearchConfig?: { options?: object; searchOptions?: object }
 ) {
+  // Tokenizer and term processing come from the shared module rather than
+  // the serialized theme config, so they always match the build.
   return MiniSearch.loadJS<Result>(parsed, {
     fields: ['title', 'titles', 'text'],
     storeFields: ['title', 'titles'],
-    tokenize: (text: string) =>
-      text
-        .replace(INVISIBLE_CHARS_RE, '')
-        .split(TOKEN_SPLIT_RE)
-        .filter((t) => t),
+    ...miniSearchConfig?.options,
+    tokenize: tokenizeSearchText,
+    processTerm: processIndexTerm,
     searchOptions: {
       fuzzy: false,
       prefix: true,
       boost: { title: 4, text: 2, titles: 1 },
-      ...miniSearchConfig?.searchOptions
-    },
-    ...miniSearchConfig?.options
+      ...miniSearchConfig?.searchOptions,
+      processTerm: processQueryTerm
+    }
   })
 }
 
@@ -665,14 +672,14 @@ export function buildGlobalLinksData(customMetadata: CustomMetadata) {
     const item = customMetadata[key]
     if (item.s) {
       for (const phrase of item.s) {
-        for (const w of tokenizeIndexLike(phrase, true)) {
+        for (const w of indexTermsOf(phrase)) {
           globalStarredLinks.add(w)
         }
       }
     }
     if (item.l) {
       for (const phrase of item.l) {
-        for (const w of tokenizeIndexLike(phrase, true)) {
+        for (const w of indexTermsOf(phrase)) {
           globalLinks.add(w)
         }
       }
@@ -793,6 +800,77 @@ type QueryPlanContext = {
   queryLooksLikeUrl: boolean
 }
 
+interface Vocabulary {
+  terms: Set<string>
+  sorted: string[]
+}
+const vocabularies = new WeakMap<string[], Vocabulary>()
+
+function vocabularyOf(termKeys: string[]): Vocabulary {
+  let vocab = vocabularies.get(termKeys)
+  if (!vocab) {
+    vocab = { terms: new Set(termKeys), sorted: [...termKeys].sort() }
+    vocabularies.set(termKeys, vocab)
+  }
+  return vocab
+}
+
+function hasTermWithPrefix(vocab: Vocabulary, prefix: string) {
+  const { sorted } = vocab
+  let lo = 0
+  let hi = sorted.length
+  while (lo < hi) {
+    const mid = (lo + hi) >> 1
+    if (sorted[mid] < prefix) lo = mid + 1
+    else hi = mid
+  }
+  return lo < sorted.length && sorted[lo].startsWith(prefix)
+}
+
+// A run-together word that matches nothing ("ublockorigin") as two index
+// words, the second one possibly still being typed: ublock + origin.
+function splitCompound(vocab: Vocabulary, word: string): string[] | null {
+  if (!/^[\p{L}\p{N}]+$/u.test(word) || hasTermWithPrefix(vocab, word))
+    return null
+  for (let i = word.length - MIN_TERM_LENGTH; i >= MIN_TERM_LENGTH; i--) {
+    const head = word.slice(0, i)
+    const tail = word.slice(i)
+    if (vocab.terms.has(head) && hasTermWithPrefix(vocab, tail))
+      return [head, tail]
+  }
+  return null
+}
+
+/**
+ * One query clause per word, also accepting the forms the index stores for
+ * the same thing: the joined form ("yt-dlp" -> ytdlp), the stem ("emulators"
+ * -> emulator) and a compound split ("ublockorigin" -> ublock + origin).
+ * Returns null when no word needs more than itself.
+ */
+export function expandQueryWords(
+  termKeys: string[],
+  text: string
+): (string | Query)[] | null {
+  const vocab = vocabularyOf(termKeys)
+  let expanded = false
+  const clauses: (string | Query)[] = []
+  for (const token of tokenizeSearchText(text)) {
+    const word = processQueryTerm(token)
+    if (!word) continue
+    const forms: (string | Query)[] = [word]
+    for (const form of [joinedFormOf(word), stemPrefixOf(word)]) {
+      if (form && !forms.includes(form)) forms.push(form)
+    }
+    const split = splitCompound(vocab, word)
+    if (split) forms.push({ combineWith: 'AND', queries: split })
+    expanded ||= forms.length > 1
+    clauses.push(
+      forms.length > 1 ? { combineWith: 'OR', queries: forms } : word
+    )
+  }
+  return expanded ? clauses : null
+}
+
 /**
  * Runs the index query for `filterTextValue` and returns the full ranked pool
  * (before excerpt filtering / pagination, see selectResultsPage).
@@ -803,7 +881,11 @@ export function runSearch(
   modes: SearchModes
 ): { results: SearchHit[]; usedSubstringExpansion: boolean } {
   const { index } = ctx
-  let query: Query = filterTextValue
+  const expandedWords = expandQueryWords(ctx.termKeys, filterTextValue)
+  const wordsQuery: Query = expandedWords
+    ? { combineWith: 'AND', queries: expandedWords }
+    : filterTextValue
+  let query: Query = wordsQuery
   let usedSubstringExpansion = false
 
   const words = tokenizeIndexLike(filterTextValue)
@@ -822,7 +904,7 @@ export function runSearch(
 
   if (rewritten) {
     const parts = filterTextValue.split(/\s+/).filter((p) => p)
-    const planned: Query = {
+    const plannedQuery: Query = {
       combineWith: 'AND',
       queries: plan.required.map(groupQuery)
     }
@@ -831,11 +913,11 @@ export function runSearch(
         ? {
             combineWith: 'OR',
             queries: [
-              planned,
+              plannedQuery,
               { queries: [parts.join('-')], combineWith: 'AND', fuzzy }
             ]
           }
-        : planned
+        : plannedQuery
   } else if (modes.fuzzy) {
     query = buildTypoTolerantQuery(filterTextValue, ctx.termKeys) ?? query
   }
@@ -851,7 +933,7 @@ export function runSearch(
     (!rewritten || (words.length === 1 && plan.optional.length === 0))
   ) {
     const candidateTerms: string[] = []
-    const match = filterTextValue.toLowerCase()
+    const match = foldText(filterTextValue).toLowerCase()
     for (const term of ctx.termKeys) {
       if (term.includes(match) && term !== match) {
         candidateTerms.push(term)
@@ -864,7 +946,7 @@ export function runSearch(
       usedSubstringExpansion = true
       query = {
         combineWith: 'OR',
-        queries: [rewritten ? query : filterTextValue, ...capped]
+        queries: [rewritten ? query : wordsQuery, ...capped]
       }
     }
   }
@@ -902,8 +984,8 @@ export function runSearch(
   )
 
   // Fallback chain: when the exact query finds nothing (or, for multi-word
-  // queries, may find nothing once the phrase check runs on excerpts), also
-  // run the typo-tolerant query. Its hits are appended as a separate pool
+  // queries or expanded words, may find nothing once the phrase check runs on
+  // excerpts), also run the typo-tolerant query. Its hits are appended as a separate pool
   // (a section can be in both) that is only shown when no exact hit survives
   // (see selectResultsPage).
   // A rewritten query searches for more than the literal text, so like
@@ -913,7 +995,8 @@ export function runSearch(
   const mayNeedFallback =
     !modes.fuzzy &&
     !queryLooksLikeUrl &&
-    (results.length === 0 || (exact && /\s/.test(filterTextValue.trim())))
+    (results.length === 0 ||
+      (exact && (!!expandedWords || /\s/.test(filterTextValue.trim()))))
   const fallbackQuery = mayNeedFallback
     ? buildTypoTolerantQuery(filterTextValue, ctx.termKeys)
     : null
@@ -1026,8 +1109,8 @@ function rankResults(
   const queryStems = tokenizeIndexLike(q).map(stemWord)
   const titlePhrases = planned.queryLooksLikeUrl
     ? []
-    : headingPhrases(
-        rewritten ? plan.required : planned.words.map((w) => [w]))
+    : headingPhrases(rewritten ? plan.required : planned.words.map((w) => [w]))
+  const qKey = cachedLinkKey(filterTextValue)
 
   const boostedResults = currentResults.map((r) => {
     const meta = customMetadata[r.id]
@@ -1046,8 +1129,9 @@ function rankResults(
     ) => {
       if (!phrases) return
       for (const phrase of phrases) {
-        let exact = !!q && phrase === q
-        let prefix = !exact && !!q && phrase.startsWith(q)
+        const phraseKey = cachedLinkKey(phrase)
+        let exact = !!qKey && phraseKey === qKey
+        let prefix = !exact && !!qKey && phraseKey.startsWith(qKey)
         if (queryReadings.length > 0 && !exact && !prefix) {
           const words = tokenizeIndexLike(phrase)
           for (const reading of queryReadings) {
@@ -1074,7 +1158,7 @@ function rankResults(
           if (isStarred) hasStarredPrefix = true
         }
         if (lowerTerms.length > 0) {
-          const tokens = new Set(tokenizeIndexLike(phrase, true))
+          const tokens = cachedLinkTerms(phrase)
           if (lowerTerms.some((t) => tokens.has(t))) {
             if (isStarred) hasStarredWord = true
             else hasLinkWord = true
