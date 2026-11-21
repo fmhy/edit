@@ -15,7 +15,12 @@ import {
   sidebar,
   socialLinks
 } from './constants'
-import { generateFeed, generateImages, generateMeta } from './hooks'
+import {
+  generateFeed,
+  generateImages,
+  generateMeta,
+  generateSemanticIndex
+} from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { localLinksPlugin } from './markdown/localLinks'
@@ -149,6 +154,7 @@ export default defineConfig({
     try {
       await generateImages(context)
       await generateFeed(context)
+      await generateSemanticIndex(context)
       consola.success('Build hooks completed successfully.')
     } catch (error) {
       consola.error('Build hook failed:', error)
