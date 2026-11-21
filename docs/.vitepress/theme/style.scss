@@ -544,6 +544,37 @@ html.halloween {
   }
 }
 
+/* ?hl= jump highlight (What's New): flashes, then persists until next click. */
+.vp-hl-target {
+  border-radius: 4px;
+  outline: 2px solid var(--vp-scroll-match-bg);
+  outline-offset: 2px;
+  background-color: var(--vp-scroll-match-bg);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .vp-hl-target {
+    animation: vp-hl-pulse 0.9s ease-in-out 3;
+  }
+}
+
+@media (forced-colors: active) {
+  .vp-hl-target {
+    outline-color: Highlight;
+  }
+}
+
+@keyframes vp-hl-pulse {
+  0%,
+  100% {
+    background-color: var(--vp-scroll-match-bg);
+  }
+
+  50% {
+    background-color: transparent;
+  }
+}
+
 /* Search modal blurred backdrop */
 .VPLocalSearchBox .backdrop {
   backdrop-filter: blur(8px);

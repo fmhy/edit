@@ -10,6 +10,8 @@ const OUTPUT_FILE = 'docs/recently-removed.md'
 const NEW_DAYS = 7
 const NEW_SITES_FILE = 'docs/.vitepress/new-sites.json'
 
+const CHANGES_FILE = 'docs/public/changes.json'
+
 const IGNORED_FILES = [
   'docs/posts.md',
   'docs/unsafe.md',
@@ -18,6 +20,7 @@ const IGNORED_FILES = [
   'docs/index.md',
   'docs/startpage.md',
   'docs/single-page.md',
+  'docs/changes.md',
   'docs/public/single-page.md',
   OUTPUT_FILE
 ]
@@ -240,10 +243,27 @@ function parseInlineLinks(markdown, children) {
   return result
 }
 
+// VitePress's heading slugger (dist chunk). Duplicate titles share one id —
+// no dedup suffixes — so the anchor always resolves to the first occurrence.
+const rControl = /[-\u001f]/g
+const rCombining = /[\u0300-\u036f]/g
+const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”‘’<>,.?/]+/g
+const slugifyHeading = (str) =>
+  str
+    .normalize('NFKD')
+    .replace(rCombining, '')
+    .replace(rControl, '')
+    .replace(rSpecial, '-')
+    .replace(/-{2,}/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .replace(/^(\d)/, '_$1')
+    .toLowerCase()
+
 function parseDocument(markdown, source) {
   const urls = new Set()
   const bullets = []
   const headings = []
+  const anchors = []
   const lines = source.split('\n')
   const hasAttributes =
     source.includes('{') || markdown.utils.unescapeAll(source).includes('{')
@@ -265,6 +285,8 @@ function parseDocument(markdown, source) {
         .trim()
       headings[level - 1] = title
       headings.length = level
+      anchors[level - 1] = slugifyHeading(title)
+      anchors.length = level
     }
     if (token.type === 'html_block') {
       for (const url of extractHtmlUrls(markdown, token.content)) urls.add(url)
@@ -282,6 +304,7 @@ function parseDocument(markdown, source) {
         text,
         links,
         section: headings.filter(Boolean),
+        anchor: anchors.filter(Boolean).at(-1),
         lineNum: start + 1,
         endLine: end,
         source: token.content
@@ -325,6 +348,10 @@ async function generateRemovedSites() {
   console.log(`Current working directory: ${process.cwd()}`)
   // Start empty so an early return (no Git history) never leaves stale badges.
   fs.writeFileSync(NEW_SITES_FILE, '{}\n')
+  fs.writeFileSync(
+    CHANGES_FILE,
+    JSON.stringify({ days: DAYS, generatedAt: null, commits: [] })
+  )
 
   // Verify docs directory exists
   if (!fs.existsSync('docs')) {
@@ -644,7 +671,31 @@ async function generateRemovedSites() {
           ),
           addedBullets: after.bullets.filter((bullet) =>
             bullet.links.some((link) => addedUrls.has(link.url))
-          )
+          ),
+          // Description edits keep every URL: pair bullets by their exact
+          // link set, then flag the ones whose text changed.
+          modifiedBullets: after.bullets.filter((bullet) => {
+            if (!bullet.links.length) return false
+            if (bullet.links.some((link) => addedUrls.has(link.url)))
+              return false
+            const linkSet = bullet.links
+              .map((link) => link.url)
+              .sort()
+              .join('\0')
+            const beforeBullet = before.bullets.find(
+              (other) =>
+                other.links.length === bullet.links.length &&
+                other.links
+                  .map((link) => link.url)
+                  .sort()
+                  .join('\0') === linkSet
+            )
+            if (!beforeBullet) return false
+            const normalize = (text) => text.replace(/\s+/g, ' ').trim()
+            if (normalize(beforeBullet.source) === normalize(bullet.source))
+              return false
+            return true
+          })
         })
       }
       commits.push({ hash, msg, date, changes })
@@ -675,6 +726,8 @@ async function generateRemovedSites() {
     .toISOString()
     .slice(0, 10)
   const newSites = new Map()
+  const changeCommits = []
+  const pageOf = (file) => file.replace(/^docs\//, '').replace(/\.md$/, '')
 
   // Historical primary occurrences can establish ambiguous grouped peers.
   for (const { hash, msg, date, changes } of commits) {
@@ -683,6 +736,8 @@ async function generateRemovedSites() {
     )
     const removed = []
     const added = []
+    const addedBulletEntries = []
+    const modifiedBulletEntries = []
     for (const change of changes) {
       for (const bullet of change.removedBullets) {
         const { resources, description } = extractResources(
@@ -707,11 +762,27 @@ async function generateRemovedSites() {
           bullet.links,
           knownResources
         )
+        const keys = []
         for (const resource of resources) {
-          if (change.addedUrls.has(resource.url))
+          if (change.addedUrls.has(resource.url)) {
+            keys.push(resourceKey(resource))
             added.push({ ...resource, description })
+          }
         }
+        if (keys.length)
+          addedBulletEntries.push({
+            link: bullet.source,
+            source: pageOf(change.file),
+            anchor: bullet.anchor,
+            keys
+          })
       }
+      for (const bullet of change.modifiedBullets ?? [])
+        modifiedBulletEntries.push({
+          link: bullet.source,
+          source: pageOf(change.file),
+          anchor: bullet.anchor
+        })
     }
 
     if (date >= newCutoff) {
@@ -745,6 +816,7 @@ async function generateRemovedSites() {
       newByName.get(name).set(resourceKey(item), item)
     }
     const updated = new Set()
+    const matchedNew = new Set()
     for (const [name, oldItems] of oldByName) {
       const newItems = newByName.get(name)
       if (!newItems) continue
@@ -763,6 +835,7 @@ async function generateRemovedSites() {
         if (oldPeers.length !== 1 || newPeers.length !== 1) continue
         updated.add(resourceKey(oldItem))
         usedNew.add(resourceKey(newPeers[0]))
+        matchedNew.add(resourceKey(newPeers[0]))
       }
       const remainingOld = oldValues.filter(
         (item) => !updated.has(resourceKey(item))
@@ -786,9 +859,29 @@ async function generateRemovedSites() {
       if (
         sharedPrefix ||
         (oldItem.file === newItem.file && oldItem.lineNum === newItem.lineNum)
-      )
+      ) {
         updated.add(resourceKey(oldItem))
+        matchedNew.add(resourceKey(newItem))
+      }
     }
+
+    const addedEntries = [
+      ...addedBulletEntries.map((bullet) => ({
+        link: bullet.link,
+        source: bullet.source,
+        anchor: bullet.anchor,
+        type: bullet.keys.some((key) => matchedNew.has(key)) ? 'updated' : 'new'
+      })),
+      ...modifiedBulletEntries.map((bullet) => ({
+        link: bullet.link,
+        source: bullet.source,
+        anchor: bullet.anchor,
+        type: 'updated'
+      }))
+    ]
+    if (addedEntries.length)
+      changeCommits.push({ sha: hash, date, message: msg, added: addedEntries })
+
     for (const item of removed) {
       if (
         updated.has(resourceKey(item)) ||
@@ -903,6 +996,14 @@ async function generateRemovedSites() {
   fs.writeFileSync(
     NEW_SITES_FILE,
     `${JSON.stringify(Object.fromEntries([...newSites].sort()), null, 2)}\n`
+  )
+  fs.writeFileSync(
+    CHANGES_FILE,
+    JSON.stringify({
+      days: DAYS,
+      generatedAt: new Date().toISOString(),
+      commits: changeCommits
+    })
   )
   console.log(
     `Marked ${newSites.size} entries added in the last ${NEW_DAYS} days as new.`
