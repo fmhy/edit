@@ -141,6 +141,8 @@ const isSemanticSearch = useLocalStorage(
   false
 )
 const semanticStatus = ref<'idle' | 'loading' | 'ready' | 'error'>('idle')
+// Exact, fuzzy and semantic are one three-way mode.
+if (isSemanticSearch.value) isFuzzySearch.value = false
 
 // Start downloading the model as soon as semantic search is on, so it is
 // usually ready by the time the first query is typed.
@@ -1320,15 +1322,14 @@ const translate = createSearchTranslate(defaultTranslations)
 const customTitles = {
   prevMatch: 'Previous match',
   nextMatch: 'Next match',
-  fuzzyOn: 'Switch to Exact Search',
+  fuzzyOn: 'Switch to Semantic Search (downloads a 7 MB model once)',
   fuzzyOff: 'Switch to Fuzzy Search',
   urlOn: 'Only search names and text',
   urlOff: 'Search link URLs too',
   urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
-  semanticOn: 'Semantic search on. Click to search keywords only',
-  semanticOff: 'Search by meaning too (downloads a 7 MB model once)',
+  semanticOn: 'Switch to Exact Search',
   semanticLoading: 'Loading semantic search model...',
-  semanticError: 'Semantic search failed to load. Click to turn it off',
+  semanticError: 'Semantic search failed to load. Click for exact search',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches',
   detailedViewOn: 'Detailed view',
@@ -1491,16 +1492,20 @@ function handleInput(e: Event) {
   filterText.value = (e.target as HTMLInputElement).value
 }
 
+// Cycles exact -> fuzzy -> semantic -> exact.
 function toggleFuzzySearch() {
-  isFuzzySearch.value = !isFuzzySearch.value
+  const fuzzy = isFuzzySearch.value
+  isFuzzySearch.value = !fuzzy && !isSemanticSearch.value
+  isSemanticSearch.value = fuzzy
+}
+
+function tryFuzzySearch() {
+  isFuzzySearch.value = true
+  isSemanticSearch.value = false
 }
 
 function toggleUrlSearch() {
   isUrlSearch.value = !isUrlSearch.value
-}
-
-function toggleSemanticSearch() {
-  isSemanticSearch.value = !isSemanticSearch.value
 }
 
 function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
@@ -1706,20 +1711,38 @@ function isSamePageComparison(destPath: string) {
               <button
                 class="toggle-fuzzy-button"
                 type="button"
-                :class="{ 'fuzzy-active': isFuzzySearch }"
-                :aria-pressed="isFuzzySearch"
+                :class="{
+                  'fuzzy-active': isFuzzySearch || isSemanticSearch,
+                  'semantic-error':
+                    isSemanticSearch && semanticStatus === 'error'
+                }"
+                :aria-pressed="isFuzzySearch || isSemanticSearch"
                 :title="
-                  isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
+                  isFuzzySearch
+                    ? customTitles.fuzzyOn
+                    : !isSemanticSearch
+                      ? customTitles.fuzzyOff
+                      : semanticStatus === 'loading'
+                        ? customTitles.semanticLoading
+                        : semanticStatus === 'error'
+                          ? customTitles.semanticError
+                          : customTitles.semanticOn
                 "
                 @click="toggleFuzzySearch"
               >
                 <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
+                <span
+                  v-else-if="isSemanticSearch"
+                  class="semantic-icon i-lucide:brain"
+                />
                 <span v-else class="exact-icon">=</span>
                 <span class="visually-hidden">
                   {{
                     isFuzzySearch
                       ? 'Fuzzy Search Active'
-                      : 'Exact Search Active'
+                      : isSemanticSearch
+                        ? 'Semantic Search Active'
+                        : 'Exact Search Active'
                   }}
                 </span>
               </button>
@@ -1749,36 +1772,6 @@ function isSamePageComparison(destPath: string) {
                       : urlSearchAuto
                         ? 'URL Search Auto-Active'
                         : 'URL Search Off'
-                  }}
-                </span>
-              </button>
-
-              <button
-                class="toggle-semantic-button"
-                type="button"
-                :class="{
-                  'semantic-active': isSemanticSearch,
-                  'semantic-error':
-                    isSemanticSearch && semanticStatus === 'error'
-                }"
-                :aria-pressed="isSemanticSearch"
-                :title="
-                  !isSemanticSearch
-                    ? customTitles.semanticOff
-                    : semanticStatus === 'loading'
-                      ? customTitles.semanticLoading
-                      : semanticStatus === 'error'
-                        ? customTitles.semanticError
-                        : customTitles.semanticOn
-                "
-                @click="toggleSemanticSearch"
-              >
-                <span class="semantic-icon i-lucide:sparkles" />
-                <span class="visually-hidden">
-                  {{
-                    isSemanticSearch
-                      ? 'Semantic Search Active'
-                      : 'Semantic Search Off'
                   }}
                 </span>
               </button>
@@ -1973,7 +1966,7 @@ function isSamePageComparison(destPath: string) {
                   {{ translate('modal.noResultsText') }} "{{ filterText }}"
                 </div>
                 <div v-if="!isFuzzySearch" class="no-results-actions">
-                  <button class="try-fuzzy-btn" @click="isFuzzySearch = true">
+                  <button class="try-fuzzy-btn" @click="tryFuzzySearch">
                     Try fuzzy search?
                   </button>
                   <template v-if="autoSuggestions.length">
@@ -2290,8 +2283,7 @@ function isSamePageComparison(destPath: string) {
 .search-actions button:not([disabled]):hover,
 .toggle-layout-button.detailed-list,
 .toggle-fuzzy-button.fuzzy-active,
-.toggle-url-button.url-active,
-.toggle-semantic-button.semantic-active {
+.toggle-url-button.url-active {
   color: var(--vp-c-brand-1);
 }
 
@@ -3039,30 +3031,12 @@ svg {
   opacity: 0.6;
 }
 
-.toggle-semantic-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  border-radius: 4px;
-  transition: all 0.2s;
-}
-
-.toggle-semantic-button .semantic-icon {
+.toggle-fuzzy-button .semantic-icon {
   width: 18px;
   height: 18px;
 }
 
-.toggle-semantic-button:hover {
-  background: var(--vp-c-bg-soft);
-}
-
-.toggle-semantic-button.semantic-active {
-  background: var(--vp-c-bg-soft);
-}
-
-.search-actions .toggle-semantic-button.semantic-error {
+.search-actions .toggle-fuzzy-button.semantic-error {
   color: var(--vp-c-danger-1);
 }
 
