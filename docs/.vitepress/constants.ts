@@ -403,31 +403,40 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
+        // Self-contained: VitePress serializes this function into the client.
+        // `term` is the matched index term; compare it against the section's
+        // own heading and its ancestor headings as whole index-like tokens.
         boostDocument: (
           documentId: string,
           term: string,
           storedFields?: Record<string, unknown>
         ) => {
-          const titles = ((storedFields?.titles as string[]) || [])
-            .filter((t) => Boolean(t))
-            .map((t) => t.toLowerCase())
+          const headingHas = (heading: unknown) =>
+            String(heading ?? '')
+              .replace(/<[^>]*>/g, ' ')
+              .toLowerCase()
+              .split(/[\n\r #%*,=/:;?[\]{}()&]+/u)
+              .some((t) => t.replace(/^\.+|\.+$/g, '') === term)
 
           let boost = 1
-
-          // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
-          const titleIndex =
-            titles
-              .map((t, i) => (t?.includes(term) ? i : -1))
-              .find((i) => i >= 0) ?? -1
-          if (titleIndex >= 0) {
-            boost = 10000 - titleIndex
+          if (headingHas(storedFields?.title)) {
+            boost = 3
+          } else {
+            const titles = (storedFields?.titles as string[]) || []
+            for (let i = titles.length - 1; i >= 0; i--) {
+              if (headingHas(titles[i])) {
+                boost = i === 0 ? 1.2 : 1.5
+                break
+              }
+            }
           }
 
-          // Downrank posts and other pages
-          if (documentId.match(/\/posts/)) {
+          // Archive-like pages (posts, other, removed/unsafe lists) and
+          // language-specific lists are less likely to be what is meant.
+          if (/^\/(posts|other|recently-removed|unsafe)\b/.test(documentId)) {
             boost *= 0.1
-          } else if (documentId.match(/\/other/)) {
-            boost *= 0.1
+          } else if (/^\/non-english\b/.test(documentId)) {
+            boost *= 0.5
           }
 
           return boost

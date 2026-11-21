@@ -34,6 +34,8 @@ export interface Result {
 
 export interface BoostFlags {
   hasStarredExact: boolean
+  hasTitleExact: boolean
+  hasTitleAll: boolean
   hasExact: boolean
   hasStarredPrefix: boolean
   hasPrefix: boolean
@@ -109,6 +111,17 @@ export function tokenizeIndexLike(
     }
   }
   return out
+}
+
+// Light suffix stripping for heading matches ("readers" ~ "reader",
+// "adblocking" ~ "adblock"); never applied to the index itself.
+const STEM_SUFFIXES = ['ing', 'ers', 'er', 's']
+export function stemWord(word: string) {
+  for (const suffix of STEM_SUFFIXES) {
+    if (word.endsWith(suffix) && word.length - suffix.length >= 3)
+      return word.slice(0, -suffix.length)
+  }
+  return word
 }
 
 export function normalizeUrlSearchValue(value: string) {
@@ -546,7 +559,9 @@ export function findUrlMatches(
     perDomain.set(rec.registrable, seen + 1)
     matches.push({
       id: rec.id,
-      score: 1,
+      // A URL that is the site itself (no path) names the entry, rather than
+      // a guide or sub-page linked from it.
+      score: rec.rank + (rec.hostPath.replace(/\/$/, '') === rec.host ? 1 : 0),
       terms: [query],
       queryTerms: [query],
       match: {},
@@ -708,6 +723,22 @@ export function rankAutoSuggestions(
   } catch {
     return []
   }
+}
+
+// Archive-like pages (posts, other, removed/unsafe lists) and the
+// language-specific lists rank after the main wiki, unless the query matched
+// the section's ancestor headings (e.g. "italian streaming", "recently removed").
+const ARCHIVE_PAGE_RE = /^\/(posts|other|recently-removed|unsafe)\b/
+const LOCALIZED_PAGE_RE = /^\/non-english\b/
+
+export function sectionPageRank(r: SearchHit) {
+  const archive = ARCHIVE_PAGE_RE.test(r.id)
+  if (!archive && !LOCALIZED_PAGE_RE.test(r.id)) return 0
+  const matchedAncestors = Object.values(r.match ?? {}).some((fields) =>
+    fields.includes('titles')
+  )
+  if (matchedAncestors) return 0
+  return archive ? 2 : 1
 }
 
 export interface SearchContext {
@@ -885,6 +916,7 @@ function rankResults(
     if (rawWords.length > 1) queryReadings.push([rawWords.join('-')])
   }
   const keys = termKeySet(ctx.termKeys)
+  const queryStems = tokenizeIndexLike(q).map(stemWord)
 
   const boostedResults = currentResults.map((r) => {
     const meta = customMetadata[r.id]
@@ -951,9 +983,20 @@ function rankResults(
     const hasStarredUrl = !!r.urlMatchedStarred
     const hasLinkUrl = !!r.urlMatched && !hasStarredUrl
 
+    // The section's own heading names what the user typed: "recipes" ->
+    // Recipes, "rss reader" -> RSS Readers.
+    const titleStems = tokenizeIndexLike(r.title || '').map(stemWord)
+    const hasTitleAll =
+      queryStems.length > 0 && queryStems.every((t) => titleStems.includes(t))
+    const hasTitleExact =
+      hasTitleAll && titleStems.join(' ') === queryStems.join(' ')
+
     return {
       ...r,
+      pageRank: sectionPageRank(r),
       hasStarredExact,
+      hasTitleExact,
+      hasTitleAll,
       hasExact,
       hasStarredPrefix,
       hasPrefix,
@@ -966,6 +1009,7 @@ function rankResults(
 
   const tierKeys: (keyof BoostFlags)[] = [
     'hasStarredExact',
+    'hasTitleAll',
     'hasExact',
     'hasStarredPrefix',
     'hasPrefix',
@@ -976,10 +1020,14 @@ function rankResults(
   ]
 
   boostedResults.sort((a, b) => {
+    if (a.pageRank !== b.pageRank) return a.pageRank - b.pageRank
     for (const key of tierKeys) {
       const av = a[key] ? 1 : 0
       const bv = b[key] ? 1 : 0
       if (av !== bv) return bv - av
+      // Among heading matches, the heading that is exactly the query wins.
+      if (key === 'hasTitleAll' && av && a.hasTitleExact !== b.hasTitleExact)
+        return a.hasTitleExact ? -1 : 1
     }
     if (b.score !== a.score) return b.score - a.score
     // Deterministic fallback for exact score ties so equal-scored results
