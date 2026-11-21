@@ -28,6 +28,8 @@ export interface Result {
   text?: string
   urlMatched?: boolean
   urlMatchedStarred?: boolean
+  // Came from the typo-tolerant fallback query, not the exact one.
+  fallback?: boolean
 }
 
 export interface BoostFlags {
@@ -59,7 +61,10 @@ export function resultCategoryOf(id: string): string {
 
 export function computeCategoryCounts(results: (SearchResult & Result)[]) {
   const counts = new Map<string, number>()
+  const seen = new Set<string>()
   for (const r of results) {
+    if (seen.has(r.id)) continue
+    seen.add(r.id)
     const category = resultCategoryOf(r.id)
     counts.set(category, (counts.get(category) ?? 0) + 1)
   }
@@ -206,9 +211,114 @@ export const MAX_URL_MATCHES_TOTAL = 60
 // needles keep substring matching so intentional fragments still work.
 export const MIN_SUBSTRING_NEEDLE_LENGTH = 4
 
+// Edits allowed per term, by term length: short terms must be exact (every
+// 3-letter edit is another real word), longer terms tolerate more typos.
 export function fuzzyTolerance(term: string) {
   if (term.length < 5) return false
   return term.length < 9 ? 1 : 2
+}
+
+// Levenshtein (what MiniSearch's fuzzy uses) counts a swapped letter pair as
+// two edits, so the most common typo ("stermio", "fitgril") falls outside the
+// tolerance above. Index terms one adjacent swap away are added explicitly and
+// weighted like a one-edit fuzzy match.
+const termKeySets = new WeakMap<string[], Set<string>>()
+
+function termKeySet(termKeys: string[]) {
+  let keys = termKeySets.get(termKeys)
+  if (!keys) {
+    keys = new Set(termKeys)
+    termKeySets.set(termKeys, keys)
+  }
+  return keys
+}
+
+function transpositionsInIndex(term: string, termKeys: string[]) {
+  if (term.length < 4) return []
+  const keys = termKeySet(termKeys)
+  const found = new Set<string>()
+  for (let i = 0; i < term.length - 1; i++) {
+    if (term[i] === term[i + 1]) continue
+    const swapped = term.slice(0, i) + term[i + 1] + term[i] + term.slice(i + 2)
+    if (keys.has(swapped)) found.add(swapped)
+  }
+  return [...found]
+}
+
+const FUZZY_WEIGHT = 0.45
+
+// Optimal string alignment distance (Levenshtein + adjacent swaps), capped:
+// returns max + 1 as soon as the distance is known to exceed `max`.
+function editDistanceWithin(a: string, b: string, max: number) {
+  if (Math.abs(a.length - b.length) > max) return max + 1
+  let prev2: number[] = []
+  let prev = Array.from({ length: b.length + 1 }, (_, j) => j)
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i]
+    let rowMin = i
+    for (let j = 1; j <= b.length; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1
+      let d = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost)
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) {
+        d = Math.min(d, prev2[j - 2] + 1)
+      }
+      cur.push(d)
+      rowMin = Math.min(rowMin, d)
+    }
+    if (rowMin > max) return max + 1
+    prev2 = prev
+    prev = cur
+  }
+  return prev[b.length]
+}
+
+// Whether index term `term` is what the user meant by query word `word`: the
+// word itself or its completion, or, only when the word is not an index term
+// (a typo), a term within its edit budget. Keeps "ublock" from treating
+// "unblock" links as exact matches.
+function standsForQueryWord(term: string, word: string, keys: Set<string>) {
+  if (term.startsWith(word)) return true
+  if (keys.has(word)) return false
+  const budget = fuzzyTolerance(word) || (word.length >= 4 ? 1 : 0)
+  return budget > 0 && editDistanceWithin(word, term, budget) <= budget
+}
+
+// Typo-tolerant query: every word must match (AND), as a prefix ("watch"
+// also finds "watching", and the word being typed completes) or within its
+// length based edit budget, or one transposition away. The dashed join keeps
+// "yt dlp" -> "yt-dlp" working.
+export function buildTypoTolerantQuery(
+  text: string,
+  termKeys: string[]
+): Query | null {
+  const words = text.trim().toLowerCase().split(/\s+/).filter(Boolean)
+  const parts = words.flatMap((w) => tokenizeIndexLike(w))
+  if (parts.length === 0) return null
+  const termQuery = (term: string): Query => {
+    const swaps = transpositionsInIndex(term, termKeys)
+    const base: Query = {
+      queries: [term],
+      fuzzy: fuzzyTolerance(term),
+      prefix: true
+    }
+    if (swaps.length === 0) return base
+    const weight = (FUZZY_WEIGHT * term.length) / (term.length + 1)
+    return {
+      combineWith: 'OR',
+      queries: [
+        base,
+        { queries: swaps, fuzzy: false, prefix: false, boostTerm: () => weight }
+      ]
+    }
+  }
+  const queries: Query[] = [
+    {
+      combineWith: 'AND',
+      queries: parts.map(termQuery)
+    }
+  ]
+  if (words.length > 1) queries.push(termQuery(words.join('-')))
+  return { combineWith: 'OR', queries }
 }
 
 // Punctuation-insensitive form so "pihole" matches "pi-hole".
@@ -622,30 +732,12 @@ export function runSearch(
   filterTextValue: string,
   modes: SearchModes
 ): { results: SearchHit[]; usedSubstringExpansion: boolean } {
-  const { index, customMetadata } = ctx
+  const { index } = ctx
   let query: Query = filterTextValue
   let usedSubstringExpansion = false
 
   if (modes.fuzzy) {
-    const parts = filterTextValue.split(/\s+/).filter((p) => p)
-    if (parts.length > 0) {
-      const dashed = parts.join('-')
-      query = {
-        combineWith: 'OR',
-        queries: [
-          {
-            queries: parts,
-            combineWith: 'AND',
-            fuzzy: fuzzyTolerance
-          },
-          {
-            queries: [dashed],
-            combineWith: 'AND',
-            fuzzy: fuzzyTolerance
-          }
-        ]
-      }
-    }
+    query = buildTypoTolerantQuery(filterTextValue, ctx.termKeys) ?? query
   }
 
   /**
@@ -689,6 +781,47 @@ export function runSearch(
   const urlResults = searchUrls
     ? findUrlMatches(index, filterTextValue, ctx.urlIndex)
     : []
+  const results = rankResults(
+    ctx,
+    filterTextValue,
+    rawResults,
+    urlResults,
+    modes.fuzzy
+  )
+
+  // Fallback chain: when the exact query finds nothing (or, for multi-word
+  // queries, may find nothing once the phrase check runs on excerpts), also
+  // run the typo-tolerant query. Its hits are appended as a separate pool
+  // (a section can be in both) that is only shown when no exact hit survives
+  // (see selectResultsPage).
+  const exact = isExactSearchMode(modes.fuzzy, usedSubstringExpansion)
+  const mayNeedFallback =
+    !modes.fuzzy &&
+    !queryLooksLikeUrl &&
+    (results.length === 0 || (exact && /\s/.test(filterTextValue.trim())))
+  const fallbackQuery = mayNeedFallback
+    ? buildTypoTolerantQuery(filterTextValue, ctx.termKeys)
+    : null
+  if (fallbackQuery) {
+    const fallbackRaw = index.search(fallbackQuery, {
+      combineWith: 'AND'
+    }) as SearchHit[]
+    for (const r of rankResults(ctx, filterTextValue, fallbackRaw, [], true)) {
+      results.push({ ...r, fallback: true })
+    }
+  }
+
+  return { results, usedSubstringExpansion }
+}
+
+function rankResults(
+  ctx: SearchContext,
+  filterTextValue: string,
+  rawResults: SearchHit[],
+  urlResults: SearchHit[],
+  typoTolerant: boolean
+): SearchHit[] {
+  const { customMetadata } = ctx
   const mergedResultsById = new Map<string, SearchHit>()
   for (const result of rawResults) {
     mergedResultsById.set(result.id, result)
@@ -737,6 +870,21 @@ export function runSearch(
   // not against individual tokens. Strip zero-width characters from the
   // query to match the build-time normalization in extractLinkMetadata.
   const q = filterTextValue.replace(INVISIBLE_CHARS_RE, '').trim().toLowerCase()
+  // Typo-tolerant hits matched corrected terms ("obsidain" -> "obsidian"), so
+  // the literal query never equals a link text. Compare the link's leading
+  // words with the terms the hit actually matched instead.
+  // Two readings, as in buildTypoTolerantQuery: the separate words (unless
+  // a one-letter word was dropped by the tokenizer) and the dashed join
+  // ("u block" -> "u-block" ~ "ublock").
+  const rawWords = typoTolerant ? q.split(/\s+/).filter(Boolean) : []
+  const queryReadings: string[][] = []
+  if (rawWords.length > 0) {
+    if (rawWords.every((w) => w.length >= MIN_TERM_LENGTH)) {
+      queryReadings.push(rawWords.flatMap((w) => tokenizeIndexLike(w)))
+    }
+    if (rawWords.length > 1) queryReadings.push([rawWords.join('-')])
+  }
+  const keys = termKeySet(ctx.termKeys)
 
   const boostedResults = currentResults.map((r) => {
     const meta = customMetadata[r.id]
@@ -755,10 +903,30 @@ export function runSearch(
     ) => {
       if (!phrases) return
       for (const phrase of phrases) {
-        if (q && phrase === q) {
+        let exact = !!q && phrase === q
+        let prefix = !exact && !!q && phrase.startsWith(q)
+        if (queryReadings.length > 0 && !exact && !prefix) {
+          const words = tokenizeIndexLike(phrase)
+          for (const reading of queryReadings) {
+            if (
+              reading.length > 0 &&
+              words.length >= reading.length &&
+              reading.every(
+                (qw, i) =>
+                  lowerTerms.includes(words[i]) &&
+                  standsForQueryWord(words[i], qw, keys)
+              )
+            ) {
+              exact = words.length === reading.length
+              prefix = !exact
+              if (exact) break
+            }
+          }
+        }
+        if (exact) {
           hasExact = true
           if (isStarred) hasStarredExact = true
-        } else if (q && phrase.startsWith(q)) {
+        } else if (prefix) {
           hasPrefix = true
           if (isStarred) hasStarredPrefix = true
         }
@@ -822,7 +990,7 @@ export function runSearch(
     )
   })
 
-  return { results: boostedResults, usedSubstringExpansion }
+  return boostedResults
 }
 
 // Exact mode (no fuzzy, no substring expansion) verifies the phrase against
@@ -839,14 +1007,22 @@ export function resultCandidates(
   limit: number,
   exact: boolean
 ) {
-  return exact
-    ? scopedResults.slice(0, Math.max(MIN_CANDIDATE_POOL, limit * 2))
-    : scopedResults.slice(0, limit)
+  if (!exact) return scopedResults.slice(0, limit)
+  // The phrase check needs excerpts for the exact pool; the typo-tolerant
+  // fallback page is shown as is, so only its first page needs them.
+  const exactPool = scopedResults.filter((r) => !r.fallback)
+  const fallbackPool = scopedResults.filter((r) => r.fallback)
+  return [
+    ...exactPool.slice(0, Math.max(MIN_CANDIDATE_POOL, limit * 2)),
+    ...fallbackPool.slice(0, limit)
+  ]
 }
 
 /**
  * Picks the page of results shown to the user from the ranked pool.
  * `textOf(id)` returns the section excerpt HTML ('' when not loaded).
+ * `relaxed` = the page comes from the typo-tolerant query, so highlight the
+ * matched terms rather than the literal query.
  */
 export function selectResultsPage(
   scopedResults: SearchHit[],
@@ -862,33 +1038,45 @@ export function selectResultsPage(
   totalCount: number
   mayHaveMore: boolean
   postFiltered: SearchHit[] | null
+  relaxed: boolean
 } {
   const { limit, exact, detailed, filterText, textOf } = options
-  const candidates = resultCandidates(scopedResults, limit, exact)
-  if (exact) {
+  const exactPool = scopedResults.filter((r) => !r.fallback)
+  const fallbackPool = scopedResults.filter((r) => r.fallback)
+  if (exact && exactPool.length > 0) {
     // Exact mode runs in both views. A dynamic candidate pool keeps contiguous
     // phrase matches from being ranked away, and the list (and chips) look
     // the same in compact and detailed.
+    const candidates = exactPool.slice(
+      0,
+      Math.max(MIN_CANDIDATE_POOL, limit * 2)
+    )
     const mapped = candidates.map((r) => ({ ...r, text: textOf(r.id) }))
     const filtered = filterResults(mapped, filterText)
-    return {
-      finalResults: filtered.slice(0, limit),
-      totalCount: filtered.length,
-      // Untested remainder beyond the candidate pool may contain more matches;
-      // expanding the limit re-runs this with a larger candidate pool.
-      mayHaveMore: scopedResults.length > candidates.length,
-      postFiltered: filtered
+    if (filtered.length > 0 || fallbackPool.length === 0) {
+      return {
+        finalResults: filtered.slice(0, limit),
+        totalCount: filtered.length,
+        // Untested remainder beyond the candidate pool may contain more
+        // matches; expanding the limit re-runs this with a larger pool.
+        mayHaveMore: exactPool.length > candidates.length,
+        postFiltered: filtered,
+        relaxed: false
+      }
     }
   }
-  // Fuzzy search or substring expansion: slice to limit directly
-  const mapped = candidates.map((r) => ({
+  // Fuzzy search, substring expansion or the typo-tolerant fallback: slice to
+  // limit directly
+  const pool = exact || exactPool.length === 0 ? fallbackPool : scopedResults
+  const mapped = pool.slice(0, limit).map((r) => ({
     ...r,
     text: detailed ? textOf(r.id) : ''
   }))
   return {
     finalResults: mapped,
-    totalCount: mapped.length + Math.max(0, scopedResults.length - limit),
+    totalCount: pool.length,
     mayHaveMore: false,
-    postFiltered: null
+    postFiltered: pool === scopedResults ? null : pool,
+    relaxed: pool === fallbackPool
   }
 }

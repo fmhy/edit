@@ -519,7 +519,8 @@ watch(
       finalResults,
       totalCount,
       mayHaveMore: mayHaveMoreValue,
-      postFiltered
+      postFiltered,
+      relaxed
     } = selectResultsPage(scopedResults, {
       limit,
       exact: isExactSearch,
@@ -528,7 +529,9 @@ watch(
       textOf: lookupExcerptText
     })
 
-    if (isFuzzySearch.value) {
+    // Typo-tolerant results matched corrected terms, so highlight those.
+    const highlightMatchedTerms = isFuzzySearch.value || relaxed
+    if (highlightMatchedTerms) {
       for (const r of finalResults) {
         for (const term of Object.keys(r.match || {})) {
           terms.add(term)
@@ -541,12 +544,16 @@ watch(
       // the raw pool or the other chips disappear and you can't switch back.
       // Without a category, the post filtered set is what's shown (fuzzy/compact
       // don't filter, so allRes is it).
+      // allRes holds the exact pool and the typo-tolerant fallback pool;
+      // count only the one being shown.
       categoryCounts.value = computeCategoryCounts(
-        postFiltered && !category ? postFiltered : allRes
+        postFiltered && !category
+          ? postFiltered
+          : allRes.filter((r) => !!r.fallback === relaxed)
       )
     }
 
-    if (!isFuzzySearch.value) {
+    if (!highlightMatchedTerms) {
       terms.add(filterText.value)
     }
 
