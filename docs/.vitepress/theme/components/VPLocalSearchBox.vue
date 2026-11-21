@@ -9,6 +9,10 @@ const MARK_SAME_LINE_THRESHOLD_PX = 5
 
 // Permanent global cache for rendered excerpts keyed by page ID (build output is stable)
 const globalExcerptCache = new Map<string, Map<string, string>>()
+let excerptCacheIndex: object | null = null
+// Excerpts come from the stable per-page cache, so sanitize each one once
+// rather than on every re-render of the results list.
+const sanitizedExcerpts = new Map<string, string>()
 
 // Persisted results state across mount/unmount of the modal
 const globalLastQuery = ref('')
@@ -29,7 +33,7 @@ const globalMayHaveMore = ref(false)
 import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
-import type { CustomMetadata, Result, SidebarItem } from '../search/engine'
+import type { Result, SidebarItem } from '../search/engine'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -67,12 +71,8 @@ import {
   scheduleScrollToMatch
 } from '../composables/searchScroll'
 import {
-  buildGlobalLinksData,
-  buildUrlIndex,
   buildUrlQuery,
   computeCategoryCounts,
-  createSearchIndex,
-  getIndexTermKeys,
   isExactSearchMode,
   looksLikeUrlQuery,
   normalizeUrlSearchValue,
@@ -83,6 +83,7 @@ import {
   selectResultsPage,
   urlMatchesNormalizedUrl
 } from '../search/engine'
+import { loadSearchIndex } from '../search/indexLoader'
 import CriticalBadge from './CriticalBadge.vue'
 import Tooltip from './Tooltip.vue'
 
@@ -200,33 +201,16 @@ function onCategoryWheel(event: WheelEvent) {
   el.scrollLeft += event.deltaY
 }
 
-const customMetadata = shallowRef<CustomMetadata>({})
-
-const globalLinksData = computed(() =>
-  buildGlobalLinksData(customMetadata.value)
-)
-
-const urlIndex = computed(() => buildUrlIndex(customMetadata.value))
-
-const searchIndex = computedAsync(async () => {
-  const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
-  if (!rawIndex) return null
-  let parsed: any
-  try {
-    parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
-  } catch {
-    return null
-  }
-  customMetadata.value = parsed?.customMetadata || {}
-  return markRaw(
-    createSearchIndex(
-      parsed,
-      theme.value.search?.provider === 'local'
-        ? theme.value.search.options?.miniSearch
-        : undefined
-    )
+const loadedIndex = computedAsync(() =>
+  loadSearchIndex(
+    searchIndexData.value,
+    localeIndex.value,
+    theme.value.search?.provider === 'local'
+      ? theme.value.search.options?.miniSearch
+      : undefined
   )
-})
+)
+const searchIndex = computed(() => loadedIndex.value?.index ?? null)
 
 const disableQueryPersistence = computed(() => {
   return (
@@ -326,7 +310,7 @@ const autoSuggestions = computed(() => {
   return rankAutoSuggestions(
     searchIndex.value,
     filterText.value,
-    globalLinksData.value
+    loadedIndex.value!.globalLinksData
   )
 })
 
@@ -352,9 +336,6 @@ function getRelativeOffsetTop(
   return offsetTop
 }
 
-// Cached term keys for substring matching — rebuilt only when the search index changes
-let cachedTermKeys: string[] = []
-
 /**
  * Main search handler - debounced to avoid excessive re-renders while typing.
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
@@ -367,15 +348,17 @@ watch(
   { immediate: true }
 )
 
-// Rebuild term keys and clear cache on index change (locale switch or HMR)
+// Excerpts belong to the index's build; drop them only when it is replaced
+// (locale switch or HMR), not every time the modal reopens.
 watch(
   searchIndex,
   (index) => {
-    cache.clear()
-    if (index) {
-      cachedTermKeys = getIndexTermKeys(index)
-    } else {
-      cachedTermKeys = []
+    if (index && index !== excerptCacheIndex) {
+      if (excerptCacheIndex) {
+        cache.clear()
+        sanitizedExcerpts.clear()
+      }
+      excerptCacheIndex = index
     }
   },
   { immediate: true }
@@ -422,9 +405,9 @@ watchDebounced(
       runSearch(
         {
           index,
-          termKeys: cachedTermKeys,
-          customMetadata: customMetadata.value,
-          urlIndex: urlIndex.value,
+          termKeys: loadedIndex.value!.termKeys,
+          customMetadata: loadedIndex.value!.customMetadata,
+          urlIndex: loadedIndex.value!.urlIndex,
           sidebar: Array.isArray(sidebar) ? sidebar : []
         },
         filterTextValue,
@@ -814,6 +797,15 @@ function prevMatch(index: number) {
       })
     }
   }
+}
+
+function renderExcerpt(text: string) {
+  let html = sanitizedExcerpts.get(text)
+  if (html === undefined) {
+    html = sanitizeRichHtml(text)
+    sanitizedExcerpts.set(text, html)
+  }
+  return html
 }
 
 function lookupExcerptText(resultId: string): string {
@@ -1742,7 +1734,7 @@ function isSamePageComparison(destPath: string) {
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
                       <div v-if="p.text" class="excerpt" inert>
-                        <div class="vp-doc" v-html="sanitizeRichHtml(p.text)" />
+                        <div class="vp-doc" v-html="renderExcerpt(p.text)" />
                       </div>
 
                       <div class="excerpt-gradient-bottom" />
