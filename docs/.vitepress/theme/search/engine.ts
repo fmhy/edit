@@ -254,6 +254,29 @@ function transpositionsInIndex(term: string, termKeys: string[]) {
 
 const FUZZY_WEIGHT = 0.45
 
+const knownWords = new WeakMap<string[], Map<string, boolean>>()
+
+// Whether a query word names anything in the index: a term, the start of one,
+// or a term within its typo budget. Unknown words ("spiderman") are usually
+// titles the wiki doesn't list, so the query falls back to the user's intent.
+function isKnownWord(word: string, termKeys: string[]) {
+  let cache = knownWords.get(termKeys)
+  if (!cache) knownWords.set(termKeys, (cache = new Map()))
+  let known = cache.get(word)
+  if (known === undefined) {
+    const budget = fuzzyTolerance(word) || (word.length >= 4 ? 1 : 0)
+    known =
+      termKeySet(termKeys).has(word) ||
+      termKeys.some(
+        (term) =>
+          term.startsWith(word) ||
+          (budget > 0 && editDistanceWithin(word, term, budget) <= budget)
+      )
+    cache.set(word, known)
+  }
+  return known
+}
+
 // Optimal string alignment distance (Levenshtein + adjacent swaps), capped:
 // returns max + 1 as soon as the distance is known to exceed `max`.
 function editDistanceWithin(a: string, b: string, max: number) {
@@ -913,7 +936,7 @@ export function runSearch(
   let usedSubstringExpansion = false
 
   const words = tokenizeIndexLike(filterTextValue)
-  const plan = planQuery(words)
+  const plan = planQuery(words, (word) => isKnownWord(word, ctx.termKeys))
   const rewritten = plan.rewritten && plan.required.length > 0
   const fuzzy = modes.fuzzy ? fuzzyTolerance : false
   // Typo tolerance applies to what the user typed, not to expansions.

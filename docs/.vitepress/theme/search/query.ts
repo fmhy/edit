@@ -68,6 +68,36 @@ const FILLER_WORDS = new Set([
   'without'
 ])
 
+// Fillers that carry no intent at all. When a query has nothing but fillers,
+// the others ("watch", "free") are what it asks for.
+const QUESTION_WORDS = new Set([
+  'any',
+  'are',
+  'can',
+  'do',
+  'for',
+  'from',
+  'how',
+  'in',
+  'into',
+  'is',
+  'it',
+  'me',
+  'my',
+  'need',
+  'of',
+  'on',
+  'some',
+  'that',
+  'this',
+  'to',
+  'want',
+  'way',
+  'what',
+  'where',
+  'which'
+])
+
 // Platform words narrow a request rather than name it ("manga app android").
 // Values are the spelling used in headings.
 const PLATFORM_WORDS: Record<string, string[]> = {
@@ -188,32 +218,36 @@ function alternativesOf(word: string, extra: string[] = []) {
   return [...new Set(alts)]
 }
 
-// `words` are the query's index-like tokens (tokenizeIndexLike).
-export function planQuery(words: string[]): QueryPlan {
+// `words` are the query's index-like tokens (tokenizeIndexLike). `isKnown`
+// tells whether a word matches anything in the index.
+export function planQuery(
+  words: string[],
+  isKnown: (word: string) => boolean = () => true
+): QueryPlan {
   const content: string[][] = []
+  const unknown: string[][] = []
   const platform: string[][] = []
-  const filler: string[][] = []
+  const intent: string[][] = []
+  const question: string[][] = []
   for (const word of words) {
-    if (FILLER_WORDS.has(word)) filler.push(alternativesOf(word))
+    if (QUESTION_WORDS.has(word)) question.push(alternativesOf(word))
+    else if (FILLER_WORDS.has(word)) intent.push(alternativesOf(word))
     else if (word in PLATFORM_WORDS)
       platform.push(alternativesOf(word, PLATFORM_WORDS[word]))
-    else content.push(alternativesOf(word))
+    else if (word in EXPANSIONS || isKnown(word))
+      content.push(alternativesOf(word))
+    else unknown.push([word])
   }
 
   // Fall back to the next weakest kind of word when a query has nothing more
-  // specific ("mac apps", "free").
-  let required: string[][]
-  let optional: string[][]
-  if (content.length) {
-    required = content
-    optional = [...platform, ...filler]
-  } else if (platform.length) {
-    required = platform
-    optional = filler
-  } else {
-    required = filler
-    optional = []
-  }
+  // specific ("mac apps", "free"). Unknown words only give way to intent when
+  // no other content word is left ("where can i watch spiderman"), so
+  // "mortgage calculator" doesn't turn into "calculator".
+  if (content.length) content.push(...unknown.splice(0))
+  const kinds = [content, platform, intent, question, unknown]
+  const strongest = kinds.findIndex((kind) => kind.length > 0)
+  const required = strongest === -1 ? [] : kinds[strongest]
+  const optional = kinds.filter((_, i) => i !== strongest).flat()
 
   const rewritten =
     optional.length > 0 || required.some((group) => group.length > 1)
