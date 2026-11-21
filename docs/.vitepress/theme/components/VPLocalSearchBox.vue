@@ -83,6 +83,7 @@ import {
   selectResultsPage,
   urlMatchesNormalizedUrl
 } from '../search/engine'
+import { pickEntry } from '../search/entries'
 import { loadSearchIndex } from '../search/indexLoader'
 import CriticalBadge from './CriticalBadge.vue'
 import Tooltip from './Tooltip.vue'
@@ -602,29 +603,6 @@ watch(
       }
     }
 
-    const excerpts = Array.from(
-      resultsEl.value?.querySelectorAll(
-        '.result-item:not(.result-list-leave-active) .result .excerpt'
-      ) ?? []
-    ) as HTMLElement[]
-    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
-    for (const excerpt of excerpts) {
-      const markElement = excerpt.querySelector(
-        'mark[data-markjs="true"]'
-      ) as HTMLElement | null
-      if (markElement) {
-        const markRelTop = getRelativeOffsetTop(markElement, excerpt)
-        const scrollTop =
-          markRelTop -
-          (excerpt.clientHeight || 80) / 2 +
-          markElement.offsetHeight / 2
-        scrollTargets.push({ excerpt, scrollTop })
-      }
-    }
-    for (const { excerpt, scrollTop } of scrollTargets) {
-      excerpt.scrollTop = scrollTop
-    }
-
     /**
      * Custom feature: Initialize match navigation state.
      */
@@ -639,10 +617,27 @@ watch(
         item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []
       ) as HTMLElement[]
       if (marks.length > 0) {
-        newResultMarks.set(index, groupMarks(marks))
-        newCurrentMarkIndex.set(index, 0)
+        const groups = groupMarks(marks)
+        newResultMarks.set(index, groups)
+        newCurrentMarkIndex.set(index, focusedMarkGroup(item, groups, r))
       }
     })
+
+    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
+    for (const [index, groups] of newResultMarks) {
+      const markElement = groups[newCurrentMarkIndex.get(index) ?? 0][0]
+      const excerpt = markElement.closest<HTMLElement>('.excerpt')
+      if (!excerpt) continue
+      const markRelTop = getRelativeOffsetTop(markElement, excerpt)
+      const scrollTop =
+        markRelTop -
+        (excerpt.clientHeight || 80) / 2 +
+        markElement.offsetHeight / 2
+      scrollTargets.push({ excerpt, scrollTop })
+    }
+    for (const { excerpt, scrollTop } of scrollTargets) {
+      excerpt.scrollTop = scrollTop
+    }
     resultMarks.value = newResultMarks
     currentMarkIndex.value = newCurrentMarkIndex
 
@@ -663,6 +658,42 @@ watch(
   },
   { immediate: true }
 )
+
+// Curated entries are the top-level list items of an excerpt whose first link
+// is the entry name (only a star or bold may precede it).
+function entryNameOf(li: HTMLLIElement): string {
+  const link = li.querySelector('a')
+  const text = li.textContent ?? ''
+  const name = link?.textContent ?? ''
+  const at = name ? text.indexOf(name) : -1
+  if (at === -1 || text.slice(0, at).replace(/[\s⭐🌟]/gu, '')) return ''
+  return name
+}
+
+// Starts match navigation (excerpt scroll, current mark, page highlight) on the
+// entry the result is about instead of the section's first match.
+function focusedMarkGroup(
+  item: Element | null | undefined,
+  groups: HTMLElement[][],
+  r: Result & SearchResult
+): number {
+  const lis = Array.from(
+    item?.querySelectorAll<HTMLLIElement>('.excerpt .vp-doc > ul > li') ?? []
+  )
+  const best = pickEntry(
+    lis.map((li) => ({
+      name: entryNameOf(li),
+      starred: li.classList.contains('starred')
+    })),
+    filterText.value,
+    Object.keys(r.match ?? {})
+  )
+  if (best === -1) return 0
+  return Math.max(
+    0,
+    groups.findIndex((g) => lis[best].contains(g[0]))
+  )
+}
 
 /**
  * Merges adjacent highlight marks that are visually close together.
