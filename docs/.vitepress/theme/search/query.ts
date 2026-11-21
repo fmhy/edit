@@ -164,6 +164,21 @@ export interface QueryPlan {
   optional: string[][]
   /** The plan searches for more than the literal text. */
   rewritten: boolean
+  /** Platforms the query asks for, by heading spelling ("iphone" -> "ios"). */
+  platforms: string[]
+}
+
+const platformOf = (word: string) =>
+  word in PLATFORM_WORDS ? (PLATFORM_WORDS[word][0] ?? word) : null
+
+/** Platforms named in a heading ("Mac Adblock / Privacy" -> ["mac"]). */
+export function platformsIn(text: string): string[] {
+  const out = new Set<string>()
+  for (const word of text.toLowerCase().split(/[^a-z]+/)) {
+    const platform = platformOf(word)
+    if (platform) out.add(platform)
+  }
+  return [...out]
 }
 
 function alternativesOf(word: string, extra: string[] = []) {
@@ -202,5 +217,8 @@ export function planQuery(words: string[]): QueryPlan {
 
   const rewritten =
     optional.length > 0 || required.some((group) => group.length > 1)
-  return { required, optional, rewritten }
+  const platforms = [
+    ...new Set(words.map(platformOf).filter((p): p is string => !!p))
+  ]
+  return { required, optional, rewritten, platforms }
 }

@@ -9,7 +9,7 @@ import type { Query, SearchResult } from 'minisearch'
 import type { SemanticHit } from './semantic'
 import MiniSearch from 'minisearch'
 import { normalizeSearchUrl, stripSchemeAndWww } from '../../shared'
-import { planQuery } from './query'
+import { planQuery, platformsIn } from './query'
 import { fuseSemantic } from './semantic'
 import {
   foldText,
@@ -301,13 +301,14 @@ export function buildTypoTolerantQuery(
   const words = text.trim().toLowerCase().split(/\s+/).filter(Boolean)
   const parts = words.flatMap((w) => tokenizeIndexLike(w))
   if (parts.length === 0) return null
+  const keys = termKeySet(termKeys)
   const termQuery = (term: string): Query => {
     const swaps = transpositionsInIndex(term, termKeys)
-    const base: Query = {
-      queries: [term],
-      fuzzy: fuzzyTolerance(term),
-      prefix: true
-    }
+    // Short words get one edit only when they are not words of the index
+    // ("adon" -> "addon"), matching standsForQueryWord.
+    const fuzzy =
+      fuzzyTolerance(term) || (term.length >= 4 && !keys.has(term) ? 1 : false)
+    const base: Query = { queries: [term], fuzzy, prefix: true }
     if (swaps.length === 0) return base
     const weight = (FUZZY_WEIGHT * term.length) / (term.length + 1)
     return {
@@ -800,6 +801,8 @@ function startsWordIn(haystack: string, needle: string) {
   return false
 }
 
+const OTHER_PLATFORM_FACTOR = 0.5
+
 function withPageTitle(sidebar: SidebarItem[], r: SearchHit): SearchHit {
   const [id] = r.id.split('#')
   const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
@@ -1092,6 +1095,17 @@ function rankResults(
     for (const hit of optionalHits) {
       const existing = mergedResultsById.get(hit.id)
       if (existing) existing.score += hit.score
+    }
+  }
+  // Sections about a different platform than the one asked for ("remove ads
+  // android" vs "Mac Adblock") rank below the rest.
+  if (plan.platforms.length > 0) {
+    const wanted = new Set(plan.platforms)
+    if (wanted.has('android') || wanted.has('ios')) wanted.add('mobile')
+    for (const result of mergedResultsById.values()) {
+      const named = platformsIn([...result.titles, result.title].join(' '))
+      if (named.length > 0 && !named.some((p) => wanted.has(p)))
+        result.score *= OTHER_PLATFORM_FACTOR
     }
   }
   for (const result of urlResults) {
