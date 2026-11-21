@@ -99,6 +99,17 @@ function sanitizeTranslationLang(lang: string): string {
   return /^[a-zA-Z-]{2,10}$/.test(lang) ? lang : '?'
 }
 
+/** SHA-256 hex digest, used to fingerprint message + page for duplicate detection. */
+async function sha256Hex(input: string): Promise<string> {
+  const digest = await crypto.subtle.digest(
+    'SHA-256',
+    new TextEncoder().encode(input)
+  )
+  return Array.from(new Uint8Array(digest))
+    .map((b) => b.toString(16).padStart(2, '0'))
+    .join('')
+}
+
 const TRANSLATION_FAILURE_KV_KEY = 'feedback:translation-failure-notified'
 const TRANSLATION_FAILURE_NOTIFY_INTERVAL_SECONDS = 12 * 60 * 60
 
@@ -163,6 +174,8 @@ export default defineEventHandler(async (event) => {
     getHeader(event, 'x-forwarded-for') ||
     event.node.req.socket.remoteAddress
 
+  // Cheap first gate. This binding counts per Cloudflare location, so it only
+  // sheds obvious bursts; the Durable Object below is the global limit.
   if (clientIP && cf?.env?.RATE_LIMITER) {
     const key = `feedback:${clientIP}`
     const { success } = await cf.env.RATE_LIMITER.limit({ key })
@@ -172,6 +185,39 @@ export default defineEventHandler(async (event) => {
         statusMessage: 'Too Many Requests'
       })
     }
+  }
+
+  // Global limits: 3 per 10 minutes per IP, 10 per 24 hours per IP, plus a
+  // message+page hash so resent duplicate text is caught from any location.
+  // Keyed on IP and content only, never on contact.
+  let limitVerdict:
+    { allowed?: boolean; message?: string; retryAfter?: number } | undefined
+  if (clientIP && cf?.env?.FEEDBACK_LIMITER) {
+    try {
+      const hash = await sha256Hex(`${page}\n${message}`)
+      const stub = cf.env.FEEDBACK_LIMITER.get(
+        cf.env.FEEDBACK_LIMITER.idFromName('global')
+      )
+      const res = await stub.fetch('https://feedback-limiter/check', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ ip: clientIP, hash })
+      })
+      limitVerdict = await res.json()
+    } catch (err) {
+      // Fail open: a broken limiter must never drop real feedback.
+      console.error('Feedback limiter unavailable, failing open:', err)
+    }
+  }
+
+  if (limitVerdict && limitVerdict.allowed === false) {
+    throw createError({
+      statusCode: 429,
+      message: limitVerdict.message || 'Too Many Requests',
+      ...(limitVerdict.retryAfter
+        ? { data: { retryAfter: limitVerdict.retryAfter } }
+        : {})
+    })
   }
 
   // Attempt to translate non-English feedback

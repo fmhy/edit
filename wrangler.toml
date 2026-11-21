@@ -9,6 +9,16 @@ routes = [
   { pattern = "api.fmhy.net", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
 ]
 
+# Global (all-locations) feedback limits. The rate-limit binding below is
+# per-colo only, so this Durable Object holds the shared counters.
+[[durable_objects.bindings]]
+name = "FEEDBACK_LIMITER"
+class_name = "FeedbackLimiter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["FeedbackLimiter"]
+
 [ai]
 binding = "AI"
 
