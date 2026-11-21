@@ -1258,13 +1258,34 @@ const isLocked = useScrollLock(inBrowser ? document.body : null)
 onMounted(() => {
   focusSearchInput()
   window.history.pushState ? window.history.pushState(null, '', null) : null
+  setUrlQuery(filterText.value.trim())
   nextTick(() => {
     isLocked.value = true
     nextTick().then(() => activate())
   })
 })
 
+// Mirror the query into ?q= while the modal is open so the address bar is a
+// shareable link (useSearchFromQuery opens it again); dropped on close.
+function setUrlQuery(query: string) {
+  const url = new URL(window.location.href)
+  if (query) url.searchParams.set('q', query)
+  else url.searchParams.delete('q')
+  if (url.href !== window.location.href) {
+    window.history.replaceState(window.history.state, '', url.href)
+  }
+}
+
+watchDebounced(
+  filterText,
+  (query) => {
+    if (inBrowser && show.value) setUrlQuery(query.trim())
+  },
+  { debounce: SEARCH_DEBOUNCE_MS }
+)
+
 onBeforeUnmount(() => {
+  if (inBrowser) setUrlQuery('')
   isLocked.value = false
   resultMarks.value = new Map()
   currentMarkIndex.value = new Map()
@@ -2314,6 +2335,12 @@ function isSamePageComparison(destPath: string) {
 
 .result.selected .excerpt {
   opacity: 1;
+}
+
+/* With highlights in the excerpt, show only the entries that contain them. */
+.excerpt-wrapper :deep(.excerpt:has(mark) .vp-doc > :not(:has(mark))),
+.excerpt-wrapper :deep(.excerpt:has(mark) li:not(:has(mark))) {
+  display: none;
 }
 
 /*
