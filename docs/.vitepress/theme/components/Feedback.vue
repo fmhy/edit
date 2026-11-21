@@ -1,8 +1,18 @@
 <script setup lang="ts">
 import type { FeedbackType } from '../../types/Feedback'
-import { useRouter } from 'vitepress'
-import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
-import { feedbackOptions, getFeedbackOption } from '../../types/Feedback'
+import {
+  computed,
+  onMounted,
+  onUnmounted,
+  reactive,
+  ref,
+  watchEffect
+} from 'vue'
+import {
+  feedbackOptions,
+  getFeedbackOption,
+  isPageRoute
+} from '../../types/Feedback'
 import {
   getRateLimitCooldown,
   recordSubmission
@@ -13,33 +23,8 @@ const props = defineProps<{
   heading?: string
 }>()
 
-const prompts = [
-  'Make it count!',
-  'Leave some feedback for us!',
-  "We're all ears 🐰",
-  'Tell us what is missing in FMHY',
-  'Your thoughts matter to us 💡',
-  'Feedback is a gift 🎁',
-  'What do you think?',
-  'We appreciate your support 🙏',
-  'Help us make FMHY better 🤝',
-  'We need your help 👋',
-  'Your feedback is valuable 💯',
-  'So... what do you think?',
-  "We're always looking for ways to improve!",
-  'Your feedback is valuable and helps us make FMHY better.'
-]
-
-function getPrompt() {
-  return prompts[Math.floor(Math.random() * prompts.length)]
-}
-
 const messages = {
-  suggestion: [
-    "We're glad you want to share your ideas!",
-    "We'll be happy to read your thoughts and incorporate them into our wiki!",
-    "Hello! We're glad you want to share your ideas!"
-  ],
+  suggestion: ['Share your ideas', 'Tell us what to add'],
   appreciation: [
     'We appreciate your support!',
     "We're always looking for ways to improve!.",
@@ -68,6 +53,9 @@ const highlightStyle = reactive({
   height: '0px'
 })
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
+// The copy affordance on the picked-line block: on for a moment after a click.
+const copiedLine = ref<boolean>(false)
+let copyTimer: ReturnType<typeof setTimeout> | undefined
 
 const BLOCK_SELECTOR = 'p, li, td, th, h1, h2, h3, h4, h5, h6'
 const NON_CONTENT_SELECTOR =
@@ -83,6 +71,8 @@ const extractBlockContent = (blockElement: HTMLElement) => {
 }
 
 const startSelectingLine = () => {
+  // Nothing here may run during a server render: there is no document.
+  if (typeof document === 'undefined') return
   isSelectingLine.value = true
   document.body.style.cursor = 'crosshair'
   document.body.classList.add('feedback-selecting')
@@ -92,6 +82,7 @@ const startSelectingLine = () => {
 
 const stopSelectingLine = () => {
   isSelectingLine.value = false
+  if (typeof document === 'undefined') return
   document.body.style.cursor = 'default'
   document.body.classList.remove('feedback-selecting')
   highlightStyle.display = 'none'
@@ -143,11 +134,37 @@ const handlePageClick = (event: MouseEvent) => {
 
 onUnmounted(() => {
   stopSelectingLine()
+  if (copyTimer) clearTimeout(copyTimer)
 })
 
 const clearSelectedLine = () => {
   feedback.selectedLine = undefined
   feedback.selectedLineHtml = undefined
+  copiedLine.value = false
+}
+
+/**
+ * The picked line can be long, so the card offers it back to the clipboard.
+ * A browser that refuses the write leaves the line exactly as it was.
+ */
+async function copySelectedLine() {
+  const text = feedback.selectedLine
+  if (!text) return
+  try {
+    if (
+      typeof navigator !== 'undefined' &&
+      typeof navigator.clipboard?.writeText === 'function'
+    ) {
+      await navigator.clipboard.writeText(text)
+      copiedLine.value = true
+      if (copyTimer) clearTimeout(copyTimer)
+      copyTimer = setTimeout(() => {
+        copiedLine.value = false
+      }, 1500)
+    }
+  } catch {
+    // Clipboard access is best effort and never blocks feedback.
+  }
 }
 
 const handleInput = (event: Event) => {
@@ -157,33 +174,185 @@ const handleInput = (event: Event) => {
   target.style.height = `${target.scrollHeight}px`
 }
 
-const isDisabled = computed(() => {
-  const combinedMessage = feedback.selectedLine
-    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
-    : feedback.message
-
-  return (
-    !combinedMessage.length ||
-    combinedMessage.length < 5 ||
-    combinedMessage.length > 1000
-  )
-})
-
-const router = useRouter()
-
 const feedback = reactive<{
   message: string
-  page: string
   contact?: string
   type?: FeedbackType['type']
   selectedLine?: string
   selectedLineHtml?: string
 }>({
-  page: router.route.path,
   message: '',
   contact: '',
   selectedLine: undefined,
   selectedLineHtml: undefined
+})
+
+type SuggestionKind = 'add' | 'remove' | 'dead' | 'other'
+
+const suggestionKinds: { value: SuggestionKind; label: string }[] = [
+  { value: 'add', label: 'Add a site' },
+  { value: 'remove', label: 'Remove a site' },
+  { value: 'dead', label: 'Site is dead' },
+  { value: 'other', label: 'Something else' }
+]
+
+/*
+ * The composed payload is the only thing the API ever sees, so the rules that
+ * build it sit in one place: the prefix, the quoted line and the description.
+ */
+// #region message-logic
+const MAX_MESSAGE_LENGTH = 1000
+const MIN_MESSAGE_LENGTH = 5
+
+/** `[Add a site]` followed by a blank line, or nothing without a kind. */
+function suggestionPrefixFor(kindLabel: string): string {
+  return kindLabel ? `[${kindLabel}]\n\n` : ''
+}
+
+/** The picked line as a markdown quote, the same shape upstream sent. */
+function quoteBlockFor(selectedLine: string): string {
+  return selectedLine ? `> ${selectedLine}\n\n` : ''
+}
+
+function composeMessage(
+  kindLabel: string,
+  selectedLine: string,
+  description: string
+): string {
+  return `${suggestionPrefixFor(kindLabel)}${quoteBlockFor(selectedLine)}${description}`
+}
+
+/** How much description still fits beside the prefix and the quoted line. */
+function descriptionBudget(kindLabel: string, selectedLine: string): number {
+  return Math.max(
+    0,
+    MAX_MESSAGE_LENGTH -
+      suggestionPrefixFor(kindLabel).length -
+      quoteBlockFor(selectedLine).length
+  )
+}
+
+function clampDescription(
+  description: string,
+  kindLabel: string,
+  selectedLine: string
+): string {
+  const max = descriptionBudget(kindLabel, selectedLine)
+  return description.length > max ? description.slice(0, max) : description
+}
+
+function isSendBlocked(input: {
+  suggestion: boolean
+  kindLabel: string
+  selectedLine: string
+  description: string
+}): boolean {
+  const composed = composeMessage(
+    input.kindLabel,
+    input.selectedLine,
+    input.description
+  )
+
+  // A suggestion also needs a kind chosen, the way the chips have always worked.
+  if (input.suggestion && !input.kindLabel) return true
+
+  // The picked line is context, not the request: it never stands in for a
+  // description, so an empty box is always unsendable.
+  if (input.description.trim().length === 0) return true
+
+  // Upstream's length rule over what is actually sent: five to a thousand.
+  return (
+    composed.length < MIN_MESSAGE_LENGTH || composed.length > MAX_MESSAGE_LENGTH
+  )
+}
+// #endregion message-logic
+
+/*
+ * The page is not a field any more. It is read from the live location when the
+ * contributor sends, so there is nothing for them to fill in or get wrong.
+ * Every read is guarded so a server render or a locked-down browser cannot
+ * throw, and anything that is not a plain same-site route falls back to `/`
+ * rather than sending a malformed value.
+ */
+// #region route-derivation
+function currentPageRoute(): string {
+  let pathname: string
+  try {
+    const location = typeof window === 'undefined' ? undefined : window.location
+    pathname = typeof location?.pathname === 'string' ? location.pathname : ''
+  } catch {
+    pathname = ''
+  }
+
+  if (!pathname) return '/'
+
+  let decoded: string
+  try {
+    decoded = decodeURIComponent(pathname)
+  } catch {
+    decoded = pathname
+  }
+
+  const normalised = decoded
+    .toLowerCase()
+    .replace(/\/{2,}/g, '/')
+    .replace(/\/+$/, '')
+
+  const route = normalised.startsWith('/') ? normalised : `/${normalised}`
+
+  // The same rule the API enforces, so what leaves here is what it accepts.
+  if (!isPageRoute(route)) return '/'
+  return route
+}
+// #endregion route-derivation
+
+const suggestionKind = ref<SuggestionKind | null>(null)
+
+const isSuggestionPath = computed(() => feedback.type === 'suggestion')
+
+const kindLabel = computed(
+  () =>
+    suggestionKinds.find((kind) => kind.value === suggestionKind.value)
+      ?.label ?? ''
+)
+
+const selectedLineText = computed(() => feedback.selectedLine ?? '')
+
+const suggestionDescriptionMax = computed(() =>
+  descriptionBudget(kindLabel.value, selectedLineText.value)
+)
+
+const buildMessage = () =>
+  composeMessage(kindLabel.value, selectedLineText.value, feedback.message)
+
+const isDisabled = computed(() =>
+  isSendBlocked({
+    suggestion: isSuggestionPath.value,
+    kindLabel: kindLabel.value,
+    selectedLine: selectedLineText.value,
+    description: feedback.message
+  })
+)
+
+function selectSuggestionKind(kind: SuggestionKind) {
+  suggestionKind.value = kind
+  error.value = null
+}
+
+/**
+ * The composed message must stay inside the schema limit, so the description
+ * budget shrinks when the kind or the picked line changes. Clamp what is
+ * already typed rather than letting the composed message grow past 1000.
+ */
+watchEffect(() => {
+  const clamped = clampDescription(
+    feedback.message,
+    kindLabel.value,
+    selectedLineText.value
+  )
+  if (clamped !== feedback.message) {
+    feedback.message = clamped
+  }
 })
 
 const CONTACT_STORAGE_KEY = 'fmhy-feedback-contact'
@@ -222,11 +391,8 @@ onMounted(() => {
   restoreContact()
 })
 
-const selectedOption = ref(feedbackOptions[0])
-
 function selectType(type: FeedbackType['type']) {
   feedback.type = type
-  selectedOption.value = getFeedbackOption(type)!
 }
 
 async function handleSubmit() {
@@ -239,14 +405,14 @@ async function handleSubmit() {
   loading.value = true
   error.value = null
 
-  const finalMessage = feedback.selectedLine
-    ? `> ${feedback.selectedLine}\n\n${feedback.message}`
-    : feedback.message
+  const finalMessage = buildMessage()
 
   const body: FeedbackType = {
     message: finalMessage,
     type: feedback.type!,
-    page: feedback.page,
+    // Read here, not at setup: this is the one moment the live page is known
+    // and the only moment it is needed.
+    page: currentPageRoute(),
     ...(props.heading && { heading: props.heading }),
     ...(feedback.contact && { contact: feedback.contact })
   }
@@ -283,11 +449,6 @@ const isCardShown = ref<boolean>(false)
 const helpfulText = props.heading
   ? 'What do you think about this section?'
   : 'What do you think about this page?'
-const helpfulDescription = props.heading
-  ? 'Let us know how helpful this section is.'
-  : 'Let us know how helpful this page is.'
-
-const prompt = computed(() => getPrompt())
 const message = computed(() => getMessage(feedback.type!))
 const toggleCard = () => {
   isCardShown.value = !isCardShown.value
@@ -300,13 +461,18 @@ const goBackToOptions = () => {
 }
 
 const resetFeedback = () => {
-  goBackToOptions()
+  // Back to the form, not to the pitch or the category choice: the category
+  // the contributor already chose is kept.
+  error.value = null
   success.value = false
   feedback.message = ''
   feedback.selectedLine = undefined
   feedback.selectedLineHtml = undefined
+  suggestionKind.value = null
+  copiedLine.value = false
+  stopSelectingLine()
   if (textareaRef.value) {
-    textareaRef.value.style.height = '100px'
+    textareaRef.value.style.height = ''
   }
 }
 </script>
@@ -323,96 +489,63 @@ const resetFeedback = () => {
     </button>
   </template>
   <template v-else>
-    <div
-      class="feedback-widget mt-2 p-4 border-2 border-solid bg-$vp-c-bg-alt border-$vp-c-divider rounded-xl col-span-3 transition-colors duration-250"
-    >
-      <div class="flex items-start md:items-center gap-3">
-        <div class="pt-1 md:pt-0">
-          <div
-            class="w-10 h-10 rounded-full flex items-center justify-center bg-$vp-c-brand-3"
-          >
-            <span
-              :class="
-                isCardShown === false
-                  ? `i-lucide:mail w-6 h-6 text-white`
-                  : `i-lucide:mail-x w-6 h-6 text-white`
-              "
-            />
-          </div>
-        </div>
-        <div
-          class="flex-grow flex items-start md:items-center gap-3 flex-col md:flex-row"
-        >
-          <div class="flex-grow">
-            <div class="font-semibold text-$vp-c-text-1">Got feedback?</div>
-            <div class="text-sm text-$vp-c-text-2">
-              We'd love to know what you think about this page.
-            </div>
-          </div>
-          <div>
-            <button
-              class="bg-[#25262B] inline-block text-center rounded-full px-4 py-2.5 text-sm font-medium border-2 border-solid text-white border-$vp-c-divider"
-              @click="toggleCard()"
-            >
-              Share Feedback
-            </button>
-          </div>
-        </div>
-      </div>
+    <div v-if="!isCardShown" class="feedback-widget pitch col-span-3">
+      <span class="pitch-icon">
+        <span class="i-lucide:mail pitch-icon-glyph"></span>
+      </span>
+      <span class="pitch-text">
+        <span class="pitch-title">Got feedback?</span>
+        <span class="pitch-sub">
+          We'd love to know what you think about this page.
+        </span>
+      </span>
+      <button type="button" class="pitch-pill" @click="toggleCard()">
+        Share Feedback
+      </button>
     </div>
   </template>
 
   <Transition name="fade" mode="out-in">
     <div
       v-if="isCardShown"
-      class="feedback-widget feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+      class="feedback-widget feedback-card border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid"
     >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type">
-          <p class="heading">
-            {{ helpfulText }}
-          </p>
-          <div class="flex flex-wrap gap-2">
+          <p class="heading">{{ helpfulText }}</p>
+          <div class="chips options">
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
-              class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+              type="button"
+              class="option-btn"
               @click="selectType(item.value)"
             >
-              <span>{{ item.label }}</span>
+              {{ item.label }}
             </button>
           </div>
         </div>
         <div v-else-if="feedback.type && !success">
-          <div>
-            <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
-            <div class="flex items-center gap-3 mt-1">
-              <button
-                class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary inline-flex h-7 w-7 items-center justify-center rounded-md border-2 border-solid transition-all duration-300"
-                title="Back to options"
-                @click="goBackToOptions()"
-              >
-                <span class="i-lucide:arrow-left w-4 h-4"></span>
-              </button>
-              <span>
-                {{ getFeedbackOption(feedback.type || 'suggestion')?.label }}
-              </span>
-            </div>
+          <div class="feedback-head">
+            <button
+              type="button"
+              class="head-back"
+              title="Back to options"
+              @click="goBackToOptions()"
+            >
+              <span class="i-lucide:arrow-left w-4 h-4"></span>
+            </button>
+            <span class="head-label">
+              {{ getFeedbackOption(feedback.type || 'suggestion')?.label }}
+            </span>
           </div>
           <p class="heading" v-text="message"></p>
-          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
-            <p>
-              Please read the
-              <a href="/other/contributing">contribution guide</a>
-              before submitting your feedback, and be sure to include a link if
-              you want something added!
-            </p>
-          </div>
-          <div
-            v-if="error"
-            class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs"
-          >
-            <span class="font-bold">Error:</span>
+          <p v-if="isSuggestionPath" class="step-sub">
+            Add a link if you're suggesting a site
+            <a class="step-link" href="/other/contributing">(guide)</a>
+          </p>
+          <div v-if="error" class="error-msg">
+            <span class="error-lead">Error:</span>
             {{
               typeof error === 'string'
                 ? error
@@ -420,21 +553,52 @@ const resetFeedback = () => {
                   'Failed to send feedback. Please try again.'
             }}
           </div>
-          <div
-            v-if="feedback.selectedLine"
-            class="mb-3 flex items-start gap-2 p-3 bg-$vp-c-bg text-$vp-c-text-2 rounded-lg border border-$vp-c-divider text-sm relative group"
-          >
-            <div class="i-lucide:quote opacity-50 mt-0.5 min-w-[16px]"></div>
+          <div v-if="isSuggestionPath" class="field">
+            <div id="fmhy-suggestion-kind" class="field-label">
+              What kind of suggestion is this?
+            </div>
             <div
-              class="flex-grow italic line-clamp-3 pointer-events-none vp-doc feedback-quote"
-              style="margin: 0"
+              class="chips"
+              role="group"
+              aria-labelledby="fmhy-suggestion-kind"
+            >
+              <button
+                v-for="kind in suggestionKinds"
+                :key="kind.value"
+                type="button"
+                class="chip"
+                :class="{ 'chip-active': suggestionKind === kind.value }"
+                :aria-pressed="suggestionKind === kind.value"
+                @click="selectSuggestionKind(kind.value)"
+              >
+                {{ kind.label }}
+              </button>
+            </div>
+          </div>
+          <div v-if="feedback.selectedLine" class="quote-block">
+            <span class="i-lucide:quote quote-icon"></span>
+            <div
+              class="quote-text vp-doc feedback-quote line-clamp-3"
               v-html="
                 sanitizeRichHtml(feedback.selectedLineHtml) ||
                 feedback.selectedLine
               "
             ></div>
             <button
-              class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-red-400"
+              type="button"
+              class="quote-tool"
+              :class="{ 'quote-tool-done': copiedLine }"
+              :title="copiedLine ? 'Copied' : 'Copy selected line'"
+              @click="copySelectedLine"
+            >
+              <span
+                :class="copiedLine ? 'i-lucide:check' : 'i-lucide:copy'"
+                class="w-4 h-4"
+              ></span>
+            </button>
+            <button
+              type="button"
+              class="quote-tool quote-remove"
               title="Remove selected line"
               @click="clearSelectedLine"
             >
@@ -442,17 +606,21 @@ const resetFeedback = () => {
             </button>
           </div>
           <textarea
+            id="fmhy-feedback-message"
             ref="textareaRef"
             v-model="feedback.message"
             autofocus
-            class="font-sans bg-$vp-c-bg-alt text-$vp-c-text-2 w-full min-h-[100px] max-h-[400px] border border-$vp-c-divider rounded px-3 py-1.5 b-rd-4 border-2 border-solid resize-none overflow-y-auto"
+            aria-label="Your message"
+            class="field-control field-textarea"
             placeholder="(e.g. What a lovely wiki!)"
+            :maxlength="suggestionDescriptionMax"
             @input="handleInput"
           />
-          <div class="flex items-center gap-2 mt-2 mb-2">
+          <div class="field-actions">
             <button
               type="button"
-              class="flex items-center gap-1.5 text-xs font-medium text-$vp-c-text-2 hover:text-primary transition-colors bg-$vp-c-default-soft px-2 py-1 rounded border border-$vp-c-divider hover:border-primary"
+              class="tool-btn"
+              :aria-pressed="isSelectingLine"
               @click="
                 isSelectingLine ? stopSelectingLine() : startSelectingLine()
               "
@@ -467,38 +635,29 @@ const resetFeedback = () => {
                 isSelectingLine ? 'Cancel Selection' : 'Select a line from page'
               }}
             </button>
-            <span
-              v-if="isSelectingLine"
-              class="text-xs text-$vp-c-text-3 animate-pulse"
-            >
+            <span v-if="isSelectingLine" class="tool-hint animate-pulse">
               Click any text on the page...
             </span>
           </div>
-          <div class="mt-4 mb-1 text-sm font-semibold text-$vp-c-text-1">
-            Contact Info (Optional)
+          <div class="field">
+            <label class="field-label" for="fmhy-feedback-contact">
+              Contact
+              <span class="field-optional">optional</span>
+            </label>
+            <p class="desc">Only if you want a reply.</p>
+            <input
+              id="fmhy-feedback-contact"
+              v-model="feedback.contact"
+              type="text"
+              class="field-control"
+              placeholder="(e.g. Discord: username)"
+              @input="error = null"
+            />
           </div>
-          <p class="desc mb-3">
-            Add your Discord handle or email address if you would like a
-            response, or if we need more information from you, otherwise join
-            our
-            <a
-              class="text-primary text-underline font-semibold"
-              href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"
-            >
-              Discord.
-            </a>
-          </p>
-          <input
-            v-model="feedback.contact"
-            type="text"
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="(e.g. Discord: username)"
-            @input="error = null"
-          />
-          <div class="flex flex-row gap-2 mt-4">
+          <div class="btn-row">
             <button
               type="submit"
-              class="btn btn-primary"
+              class="btn btn-primary btn-submit"
               :disabled="isDisabled || loading"
               :style="
                 isDisabled || loading
@@ -540,30 +699,465 @@ const resetFeedback = () => {
 </template>
 
 <style scoped lang="css">
+/* One spacing scale: 6 / 8 / 12 / 16 / 24. One type scale: 12 / 13 / 14 / 16. */
+.feedback-card {
+  font-size: 14px;
+  padding: 24px;
+}
+
+.pitch {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 16px;
+  border: 2px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background-color: var(--vp-c-bg-alt);
+}
+
+.pitch-pill {
+  flex: none;
+  margin-left: auto;
+  padding: 10px 18px;
+  border: 1px solid var(--vp-button-brand-border);
+  border-radius: 9999px;
+  background-color: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: nowrap;
+  transition:
+    background-color 0.2s,
+    border-color 0.2s;
+}
+
+.pitch-pill:hover {
+  background-color: var(--vp-button-brand-hover-bg);
+  border-color: var(--vp-button-brand-hover-border);
+}
+
+.pitch-pill:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+@media (max-width: 420px) {
+  .pitch-pill {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+.pitch-icon {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 9999px;
+  background-color: var(--vp-c-brand-3);
+  color: #fff;
+}
+
+.pitch-icon-glyph {
+  width: 22px;
+  height: 22px;
+}
+
+.pitch-text {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.pitch-title {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+}
+
+.pitch-sub {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.feedback-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.head-back {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+}
+
+.head-back:hover {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-default-soft);
+}
+
+.head-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+}
+
+.heading {
+  margin: 0 0 4px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+}
+
+.step-sub {
+  margin: 4px 0 0;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.step-link {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.error-msg {
+  margin: 0 0 16px;
+  padding: 10px 12px;
+  border: 1px solid var(--vp-c-danger-1);
+  border-radius: 8px;
+  background-color: var(--vp-c-danger-soft);
+  color: var(--vp-c-danger-1);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.error-lead {
+  font-weight: 600;
+}
+
+/* The picked line: a pale rounded block, quote glyph on the left, the text,
+   then copy and remove on the right. */
+.quote-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  margin: 16px 0;
+  padding: 10px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+}
+
+.quote-icon {
+  flex: none;
+  margin-top: 2px;
+  color: var(--vp-c-text-2);
+  opacity: 0.5;
+}
+
+.quote-text {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin: 0;
+  color: var(--vp-c-text-2) !important;
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.5;
+  pointer-events: none;
+}
+
+.quote-text :deep(*) {
+  margin: 0 !important;
+  color: inherit !important;
+}
+
+.quote-tool {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: transparent;
+  color: var(--vp-c-text-2);
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background-color 0.2s;
+}
+
+.quote-tool:hover {
+  border-color: var(--vp-c-divider);
+  background-color: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+}
+
+.quote-tool-done,
+.quote-tool-done:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.quote-remove:hover {
+  color: var(--vp-c-danger-1);
+}
+
+.field {
+  margin-top: 20px;
+}
+
+.field-label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+}
+
+.field-optional {
+  margin-left: 4px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--vp-c-text-2);
+}
+
+.field-control {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 1.5;
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.field-control::placeholder {
+  color: var(--vp-c-text-3);
+}
+
+.field-control:hover {
+  border-color: var(--vp-c-text-3);
+}
+
+.field-control:focus-visible {
+  outline: none;
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 0 0 3px var(--vp-c-brand-soft);
+}
+
+/* The textarea used to sit in a `.field` wrapper that gave it `margin-top:
+   20px`. The wrapper is gone, so after the chip row the textarea is flush and
+   its 3px focus ring paints over the chip borders. Restore the gap here. */
+.field-textarea {
+  margin-top: 16px;
+  padding: 10px 12px;
+  min-height: 128px;
+  max-height: 400px;
+  line-height: 1.6;
+  resize: none;
+  overflow-y: auto;
+}
+
+@media (max-width: 420px) {
+  .field-textarea {
+    min-height: 112px;
+  }
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  padding: 6px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: nowrap;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s,
+    color 0.2s;
+}
+
+.chip:hover {
+  border-color: var(--vp-c-text-2);
+  background-color: var(--vp-c-default-soft);
+}
+
+.option-btn {
+  padding: 8px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: left;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+}
+
+.option-btn:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.options {
+  margin-top: 12px;
+}
+
+.chip-active {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.field-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.tool-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    background-color 0.2s;
+}
+
+.tool-btn:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+}
+
+.tool-btn[aria-pressed='true'] {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+}
+
+.tool-btn:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.tool-hint {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.desc {
+  display: block;
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.btn-row {
+  display: flex;
+  margin-top: 24px;
+}
+
 .btn {
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
   border-radius: 8px;
   transition:
-    border-color 0.25s,
-    background-color 0.25s;
+    border-color 0.2s,
+    background-color 0.2s;
   display: inline-block;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.5;
   margin: 0;
-  padding: 0.375rem 0.75rem;
+  padding: 8px 16px;
   text-align: center;
   vertical-align: middle;
   white-space: nowrap;
+  color: var(--vp-c-text-1);
 }
 
 .btn:disabled {
-  opacity: 0.5;
+  opacity: 1;
+  background-color: var(--vp-c-default-soft);
+  border-color: var(--vp-c-divider);
+  color: var(--vp-c-text-2);
+  cursor: not-allowed;
 }
 
 .btn:hover {
-  border-color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand-1);
+}
+
+.btn:focus-visible,
+.chip:focus-visible,
+.option-btn:focus-visible,
+.head-back:focus-visible,
+.quote-tool:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
 }
 
 .btn-primary {
@@ -577,26 +1171,30 @@ const resetFeedback = () => {
   border-color: var(--vp-button-brand-hover-border);
 }
 
-.heading {
-  margin-top: 0;
-  font-size: 1.2rem;
-  font-weight: 700;
+.btn-primary:disabled:hover {
+  background-color: var(--vp-c-default-soft);
+  border-color: var(--vp-c-divider);
 }
 
-.desc {
-  display: block;
-  line-height: 20px;
-  font-size: 12px;
-  font-weight: 500;
-  color: var(--vp-c-text-2);
+.btn-submit {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .btn-submit {
+    width: auto;
+    min-width: 180px;
+  }
+}
+
+@media (max-width: 420px) {
+  .feedback-card {
+    padding: 16px;
+  }
 }
 
 .feedback-quote {
   color: var(--vp-c-text-2) !important;
-}
-.feedback-quote :deep(*) {
-  color: inherit !important;
-  margin: 0 !important;
 }
 
 .fade-enter-active,
@@ -611,6 +1209,8 @@ const resetFeedback = () => {
 </style>
 
 <style>
+/* Armed line picking: the page is the target, and it lives outside this
+   component, so these rules cannot be scoped. */
 body.feedback-selecting a {
   pointer-events: none !important;
 }
