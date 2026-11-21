@@ -18,6 +18,7 @@ const sanitizedExcerpts = new Map<string, string>()
 const globalLastQuery = ref('')
 const globalLastFuzzy = ref(false)
 const globalLastUrlSearch = ref(false)
+const globalLastSemantic = ref(false)
 const globalLastDetailed = ref(false)
 const globalResults = ref<any[]>([])
 const globalAllResults = ref<any[]>([])
@@ -34,6 +35,7 @@ import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
 import type { Result, SidebarItem } from '../search/engine'
+import type { SemanticHit } from '../search/semantic'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -85,6 +87,7 @@ import {
 } from '../search/engine'
 import { pickEntry } from '../search/entries'
 import { loadSearchIndex } from '../search/indexLoader'
+import { loadSemanticSearch, semanticSearch } from '../search/semantic-client'
 import CriticalBadge from './CriticalBadge.vue'
 import Tooltip from './Tooltip.vue'
 
@@ -131,6 +134,32 @@ const { localeIndex, theme } = vitePressData
 const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 // Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
+
+// Opt-in: ranks by meaning too, using an on-device embedding model that is
+// downloaded on first use (see search/semantic.ts).
+const isSemanticSearch = useLocalStorage(
+  'vitepress:local-search-semantic',
+  false
+)
+const semanticStatus = ref<'idle' | 'loading' | 'ready' | 'error'>('idle')
+
+// Start downloading the model as soon as semantic search is on, so it is
+// usually ready by the time the first query is typed.
+watch(
+  isSemanticSearch,
+  (on) => {
+    if (!on || !inBrowser || semanticStatus.value !== 'idle') return
+    semanticStatus.value = 'loading'
+    loadSemanticSearch().then(
+      () => (semanticStatus.value = 'ready'),
+      (error) => {
+        semanticStatus.value = 'error'
+        console.error('Semantic search unavailable:', error)
+      }
+    )
+  },
+  { immediate: true }
+)
 
 // Categories and labels come from the sidebar, which is static at build time,
 // so this runs once. Wiki and Tools entries pointing at the same page
@@ -268,6 +297,7 @@ function matchesGlobalState() {
     filterText.value === globalLastQuery.value &&
     isFuzzySearch.value === globalLastFuzzy.value &&
     isUrlSearch.value === globalLastUrlSearch.value &&
+    isSemanticSearch.value === globalLastSemantic.value &&
     showDetailedList.value === globalLastDetailed.value
   )
 }
@@ -315,7 +345,7 @@ const autoSuggestions = computed(() => {
   )
 })
 
-watch([filterText, isFuzzySearch, isUrlSearch], () => {
+watch([filterText, isFuzzySearch, isUrlSearch, isSemanticSearch], () => {
   activeCategory.value = ''
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
@@ -342,7 +372,14 @@ function getRelativeOffsetTop(
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 watch(
-  [filterText, isFuzzySearch, isUrlSearch, showDetailedList, searchIndex],
+  [
+    filterText,
+    isFuzzySearch,
+    isUrlSearch,
+    isSemanticSearch,
+    showDetailedList,
+    searchIndex
+  ],
   () => {
     isSearching.value = !matchesGlobalState() && !!filterText.value
   },
@@ -373,6 +410,7 @@ watchDebounced(
       filterText.value,
       isFuzzySearch.value,
       isUrlSearch.value,
+      isSemanticSearch.value,
       showDetailedList.value
     ] as const,
   async ([index, filterTextValue], old, onCleanup) => {
@@ -402,7 +440,7 @@ watchDebounced(
       return
     }
 
-    const { results: boostedResults, usedSubstringExpansion: usedExpansion } =
+    const search = (semantic?: SemanticHit[]) =>
       runSearch(
         {
           index,
@@ -412,8 +450,28 @@ watchDebounced(
           sidebar: Array.isArray(sidebar) ? sidebar : []
         },
         filterTextValue,
-        { fuzzy: isFuzzySearch.value, url: isUrlSearch.value }
+        { fuzzy: isFuzzySearch.value, url: isUrlSearch.value, semantic }
       )
+    let { results: boostedResults, usedSubstringExpansion: usedExpansion } =
+      search()
+    if (isSemanticSearch.value && !looksLikeUrlQuery(filterTextValue)) {
+      // Keyword results show at once; the semantic ranking replaces them when
+      // the model is ready (the first query downloads it).
+      if (semanticStatus.value !== 'ready') {
+        allResults.value = boostedResults
+        semanticStatus.value = 'loading'
+      }
+      try {
+        const hits = await semanticSearch(filterTextValue)
+        semanticStatus.value = 'ready'
+        if (canceled) return
+        ;({ results: boostedResults, usedSubstringExpansion: usedExpansion } =
+          search(hits))
+      } catch (error) {
+        semanticStatus.value = 'error'
+        console.error('Semantic search unavailable:', error)
+      }
+    }
     usedSubstringExpansion.value = usedExpansion
 
     enableNoResults.value = true
@@ -426,6 +484,7 @@ watchDebounced(
     globalLastQuery.value = filterTextValue
     globalLastFuzzy.value = isFuzzySearch.value
     globalLastUrlSearch.value = isUrlSearch.value
+    globalLastSemantic.value = isSemanticSearch.value
     globalLastDetailed.value = showDetailedList.value
     globalUsedSubstringExpansion.value = usedSubstringExpansion.value
   },
@@ -603,6 +662,30 @@ watch(
       }
     }
 
+    // Semantic matches may share no words with the query: highlight the
+    // entry the match is about so the excerpt and the page can focus it.
+    for (const r of finalResults) {
+      if (!r.semanticLine) continue
+      const item = resultsEl.value?.querySelector(
+        `[data-id="${CSS.escape(r.id)}"]`
+      )
+      const lis = entryItemsOf(item)
+      const best = pickEntry(
+        lis.map((li) => ({
+          name: entryNameOf(li),
+          starred: li.classList.contains('starred')
+        })),
+        r.semanticLine,
+        []
+      )
+      const link = best === -1 ? null : lis[best].querySelector('a')
+      if (!link || lis[best].querySelector('mark[data-markjs="true"]')) continue
+      const mark = document.createElement('mark')
+      mark.setAttribute('data-markjs', 'true')
+      mark.append(...link.childNodes)
+      link.appendChild(mark)
+    }
+
     /**
      * Custom feature: Initialize match navigation state.
      */
@@ -670,24 +753,27 @@ function entryNameOf(li: HTMLLIElement): string {
   return name
 }
 
+function entryItemsOf(item: Element | null | undefined) {
+  return Array.from(
+    item?.querySelectorAll<HTMLLIElement>('.excerpt .vp-doc > ul > li') ?? []
+  )
+}
+
 // Starts match navigation (excerpt scroll, current mark, page highlight) on the
 // entry the result is about instead of the section's first match.
 function focusedMarkGroup(
   item: Element | null | undefined,
   groups: HTMLElement[][],
-  r: Result & SearchResult
+  r: Result & SearchResult & { semanticLine?: string }
 ): number {
-  const lis = Array.from(
-    item?.querySelectorAll<HTMLLIElement>('.excerpt .vp-doc > ul > li') ?? []
-  )
-  const best = pickEntry(
-    lis.map((li) => ({
-      name: entryNameOf(li),
-      starred: li.classList.contains('starred')
-    })),
-    filterText.value,
-    Object.keys(r.match ?? {})
-  )
+  const lis = entryItemsOf(item)
+  const entries = lis.map((li) => ({
+    name: entryNameOf(li),
+    starred: li.classList.contains('starred')
+  }))
+  let best = pickEntry(entries, filterText.value, Object.keys(r.match ?? {}))
+  if (best === -1 && r.semanticLine)
+    best = pickEntry(entries, r.semanticLine, [])
   if (best === -1) return 0
   return Math.max(
     0,
@@ -1240,6 +1326,10 @@ const customTitles = {
   urlOn: 'Only search names and text',
   urlOff: 'Search link URLs too',
   urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
+  semanticOn: 'Semantic search on. Click to search keywords only',
+  semanticOff: 'Search by meaning too (downloads a 7 MB model once)',
+  semanticLoading: 'Loading semantic search model...',
+  semanticError: 'Semantic search failed to load. Click to turn it off',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches',
   detailedViewOn: 'Detailed view',
@@ -1408,6 +1498,10 @@ function toggleFuzzySearch() {
 
 function toggleUrlSearch() {
   isUrlSearch.value = !isUrlSearch.value
+}
+
+function toggleSemanticSearch() {
+  isSemanticSearch.value = !isSemanticSearch.value
 }
 
 function groupMarks(marks: HTMLElement[]): HTMLElement[][] {
@@ -1656,6 +1750,36 @@ function isSamePageComparison(destPath: string) {
                       : urlSearchAuto
                         ? 'URL Search Auto-Active'
                         : 'URL Search Off'
+                  }}
+                </span>
+              </button>
+
+              <button
+                class="toggle-semantic-button"
+                type="button"
+                :class="{
+                  'semantic-active': isSemanticSearch,
+                  'semantic-error':
+                    isSemanticSearch && semanticStatus === 'error'
+                }"
+                :aria-pressed="isSemanticSearch"
+                :title="
+                  !isSemanticSearch
+                    ? customTitles.semanticOff
+                    : semanticStatus === 'loading'
+                      ? customTitles.semanticLoading
+                      : semanticStatus === 'error'
+                        ? customTitles.semanticError
+                        : customTitles.semanticOn
+                "
+                @click="toggleSemanticSearch"
+              >
+                <span class="semantic-icon i-lucide:sparkles" />
+                <span class="visually-hidden">
+                  {{
+                    isSemanticSearch
+                      ? 'Semantic Search Active'
+                      : 'Semantic Search Off'
                   }}
                 </span>
               </button>
@@ -2167,7 +2291,8 @@ function isSamePageComparison(destPath: string) {
 .search-actions button:not([disabled]):hover,
 .toggle-layout-button.detailed-list,
 .toggle-fuzzy-button.fuzzy-active,
-.toggle-url-button.url-active {
+.toggle-url-button.url-active,
+.toggle-semantic-button.semantic-active {
   color: var(--vp-c-brand-1);
 }
 
@@ -2913,6 +3038,33 @@ svg {
 .toggle-url-button.url-auto:not(.url-active) {
   color: var(--vp-c-brand-1);
   opacity: 0.6;
+}
+
+.toggle-semantic-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.toggle-semantic-button .semantic-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.toggle-semantic-button:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+.toggle-semantic-button.semantic-active {
+  background: var(--vp-c-bg-soft);
+}
+
+.search-actions .toggle-semantic-button.semantic-error {
+  color: var(--vp-c-danger-1);
 }
 
 .result-list-enter-active,

@@ -6,9 +6,11 @@
  */
 
 import type { Query, SearchResult } from 'minisearch'
+import type { SemanticHit } from './semantic'
 import MiniSearch from 'minisearch'
 import { normalizeSearchUrl, stripSchemeAndWww } from '../../shared'
 import { planQuery } from './query'
+import { fuseSemantic } from './semantic'
 import {
   foldText,
   indexTermsOf,
@@ -43,6 +45,10 @@ export interface Result {
   urlMatchedStarred?: boolean
   // Came from the typo-tolerant fallback query, not the exact one.
   fallback?: boolean
+  // Found only by semantic similarity, not by the keyword index.
+  semantic?: boolean
+  // The entry line the semantic match is about (highlighted in the excerpt).
+  semanticLine?: string
 }
 
 export interface BoostFlags {
@@ -601,7 +607,7 @@ export function filterResults(
   return results.filter((r) => {
     if (contains(r.title)) return true
     if (r.titles.some(contains)) return true
-    if (r.urlMatched) return true
+    if (r.urlMatched || r.semantic) return true
     if (!r.text) return true // Keep optimistically if text is not fetched yet
     return contains(r.text)
   })
@@ -761,6 +767,8 @@ export interface SearchContext {
 export interface SearchModes {
   fuzzy: boolean
   url: boolean
+  // Ranked semantic matches for the query, fused with the keyword results.
+  semantic?: SemanticHit[]
 }
 
 const MAX_HEADING_PHRASES = 16
@@ -790,6 +798,19 @@ function startsWordIn(haystack: string, needle: string) {
     from = haystack.indexOf(needle, from + 1)
   }
   return false
+}
+
+function withPageTitle(sidebar: SidebarItem[], r: SearchHit): SearchHit {
+  const [id] = r.id.split('#')
+  const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
+  const pageTitle = findPageTitle(sidebar, cleanPath)
+  const titles = [...r.titles]
+
+  if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
+    titles.unshift(pageTitle)
+  }
+
+  return { ...r, titles }
 }
 
 type QueryPlanContext = {
@@ -1016,7 +1037,34 @@ export function runSearch(
     }
   }
 
-  return { results, usedSubstringExpansion }
+  if (!modes.semantic?.length || queryLooksLikeUrl)
+    return { results, usedSubstringExpansion }
+
+  // Semantic hits fuse into the pool that will be shown: the exact one, or
+  // the typo-tolerant one when the exact query found nothing.
+  const fallback = !results.some((r) => !r.fallback)
+  const pool = results.filter((r) => !!r.fallback === fallback)
+  const lines = new Map(modes.semantic.map((h) => [h.id, h.line]))
+  const fused = fuseSemantic(pool, modes.semantic, (id) => {
+    const stored = index.getStoredFields(id) as
+      Pick<Result, 'title' | 'titles'> | undefined
+    if (!stored) return null
+    return withPageTitle(ctx.sidebar, {
+      id,
+      score: 0,
+      terms: [],
+      queryTerms: [],
+      match: {},
+      title: stored.title,
+      titles: stored.titles,
+      semantic: true,
+      fallback
+    } as SearchHit)
+  }).map((r) => ({ ...r, semanticLine: lines.get(r.id) }))
+  return {
+    results: fused.slice(0, MAX_RESULTS_IN_MEMORY),
+    usedSubstringExpansion
+  }
 }
 
 function rankResults(
@@ -1062,18 +1110,7 @@ function rankResults(
   const currentResults: SearchHit[] = [...mergedResultsById.values()]
     .sort((a, b) => b.score - a.score)
     .slice(0, MAX_RESULTS_IN_MEMORY)
-    .map((r) => {
-      const [id] = r.id.split('#')
-      const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
-      const pageTitle = findPageTitle(sidebarItems, cleanPath)
-      const titles = [...r.titles]
-
-      if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
-        titles.unshift(pageTitle)
-      }
-
-      return { ...r, titles }
-    })
+    .map((r) => withPageTitle(sidebarItems, r))
 
   // Ranking model:
   //   1. starredExact  – query exactly matches a starred-bold hyperlink

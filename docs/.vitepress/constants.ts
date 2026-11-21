@@ -73,6 +73,13 @@ if (typeof originalToJSON === 'function') {
   }
 }
 
+// Sections as indexed, collected for the semantic search index generated in
+// buildEnd (hooks/semantic.ts). Keyed by page so HMR/rebuilds replace them.
+export const indexedSections = new Map<
+  string,
+  { id: string; titles: string[]; text: string }[]
+>()
+
 function getDocId(file: string) {
   const srcDir = path.resolve(__dirname, '..')
   const relFile = path.relative(srcDir, file).replace(/\\/g, '/')
@@ -359,6 +366,14 @@ export const search: DefaultTheme.Config['search'] = {
             parentTitles[level] = title
           }
         }
+        indexedSections.set(
+          fileId,
+          sections.map((s) => ({
+            id: s.anchor ? `${fileId}#${s.anchor}` : fileId,
+            titles: s.titles,
+            text: s.text
+          }))
+        )
         return sections
       },
       // Shared with the search modal (theme/search/tokenize.ts), which
