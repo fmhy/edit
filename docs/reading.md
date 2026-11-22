@@ -25,6 +25,7 @@
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [BAEN](https://www.baen.com/allbooks/category/index/id/2012)
 * [Read From](https://readfrom.net/) or [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
+* [Ebook-Emporium](https://t.me/Ebook_Emporium) - E-Books / Telegram
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [⁠Dynasty](https://t.me/dynastyapprovals) - Books / Telegram
 * [eBooks1001](https://ebooks1001.com/) - Books / Download / Requires [Debrid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)
