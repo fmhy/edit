@@ -455,8 +455,7 @@ watchDebounced(
           fuzzy: isFuzzySearch.value,
           url: isUrlSearch.value,
           semantic,
-          pure: !isFuzzySearch.value && !isSemanticSearch.value,
-          semanticOnly: isSemanticSearch.value
+          pure: !isFuzzySearch.value && !isSemanticSearch.value
         }
       )
     let { results: boostedResults, usedSubstringExpansion: usedExpansion } =
