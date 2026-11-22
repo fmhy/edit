@@ -1440,6 +1440,7 @@
 
 ## ▷ Multi Tool Sites
 
+* ⭐ **[Pixellize](https://pixellize.io)** - Text / Image / PDF / File / Code
 * ⭐ **[TinyWow](https://tinywow.com/)** - Text / Image / PDF / File
 * ⭐ **[⁠HeyTools](https://heytools.app/)** - Text / PDF / Image / Code
 * ⭐ **[PineTools](https://pinetools.com/)** - Text / Multimedia / Colors / Code
