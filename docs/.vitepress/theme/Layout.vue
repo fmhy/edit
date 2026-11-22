@@ -5,7 +5,6 @@ import { nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import CriticalDialog from './components/CriticalDialog.vue'
-// NFO banner
 import NfoBanner from './components/NfoBanner.vue'
 import Sidebar from './components/SidebarCard.vue'
 import {
