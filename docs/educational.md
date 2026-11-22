@@ -829,7 +829,7 @@
 * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[⁠Wealth Shown to Scale](https://wealth-inequality.sucks.lt/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://evolving-thoughts.github.io/1-pixel-wealth/) / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth) - Global Wealth Inequality Visualization
+* ⭐ **[⁠Wealth Shown to Scale](https://wealth-inequality.sucks.lt/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://github.com/Evolving-Thoughts/pixel-wealth) / [Codeberg](https://codeberg.org/litekin/wealth-visualize) - Global Wealth Inequality Visualization
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 * [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [⁠CountryEconomy](https://countryeconomy.com/) - Country Economic Data

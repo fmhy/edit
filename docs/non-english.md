@@ -40,7 +40,7 @@
 ## ▷ Streaming / البث
 
 * ⭐ **[EgyDead](https://tv10.egydead.live/)** - Movies / TV / Anime / Sub / 1080p
-* ⭐ **[FaselHD](https://web11206x.faselhdx.one/) - Movies / TV / Anime / 1080p
+* ⭐ **[FaselHD](https://web11206x.faselhdx.one/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
@@ -1667,6 +1667,7 @@
 * [WebDramaTurkey](https://webdramaturkey2.com/) - Asian Drama
 * [⁠AniHub](https://anihub.com.tr/) - Anime / Region Locked
 * [AsyaAnimeleri](https://asyaanimeleri.top/) - Anime
+* [⁠Animpow](https://animpow.com/) - Anime
 * [cizgimax](https://cizgimax.online/) - Cartoons
 * [belgeselx](https://belgeselx.com/) - Documentaries
 * [Canlı TV](https://www.canlitv.me/) - Live TV / Requires VPN

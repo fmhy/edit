@@ -126,6 +126,7 @@
 * [⁠All of Bach](https://www.bachvereniging.nl/en/allofbach) - Johann Sebastian Bach Performance Project
 * [Konserthuset](https://www.konserthuset.se/en/play/) - Orchestra Recordings
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
+* [⁠Aidoru Online](https://aidoru-online.me/) - Japanese Idol Group Performances / Torrents / Signup Required
 * [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
 * [RATM.live](https://ratm.live/) - Rage Against the Machine Live Archive
 * [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive

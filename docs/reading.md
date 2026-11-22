@@ -744,6 +744,7 @@
 * [DBpedia](https://www.dbpedia.org/) - Datasets
 * [GBIF](https://www.gbif.org/) - Biodiversity Datasets
 * [RPubs](https://rpubs.com/) - R Markdown Data Publishing
+* [Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/index.html) - Sign Language Datasets
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals / [Search](https://www.pubmedisearch.com/)
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals

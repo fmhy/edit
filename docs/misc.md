@@ -27,7 +27,7 @@
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/), [IndieBlogs](https://indieblog.page/), or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
 * [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://openpagerank.keywordseverywhere.com/top-10-million-domains) or [CuteStat](https://www.cutestat.com/) - Site Rankings
-* [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
+* [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/) - Web App Indexes
 * [⁠JustIndex](https://justindex.cc/) - Otaku Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [Ripped](https://ripped.guide/) - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
@@ -1334,6 +1334,7 @@
 * [⁠DVDBeaver](https://www.dvdbeaver.com/) - Blu-ray & DVD Release Calendar / Database / Reviews
 * [High Def Digest](https://www.highdefdigest.com/) - Blu-ray Release Calendar / Database / Reviews
 * [⁠DVDCompare](https://dvdcompare.net/) - Blu-ray & DVD Comparisons / Reviews
+* [⁠DVD Double Dip](https://www.dvddoubledip.com/) - Blu-ray & DVD Comparisons
 * [Releases](https://www.releases.com/) - Blu-Ray / DVD Release Calendar
 * [DVDs Release Dates](https://www.dvdsreleasedates.com/) - DVD Release Calendar
 * [Caps-A-Holic](https://caps-a-holic.com/) - Compare Movie Release Quality / Details

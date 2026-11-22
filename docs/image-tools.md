@@ -324,6 +324,7 @@
 * [⁠Free PBR](https://freepbr.com/) - Textures
 * [Texture Club](https://www.sketchuptextureclub.com/) - Textures
 * [⁠ShareTextures](https://www.sharetextures.com/) - Textures
+* [⁠VasTexture](https://sites.google.com/view/infinitexture/) - Textures
 * [TexturesForFree](https://texturesforfree.com/) - Textures
 * [texture4photoshop](https://t.me/texture4photoshop) - Textures
 * [MatLib](https://matlib.gpuopen.com/main/materials/all) - Textures
