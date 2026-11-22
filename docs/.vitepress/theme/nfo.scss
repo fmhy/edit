@@ -1,0 +1,1554 @@
+/**
+ * NFO — old-school warez / ANSI scene preset.
+ * Scope: html[data-theme='nfo'] only.
+ * Dark mode is pure monochrome (#000 / #c2c2c2 / #fff).
+ * Light mode is the inverted 1-bit Paradox-style sheet (#fff / #141414 / #000).
+ */
+
+/* PxPlus IBM VGA8 — faithful CP437/VGA bitmap-grid font (8x16).
+   Source: https://int10h.org/oldschool-pc-fonts/ (CC BY-SA 4.0). */
+@font-face {
+  font-family: 'PxPlus IBM VGA8';
+  src: url('./fonts/pxplus-ibm-vga8.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  font-stretch: normal;
+  font-variation-settings: normal;
+}
+
+/* 1-bit pixel SVG data URIs (zero literal spaces, %23-escaped colors,
+   integer 2px pixel grids; automatically inverted in .light via filter). */
+
+/* Empress/Pantheon Pillar Capital (64x56: solid bg mask + stepped cornice + scroll volutes + keystone) */
+$nfo-pillar-capital-svg: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='56'%20viewBox='0%200%2064%2056'%20shape-rendering='crispEdges'%3E%3Crect%20width='64'%20height='56'%20fill='%23000000'/%3E%3Cg%20fill='%23ffffff'%3E%3Crect%20x='2'%20y='2'%20width='60'%20height='2'/%3E%3Crect%20x='6'%20y='6'%20width='52'%20height='2'/%3E%3Crect%20x='4'%20y='12'%20width='14'%20height='2'/%3E%3Crect%20x='4'%20y='14'%20width='2'%20height='12'/%3E%3Crect%20x='16'%20y='14'%20width='2'%20height='10'/%3E%3Crect%20x='6'%20y='24'%20width='10'%20height='2'/%3E%3Crect%20x='8'%20y='18'%20width='6'%20height='2'/%3E%3Crect%20x='8'%20y='20'%20width='2'%20height='4'/%3E%3Crect%20x='10'%20y='22'%20width='4'%20height='2'/%3E%3Crect%20x='46'%20y='12'%20width='14'%20height='2'/%3E%3Crect%20x='58'%20y='14'%20width='2'%20height='12'/%3E%3Crect%20x='46'%20y='14'%20width='2'%20height='10'/%3E%3Crect%20x='48'%20y='24'%20width='10'%20height='2'/%3E%3Crect%20x='50'%20y='18'%20width='6'%20height='2'/%3E%3Crect%20x='54'%20y='20'%20width='2'%20height='4'/%3E%3Crect%20x='50'%20y='22'%20width='4'%20height='2'/%3E%3Crect%20x='30'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='28'%20y='14'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='14'%20width='2'%20height='2'/%3E%3Crect%20x='26'%20y='16'%20width='2'%20height='4'/%3E%3Crect%20x='36'%20y='16'%20width='2'%20height='4'/%3E%3Crect%20x='28'%20y='20'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='20'%20width='2'%20height='2'/%3E%3Crect%20x='30'%20y='22'%20width='4'%20height='2'/%3E%3Crect%20x='14'%20y='32'%20width='36'%20height='2'/%3E%3Crect%20x='10'%20y='44'%20width='44'%20height='2'/%3E%3Crect%20x='12'%20y='50'%20width='40'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='4'%20y='4'%20width='56'%20height='2'/%3E%3Crect%20x='8'%20y='8'%20width='48'%20height='2'/%3E%3Crect%20x='20'%20y='12'%20width='2'%20height='20'/%3E%3Crect%20x='42'%20y='12'%20width='2'%20height='20'/%3E%3Crect%20x='16'%20y='34'%20width='32'%20height='2'/%3E%3Crect%20x='18'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='26'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='34'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='42'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='12'%20y='46'%20width='40'%20height='4'/%3E%3Crect%20x='14'%20y='52'%20width='36'%20height='4'/%3E%3C/g%3E%3Cg%20fill='%23484848'%3E%3Crect%20x='8'%20y='14'%20width='8'%20height='4'/%3E%3Crect%20x='48'%20y='14'%20width='8'%20height='4'/%3E%3Crect%20x='30'%20y='16'%20width='4'%20height='4'/%3E%3Crect%20x='22'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='30'%20y='36'%20width='4'%20height='8'/%3E%3Crect%20x='38'%20y='36'%20width='4'%20height='8'/%3E%3C/g%3E%3C/svg%3E";
+
+/* Empress/Pantheon Carved Runic + Vine Pillar Shaft (64x96 seamless vertical tile) */
+$nfo-pillar-shaft-svg: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='96'%20viewBox='0%200%2064%2096'%20shape-rendering='crispEdges'%3E%3Cg%20fill='%23ffffff'%3E%3Crect%20x='12'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='50'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='30'%20y='6'%20width='4'%20height='2'/%3E%3Crect%20x='28'%20y='8'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='8'%20width='2'%20height='2'/%3E%3Crect%20x='26'%20y='10'%20width='2'%20height='4'/%3E%3Crect%20x='36'%20y='10'%20width='2'%20height='4'/%3E%3Crect%20x='28'%20y='14'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='14'%20width='2'%20height='2'/%3E%3Crect%20x='30'%20y='16'%20width='4'%20height='2'/%3E%3Crect%20x='28'%20y='18'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='18'%20width='2'%20height='2'/%3E%3Crect%20x='26'%20y='20'%20width='2'%20height='4'/%3E%3Crect%20x='36'%20y='20'%20width='2'%20height='4'/%3E%3Crect%20x='31'%20y='38'%20width='2'%20height='20'/%3E%3Crect%20x='25'%20y='40'%20width='2'%20height='4'/%3E%3Crect%20x='37'%20y='40'%20width='2'%20height='4'/%3E%3Crect%20x='27'%20y='44'%20width='2'%20height='2'/%3E%3Crect%20x='35'%20y='44'%20width='2'%20height='2'/%3E%3Crect%20x='29'%20y='46'%20width='2'%20height='2'/%3E%3Crect%20x='33'%20y='46'%20width='2'%20height='2'/%3E%3Crect%20x='26'%20y='70'%20width='2'%20height='20'/%3E%3Crect%20x='36'%20y='70'%20width='2'%20height='20'/%3E%3Crect%20x='28'%20y='74'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='74'%20width='2'%20height='2'/%3E%3Crect%20x='30'%20y='76'%20width='4'%20height='4'/%3E%3Crect%20x='28'%20y='80'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='80'%20width='2'%20height='2'/%3E%3Crect%20x='28'%20y='84'%20width='2'%20height='2'/%3E%3Crect%20x='34'%20y='84'%20width='2'%20height='2'/%3E%3Crect%20x='4'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='2'%20y='14'%20width='4'%20height='2'/%3E%3Crect%20x='56'%20y='36'%20width='4'%20height='2'/%3E%3Crect%20x='58'%20y='38'%20width='4'%20height='2'/%3E%3Crect%20x='4'%20y='60'%20width='4'%20height='2'/%3E%3Crect%20x='2'%20y='62'%20width='4'%20height='2'/%3E%3Crect%20x='56'%20y='82'%20width='4'%20height='2'/%3E%3Crect%20x='58'%20y='84'%20width='4'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='14'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='48'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='8'%20y='0'%20width='2'%20height='10'/%3E%3Crect%20x='6'%20y='10'%20width='4'%20height='2'/%3E%3Crect%20x='8'%20y='16'%20width='4'%20height='6'/%3E%3Crect%20x='10'%20y='22'%20width='2'%20height='10'/%3E%3Crect%20x='54'%20y='0'%20width='2'%20height='16'/%3E%3Crect%20x='52'%20y='16'%20width='4'%20height='12'/%3E%3Crect%20x='54'%20y='28'%20width='4'%20height='8'/%3E%3Crect%20x='54'%20y='40'%20width='4'%20height='10'/%3E%3Crect%20x='52'%20y='50'%20width='2'%20height='18'/%3E%3Crect%20x='10'%20y='38'%20width='2'%20height='16'/%3E%3Crect%20x='8'%20y='54'%20width='4'%20height='6'/%3E%3Crect%20x='6'%20y='64'%20width='4'%20height='6'/%3E%3Crect%20x='8'%20y='70'%20width='4'%20height='26'/%3E%3Crect%20x='54'%20y='68'%20width='4'%20height='14'/%3E%3Crect%20x='54'%20y='86'%20width='2'%20height='10'/%3E%3C/g%3E%3Cg%20fill='%23484848'%3E%3Crect%20x='18'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='22'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='40'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='44'%20y='0'%20width='2'%20height='96'/%3E%3Crect%20x='16'%20y='30'%20width='32'%20height='2'/%3E%3Crect%20x='16'%20y='62'%20width='32'%20height='2'/%3E%3Crect%20x='16'%20y='94'%20width='32'%20height='2'/%3E%3Crect%20x='6'%20y='2'%20width='2'%20height='4'/%3E%3Crect%20x='4'%20y='16'%20width='4'%20height='2'/%3E%3Crect%20x='56'%20y='10'%20width='4'%20height='2'/%3E%3Crect%20x='58'%20y='12'%20width='2'%20height='2'/%3E%3Crect%20x='56'%20y='42'%20width='4'%20height='2'/%3E%3Crect%20x='6'%20y='48'%20width='4'%20height='2'/%3E%3Crect%20x='4'%20y='64'%20width='2'%20height='2'/%3E%3Crect%20x='58'%20y='74'%20width='4'%20height='2'/%3E%3Crect%20x='56'%20y='88'%20width='2'%20height='2'/%3E%3C/g%3E%3C/svg%3E";
+
+/* Empress/Pantheon Pillar Plinth Base (64x32: solid bg mask + torus + stepped pedestal) */
+$nfo-pillar-plinth-svg: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='64'%20height='32'%20viewBox='0%200%2064%2032'%20shape-rendering='crispEdges'%3E%3Crect%20width='64'%20height='32'%20fill='%23000000'/%3E%3Cg%20fill='%23ffffff'%3E%3Crect%20x='10'%20y='2'%20width='44'%20height='2'/%3E%3Crect%20x='6'%20y='10'%20width='52'%20height='2'/%3E%3Crect%20x='2'%20y='20'%20width='60'%20height='2'/%3E%3Crect%20x='2'%20y='28'%20width='60'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='12'%20y='0'%20width='40'%20height='2'/%3E%3Crect%20x='8'%20y='4'%20width='48'%20height='4'/%3E%3Crect%20x='6'%20y='12'%20width='52'%20height='6'/%3E%3Crect%20x='4'%20y='22'%20width='56'%20height='6'/%3E%3C/g%3E%3Cg%20fill='%23484848'%3E%3Crect%20x='10'%20y='8'%20width='44'%20height='2'/%3E%3Crect%20x='6'%20y='18'%20width='52'%20height='2'/%3E%3Crect%20x='18'%20y='14'%20width='4'%20height='4'/%3E%3Crect%20x='30'%20y='14'%20width='4'%20height='4'/%3E%3Crect%20x='42'%20y='14'%20width='4'%20height='4'/%3E%3Crect%20x='12'%20y='24'%20width='6'%20height='4'/%3E%3Crect%20x='28'%20y='24'%20width='8'%20height='4'/%3E%3Crect%20x='46'%20y='24'%20width='6'%20height='4'/%3E%3C/g%3E%3C/svg%3E";
+
+/* TAPDAT-style checkered dither tile (8x8 repeating) */
+$nfo-checker-svg: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='8'%20height='8'%20viewBox='0%200%208%208'%20shape-rendering='crispEdges'%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='0'%20y='0'%20width='2'%20height='2'/%3E%3Crect%20x='4'%20y='0'%20width='2'%20height='2'/%3E%3Crect%20x='2'%20y='2'%20width='2'%20height='2'/%3E%3Crect%20x='6'%20y='2'%20width='2'%20height='2'/%3E%3Crect%20x='0'%20y='4'%20width='2'%20height='2'/%3E%3Crect%20x='4'%20y='4'%20width='2'%20height='2'/%3E%3Crect%20x='2'%20y='6'%20width='2'%20height='2'/%3E%3Crect%20x='6'%20y='6'%20width='2'%20height='2'/%3E%3C/g%3E%3C/svg%3E";
+
+/* Paradox-style sweeping pixel wave ornament (224x20 centered crest) */
+$nfo-wave-svg: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='224'%20height='20'%20viewBox='0%200%20224%2020'%20shape-rendering='crispEdges'%3E%3Cg%20fill='%23ffffff'%3E%3Crect%20x='108'%20y='2'%20width='12'%20height='2'/%3E%3Crect%20x='104'%20y='4'%20width='10'%20height='2'/%3E%3Crect%20x='122'%20y='4'%20width='4'%20height='2'/%3E%3Crect%20x='98'%20y='6'%20width='14'%20height='2'/%3E%3Crect%20x='90'%20y='8'%20width='18'%20height='2'/%3E%3Crect%20x='76'%20y='10'%20width='28'%20height='2'/%3E%3Crect%20x='54'%20y='12'%20width='44'%20height='2'/%3E%3Crect%20x='114'%20y='12'%20width='42'%20height='2'/%3E%3Crect%20x='34'%20y='14'%20width='38'%20height='2'/%3E%3Crect%20x='128'%20y='14'%20width='52'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='102'%20y='2'%20width='6'%20height='2'/%3E%3Crect%20x='120'%20y='2'%20width='6'%20height='2'/%3E%3Crect%20x='96'%20y='4'%20width='8'%20height='2'/%3E%3Crect%20x='114'%20y='4'%20width='8'%20height='2'/%3E%3Crect%20x='88'%20y='6'%20width='10'%20height='2'/%3E%3Crect%20x='112'%20y='6'%20width='10'%20height='2'/%3E%3Crect%20x='74'%20y='8'%20width='16'%20height='2'/%3E%3Crect%20x='108'%20y='8'%20width='8'%20height='2'/%3E%3Crect%20x='56'%20y='10'%20width='20'%20height='2'/%3E%3Crect%20x='104'%20y='10'%20width='14'%20height='2'/%3E%3Crect%20x='36'%20y='12'%20width='18'%20height='2'/%3E%3Crect%20x='98'%20y='12'%20width='16'%20height='2'/%3E%3Crect%20x='156'%20y='12'%20width='24'%20height='2'/%3E%3Crect%20x='18'%20y='14'%20width='16'%20height='2'/%3E%3Crect%20x='72'%20y='14'%20width='56'%20height='2'/%3E%3Crect%20x='180'%20y='14'%20width='22'%20height='2'/%3E%3Crect%20x='42'%20y='16'%20width='46'%20height='2'/%3E%3Crect%20x='140'%20y='16'%20width='48'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%23484848'%3E%3Crect%20x='8'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='16'%20y='12'%20width='8'%20height='2'/%3E%3Crect%20x='28'%20y='12'%20width='6'%20height='2'/%3E%3Crect%20x='184'%20y='12'%20width='8'%20height='2'/%3E%3Crect%20x='198'%20y='12'%20width='6'%20height='2'/%3E%3Crect%20x='210'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='6'%20y='14'%20width='8'%20height='2'/%3E%3Crect%20x='206'%20y='14'%20width='8'%20height='2'/%3E%3Crect%20x='24'%20y='16'%20width='14'%20height='2'/%3E%3Crect%20x='92'%20y='16'%20width='44'%20height='2'/%3E%3Crect%20x='192'%20y='16'%20width='14'%20height='2'/%3E%3C/g%3E%3C/svg%3E";
+
+$nfo-hr-faith-vine: "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='16'%20viewBox='0%200%20240%2016'%20shape-rendering='crispEdges'%3E%3Cg%20fill='%23ffffff'%3E%3Crect%20x='118'%20y='2'%20width='4'%20height='2'/%3E%3Crect%20x='116'%20y='4'%20width='8'%20height='2'/%3E%3Crect%20x='114'%20y='6'%20width='4'%20height='4'/%3E%3Crect%20x='122'%20y='6'%20width='4'%20height='4'/%3E%3Crect%20x='116'%20y='10'%20width='8'%20height='2'/%3E%3Crect%20x='118'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='108'%20y='6'%20width='4'%20height='2'/%3E%3Crect%20x='104'%20y='4'%20width='4'%20height='2'/%3E%3Crect%20x='98'%20y='4'%20width='4'%20height='2'/%3E%3Crect%20x='96'%20y='6'%20width='2'%20height='4'/%3E%3Crect%20x='98'%20y='10'%20width='6'%20height='2'/%3E%3Crect%20x='86'%20y='7'%20width='8'%20height='2'/%3E%3Crect%20x='128'%20y='6'%20width='4'%20height='2'/%3E%3Crect%20x='132'%20y='4'%20width='4'%20height='2'/%3E%3Crect%20x='138'%20y='4'%20width='4'%20height='2'/%3E%3Crect%20x='142'%20y='6'%20width='2'%20height='4'/%3E%3Crect%20x='136'%20y='10'%20width='6'%20height='2'/%3E%3Crect%20x='146'%20y='7'%20width='8'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%238c8c8c'%3E%3Crect%20x='118'%20y='6'%20width='4'%20height='4'/%3E%3Crect%20x='62'%20y='7'%20width='22'%20height='2'/%3E%3Crect%20x='156'%20y='7'%20width='22'%20height='2'/%3E%3Crect%20x='102'%20y='2'%20width='4'%20height='2'/%3E%3Crect%20x='134'%20y='2'%20width='4'%20height='2'/%3E%3Crect%20x='88'%20y='10'%20width='6'%20height='2'/%3E%3Crect%20x='146'%20y='10'%20width='6'%20height='2'/%3E%3C/g%3E%3Cg%20fill='%23484848'%3E%3Crect%20x='36'%20y='7'%20width='4'%20height='2'/%3E%3Crect%20x='44'%20y='7'%20width='4'%20height='2'/%3E%3Crect%20x='52'%20y='7'%20width='6'%20height='2'/%3E%3Crect%20x='182'%20y='7'%20width='6'%20height='2'/%3E%3Crect%20x='192'%20y='7'%20width='4'%20height='2'/%3E%3Crect%20x='200'%20y='7'%20width='4'%20height='2'/%3E%3Crect%20x='110'%20y='12'%20width='4'%20height='2'/%3E%3Crect%20x='126'%20y='12'%20width='4'%20height='2'/%3E%3C/g%3E%3C/svg%3E";
+
+html[data-theme='nfo'] {
+  /* Core palette */
+  --nfo-bg: #000000;
+  --nfo-surface: #080808;
+  --nfo-text: #c2c2c2;
+  --nfo-strong: #ffffff;
+  --nfo-muted: #767676;
+  --nfo-hairline: #444444;
+  --nfo-invert-bg: #ffffff;
+  --nfo-invert-text: #000000;
+  --nfo-invert-muted: #525252;
+  --nfo-invert-soft: #dcdcdc;
+  --nfo-scrim: rgba(0, 0, 0, 0.9);
+  --nfo-focus: #ffffff;
+  --nfo-art-invert: 0;
+
+  /* VitePress token remap */
+  --vp-c-bg: var(--nfo-bg) !important;
+  --vp-c-bg-alt: var(--nfo-surface) !important;
+  --vp-c-bg-elv: var(--nfo-surface) !important;
+  --vp-c-bg-soft: var(--nfo-surface) !important;
+  --vp-c-border: var(--nfo-hairline) !important;
+  --vp-c-divider: var(--nfo-hairline) !important;
+  --vp-c-gutter: var(--nfo-hairline) !important;
+  --vp-c-text-1: var(--nfo-text) !important;
+  --vp-c-text-2: var(--nfo-muted) !important;
+  --vp-c-text-3: var(--nfo-muted) !important;
+  --vp-c-brand-1: var(--nfo-strong) !important;
+  --vp-c-brand-2: var(--nfo-text) !important;
+  --vp-c-brand-3: var(--nfo-muted) !important;
+  --vp-c-brand-soft: var(--nfo-surface) !important;
+  --vp-c-default-soft: var(--nfo-surface) !important;
+  --vp-c-tip-1: var(--nfo-strong) !important;
+  --vp-c-tip-2: var(--nfo-text) !important;
+  --vp-c-tip-3: var(--nfo-muted) !important;
+  --vp-c-tip-soft: var(--nfo-surface) !important;
+  --vp-c-note-1: var(--nfo-strong) !important;
+  --vp-c-note-2: var(--nfo-text) !important;
+  --vp-c-note-3: var(--nfo-muted) !important;
+  --vp-c-note-soft: var(--nfo-surface) !important;
+  --vp-c-success-1: var(--nfo-strong) !important;
+  --vp-c-success-2: var(--nfo-text) !important;
+  --vp-c-success-3: var(--nfo-muted) !important;
+  --vp-c-success-soft: var(--nfo-surface) !important;
+  --vp-c-warning-1: var(--nfo-strong) !important;
+  --vp-c-warning-2: var(--nfo-text) !important;
+  --vp-c-warning-3: var(--nfo-muted) !important;
+  --vp-c-warning-soft: var(--nfo-surface) !important;
+  --vp-c-danger-1: var(--nfo-strong) !important;
+  --vp-c-danger-2: var(--nfo-text) !important;
+  --vp-c-danger-3: var(--nfo-muted) !important;
+  --vp-c-danger-soft: var(--nfo-surface) !important;
+  --vp-c-important-1: var(--nfo-strong) !important;
+  --vp-c-important-2: var(--nfo-text) !important;
+  --vp-c-important-3: var(--nfo-muted) !important;
+  --vp-c-important-soft: var(--nfo-surface) !important;
+  --vp-c-caution-1: var(--nfo-strong) !important;
+  --vp-c-caution-2: var(--nfo-text) !important;
+  --vp-c-caution-3: var(--nfo-muted) !important;
+  --vp-c-caution-soft: var(--nfo-surface) !important;
+  --vp-c-selection-bg: var(--nfo-strong) !important;
+
+  /* Typography */
+  --vp-font-family-base:
+    'PxPlus IBM VGA8', 'Lucida Console', 'Courier New', monospace !important;
+  --vp-font-family-mono:
+    'PxPlus IBM VGA8', 'Lucida Console', 'Courier New', monospace !important;
+
+  /* Component tokens */
+  --vp-nav-bg-color: var(--nfo-bg) !important;
+  --vp-nav-screen-bg-color: var(--nfo-bg) !important;
+  --vp-local-nav-bg-color: var(--nfo-bg) !important;
+  --vp-sidebar-bg-color: var(--nfo-bg) !important;
+  --vp-backdrop-bg-color: var(--nfo-scrim) !important;
+  --vp-local-search-bg: var(--nfo-surface) !important;
+  --vp-local-search-highlight-bg: #3a3a3a !important;
+  --vp-local-search-highlight-textcolor: #ffffff !important;
+  --vp-code-block-bg: var(--nfo-surface) !important;
+  --vp-code-bg: var(--nfo-surface) !important;
+  --vp-code-color: var(--nfo-text) !important;
+  --vp-code-block-color: var(--nfo-text) !important;
+  --vp-code-lang-color: var(--nfo-muted) !important;
+  --vp-code-line-number-color: var(--nfo-muted) !important;
+  --vp-code-line-highlight-color: var(--nfo-hairline) !important;
+  --vp-code-copy-code-bg: var(--nfo-surface) !important;
+  --vp-code-copy-code-hover-bg: var(--nfo-strong) !important;
+  --vp-code-copy-code-active-text: var(--nfo-invert-text) !important;
+  --vp-focus-highlight-bg: var(--nfo-strong) !important;
+  --vp-scroll-match-bg: #2e2e2e !important;
+  --vp-badge-info-border: var(--nfo-hairline) !important;
+  --vp-badge-info-text: var(--nfo-text) !important;
+  --vp-badge-info-bg: var(--nfo-surface) !important;
+  --vp-badge-tip-border: var(--nfo-hairline) !important;
+  --vp-badge-tip-text: var(--nfo-text) !important;
+  --vp-badge-tip-bg: var(--nfo-surface) !important;
+  --vp-badge-warning-border: var(--nfo-muted) !important;
+  --vp-badge-warning-text: var(--nfo-text) !important;
+  --vp-badge-warning-bg: var(--nfo-surface) !important;
+  --vp-badge-danger-border: var(--nfo-strong) !important;
+  --vp-badge-danger-text: var(--nfo-strong) !important;
+  --vp-badge-danger-bg: var(--nfo-surface) !important;
+
+  /* Custom block tokens */
+  --vp-custom-block-info-bg: var(--nfo-surface) !important;
+  --vp-custom-block-info-border: var(--nfo-hairline) !important;
+  --vp-custom-block-info-text: var(--nfo-text) !important;
+  --vp-custom-block-info-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-info-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-tip-bg: var(--nfo-surface) !important;
+  --vp-custom-block-tip-border: var(--nfo-hairline) !important;
+  --vp-custom-block-tip-text: var(--nfo-text) !important;
+  --vp-custom-block-tip-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-tip-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-warning-bg: var(--nfo-surface) !important;
+  --vp-custom-block-warning-border: var(--nfo-muted) !important;
+  --vp-custom-block-warning-text: var(--nfo-text) !important;
+  --vp-custom-block-warning-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-warning-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-danger-bg: var(--nfo-surface) !important;
+  --vp-custom-block-danger-border: var(--nfo-strong) !important;
+  --vp-custom-block-danger-text: var(--nfo-text) !important;
+  --vp-custom-block-danger-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-danger-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-important-bg: var(--nfo-surface) !important;
+  --vp-custom-block-important-border: var(--nfo-strong) !important;
+  --vp-custom-block-important-text: var(--nfo-text) !important;
+  --vp-custom-block-important-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-important-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-caution-bg: var(--nfo-surface) !important;
+  --vp-custom-block-caution-border: var(--nfo-strong) !important;
+  --vp-custom-block-caution-text: var(--nfo-text) !important;
+  --vp-custom-block-caution-text-deep: var(--nfo-strong) !important;
+  --vp-custom-block-caution-code-bg: var(--nfo-bg) !important;
+  --vp-custom-block-details-bg: var(--nfo-surface) !important;
+  --vp-custom-block-details-border: var(--nfo-hairline) !important;
+  --vp-custom-block-details-text: var(--nfo-text) !important;
+  --vp-custom-block-details-code-bg: var(--nfo-bg) !important;
+
+  /* FMHY tokens */
+  --fmhy-c-accent-subtle: var(--nfo-surface) !important;
+  --fmhy-c-accent-muted: var(--nfo-hairline) !important;
+  --fmhy-note-icon: var(--nfo-strong) !important;
+  --fmhy-note-icon-hover: var(--nfo-strong) !important;
+  --fmhy-note-icon-warning: var(--nfo-strong) !important;
+  --fmhy-note-icon-warning-hover: var(--nfo-strong) !important;
+  --fmhy-new-badge-bg: var(--nfo-surface) !important;
+  --fmhy-new-badge-text: var(--nfo-strong) !important;
+  --appearance-panel-accent-subtle: var(--nfo-surface) !important;
+  --appearance-panel-surface: var(--nfo-bg) !important;
+
+  color-scheme: dark;
+  background: var(--nfo-bg);
+  color: var(--nfo-text);
+  font-family: var(--vp-font-family-base);
+  font-size: 16px;
+  font-synthesis: none;
+  font-kerning: none;
+  font-variant-ligatures: none;
+}
+
+/* Inverted 1-bit Paradox light mode */
+html[data-theme='nfo'].light {
+  --nfo-bg: #ffffff;
+  --nfo-surface: #f4f4f4;
+  --nfo-text: #141414;
+  --nfo-strong: #000000;
+  --nfo-muted: #555555;
+  --nfo-hairline: #bbbbbb;
+  --nfo-invert-bg: #000000;
+  --nfo-invert-text: #ffffff;
+  --nfo-invert-muted: #b8b8b8;
+  --nfo-invert-soft: #2e2e2e;
+  --nfo-scrim: rgba(255, 255, 255, 0.92);
+  --nfo-focus: #000000;
+  --nfo-art-invert: 1;
+  --vp-local-search-highlight-bg: #dcdcdc !important;
+  --vp-local-search-highlight-textcolor: #000000 !important;
+  --vp-scroll-match-bg: #d0d0d0 !important;
+  color-scheme: light;
+}
+
+/* Strict flatness: zero glow, zero radius, zero blur */
+html[data-theme='nfo'],
+html[data-theme='nfo'] *,
+html[data-theme='nfo'] *::before,
+html[data-theme='nfo'] *::after {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  transition: none !important;
+  animation: none !important;
+}
+
+html[data-theme='nfo'] body,
+html[data-theme='nfo'] .Layout,
+html[data-theme='nfo'] .VPContent {
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-text) !important;
+  font-family: var(--vp-font-family-base) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] ::selection {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] ::placeholder {
+  color: var(--nfo-muted) !important;
+}
+
+html[data-theme='nfo'] :focus-visible {
+  outline: 2px solid var(--nfo-focus) !important;
+  outline-offset: 2px !important;
+}
+
+html[data-theme='nfo'] ::marker {
+  color: var(--nfo-strong) !important;
+}
+
+/* Scrollbars */
+html[data-theme='nfo'] {
+  scrollbar-color: var(--nfo-hairline) var(--nfo-bg);
+  scrollbar-width: thin;
+}
+
+html[data-theme='nfo'] ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  background: var(--nfo-bg);
+}
+
+html[data-theme='nfo'] ::-webkit-scrollbar-thumb {
+  background: var(--nfo-hairline);
+}
+
+html[data-theme='nfo'] ::-webkit-scrollbar-thumb:hover {
+  background: var(--nfo-muted);
+}
+
+/* ==========================================================================
+   Navbar
+   ========================================================================== */
+
+html[data-theme='nfo'] .VPNav,
+html[data-theme='nfo'] .VPNavBar,
+html[data-theme='nfo'] .VPNavBar .content-body {
+  background: var(--nfo-bg) !important;
+  border-color: var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .VPNavBar .divider-line {
+  background: var(--nfo-hairline) !important;
+}
+
+@media (min-width: 960px) {
+  html[data-theme='nfo'] .VPSidebar {
+    z-index: 20 !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar {
+    background: var(--nfo-bg) !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .wrapper {
+    padding: 0 32px !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .wrapper > .container {
+    margin: 0 auto !important;
+    max-width: calc(var(--vp-layout-max-width) - 64px) !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .container > .title {
+    position: static !important;
+    top: auto !important;
+    left: auto !important;
+    z-index: auto !important;
+    width: auto !important;
+    padding: 0 !important;
+    background-color: transparent !important;
+    flex-shrink: 0 !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBarTitle.has-sidebar .title {
+    border-bottom-color: transparent !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .content {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    flex-grow: 1 !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .content-body {
+    padding-right: 0 !important;
+    background: var(--nfo-bg) !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .divider {
+    padding-left: 0 !important;
+  }
+
+  html[data-theme='nfo'] .VPNavBar.has-sidebar .curtain {
+    display: none !important;
+  }
+}
+
+html[data-theme='nfo'] .VPNavBarTitle .title {
+  color: var(--nfo-strong) !important;
+  font-size: 16px !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: transparent !important;
+  border-color: var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarTitle .title:hover {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarSearch .DocSearch-Button {
+  background: var(--nfo-surface) !important;
+  border: 1px solid var(--nfo-hairline) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarSearch .DocSearch-Button .DocSearch-Button-Keys,
+html[data-theme='nfo'] .VPNavBarSearch .DocSearch-Button .DocSearch-Button-Key {
+  border-color: var(--nfo-hairline) !important;
+  color: var(--nfo-muted) !important;
+  background: transparent !important;
+}
+
+html[data-theme='nfo'] .VPNavBarSearch .DocSearch-Button:hover {
+  background: var(--nfo-strong) !important;
+  border-color: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarSearch .DocSearch-Button:hover * {
+  color: var(--nfo-invert-text) !important;
+  border-color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarMenuLink,
+html[data-theme='nfo'] .VPNavBarMenuGroup .button,
+html[data-theme='nfo'] .VPNavBarHamburger,
+html[data-theme='nfo'] .VPSocialLink,
+html[data-theme='nfo'] .theme-dropdown-toggle {
+  color: var(--nfo-text) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPNavBarMenuLink,
+html[data-theme='nfo'] .VPNavBarMenuGroup .button {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .VPMenuLink .link {
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .VPNavBarMenuLink:hover,
+html[data-theme='nfo'] .VPNavBarMenuLink.active,
+html[data-theme='nfo'] .VPNavBarMenuGroup .button:hover,
+html[data-theme='nfo'] .theme-dropdown-toggle:hover,
+html[data-theme='nfo'] .theme-dropdown-toggle.active,
+html[data-theme='nfo'] .VPSocialLink:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPNavBarHamburger .top,
+html[data-theme='nfo'] .VPNavBarHamburger .middle,
+html[data-theme='nfo'] .VPNavBarHamburger .bottom {
+  background-color: currentColor !important;
+}
+
+/* Sidebar */
+html[data-theme='nfo'] .VPSidebar {
+  background: var(--nfo-bg) !important;
+  border-right: 1px solid var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .VPSidebarItem .link,
+html[data-theme='nfo'] .VPSidebarItem .text,
+html[data-theme='nfo'] .VPSidebarItem .header {
+  color: var(--nfo-text) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPSidebarItem .text {
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .VPSidebarItem.is-link > .item > .link:hover,
+html[data-theme='nfo'] .VPSidebarItem.is-link > .item > .link:hover .text,
+html[data-theme='nfo'] .VPSidebarItem.is-active > .item > .link,
+html[data-theme='nfo'] .VPSidebarItem.is-active > .item > .link .text,
+html[data-theme='nfo'] .VPSidebarItem.is-active > .item > .link:hover,
+html[data-theme='nfo'] .VPSidebarItem.is-active > .item > .link:hover .text {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPSidebarItem .caret-icon {
+  color: var(--nfo-muted) !important;
+}
+
+/* Local nav and outline */
+html[data-theme='nfo'] .VPLocalNav {
+  background: var(--nfo-bg) !important;
+  border-bottom: 1px solid var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .VPLocalNav .menu {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalNav .menu:hover {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPDocAsideOutline .content {
+  border-left: 1px solid var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .VPDocAsideOutline .outline-title {
+  color: var(--nfo-strong) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPDocAsideOutline .outline-link {
+  color: var(--nfo-muted) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPDocAsideOutline .outline-link:hover,
+html[data-theme='nfo'] .VPDocAsideOutline .outline-link.active {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPDocAsideOutline .outline-marker {
+  background: var(--nfo-strong) !important;
+}
+
+/* ==========================================================================
+   Empress / Pantheon Pillars (Doc Pages & Homepage)
+   ========================================================================== */
+
+html[data-theme='nfo'] .VPDoc .content-container {
+  position: relative;
+  background: var(--nfo-bg) !important;
+  max-width: 700px;
+}
+
+@media (min-width: 1440px) {
+  html[data-theme='nfo'] .VPDoc .content-container::before,
+  html[data-theme='nfo'] .VPDoc .content-container::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 64px;
+    background-image:
+      url('#{$nfo-pillar-capital-svg}'), url('#{$nfo-pillar-plinth-svg}'),
+      url('#{$nfo-pillar-shaft-svg}');
+    background-position:
+      center top,
+      center bottom,
+      center 56px;
+    background-repeat: no-repeat, no-repeat, repeat-y;
+    background-size:
+      64px 56px,
+      64px 32px,
+      64px 96px;
+    image-rendering: pixelated;
+    filter: invert(var(--nfo-art-invert));
+    pointer-events: none;
+  }
+
+  html[data-theme='nfo'] .VPDoc .content-container::before {
+    left: -88px;
+  }
+
+  html[data-theme='nfo'] .VPDoc .content-container::after {
+    right: -88px;
+    transform: scaleX(-1);
+  }
+}
+
+/* Homepage Pantheon Pillars framing the centered home temple layout */
+html[data-theme='nfo'] .VPHome {
+  position: relative;
+}
+
+@media (min-width: 1200px) {
+  html[data-theme='nfo'] .VPHome .VPHero .container,
+  html[data-theme='nfo'] .VPHome .VPFeatures .container {
+    max-width: 920px !important;
+  }
+
+  html[data-theme='nfo'] .VPHome::before,
+  html[data-theme='nfo'] .VPHome::after {
+    content: '';
+    position: absolute;
+    top: 24px;
+    bottom: 32px;
+    width: 64px;
+    background-image:
+      url('#{$nfo-pillar-capital-svg}'), url('#{$nfo-pillar-plinth-svg}'),
+      url('#{$nfo-pillar-shaft-svg}');
+    background-position:
+      center top,
+      center bottom,
+      center 56px;
+    background-repeat: no-repeat, no-repeat, repeat-y;
+    background-size:
+      64px 56px,
+      64px 32px,
+      64px 96px;
+    image-rendering: pixelated;
+    filter: invert(var(--nfo-art-invert));
+    pointer-events: none;
+  }
+
+  html[data-theme='nfo'] .VPHome::before {
+    left: calc(50% - 552px);
+  }
+
+  html[data-theme='nfo'] .VPHome::after {
+    right: calc(50% - 552px);
+    transform: scaleX(-1);
+  }
+}
+
+/* Typography & NFO Section Headings */
+html[data-theme='nfo'] .vp-doc {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+html[data-theme='nfo'] .vp-doc h1,
+html[data-theme='nfo'] .vp-doc h2,
+html[data-theme='nfo'] .vp-doc h3,
+html[data-theme='nfo'] .vp-doc h4,
+html[data-theme='nfo'] .vp-doc h5,
+html[data-theme='nfo'] .vp-doc h6 {
+  color: var(--nfo-strong) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  line-height: 1.25;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .vp-doc :is(h1, h2, h3, h4, h5, h6) .header-anchor {
+  color: var(--nfo-muted) !important;
+  text-decoration: none !important;
+  background: transparent !important;
+}
+
+/* H1: FAITH / TAPDAT framed header */
+html[data-theme='nfo'] .vp-doc h1 {
+  font-size: 32px;
+  line-height: 1.15;
+  padding: 12px 16px;
+  margin-top: 8px;
+  margin-bottom: 24px;
+  border-top: 3px double var(--nfo-strong);
+  border-bottom: 3px double var(--nfo-strong);
+  text-align: center;
+  background: var(--nfo-surface);
+}
+
+/* H2: full-width NFO section bar with checkered bottom edge */
+html[data-theme='nfo'] .vp-doc h2 {
+  font-size: 16px;
+  line-height: 1.3;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  padding: 9px 12px 15px;
+  background: var(--nfo-surface);
+  border-top: 1px solid var(--nfo-strong);
+  border-bottom: 1px solid var(--nfo-hairline);
+  position: relative;
+}
+
+html[data-theme='nfo'] .vp-doc h2::before {
+  content: '■ ';
+  color: var(--nfo-strong);
+}
+
+html[data-theme='nfo'] .vp-doc h2::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 6px;
+  background-image: url('#{$nfo-checker-svg}');
+  background-repeat: repeat-x;
+  background-position: left bottom;
+  background-size: 8px 8px;
+  image-rendering: pixelated;
+  filter: invert(var(--nfo-art-invert));
+  opacity: 0.75;
+}
+
+html[data-theme='nfo'] .vp-doc h3 {
+  font-size: 16px;
+  border-bottom: 1px dashed var(--nfo-hairline);
+  padding-bottom: 4px;
+}
+
+html[data-theme='nfo'] .vp-doc h3::before {
+  content: '>> ';
+  color: var(--nfo-muted);
+}
+
+html[data-theme='nfo'] .vp-doc h4,
+html[data-theme='nfo'] .vp-doc h5,
+html[data-theme='nfo'] .vp-doc h6 {
+  font-size: 16px;
+  border-bottom: 1px dotted var(--nfo-hairline);
+  padding-bottom: 4px;
+}
+
+html[data-theme='nfo'] .vp-doc p,
+html[data-theme='nfo'] .vp-doc li,
+html[data-theme='nfo'] .vp-doc td,
+html[data-theme='nfo'] .vp-doc th {
+  color: var(--nfo-text) !important;
+  font-size: 16px;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .vp-doc strong {
+  color: var(--nfo-strong);
+}
+
+/* Links */
+html[data-theme='nfo'] .vp-doc a {
+  color: var(--nfo-strong) !important;
+  text-decoration: underline;
+  text-decoration-color: var(--nfo-hairline) !important;
+  text-underline-offset: 3px;
+}
+
+html[data-theme='nfo'] .vp-doc a:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+  text-decoration-color: transparent !important;
+}
+
+/* Horizontal rules: full-width hairline + centered Paradox pixel wave (collapse duplicate <hr>) */
+html[data-theme='nfo'] .vp-doc hr {
+  height: 16px;
+  margin: 14px 0;
+  border: 0;
+  background-color: transparent;
+  background-image:
+    url('#{$nfo-hr-faith-vine}'),
+    linear-gradient(
+      to bottom,
+      transparent 7px,
+      var(--nfo-hairline) 7px,
+      var(--nfo-hairline) 8px,
+      transparent 8px
+    );
+  background-repeat: no-repeat, no-repeat;
+  background-position:
+    center center,
+    center center;
+  background-size:
+    240px 16px,
+    100% 16px;
+  image-rendering: pixelated;
+  filter: invert(var(--nfo-art-invert));
+}
+
+html[data-theme='nfo'] .vp-doc hr + hr {
+  display: none !important;
+}
+
+/* Tables */
+html[data-theme='nfo'] .vp-doc table {
+  border: 1px solid var(--nfo-strong) !important;
+  background: var(--nfo-bg) !important;
+}
+
+html[data-theme='nfo'] .vp-doc th,
+html[data-theme='nfo'] .vp-doc td {
+  border: 1px solid var(--nfo-hairline) !important;
+  padding: 8px 10px !important;
+}
+
+html[data-theme='nfo'] .vp-doc th {
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-strong) !important;
+  border-bottom: 1px solid var(--nfo-strong) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+html[data-theme='nfo'] .vp-doc tr:nth-child(2n) {
+  background: var(--nfo-surface) !important;
+}
+
+/* Custom blocks: [ INFO ] / [ TIP ] / [ WARNING ] / [ DANGER ] */
+html[data-theme='nfo'] .custom-block {
+  background: var(--nfo-surface) !important;
+  border: 1px solid var(--nfo-hairline) !important;
+  border-left: 3px solid var(--nfo-strong) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .custom-block.danger,
+html[data-theme='nfo'] .custom-block.caution,
+html[data-theme='nfo'] .custom-block.important {
+  border-color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .custom-block.warning {
+  border-color: var(--nfo-muted) !important;
+  border-left-color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .custom-block-title {
+  color: var(--nfo-strong) !important;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+html[data-theme='nfo'] .custom-block-title::before {
+  content: '[ ';
+  width: auto !important;
+  height: auto !important;
+  background: none !important;
+  mask: none !important;
+  -webkit-mask: none !important;
+}
+
+html[data-theme='nfo'] .custom-block-title::after {
+  content: ' ]';
+}
+
+/* Code blocks: crisp monochrome without CSS filter blur */
+html[data-theme='nfo'] .vp-doc div[class*='language-'],
+html[data-theme='nfo'] .vp-block {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+}
+
+html[data-theme='nfo'] .vp-doc div[class*='language-'] code,
+html[data-theme='nfo'] .vp-doc div[class*='language-'] code span,
+html[data-theme='nfo'] .vp-block code {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .vp-doc :not(pre) > code {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-strong) !important;
+  padding: 1px 6px !important;
+}
+
+html[data-theme='nfo'] .vp-doc [class*='language-'] > button.copy {
+  border-color: var(--nfo-hairline) !important;
+  background-color: var(--nfo-surface) !important;
+}
+
+html[data-theme='nfo'] .vp-doc [class*='language-'] > button.copy:hover,
+html[data-theme='nfo'] .vp-doc [class*='language-'] > button.copy.copied {
+  background-color: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo']
+  .vp-doc
+  [class*='language-']
+  .has-focused-lines
+  .line:not(.has-focus) {
+  filter: none !important;
+  opacity: 0.45 !important;
+}
+
+/* Homepage Hero integration */
+html[data-theme='nfo'] .VPHome .VPHero {
+  margin-top: 0 !important;
+  padding-top: 20px !important;
+  padding-bottom: 24px !important;
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .container {
+  justify-content: center;
+  text-align: center;
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .main {
+  max-width: 100%;
+  margin: 0 auto !important;
+  padding-top: 0 !important;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .main > *:first-child {
+  margin-top: 0 !important;
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .name,
+html[data-theme='nfo'] .VPHome .VPHero .text,
+html[data-theme='nfo'] .VPHome .VPHero .image {
+  display: none !important;
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .tagline {
+  color: var(--nfo-text) !important;
+  font-size: 16px !important;
+  margin: 12px auto 0 !important;
+  max-width: 72ch;
+}
+
+html[data-theme='nfo'] .VPHome .VPHero .actions {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+html[data-theme='nfo'] .VPAnnouncement,
+html[data-theme='nfo'] [class*='announcement'],
+html[data-theme='nfo'] [class*='Announcement'] {
+  margin-top: 0 !important;
+  margin-bottom: 12px !important;
+  filter: grayscale(1) !important;
+}
+
+html[data-theme='nfo'] .VPHome .VPFeatures,
+html[data-theme='nfo'] .VPHome [class*='browse'] {
+  filter: grayscale(1);
+}
+
+/* Buttons */
+html[data-theme='nfo'] .VPButton {
+  border-radius: 0 !important;
+  font-size: 16px !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+html[data-theme='nfo'] .VPButton.brand,
+html[data-theme='nfo'] .VPButton.alt {
+  border: 1px solid var(--nfo-strong) !important;
+  color: var(--nfo-strong) !important;
+  background: var(--nfo-bg) !important;
+}
+
+html[data-theme='nfo'] .VPButton.brand::before {
+  content: '[ ';
+}
+
+html[data-theme='nfo'] .VPButton.brand::after {
+  content: ' ]';
+}
+
+html[data-theme='nfo'] .VPButton.brand:hover,
+html[data-theme='nfo'] .VPButton.alt:hover,
+html[data-theme='nfo'] .VPButton.brand:active,
+html[data-theme='nfo'] .VPButton.alt:active {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+/* Features, cards, badges, tags */
+html[data-theme='nfo'] .VPFeature {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-bg) !important;
+}
+
+html[data-theme='nfo'] .VPFeature:hover {
+  border-color: var(--nfo-strong) !important;
+  background: var(--nfo-surface) !important;
+}
+
+html[data-theme='nfo'] .VPFeature .icon {
+  background: var(--nfo-surface) !important;
+  border: 1px solid var(--nfo-hairline);
+  filter: grayscale(1) contrast(1.2);
+}
+
+html[data-theme='nfo'] .VPFeature .title {
+  color: var(--nfo-strong) !important;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPFeature .details {
+  color: var(--nfo-text) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPFeature .link-text-value {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .link-card {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-text) !important;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .link-card:hover {
+  border-color: var(--nfo-strong) !important;
+  background: var(--nfo-surface) !important;
+}
+
+html[data-theme='nfo'] .link-card .title {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .link-card .description {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .feature-tag,
+html[data-theme='nfo'] .VPBadge,
+html[data-theme='nfo'] .new-badge {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-strong) !important;
+  filter: grayscale(1);
+}
+
+html[data-theme='nfo'] .VPBadge.danger,
+html[data-theme='nfo'] .VPBadge.warning {
+  border-color: var(--nfo-strong) !important;
+  color: var(--nfo-strong) !important;
+}
+
+/* Monochrome media & icons */
+html[data-theme='nfo'] img,
+html[data-theme='nfo'] svg,
+html[data-theme='nfo'] [class*='i-'],
+html[data-theme='nfo'] .VPImage,
+html[data-theme='nfo'] .vpi-social-github,
+html[data-theme='nfo'] .vpi-social-discord,
+html[data-theme='nfo'] .vpi-social-reddit {
+  filter: grayscale(1) contrast(1.2);
+}
+
+/* Switch */
+html[data-theme='nfo'] .switch {
+  background-color: var(--nfo-surface) !important;
+  border-color: var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .switch .thumb {
+  background-color: var(--nfo-muted) !important;
+}
+
+html[data-theme='nfo'] .switch.enabled {
+  background-color: var(--nfo-strong) !important;
+  border-color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .switch.enabled .thumb {
+  background-color: var(--nfo-bg) !important;
+}
+
+/* Appearance panel and theme picker */
+html[data-theme='nfo'] .appearance-panel-title {
+  color: var(--nfo-muted) !important;
+  text-transform: uppercase;
+}
+
+html[data-theme='nfo'] .appearance-panel-item {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .appearance-panel-item:hover,
+html[data-theme='nfo'] .appearance-panel-item.active {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .appearance-panel-divider {
+  background: var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo'] .color-picker-container button {
+  border: 1px solid var(--nfo-hairline);
+}
+
+html[data-theme='nfo'] .color-picker-container button[aria-pressed='true'] {
+  border-color: var(--nfo-strong);
+  outline: 2px solid var(--nfo-strong);
+  outline-offset: 2px;
+}
+
+html[data-theme='nfo'] .color-picker-container button span {
+  border: 1px solid var(--nfo-hairline);
+}
+
+/* Popovers, menus, tooltips */
+html[data-theme='nfo'] .v-popper--theme-tooltip .v-popper__inner,
+html[data-theme='nfo'] .v-popper--theme-theme-selector .v-popper__inner,
+html[data-theme='nfo']
+  .v-popper--theme-tooltip.new-badge-popper
+  .v-popper__inner,
+html[data-theme='nfo'] .VPMenu,
+html[data-theme='nfo'] .VPLocalNavOutlineDropdown .items,
+html[data-theme='nfo'] .tooltip-card,
+html[data-theme='nfo'] .critical-popover-card {
+  background: var(--nfo-bg) !important;
+  border: 1px solid var(--nfo-strong) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .v-popper--theme-theme-selector .v-popper__inner {
+  --appearance-panel-surface: var(--nfo-bg);
+}
+
+html[data-theme='nfo'] .VPMenu .VPMenuLink > .link:hover,
+html[data-theme='nfo'] .VPMenu .VPMenuLink > .link.active,
+html[data-theme='nfo'] .VPLocalNavOutlineDropdown .outline-link:hover,
+html[data-theme='nfo'] .VPLocalNavOutlineDropdown .outline-link.active {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+/* ==========================================================================
+   Search Modal
+   ========================================================================== */
+
+html[data-theme='nfo'] .VPLocalSearchBox .backdrop {
+  background: var(--nfo-scrim) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .shell {
+  border: 1px solid var(--nfo-strong) !important;
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .search-bar {
+  border: 1px solid var(--nfo-hairline) !important;
+  border-bottom: 1px solid var(--nfo-strong) !important;
+  background: var(--nfo-surface) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .search-bar:focus-within {
+  border-color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .search-input,
+html[data-theme='nfo'] .VPLocalSearchBox .search-input:focus,
+html[data-theme='nfo'] .VPLocalSearchBox .search-input:focus-visible {
+  background: transparent !important;
+  border: 0 !important;
+  outline: none !important;
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox button {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox button:hover,
+html[data-theme='nfo'] .VPLocalSearchBox button.active,
+html[data-theme='nfo'] .VPLocalSearchBox button.fuzzy-active,
+html[data-theme='nfo'] .VPLocalSearchBox button.url-active {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .category-chip {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .category-chip.active {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result * {
+  filter: grayscale(1);
+}
+
+/* Default (unfocused) search matches — low specificity so active match overrides */
+:where(html[data-theme='nfo'] .VPLocalSearchBox .result mark) {
+  background: #3a3a3a;
+  color: #ffffff;
+  padding: 0 2px;
+}
+
+/* Currently cycled/active match inside unselected card */
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result
+  :is(
+    mark.active,
+    mark.current,
+    mark.focused,
+    mark.scroll-match,
+    mark.match-active,
+    mark[data-active='true'],
+    mark[aria-current='true']
+  ) {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+  outline: 1px solid var(--nfo-strong);
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result a {
+  color: var(--nfo-strong) !important;
+  text-decoration: underline;
+  text-decoration-color: var(--nfo-hairline);
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result a:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .result a:focus-visible {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+  text-decoration: none !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result a:hover mark,
+html[data-theme='nfo'] .VPLocalSearchBox .result a:focus-visible mark {
+  background: transparent !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+/* Selected search result card */
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected {
+  --vp-c-text-1: var(--nfo-invert-text) !important;
+  --vp-c-text-2: var(--nfo-invert-muted) !important;
+  --vp-c-brand-1: var(--nfo-invert-text) !important;
+  --vp-local-search-highlight-bg: var(--nfo-invert-soft) !important;
+  --vp-local-search-highlight-textcolor: var(--nfo-invert-text) !important;
+  --vp-scroll-match-bg: #d0d0d0 !important;
+  --vp-focus-highlight-bg: var(--nfo-invert-text) !important;
+  background: var(--nfo-strong) !important;
+  border-color: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  :is(.titles, .title-icon, .title, .text, .excerpt, li, p, a) {
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  span:not(.new-badge):not(.VPBadge):not(.excerpt-actions *) {
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .titles {
+  border-bottom: 1px solid var(--nfo-invert-text);
+  padding-bottom: 4px;
+  margin-bottom: 6px;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a {
+  text-decoration: underline;
+  text-decoration-color: var(--nfo-invert-muted);
+}
+
+/* Default match inside selected white card */
+:where(html[data-theme='nfo'] .VPLocalSearchBox .result.selected mark) {
+  background: var(--nfo-invert-soft);
+  color: var(--nfo-invert-text);
+  border-bottom: 1px solid var(--nfo-invert-text);
+  padding: 0 2px;
+}
+
+/* Currently cycled/active match inside selected white card */
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  :is(
+    mark.active,
+    mark.current,
+    mark.focused,
+    mark.scroll-match,
+    mark.match-active,
+    mark[data-active='true'],
+    mark[aria-current='true']
+  ) {
+  background: var(--nfo-invert-text) !important;
+  color: var(--nfo-strong) !important;
+  border-bottom: 0;
+}
+
+/* Hovered link inside selected card */
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:focus-visible {
+  background: var(--nfo-invert-text) !important;
+  color: var(--nfo-strong) !important;
+  text-decoration: none !important;
+  padding: 0 3px;
+}
+
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  a:hover
+  :not(.new-badge):not(.VPBadge),
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  a:focus-visible
+  :not(.new-badge):not(.VPBadge) {
+  background: transparent !important;
+  color: var(--nfo-strong) !important;
+  border-color: transparent !important;
+}
+
+/* Keep NEW / VPBadge crisp inside selected cards and hovered links */
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .new-badge,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .new-badge *,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .VPBadge,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .VPBadge * {
+  background: var(--nfo-invert-text) !important;
+  color: var(--nfo-strong) !important;
+  border-color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:hover .new-badge,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:hover .new-badge *,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:hover .VPBadge,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected a:hover .VPBadge * {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+  border-color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .excerpt-gradient-top,
+html[data-theme='nfo'] .VPLocalSearchBox .excerpt-gradient-bottom {
+  display: none !important;
+}
+
+/* Match cycler (< 1/2 >) and action buttons */
+html[data-theme='nfo'] .VPLocalSearchBox .excerpt-actions,
+html[data-theme='nfo'] .VPLocalSearchBox .match-nav-button,
+html[data-theme='nfo'] .VPLocalSearchBox .try-fuzzy-btn,
+html[data-theme='nfo'] .VPLocalSearchBox .suggestion-btn,
+html[data-theme='nfo'] .VPLocalSearchBox .show-more-btn,
+html[data-theme='nfo'] .VPLocalSearchBox .recent-item,
+html[data-theme='nfo'] .VPLocalSearchBox .clear-all-btn {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .excerpt-actions {
+  background: var(--nfo-invert-text) !important;
+  border-color: var(--nfo-invert-text) !important;
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .excerpt-actions span,
+html[data-theme='nfo'] .VPLocalSearchBox .result.selected .match-nav-button {
+  background: var(--nfo-invert-text) !important;
+  color: var(--nfo-strong) !important;
+  border-color: var(--nfo-hairline) !important;
+}
+
+html[data-theme='nfo']
+  .VPLocalSearchBox
+  .result.selected
+  .match-nav-button:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .match-nav-button:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .try-fuzzy-btn:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .suggestion-btn:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .show-more-btn:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .recent-item:hover,
+html[data-theme='nfo'] .VPLocalSearchBox .clear-all-btn:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox .search-keyboard-shortcuts {
+  color: var(--nfo-muted) !important;
+}
+
+html[data-theme='nfo'] .VPLocalSearchBox kbd {
+  border: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-surface) !important;
+  color: var(--nfo-text) !important;
+}
+
+/* Dialogs */
+html[data-theme='nfo'] .dialog-backdrop,
+html[data-theme='nfo'] .critical-backdrop {
+  background: var(--nfo-scrim) !important;
+}
+
+html[data-theme='nfo'] .dialog-content,
+html[data-theme='nfo'] .critical-dialog {
+  border: 1px solid var(--nfo-strong) !important;
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .dialog-title,
+html[data-theme='nfo'] .critical-dialog-title {
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .dialog-text,
+html[data-theme='nfo'] .critical-dialog-text,
+html[data-theme='nfo'] .critical-dialog-body {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .dialog-btn,
+html[data-theme='nfo'] .critical-dialog-btn {
+  border: 1px solid var(--nfo-strong) !important;
+  background: transparent !important;
+  color: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] .dialog-btn:hover,
+html[data-theme='nfo'] .critical-dialog-btn:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+/* Inputs */
+html[data-theme='nfo'] input,
+html[data-theme='nfo'] textarea,
+html[data-theme='nfo'] select {
+  background: var(--nfo-surface) !important;
+  border: 1px solid var(--nfo-hairline) !important;
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] input[type='checkbox'] {
+  accent-color: var(--nfo-strong);
+}
+
+/* Progress */
+html[data-theme='nfo'] #nprogress .bar {
+  background: var(--nfo-strong) !important;
+}
+
+html[data-theme='nfo'] #nprogress .peg {
+  display: none !important;
+}
+
+/* Footer */
+html[data-theme='nfo'] .VPFooter {
+  border-top: 1px solid var(--nfo-hairline) !important;
+  background: var(--nfo-bg) !important;
+  color: var(--nfo-muted) !important;
+  font-size: 16px;
+}
+
+html[data-theme='nfo'] .VPFooter a {
+  color: var(--nfo-text) !important;
+}
+
+html[data-theme='nfo'] .VPFooter a:hover {
+  background: var(--nfo-strong) !important;
+  color: var(--nfo-invert-text) !important;
+}
+
+html[data-theme='nfo'] .VPFooter .copyright::after {
+  content: ' · estd. 2018 · nfo layout';
+}
+
+/* ==========================================================================
+   NFO Homepage Banner (only visible in NFO theme)
+   ========================================================================== */
+
+.nfo-only {
+  display: none !important;
+}
+
+html[data-theme='nfo'] .nfo-only {
+  display: block !important;
+}
+
+html[data-theme='nfo'] .nfo-banner.is-home {
+  position: relative;
+  max-width: min(92vw, 920px);
+  margin: 24px auto 16px;
+  padding: 20px 24px 16px;
+  background: var(--nfo-bg);
+  border-top: 3px double var(--nfo-strong);
+  border-bottom: 3px double var(--nfo-strong);
+}
+
+/* Checkered TAPDAT canopy strip */
+html[data-theme='nfo'] .nfo-canopy {
+  height: 16px;
+  margin-bottom: 16px;
+  border-top: 1px solid var(--nfo-strong);
+  border-bottom: 1px solid var(--nfo-hairline);
+  background-image: url('#{$nfo-checker-svg}');
+  background-repeat: repeat;
+  background-size: 8px 8px;
+  image-rendering: pixelated;
+  filter: invert(var(--nfo-art-invert));
+}
+
+/* Centered FMHY ASCII Logo: integer pixel scaling (32px desktop, 16px tablet) */
+html[data-theme='nfo'] .nfo-art-wrap {
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  padding: 4px 0;
+}
+
+html[data-theme='nfo'] .nfo-art {
+  width: max-content;
+  margin: 0 auto;
+  color: var(--nfo-strong);
+  font-family: 'PxPlus IBM VGA8', 'Lucida Console', 'Courier New', monospace;
+  font-size: 32px;
+  line-height: 1;
+  white-space: pre;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never;
+  font-kerning: none;
+  font-variant-ligatures: none;
+  font-feature-settings:
+    'liga' 0,
+    'calt' 0;
+}
+
+@media (max-width: 959px) {
+  html[data-theme='nfo'] .nfo-art {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  html[data-theme='nfo'] .nfo-banner.is-home {
+    padding: 14px 12px;
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 459px) {
+  html[data-theme='nfo'] .nfo-art {
+    font-size: clamp(9px, 3.1vw, 16px);
+  }
+}
+
+/* "F · M · H · Y   p r e s e n t s" strip */
+html[data-theme='nfo'] .nfo-presents {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0 8px;
+}
+
+html[data-theme='nfo'] .nfo-presents-dither {
+  flex: 1;
+  height: 16px;
+  background-image: url('#{$nfo-checker-svg}');
+  background-repeat: repeat;
+  background-size: 8px 8px;
+  image-rendering: pixelated;
+  filter: invert(var(--nfo-art-invert));
+}
+
+html[data-theme='nfo'] .nfo-presents-label {
+  flex: 0 0 auto;
+  padding: 2px 14px;
+  border: 1px solid var(--nfo-strong);
+  background: var(--nfo-surface);
+  color: var(--nfo-strong);
+  font-size: 16px;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+/* Bottom Paradox wave flourish inside homepage banner */
+html[data-theme='nfo'] .nfo-wave-divider {
+  height: 20px;
+  margin-top: 14px;
+  background-image: url('#{$nfo-wave-svg}');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 224px 20px;
+  image-rendering: pixelated;
+  filter: invert(var(--nfo-art-invert));
+}

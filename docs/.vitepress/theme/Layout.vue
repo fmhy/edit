@@ -5,6 +5,7 @@ import { nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import Announcement from './components/Announcement.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
 import CriticalDialog from './components/CriticalDialog.vue'
+import NfoBanner from './components/NfoBanner.vue'
 import Sidebar from './components/SidebarCard.vue'
 import {
   dismissCritical,
@@ -161,7 +162,8 @@ const correctInitialHashScroll = async () => {
   if (!window.location.hash) return
 
   const navigation = performance.getEntriesByType('navigation')[0] as
-    PerformanceNavigationTiming | undefined
+    | PerformanceNavigationTiming
+    | undefined
   if (navigation?.type === 'back_forward') return
 
   const previousScrollRestoration = history.scrollRestoration
@@ -309,6 +311,9 @@ onUnmounted(() => {
   <Layout>
     <template #sidebar-nav-after>
       <Sidebar />
+    </template>
+    <template #home-hero-before>
+      <NfoBanner />
     </template>
     <template #home-hero-info-before>
       <Announcement />

@@ -33,6 +33,7 @@ import FloatingVue from 'floating-vue'
 import Feedback from './components/Feedback.vue'
 
 import 'floating-vue/dist/style.css'
+import './nfo.scss'
 
 import CriticalBadge from './components/CriticalBadge.vue'
 import GradientCard from './components/GradientCard.vue'

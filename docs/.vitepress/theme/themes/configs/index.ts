@@ -20,12 +20,14 @@ import { colorThemes } from './colors'
 import { halloweenTheme } from './halloween'
 import { monochromeTheme } from './monochrome'
 import { monolithTheme } from './monolith'
+import { nfoTheme } from './nfo'
 
 export const themeRegistry: ThemeRegistry = {
   catppuccin: catppuccinTheme,
   halloween: halloweenTheme,
   monochrome: monochromeTheme,
   monolith: monolithTheme,
+  nfo: nfoTheme,
   ...colorThemes
 }
 
@@ -34,5 +36,6 @@ export {
   halloweenTheme,
   monochromeTheme,
   monolithTheme,
+  nfoTheme,
   colorThemes
 }
