@@ -19,7 +19,7 @@ const VERSION = 2
 
 // Below this similarity a section is not shown. Unrelated queries
 // ("mortgage calculator", "plumber near me") peak just under it.
-export const SEMANTIC_MIN_SIMILARITY = 0.6
+export const SEMANTIC_MIN_SIMILARITY = 0.55
 export const SEMANTIC_LIMIT = 16
 // Reciprocal rank fusion constant (Cormack et al.): rank r contributes 1/(k+r).
 export const RRF_K = 60

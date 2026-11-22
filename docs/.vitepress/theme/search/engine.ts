@@ -772,6 +772,8 @@ export interface SearchModes {
   semantic?: SemanticHit[]
   // `=` mode: literal match only. No planner, no expansions, no fuzzy.
   pure?: boolean
+  // Semantic mode: show the embedding hits only, no keyword results.
+  semanticOnly?: boolean
 }
 
 const MAX_HEADING_PHRASES = 16
@@ -998,9 +1000,11 @@ export function runSearch(
   const queryLooksLikeUrl = looksLikeUrlQuery(filterTextValue)
   // Pasted URLs should search URLs only. Running the normal text index too
   // turns URL punctuation into generic terms and leaks unrelated results.
-  const rawResults = queryLooksLikeUrl
-    ? []
-    : (index.search(query, searchOptions) as SearchHit[])
+  const semanticOnly = !!modes.semanticOnly && !queryLooksLikeUrl
+  const rawResults =
+    queryLooksLikeUrl || semanticOnly
+      ? []
+      : (index.search(query, searchOptions) as SearchHit[])
   const searchUrls = modes.url || queryLooksLikeUrl
   const urlResults = searchUrls
     ? findUrlMatches(index, filterTextValue, ctx.urlIndex)
@@ -1054,7 +1058,9 @@ export function runSearch(
   // Semantic hits fuse into the pool that will be shown: the exact one, or
   // the typo-tolerant one when the exact query found nothing.
   const fallback = !results.some((r) => !r.fallback)
-  const pool = results.filter((r) => !!r.fallback === fallback)
+  const pool = semanticOnly
+    ? []
+    : results.filter((r) => !!r.fallback === fallback)
   const lines = new Map(modes.semantic.map((h) => [h.id, h.line]))
   const fused = fuseSemantic(pool, modes.semantic, (id) => {
     const stored = index.getStoredFields(id) as
