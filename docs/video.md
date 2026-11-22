@@ -426,6 +426,7 @@
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
 * [⁠DramaFren](https://dramafren.org/) - Vertical Dramas / Mini-Series
+* [Dramadex](https://www.dramadex.com/) - Short Dramas / Vertical Dramas
 
 ***
 
