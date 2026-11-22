@@ -770,6 +770,8 @@ export interface SearchModes {
   url: boolean
   // Ranked semantic matches for the query, fused with the keyword results.
   semantic?: SemanticHit[]
+  // `=` mode: literal match only. No planner, no expansions, no fuzzy.
+  pure?: boolean
 }
 
 const MAX_HEADING_PHRASES = 16
@@ -905,7 +907,10 @@ export function runSearch(
   modes: SearchModes
 ): { results: SearchHit[]; usedSubstringExpansion: boolean } {
   const { index } = ctx
-  const expandedWords = expandQueryWords(ctx.termKeys, filterTextValue)
+  const pure = modes.pure ?? false
+  const expandedWords = pure
+    ? null
+    : expandQueryWords(ctx.termKeys, filterTextValue)
   const wordsQuery: Query = expandedWords
     ? { combineWith: 'AND', queries: expandedWords }
     : filterTextValue
@@ -913,8 +918,17 @@ export function runSearch(
   let usedSubstringExpansion = false
 
   const words = tokenizeIndexLike(filterTextValue)
-  const plan = planQuery(words)
-  const rewritten = plan.rewritten && plan.required.length > 0
+  // Pure mode still needs a plan shape for ranking: every word is required
+  // and nothing is rewritten, so the literal query runs as typed.
+  const plan = pure
+    ? {
+        required: words.map((w) => [w]),
+        optional: [],
+        rewritten: false,
+        platforms: platformsIn(words.join(' '))
+      }
+    : planQuery(words)
+  const rewritten = !pure && plan.rewritten && plan.required.length > 0
   const fuzzy = modes.fuzzy ? fuzzyTolerance : false
   // Typo tolerance applies to what the user typed, not to expansions.
   const groupQuery = (group: string[]): Query => ({

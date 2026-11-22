@@ -451,7 +451,12 @@ watchDebounced(
           sidebar: Array.isArray(sidebar) ? sidebar : []
         },
         filterTextValue,
-        { fuzzy: isFuzzySearch.value, url: isUrlSearch.value, semantic }
+        {
+          fuzzy: isFuzzySearch.value,
+          url: isUrlSearch.value,
+          semantic,
+          pure: !isFuzzySearch.value && !isSemanticSearch.value
+        }
       )
     let { results: boostedResults, usedSubstringExpansion: usedExpansion } =
       search()
