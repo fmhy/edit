@@ -33,7 +33,7 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)** or [⁠Ytify](https://ytify.pp.ua/) / [Telegram](https://t.me/ytifytg) - YouTube Music WebUIs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_youtube_music_tools)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** or [⁠soundcloak](https://sc.maid.zone/) / [Instances](https://maid.zone/soundcloak/instances.html) - User-Made & User-Uploaded Songs / [Account Manager](https://github.com/Kuzuw/scam)
-* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/), [yedits](https://tracker.yedits.xyz/) / [Discord](https://discord.gg/2huJDqqq6Y) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * ⭐ **[Monochrome](https://monochrome.st/)** - Browser Music / Lossless / [Discord](https://monochrome.st/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * [Spotify](https://open.spotify.com/) - Web Player / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - Browser Music / Requires Sign-Up / [Availability](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/deezer-availability.md)
@@ -43,6 +43,7 @@
 * [Jango](https://jango.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [⁠Arcod](https://player.arcod.xyz/) - Browser Music
+* [⁠PFlix Music](https://pflix.net/music) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Russian Music / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [JioSaavn](https://www.jiosaavn.com/) or [Hayasaka](https://hayasaka.8man.in/) - Browser Music / [API](https://cyberboysumanjay.github.io/JioSaavnAPI/)
@@ -128,6 +129,7 @@
 * [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 * [⁠Aidoru Online](https://aidoru-online.me/) - Japanese Idol Group Performances / Torrents / Signup Required
 * [ToolDriveProject](https://tooldriveproject.net/) - Tool Live Archive
+* [⁠NIN Live](https://ninlive.com/) - Nine Inch Nails (NIN) Live Archive
 * [RATM.live](https://ratm.live/) - Rage Against the Machine Live Archive
 * [RHCPLiveArchive](https://www.rhcplivearchive.com/) - Red Hot Chili Peppers Live Archive
 * [Radio Nowhere](https://rentry.co/FMHYB64#radio-nowhere) - Bruce Springsteen Concerts / Bootlegs
@@ -186,7 +188,7 @@
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
-* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Music Stations / Playlists
+* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)**, **[Music For Programming](https://musicforprogramming.net/latest/)** or [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Ambient Music Stations / Playlists
 * ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
 * ⭐ **[Moodist](https://moodist.mvze.net/)** - Customizable Ambient Sound Mixer
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
@@ -323,7 +325,6 @@
 * [NTS Otaku](https://www.nts.live/infinite-mixtapes/otaku) or [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) or [r-a-d.io](https://r-a-d.io/) - Anime Radio
 * [⁠Kobold.FM](https://kobold.messy.quest/) - Dungeon Synth & Fantasy Ambient Radio
-* [420.moe](https://420.moe/) - 420 Radio
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 
 ***
@@ -338,7 +339,6 @@
 * [Lofizen](https://www.lofizen.co/) - Lofi Radio / Ambient Sounds
 * [⁠Lofi Cities](https://loficities.com/) - Lofi Radio / Pixel Art Cities
 * [Moon Phase Radio](https://www.moonphaseradio.com/) - Lofi Radio
-* [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Lofi Radio
 * [LofiCafe](https://www.loficafe.net/) - Lofi Radio
 * [Ambicular](https://ambicular.com/) - Lofi Radio
 * [FreeCodeCamp](https://coderadio.freecodecamp.org/) - Lofi Radio
@@ -514,6 +514,7 @@
 
 ## ▷ Genre Specific Ripping
 
+* ⭐ **[ArtistGrid](https://artistgrid.cx/)** / [GitHub](https://github.com/ArtistGrid/), [yedits](https://tracker.yedits.xyz/) / [Discord](https://discord.gg/2huJDqqq6Y) or [⁠unmusic](https://unmusic.xyz/) - Unreleased
 * [HQ Hip Hop](https://94hiphop.com/) or [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) or [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
 * [Rap War](https://rap-war-fam.blogspot.com/) - Hip Hop / MP3

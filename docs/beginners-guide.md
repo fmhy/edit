@@ -54,7 +54,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Stream Site List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [StreamCorner](https://streamcorner.st/) / [TimStreams](https://timstreams.st/)**
+* **Sports Streaming: [StreamCorner](https://strmcrnr.st/) / [TimStreams](https://timstreams.st/)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Tracking: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 * **Discovery: [They Shoot Pictures](https://theyshootpictures.com/) / [MDBList](https://mdblist.com/) / [SeriesGraph](https://seriesgraph.com/)**
@@ -63,7 +63,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Anime
 
-* **Streaming: [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/) / [animepahe](https://animepahe.pw/)**
+* **Streaming: [animepahe](https://animepahe.pw/) / [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Tracking: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**

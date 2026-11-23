@@ -45,7 +45,7 @@
 * ⭐ **[WitAnime](https://witanime.site/)** - Anime / Sub / 1080p
 * [TopCinema](https://topcinemaa.vip/) - Movies / TV / Anime
 * [EgyBest](https://egybest.la/) - Movies / TV / Anime
-* [MySeed](https://m.myseed.tv/ ) - Movies / TV / Anime
+* [MySeed](https://m.myseed.tv/) - Movies / TV / Anime
 * [⁠MyCima](https://mycima.gdn/) - Movies / TV
 * [Laroza TV](https://llaroza.monster/) - Movies / TV
 * [⁠ahwak tv](https://yam.ahwaktv.net/), [2](https://ahwaktv.beer/) - Movies / TV
@@ -301,7 +301,7 @@
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/) or [quanxue](https://www.quanxue.cn/) - Chinese Historic Text Archives
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [NG Tech](https://ng-tech.icu/) - Documents
-* [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) - Programming Books
+* [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) or [bookstack](https://www.bookstack.cn/) - Programming Books
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
 * [CBeta](https://www.cbeta.org/) or [Goodweb](http://goodweb.net.cn/sutra/) - Chinese Buddhist Scriptures
@@ -1544,7 +1544,6 @@
 * [Area Documental](https://www.area-documental.com/) - Documentaries / [Remove Watermark](https://pastebin.com/e77cHmgm), [2](https://github.com/acridsoul/Clear-Mark)
 * [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
 * [JKAnime](https://jkanime.net/) - Anime / Sub
-* [Animejara](https://animejara.com/) - Anime / Sub / [Discord](https://discord.com/invite/MTzZTPffXs)
 * [TioAnime](https://tioanime.com/) - Anime / Sub
 * [⁠InfinityAnime](https://infinityanime.net/) - Anime
 * [Animed23](https://animed23.com/) - Anime / [Telegram](https://t.me/+8nmOjT1PWFczZDhh)
@@ -1661,6 +1660,7 @@
 * [Yabancıdizi](https://yabancidizi.news/) - Movies / TV / Sub / Dub / 1080p
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
+* [⁠Diziizle](https://www.diziizle.you/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.app/) - Movies / Requires VPN
 * [Turkish123](https://ahs.turkish123.com/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs

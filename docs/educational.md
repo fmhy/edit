@@ -931,7 +931,7 @@
 * [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe) - Preparedness Encyclopedia
 * [r/Preppers](https://www.reddit.com/r/preppers/) - Preparedness Subreddit
 * [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Preparedness File Sharing
-* [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
+* [Project NOMAD](https://www.projectnomad.us/) / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad) or [⁠Lastbook](https://lastbook.org/) / [GitHub](https://github.com/Immortal-Protocols/lastbook) - Self-Contained Offline Knowledge + Off-Grid Databases
 
 ***
 
