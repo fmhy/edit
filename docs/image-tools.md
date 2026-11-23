@@ -45,6 +45,7 @@
 * [webp2jpg](https://renzhezhilu.github.io/webp2jpg-online/) - Simple Editor
 * [edit.photo](https://edit.photo/) - Simple Editor
 * [Mara](https://mara.photos/) - Multi-Tool
+* [Graffitizer](https://www.graffitizer.com/) - Graffiti Text Generator / PNG & SVG
 
 ***
 
