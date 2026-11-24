@@ -1416,7 +1416,7 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [⁠RetroCast Now](https://weather.com/retro/), [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) / [International](https://mwood77.github.io/ws4kp-international/), [WeatherStar 80's](https://weatherstar3000.netbymatt.com/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [GitHub](https://github.com/MistWeatherMedia/)
-* [Wheel Decide](https://wheeldecide.com/), [SpinWheelPlus](https://spinwheelplus.com/), [SpinTheWheel](https://spinthewheelweb.com/), [Ultimate Wheel](https://ultimatewheelspin.com/), [SpinTheWheel](https://spinthewheel.io/), [SpinTheWheel](https://spinthewheel.net/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers / Spinners
+* [SpinWheelPlus](https://spinwheelplus.com/), [SpinTheWheel](https://spinthewheelweb.com/), [SpinTheWheel](https://spinthewheel.io/), [SpinTheWheel](https://spinthewheel.net/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers / Spinners
 * [⁠Date Night Questions](https://www.datenightquestions.com/) - Friend / Date Q&A Cards
 * [SurveyHeart](https://surveyheart.com/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools

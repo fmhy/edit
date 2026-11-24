@@ -574,10 +574,11 @@
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [Wololo](https://wololo.net/) - Console Modding News
-* [MarioCube](https://mariocube.com/) - Gamecube Homebrew Resources
+* [MarioCube](https://mariocube.com/) - GameCube Homebrew Resources
+* [⁠Dolphin Depot](https://dolphindepot.org/) - GameCube Homebrew App Store
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
 * [NKit](https://wiki.gbatemp.net/wiki/NKit) - Disc Image Processor
-* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
+* [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - GameCube iso.dec to ISO Converter
 * [NESDev](https://www.nesdev.org/) - NES / SNES Dev Homebrew Guides / Forum
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini / [Discord](https://discord.gg/UUvqsAR)
 * [ROM News](http://rom-news.org/) - Console Game Release PreDB / NFO Database
@@ -612,7 +613,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
-* [MarioCube](https://mariocube.com/) - Gamecube Homebrew Resources
+* [MarioCube](https://mariocube.com/) - Wii & GameCube Homebrew Resources
 * [WiiMart](https://wiimart.org/) / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart) or [Wii Shop Web](https://rentry.co/FMHYB64#wsc) - Wii Shop Channel Revivals / Free Games & Points
 * [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO

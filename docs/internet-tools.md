@@ -652,7 +652,7 @@
 ***
 
 * ↪️ **[Firefox Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_firefox_extensions)**
-* ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox)
+* ⭐ **[Firefox](https://www.firefox.com/)** / [Nightly](https://www.firefox.com/channel/desktop/#nightly) / [Beta](https://www.firefox.com/channel/desktop/#beta) / [GitHub](https://github.com/mozilla-firefox/firefox) or [⁠Waterfox](https://www.waterfox.com/) / [GitHub](https://github.com/BrowserWorks/waterfox)
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker / [GitHub](https://github.com/mozilla/releases_insights)
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 * [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager / [Discord](https://discord.com/invite/sine-1377068283693629592)
@@ -692,7 +692,6 @@
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [GitHub](https://github.com/openstyles/stylus/)
 * ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[Dark Reader](https://darkreader.org/)** / [GitHub](https://github.com/darkreader/darkreader), [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
-* ⭐ **ScrollAnywhere** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/) / [Chrome](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi) - Improves Scrolling Functionality
 * ⭐ **[Auto Tab Discard](https://webextension.org/listing/tab-discard.html)** / [GitHub](https://github.com/rNeomy/auto-tab-discard/) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * ⭐ **Clipboard2File** - [Firefox](https://github.com/vord1080/clipboard2file/) / [Chrome](https://github.com/daijro/Clipboard2File-Chrome) - Upload Images from Clipboard
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
@@ -734,7 +733,6 @@
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown
 * [CopyFish](https://ocr.space/copyfish) - Grab Text from Images / [GitHub](https://github.com/A9T9/Copyfish/)
 * [Max Focus](https://maxfoc.us/) or [⁠Prelook](https://prelook.coldstoneboy.cn/) / [GitHub](https://github.com/xrr2016/extensions/blob/main/README.en.md) - Preview Links
-* [Consent-O-matic](https://consentomatic.au.dk/) / [2](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporters
 * [Cookie-Editor](https://cookie-editor.com/) - Cookie Editor
 * [Link Gopher](https://sites.google.com/site/linkgopher/), [Link Extractor](https://link-extractor.cssnr.com/), [Copy Selected Links](https://addons.mozilla.org/en-US/firefox/addon/copy-selected-links/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract / Copy Links on Webpages

@@ -879,6 +879,7 @@
 * [Annict](https://annict.com/) - Anime Tracker
 * [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) or [AJATT](https://subtitles.ajatt.top/) - Subtitles
 * [Jimaku](https://jimaku.cc/) - Anime Subtitles
+* [⁠Free Japanese Fonts](https://www.freejapanesefont.com/) - Fonts
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [fuseji](https://fuseji.net/) - Hidden Character Search
 * [Yahoo Japan](https://search.yahoo.co.jp/) - Search
@@ -1644,7 +1645,7 @@
 ## ▷ Downloading / İndirme
 
 * [Türkçe Altyazı](https://turkcealtyazi.org/) - Subtitles
-* [Playstation Haber](https://playstationhaber.com/) / [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
+* [Playstation Haber](https://playstationhaber.com/) or [MCpsp](https://www.mcpsp.com) - PlayStation Piracy Forums
 * [Turkish Audio Center](https://www.turkishaudiocenter.com), [Shareses](https://shareses.com), [Türkçe Ses İndir](https://www.turkcesesindir.com/), [Turkce Ses Dosyası](https://turkce-sesdosyasi.blogspot.com/) or [Turkish Sound Track](https://trsoundtrack.blogspot.com/) - Turkish Dubs
 * [Sinner Clown](https://sinnerclownceviri.net) / [Discord](https://discord.com/invite/nApvcT6Tt6), [Hangar](https://www.hangarceviri.com), [Calypso](https://www.calypsoceviri.com/) - Game Localizations
 * [Mp3 indir dur](https://www.mp3indirdur.com.tr/), [Mp3 semti](https://mp3semti.com/) - Music / MP3s
@@ -1751,10 +1752,10 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Sofaflix](https://sofaflix.rest/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
+* [⁠Sofaflix](https://vuonphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Threads](https://www.threads.com/@vuonphim_com) / [Telegram](https://t.me/sofaflixxx)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
-* [⁠Tram Phim](https://tramphim.app/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
+* [⁠Tram Phim](https://tramphim.wtf/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Threads](https://www.threads.com/@tram_phim) / [Telegram](https://t.me/tramphimorgTV)
 * [AnimeTVN](https://animetvn.gay/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.bid/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
 * [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses

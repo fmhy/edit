@@ -28,6 +28,7 @@
 * [Sbenny](https://sbenny.com/) / [Subreddit](https://www.reddit.com/r/SbennyOfficial/)
 * [APKSum](https://www.apksum.com/)
 * [⁠Android Zone](https://android-zone.ws/)
+* [APKCombo](https://apkcombo.com/)
 * [AndroidRepublic](https://androidrepublic.org/)
 * [⁠5Play](https://5play.org/en/) / [Telegram](https://t.me/+NuCc8y6KVbAyYmFi)
 * [⁠Farsroid](https://www.farsroid.com/) - Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/farsroid_official)
@@ -144,7 +145,7 @@
 
 ***
 
-* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://awesome-morphe.vercel.app/) - Morphe Patch Indexes
+* 🌐 **[Morphe Patch Index](https://morphe-patches.software/)** / [2](https://awesome-morphe.vercel.app/) - Morphe Patch Indexes / [Requests](https://morphe-patches.software/requests)
 * 🌐 **[Patch Bundle Registry](https://patch-bundles.jmancentral.com/)** - Patch Index / [GitHub](https://github.com/Jman-Github/Patch-Bundle-Registry)
 * 🌐 **[Reseam Patch Index](https://reseam.app/patches/)** - Reseam Patch Index
 * ⭐ **[Morphe / Piko Obtainium Guide](https://wispydocs.pages.dev/morphe-piko-obtainium/)** - Pre-Built Updatable APKs
@@ -879,7 +880,7 @@
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
 * ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - Multi-Platform Streaming / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
-* ⭐ **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus) or [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
+* ⭐ **[⁠Seal+](https://sealplus.in/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/MaheshTechnicals/Sealplus)
 * ⭐ **[YTDLnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * ⭐ **[Mornye](https://mornye.com/)** - Multi-Site Audio Downloader / Playlists / [Extension](https://github.com/mornyeapp/Mornye-Extension) / [GitHub](https://github.com/mornyeapp/Mornye)
 * ⭐ **[Seeker](https://github.com/jackBonadies/SeekerAndroid)** - Audio Downloader / Soulseek Frontend
@@ -892,7 +893,6 @@
 * Spotify Tools - [Friend Activity](https://spotivity.me/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/) / [Improved Lyrics](https://github.com/WXRIW/Lyricify-App)
 * [Murglar](https://murglar.app/) - Multi-Site Audio Downloader
 * [⁠LibrePods](https://github.com/kavishdevar/librepods) - Add AirPod Features to Android / [Root Requirements](https://github.com/kavishdevar/librepods#root-requirement)
-* [SongSync](https://github.com/Lambada10/SongSync) - Lyrics App
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) or [Rush](https://github.com/shub39/Rush) - Live Lyrics Apps
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
 * [NewPipe](https://newpipe.net/) - Multi-Platform Streaming / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
@@ -1107,7 +1107,7 @@
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/libre-tube/LibreTube)
 * ⭐ **[⁠Flow](https://flow-tube.org/)** - Ad-Free YouTube / Local Algorithm / [GitHub](https://github.com/Flow-Tube/Flow)
 * ⭐ **[PipePipe](https://github.com/InfinityLoop1308/PipePipe)** - Ad-Free YouTube / Peertube / media.ccc.de / BiliBili / NikoNiko / SponsorBlock / ReturnYTDislikes / [Converter](https://convert.pipepipe.dev/) / [Plugins](https://github.com/InfinityLoop1308/awesome-pipepipe-plugins)
-* ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus), [Seal](https://github.com/JunkFood02/Seal), [Hazel](https://github.com/SibtainOcn/Hazel), [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
+* ⭐ **[YTDLnis](https://ytdlnis.org/)** / [GitHub](https://github.com/deniscerri/ytdlnis), **[⁠Seal+](https://sealplus.in/)** / [GitHub](https://github.com/MaheshTechnicals/Sealplus), [Hazel](https://github.com/SibtainOcn/Hazel), [⁠VRKA Android](https://github.com/MaverickRox/VRKA-Android), [SnapTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [Universal Patch Manager](https://github.com/Jman-Github/Universal-Patch-Manager) - Ad-Free YouTube Patcher / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_app_patchers_.26amp.3B_modifiers)
 * [NewPipe](https://newpipe.net/) - Ad-Free YouTube / Peertube / media.ccc.de / [Backup Convert/Merge](https://kraxen72.github.io/npconv/) / [GitHub](https://github.com/TeamNewPipe/NewPipe/)
 * [⁠NewTube](https://github.com/aleixrodriala/newtube) - Ad-Free YouTube / SponsorBlock
@@ -1369,7 +1369,7 @@
 ## ▷ Social Media Apps
 
 * 🌐 **[/reddit clients/](https://dan.valeena.dev/guides/reddit-clients)** / [2](https://rentry.co/redditclients) - Reddit Client Comparisons / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
-* ⭐ **[Valenced](https://valenced.app/)** / [Discord](https://discord.com/invite/dtBTQHYSx4) / [Fonts](https://github.com/Rairof/Theme-Fonts), [2](https://github.com/Purple-EyeZ/Bunny-Fonts) / [GitHub](https://github.com/Valenced) or **[⁠raincord](https://www.raincord.dev/)** / [Discord](https://discord.gg/qkdPGunwjW) - Modded Discord Clients
+* ⭐ **[⁠raincord](https://www.raincord.dev/)** - Modded Discord Clients / [Discord](https://discord.gg/qkdPGunwjW)
 * ⭐ **[Acorn](https://acorn.blue/)** / [Discord](https://discord.gg/sWzw5GU5RV), [⁠Hydra](https://hydraapp.io/) / [Discord](https://discord.com/invite/ypaD4KYJ3R) / [GitHub](https://github.com/dmilin1/hydra), [RedditFilter](https://github.com/level3tjg/RedditFilter) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/redditfilter-note.md), [Apollo Reborn](https://apolloreborn.app/) / [Subreddit](https://www.reddit.com/r/ApolloReborn/) / [GitHub](https://github.com/Apollo-Reborn/Apollo-Reborn) or [Lurker](https://apps.apple.com/app/lurkur-for-reddit/id6470203216) - Reddit Clients / Make Sure to Follow the [Guide](https://rentry.co/FMHYB64#rguide)
 * ⭐ **[Voyager](https://apps.apple.com/app/id6451429762)** / [GitHub](https://github.com/aeharding/voyager), [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://thunderapp.dev/) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
 * ⭐ **[Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)**, [Gazzetta](https://apps.apple.com/app/id6738706671) or [Mastodon App](https://apps.apple.com/app/id1571998974) / [GitHub](https://github.com/mastodon/mastodon-ios) - Mastodon Clients

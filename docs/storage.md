@@ -280,7 +280,7 @@
 
 ## Searx Instances
 
-* 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)**, [searx.space](https://searx.space/) or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
+* 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [searx.space](https://searx.space/) - Searx Instance Indexes
 * ⭐ **[OpnXNG](https://opnxng.com/)**
 * [searx.fmhy](https://searx.fmhy.net/)
 * [foffgoogle](https://search.fuckoffgoogle.net/)
