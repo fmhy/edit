@@ -1,23 +1,24 @@
 <script lang="ts">
 import { h, ref } from 'vue'
+import { RESULTS_PAGE_SIZE } from '../search/engine'
 
-const RESULTS_PAGE_SIZE = 16
-const MAX_RESULTS_IN_MEMORY = 200
-const MAX_SUBSTRING_TERMS = 100
 const MAX_RECENT_SEARCHES = 20
-const MAX_SUGGESTIONS = 3
 const SEARCH_DEBOUNCE_MS = 350
-const MIN_CANDIDATE_POOL = 32
 const MARK_MERGE_DISTANCE_PX = 20
 const MARK_SAME_LINE_THRESHOLD_PX = 5
 
 // Permanent global cache for rendered excerpts keyed by page ID (build output is stable)
 const globalExcerptCache = new Map<string, Map<string, string>>()
+let excerptCacheIndex: object | null = null
+// Excerpts come from the stable per-page cache, so sanitize each one once
+// rather than on every re-render of the results list.
+const sanitizedExcerpts = new Map<string, string>()
 
 // Persisted results state across mount/unmount of the modal
 const globalLastQuery = ref('')
 const globalLastFuzzy = ref(false)
 const globalLastUrlSearch = ref(false)
+const globalLastSemantic = ref(false)
 const globalLastDetailed = ref(false)
 const globalResults = ref<any[]>([])
 const globalAllResults = ref<any[]>([])
@@ -30,9 +31,11 @@ const globalMayHaveMore = ref(false)
 </script>
 
 <script lang="ts" setup>
-import type { Query, SearchResult } from 'minisearch'
+import type { SearchResult } from 'minisearch'
 import type { ModalTranslations } from 'vitepress/types/local-search'
 import type { Component, Ref } from 'vue'
+import type { Result, SidebarItem } from '../search/engine'
+import type { SemanticHit } from '../search/semantic'
 import localSearchIndex from '@localSearchIndex'
 import {
   computedAsync,
@@ -45,7 +48,6 @@ import {
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
 import Mark from 'mark.js/src/vanilla.js'
-import MiniSearch from 'minisearch'
 import { dataSymbol, inBrowser, useRouter } from 'vitepress'
 import { pathToFile } from 'vitepress/dist/client/app/utils'
 import { escapeRegExp } from 'vitepress/dist/client/shared'
@@ -54,7 +56,6 @@ import { createSearchTranslate } from 'vitepress/dist/client/theme-default/suppo
 import {
   computed,
   createApp,
-  markRaw,
   nextTick,
   onBeforeUnmount,
   onMounted,
@@ -63,13 +64,29 @@ import {
   watch,
   watchEffect
 } from 'vue'
-import { normalizeSearchUrl, sidebar, stripSchemeAndWww } from '../../shared'
+import { sidebar, stripSchemeAndWww } from '../../shared'
 import { sanitizeRichHtml, sanitizeSearchHtml } from '../composables/sanitize'
 import {
   cancelPendingScroll,
   pendingScrollQuery,
   scheduleScrollToMatch
 } from '../composables/searchScroll'
+import {
+  buildUrlQuery,
+  computeCategoryCounts,
+  isExactSearchMode,
+  looksLikeUrlQuery,
+  normalizeUrlSearchValue,
+  rankAutoSuggestions,
+  resultCandidates,
+  resultCategoryOf,
+  runSearch,
+  selectResultsPage,
+  urlMatchesNormalizedUrl
+} from '../search/engine'
+import { pickEntry } from '../search/entries'
+import { loadSearchIndex } from '../search/indexLoader'
+import { loadSemanticSearch, semanticSearch } from '../search/semantic-client'
 import CriticalBadge from './CriticalBadge.vue'
 import Tooltip from './Tooltip.vue'
 
@@ -99,25 +116,6 @@ if (import.meta.hot) {
   })
 }
 
-interface Result {
-  title: string
-  titles: string[]
-  text?: string
-  urlMatched?: boolean
-  urlMatchedStarred?: boolean
-}
-
-interface BoostFlags {
-  hasStarredExact: boolean
-  hasExact: boolean
-  hasStarredPrefix: boolean
-  hasPrefix: boolean
-  hasStarredWord: boolean
-  hasStarredUrl: boolean
-  hasLinkWord: boolean
-  hasLinkUrl: boolean
-}
-
 const vitePressData = useData()
 const { activate } = useFocusTrap(el, {
   allowOutsideClick: true,
@@ -136,30 +134,33 @@ const isFuzzySearch = useLocalStorage('vitepress:local-search-fuzzy', false)
 // Opt-in: also match results by the URLs (link hrefs) they contain. Default off.
 const isUrlSearch = useLocalStorage('vitepress:local-search-url', false)
 
-interface SidebarItem {
-  text?: string
-  link?: string
-  items?: SidebarItem[]
-}
+// Opt-in: ranks by meaning too, using an on-device embedding model that is
+// downloaded on first use (see search/semantic.ts).
+const isSemanticSearch = useLocalStorage(
+  'vitepress:local-search-semantic',
+  false
+)
+const semanticStatus = ref<'idle' | 'loading' | 'ready' | 'error'>('idle')
+// Exact, fuzzy and semantic are one three-way mode.
+if (isSemanticSearch.value) isFuzzySearch.value = false
 
-// Section ids are the first path segment of a result id: "/gaming#anchor" -> "/gaming".
-function resultCategoryOf(id: string): string {
-  const segment = id
-    .split('#')[0]
-    .replace(/\.html$/, '')
-    .split('/')
-    .filter(Boolean)[0]
-  return segment ? `/${segment}` : '/'
-}
-
-function computeCategoryCounts(results: (SearchResult & Result)[]) {
-  const counts = new Map<string, number>()
-  for (const r of results) {
-    const category = resultCategoryOf(r.id)
-    counts.set(category, (counts.get(category) ?? 0) + 1)
-  }
-  return counts
-}
+// Start downloading the model as soon as semantic search is on, so it is
+// usually ready by the time the first query is typed.
+watch(
+  isSemanticSearch,
+  (on) => {
+    if (!on || !inBrowser || semanticStatus.value !== 'idle') return
+    semanticStatus.value = 'loading'
+    loadSemanticSearch().then(
+      () => (semanticStatus.value = 'ready'),
+      (error) => {
+        semanticStatus.value = 'error'
+        console.error('Semantic search unavailable:', error)
+      }
+    )
+  },
+  { immediate: true }
+)
 
 // Categories and labels come from the sidebar, which is static at build time,
 // so this runs once. Wiki and Tools entries pointing at the same page
@@ -231,395 +232,16 @@ function onCategoryWheel(event: WheelEvent) {
   el.scrollLeft += event.deltaY
 }
 
-const customMetadata = shallowRef<
-  Record<string, { l?: string[]; s?: string[]; u?: string[]; su?: string[] }>
->({})
-
-const globalLinksData = computed(() => {
-  const globalStarredLinks = new Set<string>()
-  const globalLinks = new Set<string>()
-  for (const key in customMetadata.value) {
-    const item = customMetadata.value[key]
-    if (item.s) {
-      for (const phrase of item.s) {
-        for (const w of tokenizeIndexLike(phrase, true)) {
-          globalStarredLinks.add(w)
-        }
-      }
-    }
-    if (item.l) {
-      for (const phrase of item.l) {
-        for (const w of tokenizeIndexLike(phrase, true)) {
-          globalLinks.add(w)
-        }
-      }
-    }
-  }
-  return { globalStarredLinks, globalLinks }
-})
-
-// \u26A0 tokenizeIndexLike duplicates the tokenize + processTerm logic from
-// constants.ts (miniSearch.options).  If you change the split regex, stop
-// words, or min-length there, update this copy too \u2014 ranking breaks silently
-// when they disagree.
-const TOKEN_STOP_WORDS = new Set([
-  'frontmatter',
-  '$frontmatter.synopsis',
-  'and',
-  'about',
-  'but',
-  'now',
-  'the',
-  'with',
-  'you'
-])
-const INVISIBLE_CHARS_RE = /\u2060|\u200B|\u200C|\u200D|\uFEFF/g
-const TOKEN_SPLIT_RE = /[\n\r #%*,=/:;?[\]{}()&]+/u
-const MIN_TERM_LENGTH = 2
-
-function tokenizeIndexLike(text: string, splitDottedParts = false): string[] {
-  const out: string[] = []
-  const raw = text.replace(INVISIBLE_CHARS_RE, '').split(TOKEN_SPLIT_RE)
-  for (const piece of raw) {
-    if (!piece) continue
-    const t = piece.trim().toLowerCase().replace(/^\.+/, '').replace(/\.+$/, '')
-    if (t.length < MIN_TERM_LENGTH || TOKEN_STOP_WORDS.has(t)) continue
-    out.push(t)
-    if (splitDottedParts && t.includes('.')) {
-      for (const part of t.split('.')) {
-        if (part.length >= MIN_TERM_LENGTH && !TOKEN_STOP_WORDS.has(part))
-          out.push(part)
-      }
-    }
-  }
-  return out
-}
-
-function normalizeUrlSearchValue(value: string) {
-  let decoded = value.trim()
-  try {
-    decoded = decodeURI(decoded)
-  } catch {
-    // Keep the raw value if it is not a valid encoded URI.
-  }
-  return decoded
-    .replace(INVISIBLE_CHARS_RE, '')
-    .replace(/\s+/g, '')
-    .toLowerCase()
-}
-
-// Known multi-part public suffixes and subdomain-hosting platforms. For these
-// the registrable *label* is the part left of the suffix, so "silentaperture"
-// resolves silentaperture.gitlab.io and "example" resolves example.co.uk —
-// while "vercel"/"itch"/"com" don't leak-match every site on the platform.
-const URL_HOST_SUFFIXES = new Set([
-  // multi-part TLDs
-  'co.uk',
-  'org.uk',
-  'ac.uk',
-  'gov.uk',
-  'com.au',
-  'com.br',
-  'com.mx',
-  'co.jp',
-  'co.in',
-  'co.nz',
-  'co.za',
-  'co.kr',
-  // subdomain-as-product hosting platforms
-  'github.io',
-  'gitlab.io',
-  'pages.dev',
-  'workers.dev',
-  'vercel.app',
-  'netlify.app',
-  'web.app',
-  'firebaseapp.com',
-  'surge.sh',
-  'neocities.org',
-  'itch.io',
-  'blogspot.com',
-  'wordpress.com',
-  'js.org',
-  'readthedocs.io',
-  'notion.site',
-  'sourceforge.io',
-  'glitch.me',
-  'repl.co',
-  'fandom.com',
-  'gitbook.io',
-  'substack.com',
-  'ghost.io',
-  'pythonanywhere.com',
-  'herokuapp.com'
-])
-
-// Ubiquitous shared platforms where the *domain* is not the entry's identity
-// (github.com appears ~10k times in the wiki). Domain-mode URL search skips
-// these so "github"/"discord"/"reddit" don't flood; they remain reachable via
-// an explicit path query ("github.com/yt-dlp") and via normal title/text search.
-const URL_SHARED_DOMAINS = new Set([
-  'github.com',
-  'gitlab.com',
-  'codeberg.org',
-  'bitbucket.org',
-  'sourceforge.net',
-  'greasyfork.org',
-  'reddit.com',
-  'discord.com',
-  'x.com',
-  'twitter.com',
-  'youtube.com',
-  'facebook.com',
-  'instagram.com',
-  'medium.com',
-  'archive.org',
-  'play.google.com',
-  'apps.apple.com',
-  'chromewebstore.google.com',
-  'addons.mozilla.org',
-  'docs.google.com',
-  'drive.google.com',
-  'sites.google.com',
-  'cse.google.com',
-  'support.google.com'
-])
-
-// Per-domain and total ceilings on URL-only matches, so no single domain (or a
-// broad query) can ever flood the result list regardless of the heuristics.
-const MAX_URL_MATCHES_PER_DOMAIN = 8
-const MAX_URL_MATCHES_TOTAL = 60
-
-// Below this length a bare query only matches a label by prefix/exact, never a
-// mid-label substring: "wco" should hit "wcofun" but not "showcode". Longer
-// needles keep substring matching so intentional fragments still work.
-const MIN_SUBSTRING_NEEDLE_LENGTH = 4
-
-function fuzzyTolerance(term: string) {
-  if (term.length < 5) return false
-  return term.length < 9 ? 1 : 2
-}
-
-// Punctuation-insensitive form so "pihole" matches "pi-hole".
-function compactUrlValue(value: string) {
-  return value.replace(/[^a-z0-9]/g, '')
-}
-
-// Resolve a host to its registrable label (the meaningful name) and registrable
-// domain, honoring the multi-part / hosting suffixes above.
-function urlRegistrable(host: string): { label: string; registrable: string } {
-  const labels = host.split('.')
-  for (let i = 0; i < labels.length - 1; i++) {
-    if (URL_HOST_SUFFIXES.has(labels.slice(i + 1).join('.'))) {
-      return { label: labels[i], registrable: labels.slice(i).join('.') }
-    }
-  }
-  return {
-    label: labels[labels.length - 2] ?? labels[0],
-    registrable: labels.slice(-2).join('.')
-  }
-}
-
-interface UrlQuery {
-  // 'path' → the user typed a "/" so we match host + path directly.
-  // 'domain' → match against the domain only.
-  mode: 'path' | 'domain'
-  // path mode: the host+path needle (e.g. "github.com/yt-dlp").
-  needle: string
-  // domain mode: query forms tested against the domain (raw + compacted).
-  needles: string[]
-  // domain mode: match the full host (query had a TLD, e.g. "pi-hole.net")
-  // rather than the registrable label.
-  matchFullHost: boolean
-  // The user typed a scheme ("https://") or leading "www." — a literal
-  // start-of-URL signal, so anchor to the host start (prefix) instead of
-  // matching the needle anywhere inside the label. Keeps "https://wco" off
-  // "showcode.app" (where "wco" sits mid-label) while still hitting "wcofun".
-  anchored: boolean
-}
-
-// Parse the query once so it can be tested against many stored URLs cheaply.
-// Returns null when the query is too short to be a meaningful URL match.
-function buildUrlQuery(query: string): UrlQuery | null {
-  const normalized = normalizeUrlSearchValue(query)
-  if (normalized.length < 3) return null
-
-  // A typed scheme or leading "www." anchors the match to the host start.
-  const anchored =
-    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) || normalized.startsWith('www.')
-  const stripped = normalizeSearchUrl(normalized)
-  // A "/" means the user typed a path, so match against host + path directly.
-  if (stripped.includes('/')) {
-    return {
-      mode: 'path',
-      needle: stripped,
-      needles: [],
-      matchFullHost: false,
-      anchored
-    }
-  }
-  // A "." means the user typed a domain with its TLD (pi-hole.net) → match the
-  // full host. Otherwise it's a bare word → match the registrable label.
-  return {
-    mode: 'domain',
-    needle: '',
-    needles: [
-      ...new Set([stripped, compactUrlValue(stripped)].filter(Boolean))
-    ],
-    matchFullHost: stripped.includes('.'),
-    anchored
-  }
-}
-
-function looksLikeUrlQuery(query: string) {
-  const normalized = normalizeUrlSearchValue(query)
-  const stripped = stripSchemeAndWww(normalized)
-  const isSingleToken = !/\s/.test(query.trim())
-  return (
-    /^[a-z][a-z0-9+.-]*:\/\//.test(normalized) ||
-    normalized.startsWith('www.') ||
-    (isSingleToken && stripped.includes('.')) ||
-    (isSingleToken && stripped.includes('/'))
+const loadedIndex = computedAsync(() =>
+  loadSearchIndex(
+    searchIndexData.value,
+    localeIndex.value,
+    theme.value.search?.provider === 'local'
+      ? theme.value.search.options?.miniSearch
+      : undefined
   )
-}
-
-// `normalizedUrl` may be a raw href or the stored normalized form; normalize it
-// here so query params are encoded the same way as build-time URL metadata.
-function urlMatchesNormalizedUrl(normalizedUrl: string, urlQuery: UrlQuery) {
-  const hostPath = normalizeSearchUrl(normalizedUrl)
-  if (urlQuery.mode === 'path') {
-    return hostPath.includes(urlQuery.needle)
-  }
-  const host = hostPath.split(/[/?#]/)[0]
-  const { label, registrable } = urlRegistrable(host)
-  // Skip ubiquitous shared platforms in domain mode (see URL_SHARED_DOMAINS).
-  if (URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable)) {
-    return false
-  }
-  const target = urlQuery.matchFullHost ? host : label
-  const haystacks = [target, compactUrlValue(target)]
-  return urlQuery.needles.some((needle) => {
-    // Mirror recordMatchRank: anchored queries and short needles match by
-    // prefix only, longer needles also match a mid-label substring.
-    const prefixOnly =
-      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH
-    return haystacks.some((haystack) =>
-      prefixOnly ? haystack.startsWith(needle) : haystack.includes(needle)
-    )
-  })
-}
-
-// A stored URL with its host parts parsed once at index-build time so the hot
-// search path never re-strips/-splits the same URL on every keystroke.
-interface UrlRecord {
-  id: string
-  hostPath: string // host + path (e.g. "github.com/yt-dlp")
-  host: string // host only (e.g. "github.com")
-  label: string // registrable label (e.g. "pi-hole")
-  registrable: string // registrable domain (e.g. "pi-hole.net")
-  compactHost: string // punctuation-stripped host
-  compactLabel: string // punctuation-stripped label
-  isShared: boolean // host/registrable is a suppressed shared platform
-  starred: boolean // URL came from a starred list item
-}
-
-// Flatten customMetadata into one parsed record per stored URL. Recomputed only
-// when the metadata changes (locale switch / HMR), not per search, so the parse
-// cost is paid once instead of on every keystroke (see findUrlMatches).
-const urlIndex = computed<UrlRecord[]>(() => {
-  const records: UrlRecord[] = []
-  for (const id in customMetadata.value) {
-    const urls = customMetadata.value[id].u
-    if (!urls) continue
-    const starredUrls = new Set(customMetadata.value[id].su ?? [])
-    for (const url of urls) {
-      // Stored URLs are already normalized + scheme/www-stripped at build time.
-      const hostPath = stripSchemeAndWww(url)
-      const host = hostPath.split(/[/?#]/)[0]
-      const { label, registrable } = urlRegistrable(host)
-      records.push({
-        id,
-        hostPath,
-        host,
-        label,
-        registrable,
-        compactHost: compactUrlValue(host),
-        compactLabel: compactUrlValue(label),
-        isShared:
-          URL_SHARED_DOMAINS.has(host) || URL_SHARED_DOMAINS.has(registrable),
-        starred: starredUrls.has(url)
-      })
-    }
-  }
-  return records
-})
-
-// How strongly a haystack matches a needle: 3 = exact, 2 = prefix, 1 = substring,
-// 0 = no match. Lets findUrlMatches keep the most relevant matches when a cap
-// forces a cut, instead of dropping by arbitrary index order.
-function matchStrength(haystack: string, needle: string) {
-  if (haystack === needle) return 3
-  if (haystack.startsWith(needle)) return 2
-  if (haystack.includes(needle)) return 1
-  return 0
-}
-
-// Rank a pre-parsed record against the query (0 = no match). Mirrors
-// urlMatchesNormalizedUrl's matching, but reads the precomputed host parts
-// instead of re-deriving them, and returns a strength instead of a boolean.
-function recordMatchRank(rec: UrlRecord, urlQuery: UrlQuery) {
-  if (urlQuery.mode === 'path') {
-    return matchStrength(rec.hostPath, urlQuery.needle)
-  }
-  if (rec.isShared) return 0
-  const haystacks = urlQuery.matchFullHost
-    ? [rec.host, rec.compactHost]
-    : [rec.label, rec.compactLabel]
-  let best = 0
-  for (const needle of urlQuery.needles) {
-    // Anchored queries (typed scheme / www.) and short needles only accept
-    // exact/prefix matches (strength >= 2), never a mid-label substring.
-    const minStrength =
-      urlQuery.anchored || needle.length < MIN_SUBSTRING_NEEDLE_LENGTH ? 2 : 1
-    for (const haystack of haystacks) {
-      const s = matchStrength(haystack, needle)
-      if (s >= minStrength) best = Math.max(best, s)
-    }
-  }
-  return best
-}
-
-const searchIndex = computedAsync(async () => {
-  const rawIndex = (await searchIndexData.value[localeIndex.value]?.())?.default
-  if (!rawIndex) return null
-  let parsed: any
-  try {
-    parsed = typeof rawIndex === 'string' ? JSON.parse(rawIndex) : rawIndex
-  } catch {
-    return null
-  }
-  customMetadata.value = parsed?.customMetadata || {}
-  return markRaw(
-    MiniSearch.loadJS<Result>(parsed, {
-      fields: ['title', 'titles', 'text'],
-      storeFields: ['title', 'titles'],
-      tokenize: (text: string) =>
-        text
-          .replace(INVISIBLE_CHARS_RE, '')
-          .split(TOKEN_SPLIT_RE)
-          .filter((t) => t),
-      searchOptions: {
-        fuzzy: false,
-        prefix: true,
-        boost: { title: 4, text: 2, titles: 1 },
-        ...(theme.value.search?.provider === 'local' &&
-          theme.value.search.options?.miniSearch?.searchOptions)
-      },
-      ...(theme.value.search?.provider === 'local' &&
-        theme.value.search.options?.miniSearch?.options)
-    })
-  )
-})
+)
+const searchIndex = computed(() => loadedIndex.value?.index ?? null)
 
 const disableQueryPersistence = computed(() => {
   return (
@@ -676,6 +298,7 @@ function matchesGlobalState() {
     filterText.value === globalLastQuery.value &&
     isFuzzySearch.value === globalLastFuzzy.value &&
     isUrlSearch.value === globalLastUrlSearch.value &&
+    isSemanticSearch.value === globalLastSemantic.value &&
     showDetailedList.value === globalLastDetailed.value
   )
 }
@@ -716,48 +339,14 @@ const shouldResetScroll = ref(false)
 const autoSuggestions = computed(() => {
   if (!filterText.value || results.value.length > 0 || !searchIndex.value)
     return []
-
-  const query = filterText.value.trim()
-  if (/\s/.test(query)) return []
-
-  try {
-    const rawSuggestions = searchIndex.value.autoSuggest(query, {
-      fuzzy: (term) => (term.length >= 5 ? 2 : 1),
-      prefix: true
-    }) as { suggestion: string; terms: string[]; score: number }[]
-
-    const { globalStarredLinks, globalLinks } = globalLinksData.value
-
-    const cleanQuery = query.toLowerCase()
-    const sortedSuggestions = [...rawSuggestions].sort((a, b) => {
-      const aSug = a.suggestion.toLowerCase()
-      const bSug = b.suggestion.toLowerCase()
-
-      const aPrefix = aSug.startsWith(cleanQuery) ? 1 : 0
-      const bPrefix = bSug.startsWith(cleanQuery) ? 1 : 0
-      if (aPrefix !== bPrefix) return bPrefix - aPrefix
-
-      const aStarred = globalStarredLinks.has(aSug) ? 1 : 0
-      const bStarred = globalStarredLinks.has(bSug) ? 1 : 0
-      if (aStarred !== bStarred) return bStarred - aStarred
-
-      const aLink = globalLinks.has(aSug) ? 1 : 0
-      const bLink = globalLinks.has(bSug) ? 1 : 0
-      if (aLink !== bLink) return bLink - aLink
-
-      return (b.score || 0) - (a.score || 0)
-    })
-
-    return sortedSuggestions
-      .map((s) => s.suggestion)
-      .filter((s) => s && !/\s/.test(s) && s !== query.toLowerCase())
-      .slice(0, MAX_SUGGESTIONS)
-  } catch {
-    return []
-  }
+  return rankAutoSuggestions(
+    searchIndex.value,
+    filterText.value,
+    loadedIndex.value!.globalLinksData
+  )
 })
 
-watch([filterText, isFuzzySearch, isUrlSearch], () => {
+watch([filterText, isFuzzySearch, isUrlSearch, isSemanticSearch], () => {
   activeCategory.value = ''
   enableNoResults.value = false
   resultLimit.value = RESULTS_PAGE_SIZE
@@ -779,98 +368,36 @@ function getRelativeOffsetTop(
   return offsetTop
 }
 
-// Cached term keys for substring matching — rebuilt only when the search index changes
-let cachedTermKeys: string[] = []
-
-function findPageTitle(items: SidebarItem[], path: string): string | null {
-  for (const item of items) {
-    if (item.link === path) return item.text ?? null
-    if (item.items) {
-      const found = findPageTitle(item.items, path)
-      if (found) return found
-    }
-  }
-  return null
-}
-
-function findUrlMatches(index: MiniSearch<Result>, query: string) {
-  const matches: (SearchResult & Result)[] = []
-  const urlQuery = buildUrlQuery(query)
-  if (!urlQuery) return matches
-
-  // Gather one candidate per entry first, keeping the best-ranked matching URL
-  // for that entry. One entry can own several URLs; mirror the old `meta.u.find`
-  // by counting each entry at most once.
-  const candidates = new Map<string, UrlRecord & { rank: number }>()
-  for (const rec of urlIndex.value) {
-    const rank = recordMatchRank(rec, urlQuery)
-    if (rank === 0) continue
-    const existing = candidates.get(rec.id)
-    if (
-      !existing ||
-      rank > existing.rank ||
-      (rank === existing.rank && rec.starred)
-    ) {
-      candidates.set(rec.id, { ...rec, rank })
-    }
-  }
-
-  // Sort by relevance before applying the ceilings, so when a cap forces a cut
-  // we drop the *least* relevant matches: curated/starred entries first, then
-  // by match strength (exact > prefix > substring). Within-cap order doesn't
-  // matter — the merged result set is re-sorted globally by tier/score later.
-  const ranked = [...candidates.values()].sort((a, b) => {
-    return Number(b.starred) - Number(a.starred) || b.rank - a.rank
-  })
-
-  // Hard ceilings (see MAX_URL_MATCHES_*) so no single domain or broad query
-  // can flood the result list, even past the matching heuristics.
-  const perDomain = new Map<string, number>()
-  for (const rec of ranked) {
-    const seen = perDomain.get(rec.registrable) ?? 0
-    if (seen >= MAX_URL_MATCHES_PER_DOMAIN) continue
-
-    const storedFields = index.getStoredFields(rec.id) as Result | undefined
-    if (!storedFields) continue
-
-    perDomain.set(rec.registrable, seen + 1)
-    matches.push({
-      id: rec.id,
-      score: 1,
-      terms: [query],
-      queryTerms: [query],
-      match: {},
-      ...storedFields,
-      urlMatched: true,
-      urlMatchedStarred: rec.starred
-    })
-    if (matches.length >= MAX_URL_MATCHES_TOTAL) break
-  }
-  return matches
-}
-
 /**
  * Main search handler - debounced to avoid excessive re-renders while typing.
  * Watches: search index, filter text, detail view toggle, and fuzzy search mode.
  */
 watch(
-  [filterText, isFuzzySearch, isUrlSearch, showDetailedList, searchIndex],
+  [
+    filterText,
+    isFuzzySearch,
+    isUrlSearch,
+    isSemanticSearch,
+    showDetailedList,
+    searchIndex
+  ],
   () => {
     isSearching.value = !matchesGlobalState() && !!filterText.value
   },
   { immediate: true }
 )
 
-// Rebuild term keys and clear cache on index change (locale switch or HMR)
+// Excerpts belong to the index's build; drop them only when it is replaced
+// (locale switch or HMR), not every time the modal reopens.
 watch(
   searchIndex,
   (index) => {
-    cache.clear()
-    if (index) {
-      const ms = index as unknown as { _index?: Map<string, unknown> }
-      cachedTermKeys = ms?._index ? [...ms._index.keys()] : []
-    } else {
-      cachedTermKeys = []
+    if (index && index !== excerptCacheIndex) {
+      if (excerptCacheIndex) {
+        cache.clear()
+        sanitizedExcerpts.clear()
+      }
+      excerptCacheIndex = index
     }
   },
   { immediate: true }
@@ -884,6 +411,7 @@ watchDebounced(
       filterText.value,
       isFuzzySearch.value,
       isUrlSearch.value,
+      isSemanticSearch.value,
       showDetailedList.value
     ] as const,
   async ([index, filterTextValue], old, onCleanup) => {
@@ -913,210 +441,44 @@ watchDebounced(
       return
     }
 
-    let query: Query = filterTextValue
-    usedSubstringExpansion.value = false
-
-    if (isFuzzySearch.value) {
-      const parts = filterTextValue.split(/\s+/).filter((p) => p)
-      if (parts.length > 0) {
-        const dashed = parts.join('-')
-        query = {
-          combineWith: 'OR',
-          queries: [
-            {
-              queries: parts,
-              combineWith: 'AND',
-              fuzzy: fuzzyTolerance
-            },
-            {
-              queries: [dashed],
-              combineWith: 'AND',
-              fuzzy: fuzzyTolerance
-            }
-          ]
+    const search = (semantic?: SemanticHit[]) =>
+      runSearch(
+        {
+          index,
+          termKeys: loadedIndex.value!.termKeys,
+          customMetadata: loadedIndex.value!.customMetadata,
+          urlIndex: loadedIndex.value!.urlIndex,
+          sidebar: Array.isArray(sidebar) ? sidebar : []
+        },
+        filterTextValue,
+        {
+          fuzzy: isFuzzySearch.value,
+          url: isUrlSearch.value,
+          semantic,
+          pure: !isFuzzySearch.value && !isSemanticSearch.value
         }
-      }
-    }
-
-    /**
-     * Suffix Search / Substring Matching:
-     * For exact mode, find index terms containing the query as a substring
-     * (e.g. "abolic" → "parabolic") using the pre-cached term key list.
-     */
-    if (!isFuzzySearch.value && filterTextValue.length > 2) {
-      const candidateTerms: string[] = []
-      const match = filterTextValue.toLowerCase()
-      for (const term of cachedTermKeys) {
-        if (term.includes(match) && term !== match) {
-          candidateTerms.push(term)
-        }
-      }
-      if (candidateTerms.length > 0) {
-        // Sort by length ascending so shorter words win the cap
-        candidateTerms.sort((a, b) => a.length - b.length)
-        const capped = candidateTerms.slice(0, MAX_SUBSTRING_TERMS)
-        usedSubstringExpansion.value = true
-        query = {
-          combineWith: 'OR',
-          queries: [filterTextValue, ...capped]
-        }
-      }
-    }
-
-    // fuzzy only matters for string queries; structured queries carry their own per-clause fuzzy
-    const searchOptions = {
-      combineWith: 'AND' as const,
-      fuzzy:
-        isFuzzySearch.value && typeof query === 'string'
-          ? fuzzyTolerance
-          : false
-    }
-
-    const queryLooksLikeUrl = looksLikeUrlQuery(filterTextValue)
-    // Pasted URLs should search URLs only. Running the normal text index too
-    // turns URL punctuation into generic terms and leaks unrelated results.
-    const rawResults = queryLooksLikeUrl
-      ? []
-      : (index.search(query, searchOptions) as (SearchResult & Result)[])
-    const searchUrls = isUrlSearch.value || queryLooksLikeUrl
-    const urlResults = searchUrls ? findUrlMatches(index, filterTextValue) : []
-    const mergedResultsById = new Map<string, SearchResult & Result>()
-    for (const result of rawResults) {
-      mergedResultsById.set(result.id, result)
-    }
-    for (const result of urlResults) {
-      const existing = mergedResultsById.get(result.id)
-      if (existing) {
-        existing.score += result.score
-        existing.urlMatched = true
-        existing.urlMatchedStarred =
-          existing.urlMatchedStarred || result.urlMatchedStarred
-      } else {
-        mergedResultsById.set(result.id, result)
-      }
-    }
-
-    const sidebarItems = Array.isArray(sidebar) ? sidebar : []
-    const currentResults: (SearchResult & Result)[] = [
-      ...mergedResultsById.values()
-    ]
-      .sort((a, b) => b.score - a.score)
-      .slice(0, MAX_RESULTS_IN_MEMORY)
-      .map((r) => {
-        const [id] = r.id.split('#')
-        const cleanPath = '/' + id.replace(/\.html$/, '').replace(/^\//, '')
-        const pageTitle = findPageTitle(sidebarItems, cleanPath)
-        const titles = [...r.titles]
-
-        if (pageTitle && !titles.includes(pageTitle) && r.title !== pageTitle) {
-          titles.unshift(pageTitle)
-        }
-
-        return { ...r, titles }
-      })
-
-    // Ranking model:
-    //   1. starredExact  \u2013 query exactly matches a starred-bold hyperlink
-    //   2. exact         \u2013 query exactly matches any hyperlink
-    //   3. starredPrefix \u2013 query is a prefix of a starred-bold hyperlink
-    //   4. prefix        \u2013 query is a prefix of any hyperlink
-    //   5. starredWord   \u2013 a query term is a word inside a starred hyperlink
-    //   6. starredUrl    \u2013 a starred entry matched only on a link's URL
-    //   7. linkWord      \u2013 a query term is a word inside any hyperlink
-    //   8. linkUrl       \u2013 a non-starred entry matched only on a link's URL
-    //   9. raw score (title/text match, etc.)
-    // Bold-without-star is treated as a regular link (no special tier).
-    // "Prefix"/"exact" compare the full query against the whole hyperlink text,
-    // not against individual tokens. Strip zero-width characters from the
-    // query to match the build-time normalization in extractLinkMetadata.
-    const q = filterTextValue
-      .replace(INVISIBLE_CHARS_RE, '')
-      .trim()
-      .toLowerCase()
-
-    const boostedResults = currentResults.map((r) => {
-      const meta = customMetadata.value[r.id]
-      let hasStarredExact = false
-      let hasExact = false
-      let hasStarredPrefix = false
-      let hasPrefix = false
-      let hasStarredWord = false
-      let hasLinkWord = false
-
-      const lowerTerms = r.terms ? r.terms.map((t) => t.toLowerCase()) : []
-
-      const processPhrases = (
-        phrases: string[] | undefined,
-        isStarred: boolean
-      ) => {
-        if (!phrases) return
-        for (const phrase of phrases) {
-          if (q && phrase === q) {
-            hasExact = true
-            if (isStarred) hasStarredExact = true
-          } else if (q && phrase.startsWith(q)) {
-            hasPrefix = true
-            if (isStarred) hasStarredPrefix = true
-          }
-          if (lowerTerms.length > 0) {
-            const tokens = new Set(tokenizeIndexLike(phrase, true))
-            if (lowerTerms.some((t) => tokens.has(t))) {
-              if (isStarred) hasStarredWord = true
-              else hasLinkWord = true
-            }
-          }
-        }
-      }
-
-      processPhrases(meta?.s, true)
-      processPhrases(meta?.l, false)
-
-      // URL matches hit the href, not the visible link text, so the phrase
-      // tiers above never fire for them. Give them their own tier keyed off
-      // whether the entry is starred, so a starred-link URL match interleaves
-      // with the other curated results instead of sinking to the bottom on raw
-      // score alone.
-      const hasStarredUrl = !!r.urlMatchedStarred
-      const hasLinkUrl = !!r.urlMatched && !hasStarredUrl
-
-      return {
-        ...r,
-        hasStarredExact,
-        hasExact,
-        hasStarredPrefix,
-        hasPrefix,
-        hasStarredWord,
-        hasStarredUrl,
-        hasLinkWord,
-        hasLinkUrl
-      }
-    })
-
-    const tierKeys: (keyof BoostFlags)[] = [
-      'hasStarredExact',
-      'hasExact',
-      'hasStarredPrefix',
-      'hasPrefix',
-      'hasStarredWord',
-      'hasStarredUrl',
-      'hasLinkWord',
-      'hasLinkUrl'
-    ]
-
-    boostedResults.sort((a, b) => {
-      for (const key of tierKeys) {
-        const av = a[key] ? 1 : 0
-        const bv = b[key] ? 1 : 0
-        if (av !== bv) return bv - av
-      }
-      if (b.score !== a.score) return b.score - a.score
-      // Deterministic fallback for exact score ties so equal-scored results
-      // don't reshuffle between fuzzy/exact modes (or re-renders). Compare by
-      // title, then id, for a stable order.
-      return (
-        (a.title || '').localeCompare(b.title || '') || a.id.localeCompare(b.id)
       )
-    })
+    let { results: boostedResults, usedSubstringExpansion: usedExpansion } =
+      search()
+    if (isSemanticSearch.value && !looksLikeUrlQuery(filterTextValue)) {
+      // Keyword results show at once; the semantic ranking replaces them when
+      // the model is ready (the first query downloads it).
+      if (semanticStatus.value !== 'ready') {
+        allResults.value = boostedResults
+        semanticStatus.value = 'loading'
+      }
+      try {
+        const hits = await semanticSearch(filterTextValue)
+        semanticStatus.value = 'ready'
+        if (canceled) return
+        ;({ results: boostedResults, usedSubstringExpansion: usedExpansion } =
+          search(hits))
+      } catch (error) {
+        semanticStatus.value = 'error'
+        console.error('Semantic search unavailable:', error)
+      }
+    }
+    usedSubstringExpansion.value = usedExpansion
 
     enableNoResults.value = true
 
@@ -1128,6 +490,7 @@ watchDebounced(
     globalLastQuery.value = filterTextValue
     globalLastFuzzy.value = isFuzzySearch.value
     globalLastUrlSearch.value = isUrlSearch.value
+    globalLastSemantic.value = isSemanticSearch.value
     globalLastDetailed.value = showDetailedList.value
     globalUsedSubstringExpansion.value = usedSubstringExpansion.value
   },
@@ -1182,78 +545,47 @@ watch(
 
     const terms = new Set<string>()
 
-    const mapResult = (r: SearchResult & Result, text: string) => {
-      if (isFuzzySearch.value) {
+    const isExactSearch = isExactSearchMode(
+      isFuzzySearch.value,
+      usedSubstringExpansion.value
+    )
+    // Exact mode verifies the phrase against excerpts in both views; fuzzy and
+    // substring expansion only need excerpts for the detailed view.
+    const needsExcerpts = isExactSearch || showDetailedListValue
+    const toFetch = needsExcerpts
+      ? resultCandidates(scopedResults, limit, isExactSearch).filter((r) => {
+          const [id] = r.id.split('#')
+          return !cache.has(id)
+        })
+      : []
+    const mods = await Promise.all(toFetch.map((r) => fetchExcerpt(r.id)))
+    if (canceled) return
+
+    await processExcerpts(mods, vitePressData, () => canceled)
+    if (canceled) return
+
+    const {
+      finalResults,
+      totalCount,
+      mayHaveMore: mayHaveMoreValue,
+      postFiltered,
+      relaxed
+    } = selectResultsPage(scopedResults, {
+      limit,
+      exact: isExactSearch,
+      detailed: showDetailedListValue,
+      filterText: filterText.value,
+      textOf: lookupExcerptText
+    })
+
+    // Fuzzy, substring-expanded, rewritten and typo-tolerant queries match
+    // index terms the user didn't type, so highlight those terms.
+    if (!isExactSearch || relaxed) {
+      for (const r of finalResults) {
         for (const term of Object.keys(r.match || {})) {
           terms.add(term)
         }
       }
-      return { ...r, text }
-    }
-
-    let finalResults: (SearchResult & Result)[]
-    let totalCount: number
-    let mayHaveMoreValue = false
-    // Only the exact + detailed branch sets this, after excerpt filtering.
-    // Null = the raw pool is what's shown, so chips count from allRes.
-    let postFiltered: (SearchResult & Result)[] | null = null
-
-    const isExactSearch = !isFuzzySearch.value && !usedSubstringExpansion.value
-
-    if (isExactSearch) {
-      // Exact mode now runs in both views. We fetch a dynamic candidate pool
-      // so contiguous phrase matches don't get ranked away, and the list (and
-      // chips) look the same in compact and detailed.
-      const candidateLimit = Math.max(MIN_CANDIDATE_POOL, limit * 2)
-      const candidates = scopedResults.slice(0, candidateLimit)
-
-      const candidatesToFetch = candidates.filter((r) => {
-        const [id] = r.id.split('#')
-        return !cache.has(id)
-      })
-      const mods = await Promise.all(
-        candidatesToFetch.map((r) => fetchExcerpt(r.id))
-      )
-      if (canceled) return
-
-      await processExcerpts(mods, vitePressData, () => canceled)
-      if (canceled) return
-
-      const mapped = candidates.map((r) => {
-        const text = lookupExcerptText(r.id)
-        return mapResult(r, text)
-      })
-
-      const filtered = filterResults(mapped, filterText.value)
-      postFiltered = filtered
-      finalResults = filtered.slice(0, limit)
-      totalCount = filtered.length
-      // Untested remainder beyond the candidate pool may contain more matches;
-      // expanding resultLimit re-runs this branch with a larger candidateLimit.
-      mayHaveMoreValue = scopedResults.length > candidateLimit
-    } else {
-      // Fuzzy search or substring expansion: slice to limit directly
-      const slicedToFetch = showDetailedListValue
-        ? sliced.filter((r) => {
-            const [id] = r.id.split('#')
-            return !cache.has(id)
-          })
-        : []
-      const mods = await Promise.all(
-        slicedToFetch.map((r) => fetchExcerpt(r.id))
-      )
-      if (canceled) return
-
-      await processExcerpts(mods, vitePressData, () => canceled)
-      if (canceled) return
-
-      const mapped = sliced.map((r) => {
-        const text = showDetailedListValue ? lookupExcerptText(r.id) : ''
-        return mapResult(r, text)
-      })
-
-      finalResults = mapped
-      totalCount = mapped.length + Math.max(0, scopedResults.length - limit)
     }
 
     if (resultSetChanged) {
@@ -1261,12 +593,16 @@ watch(
       // the raw pool or the other chips disappear and you can't switch back.
       // Without a category, the post filtered set is what's shown (fuzzy/compact
       // don't filter, so allRes is it).
+      // allRes holds the exact pool and the typo-tolerant fallback pool;
+      // count only the one being shown.
       categoryCounts.value = computeCategoryCounts(
-        postFiltered && !category ? postFiltered : allRes
+        postFiltered && !category
+          ? postFiltered
+          : allRes.filter((r) => !!r.fallback === relaxed)
       )
     }
 
-    if (!isFuzzySearch.value) {
+    if (isExactSearch && !relaxed) {
       terms.add(filterText.value)
     }
 
@@ -1332,27 +668,28 @@ watch(
       }
     }
 
-    const excerpts = Array.from(
-      resultsEl.value?.querySelectorAll(
-        '.result-item:not(.result-list-leave-active) .result .excerpt'
-      ) ?? []
-    ) as HTMLElement[]
-    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
-    for (const excerpt of excerpts) {
-      const markElement = excerpt.querySelector(
-        'mark[data-markjs="true"]'
-      ) as HTMLElement | null
-      if (markElement) {
-        const markRelTop = getRelativeOffsetTop(markElement, excerpt)
-        const scrollTop =
-          markRelTop -
-          (excerpt.clientHeight || 80) / 2 +
-          markElement.offsetHeight / 2
-        scrollTargets.push({ excerpt, scrollTop })
-      }
-    }
-    for (const { excerpt, scrollTop } of scrollTargets) {
-      excerpt.scrollTop = scrollTop
+    // Semantic matches may share no words with the query: highlight the
+    // entry the match is about so the excerpt and the page can focus it.
+    for (const r of finalResults) {
+      if (!r.semanticLine) continue
+      const item = resultsEl.value?.querySelector(
+        `[data-id="${CSS.escape(r.id)}"]`
+      )
+      const lis = entryItemsOf(item)
+      const best = pickEntry(
+        lis.map((li) => ({
+          name: entryNameOf(li),
+          starred: li.classList.contains('starred')
+        })),
+        r.semanticLine,
+        []
+      )
+      const link = best === -1 ? null : lis[best].querySelector('a')
+      if (!link || lis[best].querySelector('mark[data-markjs="true"]')) continue
+      const mark = document.createElement('mark')
+      mark.setAttribute('data-markjs', 'true')
+      mark.append(...link.childNodes)
+      link.appendChild(mark)
     }
 
     /**
@@ -1369,10 +706,27 @@ watch(
         item?.querySelectorAll('.excerpt mark[data-markjs="true"]') ?? []
       ) as HTMLElement[]
       if (marks.length > 0) {
-        newResultMarks.set(index, groupMarks(marks))
-        newCurrentMarkIndex.set(index, 0)
+        const groups = groupMarks(marks)
+        newResultMarks.set(index, groups)
+        newCurrentMarkIndex.set(index, focusedMarkGroup(item, groups, r))
       }
     })
+
+    const scrollTargets: { excerpt: HTMLElement; scrollTop: number }[] = []
+    for (const [index, groups] of newResultMarks) {
+      const markElement = groups[newCurrentMarkIndex.get(index) ?? 0][0]
+      const excerpt = markElement.closest<HTMLElement>('.excerpt')
+      if (!excerpt) continue
+      const markRelTop = getRelativeOffsetTop(markElement, excerpt)
+      const scrollTop =
+        markRelTop -
+        (excerpt.clientHeight || 80) / 2 +
+        markElement.offsetHeight / 2
+      scrollTargets.push({ excerpt, scrollTop })
+    }
+    for (const { excerpt, scrollTop } of scrollTargets) {
+      excerpt.scrollTop = scrollTop
+    }
     resultMarks.value = newResultMarks
     currentMarkIndex.value = newCurrentMarkIndex
 
@@ -1393,6 +747,45 @@ watch(
   },
   { immediate: true }
 )
+
+// Curated entries are the top-level list items of an excerpt whose first link
+// is the entry name (only a star or bold may precede it).
+function entryNameOf(li: HTMLLIElement): string {
+  const link = li.querySelector('a')
+  const text = li.textContent ?? ''
+  const name = link?.textContent ?? ''
+  const at = name ? text.indexOf(name) : -1
+  if (at === -1 || text.slice(0, at).replace(/[\s⭐🌟]/gu, '')) return ''
+  return name
+}
+
+function entryItemsOf(item: Element | null | undefined) {
+  return Array.from(
+    item?.querySelectorAll<HTMLLIElement>('.excerpt .vp-doc > ul > li') ?? []
+  )
+}
+
+// Starts match navigation (excerpt scroll, current mark, page highlight) on the
+// entry the result is about instead of the section's first match.
+function focusedMarkGroup(
+  item: Element | null | undefined,
+  groups: HTMLElement[][],
+  r: Result & SearchResult & { semanticLine?: string }
+): number {
+  const lis = entryItemsOf(item)
+  const entries = lis.map((li) => ({
+    name: entryNameOf(li),
+    starred: li.classList.contains('starred')
+  }))
+  let best = pickEntry(entries, filterText.value, Object.keys(r.match ?? {}))
+  if (best === -1 && r.semanticLine)
+    best = pickEntry(entries, r.semanticLine, [])
+  if (best === -1) return 0
+  return Math.max(
+    0,
+    groups.findIndex((g) => lis[best].contains(g[0]))
+  )
+}
 
 /**
  * Merges adjacent highlight marks that are visually close together.
@@ -1529,6 +922,15 @@ function prevMatch(index: number) {
   }
 }
 
+function renderExcerpt(text: string) {
+  let html = sanitizedExcerpts.get(text)
+  if (html === undefined) {
+    html = sanitizeRichHtml(text)
+    sanitizedExcerpts.set(text, html)
+  }
+  return html
+}
+
 function lookupExcerptText(resultId: string): string {
   const hashIndex = resultId.indexOf('#')
   if (hashIndex === -1) return ''
@@ -1653,30 +1055,6 @@ async function processExcerpts(
       }
     }
   }
-}
-
-function filterResults(
-  results: (SearchResult & Result)[],
-  filterTextValue: string
-) {
-  const clean = (s: string) =>
-    s
-      .replace(INVISIBLE_CHARS_RE, '')
-      .replace(/<[^>]*>/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-      .toLowerCase()
-
-  const phrase = clean(filterTextValue)
-  if (!phrase) return results
-
-  return results.filter((r) => {
-    if (clean(r.title).includes(phrase)) return true
-    if (r.titles.some((t) => clean(t).includes(phrase))) return true
-    if (r.urlMatched) return true
-    if (!r.text) return true // Keep optimistically if text is not fetched yet
-    return clean(r.text).includes(phrase)
-  })
 }
 
 /* Search input focus */
@@ -1949,11 +1327,14 @@ const translate = createSearchTranslate(defaultTranslations)
 const customTitles = {
   prevMatch: 'Previous match',
   nextMatch: 'Next match',
-  fuzzyOn: 'Switch to Exact Search',
+  fuzzyOn: 'Switch to Semantic Search (downloads a 7 MB model once)',
   fuzzyOff: 'Switch to Fuzzy Search',
   urlOn: 'Only search names and text',
   urlOff: 'Search link URLs too',
   urlAuto: 'URL detected — searching link URLs. Click to keep this on.',
+  semanticOn: 'Switch to Exact Search',
+  semanticLoading: 'Loading semantic search model...',
+  semanticError: 'Semantic search failed to load. Click for exact search',
   searching: 'Searching...',
   cycleMatches: 'to cycle matches',
   detailedViewOn: 'Detailed view',
@@ -1972,13 +1353,34 @@ const isLocked = useScrollLock(inBrowser ? document.body : null)
 onMounted(() => {
   focusSearchInput()
   window.history.pushState ? window.history.pushState(null, '', null) : null
+  setUrlQuery(filterText.value.trim())
   nextTick(() => {
     isLocked.value = true
     nextTick().then(() => activate())
   })
 })
 
+// Mirror the query into ?q= while the modal is open so the address bar is a
+// shareable link (useSearchFromQuery opens it again); dropped on close.
+function setUrlQuery(query: string) {
+  const url = new URL(window.location.href)
+  if (query) url.searchParams.set('q', query)
+  else url.searchParams.delete('q')
+  if (url.href !== window.location.href) {
+    window.history.replaceState(window.history.state, '', url.href)
+  }
+}
+
+watchDebounced(
+  filterText,
+  (query) => {
+    if (inBrowser && show.value) setUrlQuery(query.trim())
+  },
+  { debounce: SEARCH_DEBOUNCE_MS }
+)
+
 onBeforeUnmount(() => {
+  if (inBrowser) setUrlQuery('')
   isLocked.value = false
   resultMarks.value = new Map()
   currentMarkIndex.value = new Map()
@@ -2095,8 +1497,16 @@ function handleInput(e: Event) {
   filterText.value = (e.target as HTMLInputElement).value
 }
 
+// Cycles exact -> fuzzy -> semantic -> exact.
 function toggleFuzzySearch() {
-  isFuzzySearch.value = !isFuzzySearch.value
+  const fuzzy = isFuzzySearch.value
+  isFuzzySearch.value = !fuzzy && !isSemanticSearch.value
+  isSemanticSearch.value = fuzzy
+}
+
+function tryFuzzySearch() {
+  isFuzzySearch.value = true
+  isSemanticSearch.value = false
 }
 
 function toggleUrlSearch() {
@@ -2306,20 +1716,38 @@ function isSamePageComparison(destPath: string) {
               <button
                 class="toggle-fuzzy-button"
                 type="button"
-                :class="{ 'fuzzy-active': isFuzzySearch }"
-                :aria-pressed="isFuzzySearch"
+                :class="{
+                  'fuzzy-active': isFuzzySearch || isSemanticSearch,
+                  'semantic-error':
+                    isSemanticSearch && semanticStatus === 'error'
+                }"
+                :aria-pressed="isFuzzySearch || isSemanticSearch"
                 :title="
-                  isFuzzySearch ? customTitles.fuzzyOn : customTitles.fuzzyOff
+                  isFuzzySearch
+                    ? customTitles.fuzzyOn
+                    : !isSemanticSearch
+                      ? customTitles.fuzzyOff
+                      : semanticStatus === 'loading'
+                        ? customTitles.semanticLoading
+                        : semanticStatus === 'error'
+                          ? customTitles.semanticError
+                          : customTitles.semanticOn
                 "
                 @click="toggleFuzzySearch"
               >
                 <span v-if="isFuzzySearch" class="fuzzy-icon">~</span>
+                <span
+                  v-else-if="isSemanticSearch"
+                  class="semantic-icon i-lucide:brain"
+                />
                 <span v-else class="exact-icon">=</span>
                 <span class="visually-hidden">
                   {{
                     isFuzzySearch
                       ? 'Fuzzy Search Active'
-                      : 'Exact Search Active'
+                      : isSemanticSearch
+                        ? 'Semantic Search Active'
+                        : 'Exact Search Active'
                   }}
                 </span>
               </button>
@@ -2479,7 +1907,7 @@ function isSamePageComparison(destPath: string) {
                     </div>
                     <div v-if="showDetailedList" class="excerpt-wrapper">
                       <div v-if="p.text" class="excerpt" inert>
-                        <div class="vp-doc" v-html="sanitizeRichHtml(p.text)" />
+                        <div class="vp-doc" v-html="renderExcerpt(p.text)" />
                       </div>
 
                       <div class="excerpt-gradient-bottom" />
@@ -2543,7 +1971,7 @@ function isSamePageComparison(destPath: string) {
                   {{ translate('modal.noResultsText') }} "{{ filterText }}"
                 </div>
                 <div v-if="!isFuzzySearch" class="no-results-actions">
-                  <button class="try-fuzzy-btn" @click="isFuzzySearch = true">
+                  <button class="try-fuzzy-btn" @click="tryFuzzySearch">
                     Try fuzzy search?
                   </button>
                   <template v-if="autoSuggestions.length">
@@ -3028,6 +2456,12 @@ function isSamePageComparison(destPath: string) {
 
 .result.selected .excerpt {
   opacity: 1;
+}
+
+/* With highlights in the excerpt, show only the entries that contain them. */
+.excerpt-wrapper :deep(.excerpt:has(mark) .vp-doc > :not(:has(mark))),
+.excerpt-wrapper :deep(.excerpt:has(mark) li:not(:has(mark))) {
+  display: none;
 }
 
 /*
@@ -3600,6 +3034,15 @@ svg {
 .toggle-url-button.url-auto:not(.url-active) {
   color: var(--vp-c-brand-1);
   opacity: 0.6;
+}
+
+.toggle-fuzzy-button .semantic-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.search-actions .toggle-fuzzy-button.semantic-error {
+  color: var(--vp-c-danger-1);
 }
 
 .result-list-enter-active,

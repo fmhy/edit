@@ -12,8 +12,10 @@ import {
 } from './composables/criticalNotes'
 import { getCriticalNote } from './composables/criticalRegistry'
 import { useSearchFromQuery } from './composables/searchFromQuery'
+import { useSearchPrefetch } from './composables/searchPrefetch'
 
 useSearchFromQuery()
+useSearchPrefetch()
 
 const { Layout } = DefaultTheme
 const showBase64Dialog = ref(false)
