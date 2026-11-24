@@ -1,4 +1,4 @@
-**Official Website / Source**
+### Official Website / Source
 
 Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
@@ -12,7 +12,7 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
 ***
 
-**Backup Instances**
+### Backup Instances
 
 Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
 
@@ -28,7 +28,7 @@ Verified instances that mirror the official FMHY [repository](https://github.com
 
 ***
 
-**SFW Instances**
+### SFW Instances
 
 Safe for Work (SFW) instances that do not include the NSFW page.
 
@@ -38,7 +38,7 @@ Safe for Work (SFW) instances that do not include the NSFW page.
 
 ***
 
-**Official Mirrors**
+### Official Mirrors
 
 Official mirrors and alternative ways to view FMHY.
 
@@ -51,6 +51,6 @@ Official mirrors and alternative ways to view FMHY.
 
 ***
 
-**Backups of this Page**
+### Backups of this Page
 
 [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
