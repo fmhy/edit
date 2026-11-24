@@ -854,7 +854,7 @@ async function generateRemovedSites() {
   output += `<!-- search-exclude -->\n`
   output += `This page lists sites that were removed from the wiki in the last ${DAYS} days. This helps you find sites that may have gone down or were moved.\n\n`
   output += `> [!TIP]\n`
-  output += `> For more information about why a site was removed, feel free to join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).\n`
+  output += `> For more information about why a site was removed, feel free to join our [Discord](/other/discord).\n`
   output += `<!-- /search-exclude -->\n\n`
 
   if (sortedRemoved.length === 0) {

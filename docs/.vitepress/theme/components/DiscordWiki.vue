@@ -9,7 +9,7 @@ import { sanitizeRichHtml } from '../composables/sanitize'
 
 const SOURCE_URL =
   'https://raw.githubusercontent.com/wiki/fmhy/FMHY/FMHY-Discord.md'
-const WIKI_URL = 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord'
+const WIKI_URL = '/other/discord'
 const TITLE = 'FMHY Discord'
 
 type Tone = 'closed' | 'open' | 'idle'

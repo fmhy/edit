@@ -1,7 +1,7 @@
 # Contribution Guide
 
 > [!NOTE]
-> Some of these steps are easier if you're in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). It opens every Friday.
+> Some of these steps are easier if you're in our [Discord](/other/discord). It opens every Friday.
 
 Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this:
 
@@ -13,7 +13,7 @@ Here you'll find some general guidelines for those who would like to start contr
 ## Submissions
 
 > [!NOTE]
-> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](/other/discord) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
 **Don't submit any of the following:**
 
@@ -34,7 +34,7 @@ For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://fmhy.net/single-page.md) / [2](https://api.fmhy.net/single-page) using `Ctrl+F`.
 - Don't spam a bunch of un-tested links at once. Try to only send things you genuinely feel might be worth adding.
-- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Note that we have to check sites ourselves, so using an issue rather than a pull request is easier.
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](/other/discord). Note that we have to check sites ourselves, so using an issue rather than a pull request is easier.
 - You can optionally include socials, tools, or any other additional info alongside the entry.
 
 ### Reporting a Site
@@ -44,13 +44,13 @@ For submitting new links, follow these steps:
 
 For changes to existing entries, follow these steps:
 
-- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](/other/discord).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
 - If you'd like to report a site removal or star change, you must include details as to why your changes should be accepted.
 
 ### Link Testing
 
-All additions have to first go through our testing process on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
+All additions have to first go through our testing process on [Discord](/other/discord).
 
 You can help us test new sites to figure out their use case, safety, and whether they'd be a good fit for the wiki.
 
@@ -64,7 +64,7 @@ For these reasons, there are too many conditions and nuances to satisfy to make 
 
 Note that we do try to order sections from best to worst, and if multiple links are on the same line, only the **bold** ones are considered stars.
 
-If you're unsure, ask in the wiki channels on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and wait for a staff member to reply.
+If you're unsure, ask in the wiki channels on [Discord](/other/discord) and wait for a staff member to reply.
 
 ### Notes: Regular vs Warning
 

@@ -483,7 +483,7 @@ const resetFeedback = () => {
             our
             <a
               class="text-primary text-underline font-semibold"
-              href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"
+              href="/other/discord"
             >
               Discord.
             </a>
