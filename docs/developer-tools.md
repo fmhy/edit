@@ -96,7 +96,7 @@
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
 * 🌐 **[Awesome Smart TV](https://github.com/vitalets/awesome-smart-tv)** - Smart TV App Development Resources
 * ⭐ **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)** or [bookmarks](https://github.com/SansGuidon/bookmarks) - Software Development Tools
-* ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Builder](https://www.electron.build/)
+* ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/) / [Debugger](https://github.com/pd4d10/debugtron) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
 * [Dokploy](https://github.com/dokploy/dokploy) - App Deployment
@@ -529,6 +529,7 @@
 
 ***
 
+* 🌐 **[⁠Free Coding Agents](https://docs.google.com/spreadsheets/d/1j0v2102Xznu06JJoscHZS2C0zdIQqWdA/)**
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GUI](https://pi-docs.aiuo.net/) / [GitHub](https://github.com/earendil-works/pi)
@@ -896,7 +897,7 @@
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/), [Pixlpin](https://pixlpin.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/), [⁠Designeer](https://designeer.xyz/inspiration), [Pixlpin](https://pixlpin.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [⁠Supahero](https://supahero.io/) - Hero Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
@@ -1140,7 +1141,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
-* [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
+* [masscan](https://github.com/robertdavidgraham/masscan) or [⁠RustScan](https://github.com/bee-san/RustScan) - Port Scanners
 * [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://sniffnet.app/) / [GitHub](https://github.com/GyulyVGC/sniffnet) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [BBRadar](https://bbradar.io/), [⁠Open Bug Bounty](https://www.openbugbounty.org/) or [BugBountyHunting](https://www.bugbountyhunting.com/) - Bug Bounty Trackers

@@ -1,4 +1,4 @@
-**Official Website / Source**
+### Official Website / Source
 
 Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
@@ -12,25 +12,33 @@ Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
 ***
 
-**Backup Instances**
+### Backup Instances
 
 Verified instances that mirror the official FMHY [repository](https://github.com/fmhy/edit).
 
-* [FMHY X](https://d.fmhy.bid/) - Alternative Style w/ Link Check
+* [FMHY X](https://x.fmhy.bid/) - Alternative Style
 * [Retro FMHY](https://retrofmhy.pages.dev/) - Alternative Style / [Improved Search](https://greasyfork.org/en/scripts/568232)
 * [fmhy.samidy.com](https://fmhy.samidy.com/)
 * [fmhy.jbugel.xyz](https://fmhy.jbugel.xyz/)
 * [fmhy.hoffnungfuerdiezukunft.net](https://fmhy.hoffnungfuerdiezukunft.net/)
 * [fmhy.ou0.cc](https://fmhy.ou0.cc/)
 * [fmhy.jvbf.dev](https://fmhy.jvbf.dev/)
-* [fmhy.vencat.dev](https://fmhy.vencat.dev/) / [GitHub](https://github.com/vendettacat/srylus)
 * [a-fmhy.pages.dev](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY)
 * [fmhy.artistgrid.cx](https://fmhy.artistgrid.cx/) (Mirrors: [2](https://fmhy.artistgrid.pp.ua/)/[4](https://fmhy.flax.rip/)/[5](https://fmhy.monochrome.tf/)/[6](https://fmhy.pp.ua/)/[7](https://fmhy.prigoana.com/)/[8](https://fmhy.prigoana.pp.ua/)/[9](https://fmhy.axinstagram.com/)/[10](https://fmhy.axintsagram.com/)/[11](https://fmhy.axinstagram.world/))
-* [fmhy.xyz](https://fmhy.xyz/) - Safe for Work (no nsfw page)
 
 ***
 
-**Official Mirrors**
+### SFW Instances
+
+Safe for Work (SFW) instances that do not include the NSFW page.
+
+* [fmhy.vencat.dev](https://fmhy.vencat.dev/) / [GitHub](https://github.com/vendettacat/srylus)
+* [fmhy.xyz](https://fmhy.xyz/)
+* [SFW Rentry](https://rentry.co/piracy) / [Mirror](https://rentry.org/piracy)
+
+***
+
+### Official Mirrors
 
 Official mirrors and alternative ways to view FMHY.
 
@@ -38,12 +46,11 @@ Official mirrors and alternative ways to view FMHY.
 * Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 * [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 * [Rentry Backup](https://rentry.co/FMHY) / [Mirror](https://rentry.org/FMHY)
-* [SFW Rentry](https://rentry.co/piracy) / [Mirror](https://rentry.org/piracy)
 * [.onion Backup](http://fnp47tywqhwygfkkik3dkgreocdbevjslzs6fw4zbotomcbqeuyahjqd.onion/)
 * [i2p Backup](http://yt6wjy7fcb56egejt37h3n5rno43rvbjewa5nwo5qomd2zj4tsdq.b32.i2p/)
 
 ***
 
-**Backups of this Page**
+### Backups of this Page
 
 [FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)

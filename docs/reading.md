@@ -8,7 +8,7 @@
 
 * 🌐 **[Open Slum](https://open-slum.org/)**, [2](https://open-slum.pages.dev/) - Book Site Index / Uptime Tracking
 * ⭐ **[Anna's Archive](https://annas-archive.gl/)**, [2](https://annas-archive.pk), [3](https://annas-archive.gd) - Books / Comics / [Mirrors](https://en.wikipedia.org/wiki/Anna's_Archive) / [Deploy Locally](https://software.annas-archive.gl/AnnaArchivist/annas-archive) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
-* ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://z-library.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/), [5](https://articles.sk/), [6](https://z-library.im/), [7](https://z-lib.sk/), [8](https://z-library.qa/), [9](https://z-library.gy/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://vysetv.cc/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
+* ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://z-library.sk/), [3](https://1lib.sk/), [4](https://articles.sk/), [5](https://z-library.im/), [6](https://z-lib.sk/), [7](https://z-library.qa/), [8](https://z-library.gy/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/), [2](https://vysetv.cc/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / Torrents / [Requires Invite](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
@@ -16,7 +16,7 @@
 * [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Internet Archive](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * [Open Library](https://openlibrary.org/) - Books / [GitHub](https://github.com/internetarchive/openlibrary)
-* [WeLib](https://welib.org/) / [2](https://welib.st/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
+* [WeLib](https://welib.gl/) - Anna's Archive Mirror / Account Required for Downloads / [Unofficial](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [BDeBooks](https://bdebooks.com/en/ebooks/) - Books / Download
 * [⁠eBookoz](https://ebookoz.net/) - Books / Download / Forum
@@ -458,6 +458,7 @@
 * [Webtoon](https://www.webtoons.com/) - Manhwa / [Discord](https://discord.com/invite/webtoonofficial)
 * [⁠FreeManhwa](https://freemanhwa.net/) - Manhwa
 * [Toonily](https://toonily.com/) - Manhwa
+* [⁠BaeToon](https://baetoon.com/) - Korean Manhwa
 * [LilyManga](https://lilymanga.net/) - Yuri
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami](https://wotaku.wiki/guides/manga/madokami) - Madokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
@@ -549,6 +550,7 @@
 * [Tradepub](https://knowfree.tradepub.com/)
 * [eBookRoom](https://t.me/eBookRoom)
 * [BookGoldMine](https://www.bookgoldmine.com/)
+* [⁠muscatnonfiction](https://t.me/muscatnonfiction)
 * [SuperKuh](http://erewhon.superkuh.com/library/)
 * [⁠InfoBooks](https://www.infobooks.org/)
 * [Non-Fiction](https://vk.com/non_fic)
@@ -559,7 +561,6 @@
 * [OpenEdition](https://www.openedition.org/) - Books / Journals
 * [JSTOR](https://www.jstor.org/) - Books / Journals
 * [UCL Press](https://www.uclpress.co.uk/) - Books / Journals
-* [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection
 * [2012 Book Archive](https://2012books.lardbucket.org/) - Creative Commons Books
 * [CK-12](https://www.ck12.org/browse/) - Interactive Textbooks
 * [Bookishfrenzy](https://t.me/premium_ebooks) - Books / Exam Books
@@ -743,6 +744,7 @@
 * [DBpedia](https://www.dbpedia.org/) - Datasets
 * [GBIF](https://www.gbif.org/) - Biodiversity Datasets
 * [RPubs](https://rpubs.com/) - R Markdown Data Publishing
+* [Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/index.html) - Sign Language Datasets
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals / [Search](https://www.pubmedisearch.com/)
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
@@ -1021,7 +1023,7 @@
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [Anime-Planet](https://anime-planet.com/) - Manga
+* [Anime-Planet](https://anime-planet.com/) - Manga / [Discord](https://discord.gg/animeplanet)
 * [Nevix](https://nevix.com/) - Manga / Social Media
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
 * [Spin.moe](https://spin.moe/) - Find Random Manga

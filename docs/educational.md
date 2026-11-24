@@ -114,6 +114,7 @@
 * ⭐ **[Artic](https://www.artic.edu/collection)** - Art Institute of Chicago Collection / Open-Access Images
 * ⭐ **[NGA](https://www.nga.gov/)** - National Gallery of Art / Public-Domain Images / Open Data
 * ⭐ **[V&A](https://www.vam.ac.uk/)** - Victoria and Albert Museum Collections / Art / Design
+* ⭐ **[Museo](https://museo.app/)** - Art Collections / Public-Domain Image Search / [GitHub](https://github.com/chasemccoy/museo)
 * ⭐ **[Louvre](https://collections.louvre.fr/en/)** - Art / Antiquities Collections / Historical Research
 * [MoMA](https://www.moma.org/collection/) - Museum of Modern Art Collection
 * [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en) - German Digital Cultural Heritage Collections
@@ -131,7 +132,6 @@
 * [Guggenheim](https://www.guggenheim.org/collection-online) - Modern / Contemporary Art Collections
 * [Frick](https://www.frick.org/art) - The Frick Collection / Fine Art
 * [Gardner Museum](https://www.gardnermuseum.org/experience/collection) - Isabella Stewart Gardner Museum Collection
-* [Museo](https://museo.app/) - Art Collections / Public-Domain Image Search
 * [⁠Artnap](https://artnap.com/) - Art Collections / Public-Domain Image Search
 * [Haltadefinizione](https://www.haltadefinizione.com/en/) - High-Resolution Art Images / Italian Art
 * [Artchive](https://www.artchive.com/) - Art History / Artist Collections
@@ -618,7 +618,7 @@
 
 ## ▷ Simulators
 
-* ⭐ **[Falcon BMS](https://www.falcon-bms.com/)** - Falcon 4.0 Modernization Project / [Manuals](https://wiki.falcon-bms.com/en/manuals) / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* ⭐ **[Falcon BMS](https://www.falcon-bms.com/)** - Falcon 4.0 Modernization Project / [Companion](https://github.com/Scorpion-41/Falcon-BMS-Companion) / [Manuals](https://wiki.falcon-bms.com/en/manuals) / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [Phoenix RC](https://www.rc-thoughts.com/phoenix-sim/) - RC Plane + Helicopter Simulator
 * [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
@@ -638,7 +638,7 @@
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
 * [Smithsonian Institution Archives](https://siarchives.si.edu/), [⁠Princeton Digital Collections](https://digital-collections.princeton.edu/) or [Rare Historical Photos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
-* [Museo](https://museo.app/) - Museum Search
+* [Museo](https://museo.app/) - Museum Search / [GitHub](https://github.com/chasemccoy/museo)
 * [⁠The Rest is History Archive](https://archive.therestishistory.com/) - Era-Based Historical Podcast
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
@@ -829,7 +829,7 @@
 * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[⁠Wealth Shown to Scale](https://wealth-inequality.sucks.lt/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://evolving-thoughts.github.io/1-pixel-wealth/) / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth) - Global Wealth Inequality Visualization
+* ⭐ **[⁠Wealth Shown to Scale](https://wealth-inequality.sucks.lt/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://github.com/Evolving-Thoughts/pixel-wealth) / [Codeberg](https://codeberg.org/litekin/wealth-visualize) - Global Wealth Inequality Visualization
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 * [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [⁠CountryEconomy](https://countryeconomy.com/) - Country Economic Data
@@ -931,7 +931,7 @@
 * [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe) - Preparedness Encyclopedia
 * [r/Preppers](https://www.reddit.com/r/preppers/) - Preparedness Subreddit
 * [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Preparedness File Sharing
-* [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
+* [Project NOMAD](https://www.projectnomad.us/) / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad) or [⁠Lastbook](https://lastbook.org/) / [GitHub](https://github.com/Immortal-Protocols/lastbook) - Self-Contained Offline Knowledge + Off-Grid Databases
 
 ***
 
@@ -1031,11 +1031,13 @@
 ## ▷ Rubiks Cube
 
 * 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
+* 🌐 **[⁠CubingAtlas](https://atlas.thecubeindex.com/)** - Speedcubing Learning Resources
 * 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - Guide to Rubiks Cube / Resources
 * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** or [SpeedcubeQuest](https://speedcube.quest/) - Algorithm Databases
+* [⁠reco.nz](https://reco.nz/) - Speedcubing Solve Reconstructions
 * [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
 * [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
@@ -1274,7 +1276,7 @@
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
 * [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://courses.talktomeinkorean.com/) - Korean Learning Courses
-* [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
+* [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
 * [National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do) - Korean Dictionaries / Expression Practice
 * [⁠LetsLearnHangul](http://letslearnhangul.com/) - Hangul Learning

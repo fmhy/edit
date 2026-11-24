@@ -1,6 +1,6 @@
 ---
 title: Feedback
-description: Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
+description: Anonymous comments regarding FMHY
 next: false
 prev: false
 lastUpdated: false
@@ -10,7 +10,7 @@ outline: false
 ### Feedback
 
 :::tip What is this?
-Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
+Anonymous comments about FMHY from various social media platforms.
 :::
 
 ***
@@ -62,6 +62,8 @@ Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
 * *"I want to express my sincere appreciation for the wiki of useful resources. It has proven to be an invaluable source of information, providing a wide range of knowledge on various topics. The well-organized and comprehensive nature of the wiki has been instrumental in aiding my research and learning. I am truly grateful for the effort and dedication that has gone into curating and maintaining such a valuable repository of knowledge. Thank you for this exceptional resource."*
 
 * *"I've never had a dedicated site I can immediately go to that has virtually everything I need all in one singular organized, accessible and easy-to-use place. One thing I personally love is the flow of how everything is designed, it's super simple yet also very informative while still being incredibly appealing visually. Thank you to everyone who contributed to the compilation of this website!"*
+
+* *"Truthfully you guys provide a platform so captivating, from your main menu page you really don't know which way to go. Coz movies IT'S ALL THERE, AI fanatics IT'S ALL THERE, never did good at school NO PROBLEM YOU GOT OUR BACKS, well to cut my long story short A BIG THANKS from my side. At 52 I love discovering new things and you guys give just that. A World on it's own. Lovely stuff."*
 
 * *"FMHY has truly transformed my life, and I am honored to support it with my contributions. I genuinely cherish the opportunity to learn from and explore valuable resources, and FMHY brings me joy every day. I take great pleasure in sharing its helpful insights with my friends. I was excited to introduce my family to this wonderful website, and I am pleased to say they have come to love it just as much as I do."*
 

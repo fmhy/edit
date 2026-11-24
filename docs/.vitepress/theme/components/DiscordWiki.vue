@@ -9,7 +9,7 @@ import { sanitizeRichHtml } from '../composables/sanitize'
 
 const SOURCE_URL =
   'https://raw.githubusercontent.com/wiki/fmhy/FMHY/FMHY-Discord.md'
-const WIKI_URL = 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord'
+const WIKI_URL = '/other/discord'
 const TITLE = 'FMHY Discord'
 
 type Tone = 'closed' | 'open' | 'idle'
@@ -42,6 +42,22 @@ function safeUrl(raw: string): string | null {
   }
 }
 
+function isDiscordInvite(url: string): boolean {
+  try {
+    const { hostname } = new URL(url)
+    return hostname === 'discord.gg' || hostname === 'www.discord.gg'
+  } catch {
+    return false
+  }
+}
+
+function linkHtml(safe: string, label: string): string {
+  const href = `href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank"`
+  return isDiscordInvite(safe)
+    ? `<a class="dw-join" ${href}>Join Server</a>`
+    : `<a ${href}>${label}</a>`
+}
+
 /** Inline formatting: escape first, then code, links and emphasis. */
 function inlineMarkdown(text: string): string {
   let out = escapeHtml(text)
@@ -57,7 +73,7 @@ function inlineMarkdown(text: string): string {
     (_m, label: string, href: string) => {
       const safe = safeUrl(href)
       if (!safe) return label
-      return `<a href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank">${label}</a>`
+      return linkHtml(safe, label)
     }
   )
 
@@ -66,7 +82,7 @@ function inlineMarkdown(text: string): string {
     (_m, pre: string, href: string) => {
       const safe = safeUrl(href)
       if (!safe) return pre + href
-      return `${pre}<a href="${escapeHtml(safe)}" rel="noopener noreferrer" target="_blank">${href}</a>`
+      return pre + linkHtml(safe, href)
     }
   )
 
@@ -308,6 +324,26 @@ onMounted(load)
   text-decoration: underline;
   text-decoration-color: var(--vp-c-brand-soft, var(--vp-c-brand-1));
   text-underline-offset: 3px;
+}
+
+.dw-body :deep(a.dw-join) {
+  background: var(--vp-button-brand-bg, var(--vp-c-brand-1));
+  border: 1px solid transparent;
+  border-radius: 20px;
+  color: var(--vp-button-brand-text, #fff);
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 38px;
+  margin: 8px 0;
+  padding: 0 20px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+  white-space: nowrap;
+}
+
+.dw-body :deep(a.dw-join:hover) {
+  background: var(--vp-c-brand-2);
 }
 
 .dw-body :deep(code) {

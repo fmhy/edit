@@ -18,7 +18,7 @@ For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/a
 
 Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or a redirected page, real downloads happen within the same page as the file host.
 
-Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
+Before installing any file, it's recommended to scan the setup / install with **[VirusTotal](https://www.virustotal.com/)** and run it in [Triage](https://tria.ge/) (sandbox). If you're having trouble determining if something is a false positive, refer to the **[Scan Guide](https://clarasguide.valeena.workers.dev/Guides/vtguide/)**, or send it to us in [Discord](/other/discord) and we'll take a look for you. For Android Apps, it's best to analyze them in a sandbox like [Triage](https://tria.ge/).
 
 !!!note Most antivirus programs are unnecessary and can cause slowdowns. If you use trusted websites, Windows Defender should be all you need to stay safe, and you can run a [Malwarebytes](https://www.malwarebytes.com/) scan from time to time for extra protection.
 
@@ -54,7 +54,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 * **Streaming: [Stream Site List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
-* **Sports Streaming: [StreamCorner](https://streamcorner.st/) / [TimStreams](https://timstreams.st/)**
+* **Sports Streaming: [StreamCorner](https://strmcrnr.st/) / [TimStreams](https://timstreams.st/)**
 * **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
 * **Tracking: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 * **Discovery: [They Shoot Pictures](https://theyshootpictures.com/) / [MDBList](https://mdblist.com/) / [SeriesGraph](https://seriesgraph.com/)**
@@ -63,7 +63,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you 
 
 ### Anime
 
-* **Streaming: [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/) / [animepahe](https://animepahe.pw/)**
+* **Streaming: [animepahe](https://animepahe.pw/) / [Anikoto](https://anikototv.to/) / [Re:ANIME](https://reanime.to/) / [Miruro](https://www.miruro.com/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
 * **Tracking: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**

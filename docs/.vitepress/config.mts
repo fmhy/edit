@@ -15,7 +15,12 @@ import {
   sidebar,
   socialLinks
 } from './constants'
-import { generateFeed, generateImages, generateMeta } from './hooks'
+import {
+  generateFeed,
+  generateImages,
+  generateMeta,
+  generateSemanticIndex
+} from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { localLinksPlugin } from './markdown/localLinks'
@@ -26,6 +31,45 @@ import { replaceNoteLink } from './utils/markdown'
 // @unocss-include
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
+
+// Sitemap host. Returns a bare origin from a bare host or http(s) URL, or
+// undefined when the value is unusable, so a bad value can never reach the
+// sitemap as a broken prefix.
+const normaliseHost = (value?: string) => {
+  const raw = value?.trim().replace(/\/+$/, '') ?? ''
+  if (!raw) return undefined
+  const hasScheme = /^[a-z][a-z\d+.-]*:\/\//i.test(raw)
+  const isBareHost = /^[\w.-]+(:\d+)?$/.test(raw)
+  if (!hasScheme && !isBareHost) return undefined
+  if (hasScheme && !/^https?:\/\//i.test(raw)) return undefined
+  try {
+    const url = new URL(hasScheme ? raw : `https://${raw}`)
+    const isHostOnly = url.pathname === '/' && !url.search && !url.hash
+    if (!url.hostname || !isHostOnly) return undefined
+    return url.origin
+  } catch {
+    return undefined
+  }
+}
+
+// Cloudflare Pages build branches that count as production; previews on any
+// other branch advertise their own deployment host.
+const productionBranch = 'main'
+
+// Resolution order: an explicit SITE_HOST, then CF_PAGES_URL for a Pages
+// preview build, then the production host. Local and CI builds never set the
+// Pages variables, so they keep using meta.hostname.
+const resolveSiteHost = () => {
+  const explicit = normaliseHost(process.env.SITE_HOST)
+  if (explicit) return explicit
+  const branch = process.env.CF_PAGES_BRANCH
+  if (branch && branch !== productionBranch) {
+    const preview = normaliseHost(process.env.CF_PAGES_URL)
+    if (preview) return preview
+  }
+  return meta.hostname
+}
+const siteHost = resolveSiteHost()
 export default defineConfig({
   title: 'FMHY',
   description: meta.description,
@@ -39,7 +83,7 @@ export default defineConfig({
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: meta.hostname
+    hostname: siteHost
   },
   head: [
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
@@ -149,6 +193,7 @@ export default defineConfig({
     try {
       await generateImages(context)
       await generateFeed(context)
+      await generateSemanticIndex(context)
       consola.success('Build hooks completed successfully.')
     } catch (error) {
       consola.error('Build hook failed:', error)

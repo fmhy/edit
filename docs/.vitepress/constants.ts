@@ -18,6 +18,7 @@ import type { DefaultTheme } from 'vitepress'
 import path from 'node:path'
 import MiniSearch from 'minisearch'
 import { excluded, normalizeSearchUrl } from './shared'
+import { processIndexTerm, tokenizeSearchText } from './theme/search/tokenize'
 import { transform, transformGuide } from './transformer'
 
 // @unocss-include
@@ -71,6 +72,13 @@ if (typeof originalToJSON === 'function') {
     return json
   }
 }
+
+// Sections as indexed, collected for the semantic search index generated in
+// buildEnd (hooks/semantic.ts). Keyed by page so HMR/rebuilds replace them.
+export const indexedSections = new Map<
+  string,
+  { id: string; titles: string[]; text: string }[]
+>()
 
 function getDocId(file: string) {
   const srcDir = path.resolve(__dirname, '..')
@@ -358,76 +366,60 @@ export const search: DefaultTheme.Config['search'] = {
             parentTitles[level] = title
           }
         }
+        indexedSections.set(
+          fileId,
+          sections.map((s) => ({
+            id: s.anchor ? `${fileId}#${s.anchor}` : fileId,
+            titles: s.titles,
+            text: s.text
+          }))
+        )
         return sections
       },
-      // \u26A0 tokenize + processTerm are duplicated in VPLocalSearchBox.vue's
-      // tokenizeIndexLike().  If you change the split regex, stop words, or
-      // min-length here, update the copy there too \u2014 search ranking breaks
-      // silently when they disagree.
+      // Shared with the search modal (theme/search/tokenize.ts), which
+      // re-applies these at query time instead of relying on themeConfig's
+      // function serialization (imported helpers don't survive it).
       options: {
-        tokenize: (text: string) =>
-          text
-            .replace(/\u2060|\u200B|\u200C|\u200D|\uFEFF/g, '')
-            .split(/[\n\r #%*,=/:;?[\]{}()&]+/u),
-        processTerm: (term: string, fieldName?: string): any => {
-          term = term
-            .trim()
-            .toLowerCase()
-            .replace(/^\.+/, '')
-            .replace(/\.+$/, '')
-          const stopWords = [
-            'frontmatter',
-            '$frontmatter.synopsis',
-            'and',
-            'about',
-            'but',
-            'now',
-            'the',
-            'with',
-            'you'
-          ]
-          if (term.length < 2 || stopWords.includes(term)) return false
-
-          if (fieldName === 'text') {
-            const parts = term.split('.')
-            if (parts.length > 1) {
-              const newTerms = [term, ...parts]
-                .filter((t) => t.length >= 2)
-                .filter((t) => !stopWords.includes(t))
-              return newTerms
-            }
-          }
-          return term
-        }
+        tokenize: tokenizeSearchText,
+        processTerm: processIndexTerm
       },
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
+        // Self-contained: VitePress serializes this function into the client.
+        // `term` is the matched index term; compare it against the section's
+        // own heading and its ancestor headings as whole index-like tokens.
         boostDocument: (
           documentId: string,
           term: string,
           storedFields?: Record<string, unknown>
         ) => {
-          const titles = ((storedFields?.titles as string[]) || [])
-            .filter((t) => Boolean(t))
-            .map((t) => t.toLowerCase())
+          const headingHas = (heading: unknown) =>
+            String(heading ?? '')
+              .replace(/<[^>]*>/g, ' ')
+              .toLowerCase()
+              .split(/[\n\r #%*,=/:;?[\]{}()&]+/u)
+              .some((t) => t.replace(/^\.+|\.+$/g, '') === term)
 
           let boost = 1
-
-          // Uprate if term appears in titles. Add bonus for higher levels (i.e. lower index)
-          const titleIndex =
-            titles
-              .map((t, i) => (t?.includes(term) ? i : -1))
-              .find((i) => i >= 0) ?? -1
-          if (titleIndex >= 0) {
-            boost = 10000 - titleIndex
+          if (headingHas(storedFields?.title)) {
+            boost = 3
+          } else {
+            const titles = (storedFields?.titles as string[]) || []
+            for (let i = titles.length - 1; i >= 0; i--) {
+              if (headingHas(titles[i])) {
+                boost = i === 0 ? 1.2 : 1.5
+                break
+              }
+            }
           }
 
-          // Downrank posts and other pages
-          if (documentId.match(/\/posts/)) {
+          // Archive-like pages (posts, other, removed/unsafe lists) and
+          // language-specific lists are less likely to be what is meant.
+          if (/^\/(posts|other|recently-removed|unsafe)\b/.test(documentId)) {
             boost *= 0.1
-          } else if (documentId.match(/\/other/)) {
-            boost *= 0.1
+          } else if (/^\/non-english\b/.test(documentId)) {
+            boost *= 0.5
           }
 
           return boost

@@ -7,7 +7,7 @@ description: A List Of Questions And Answers Related To FMHY.
 
 **Q**: Why are there so few subreddit posts? *Is the sub dead?* :(
 
-**A**: Posting has always been off as Reddit is where we make announcements. Our main focus is the **[Website](https://fmhy.net/)**, which has grown to include nearly 30k links. **It's 100% alive**, and gets updated [daily](https://redd.it/1pl8vl0). For a discussion sub, check out /r/Piracy, or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) on Fridays.
+**A**: Posting has always been off as Reddit is where we make announcements. Our main focus is the **[Website](https://fmhy.net/)**, which has grown to include nearly 30k links. **It's 100% alive**, and gets updated [daily](https://redd.it/1pl8vl0). For a discussion sub, check out /r/Piracy, or join our [Discord](/other/discord) on Fridays.
 ***
 **Q**: Are the sites here safe to use?
 
@@ -19,11 +19,11 @@ description: A List Of Questions And Answers Related To FMHY.
 ***
 **Q**: How can I contact you?
 
-**A**: The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/FREEMEDIAHECKYEAH) are also always open.
+**A**: The best way is to join us in [Discord](/other/discord). Here you can submit links, get help or suggest changes to the wiki. [Mod messages](https://www.reddit.com/message/compose/?to=/r/FREEMEDIAHECKYEAH) are also always open.
 ***
 **Q**: Can I edit FMHY?
 
-**A**: Absolutely. This project was made by and belongs to the community, so we allow anyone to suggest changes via [pull requests](https://github.com/fmhy/FMHYedit) or suggestions in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). We want this project to be as organized and useful as possible, so if you feel like you can help improve it, please do.
+**A**: Absolutely. This project was made by and belongs to the community, so we allow anyone to suggest changes via [pull requests](https://github.com/fmhy/FMHYedit) or suggestions in our [Discord](/other/discord). We want this project to be as organized and useful as possible, so if you feel like you can help improve it, please do.
 ***
 **Q**: Can I donate?
 

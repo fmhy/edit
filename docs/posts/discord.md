@@ -11,4 +11,4 @@ footer: true
 
 <Post authors="nbats" />
 
-# Public URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+# Public URL: /other/discord

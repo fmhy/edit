@@ -15,7 +15,7 @@
 * ⭐ **[r/CrackWatch](https://www.reddit.com/r/CrackWatch/)**, [r/RepackWorld](https://reddit.com/r/RepackWorld), [⁠IsItCracked](https://isitcracked.com/), [GameStatus](https://gamestatus.info/) or [GitGud](https://discord.gg/APfesEBjjn) - Release Trackers
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)**, [2](https://hl2b.com/) - Find Average Game Lengths / [Discord](https://discord.gg/v5F26Dk)
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* ⭐ **[Apollo](https://github.com/ClassicOldSong/Apollo)** - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android)
 * ⭐ **[Moonlight](https://moonlight-stream.org/)** - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [⁠Greenlight](https://github.com/unknownskl/greenlight) - Improved xCloud Client / Xbox Cloud Gaming
 * [⁠Better xCloud](https://better-xcloud.github.io/) - Add Features to xCloud / [X](https://x.com/redphx) / [Telegram](https://t.me/betterxcloud) / [GitHub](https://github.com/redphx/better-xcloud)
@@ -47,7 +47,7 @@
 
 * ⭐ **[Playnite](https://playnite.link/)** - Game Library / Launcher / [Guide](https://api.playnite.link/docs/) / [Extensions](https://playnite.link/addons.html), [2](https://github.com/darklinkpower/PlayniteExtensionsCollection) / Windows / [Subreddit](https://www.reddit.com/r/playnite/) / [Discord](https://discord.com/invite/BrtABqe) / [GitHub](https://github.com/JosefNemec/Playnite/)
 * ⭐ **[Hydra](https://hydralauncher.gg/)** - Game Launcher / Downloader / Torrent Client / Achievement Support / [Plugins](https://library.hydra.wiki/) / [Themes](https://hydrathemes.shop/) / Windows, Linux / [Telegram](https://t.me/hydralauncher) / [GitHub](https://github.com/hydralauncher/hydra)
-* ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / Windows, Linux / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
+* ⭐ **[Ascendara](https://ascendara.app/)** - Game Library / Launcher / Downloader / Achievement Support / Windows, Linux / [Discord](https://ascendara.app/discord) / [GitHub](https://github.com/Ascendara/ascendara)
 * ⭐ **[Project GLD](https://y0urd34th.github.io/Project-GLD/)** / Windows / [GitHub](https://github.com/Y0URD34TH/Project-GLD/) or **[GOG Galaxy](https://www.gog.com/galaxy)** (closed source) - Game Libraries / Launchers
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - Game Launcher / Windows, macOS, Linux / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * ⭐ **[⁠Faugus Launcher](https://github.com/Faugus/faugus-launcher)** - Game Launcher / Linux
@@ -369,7 +369,7 @@
 * [Backlog.rip](https://backlog.rip/) - Steam Library Organizers
 * [Steam Extensions](https://redd.it/1sp8quf) - How-To Add Chrome Extensions to Steam
 * [⁠Steam Overlay Customization](https://gist.github.com/JMcrafter26/bad71e96d9bee2900008cbca10075968) - Steam Overlay Customization / Extension Guide
-* [⁠Lib Shammes](https://github.com/Kirkland-Pickles/lib-shammes) - Find / Manage Game Art / Bulk Add Non-Steam Games
+* [⁠Lib Shammes](https://github.com/Kirkland-Pickles/Shammes) - Find / Manage Game Art / Bulk Add Non-Steam Games
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Find / Manage Game Art
 * [Millennium](https://steambrew.app/) - Steam Client Customization / [Discord](https://steambrew.app/discord) / [GitHub](https://github.com/shdwmtr/millennium)
 * [Watt Toolkit](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
@@ -387,7 +387,7 @@
 * ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker
 * ⭐ **[GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709)** - Steam DLC Unlocker / [Manager](https://github.com/3vil3vo/GreenLuma-Manager)
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
-* ⭐ **[Steamless](https://github.com/atom0s/Steamless)**, **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack/)**, [RUNEAutoCracker](https://runeautocracker.vercel.app/) / [GitHHub](https://github.com/Mush-iii/RUNEAutoCracker) or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Steam DRM Removal / DLC Unlockers
+* ⭐ **[Steamless](https://github.com/atom0s/Steamless)**, **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack/)**, [RUNEAutoCracker](https://runeautocracker.vercel.app/) or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - Steam DRM Removal / DLC Unlockers
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
 * [⁠OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool) - Steam Game + DLC Unlocker / [Guide](https://rentry.org/opensteamtoolguidefmhy)
@@ -574,6 +574,7 @@
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [ModMyClassic](https://modmyclassic.com/) - Classic Console Mods
 * [Wololo](https://wololo.net/) - Console Modding News
+* [MarioCube](https://mariocube.com/) - Gamecube Homebrew Resources
 * [N64Brew](https://n64brew.dev/wiki/Main_Page) - N64 Homebrew Wiki
 * [NKit](https://wiki.gbatemp.net/wiki/NKit) - Disc Image Processor
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
@@ -611,6 +612,7 @@
 * [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/) - Wii U Homebrew Subreddit
 * [r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - Wii Homebrew Subreddit
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
+* [MarioCube](https://mariocube.com/) - Gamecube Homebrew Resources
 * [WiiMart](https://wiimart.org/) / [Discord](https://discord.com/invite/wiimart-1346485785284575335) / [GitHub](https://github.com/WiiMart/WiiMart) or [Wii Shop Web](https://rentry.co/FMHYB64#wsc) - Wii Shop Channel Revivals / Free Games & Points
 * [⁠TinyWiiBackupManager](https://github.com/mq1/TinyWiiBackupManager) - Wii Backup Manager / Homebrew App
 * [WBFStoISO](https://www.wbfstoiso.com/) - WBFS to ISO
@@ -624,6 +626,7 @@
 * ⭐ **[DSi Homebrew Guide](https://dsi.cfw.guide/)** - DSi Homebrew Guide
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
 * [⁠Archcord](https://www.flashcarts.net/) - DS + GBA Flashcart Comparisons / YSMenu Compatibility
+* [⁠Flashcart Guides](https://sanrax.github.io/) - 3DS / DS Flashcart Guides
 * [Pretendo](https://pretendo.network/) - 3DS Network Replacement
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
@@ -764,7 +767,6 @@
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [CurseForge Downloads](https://rentry.co/FMHYB64#curseforge-overwolf) / Windows, macOS, Linux / [Subreddit](https://www.reddit.com/r/PrismLauncher/) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * [⁠OneClient](https://polyfrost.org/projects/oneclient) - Feature-Rich Launcher
 * [ATLauncher](https://atlauncher.com/) / [Discord](https://discord.com/invite/B7TrrzH) / [GitHub](https://github.com/ATLauncher/ATLauncher), [Technic Launcher](https://www.technicpack.net/) / [Discord](https://discord.com/invite/technic), [FjordLauncher](https://github.com/unmojang/FjordLauncher) or [PandoraLauncher](https://pandora.moulberry.com/) / [GitHub](https://github.com/Moulberry/PandoraLauncher) - Desktop Modpack Launchers
-* [WineGDK](https://github.com/Weather-OS/WineGDK) - Bedrock Launcher / macOS, Linux / [Guide](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
 * [BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock Launcher / Linux
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) / [iOS](https://github.com/AngelAuraMC/Amethyst-iOS) / [Discord](https://discord.gg/5ptqkyZxEy) or [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - Mobile Launchers / Android, iOS
 
@@ -854,7 +856,7 @@
 * ⭐ **[NameMC](https://namemc.com/)** / [Discord](https://discord.com/invite/NameMC), [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) or [Crafty](https://crafty.gg/) - Minecraft Name & Skin Trackers
 * [Iris Shaders](https://modrinth.com/mod/iris) / [Forge Version](https://modrinth.com/mod/oculus) or [ShadersMods](https://shadersmods.com/) / [MinecraftShader](https://minecraftshader.com/) - Minecraft Shader Mods & Downloads
 * [mcglint](https://mcglint.com/) - Customization Tools
-* [MinecraftSkins](https://www.minecraftskins.com/), [SkinMC](https://skinmc.net/), [MC-Skins](https://mc-skins.com/), [MC Profiles](https://mcprofiles.net/), [MCSkins](https://mcskins.top/) or [BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) - Minecraft Skins
+* [MinecraftSkins](https://www.minecraftskins.com/), [SkinMC](https://skinmc.net/), [mcskincraft](https://mcskincraft.com/), [MC-Skins](https://mc-skins.com/), [MC Profiles](https://mcprofiles.net/), [MCSkins](https://mcskins.top/) or [BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) - Minecraft Skins
 * [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes), [Nova Skin](https://minecraft.novaskin.me/), [MSkins](https://mskins.net/en), [Skin Closet](https://skin-closet.chabo.tokyo/), [SkinsRestorer](https://skinsrestorer.net/) / [GitHub](https://github.com/SkinsRestorer/SkinsRestorer) or [Ely.by](https://ely.by/) - Skin Editors, Grabbers & Server Systems
 * [MinecraftCapes](https://minecraftcapes.net/) / [Discord](https://discord.com/invite/jqRU9SN) or [Modrinth Capes](https://modrinth.com/mod/capes) - Custom Capes
 * [⁠Cosmetica](https://cosmetica.cc/) - Custom Capes + Cosmetics Fabric Mod
@@ -908,6 +910,7 @@
 * [RuneForge](https://runeforge.dev/) - Custom LoL Skins / Mods
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
+* [⁠Liquipedia Dota 2](https://liquipedia.net/dota2/) - Dota 2 Wiki 
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Statistics / Hero Builds
 
 ***

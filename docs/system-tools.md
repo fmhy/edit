@@ -29,6 +29,7 @@
 * [Winbindex](https://winbindex.m417z.com/) - Windows System Files / Binaries / [GitHub](https://github.com/m417z/winbindex)
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll), [2](https://gitlab.com/stdout12/offlineinsiderenroll), [3](https://codeberg.org/stdout12/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
+* [⁠Hex](https://anoma.ly/hex/) - Voice Dictation
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
@@ -124,7 +125,7 @@
 * ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/parsec.md)
 * ⭐ **[RustDesk](https://rustdesk.com/)** / All Platforms / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* ⭐ **[Apollo](https://github.com/ClassicOldSong/Apollo)** - Remote Server for Moonlight / Windows, macOS, Linux
 * [Moonlight](https://moonlight-stream.org/) or [Artemis](https://github.com/ClassicOldSong/moonlight-android) (android) - Gaming Remote Desktop Client / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
 * [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -134,10 +135,10 @@
 * [Remotly](https://remotly.com/) / Windows, Linux
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
-* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client / Windows
+* [Mouse Without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Multi-Computer Client / Windows
 * [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
-* [Screen-Sharing](https://share-your-screen.vercel.app/) - Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)
+* [Screen-Sharing](https://github.com/tonghohin/screen-sharing) - Web-Based
 * [TigerVNC](https://tigervnc.org/) - VNC Client / Windows, Linux / [GitHub](https://github.com/TigerVNC/tigervnc)
 * [TightVNC](https://www.tightvnc.com/) - VNC Client
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC Client / [GitHub](https://github.com/novnc/noVNC)
@@ -486,6 +487,7 @@
 * [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
 * [Perfect Hue](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
+* [⁠PhWalls](https://phwalls.com/) - Stock System Wallpapers
 * [⁠Apple Walls](https://applewalls.com/) - Apple Wallpapers
 * [Basic Apple Guy](https://basicappleguy.com/basicappleblog/category/Wallpaper) / [2](https://basicappleguy.com/haberdashery/category/Wallpaper) - Apple Wallpaper Interpretations
 * [⁠WSupercars](https://www.wsupercars.com/) - Car Wallpapers

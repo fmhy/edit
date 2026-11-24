@@ -249,7 +249,7 @@
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ↪️ **[Image Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_search_engines)**
-* [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/), [gnod Search](https://www.gnod.com/search/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
+* [Search All](https://www.searchall.net/), [WebSitesSearch](https://web-sites-search.web.app/) or [gnod Search](https://www.gnod.com/search/) - Multi-Site Search
 * [Mwmbl](https://mwmbl.org/) - Community Organized Search Engine / [GitHub](https://github.com/mwmbl/mwmbl)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Trovu.net](https://trovu.net/) - Command Search / [GitHub](https://github.com/trovu/trovu)
@@ -609,10 +609,8 @@
 * [FMHY Startpage](https://fmhy.net/startpage)
 * [Renewed Tab](https://renewedtab.com/) / [Discord](https://discord.gg/zYjR54b) / [GitLab](https://gitlab.com/renewedtab/renewedtab/)
 * [mtab](https://github.com/maxhu08/mtab)
-* [nightTab](https://github.com/zombieFox/nightTab)
 * [⁠TablissNG](https://github.com/BookCatKid/TablissNG/)
 * [MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab)
-* [hexagonTab](https://github.com/zombieFox/hexagonTab)
 * [Perfect Home](https://github.com/perfect-things/perfect-home)
 * [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial)
 * [Infinity New Tab](https://en.infinitynewtab.com/)

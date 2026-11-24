@@ -20,7 +20,7 @@
 * ⭐ **SponsorBlock Tools** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
 * [⁠Zen](https://irbis.sh/zen/) - System-Wide Adblocker / [Discord](https://discord.gg/zGeQVatAUm) / [GitHub](https://github.com/irbis-sh/zen-desktop)
 * [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Discord Nitro / Boost Ads
-* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker), [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) or [Popupblocker All](https://addons.mozilla.org/firefox/addon/popupblockerall/) / [2](https://chromewebstore.google.com/detail/popupblocker/doklmegfghlnanggfgligimnnikiekde) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
+* [Popup Blocker (strict)](https://github.com/schomery/popup-blocker) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) (userscript) - Popup Blockers / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/popup-blockers.md)
 * [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Website Overlays
 * [BilibiliSponsorBlock](https://www.bsbsb.top/) - Skip Sponsored Bilibili Ads / [Safari](https://github.com/ZaeXT/BilibiliSponsorBlock) / [GitHub](https://github.com/hanydd/BilibiliSponsorBlock)
 * [YouT-ube](https://www.yout-ube.com/) or [MUI Tube](https://muitube.com/) - Bypass YouTubes Forced uBO Player Delay
@@ -39,7 +39,8 @@
 * ⭐ **[OISD](https://oisd.nl/)** - Multi-Source Domain Blocklist / [GitHub](https://github.com/sjhgvr/oisd)
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
-* [neodevhost](https://github.com/neodevpro/neodevhost), [StevenBlack Hosts](https://github.com/StevenBlack/hosts) or [black-mirror](https://github.com/T145/black-mirror) - Blocklists & Aggregated Feeds
+* [⁠Stevos AI Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - Generative AI Site Blocklist
+* [neodevhost](https://github.com/neodevpro/neodevhost) or [black-mirror](https://github.com/T145/black-mirror) - Blocklists & Aggregated Feeds
 
 ***
 
@@ -51,7 +52,7 @@
 
 * ↪️ **[DNS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)** - Lookup, Propagation & Benchmarking
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole) / Linux, Docker
-* ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/), [2](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) / [DNS Resolver](https://www.nlnetlabs.nl/projects/unbound/) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Android Server](https://github.com/DesktopECHO/Pi-hole-for-Android) (root) / Windows, Android
+* ⭐ **Pi-Hole Tools** - [Filters](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) / [DNS Resolver](https://www.nlnetlabs.nl/projects/unbound/) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Android Server](https://github.com/DesktopECHO/Pi-hole-for-Android) (root) / Windows, Android
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / Windows, macOS, Linux
 * [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky) / Linux, Docker
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer) / Windows, Linux
@@ -75,7 +76,6 @@
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) or [DNS for Family](https://dnsforfamily.com/) - Family Filtering with Safe Search & Malware Protection
 * [Control D](https://controld.com/features/dns-filtering) - Control Free DNS / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
 * [DNS Forge](https://dnsforge.de/) - German DNS Servers with Four Filtering Levels
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking / German Servers
 * [dns.sb](https://dns.sb/) - Free, Fast & No-Log Public DNS Resolver
 
 ***
@@ -109,7 +109,7 @@
 * ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - Detects if Current Site is Trusted / Untrusted / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
 * [BleepingComputer](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/), [Malwarebytes Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/) or [Sysnative](https://www.sysnative.com/forums/forums/security-arena.66/) - Malware Removal Forums / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/malware-removal-forums.md)
 * [Microsoft Safety Scanner](https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download) - On-Demand AV Scanner
-* [⁠rifteyy](https://rifteyy.org/) - Malware Removal Guides / Blog / [Infostrealer Prevention / Recovery](https://rifteyy.org/report/the-ultimate-guide-to-infostealers)
+* [⁠rifteyy](https://rifteyy.org/) - Malware Removal Guides / Blog / [Infostealer Prevention / Recovery](https://rifteyy.org/report/the-ultimate-guide-to-infostealers)
 * [pyWhat](https://github.com/bee-san/pyWhat) - Identify Anything / [Discord](https://discord.com/invite/zYTM3rZM4T)
 * [Detect It Easy](https://github.com/horsicq/detect-it-easy) - File Identification + Static Inspection Tool
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
@@ -123,8 +123,8 @@
 
 * ↪️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
 * ⭐ **[Triage](https://tria.ge/)** - Online Sandbox
-* [ANY.RUN](https://any.run/) - Online Sandbox / [Discord](https://discord.gg/anyrun) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/anyrun-note.md)
 * [Cuckoo](https://cuckoo.cert.ee/) / [2](https://sandbox.pikker.ee/) - Online Sandbox
+* [ANY.RUN](https://any.run/) - Online Sandbox / Contact them Discord / X for Signup
 * [Sandboxie Plus](https://sandboxie-plus.com/) - Local Sandbox Environment / [Guide](https://clarasguide.valeena.workers.dev/Guides/sandboxie-guide/) / [GitHub](https://github.com/sandboxie-plus/Sandboxie)
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Local Virtual Machine Sandbox Environment
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
@@ -315,6 +315,7 @@
 * [Delta Chat](https://delta.chat/) - Decentralized Email-Based Messenger / Windows, macOS, Linux, Android
 * [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / Android, iOS
+* [Molly](https://github.com/mollyim/mollyim-android) - Android
 * [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
@@ -350,7 +351,7 @@
 
 ## ▷ Fingerprinting / Tracking
 
-* ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/), [⁠BrowserScan](https://www.browserscan.net/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
+* ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/) or [⁠BrowserScan](https://www.browserscan.net/) - Tracking / Fingerprinting Tests
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
@@ -467,7 +468,7 @@
 ## ▷ Proxy Clients
 
 * ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - Proxy Client / Windows, macOS, Linux
-* ⭐ **[v2rayNG](https://github.com/2dust/v2rayNG)**, [NekoBox](https://matsuridayo.github.io/) / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/) or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2](https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
+* ⭐ **[v2rayNG](https://github.com/2dust/v2rayNG)** or [MahsaNG](https://github.com/GFW-knocker/MahsaNG) / [Telegram](https://t.me/s/mahsa_net), [2](https://t.me/+YIlqV-fl9y4zMmRk) - Proxy Client / Android
 * [Hiddify](https://hiddify.com/) - Proxy Client / All Platforms / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
 * [Amnezia](https://amnezia.org/), [2](https://storage.googleapis.com/amnezia/amnezia.org) - Proxy Client / All Platforms / [Subreddit](https://www.reddit.com/r/AmneziaVPN/) / [Discord](https://discord.com/invite/JfrKFScw6N) / [Telegram](https://t.me/amnezia_vpn_en) / [GitHub](https://github.com/amnezia-vpn)
 * [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients) - Shadowsocks Client / All Platforms / [GitHub](https://github.com/shadowsocks)
