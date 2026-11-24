@@ -925,6 +925,7 @@
 * ↪️ **[Search Engine OSINT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_search_tools)**
 * ⭐ **[IntelTechniques](https://inteltechniques.com/)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** or [⁠OSINT Cabal](https://osintcabal.org/livecenter/live.html) - Online OSINT Tools / Web
+* [SpiderFoot.tools](https://spiderfoot.tools/) - Username / Email / IP Lookup / Social Media Profile Search
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
 * [Mitaka](https://github.com/ninoseki/mitaka) - OSINT Search Extension
