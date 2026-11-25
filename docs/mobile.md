@@ -280,7 +280,7 @@
 ## ▷ Keyboard Tools
 
 * ⭐ **[FUTO Keyboard](https://keyboard.futo.tech/)** - Privacy-Focused Keyboard / [Discord](https://discord.gg/ENYRubhTRw) / [GitHub](https://github.com/futo-org/android-keyboard)
-* ⭐ **[⁠WM Keyboard](https://wmkeyboard.app/)** - Customizable Privacy-Focused Keyboard / [GitHub](https://github.com/wasi-master/wmkeyboard)
+* ⭐ **[⁠WM Keyboard](https://wmkeyboard.app/)** - Customizable Privacy-Focused Keyboard / [Telegram](https://t.me/wmkeyboard) / [GitHub](https://github.com/wasi-master/wmkeyboard)
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard / [GitHub](https://github.com/florisboard/florisboard/)
 * ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/2.-Layouts)
 * [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) or [⁠Gboard Patches](https://github.com/jasonwu1994/Gboard-patches) - Keyboard
