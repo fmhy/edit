@@ -65,7 +65,7 @@
 * [NetU](https://netu.tv/) - 7.5GB / 90 Days (after last view)
 * [Streamplay](https://streamplay.to/) - 30TB / 20GB
 * [UQLOAD](https://uqload.vc/) - 5GB / Forever
-* [Luluvdoo](https://luluvdoo.com/), [2](https://lulustream.com/) - 15GB / 60 Days Since Last Download
+* [Luluvdoo](https://lulustream.com/) - 15GB / 60 Days Since Last Download
 * [Streamtape](https://streamtape.com/), [2](https://streamtape.to/) - 15GB / Requires Sign-Up
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
@@ -331,7 +331,6 @@
 * [Reaparr](https://www.reaparr.rocks/) - Merge Plex Libraries w/ Your Own / [Docs](https://github.com/Reaparr/Docs) / [Discord](https://discord.com/invite/k2KvDJbnNm) / [GitHub](https://github.com/Reaparr/Reaparr)
 * [PlexDrive](https://github.com/plexdrive/plexdrive) - Mount Google Drive
 * [SyncLounge](https://github.com/synclounge/synclounge) - Media Sync
-* [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://seerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
 * [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer / [GitHub](https://github.com/cglatot/pasta)
 

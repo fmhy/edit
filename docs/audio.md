@@ -19,7 +19,8 @@
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Meiro](https://meiro.elianiva.com/) - YouTube Music Client / [GitHub](https://github.com/elianiva/meiro)
 * [Flow Desktop](https://github.com/Flow-Tube/Flow-Desktop) - YouTube Music Client
-* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client  / Windows, macOS, Linux / [GitHub](https://github.com/grapedjuice/ytm-rs)
+* [⁠Metrolist](https://metrolist.meowery.eu/) - YouTube Music Client / Windows, macOS, Linux
+* [⁠ytm-rs](https://grapedjuice.github.io/ytm-rs/) - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/grapedjuice/ytm-rs)
 * [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
@@ -109,6 +110,7 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/)** - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
+* [⁠HearHear](https://hearhear.fm/), [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Databases
 * [OperaVision](https://operavision.eu/) or [OperaOnVideo](https://www.operaonvideo.com/) - Opera Recordings
 * [r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
@@ -121,7 +123,6 @@
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
 * [Volume](https://volume.com/) - Live Cam Concerts
-* [ConcertArchives](https://www.concertarchives.org/) or [⁠EntertainMe](https://www.entertainme.fun/) - Concert Tracking / Database
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
 * [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [⁠All of Bach](https://www.bachvereniging.nl/en/allofbach) - Johann Sebastian Bach Performance Project
@@ -150,6 +151,7 @@
 * [⁠TestPressing](https://www.testpressing.org/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
 * [Rave Recording](https://rentry.co/FMHYB64#rave-library) - Rave Recordings / Archive
+* [⁠Late Night Tales](https://www.mixcloud.com/LateNightTalesOfficial/) - Artist-Curated DJ Mixes
 
 ***
 

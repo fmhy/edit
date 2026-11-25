@@ -35,7 +35,7 @@
 * [BTDigg](https://btdig.com/)
 * [FileMood](https://filemood.com/)
 * [DaMagNet](https://damag.net/) - DHT-Based
-* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
+* [TorrentProject](https://torrentproject.cc/) - DHT-Based
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
 * [Cleanbay](https://cleanbay.netlify.app/) / [GitHub](https://github.com/Gr3atWh173/cleanbay#contributing)
@@ -87,7 +87,6 @@
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
 * [Tixati](https://tixati.com/) - Torrent Client / Windows, Linux, Android
 * [BiglyBT](https://www.biglybt.com/) - Torrent Client / Windows, macOS, Linux, Android
-* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - Torrent Client / Windows
 * [WizTorrent](https://wiztorrent.com/) - Torrent Client / Streaming / WebShare / Windows, macOS, Linux
 * [rqbit](https://github.com/ikatson/rqbit/) - Lightweight Torrent Client / Streaming / UPnP Integration / Windows, macOS, Linux
 * [PikaTorrent](https://www.pikatorrent.com/) - Torrent Client / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
@@ -113,7 +112,7 @@
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) (linux) - Docker Builds
 * [qBit Color Themes](https://github.com/MahdiMirzadeh/qbittorrent), [Dracula](https://draculatheme.com/qbittorrent), [Catppuccin](https://github.com/catppuccin/qbittorrent) or [Nord](https://github.com/Zabooby/qbittorrent-config) - Client Themes
-* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
+* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for ProtonVPN / Windows
 
 ***
 

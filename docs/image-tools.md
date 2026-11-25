@@ -25,7 +25,7 @@
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator / Windows, macOS, Linux
 * [Scribus](https://www.scribus.net/) or [Quarkdown](https://quarkdown.com/) / [GitHub](https://github.com/iamgio/quarkdown) - Page Layout & Typesetting Programs / Windows, macOS, Linux
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) / macOS
-* [SeaShore](https://sourceforge.net/projects/seashore/) / macOS
+* [SeaShore](https://github.com/robaho/seashore) / macOS
 * [Compositor](https://robbietilton.com/compositor) / macOS / [GitHub](https://github.com/robbietilton/Compositor)
 
 ***
@@ -703,6 +703,7 @@
 * [reaConverter](https://online.reaconverter.com/) - Image Converter / Web
 * [Knvrt](https://www.knvrt.one/) - Image Converter / Web
 * [Raw Pics](https://raw.pics.io/) - Convert RAW images to jpg/png / Web
+* [⁠anyjxl](https://anyjxl.com/) - Image to JPEG XL (JXL) Converter / Web
 
 ***
 
@@ -838,7 +839,7 @@
 * [imagebam](https://www.imagebam.com/) - 20MB / Forever
 * [imagevenue](https://www.imagevenue.com/) - 20MB / Forever
 * [FastPic](https://fastpic.org/) - 25MB / Forever
-* [PicoShare](https://github.com/mtlynch/picoshare) - Self-Hosted
+* [PicoShare](https://codefloe.com/mtlynch/picoshare) - Self-Hosted
 
 ***
 

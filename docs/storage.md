@@ -158,21 +158,6 @@
 
 ***
 
-## LibGen Mirrors
-
-* <https://librarygenesis.net/> - site list
-* <https://libgen.li/> - clone
-* <https://libgen.la/> - clone
-* <https://rentry.co/m2hkqhwb> - Differences between the mirrors
-
-***
-
-## LibGen Tools
-
-[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Backup](https://redd.it/edwi9b)
-
-***
-
 ## Media Database Site Tools
 
 ### Trakt Tools
