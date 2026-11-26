@@ -1,0 +1,11 @@
+{
+  "//": "Known first-appearance dates for entries that predate the 30-day window scripts/generate-removed.js reads. That window cannot see anything older, so an old entry whose line is rewritten, whose URL changes, or that is re-listed on a second page would otherwise be treated as new. Add a line here when that happens. Keys are \"<page>|<normalized url>\", with page the file name under docs/ (mobile.md). The date is when the entry first appeared on the wiki. Where the exact day is not worth chasing, use a date that is already older than the badge window (more than seven days ago) on which the entry is known to have been listed; a verified snapshot date is fine, and the badge only needs the date to be old. The generated new-sites.json still wins for anything inside the window, so this file can only ever make an entry look older, never newer. Keys without \"|\" are ignored, which is what this comment line is. Keep the file small: only add an entry when the badge is visibly wrong.",
+  "mobile.md|https://metrolist.meowery.eu/": "2024-12-28",
+  "audio.md|https://metrolist.meowery.eu/": "2024-12-28",
+  "file-tools.md|https://shredos.com/": "2025-11-30",
+  "mobile.md|https://apkcombo.com/": "2025-11-30",
+  "non-english.md|https://www.bookstack.cn/": "2025-11-30",
+  "non-english.md|https://animego.me/": "2025-11-30",
+  "gaming.md|https://gamebounty.st/": "2025-11-30",
+  "gaming.md|https://cdromance.com/": "2025-11-30"
+}

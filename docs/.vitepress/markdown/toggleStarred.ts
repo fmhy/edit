@@ -21,8 +21,10 @@ const excluded = ['Beginners Guide']
 const starredMarkers = [':star:', ':glowing-star:', '⭐', '🌟']
 const indexMarkers = ['🌐', ':globe_with_meridians:', ':globe-with-meridians:']
 
-// Written by scripts/generate-removed.js from Git history: URL -> date added.
-// Badges therefore appear and expire on their own with each build.
+// Written by scripts/generate-removed.js from Git history: "<page>|<url>" ->
+// date added. Badges therefore appear and expire on their own with each build.
+// Keying by page as well as URL keeps a page that inserts a shared link from
+// badging the same link on every other page that already lists it.
 function loadNewSites(): Record<string, string> {
   try {
     return JSON.parse(
@@ -33,7 +35,7 @@ function loadNewSites(): Record<string, string> {
   }
 }
 
-// Must match normalizeUrl() in scripts/generate-removed.js.
+// Must match normalizeUrl() and pageFromFile() in scripts/generate-removed.js.
 function normalizeUrl(value: string) {
   try {
     const url = new URL(value)
@@ -43,6 +45,26 @@ function normalizeUrl(value: string) {
   } catch {
     return value
   }
+}
+
+// "docs/mobile.md" -> "mobile.md". VitePress renders each page with its source
+// path in env.relativePath, which already has this form.
+function pageFromEnv(env: { relativePath?: unknown }): string {
+  const relativePath =
+    typeof env?.relativePath === 'string' ? env.relativePath : ''
+  return relativePath.replace(/\\/g, '/').replace(/^docs\//, '')
+}
+
+// The badge key for one link on one page. Exported so a test can check it
+// against badgeKey() in scripts/new-badge.mjs: if the two ever disagree, every
+// badge silently disappears, which is the one failure mode worth guarding.
+export function newBadgeDate(
+  newSites: Record<string, string>,
+  page: string,
+  href: string
+): string | undefined {
+  if (!/^https?:\/\//i.test(href)) return undefined
+  return newSites[`${page}|${normalizeUrl(href)}`]
 }
 
 // Same hover card as the Recently Removed dates ("2 days ago" + full date).
@@ -58,6 +80,7 @@ type InlineToken = NonNullable<
 function markNewLinks(
   children: InlineToken[],
   newSites: Record<string, string>,
+  page: string,
   Token: new (type: string, tag: string, nesting: number) => InlineToken
 ) {
   let found = false
@@ -69,8 +92,10 @@ function markNewLinks(
       continue
     }
     const href = child.attrGet('href')
-    if (!href || !/^https?:\/\//i.test(href)) continue
-    const addedOn = newSites[normalizeUrl(href)]
+    if (!href) continue
+    // Only this page's own entry can badge this link. A date recorded for the
+    // same URL on another page says nothing about the entry here.
+    const addedOn = newBadgeDate(newSites, page, href)
     if (!addedOn) continue
     child.meta = { ...child.meta, newBadge: true }
     let depth = 0
@@ -106,6 +131,7 @@ export function toggleStarredPlugin(md: MarkdownRenderer) {
       markNewLinks(
         contentToken.children,
         newSites,
+        pageFromEnv(env),
         md.core.State.prototype.Token
       )
 
