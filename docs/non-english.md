@@ -1764,6 +1764,7 @@
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Live TV / Movies / TV / Anime / Sub / 720p
 * [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
+* [⁠XemTV](https://hd1.xemtv.net/) - Live TV
 * [ZingMP3](https://zingmp3.vn/) or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 
 ## ▷ Reading / Đọc

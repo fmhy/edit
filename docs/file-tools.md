@@ -183,7 +183,7 @@
 * [⁠HashCheck](https://github.com/idrassi/HashCheck), [⁠HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html) or [RapidCRC Unicode](https://github.com/OV2/RapidCRC-Unicode) - Checksum / Hash Verifier
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / Metadata Viewer / [Online](https://mediaarea.net/MediaInfoOnline)
 * [MediaPeek](https://mediapeek.plnk.workers.dev/) - Online Media File Analysis / Metadata Viewer / [GitHub](https://github.com/luminalreason/mediapeek)
-* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
+* [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [⁠PrivMeta](https://www.privmeta.com/) / [GitHub](https://github.com/DScaife/privmeta/), [MetaStrip](https://metastrip.app/) / [GitHub](https://github.com/lars-1987/metastrip), [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) / [GitHub](https://github.com/iAnonymous3000/metadata-remover) or [mat2](https://github.com/jvoisin/mat2) / [Web Version](https://0xacab.org/jvoisin/mat2-web) - Remove Metadata from Files
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [WhatsLink](https://whatslink.info/) - View File Download Web Metadata
@@ -199,8 +199,8 @@
 * [Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG) or [Delapp](https://github.com/differentrain/Delapp) - File Shredding
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
 * [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder with Disk Burning
-* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Complete Hard Drive Erasers
-* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories
+* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://shredos.com/) / [GitHub-(https://github.com/PartialVolume/shredos.x86_64) Complete Hard Drive Erasers
+* [RED](https://www.jonasjohn.de/red.htm) / [GitHub](https://github.com/hxseven/Remove-Empty-Directories/) or [RED+](https://github.com/BookOfBeasts/Remove-Empty-Directories-Plus) - Remove Empty Directories 
 
 ***
 
@@ -241,6 +241,7 @@
 * [PDFWix](https://pdfwix.com/), [2](https://pdfwix.github.io/pdfwix/) - Client-Side
 * [⁠PDFkind](https://pdfkind.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side / [Source Code](https://codeberg.org/ladigitale/digipdf)
+* [⁠FixMyPDFs](https://fixmypdfs.cc/) - Client-Side
 * [Sejda](https://www.sejda.com/) - Server-Side
 * [ILovePDF](https://www.ilovepdf.com/) - Server-Side
 * [⁠PDFResizer](https://pdfresizer.com/) - Server-Side

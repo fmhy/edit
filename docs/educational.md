@@ -466,7 +466,6 @@
 * [Apollo in Realtime](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Interactive Apollo Missions
 * [Artemis II Photo Timeline](https://artemistimeline.com/) - Artemis II Photo & Video Timeline
 * [⁠Lunaserv Global Explorer](https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
-* [Marspedia](https://marspedia.org/) - Mars Wiki
 * [ESA](https://www.esa.int/) - European Space Agency Website / [X](https://x.com/ESA_Webb)
 * [JAXA](https://global.jaxa.jp/) - Japanese Space Agency Website / [Images / Videos](https://jda.jaxa.jp/?lang=e)
 * [CSA](https://www.asc-csa.gc.ca/eng/) - Canadian Space Agency Website
@@ -536,6 +535,7 @@
 * ⭐ **[Earth Observatory](https://science.nasa.gov/earth/earth-observatory/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [⁠Space Notices](https://space-notices.com/), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch & Spaceflight Schedules / Trackers
+* [⁠Booster Tracker](https://boostertracker.com/) - SpaceX Booster & Launch Statistics
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
 * [⁠Historic Spacecraft](https://historicspacecraft.com/) - Spacecraft / Rocket Photos & illustrations
 * [⁠HeroicRelics](http://heroicrelics.org/) - Spacecraft Technical Information Archive
@@ -1218,7 +1218,7 @@
 ## ▷ English
 
 * 🌐 **[Many Things](https://www.manythings.org/)** - ESL Resources
-* 🌐 **[ESOL](https://www.esolcourses.com/)** - English Learning Resources
+* 🌐 **[ESOL](https://www.esolcourses.com/)** or **[Awesome English](https://github.com/yvoronoy/awesome-english)** - English Learning Resources
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers

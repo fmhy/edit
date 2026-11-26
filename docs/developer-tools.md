@@ -211,7 +211,6 @@
 * [⁠GhGrab](https://ghgrab.readthedocs.io/) - GitHub Specific File Downloader / [GitHub](https://github.com/abhixdd/ghgrab)
 * [act](https://nektosact.com/) - Run GitHub Actions Locally / [GitHub](https://github.com/nektos/act)
 * [Star History](https://star-history.com/) - Repository Star History Graph
-* [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds
 * [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) - Dynamically Generated GitHub Readme Stats
 * [Skill Icons](https://skillicons.dev/) or [⁠Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Skill Badges for GitHub Readme / Resumes

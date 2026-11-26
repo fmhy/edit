@@ -203,7 +203,6 @@
 
 * 🌐 **[Map Genie](https://mapgenie.io/)**, [GamerMaps](https://www.gamermaps.net/), [IGN Maps](https://ign.com/maps), [VGMaps](https://www.vgmaps.com/), [⁠Better VGMaps](https://vgmaps.de/), [GameMaps](https://www.gamemaps.com/), [⁠PinDrop](https://pindrop.gg/) or [THGL](https://www.th.gl/) - Game Map Indexes
 * [noclip](https://noclip.website/) - Explore Game Maps
-* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
 * [bspview](https://sbuggay.github.io/bspview) - Explore Quake & GoldSRC Maps / [GitHub](https://github.com/sbuggay/bspview)
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
@@ -1067,6 +1066,8 @@
 * [⁠Elden Ring Wiki](https://eldenring.wiki.gg/) - Elden Ring Wiki / Encyclopedia
 * [Factorio Wiki](https://wiki.factorio.com/) - Factorio Info Database / Wiki
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info Database / Wiki
+* [KudosPrime](https://www.kudosprime.com/) - Racing Game Vehicle Database
+* [⁠Lapwerks](https://lapwerks.com/) - Custom Track Sketch + Import for Assetto Corsa & BeamNG.drive
 * [⁠UltraRumble](https://ultrarumble.com/) - My Hero Ultra Rumble Info Database / Wiki
 * [⁠Little Big Archive](https://littlebigarchive.com/) - LittleBigPlanet Community Level & Asset Archive
 * [Asphalt Database](https://www.reddit.com/r/Asphalt9/wiki/index/) - Asphalt Legends Unite Database / Wiki

@@ -280,7 +280,7 @@
 ## ▷ Keyboard Tools
 
 * ⭐ **[FUTO Keyboard](https://keyboard.futo.tech/)** - Privacy-Focused Keyboard / [Discord](https://discord.gg/ENYRubhTRw) / [GitHub](https://github.com/futo-org/android-keyboard)
-* ⭐ **[⁠WM Keyboard](https://wmkeyboard.app/)** - Customizable Privacy-Focused Keyboard / [GitHub](https://github.com/wasi-master/wmkeyboard)
+* ⭐ **[⁠WM Keyboard](https://wmkeyboard.app/)** - Customizable Privacy-Focused Keyboard / [Telegram](https://t.me/wmkeyboard) / [GitHub](https://github.com/wasi-master/wmkeyboard)
 * ⭐ **[Florisboard](https://florisboard.org)** - Privacy-Focused Keyboard / [GitHub](https://github.com/florisboard/florisboard/)
 * ⭐ **[HeliBoard](https://github.com/Helium314/HeliBoard)** - Customizable Privacy-Focused Keyboard / [Layouts Guide](https://github.com/Helium314/HeliBoard/wiki/2.-Layouts)
 * [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) or [⁠Gboard Patches](https://github.com/jasonwu1994/Gboard-patches) - Keyboard
@@ -319,7 +319,7 @@
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
-* [DAVx⁵](https://www.davx5.com/) - Contacts Syncing / [GitHub](https://github.com/bitfireAT/davx5-ose)
+* [DAVx⁵](https://www.davx5.com/) - Calendar, Contact & File Sync / [GitHub](https://github.com/bitfireAT/davx5-ose)
 * [BCR](https://github.com/chenxiaolong/BCR) (root) / [GUI](https://github.com/nicorac/bcr-gui), [⁠ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) or [⁠TTSLexx](https://play.google.com/store/apps/details?id=sia.netttsengine.ttslexx) - Call Recorder / **Check Local Call Recording Laws**
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
@@ -680,7 +680,7 @@
 * [JTX](https://jtx.techbee.at/), [Etar](https://github.com/Etar-Group/Etar-Calendar), [KashCal](https://kashcal.onekash.org/) / [GitHub](https://github.com/KashCal/KashCal), [⁠Calendula](https://codeberg.org/jlmakiola/calendula), [DigiCal](https://digibites.nl/digical) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Alarm with QR Code Control
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
-* [DAVx⁵](https://www.davx5.com/) - Calendar Syncing / [GitHub](https://github.com/bitfireAT/davx5-ose)
+* [DAVx⁵](https://www.davx5.com/) - Calendar, Contact & File Sync / [GitHub](https://github.com/bitfireAT/davx5-ose)
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner / Journal Apps
 * [Daily You](https://github.com/Demizo/Daily_You) or [June](https://github.com/DenserMeerkat/June) - Daily Journal / Picture / Mood tracker

@@ -28,7 +28,7 @@
 * ⭐ **[moanatv.](https://lfmx.app/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/7CBgYwN82F)
 * ⭐ **[Reelix](https://reelix.ac/)** or [Coreflix](https://coreflix.tv/) - 4K / External Subs / Ad-Toggle / [Discord](ttps://discord.gg/29H2dUCS8)
 * ⭐ **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.win/) or [CorsFlix](https://watch.corsflix.net), [2](https://watch.corsflix.dpdns.org) - 1080p / External Subs / Ad-Toggle / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - 1080p / Dual Audio / External Subs
+* ⭐ **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - 4K / Dual Audio / External Subs
 * ⭐ **[MeowTV](https://meowtv.ru/)** or [FlickyStream](https://flickystream.mov/) - 1080p / Dual Audio / External Subs / Ad-Toggle
 * ⭐ **[Flixer](https://flixer.gd)**, [2](https://flixer.cx/) or [Hexa](https://hexa.su/) - 1080p / Ad-Toggle
 * ⭐ **[Ghostflix](https://ghostflix.st/)**, [2](https://redflix.st/), [3](https://redflix.ac/) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Status](https://redflix.fans/) / [Invite](https://discord.gg/wp5SkSWHW5) / [Telegram](https://t.me/multichannelofficial)
@@ -48,16 +48,16 @@
 * [Cinema (BZ)](https://cinema.army/) - 1080p / Dual Audio / Ad-Toggle / [Telegram](https://t.me/cinemabz)
 * [Zenox](https://zenox.lol/) - 4K / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.com/invite/mYvhW9FNC9)
 * [Nexa](https://nexa.mov/) - 4K / Popup + Redirect Free / [Discord](https://discord.com/invite/Yb6vu9xxUR)
+* [4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle / External Subs / [Discord](https://discord.gg/vS8uWRhHn)
 * [ThugTV](https://thugtv.st) - 720p / Dual Audio / Ad-Toggle / [Telegram](https://t.me/thugtvonline) / [Discord](https://discord.gg/kZWYkvuGhM)
 * [Freekz](https://freekz.to/) or [ZXCSTREAM](https://zxcstream.com/) - 4K / External Subs / Popup + Redirect Free / [Telegram](https://t.me/+AZZmZ7-_SFsxM2M9) / [Discord](https://discord.gg/6ZXNmPedkG)
-* [Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle
+* [Reeflix](https://reeflix.st/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/29H2dUCS8)
 * [watched](https://watched.cx/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free / [Discord](https://discord.gg/t8J7eyY2F)
 * [RIVO](https://rivo.st/) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/jKRZrTTWd4)
 * [GreyBox](https://greyboxtv.duckdns.org) - 1080p / Dual Audio / Popup + Redirect Free / [Discord](https://discord.gg/avY9fYm9TA)
 * [Bowd](https://bowdtv.com/) - 1080p / Dual Audio / Pop up + Redirect Free
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/), [3](https://cinemaos.me), [4](https://cinemaos.in) - 1080p / Dual Audio / External Subs / Ad-Toggle / [Discord](https://discord.gg/38yFnFCJnA)
 * [Stellar](https://stellar.rip/) - 4K / External Subs / Popup + Redirect Free
-* [4Movie](https://4movie.in/) - 1080p / Dual Audio / Ad-Toggle
 * [Kaizoku](https://kaizoku.site/) - 4K / Dual Audio / Popup + Redirect Free / [Discord](https://discord.com/invite/hrjuTa3CaH)
 * [driftly](https://driftly.live/) - 4K / Pop up + Redirect Free
 * [TaroFlix](https://taroflix.net/) or [Cinetaro](https://cinetaro.to/) - 1080p / Dual Audio / Ad-Toggle / [Discord](https://discord.gg/2UPkZwn9v)
@@ -93,7 +93,7 @@
 
 ***
 
-* ⭐ **[Basement](https://basementx.lol/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)
+* ⭐ **[Basement](https://basementx.rest/)** - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/basementx) / [Discord](https://discord.com/invite/bWYUqEg7Xq)
 * ⭐ **[Aether](https://aether.st/)**, [2](https://aether.cx/), [3](https://aether.ist/) - 4K / Dual Audio / External Subs / Ad-Toggle / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
 * [kstream](https://kdesa.stream/), [2](https://kdesa.app/) - 1080p / Dual Audio / External Subs / [Status](https://rentry.co/kdesadomains) / [Discord](https://discord.gg/c2Ykk8HKjS)
 * [⁠Cinefork](https://cinefork.net/) - 1080p / Dual Audio / External Subs / Popup + Redirect Free
@@ -157,14 +157,13 @@
 * [CandleStream](https://candlestream.xyz/#home) - 21 Sources / Popup + Redirect Free
 * [HDToday](https://hdtoday.com.tr/) - 38 Sources / Pop up + Redirect Free
 * [Cineshine](https://cineshine.org/) - 38 Sources / Pop up + Redirect Free
+* [Aloso](https://aloso.vercel.app/) - 46 Sources / Pop up + Redirect Free
 * [Comvie](https://comvie.lol/) - 39 Sources / Popup + Redirect Free / [Discord](https://discord.gg/3jbb3fXJWj)
 * [Youflex](https://youflex.top/) - 30 Sources / Popup + Redirect Free
 * [Heartive](https://heartiveplaystv.pages.dev/) - 12 Sources / Popup + Redirect Free
 * [Flyflix](https://flyflix.cc/) - 23 Sources / Popup + Redirect Free / [Discord](https://discord.gg/sssvheMsVT)
-* [Aloso](https://aloso.vercel.app/) - 46 Sources / Pop up + Redirect Free
 * [WatchSeries](https://watchseries.bar/), [2](https://watchseries.show/) - 8 Sources / Ad-Toggle / [Mirrors](https://watchseries.domains/)
 * [Flixvo](https://flixvo.pro/), [2](https://flixvo.fun/) - 30 Sources / Popup + Redirect Free
-* [FLIKER](https://fliker.freebuff.app/) - 17 Sources / Popup + Redirect Free
 * [Bingeflix](https://bingeflix.tv/) - 11 Sources / [Discord](https://discord.com/invite/ajRY6Bn3rr)
 * [StreameX](https://streamex.hn/), [2](https://streamex.ws/) - 15 Sources / Popup + Redirect Free
 * [CineNest](https://cine-nest-nine.vercel.app/) - 32 Sources / Popup + Redirect Free
@@ -506,13 +505,12 @@
 * [Live24](https://livelive24.com/), [2](https://livelive24.st/) - TV / Sports
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
 * [⁠TVNow](https://tvnow.st/) - TV / Sports
-* [⁠Matchora](https://matchora.to/channels) - TV / Sports
+* [⁠Matchora](https://matchora.st/channels) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [DamiTV](https://damitv.st/livetv) or [OnDemand](https://ondemand.st/), [2](https://www.90minutes.pro/), [3](https://ondemand.to) - TV / Sports / [Discord](https://discord.gg/SyUrxKykh)
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [⁠FreeTVGarden](https://freetvgarden.com/) - TV / Sports / Globe Style
 * [Watchott Live](https://iptv.watchott.org/) - TV / Sports / PW: `FREE-MEDIA`
-* [xyzstreams](https://xyzstreams.st/) - TV / Sports
 * [⁠TV Explorer](https://tvexplorer.live/) - TV / Sports
 * [⁠PFlix Live](https://pflix.net/live) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
@@ -548,7 +546,7 @@
 * ⭐ **[DaddyLive](https://dlhd.st/)**, [2](https://thedaddy.li/) / [Status](https://daddylive.pk/) / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 * [AuraSports](https://aurasports.cfd/), [2](https://aurasports.xyz/) / [Discord](https://discord.gg/NPuBAJZy7Y)
 * [DamiTV](https://damitv.st/livetv) or [OnDemand](https://ondemand.st/), [2](https://www.90minutes.pro/), [3](https://ondemand.to) / [Discord](https://discord.gg/SyUrxKykh)
-* [⁠Matchora](https://matchora.to/)
+* [⁠Matchora](https://matchora.st/)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [Cinevid](https://cinevid.sbs/events) / [Status](https://cinevid.link/)
@@ -560,7 +558,6 @@
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)
 * [DaddyLiveHD](https://daddylive.mov/), [2](https://daddylive.app/), [3](https://daddylive.li/) / [Mirrors](https://rentry.co/daddylivehd) / [Telegram](https://t.me/addlist/khVpZrgJToIxNTJl) / [Discord](https://discord.gg/qc4jksxk7a)
 * [Reedstreams](https://reedstreams.to/), [2](https://reedstreams.st/) - Stream Aggregator / [Mirrors](https://reedstreams.link/)
-* [xyzstreams](https://xyzstreams.st/)
 * [Sportsurge](https://v2.sportsurge.net/)
 * [TotalSportek](https://totalsport-ek.st/) or [Sportsurge.st](https://sportsurges.st/) / [Discord](https://discord.com/invite/mdEsarNMyF)
 * [Tap4Sport](https://tap4sport.st/), [2](https://tap4sport.pw/) / [Status](http://tap4sport.link/)
