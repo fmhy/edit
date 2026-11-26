@@ -14,6 +14,7 @@ result
 docs/recently-removed.md
 docs/.vitepress/new-sites.json
 docs/public/single-page.md
+docs/public/changes.json
 package-lock.json
 __pycache__/
 *.pyc

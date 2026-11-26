@@ -16,6 +16,10 @@
 
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import {
+  clearLinkHighlight,
+  scheduleLinkHighlight
+} from './composables/highlightLink'
 import { loadProgress } from './composables/nprogress'
 import {
   cancelPendingScroll,
@@ -30,6 +34,7 @@ import './style.scss'
 import 'virtual:uno.css'
 
 import FloatingVue from 'floating-vue'
+import Changes from './components/Changes.vue'
 import Feedback from './components/Feedback.vue'
 
 import 'floating-vue/dist/style.css'
@@ -121,6 +126,7 @@ export default {
     app.component('LinkInline', LinkInline)
     app.component('Tag', Tag)
     app.component('Post', Post)
+    app.component('Changes', Changes)
     app.component('Feedback', Feedback)
     app.component('CriticalBadge', CriticalBadge)
     app.component('Tooltip', Tooltip)
@@ -141,6 +147,7 @@ export default {
 
       router.onBeforeRouteChange = (to) => {
         cancelPendingScroll()
+        clearLinkHighlight()
 
         // A search navigation is only the one whose destination matches the
         // pending query's recorded path. Any other navigation (e.g. a sidebar
@@ -189,6 +196,17 @@ export default {
           pendingScrollQuery.value = null
           const hash = window.location.hash.slice(1)
           scheduleScrollToMatch(hash, query, 16, matchContext)
+        }
+
+        // ?hl=<url>: highlight the line holding that link (What's New jumps).
+        try {
+          const target = new URL(to, window.location.href).searchParams.get(
+            'hl'
+          )
+          if (target)
+            scheduleLinkHighlight(window.location.hash.slice(1), target)
+        } catch {
+          /* malformed URL — nothing to highlight */
         }
       }
     }

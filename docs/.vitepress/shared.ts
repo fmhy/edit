@@ -88,7 +88,8 @@ export const excluded = [
   'feedback.md',
   'index.md',
   'sandbox.md',
-  'startpage.md'
+  'startpage.md',
+  'changes.md'
 ]
 
 // Strip the URL scheme and a leading "www." so "https://www.pi-hole.net/x" and
@@ -185,6 +186,7 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: '➕ More',
     items: [
+      { text: "✨ What's New", link: '/changes' },
       { text: '❓ FAQs', link: '/other/FAQ' },
       { text: '🤝 Contributing', link: '/other/contributing' },
       { text: '💬 Feedback', link: '/feedback' },
@@ -212,6 +214,10 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
   {
     text: '<span class="i-twemoji:newspaper"></span> Posts',
     link: '/posts'
+  },
+  {
+    text: '<span class="i-twemoji:sparkles"></span> What\'s New',
+    link: '/changes'
   },
   {
     text: '<span class="i-twemoji:light-bulb"></span> Contribute',

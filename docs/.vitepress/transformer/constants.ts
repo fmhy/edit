@@ -28,7 +28,8 @@ export const excluded = [
   'feedback.md',
   'index.md',
   'sandbox.md',
-  'startpage.md'
+  'startpage.md',
+  'changes.md'
 ]
 
 function escapeHtml(value: string) {
