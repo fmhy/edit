@@ -3,12 +3,22 @@ import crypto from 'node:crypto'
 import fs from 'node:fs'
 import { createMarkdownRenderer } from 'vitepress'
 import headers from '../docs/.vitepress/transformer/headers.json' with { type: 'json' }
+import {
+  badgeKey,
+  bulletNames,
+  normalizeName,
+  pageFromFile,
+  resolveNewEntry
+} from './new-badge.mjs'
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
 // Entries added within this many days get a "new" badge on their page.
 const NEW_DAYS = 7
 const NEW_SITES_FILE = 'docs/.vitepress/new-sites.json'
+// Checked-in fallback for entries older than the history window below. Keys are
+// "<page>|<url>"; see the comment inside the file for how it is maintained.
+const ADDED_DATES_FILE = 'docs/.vitepress/added-dates.json'
 
 const IGNORED_FILES = [
   'docs/posts.md',
@@ -45,14 +55,6 @@ function getAllDocFiles(dir) {
     }
   }
   return results
-}
-
-function normalizeName(name) {
-  return name
-    .replace(/[\u2060\u200B\u200C\u200D\uFEFF]/g, '')
-    .replace(/\s+/g, ' ')
-    .trim()
-    .toLowerCase()
 }
 
 function categoryForFile(file) {
@@ -518,14 +520,25 @@ async function generateRemovedSites() {
         if (historical) historyResources.add(key)
       }
     }
+    // Name set per bullet, computed once so the badge check below stays cheap
+    // even though the same blob is reread many times.
+    for (const bullet of document.bullets) {
+      bullet.names = new Set(bulletNames(bullet))
+    }
     return document
   }
 
+  // URLs currently listed on each page, so a badge is only written for an
+  // entry that is still on the page it was found on.
+  const currentByPage = new Map()
   for (const file of getAllDocFiles('docs')) {
     const document = rememberResources(
       parseDocument(markdown, fs.readFileSync(file, 'utf8'))
     )
+    const page = pageFromFile(file)
+    const pageUrls = new Set(document.urls)
     for (const url of document.urls) currentUrls.add(url)
+    currentByPage.set(page, pageUrls)
   }
 
   function readDocument(blob, file) {
@@ -563,6 +576,7 @@ async function generateRemovedSites() {
   const cacheKey = crypto
     .createHash('sha256')
     .update(fs.readFileSync(new URL(import.meta.url)))
+    .update(fs.readFileSync(new URL('./new-badge.mjs', import.meta.url)))
     .update(
       fs.readFileSync(new URL(import.meta.resolve('vitepress/package.json')))
     )
@@ -577,7 +591,8 @@ async function generateRemovedSites() {
         changes: commit.changes.map((change) => ({
           ...change,
           removedUrls: new Set(change.removedUrls),
-          addedUrls: new Set(change.addedUrls)
+          addedUrls: new Set(change.addedUrls),
+          beforeNames: new Set(change.beforeNames || [])
         }))
       }))
       for (const key of cached.resources) knownResources.add(key)
@@ -635,10 +650,19 @@ async function generateRemovedSites() {
         const addedUrls = new Set(
           [...after.urls].filter((url) => !before.urls.has(url))
         )
+        // Entry names that already existed in this file at the parent commit.
+        // A name in this set is an old entry whose line was rewritten, moved or
+        // re-linked, not a new entry, whatever the diff says about the URL.
+        const beforeNames = new Set()
+        for (const bullet of before.bullets) {
+          for (const name of bullet.names ?? bulletNames(bullet))
+            beforeNames.add(name)
+        }
         changes.push({
           file,
           removedUrls,
           addedUrls,
+          beforeNames,
           removedBullets: before.bullets.filter((bullet) =>
             bullet.links.some((link) => removedUrls.has(link.url))
           ),
@@ -676,6 +700,18 @@ async function generateRemovedSites() {
     .slice(0, 10)
   const newSites = new Map()
 
+  // Hand-maintained dates for entries the window cannot see. They can only
+  // suppress a badge, never create one.
+  let knownAdded = {}
+  try {
+    const parsed = JSON.parse(fs.readFileSync(ADDED_DATES_FILE, 'utf8'))
+    knownAdded = Object.fromEntries(
+      Object.entries(parsed).filter(([key]) => key.includes('|'))
+    )
+  } catch {
+    // A missing or malformed file only means fewer known dates.
+  }
+
   // Historical primary occurrences can establish ambiguous grouped peers.
   for (const { hash, msg, date, changes } of commits) {
     const addedUrls = new Set(
@@ -709,7 +745,12 @@ async function generateRemovedSites() {
         )
         for (const resource of resources) {
           if (change.addedUrls.has(resource.url))
-            added.push({ ...resource, description })
+            added.push({
+              ...resource,
+              description,
+              file: change.file,
+              beforeNames: change.beforeNames
+            })
         }
       }
     }
@@ -720,14 +761,24 @@ async function generateRemovedSites() {
         removed.map(({ name }) => normalizeName(name))
       )
       for (const item of added) {
-        if (
-          !currentUrls.has(item.url) ||
-          removedInWindow.has(item.url) ||
-          removedNames.has(normalizeName(item.name))
-        )
-          continue
+        const page = pageFromFile(item.file)
+        const resolved = resolveNewEntry({
+          candidate: {
+            page,
+            url: item.url,
+            date,
+            name: item.name,
+            beforeNames: item.beforeNames,
+            stillOnPage: currentByPage.get(page)?.has(item.url) ?? false
+          },
+          knownAdded,
+          cutoff: newCutoff,
+          removedInWindow,
+          removedNames
+        })
+        if (!resolved) continue
         // Commits are newest first, so the last write keeps the first addition.
-        newSites.set(item.url, date)
+        newSites.set(badgeKey(page, item.url), resolved)
       }
     }
 
