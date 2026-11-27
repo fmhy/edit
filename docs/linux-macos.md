@@ -777,6 +777,7 @@
 * [⁠ClashMac](https://github.com/666OS/ClashMac) - Proxy Client
 * [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall / [GitHub](https://github.com/objective-see/LuLu)
+* [Kage](https://gitlab.com/YKupriyanov/Kage) - Menu Bar Telemetry Sinkhole, DoT & TLS Stealth Shield / [Codeberg](https://codeberg.org/11010001101001/Kage)
 * [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
 * [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor
 * [SuspiciousPackage](https://www.mothersruin.com/software/SuspiciousPackage/get.html) - Analyze PKG Files
