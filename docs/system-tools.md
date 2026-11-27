@@ -366,7 +366,7 @@
 * [OS.click](https://os.click/en) - Windows ISOs
 * [MyDigitalLife](https://forums.mydigitallife.net/) - Windows ISOs / Forums
 * [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs / Official Site
-* [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
+* [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [NetBoot](https://netboot.xyz/) - iPXE Network Boot
 * [⁠MrChromebox](https://docs.mrchromebox.tech/), [Chrultrabook](https://docs.chrultrabook.com/) or [CoolStar](https://coolstar.org/chromebook/windows-install.html) - Install Windows / Linux on Chromebook

@@ -736,7 +736,7 @@
 * [⁠VyseTV](https://vysetv.cc/) - All Platforms / [Discord](https://discord.gg/bbkVHRHnRk) / [GitLab](https://gitlab.com/ayman707-ux/vysetv)
 * [CinemaOS](https://cinemaos.live/), [2](https://cinemaos.tech/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/38yFnFCJnA)
 * [TamilGun](https://tamilgun.now/) - Tamil Movies / TV / Dub / 1080p / 720p
-* [1Shows](http://1shows.org), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
+* [1Waves](http://1waves.gd/), [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies
 * [tamilbulb](https://tamilbulb.cc/) - Tamil Movies
 * [tamilblasters](https://www.1tamilblasters.tech/) - Movies / TV / Anime
@@ -1755,6 +1755,7 @@
 * [⁠Trạm Phim](https://tramphim.beer/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Threads](https://www.threads.com/@tram_phim) / [Telegram](https://t.me/tramphimorgTV)
 * [AnimeTVN](https://animetvn.gay/) - Anime / Chinese Animation / Sub / 1080p
 * [AnimeVietsub](https://animevietsub.bid/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
+* [⁠XemTV](https://hd1.xemtv.net/) - Live TV / 720p
 * [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses
 
 ## ▷ Free w/ Ads / Miễn phí với quảng cáo
@@ -1764,7 +1765,6 @@
 * [VieON](https://vieon.vn/) - Live TV / Movies / TV / Anime / Sub / Dub / 720p
 * [Danet](https://danet.vn/) - Live TV / Movies / TV / Anime / Sub / 720p
 * [HTV](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV / 1080p
-* [⁠XemTV](https://hd1.xemtv.net/) - Live TV
 * [ZingMP3](https://zingmp3.vn/) or [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 
 ## ▷ Reading / Đọc

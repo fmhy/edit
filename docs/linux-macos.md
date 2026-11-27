@@ -227,6 +227,7 @@
 ## ▷ Linux Audio
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
+* ↪️ **[Linux Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_editors)**
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
@@ -250,9 +251,6 @@
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Pipewire](https://pipewire.org/) - Improved Video / Audio Handling / Multimedia API / [Effects](https://github.com/wwmm/easyeffects) / [TUI Audio Mixer](https://github.com/tsowell/wiremix)
 * [Werman](https://github.com/werman/noise-suppression-for-voice), [⁠HushMic](https://github.com/Fovty/hushmic) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
-* [Qtractor](https://qtractor.org/) - Audio Editor
-* [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
-* [Ensembles](https://github.com/ensemblesaw/ensembles-app) - Musical Performance Arranger
 * [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
 * [Blanket](https://github.com/rafaelmardojai/blanket) - Ambient Sound Mixer for Linux
@@ -703,6 +701,7 @@
 
 ## ▷ Mac Audio
 
+* ↪️ **[Mac Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_editors)**
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** - Spotify Adblockers
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Improved Lyrics](https://spicylyrics.org/) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spicetify-note.md)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
@@ -713,7 +712,6 @@
 * [TheBoringNotch](https://theboring.name/) - Turn Notch into Audio Controller / Calendar / [Discord](https://discord.gg/GvYcYpAKTu) / [GitHub](https://github.com/TheBoredTeam/boring.notch/)
 * [⁠Kaset](https://github.com/sozercan/kaset/) - YouTube Music Clients
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - SoundCloud Client
-* [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [EQMac](https://eqmac.app/) or [CoreEQ](https://github.com/andreypudov/core-eq) - Audio Equalizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
 * [⁠Silkwave Clarity](https://www.silkwave.ai/silkwave-clarity) - Noise Suppression Software

@@ -445,7 +445,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [⁠Mangastash](https://mangastash.org/)
 * [⁠JustManga](https://justmanga.cc/) / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
-* [Rive Manga](https://www.rivestream.app/manga), [2](https://rivestream.ru/manga) / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
+* [Rive](https://www.rivestream.app/manga), [2](https://rivestream.st/manga), [3](https://rivestream.pro/manga), [4](https://rivestream.cz/manga) - Korean Drama / TV / Movies / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * [MangaTown](https://www.mangatown.com/)
 * [All Manga](https://allmanga.to/) or [MKissa](https://mkissa.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
@@ -949,10 +949,13 @@
 ## ▷ Comic Tracking / Databases
 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
+* ⭐ **[Comic Book Reading Orders](https://comicbookreadingorders.com/)** - Comic Book Reading Orders
 * [Omnibus Tracker](https://omnibusreaders.com/) - Comic Tracking / Database / Releases / Sales Tracking / [Discord](https://discord.gg/8N3sgZbV5H)
 * [⁠VerseDb](https://versedb.com/) - Comic Tracking / Database / Releases / [Discord](https://discord.gg/mbtqVH8R9n)
 * [⁠Comic Vine](https://comicvine.gamespot.com/) - Comic Database / Forum
 * [⁠Grand Comics Database](https://www.comics.org/) - Comic Database
+* [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
+* [⁠Uncanny X-Men](https://uncannyxmen.net/) - X-Men Comics Database + Summaries
 * [The Webcomic List](https://www.thewebcomiclist.com/) - Webcomic Database / Release Tracker
 * [piperka](https://piperka.net/) - Webcomic Database / Release Tracker
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
@@ -1007,11 +1010,9 @@
 ## ▷ Comic Recommendations
 
 * ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - Comic Rating Aggregator ⁠
-* ⭐ **[Comic Book Reading Orders](https://comicbookreadingorders.com/)** - Comic Book Reading Orders
 * [r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [ComicBookCanon](https://www.comicbookcanon.com/) - Comics Top Lists
 * [r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
-* [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - Full DC Media List (1935-2024)
 
 ***
 

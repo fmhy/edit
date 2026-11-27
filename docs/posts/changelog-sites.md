@@ -21,6 +21,8 @@ This page lists sites that were removed from the wiki in the last 30 days
 
 **https://fmhy.net/feed.rss**
 
+**https://x.fmhy.bid/rss.xml**
+
 FMHY RSS Feed
 
 ***

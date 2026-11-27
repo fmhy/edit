@@ -12,12 +12,12 @@
 
 ## ▷ Official Model Sites
 
-* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen4 Max / Qwen3.7-Plus / Qwen3.8-Max / Agent / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM 5.4 / GLM 5.3 Flash / Agent / Slides / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 4 Hydrogen / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 4 Hydrogen / Google Sign-Up / [Add Features](https://github.com/Nagi-ovo/voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V4.1 Flash 1017 / Sign-Up / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
+* ⭐ **[Qwen Studio](https://chat.qwen.ai/)** - Qwen4 Max / Qwen3.8-Max / Agent / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Meta AI](https://www.meta.ai/) - Muse Spark 1.3 / Muse Glimmer 30B / May Require Sign-Up / Unlimited
-* [DeepSeek](https://chat.deepseek.com/) - DeepSeek V4.1 Flash 1017 / Sign-Up / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * [ChatGPT](https://chatgpt.com/) - GPT-6 Luna / [Unlimited](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq#how-do-rate-limits-work-on-the-free-tier) / [Add Features](https://github.com/Nagi-ovo/voyager) / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * [Kimi](https://www.kimi.ai/), [2](https://www.kimi.com/) - Kimi K2.6 / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * [⁠LongCat](https://longcat.ai/chat/) - LongCat 2.5 / Sign-Up / Unlimited / [X](https://x.com/Meituan_LongCat)
@@ -37,11 +37,11 @@
 
 ## ▷ Multiple Model Sites
 
-* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - DeepSeek V4.1 Flash 1017 / Sign-Up / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
+* ⭐ **[⁠Together.ai](https://chat.together.ai/)** - DeepSeek V4.1 Flash 1017 / Kimi K3.1 Pro / GLM 5.3 / Sign-Up / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [NVIDIA NIM](https://build.nvidia.com/models) - Kimi K3.1 Pro / DeepSeek V4.1 Flash 1017 / Unlimited / No Sign-Up
-* [Sarvam](https://dashboard.sarvam.ai/chat) - GLM 5.4 / DeepSeek V4.1 Flash 1017 / Sign-Up
-* [⁠Lumo](https://lumo.proton.me/) - GLM 5.4 (Max, 20 Daily) / Qwen3.5 122B A10B (Lite, 100 Daily) / Sign-Up / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
-* [⁠ISH](https://ish.chat/) - DeepSeek V4 Flash 0731 / GLM 5.4 Flash / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
+* [Sarvam](https://dashboard.sarvam.ai/chat) - GLM 5.3 / DeepSeek V4.1 Flash 1017 / Sign-Up
+* [⁠Lumo](https://lumo.proton.me/) - GLM 5.3 (Max, 20 Daily) / Qwen3.5 122B A10B (Lite, 100 Daily) / Sign-Up / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
+* [⁠ISH](https://ish.chat/) - DeepSeek V4 Flash 0731 / GLM 5.3 Flash / 50K Tokens Daily / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [Arena](https://arena.ai/text/direct) - Multiple Models / Agent / Sign-Up / [Limits](https://help.arena.ai/articles/5476762589-credit-sytem) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠Ecosia AI](https://www.ecosia.org/ai-chat) - Mistral Small 4 / Mistral Small 3.2 / Unlimited
 * [AI Assistant](https://aiassistantbot.pages.dev/) - GLM 4.7 / gpt-oss-120b / No Sign-Up

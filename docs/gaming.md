@@ -136,7 +136,6 @@
 * ⭐ **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
 * ⭐ **[Retro eXo](https://www.retro-exo.com/)** - Abandonware / Retro PC Games / Torrents
 * ⭐ **[Zombs-Lair](https://www.zombs-lair.com/)** - Abandonware / [Discord](https://discord.com/invite/JdyPtRv)
-* ⭐ **[VETUSWARE](https://vetusware.com/category/Games/)** - Abandonware
 * ⭐ **[CollectionChamber](https://collectionchamber.blogspot.com/)** - Abandonware
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - Abandonware
 * ⭐ **[LegendsWorld](https://www.legendsworld.net/)** - Retro PC Adventures
@@ -833,9 +832,9 @@
 * ⭐ **[GN-Math](https://gn-math.dev/)** - Browser Games / Ports / use Adblocker / [Discord](https://discord.com/invite/D4c9VFYWyU)
 * [⁠Obsidian](https://playobsidian.com/store) - Browser Games / Ports
 * [Ivy](https://ivy.rest/) - Browser Games / Ports / [Discord](https://discord.gg/ivyubg)
-* [Truffled](https://truffled.lol/g) - Browser Games / Ports / [Discord](https://discord.com/invite/truffled)
 * [fern](https://fern.best/) - Browser Games / Ports / [Discord](https://discord.com/invite/TV2tWzSU7x)
 * [UBG365](https://ubg365.github.io/) - Browser Games
+* [Truffled](https://truffled.lol/g) - Browser Games / Ports / **Disable Ads in Settings** / [Discord](https://discord.com/invite/truffled)
 
 ***
 

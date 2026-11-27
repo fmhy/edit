@@ -440,7 +440,7 @@
 * 🌐 **[Email Providers](https://wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
 * ↪️ **[Email Privacy Services / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_email_privacy)**
 * ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
-* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [⁠Mailo](https://mailo.com/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [⁠nix.to](https://nix.to/), [Private.Ki](https://private.ki/), [⁠Murena](https://murena.com/workspace/) or [Neir](https://neir.io/) - Number-Free Email
+* [⁠Aster Mail](https://astermail.org/), [navi.land](https://navi.land/), [⁠Mailo](https://mailo.com/), [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [⁠nix.to](https://nix.to/), [⁠Secria Mail](https://secria.me/mail/), [Atomic Mail](https://atomicmail.io/), [Private.Ki](https://private.ki/), [⁠Murena](https://murena.com/workspace/) or [Neir](https://neir.io/) - Number-Free Email
 * [⁠Zoho Mail](https://www.zoho.com/mail) - Free Email Hosting / Custom Domains
 * [Delta Chat](https://delta.chat/) - Email-Based Messenger
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders
@@ -698,6 +698,7 @@
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome, Firefox, and Edge Extensions
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [Web Search Navigator](https://github.com/infokiller/web-search-navigator), [Shortkeys](https://www.shortkeys.app/) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts
+* [ScrollAnywhere](https://addons.mozilla.org/addon/scroll_anywhere/) / [Chrome](https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi) - Improved Browser Scrolling
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
