@@ -316,6 +316,7 @@
 * [Status](https://status.app/) / Android, iOS / [GitHub](https://github.com/status-im)
 * [Damus](https://damus.io/) or [MySudo](https://anonyome.com/individuals/mysudo/) / Android, iOS
 * [Molly](https://github.com/mollyim/mollyim-android) - Android
+* [Null Messenger](https://gitlab.com/YKupriyanov/NullMessenger) - Decentralized Zero-Storage RAM Messenger over BitTorrent DHT / Android, C++20 AI Agent Bridge / [Codeberg](https://codeberg.org/11010001101001/NullMessenger)
 * [Databag](https://github.com/balzack/databag) - Self-Hosted / Android, iOS, Web / [GitHub](https://github.com/balzack/databag)
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat
 
