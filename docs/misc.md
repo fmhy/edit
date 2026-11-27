@@ -45,6 +45,7 @@
 * [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue), [404PageFound](https://www.404pagefound.com/) or [href.cool](https://href.cool/) - Oldschool Site Indexes
 * [Funny / Useless](https://rentry.org/aksry2vc) - Funny / Useless Websites
 * [Websites From Hell](https://websitesfromhell.net/) - Sites with Questionable Designs
+* [Panoply](https://panoply.io/) - Independent directory of data tools
 
 ***
 
