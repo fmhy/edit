@@ -25,6 +25,9 @@ export default defineNitroConfig({
     WEBHOOK_URL: process.env.WEBHOOK_URL
   },
   srcDir: 'api/',
+  // Nitro's cloudflare_module entry cannot export a Durable Object class,
+  // so api/worker.ts re-exports that entry and adds the limiter class.
+  entry: './worker.ts',
   routeRules: {
     '/': {
       cors: false
