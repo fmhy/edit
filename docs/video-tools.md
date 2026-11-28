@@ -13,7 +13,6 @@
 * ⭐ **[Reincubate Camo](https://camo.com/studio)** - Use Any Camera as Webcam
 * [⁠Broadcast Box](https://b.siobud.com/) / [GitHub](https://github.com/Glimesh/broadcast-box), [Screen Share Party](https://ba.net/screen/) or [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/) - Web-Based Screen Sharing
 * [⁠uxplay-windows](https://github.com/leapbtw/uxplay-windows) - AirPlay Receiver / Windows
-* [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - Video Face Swap / Windows, macOS, Linux
 * [Rope](https://github.com/Hillobar/Rope) - Video Face Swap Tools / Windows / [Discord](https://discord.com/invite/EcdVAFJzqp)
 * [VideoHelp Forum](https://forum.videohelp.com/) - All Things Media Discussion / Web
 * [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Video Compare](https://github.com/pixop/video-compare) - Video Quality Comparison & Analysis Tools / Windows
