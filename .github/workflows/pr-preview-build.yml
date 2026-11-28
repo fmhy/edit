@@ -1,0 +1,109 @@
+name: PR Preview Build
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review, labeled, unlabeled]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  decide:
+    name: Check preview eligibility
+    runs-on: ubuntu-latest
+    if: >-
+      (github.event.action != 'labeled' && github.event.action != 'unlabeled')
+      || github.event.label.name == 'preview' || github.event.label.name ==
+      'skip-preview'
+    outputs:
+      build: ${{ steps.check.outputs.build }}
+      head_sha: ${{ steps.check.outputs.head_sha }}
+    steps:
+      - id: check
+        name: Check PR eligibility and changed files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            if (!pr || pr.state !== 'open' || pr.merged) {
+              core.setOutput('build', 'false');
+              return;
+            }
+
+            const labels = (pr.labels || []).map((l) => l.name);
+            if (labels.includes('skip-preview')) {
+              core.info('PR has skip-preview label; skipping.');
+              core.setOutput('build', 'false');
+              return;
+            }
+
+            const forcePreview = labels.includes('preview');
+            let shouldBuild = forcePreview;
+
+            if (!shouldBuild && !pr.draft) {
+              const files = await github.paginate(github.rest.pulls.listFiles, {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                per_page: 100,
+              });
+
+              const isWebsiteFile = (f) => {
+                if (f.endsWith('.md')) return false;
+                return (
+                  f.startsWith('docs/.vitepress/') ||
+                  f.startsWith('docs/public/') ||
+                  f.startsWith('scripts/') ||
+                  f === 'package.json' ||
+                  f === 'pnpm-lock.yaml' ||
+                  f === 'pnpm-workspace.yaml' ||
+                  f === 'unocss.config.ts' ||
+                  f === 'tsconfig.json' ||
+                  /^vite\.config\./.test(f) ||
+                  f === '.github/workflows/pr-preview-build.yml' ||
+                  f === '.github/workflows/pr-preview-deploy.yml'
+                );
+              };
+
+              shouldBuild = files.some((file) => isWebsiteFile(file.filename));
+            }
+
+            core.setOutput('build', String(shouldBuild));
+            core.setOutput('head_sha', pr.head.sha);
+
+  build:
+    name: Build static preview
+    needs: decide
+    if: needs.decide.outputs.build == 'true'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pr-preview-build-${{ github.event.pull_request.number }}
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ needs.decide.outputs.head_sha }}
+          fetch-depth: 0 # generate-removed.js reads git log
+          persist-credentials: false
+
+      - uses: pnpm/action-setup@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build docs
+        run: pnpm docs:build
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-preview-dist
+          path: docs/.vitepress/dist
+          retention-days: 1
+          if-no-files-found: error

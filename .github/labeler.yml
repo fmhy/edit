@@ -1,10 +1,17 @@
 core:
   - changed-files:
       - any-glob-to-any-file:
-          - 'docs/.vitepress/**'
+          - 'docs/.vitepress/**/*.{ts,mts,js,mjs,vue,scss,css,json}'
+          - 'docs/public/**'
           - 'scripts/**'
           - 'api/**'
-          - '*'
+          - 'package.json'
+          - 'pnpm-lock.yaml'
+          - 'pnpm-workspace.yaml'
+          - 'unocss.config.ts'
+          - 'tsconfig.json'
+          - 'nitro.config.ts'
+          - 'wrangler.toml'
 
 docs:
   - changed-files:
