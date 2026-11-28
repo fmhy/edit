@@ -343,7 +343,6 @@
 * 🌐 **[Lua Providers](https://rentry.co/lua-providers)** - Steam Lua Provider Index
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot / Manifest Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
-* ⭐ **[LuaTools](https://lua.tools/)** - Steam Multi-Tool / Manifest Tool / [Discord](https://discord.gg/luatools) / [GitHub](https://github.com/madoiscool/LuaTools)
 * [Steam Link](https://store.steampowered.com/remoteplay#anywhere) - Stream Steam Library to TV / Devices
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms with Steam
@@ -353,6 +352,7 @@
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) or [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Managers
 * [SteamHunters](https://steamhunters.com/) / [Discord](https://discord.com/invite/SeJ25Xv) or [TrueSteamAchievements](https://truesteamachievements.com/) - Steam Achievement Tracking / Leaderboards / Profiles
 * [⁠VSThemes Steam](https://vsthemes.org/en/steam/) - Custom Steam Profiles
+* [LuaTools](https://lua.tools/) - Steam Multi-Tool / Manifest Tool / [Discord](https://discord.gg/luatools) / [GitHub](https://github.com/madoiscool/LuaTools)
 * [SteamID](https://steamid.io/) / [2](https://steamid.uk/), [SteamDetective](https://steamdetective.com/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
 * [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Super Steam Packer](https://cs.rin.ru/forum/viewtopic.php?f=29&t=131328) - Pack and Share Your Steam Games

@@ -66,7 +66,6 @@
 ## ▷ FOSS APKs
 
 * 🌐 **[Android FOSS](https://github.com/offa/android-foss)** or [AAA](https://github.com/Psyhackological/AAA) - FOSS App Indexes
-* 🌐 **[Awesome F-Droid](https://fdroid.tabler.dev/)** / [GitHub](https://github.com/moneytoo/awesome-fdroid)
 * ⭐ **[Droid-ify](https://droidify.app/)** / [GitHub](https://github.com/Droid-ify/client) or [Neo Store](https://github.com/NeoApplications/Neo-Store) / [Telegram](https://t.me/neo_android_store) - F-Droid Frontend Apps
 * ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Store / [Full App](https://f-droid.org/packages/org.fdroid.fdroid/) / [Basic App](https://f-droid.org/en/packages/org.fdroid.basic/) / [GitLab](https://gitlab.com/fdroid)
 * ⭐ **F-Droid Tools** - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
@@ -171,7 +170,7 @@
 * ⭐ **[piko (Twitter)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md), [⁠Nitterium](https://github.com/kaleedtc/Nitterium), [⁠QuaX](https://github.com/Teskann/QuaX) or [Squawker](https://github.com/j-fbriere/squawker) - Twitter / X Apps
 * ⭐ **[piko (Instagram)](https://github.com/crimera/piko)** / [Telegram](https://t.me/pikopatches) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/piko.md), [MyInsta](https://myinsta.dev/) / [Telegram](https://t.me/instasmashrepo) / [Discord](https://discord.com/invite/HqkMnY3yX5), [HushGram](https://github.com/SysAdminDoc/HushGram) or [⁠Instafel](https://instafel.mamii.dev/) / [GitHub](https://github.com/mamiiblt/instafel/) - Modded Instagram Clients / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/insta-android-critical.md)
 * ⭐ **[Voyager](https://vger.app) / [GitHub](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/LemmyNet/jerboa), [summit](https://play.google.com/store/apps/details?id=com.idunnololz.summit), [Raccoon](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients / [Index](https://join-lemmy.org/apps)
-* ⭐ **[Tusky](https://tusky.app/)**, [Mastodon Android](https://github.com/mastodon/mastodon-android), [Dhaaga](https://github.com/suvam0451/dhaaga), [Pachli](https://pachli.app/) / [GitHub](https://github.com/pachli/pachli-android) or [SubwayTooter](https://github.com/tateisu/SubwayTooter) - Mastodon Clients
+* ⭐ **[Tusky](https://tusky.app/)**, [Mastodon Android](https://github.com/mastodon/mastodon-android), [Dhaaga](https://github.com/suvam0451/dhaaga) or [Pachli](https://pachli.app/) / [GitHub](https://github.com/pachli/pachli-android) - Mastodon Clients
 * [Watomatic](https://watomatic.app/) / [Subreddit](https://www.reddit.com/r/watomatic/) / [GitHub](https://github.com/adeekshith/watomatic) or [AutoResponder](https://www.autoresponder.ai/) - Chat App Auto-Responders
 * [⁠Beeper](https://www.beeper.com/) / [GitHub](https://github.com/beeper) or [Openvibe](https://openvibe.social/) / [Discord](https://discord.gg/GduN6fB6NN) - Combine Chat / Social Media Apps
 * [Fedilab](https://fedilab.app/) - Multi-Platform Fediverse Client / [Source Code](https://codeberg.org/tom79/fedilab)
@@ -202,7 +201,6 @@
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
 * [Octogram](https://octogram.me/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
 * [Nullgram](https://github.com/qwq233/Nullgram/) or [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram) - Basic Client
-* [Cherrygram](https://arslan4k1390.github.io/cherrygram) - Advanced Client / [GitHub](https://github.com/arsLan4k1390/Cherrygram)
 
 ***
 
@@ -533,6 +531,7 @@
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
 * [⁠HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - Hide Applist
 * [JustUseApp](https://justuseapp.com/) - App Subscription Reviews
+* [⁠Fieldwatch](https://github.com/OffGridPete/Fieldwatch) - Receive-Only Wi-Fi & Bluetooth LE Observer
 
 ***
 
@@ -880,7 +879,7 @@
 # ► Android Audio
 
 * ↪️ **[Song Identification Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_song_identification)**
-* ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - Multi-Platform Streaming / [Moduels](https://github.com/rukamori/ArchiveTuneModules) / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
+* ⭐ **[⁠ArchiveTune](https://archivetune.miuka.moe/)** - Multi-Platform Streaming / [Modules](https://github.com/rukamori/ArchiveTuneModules) / [Telegram](https://t.me/ArchiveTuneGC) / [Discord](https://discord.com/invite/XF2fpb9rTq) / [GitHub](https://github.com/rukamori/ArchiveTune)
 * ⭐ **[⁠Seal+](https://sealplus.in/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/MaheshTechnicals/Sealplus)
 * ⭐ **[YTDLnis](https://ytdlnis.org/)** - Multi-Site Audio Downloader / [GitHub](https://github.com/deniscerri/ytdlnis)
 * ⭐ **[Mornye](https://mornye.com/)** - Multi-Site Audio Downloader / Playlists / [Extension](https://github.com/mornyeapp/Mornye-Extension) / [GitHub](https://github.com/mornyeapp/Mornye)
@@ -1018,7 +1017,7 @@
 * ⭐ **[CloudStream](https://github.com/recloudstream/cloudstream)** - Movies / TV / Anime
 * ⭐ **CloudStream Resources** - [Docs](https://cloudstream.miraheze.org/wiki/Main_Page), [2](https://recloudstream.github.io/csdocs/) / [Plugins](https://discord.com/invite/wpX5Rfcx87), [2](https://rentry.org/cs3-repos), [3](https://cloudstream.miraheze.org/wiki/List_of_extensions) / [Discord](https://discord.com/invite/5Hus6fM)
 * ⭐ **[⁠VyseTV](https://vysetv.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitLab](https://gitlab.com/ayman707-ux/vysetv)
-* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/EFD9CyAqFS)
+* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/PExYdyjCK4)
 * ⭐ **[Kodi](https://kodi.tv/)** - [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp)** or [Macast](https://xfangfang.github.io/Macast/) - Media Servers
 * [⁠SkyStream](https://github.com/akashdh11/skystream) - Movies / TV / Anime / [Discord](https://discord.gg/73XGA8Mxn9)
@@ -1457,7 +1456,7 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/EFD9CyAqFS)
+* ⭐ **[Shiopa Mobile](https://help.shiopa.com/docs/)** - Movies / TV / Anime / [Telegram](https://t.me/poprink) / [Discord](https://discord.gg/PExYdyjCK4)
 * ⭐ **[⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile)** or [⁠Nuvio Enhanced](https://github.com/luqmanfadlli/NuvioMobile-Enhanced) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) or [Stremio](https://www.stremio.com/) / [2](https://repo.omix4.one/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_stremio_.2F_nuvio_tools)
 * ⭐ **[⁠VyseTV](https://vysetv.cc/)** - Movies / TV / Anime / [Discord](https://discord.gg/bbkVHRHnRk) / [GitLab](https://gitlab.com/ayman707-ux/vysetv)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)

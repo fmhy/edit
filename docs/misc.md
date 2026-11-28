@@ -6,7 +6,7 @@
 
 # ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
+* 🌐 **[Awesome List Index](https://awesome.ecosyste.ms/) / [GitHub](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
 * 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_guides_.2F_indexes)**
@@ -918,7 +918,6 @@
 
 * 🌐 **[Porn Addiction Recovery Resources](https://xliwt.github.io/Recovery-resources/)**
 * ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
-* [EasyPeasy](https://easypeasymethod.org/), [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) or [DNS for Family](https://dnsforfamily.com/) - Family DNS Filters
@@ -926,6 +925,7 @@
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - Block NSFW Images
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
+* [EasyPeasy](https://easypeasymethod.org/), [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
 
 ***
 
@@ -1154,7 +1154,7 @@
 
 ***
 
-* 🌐 **[⁠Monerica](https://app.monerica.com/filter?Statuses=Verified)** - Monero-Friendly Site Index
+* 🌐 **[⁠Monerica](https://app.monerica.com/filter?Statuses=Verified)** or **[⁠XMRList](https://xmrlist.com/)** - Monero-Friendly Site / Service Indexes
 * ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Extension](https://github.com/FULU-Foundation/CRW-Extension) / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
 * ⭐ **[Parfumo](https://www.parfumo.com/)** - Fragrance Database / Reviews / Discovery / Collection Tracker
@@ -1292,7 +1292,7 @@
 * ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[⁠MouseCTRL](https://mousectrl.com/)**, [Viscose's Friction Sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/) or [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Comparison Chart
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
-* [⁠Mouse Finder](https://shapefinder.cc/) - Interactive Mouse Hand Matching Tool
+* [⁠Mouse Finder](https://shapefinder.cc/) - Interactive Mouse Hand Matching Tool + Mousepads, Keyboards & Monitors
 * [Shwamper's Skate Tierlist](https://docs.google.com/spreadsheets/d/1EUffzKOidRJ1W3-I1ocRd7yE_QDqXL58rUTOyC5ZBj4) - Mouse Dot Skate Recommendations / [X](https://x.com/shwamper5)
 
 ***

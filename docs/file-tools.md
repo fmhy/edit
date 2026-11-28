@@ -166,7 +166,7 @@
 
 * ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - File Recovery / [Source Code](https://git.cgsecurity.org/cgit/testdisk/tree/)
 * [R-Studio Technician](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (Search) - File Recovery
-* [DMDE](https://dmde.com/) - File Recovery
+* [DMDE](https://dmde.com/) - File Recovery / Partition Recovery
 * [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - File Recovery
 * [Windows File Recovery](https://apps.microsoft.com/detail/9n26s50ln705) - File Recovery
 * [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
@@ -199,7 +199,7 @@
 * [Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Alternate File Shredder](https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG) or [Delapp](https://github.com/differentrain/Delapp) - File Shredding
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Disk Partitioning / Data Recovery
 * [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm) - File Shredder with Disk Burning
-* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://shredos.com/) / [GitHub-(https://github.com/PartialVolume/shredos.x86_64) Complete Hard Drive Erasers
+* [Low Level Format](https://www.lowlevelformat.info/), [nwipe](https://github.com/martijnvanbrummelen/nwipe) or [ShredOS](https://shredos.com/) / [GitHub](https://github.com/PartialVolume/shredos.x86_64) Complete Hard Drive Erasers
 * [RED](https://www.jonasjohn.de/red.htm) / [GitHub](https://github.com/hxseven/Remove-Empty-Directories/) or [RED+](https://github.com/BookOfBeasts/Remove-Empty-Directories-Plus) - Remove Empty Directories 
 
 ***
@@ -209,9 +209,9 @@
 * ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)**, [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [Szyszka](https://github.com/qarmin/szyszka), [F2](https://github.com/ayoisaiah/f2), [Ant Renamer](https://www.antp.be/software/renamer), [Flut Renamer](https://github.com/sun-jiao/flut-renamer) or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - Bulk Renamers
 * [FoliCon](https://dineshsolanki.github.io/FoliCon/) - Automatic Custom Media Icons / Folders / [GitHub](https://github.com/DineshSolanki/FoliCon)
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
-* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) / [GitHub](https://github.com/komet/mediaelch) - Media Collection Managers
 * [FileBot](https://www.filebot.net/) - Media File Renaming
-* [TVRename](https://www.tvrename.com/) or [⁠Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
+* [TVRename](https://www.tvrename.com/) / [GitHub](https://github.com/TV-Rename/tvrename) or [⁠Rename My TV Series](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 
 ***

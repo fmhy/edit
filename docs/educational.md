@@ -1156,6 +1156,7 @@
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index
 * 🌐 **[Comprehensible Input Wiki](https://comprehensibleinputwiki.org/)** - Learn Languages via Comprehensible Input
+* ↪️ **[Word Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_word_games)**
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
 * ⭐ **[Yomitan](https://yomitan.wiki/)** - Popup Dictionary / [Japanese + Chinese](https://github.com/MarvNC/yomitan-dictionaries) / [Discord](https://discord.gg/3v22CATnyr)

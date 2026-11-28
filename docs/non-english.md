@@ -1741,7 +1741,6 @@
 * [DOL THPT](https://dolthpt.vn/) or [DOL IELTS](https://tuhoc.dolenglish.vn/) - Exam Prep
 * [Forumvi](https://www.forumvi.com/) - Forum Creator
 * [MuaThongMinh](https://muathongminh.vn/) - E-commerce Price Tracker
-* [Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet_Tieng_Viet) - Unity Game Engine Cheat Sheet
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
@@ -1751,10 +1750,10 @@
 
 * [⁠Sofaflix](https://vuonphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Threads](https://www.threads.com/@vuonphim_com) / [Telegram](https://t.me/sofaflixxx)
 * [kkphim](https://kkphim.com/), [2](https://kkphim2.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/phimnguon)
-* [NGUỒN C](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [NGUỒN C](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/+nGQkkhEvZuk5MGI1)
 * [⁠Trạm Phim](https://tramphim.beer/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Threads](https://www.threads.com/@tram_phim) / [Telegram](https://t.me/tramphimorgTV)
 * [AnimeTVN](https://animetvn.gay/) - Anime / Chinese Animation / Sub / 1080p
-* [AnimeVietsub](https://animevietsub.bid/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
+* [AnimeVietsub](https://animevietsub.zone/) - Anime / Chinese Animation / Sub / 1080p / [Telegram](https://t.me/animevietsub)
 * [⁠XemTV](https://hd1.xemtv.net/) - Live TV / 720p
 * [HCMUT ⁠Courseware](https://www.hcmut-courseware.org/courses) - Unofficial HCMUT Courses
 
@@ -1772,7 +1771,6 @@
 * ⭐ **[hoc10](https://hoc10.vn/)** - Textbooks, Study Material, Lecture Notes, etc.
 * ⭐ **[Thư Viện Pháp Luật](https://thuvienphapluat.vn/)** - Legal Information Portal / [Facebook](https://www.facebook.com/ThuVienPhapLuat.vn/)
 * ⭐ **[VietJack](https://vietjack.com/)**, **[LoiGiaiHay](https://loigiaihay.com/)**, **[VNDoc](https://vndoc.com/)** or **[Tech12h](https://tech12h.com/)** - Study References
-* [Thoát Porn Luận](https://thu-tram.github.io/tpl/) - Porn Quitting Guide / EasyPeasy Translation
 * [Thivien](https://www.thivien.net/) - Poetry
 * [tieulun](https://tieulun.hd.free.fr/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
@@ -1783,6 +1781,7 @@
 * [TruyenFull](https://truyenfull.live/) - Manga / Light Novels
 * [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Babla](https://vn.bab.la/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
+* [Thoát Porn Luận](https://thu-tram.github.io/tpl/) - Porn Quitting Guide / EasyPeasy Translation
 
 ***
 

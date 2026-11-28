@@ -64,7 +64,7 @@
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
 * [VHSTaPE](https://vhstaperepacks.com/) or [⁠Stevv Game](https://www.stevvgame.com/) - Download / [Discord](https://discord.gg/snbpB6pCK9)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent / [Discord](https://discord.com/invite/WF2pqPTFBs)
-* [PM2G Repacks](https://rentry.co/FMHYB64#pm2g) - Download / PW: `pm2g` / [Discord](https://discord.gg/38FRNdYAEM)
+* [PM2G Repacks](https://pm2g.srht.site/) - Download / PW: `pm2g` / [Discord](https://discord.gg/38FRNdYAEM)
 * [⁠Vanya Games](https://vanya-games.site/) - Download
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - Download / Torrent / [Discord](https://discord.com/invite/kw36u9cxd3)
 
@@ -365,7 +365,7 @@
 * [DLXbGame](https://dlxbgame.com/) - ROMs / Xbox 360 / Avoid PC Games
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [Wad Archive](https://archive.org/details/wadarchive) - 83k WAD Files
-*  [MarioCube](https://mariocube.com/) - Wii Game WADs
+* [MarioCube](https://mariocube.com/) - Wii Game WADs
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [AtariMania](https://www.atarimania.com/) - ROMs / Atari Consoles
 * [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [⁠MDK](https://mdk.cab/) or [Arcade Database](https://adb.arcadeitalia.net/default.php) - Arcade MAME ROMs
@@ -573,6 +573,7 @@
 * [⁠Wordsmyth](https://www.playwordsmyth.com/) - Daily Word Transformation Game
 * [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
 * [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
+* [⁠ScriptBlade](https://scriptblade.com/) - Multiplayer Word Battle Game
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [⁠TiledWords](https://tiledwords.com/) - Daily Tile Rotation Word Game
 * [⁠PlausibleGame](https://plausiblegame.com/) - Daily Word Game
@@ -985,6 +986,7 @@
 * [Road Rash](https://roadrash.pages.dev/) - Road Rash Adaptation ⁠
 * [⁠Swervle](https://swervle.com/) - Daily Racing Game / [Discord](https://discord.com/invite/sSP8ZEJ9Pn)
 * [slow roads](https://slowroads.io/) - Driving Game
+* [⁠LibreCorsa](https://librecorsa.org/) - Racing Game / [GitHub](https://github.com/librecorsa/librecorsa)
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 
 ***

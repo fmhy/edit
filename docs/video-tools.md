@@ -151,7 +151,7 @@
 * ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / Windows, macOS, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
 * ⭐ **OBS Tools** - [Tweaks](https://ctt.cx/video/obs/) / [Multi-Stream](https://sorayuki.github.io/obs-multi-rtmp/) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Smooth Zoom](https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
 * ⭐ **[Streamer.bot](https://streamer.bot/)** - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamerbot)
-* [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)
+* [⁠TikFinity](https://tikfinity.zerody.one/) / [Discord](https://discord.gg/uthtmVdpy8) or [EinzzTools](https://einzzcookie.org/) / [Telegram](https://t.me/tiktracksite) - TikTok Live Toolkits
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [⁠MeldStudio](https://meldstudio.co/) - Live Stream Manager / Windows, macOS
 * [StreamLabs](https://streamlabs.com/) - Live Stream Manager / Windows, macOS / [GitHub](https://github.com/streamlabs/desktop)
@@ -360,7 +360,7 @@
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
 * [quasar](https://quasar.surge.sh/) - Torrent Plugin
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
-* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
+* [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) / [GitHub](https://github.com/komet/mediaelch) - Media Collection Managers
 
 ***
 

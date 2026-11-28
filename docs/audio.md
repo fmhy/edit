@@ -414,7 +414,7 @@
 * [Rhythmax TIDAL Downloader](https://tidal.odskyler.com/) - Tidal / FLAC / [Discord](https://discord.gg/PAKgD6Jhfm)
 * [⁠cyan-dl](https://cyan-dl.pages.dev/) - Amazon Music Downloader
 * [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / 320kb MP3
-* [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
+* [vdwn.cloud](https://vdwn.cloud/), [2](https://vdriv.net), [3](ttps://mp4s.uk), [4](ttps://mp3s.uk) - Multi-Site / 320kb MP3
 * [⁠CYBROX](https://cybrox.pro/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
 * [⁠AudioFetcher](https://audiofetcher.com/) - Multi-Site / Opus / 320kb MP3 / [Discord](https://discord.gg/DFZaejcJfg)
@@ -827,9 +827,9 @@
 * ⭐ **[WACUP](https://getwacup.com/)** - Winamp Update Project / [Forum](https://getwacup.com/community/) / Windows / [Discord](https://discord.gg/5pVTdbj)
 * ⭐ **[AIMP](https://www.aimp.ru/)** - Feature-Rich Audio Player / [Addons](https://aimp.ru/?do=catalog) / Windows, Linux, Android
 * ⭐ **[MusicBee](https://getmusicbee.com/)** - Lightweight Audio Manager & Player / [Quality Badges](https://wiki.musichoarders.xyz/reference/musicbee/) / [Addons](https://getmusicbee.com/addons) / Windows
+* [Audion](https://audionplayer.com/) - Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [Astra](https://astramusic.dev/) - Audio Player / Windows, macOS, Linux / [Discord](https://discord.gg/CGESrnYfAy) / [GitHub](https://github.com/boof2015/astra)
 * [Namida](https://github.com/namidaco/namida) - Feature-Rich Audio & Video Player / Windows, Linux, Android / [Telegram](https://t.me/namida_official) / [Discord](https://discord.gg/WeY7DTVChT)
-* [Audion](https://audionplayer.com/) - Plugin-Based Audio Player / Windows, macOS, Linux, Android / [Discord](https://discord.gg/27XRVQsBd9) / [GitHub](https://github.com/dupitydumb/Audion)
 * [TimeStretch](https://29a.ch/timestretch/) - Simple Web-Based Audio Player
 * [MusikCube](https://github.com/clangen/musikcube) - Terminal-Based / Windows, macOS, Linux
 * [ncmpc++](https://github.com/ncmpcpp/ncmpcpp) - Terminal-Based / macOS, Linux

@@ -67,7 +67,7 @@
 * [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
 * [⁠Sakana Chat](https://chat.sakana.ai/) - Research Chatbot
 * [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
-* [Gemini Notebook](https://notebooklm.google.com/) - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/Az2N7BwV7r)
+* [Gemini Notebook](https://notebooklm.google.com/) - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.gg/gemininotebook)
 * [PrivateGPT](https://privategpt.dev/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
 * [Onyx](https://www.onyx.app/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
 * [DocsGPT](https://www.docsgpt.cloud/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)

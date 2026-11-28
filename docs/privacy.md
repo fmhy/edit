@@ -461,7 +461,7 @@
 * [Outline](https://getoutline.org/) - Shadowsocks Server / [Guide](https://docs.getoutline.com/s/hosting/) / [Subreddit](https://www.reddit.com/r/outlinevpn/) / [GitHub](https://github.com/Jigsaw-Code/)
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Proxy Server
 * [Scramjet](https://docs.titaniumnetwork.org/proxies/scramjet/) / [GitHub](https://github.com/MercuryWorkshop/scramjet/) or [Nebula](https://github.com/NebulaServices/Nebula) - Web Proxy Server
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Reverse Proxy UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* [Nginx Proxy Manager](https://nginxproxymanager.com) / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) or [⁠NPMplus](https://github.com/ZoeyVid/NPMplus) - Reverse Proxy UI
 
 ***
 

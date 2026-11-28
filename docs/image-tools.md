@@ -271,7 +271,7 @@
 
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
 * [Plasmic](https://www.plasmic.app/) - Design Collab App / Web
-* [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Invites](https://rentry.co/FMHYB64#canva)
+* [Canva](https://www.canva.com/) - Design App / Windows, macOS, Web / [Hide Pro Elements](https://greasyfork.org/scripts/591236) / [Invites](https://rentry.co/FMHYB64#canva)
 * [lunacy](https://icons8.com/lunacy) - Design App / Windows, macOS, Linux
 * [VistaCreate](https://create.vista.com/) - Design App / Web
 * [⁠Doory](https://doory.art/) - Design App / Web / [GitHub](https://github.com/shaongitbd/doory)
