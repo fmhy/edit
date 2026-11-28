@@ -2336,6 +2336,8 @@ function isSamePageComparison(destPath: string) {
   min-height: 0;
   outline: none;
   gap: 6px;
+  padding-right: 6px;
+  margin-right: -6px;
   overflow-x: hidden;
   overflow-y: auto;
   overscroll-behavior: contain;
@@ -2835,12 +2837,12 @@ svg {
   .category-filters::-webkit-scrollbar-thumb {
     border: 2px solid transparent;
     border-radius: 999px;
-    background-color: var(--vp-c-text-3);
+    background-color: var(--fmhy-scrollbar-thumb);
     background-clip: content-box;
   }
 
   .category-filters::-webkit-scrollbar-thumb:hover {
-    background-color: var(--vp-c-text-2);
+    background-color: var(--vp-c-text-3);
   }
 }
 
@@ -2848,11 +2850,11 @@ svg {
   .category-filters {
     padding-bottom: 8px;
     margin-bottom: -8px;
-    scrollbar-color: var(--vp-c-text-3) transparent;
+    scrollbar-color: var(--fmhy-scrollbar-thumb) transparent;
   }
 
   .category-filters:hover {
-    scrollbar-color: var(--vp-c-text-2) transparent;
+    scrollbar-color: var(--vp-c-text-3) transparent;
   }
 }
 
